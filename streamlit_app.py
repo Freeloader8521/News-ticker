@@ -121,7 +121,12 @@ def show(col, title, arr):
     col.subheader(title)
     for it in arr[:120]:
         with col.expander(it["title"]):
-            col.caption(f"{it.get('source','')} | {it.get('published_at','')} | {', '.join(it.get('tags',[]))}")
+           geo = it.get("geo", {}) or {}
+locbits = [geo.get("airport"), geo.get("city"), geo.get("country")]
+loc = " | ".join([x for x in locbits if x])
+tags = ", ".join(it.get("tags",[]))
+col.caption(f"{it.get('source','')} | {it.get('published_at','')}" + (f" | {loc}" if loc else "") + (f" | {tags}" if tags else ""))
+
             if it.get("summary"):
                 col.write(it["summary"])
             col.write(f"[Open source]({it['url']})")
