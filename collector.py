@@ -3,13 +3,14 @@
 Collector for the Global Situational Awareness Dashboard.
 
 - Reads feeds from feeds.yaml
-- Filters by watch_terms.yaml (airport/security or diplomatic)
+- Filters by watch_terms.yaml (keeps items that match airport/security or diplomatic)
 - Strips HTML
-- Adds airport geo + lat/lon from airports.json (no country inference from text)
-- Translates non-English titles/summaries to English (best-effort)
-- If a post has no title, uses first line of the summary as title (social feeds esp.)
+- Matches airports by alias/IATA and injects geo (iata, city, country) + lat/lon
+- Stores BOTH originals and English translations:
+    title_orig, summary_orig, lang, title_en, summary_en
+- Social posts without a title -> first line of the content as title
 - Classifies: major news / local news / social
-- De-dupes newest and writes data.json
+- De-dupes by newest and writes data.json
 """
 
 import re
@@ -23,7 +24,7 @@ import yaml
 from dateutil import parser as dtparse
 from bs4 import BeautifulSoup
 from langdetect import detect, LangDetectException
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 
 # ----------------------------- Basics -----------------------------
 def now_utc() -> datetime:
@@ -44,8 +45,7 @@ def clean_source(feed_title: str, url: str) -> str:
         return t
     return get_domain(url)
 
-UA = {"User-Agent": "GSA-Collector/1.3 (+https://streamlit.app)"}
-translator = Translator(service_urls=["translate.googleapis.com"])
+UA = {"User-Agent": "GSA-Collector/1.4 (+https://streamlit.app)"}
 
 def strip_html(raw: str) -> str:
     if not raw:
@@ -53,7 +53,7 @@ def strip_html(raw: str) -> str:
     try:
         return BeautifulSoup(raw, "html.parser").get_text(" ", strip=True)
     except Exception:
-        return re.sub(r"<[^>]+>", "", raw)
+        return re.sub(r"<[^>]+>", "", raw or "")
 
 def safe_detect(text: str) -> str:
     try:
@@ -64,13 +64,10 @@ def safe_detect(text: str) -> str:
 def to_english(s: str) -> str:
     if not s:
         return s
-    lang = safe_detect(s)
-    if lang == "en":
-        return s
     try:
-        return translator.translate(s, src=lang, dest="en").text
+        return GoogleTranslator(source="auto", target="en").translate(s)
     except Exception:
-        return s  # fall back if translation fails
+        return s  # best-effort
 
 # ----------------------------- Feeds -----------------------------
 try:
@@ -176,12 +173,13 @@ def fetch_feed(url: str):
         return get_domain(url), []
 
 def derive_title(raw_title: str, summary: str) -> str:
-    t = strip_html(raw_title).strip()
+    t = strip_html(raw_title or "").strip()
     if t and t.lower() != "(no title)":
         return t
-    # use first sentence/line of summary
-    first = (summary or "").strip().splitlines()[0][:160]
-    return first if first else "(no title)"
+    # first non-empty line up to ~160 chars
+    s = (summary or "").strip().splitlines()
+    first = next((ln for ln in s if ln.strip()), "")
+    return (first[:160] if first else "(no title)")
 
 def normalise(entry, feedtitle: str, declared_type: str):
     url = entry.get("link", "") or entry.get("id", "") or ""
@@ -192,12 +190,13 @@ def normalise(entry, feedtitle: str, declared_type: str):
     summary_clean = strip_html(raw_summary)
     title_clean = derive_title(raw_title, summary_clean)
 
-    # Translate (best-effort)
-    title_en = to_english(title_clean)
-    summary_en = to_english(summary_clean)
+    # Detect + translate
+    lang = safe_detect(f"{title_clean} {summary_clean}")
+    title_en = title_clean if lang == "en" else to_english(title_clean)
+    summary_en = summary_clean if lang == "en" else to_english(summary_clean)
 
-    text = f"{title_en} {summary_en}"
-    if should_exclude(text):
+    text_for_filter = f"{title_en} {summary_en}"
+    if should_exclude(text_for_filter):
         return None
 
     # Time
@@ -215,10 +214,10 @@ def normalise(entry, feedtitle: str, declared_type: str):
     src_dom = get_domain(url)
     src_name = clean_source(feedtitle, url)
 
-    # Tags & geo (geo ONLY from airports)
-    item_tags = tags_for(text)
+    # Tags & geo (geo ONLY from airport match)
+    item_tags = tags_for(text_for_filter)
     geo = {}
-    ap = match_airport(text)
+    ap = match_airport(text_for_filter)
     if ap:
         geo = {
             "airport": ap.get("name"),
@@ -234,7 +233,7 @@ def normalise(entry, feedtitle: str, declared_type: str):
         if ap.get("country"):
             item_tags.append(ap["country"])
 
-    # Only keep relevant
+    # Keep only relevant
     if not (("airport/security" in item_tags) or ("diplomatic" in item_tags)):
         return None
 
@@ -243,11 +242,19 @@ def normalise(entry, feedtitle: str, declared_type: str):
 
     return {
         "id": sha1_16(url or title_en),
+        # originals + translations
+        "title_orig": title_clean,
+        "summary_orig": summary_clean,
+        "lang": lang,
+        "title_en": title_en,
+        "summary_en": summary_en,
+        # legacy convenience (English by default)
         "title": title_en,
+        "summary": summary_en,
+
         "url": url,
         "source": src_name,
         "published_at": pub.isoformat(),
-        "summary": summary_en,
         "tags": item_tags,
         "type": item_type,
         "geo": geo
@@ -292,5 +299,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
