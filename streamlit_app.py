@@ -17,12 +17,27 @@ COUNTRY_FLAGS = {
     "United Kingdom": "🇬🇧", "United States": "🇺🇸", "Canada": "🇨🇦",
     "France": "🇫🇷", "Germany": "🇩🇪", "Netherlands": "🇳🇱", "Spain": "🇪🇸",
     "Italy": "🇮🇹", "Ireland": "🇮🇪", "Switzerland": "🇨🇭", "Austria": "🇦🇹",
-    "United Arab Emirates": "🇦🇪", "Qatar": "🇶🇦", "Türkiye": "🇹🇷",
-    "Singapore": "🇸🇬", "Hong Kong": "🇭🇰", "Japan": "🇯🇵", "South Korea": "🇰🇷",
-    "Thailand": "🇹🇭", "Malaysia": "🇲🇾", "India": "🇮🇳", "China": "🇨🇳",
-    "Philippines": "🇵🇭", "Indonesia": "🇮🇩", "Australia": "🇦🇺", "New Zealand": "🇳🇿",
-    "South Africa": "🇿🇦", "Kenya": "🇰🇪", "Egypt": "🇪🇬", "Brazil": "🇧🇷",
-    "Argentina": "🇦🇷", "Mexico": "🇲🇽"
+    "Belgium": "🇧🇪", "Luxembourg": "🇱🇺", "Denmark": "🇩🇰", "Norway": "🇳🇴",
+    "Sweden": "🇸🇪", "Finland": "🇫🇮", "Iceland": "🇮🇸", "Poland": "🇵🇱",
+    "Czech Republic": "🇨🇿", "Slovakia": "🇸🇰", "Hungary": "🇭🇺",
+    "Romania": "🇷🇴", "Bulgaria": "🇧🇬", "Greece": "🇬🇷", "Croatia": "🇭🇷",
+    "Slovenia": "🇸🇮", "Türkiye": "🇹🇷",
+
+    "United Arab Emirates": "🇦🇪", "Qatar": "🇶🇦", "Saudi Arabia": "🇸🇦",
+    "Iran": "🇮🇷", "Iraq": "🇮🇶", "Jordan": "🇯🇴", "Lebanon": "🇱🇧",
+    "Israel": "🇮🇱", "Palestine": "🇵🇸",
+
+    "Singapore": "🇸🇬", "Hong Kong": "🇭🇰", "China": "🇨🇳", "Japan": "🇯🇵",
+    "South Korea": "🇰🇷", "North Korea": "🇰🇵", "India": "🇮🇳",
+    "Thailand": "🇹🇭", "Malaysia": "🇲🇾", "Philippines": "🇵🇭",
+    "Indonesia": "🇮🇩", "Australia": "🇦🇺", "New Zealand": "🇳🇿",
+
+    "Brazil": "🇧🇷", "Argentina": "🇦🇷", "Chile": "🇨🇱", "Mexico": "🇲🇽",
+
+    "South Africa": "🇿🇦", "Kenya": "🇰🇪", "Egypt": "🇪🇬",
+    "Nigeria": "🇳🇬", "Ghana": "🇬🇭",
+}
+
 }
 
 # ------------------------- Floating crest -------------------------
