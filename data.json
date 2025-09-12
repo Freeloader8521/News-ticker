@@ -1,7 +1,110 @@
 {
-  "generated_at": "2025-09-11T19:04:28.998862Z",
-  "items": [],
-  "trends": {
-    "top_terms": []
-  }
+  "generated_at": "2025-09-12T11:55:48.447588+00:00",
+  "items": [
+    {
+      "id": "f33404a96215b0e9",
+      "title": "Ukraine launches 221 drones on Russia, Moscow says",
+      "url": "https://www.bbc.com/news/articles/cderllgw84ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-12T11:04:16+00:00",
+      "summary": "The overnight attack is the largest since May, but follows much larger bombardments from Russia.",
+      "tags": [
+        "airport/security"
+      ],
+      "confidence": "medium",
+      "type": "news"
+    },
+    {
+      "id": "5463aa5c53eed09d",
+      "title": "South Korean workers detained in US raid arrive home",
+      "url": "https://www.bbc.com/news/articles/cn0r434g5k1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-12T07:46:12+00:00",
+      "summary": "Media and some protesters gather at the airport as more than 300 workers detained in the US last week return.",
+      "tags": [
+        "airport/security"
+      ],
+      "confidence": "medium",
+      "type": "news"
+    },
+    {
+      "id": "37886b905e31d408",
+      "title": "'Looks like a toy, but it's real': BBC examines a downed Russian drone",
+      "url": "https://www.bbc.com/news/videos/czewd31724lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-12T02:55:48+00:00",
+      "summary": "Drones like this one were shot down over Polish airspace in the early hours of Wednesday.",
+      "tags": [
+        "airport/security"
+      ],
+      "confidence": "medium",
+      "type": "news"
+    },
+    {
+      "id": "fb42d6a305403682",
+      "title": "Worried migrants head home from India after Nepal turmoil",
+      "url": "https://www.bbc.com/news/articles/c15kzx99qevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-11T23:50:46+00:00",
+      "summary": "Nepalis rush home from India as deadly protests have engulfed the Himalayan nation.",
+      "tags": [
+        "airport/security"
+      ],
+      "confidence": "medium",
+      "type": "news"
+    },
+    {
+      "id": "1894911a63f2eb94",
+      "title": "Nato strengthens defences after Russian drones shot down over Poland",
+      "url": "https://www.bbc.com/news/articles/c0lkz2n34z6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-11T23:46:28+00:00",
+      "summary": "Germany, the Netherlands and the Czech Republic will be sending Poland more support to defend Nato's eastern flank.",
+      "tags": [
+        "airport/security"
+      ],
+      "confidence": "medium",
+      "type": "news"
+    },
+    {
+      "id": "4fe8e1e2ed8a5fc2",
+      "title": "Israeli strikes in Yemen kill 35 people, Houthis say",
+      "url": "https://www.bbc.com/news/articles/c179e5v552ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-11T11:00:49+00:00",
+      "summary": "The Israeli military says it hit military targets, but the Houthis say only civilian sites were targeted.",
+      "tags": [
+        "airport/security"
+      ],
+      "confidence": "medium",
+      "type": "news"
+    },
+    {
+      "id": "f685ce70e92f9230",
+      "title": "Putin and Netanyahu present twin challenges to Trump's diplomacy",
+      "url": "https://www.bbc.com/news/articles/cvg9pnpqm2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-10T19:44:52+00:00",
+      "summary": "Israel's strikes in Doha and the Russian drone incursion could present major affronts to his authority.",
+      "tags": [
+        "airport/security"
+      ],
+      "confidence": "medium",
+      "type": "news"
+    },
+    {
+      "id": "13ea08e07d8c3612",
+      "title": "Accidental or deliberate? Russia's drone incursion into Poland is a test for Nato",
+      "url": "https://www.bbc.com/news/articles/clydk8821nro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-10T18:56:48+00:00",
+      "summary": "Whether the drone incursion was deliberate or accidental, Moscow will be watching Nato's response to it closely.",
+      "tags": [
+        "airport/security"
+      ],
+      "confidence": "medium",
+      "type": "news"
+    }
+  ],
+  "trends": {}
 }
