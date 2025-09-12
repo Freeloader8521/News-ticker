@@ -252,12 +252,14 @@ for it in items_sorted:
 if coords:
     df = pd.DataFrame(coords)
     layer = pdk.Layer(
-        "ScatterplotLayer",
-        df,
-        get_position=["lon", "lat"],
-        get_radius=40000,
-        pickable=True,
-    )
+    "ScatterplotLayer",
+    df,
+    get_position=["lon", "lat"],
+    get_radius=60000,              # 60 km visual radius
+    get_fill_color=[255, 100, 0, 200],  # bright orange, semi-opaque
+    pickable=True,
+)
+
     view = pdk.ViewState(latitude=20, longitude=0, zoom=1.5)
     st.pydeck_chart(pdk.Deck(layers=[layer], initial_view_state=view, tooltip={"text": "{title}\n{info}"}))
 else:
