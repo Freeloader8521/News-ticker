@@ -38,8 +38,6 @@ COUNTRY_FLAGS = {
     "Nigeria": "🇳🇬", "Ghana": "🇬🇭",
 }
 
-}
-
 # ------------------------- Floating crest -------------------------
 def _crest_html():
     for fname, mime in (("crest.png","image/png"), ("crest.jpg","image/jpeg"), ("crest.jpeg","image/jpeg")):
