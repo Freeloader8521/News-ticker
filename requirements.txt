@@ -5,3 +5,5 @@ feedparser==6.0.11
 PyYAML==6.0.2
 beautifulsoup4
 pytz
+pandas
+pydeck
