@@ -1,32 +1,23 @@
 {
-  "generated_at": "2025-09-12T21:38:25.569033+00:00",
+  "generated_at": "2025-09-12T22:32:29.086438+00:00",
   "items": [
     {
-      "id": "e9d7bb1607a96b3c",
-      "title_orig": "Special Weather Statement issued September 12 at 2:19PM MST by NWS Flagstaff AZ",
-      "summary_orig": "At 219 PM MST /319 PM MDT/, Doppler radar was tracking a strong\nthunderstorm 8 miles south of Chinle Municipal Airport, or 11 miles\nsouth of Chinle, moving northeast at 35 mph.\n\nHAZARD...Wind gusts up to 40 mph and half inch size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Gusty winds could knock down tree limbs and blow around\nunsecured objects. Minor damage to outdoor objects is possible.\n\nLocations impacted include...\nChinle, Chinle Municipal Airport, Del Muerto, Canyon De Chelly\nNational Monument, Mummy Cave Overlook, Nazlini and Flat Rock.\n\nThis includes Highway 191 between mile markers 429 and 454.\n\nThis includes the following recreation areas and campgrounds...\nCottonwood Campground, Tsegi Overlook, Junction Overlook, White\nHouse Overlook and Antelope House Overlook.",
+      "id": "a1e95a80ee84625a",
+      "title_orig": "NATO Steps Up Defenses After Russian Drones Violate Polish Airspace",
+      "summary_orig": "Increased air patrols, air defense systems and other protections will be mobilized over Eastern Europe.",
       "lang": "en",
-      "title_en": "Special Weather Statement issued September 12 at 2:19PM MST by NWS Flagstaff AZ",
-      "summary_en": "At 219 PM MST /319 PM MDT/, Doppler radar was tracking a strong\nthunderstorm 8 miles south of Chinle Municipal Airport, or 11 miles\nsouth of Chinle, moving northeast at 35 mph.\n\nHAZARD...Wind gusts up to 40 mph and half inch size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Gusty winds could knock down tree limbs and blow around\nunsecured objects. Minor damage to outdoor objects is possible.\n\nLocations impacted include...\nChinle, Chinle Municipal Airport, Del Muerto, Canyon De Chelly\nNational Monument, Mummy Cave Overlook, Nazlini and Flat Rock.\n\nThis includes Highway 191 between mile markers 429 and 454.\n\nThis includes the following recreation areas and campgrounds...\nCottonwood Campground, Tsegi Overlook, Junction Overlook, White\nHouse Overlook and Antelope House Overlook.",
-      "title": "Special Weather Statement issued September 12 at 2:19PM MST by NWS Flagstaff AZ",
-      "summary": "At 219 PM MST /319 PM MDT/, Doppler radar was tracking a strong\nthunderstorm 8 miles south of Chinle Municipal Airport, or 11 miles\nsouth of Chinle, moving northeast at 35 mph.\n\nHAZARD...Wind gusts up to 40 mph and half inch size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Gusty winds could knock down tree limbs and blow around\nunsecured objects. Minor damage to outdoor objects is possible.\n\nLocations impacted include...\nChinle, Chinle Municipal Airport, Del Muerto, Canyon De Chelly\nNational Monument, Mummy Cave Overlook, Nazlini and Flat Rock.\n\nThis includes Highway 191 between mile markers 429 and 454.\n\nThis includes the following recreation areas and campgrounds...\nCottonwood Campground, Tsegi Overlook, Junction Overlook, White\nHouse Overlook and Antelope House Overlook.",
-      "url": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f9bd066c481a808e6eb562bac9fd48dba58bc9a1.001.1.cap",
-      "source": "Current watches, warnings, and advisories for United States land zones",
-      "published_at": "2025-09-12T21:19:00+00:00",
+      "title_en": "NATO Steps Up Defenses After Russian Drones Violate Polish Airspace",
+      "summary_en": "Increased air patrols, air defense systems and other protections will be mobilized over Eastern Europe.",
+      "title": "NATO Steps Up Defenses After Russian Drones Violate Polish Airspace",
+      "summary": "Increased air patrols, air defense systems and other protections will be mobilized over Eastern Europe.",
+      "url": "https://www.nytimes.com/2025/09/12/world/europe/nato-eastern-europe-drone-defenses.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-12T21:44:08+00:00",
       "tags": [
-        "DEL",
-        "India",
         "airport/security"
       ],
       "type": "major news",
-      "geo": {
-        "airport": "Indira Gandhi",
-        "city": "Delhi",
-        "country": "India",
-        "iata": "DEL",
-        "lat": 28.5562,
-        "lon": 77.1
-      }
+      "geo": {}
     },
     {
       "id": "ba8984cfb2ec5c07",
@@ -155,42 +146,6 @@
       "geo": {}
     },
     {
-      "id": "7c7189ac2e7a9b5c",
-      "title_orig": "E3 Foreign Ministers statement on Israeli strikes in Doha",
-      "summary_orig": "Statement on behalf of the Foreign Ministers of France, Germany and the UK on Israeli strikes on Doha on 9 September",
-      "lang": "en",
-      "title_en": "E3 Foreign Ministers statement on Israeli strikes in Doha",
-      "summary_en": "Statement on behalf of the Foreign Ministers of France, Germany and the UK on Israeli strikes on Doha on 9 September",
-      "title": "E3 Foreign Ministers statement on Israeli strikes in Doha",
-      "summary": "Statement on behalf of the Foreign Ministers of France, Germany and the UK on Israeli strikes on Doha on 9 September",
-      "url": "https://www.gov.uk/government/news/e3-foreign-ministers-statement-on-israeli-strikes-in-doha",
-      "source": "News and communications",
-      "published_at": "2025-09-12T17:24:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "a1e95a80ee84625a",
-      "title_orig": "NATO Steps Up Defenses After Russian Drones Violate Polish Airspace",
-      "summary_orig": "Increased air patrols, air defense systems and other protections will be mobilized over Eastern Europe.",
-      "lang": "en",
-      "title_en": "NATO Steps Up Defenses After Russian Drones Violate Polish Airspace",
-      "summary_en": "Increased air patrols, air defense systems and other protections will be mobilized over Eastern Europe.",
-      "title": "NATO Steps Up Defenses After Russian Drones Violate Polish Airspace",
-      "summary": "Increased air patrols, air defense systems and other protections will be mobilized over Eastern Europe.",
-      "url": "https://www.nytimes.com/2025/09/12/world/europe/nato-eastern-europe-drone-defenses.html",
-      "source": "NYT > World News",
-      "published_at": "2025-09-12T17:18:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "5a197032b410cb43",
       "title_orig": "Nato announces more air support to defend Poland against future Russian incursions",
       "summary_orig": "France, Germany and Denmark to contribute fighter jets and other assets in mission also expected to involve UK France, Germany and Denmark will contribute fighter jets and other military assets to an enhanced defence of Poland against future Russian drone incursions, Nato leaders announced at a press conference on Friday. The UK is also expected contribute to the Eastern Sentry mission, which will gradually be expanded across from the Arctic in the north to the Black Sea and Mediterranean in the south to better tackle Russian drones and missiles. Continue reading...",
@@ -264,13 +219,13 @@
     },
     {
       "id": "4e09d24ef0f74463",
-      "title_orig": "Israeli attacks on Gaza kill 59, including 14 members of the same family",
-      "summary_orig": "At least 42 killed in Gaza City as Gaza authorities claim some 1.3 million people remain in north of bombarded enclave.",
+      "title_orig": "Israeli attacks on Gaza kill 65, including 14 members of the same family",
+      "summary_orig": "At least 48 killed in Gaza City as Gaza authorities claim some 1.3 million people remain in north of bombarded enclave.",
       "lang": "en",
-      "title_en": "Israeli attacks on Gaza kill 59, including 14 members of the same family",
-      "summary_en": "At least 42 killed in Gaza City as Gaza authorities claim some 1.3 million people remain in north of bombarded enclave.",
-      "title": "Israeli attacks on Gaza kill 59, including 14 members of the same family",
-      "summary": "At least 42 killed in Gaza City as Gaza authorities claim some 1.3 million people remain in north of bombarded enclave.",
+      "title_en": "Israeli attacks on Gaza kill 65, including 14 members of the same family",
+      "summary_en": "At least 48 killed in Gaza City as Gaza authorities claim some 1.3 million people remain in north of bombarded enclave.",
+      "title": "Israeli attacks on Gaza kill 65, including 14 members of the same family",
+      "summary": "At least 48 killed in Gaza City as Gaza authorities claim some 1.3 million people remain in north of bombarded enclave.",
       "url": "https://www.aljazeera.com/news/2025/9/12/israeli-attacks-on-gaza-kill-59-including-14-members-of-the-same-family?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
       "published_at": "2025-09-12T16:44:12+00:00",
@@ -335,6 +290,24 @@
       "geo": {}
     },
     {
+      "id": "4b3e3eb705b34d04",
+      "title_orig": "British Embassy Dublin achieves autism accreditation",
+      "summary_orig": "The British Embassy Dublin has officially achieved its AsIAm autism accreditation, becoming the first autism-friendly embassy in the FCDO network.",
+      "lang": "en",
+      "title_en": "British Embassy Dublin achieves autism accreditation",
+      "summary_en": "The British Embassy Dublin has officially achieved its AsIAm autism accreditation, becoming the first autism-friendly embassy in the FCDO network.",
+      "title": "British Embassy Dublin achieves autism accreditation",
+      "summary": "The British Embassy Dublin has officially achieved its AsIAm autism accreditation, becoming the first autism-friendly embassy in the FCDO network.",
+      "url": "https://www.gov.uk/government/news/british-embassy-dublin-achieves-autism-accreditation",
+      "source": "News and communications",
+      "published_at": "2025-09-12T12:35:42+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "45bdcaa16c5cb35c",
       "title_orig": "South Korea outraged at 300 workers treated as ‘prisoners of war’ in US raid",
       "summary_orig": "As Hyundai-LG workers fly home after visa ordeal, Koreans bristle at ‘humiliation’ and sense of betrayal by Seoul’s ally More than 300 South Korean workers arrived at Incheon international airport on Friday afternoon, ending a week-long ordeal that began with the US Department of Homeland Security’s largest ever single-site raid by Immigration and Customs Enforcement (ICE) agents, and has left South Korea questioning whether it can trust its closest ally. The 316 Koreans, along with 14 workers of other nationalities, landed shortly after 3pm local time on a chartered Korean Air flight after being detained since 4 September at a Hyundai-LG battery plant construction site in Georgia. Continue reading...",
@@ -380,24 +353,6 @@
       "geo": {}
     },
     {
-      "id": "d8b161eb97f80ac7",
-      "title_orig": "After shock Israeli attack on their city, Doha’s residents voice unease",
-      "summary_orig": "Our correspondent takes in the mood in the Qatari capital after an Israeli attack on a Hamas meeting this week.",
-      "lang": "en",
-      "title_en": "After shock Israeli attack on their city, Doha’s residents voice unease",
-      "summary_en": "Our correspondent takes in the mood in the Qatari capital after an Israeli attack on a Hamas meeting this week.",
-      "title": "After shock Israeli attack on their city, Doha’s residents voice unease",
-      "summary": "Our correspondent takes in the mood in the Qatari capital after an Israeli attack on a Hamas meeting this week.",
-      "url": "https://www.aljazeera.com/editorial/2025/9/12/after-shock-israeli-attack-on-their-city-dohas-residents-voice-unease?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-09-12T11:52:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "8a31a503de256c9e",
       "title_orig": "Number of dead in Nepal anti-corruption protests rises to 51",
       "summary_orig": "The number of people who died during anti-corruption protests in Nepal has risen to 51, police said.",
@@ -409,6 +364,24 @@
       "url": "https://news.sky.com/story/number-of-dead-in-nepal-anti-corruption-protests-rises-to-51-13429091",
       "source": "World News - Breaking international news and headlines | Sky News",
       "published_at": "2025-09-12T11:22:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "17b2ec97c53f9f3f",
+      "title_orig": "Russia-Belarus drills begin as tensions high after drone incursion in Poland",
+      "summary_orig": "Thousands of troops are taking part in a joint military exercise between Russia and Belarus, as tensions with the EU run high following a Russian drone incursion into Polish airspace earlier this week.",
+      "lang": "en",
+      "title_en": "Russia-Belarus drills begin as tensions high after drone incursion in Poland",
+      "summary_en": "Thousands of troops are taking part in a joint military exercise between Russia and Belarus, as tensions with the EU run high following a Russian drone incursion into Polish airspace earlier this week.",
+      "title": "Russia-Belarus drills begin as tensions high after drone incursion in Poland",
+      "summary": "Thousands of troops are taking part in a joint military exercise between Russia and Belarus, as tensions with the EU run high following a Russian drone incursion into Polish airspace earlier this week.",
+      "url": "https://news.sky.com/story/russia-belarus-drills-begin-as-tensions-high-after-drone-incursion-in-poland-13429147",
+      "source": "World News - Breaking international news and headlines | Sky News",
+      "published_at": "2025-09-12T09:37:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -524,24 +497,6 @@
       "geo": {}
     },
     {
-      "id": "5089ba65629ea72f",
-      "title_orig": "Archaeologists scramble to evacuate Gaza artefacts threatened by Israeli strike",
-      "summary_orig": "Officials hurriedly remove nearly three decades of finds in ‘high-risk operation’ An official in charge of nearly three decades of archaeological finds in Gaza has described how the artefacts were hurriedly evacuated from a Gaza City building threatened by an Israeli strike. “This was a high-risk operation, carried out in an extremely dangerous context for everyone involved – a real last-minute rescue,” said Olivier Poquillon, director of the French Biblical and Archaeological School of Jerusalem (EBAF), which housed the relics. Continue reading...",
-      "lang": "en",
-      "title_en": "Archaeologists scramble to evacuate Gaza artefacts threatened by Israeli strike",
-      "summary_en": "Officials hurriedly remove nearly three decades of finds in ‘high-risk operation’ An official in charge of nearly three decades of archaeological finds in Gaza has described how the artefacts were hurriedly evacuated from a Gaza City building threatened by an Israeli strike. “This was a high-risk operation, carried out in an extremely dangerous context for everyone involved – a real last-minute rescue,” said Olivier Poquillon, director of the French Biblical and Archaeological School of Jerusalem (EBAF), which housed the relics. Continue reading...",
-      "title": "Archaeologists scramble to evacuate Gaza artefacts threatened by Israeli strike",
-      "summary": "Officials hurriedly remove nearly three decades of finds in ‘high-risk operation’ An official in charge of nearly three decades of archaeological finds in Gaza has described how the artefacts were hurriedly evacuated from a Gaza City building threatened by an Israeli strike. “This was a high-risk operation, carried out in an extremely dangerous context for everyone involved – a real last-minute rescue,” said Olivier Poquillon, director of the French Biblical and Archaeological School of Jerusalem (EBAF), which housed the relics. Continue reading...",
-      "url": "https://www.theguardian.com/world/2025/sep/11/antiquities-evacuated-from-gaza-city-storehouse-ahead-of-israeli-strike",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-11T20:17:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "04648b14c6e7d261",
       "title_orig": "Drone Barrage Over Poland Was a Test for NATO, and the U.S.",
       "summary_orig": "A continent already on edge over the Ukraine war sees a Russian challenge to NATO readiness and to an America that wants to disengage from Europe.",
@@ -625,60 +580,6 @@
       "url": "https://www.gov.uk/aaib-reports/aaib-investigation-to-pegasus-quik-g-cdop",
       "source": "Air Accidents Investigation Branch reports",
       "published_at": "2025-09-11T09:00:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "7507844159f505de",
-      "title_orig": "Qatari PM says Israel 'killed any hope' of releasing hostages as criticism over Doha attack intensifies",
-      "summary_orig": "Qatar's prime minister said Israel has \"killed any hope\" of seeing more hostages returned from Gaza after carrying out an attack targeting Hamas leadership in his country.",
-      "lang": "en",
-      "title_en": "Qatari PM says Israel 'killed any hope' of releasing hostages as criticism over Doha attack intensifies",
-      "summary_en": "Qatar's prime minister said Israel has \"killed any hope\" of seeing more hostages returned from Gaza after carrying out an attack targeting Hamas leadership in his country.",
-      "title": "Qatari PM says Israel 'killed any hope' of releasing hostages as criticism over Doha attack intensifies",
-      "summary": "Qatar's prime minister said Israel has \"killed any hope\" of seeing more hostages returned from Gaza after carrying out an attack targeting Hamas leadership in his country.",
-      "url": "https://news.sky.com/story/qatari-pm-says-israel-killed-any-hope-of-releasing-hostages-as-criticism-over-doha-attack-intensifies-13428564",
-      "source": "World News - Breaking international news and headlines | Sky News",
-      "published_at": "2025-09-11T07:52:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f460d9d8de8383a9",
-      "title_orig": "Journalist whose wife and children killed in Gaza says 'world treating us with indifference'",
-      "summary_orig": "A prominent Palestinian journalist whose close family members were killed in Gaza airstrikes says the world is \"treating us with indifference\" - as he accused Israel of committing genocide.",
-      "lang": "en",
-      "title_en": "Journalist whose wife and children killed in Gaza says 'world treating us with indifference'",
-      "summary_en": "A prominent Palestinian journalist whose close family members were killed in Gaza airstrikes says the world is \"treating us with indifference\" - as he accused Israel of committing genocide.",
-      "title": "Journalist whose wife and children killed in Gaza says 'world treating us with indifference'",
-      "summary": "A prominent Palestinian journalist whose close family members were killed in Gaza airstrikes says the world is \"treating us with indifference\" - as he accused Israel of committing genocide.",
-      "url": "https://news.sky.com/story/journalist-whose-wife-and-children-killed-in-gaza-says-world-treating-us-with-indifference-13428179",
-      "source": "World News - Breaking international news and headlines | Sky News",
-      "published_at": "2025-09-10T23:01:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "472e936f69a72c48",
-      "title_orig": "Trump has 'heated call' with Netanyahu over Qatar strike",
-      "summary_orig": "Donald Trump had a heated phone call with Israeli Prime Minister Benjamin Netanyahu after his military targeted Hamas inside Qatar, according to a report.",
-      "lang": "en",
-      "title_en": "Trump has 'heated call' with Netanyahu over Qatar strike",
-      "summary_en": "Donald Trump had a heated phone call with Israeli Prime Minister Benjamin Netanyahu after his military targeted Hamas inside Qatar, according to a report.",
-      "title": "Trump has 'heated call' with Netanyahu over Qatar strike",
-      "summary": "Donald Trump had a heated phone call with Israeli Prime Minister Benjamin Netanyahu after his military targeted Hamas inside Qatar, according to a report.",
-      "url": "https://news.sky.com/story/trump-has-heated-phone-call-with-netanyahu-over-strike-targeting-hamas-in-qatar-13428486",
-      "source": "World News - Breaking international news and headlines | Sky News",
-      "published_at": "2025-09-10T22:13:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -805,24 +706,6 @@
       "url": "https://www.nytimes.com/2025/09/10/world/europe/german-stabbing-attack.html",
       "source": "NYT > World News",
       "published_at": "2025-09-10T15:37:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "1f4f71f6f4d3ceff",
-      "title_orig": "Millennial Mayor Backs Nepal’s Gen Z Protesters",
-      "summary_orig": "Balendra Shah won an upset victory three years ago to become Kathmandu’s mayor. He’s using social media to coach protesters on the country’s next steps.",
-      "lang": "en",
-      "title_en": "Millennial Mayor Backs Nepal’s Gen Z Protesters",
-      "summary_en": "Balendra Shah won an upset victory three years ago to become Kathmandu’s mayor. He’s using social media to coach protesters on the country’s next steps.",
-      "title": "Millennial Mayor Backs Nepal’s Gen Z Protesters",
-      "summary": "Balendra Shah won an upset victory three years ago to become Kathmandu’s mayor. He’s using social media to coach protesters on the country’s next steps.",
-      "url": "https://www.nytimes.com/2025/09/10/world/asia/nepal-gen-z-protests-kathmandu-mayor-balendra-shah.html",
-      "source": "NYT > World News",
-      "published_at": "2025-09-10T13:52:28+00:00",
       "tags": [
         "airport/security"
       ],
