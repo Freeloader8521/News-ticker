@@ -1,33 +1,23 @@
-# feeds.yaml (working replacements)
-
 news:
-  - https://feeds.bbci.co.uk/news/world/rss.xml            # BBC World
-  - https://www.theguardian.com/world/rss                  # Guardian World
-  - https://www.aljazeera.com/xml/rss/all.xml              # Al Jazeera (all)
-  - https://rss.nytimes.com/services/xml/rss/nyt/World.xml # NYT World
-  - http://feeds.skynews.com/feeds/rss/world.xml           # Sky News World
-  - https://www.cbc.ca/webfeed/rss/rss-world               # CBC World
+  - https://feeds.bbci.co.uk/news/world/rss.xml
+  - https://www.theguardian.com/world/rss
+  - https://www.aljazeera.com/xml/rss/all.xml
+  - https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+  - http://feeds.skynews.com/feeds/rss/world.xml
+  - https://globalnews.ca/world/feed/                # swapped in for CBC
 
 aviation_authorities:
-  # European & UK investigation/regulator
-  - https://www.easa.europa.eu/newsroom-and-events/news/feed.xml   # EASA news (official RSS)
-  - https://www.gov.uk/aaib-reports.atom                           # AAIB accident reports (Atom)
-  # US investigation/regulator
-  - https://www.ntsb.gov/Pages/RSS.aspx?feed=press-releases        # NTSB press releases (RSS)
-  - https://www.ntsb.gov/Pages/RSS.aspx?feed=investigations        # NTSB investigations (RSS)
+  - https://www.easa.europa.eu/newsroom-and-events/news/feed.xml
+  - https://www.gov.uk/aaib-reports.atom
+  - https://www.ntsb.gov/Pages/RSS.aspx?feed=press-releases
+  - https://www.ntsb.gov/Pages/RSS.aspx?feed=investigations
 
 official_announcements:
-  # UK government news/announcements index (Atom feeds behind every finder)
-  - https://www.gov.uk/search/news-and-communications.atom          # GOV.UK news/comm feed
-  # National cyber security advisories
-  - https://www.ncsc.gov.uk/api/1/services/v1/news.rss              # NCSC news RSS
+  - https://www.gov.uk/search/news-and-communications.atom
+  - https://www.ncsc.gov.uk/api/1/news.rss          # corrected URL
 
 weather_alerts:
-  # UK Met Office warnings RSS (see guidance page)
   - https://www.metoffice.gov.uk/public/data/PWSCache/WarningsRSS/Region/UK
-  # US National Weather Service RSS library (choose states or national)
-  - https://alerts.weather.gov/cap/us.php?x=0                      # NWS CAP (national index)
+  - https://alerts.weather.gov/cap/us.php?x=0
 
-social:
-  # Keep empty for now; Reddit RSS is 403 from GitHub Actions. Consider adding Mastodon/Bluesky APIs later.
-  - 
+social: []
