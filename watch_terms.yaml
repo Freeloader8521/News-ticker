@@ -1,0 +1,89 @@
+core_terms:
+  - airport
+  - terminal
+  - runway
+  - security incident
+  - evacuation
+  - lockdown
+  - suspicious package
+  - bomb scare
+  - hostile reconnaissance
+  - drone
+  - perimeter breach
+  - strike
+  - protest
+  - crowd disorder
+
+diplomacy_terms:
+  - embassy
+  - consulate
+  - high commission
+  - diplomatic quarter
+  - FCDO
+  - "British embassy"
+  - "UK consulate"
+
+# Key international airports (examples, add more as needed)
+airport_names:
+  - Heathrow
+  - Gatwick
+  - Manchester Airport
+  - Stansted
+  - Luton
+  - Birmingham Airport
+  - Dublin Airport
+  - Schiphol
+  - Frankfurt Airport
+  - Munich Airport
+  - Paris Charles de Gaulle
+  - Orly
+  - Madrid Barajas
+  - Rome Fiumicino
+  - Zurich Airport
+  - Vienna Airport
+  - JFK
+  - Newark Airport
+  - LaGuardia
+  - LAX
+  - San Francisco Airport
+  - Miami Airport
+  - Atlanta Airport
+  - Dallas Fort Worth
+  - Chicago O'Hare
+  - Toronto Pearson
+  - Vancouver Airport
+  - Mexico City Airport
+  - São Paulo Guarulhos
+  - Buenos Aires Ezeiza
+  - Johannesburg Airport
+  - Nairobi Airport
+  - Cairo Airport
+  - Dubai Airport
+  - Abu Dhabi Airport
+  - Doha Hamad
+  - Istanbul Airport
+  - Singapore Changi
+  - Hong Kong Airport
+  - Tokyo Narita
+  - Tokyo Haneda
+  - Osaka Kansai
+  - Seoul Incheon
+  - Bangkok Suvarnabhumi
+  - Kuala Lumpur Airport
+  - Sydney Airport
+  - Melbourne Airport
+  - Auckland Airport
+  - Delhi Airport
+  - Mumbai Airport
+  - Beijing Capital Airport
+  - Shanghai Pudong
+  - Manila Airport
+  - Jakarta Soekarno-Hatta
+
+exclude_terms:
+  - review
+  - lounge
+  - flight sale
+  - influencer
+  - holiday tips
+
