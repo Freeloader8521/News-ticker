@@ -21,8 +21,9 @@ import json
 import re
 import hashlib
 from datetime import datetime, timezone
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
+import logging
 import requests
 import feedparser
 import yaml
@@ -31,9 +32,28 @@ from bs4 import BeautifulSoup
 from langdetect import detect, LangDetectException
 from deep_translator import GoogleTranslator
 
-# ----------------------------- Basics -----------------------------
+# ----------------------------- Config & Constants -----------------------------
 
-UA = {"User-Agent": "GSA-Collector/1.5 (+https://streamlit.app)"}
+APP_NAME = "GSA-Collector"
+APP_VER = "1.6"
+APP_URL = "https://streamlit.app"
+
+UA = {"User-Agent": f"{APP_NAME}/{APP_VER} (+{APP_URL})"}
+REQUEST_TIMEOUT = 20  # seconds
+PER_FEED_LIMIT = 80   # entries to consider per feed
+MAX_ITEMS = 500       # final cap on output list length
+
+# Logging setup
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s"
+)
+log = logging.getLogger(APP_NAME)
+
+# Simple cache for translations to reduce API calls
+_TRANSLATE_CACHE: Dict[str, str] = {}
+
+# ----------------------------- Basics -----------------------------
 
 def now_utc() -> datetime:
     return datetime.now(timezone.utc)
@@ -70,10 +90,17 @@ def safe_detect(text: str) -> str:
 def to_english(s: str) -> str:
     if not s:
         return s
+    # Cache hit
+    if s in _TRANSLATE_CACHE:
+        return _TRANSLATE_CACHE[s]
     try:
-        return GoogleTranslator(source="auto", target="en").translate(s)
-    except Exception:
-        return s  # best-effort
+        translated = GoogleTranslator(source="auto", target="en").translate(s)
+        _TRANSLATE_CACHE[s] = translated
+        return translated
+    except Exception as ex:
+        # Best-effort: return original string on failure
+        log.debug("Translation failed; returning original: %s", ex)
+        return s
 
 # ----------------------------- Config & Lists -----------------------------
 
@@ -82,6 +109,7 @@ try:
     with open("feeds.yaml", "r", encoding="utf-8") as f:
         FEEDS = yaml.safe_load(f) or {}
 except FileNotFoundError:
+    log.warning("feeds.yaml not found; proceeding with empty feed list")
     FEEDS = {}
 
 NEWS_FEEDS     = FEEDS.get("news", [])
@@ -105,11 +133,16 @@ BLOCKED_DOMAINS = {
 }
 
 # watch_terms.yaml
-with open("watch_terms.yaml", "r", encoding="utf-8") as f:
-    TERMS = yaml.safe_load(f) or {}
-CORE    = set(TERMS.get("core_terms", []))
-DIPLO   = set(TERMS.get("diplomacy_terms", []))
-EXCLUDE = set(TERMS.get("exclude_terms", []))
+try:
+    with open("watch_terms.yaml", "r", encoding="utf-8") as f:
+        TERMS = yaml.safe_load(f) or {}
+except FileNotFoundError:
+    log.warning("watch_terms.yaml not found; proceeding with empty terms")
+    TERMS = {}
+
+CORE    = set(TERMS.get("core_terms", []) or [])
+DIPLO   = set(TERMS.get("diplomacy_terms", []) or [])
+EXCLUDE = set(TERMS.get("exclude_terms", []) or [])
 
 def should_exclude(text: str) -> bool:
     t = (text or "").lower()
@@ -130,6 +163,7 @@ try:
     with open("airports.json", "r", encoding="utf-8") as f:
         AIRPORTS = json.load(f)
 except FileNotFoundError:
+    log.warning("airports.json not found; airport tagging disabled")
     AIRPORTS = []
 
 ALIASES: Dict[str, Dict[str, Any]] = {}     # alias(lower) -> meta
@@ -160,7 +194,7 @@ def _has_airport_context(text: str, pos: int, window: int = 48) -> bool:
     end   = min(len(text), pos + window)
     return bool(AIRPORT_CONTEXT.search(text[start:end]))
 
-def match_airport(text: str):
+def match_airport(text: str) -> Optional[Dict[str, Any]]:
     """
     Safer airport matcher:
       - prefers full-name aliases (e.g. 'Istanbul Airport')
@@ -223,12 +257,12 @@ def fetch_feed(url: str):
         dom = get_domain(url)
         if dom in BLOCKED_DOMAINS:
             return dom, []  # ignore this feed entirely
-        r = requests.get(url, headers=UA, timeout=20)
+        r = requests.get(url, headers=UA, timeout=REQUEST_TIMEOUT)
         r.raise_for_status()
         d = feedparser.parse(r.content)
         return d.feed.get("title", dom), d.entries
     except Exception as ex:
-        print("Feed error:", url, ex)
+        log.warning("Feed error for %s: %s", url, ex)
         return get_domain(url), []
 
 
@@ -278,14 +312,14 @@ def normalise(entry, feedtitle: str, declared_type: str):
         pub = now_utc()
 
     src_dom = get_domain(url)
-if src_dom in BLOCKED_DOMAINS:
-    return None
+    if src_dom in BLOCKED_DOMAINS:
+        return None  # <-- fixed indentation: this line must be inside normalise()
 
     src_name = clean_source(feedtitle, url)
 
     # Tags & geo (ONLY from an airport match)
     item_tags = tags_for(text_for_filter)
-    geo = {}
+    geo: Dict[str, Any] = {}
     ap = match_airport(text_for_filter)
     if ap:
         geo = {
@@ -333,7 +367,7 @@ if src_dom in BLOCKED_DOMAINS:
 
 # ----------------------------- Collect -----------------------------
 
-def collect_block(feed_urls, declared_type: str, per_feed_limit: int = 80):
+def collect_block(feed_urls, declared_type: str, per_feed_limit: int = PER_FEED_LIMIT):
     items: List[Dict[str, Any]] = []
     for f in feed_urls:
         feedtitle, entries = fetch_feed(f)
@@ -359,7 +393,7 @@ def collect_all():
             best[k] = it
     out = list(best.values())
     out.sort(key=lambda x: x["published_at"], reverse=True)
-    return out[:500]
+    return out[:MAX_ITEMS]
 
 # ----------------------------- Main -----------------------------
 
@@ -368,7 +402,7 @@ def main():
     data = {"generated_at": now_utc().isoformat(), "items": items, "trends": {}}
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-    print(f"Wrote data.json with {len(items)} items")
+    log.info("Wrote data.json with %d items", len(items))
 
 if __name__ == "__main__":
     main()
