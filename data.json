@@ -1,6 +1,151 @@
 {
-  "generated_at": "2025-09-12T14:42:09.837091+00:00",
+  "generated_at": "2025-09-12T15:16:47.947464+00:00",
   "items": [
+    {
+      "id": "1169cf11482cd7de",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115191944312271485",
+      "source": "#airport",
+      "published_at": "2025-09-12T15:06:20+00:00",
+      "summary": "Aviation weather for London Heathrow airport (UK) is “EGLL 121450Z AUTO 27017KT 9999 -RA SCT042/// //////CB 16/09 Q1011” :  See what it means on https://www. bigorre.org/aero/meteo/egll/en # london # uk # londonheathrowairport # egll # lhr # metar # aviation # aviationweather # avgeek # airport vl",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "76c6bba508d8427c",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@AirportStatusBot/115191936071148012",
+      "source": "#airport",
+      "published_at": "2025-09-12T15:04:14+00:00",
+      "summary": "The departure delay at Teterboro # Airport ( # TEB ) has decreased to 15-29 minutes and is still decreasing. # AirportStatusBot",
+      "tags": [
+        "SIN",
+        "Singapore",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Changi",
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
+      }
+    },
+    {
+      "id": "478334432291e543",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115191929031395698",
+      "source": "#airport",
+      "published_at": "2025-09-12T15:02:26+00:00",
+      "summary": "How many runways can you see for La Crosse Municipal airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/klse/en # lacrosse # usa # lacrossemunicipalairport # klse # lse # airport # aviation # avgeek vl",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "5809183947d392e9",
+      "title": "Ukrainian drones disrupt Russia's key western oil terminal for the first time",
+      "url": "https://www.straitstimes.com/world/europe/ukrainian-drones-disrupt-russias-key-western-oil-terminal-for-the-first-time",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-12T14:58:22+00:00",
+      "summary": "MOSCOW - A Ukrainian drone attack on Russia's northwestern port of Primorsk has for the first time forced the suspension of loadings at its key western oil terminal, according to two industry sources and Ukraine's military.",
+      "tags": [
+        "ORD",
+        "United States",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "O'Hare",
+        "city": "Chicago",
+        "country": "United States",
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
+      }
+    },
+    {
+      "id": "30a5b0be99cce1c8",
+      "title": "Poland says Russia’s drone incursion ‘wasn’t a mistake’ after Trump’s speculation – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/12/poland-russia-drones-ukraine-war-latest-news-europe-live",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-12T14:54:57+00:00",
+      "summary": "Donald Trump appeared to be dismissive Thursday night as he said it ‘could have been an mistake’ Tusk also says the announcement with BAE Systems is “only a part of our cooperation with the UK.” He says he “ received another message from prime minister Starmer about greater UK involvement in military assistance, here in Poland , on an urgent basis,” without offering further details. Continue reading...",
+      "tags": [
+        "IST",
+        "Türkiye",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Istanbul",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
+      }
+    },
+    {
+      "id": "ac49ee59f42f5fca",
+      "title": "Rubio to visit Israel amid tensions among US Middle East allies",
+      "url": "https://www.straitstimes.com/world/middle-east/rubio-to-visit-israel-amid-tensions-among-us-middle-east-allies",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-12T14:49:00+00:00",
+      "summary": "WASHINGTON - U.S. President Donald Trump's top diplomat, Marco Rubio, will fly to Israel this weekend amid tensions with fellow U.S. allies in the Middle East over Israel's strike on Hamas leaders in Qatar and expansion of settlements in the occupied West Bank.",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "b7ee9b6cdbaa12e3",
+      "title": "Israel intensifies Gaza City strikes as many residents refuse evacuation",
+      "url": "https://www.straitstimes.com/world/middle-east/israel-intensifies-gaza-city-strikes-as-many-residents-refuse-evacuation",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-12T14:48:31+00:00",
+      "summary": "CAIRO - Israeli strikes killed at least 40 Palestinians in the Gaza Strip on Friday, local health authorities said, most of them in Gaza City, where many residents are staying put despite Israeli evacuation orders because they have nowhere safe to go.",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
     {
       "id": "57d51630761838ae",
       "title": "(no title)",
@@ -18,27 +163,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
-      }
-    },
-    {
-      "id": "30a5b0be99cce1c8",
-      "title": "Poland says Russia’s drone incursion ‘wasn’t a mistake’ after Trump’s speculation – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/12/poland-russia-drones-ukraine-war-latest-news-europe-live",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-12T14:29:56+00:00",
-      "summary": "Donald Trump appeared to be dismissive Thursday night as he said it ‘could have been an mistake’ Tusk also says the announcement with BAE Systems is “only a part of our cooperation with the UK.” He says he “ received another message from prime minister Starmer about greater UK involvement in military assistance, here in Poland , on an urgent basis,” without offering further details. Continue reading...",
-      "tags": [
-        "IST",
-        "Türkiye",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Istanbul",
-        "city": "Istanbul",
-        "country": "Türkiye",
-        "iata": "IST"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -58,7 +185,31 @@
         "airport": "Indira Gandhi",
         "city": "Delhi",
         "country": "India",
-        "iata": "DEL"
+        "iata": "DEL",
+        "lat": 28.5562,
+        "lon": 77.1
+      }
+    },
+    {
+      "id": "786c79e38149c469",
+      "title": "Senators say US is complicit in Israel’s ethnic cleansing of Gaza",
+      "url": "https://www.theguardian.com/us-news/2025/sep/11/democratic-senators-gaza-ethnic-cleansing",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-12T14:26:00+00:00",
+      "summary": "Democrats Chris Van Hollen and Jeff Merkley reach ‘inescapable conclusion’ after fact-finding trip to region Two Democratic senators claim they have reached the “inescapable conclusion” that Israel is acting on a systematic plan to destroy and ethnically cleanse Palestinians from Gaza to force local people to leave, and they say the US is complicit. Chris Van Hollen of Maryland and Jeff Merkley of Oregon, both members of the Senate foreign relations committee, released their findings in a report on Thursday after returning from a congressional delegation to the Middle East where, they note, the destruction goes beyond bombs and bullets. They say they also found a systematic campaign to strangle humanitarian aid, which they call “using food as a weapon of war”. Continue reading...",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -78,7 +229,9 @@
         "airport": "Schiphol",
         "city": "Amsterdam",
         "country": "Netherlands",
-        "iata": "AMS"
+        "iata": "AMS",
+        "lat": 52.3105,
+        "lon": 4.7683
       }
     },
     {
@@ -98,7 +251,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -118,7 +273,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -138,7 +295,9 @@
         "airport": "Indira Gandhi",
         "city": "Delhi",
         "country": "India",
-        "iata": "DEL"
+        "iata": "DEL",
+        "lat": 28.5562,
+        "lon": 77.1
       }
     },
     {
@@ -158,7 +317,9 @@
         "airport": "Los Angeles",
         "city": "Los Angeles",
         "country": "United States",
-        "iata": "LAX"
+        "iata": "LAX",
+        "lat": 33.9416,
+        "lon": -118.4085
       }
     },
     {
@@ -178,7 +339,9 @@
         "airport": "Changi",
         "city": "Singapore",
         "country": "Singapore",
-        "iata": "SIN"
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
       }
     },
     {
@@ -198,7 +361,9 @@
         "airport": "Changi",
         "city": "Singapore",
         "country": "Singapore",
-        "iata": "SIN"
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
       }
     },
     {
@@ -218,7 +383,31 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "7d9c22379080e369",
+      "title": "Man jailed for life over London shooting that left girl, nine, with bullet in brain",
+      "url": "https://www.theguardian.com/uk-news/2025/sep/12/man-jailed-life-london-shooting-girl-bullet-brain",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-12T13:59:33+00:00",
+      "summary": "Javon Riley, 33, sentenced to at least 34 years after gangland attack in Hackney that also injured three men A 33-year-old man has been jailed for life with a minimum term of 34 years for his role in a gangland shooting outside an east London restaurant, which left a nine-year-old girl with a bullet lodged in her brain. The girl was hit in the head by one of six bullets fired by a man on a Ducati Monster motorbike as she ate ice-cream with her family in the Evin restaurant in Kingsland High Street, Hackney, on 29 May last year. Continue reading...",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -238,7 +427,9 @@
         "airport": "Indira Gandhi",
         "city": "Delhi",
         "country": "India",
-        "iata": "DEL"
+        "iata": "DEL",
+        "lat": 28.5562,
+        "lon": 77.1
       }
     },
     {
@@ -258,7 +449,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -304,7 +497,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -324,7 +519,9 @@
         "airport": "Changi",
         "city": "Singapore",
         "country": "Singapore",
-        "iata": "SIN"
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
       }
     },
     {
@@ -344,7 +541,9 @@
         "airport": "Barajas",
         "city": "Madrid",
         "country": "Spain",
-        "iata": "MAD"
+        "iata": "MAD",
+        "lat": 40.4719,
+        "lon": -3.5626
       }
     },
     {
@@ -364,7 +563,9 @@
         "airport": "Changi",
         "city": "Singapore",
         "country": "Singapore",
-        "iata": "SIN"
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
       }
     },
     {
@@ -384,7 +585,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -404,7 +607,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -424,21 +629,10 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
-    },
-    {
-      "id": "ac49ee59f42f5fca",
-      "title": "Rubio to visit Israel amid tensions among US Middle East allies",
-      "url": "https://www.straitstimes.com/world/middle-east/rubio-to-visit-israel-amid-tensions-among-us-middle-east-allies",
-      "source": "The Straits Times World News",
-      "published_at": "2025-09-12T13:08:27+00:00",
-      "summary": "WASHINGTON - President Donald Trump's top diplomat Marco Rubio will fly to Israel this weekend amid tensions among fellow U.S. allies in the Middle East over Israel's strike on Hamas leaders in Qatar and expansion of settlements in the occupied West Bank.",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
     },
     {
       "id": "05e97f67ff6f6846",
@@ -457,7 +651,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -477,7 +673,9 @@
         "airport": "John F. Kennedy",
         "city": "New York",
         "country": "United States",
-        "iata": "JFK"
+        "iata": "JFK",
+        "lat": 40.6413,
+        "lon": -73.7781
       }
     },
     {
@@ -494,23 +692,25 @@
       "geo": {}
     },
     {
-      "id": "b7ee9b6cdbaa12e3",
-      "title": "Israel intensifies Gaza City strikes as many residents refuse evacuation",
-      "url": "https://www.straitstimes.com/world/middle-east/israel-intensifies-gaza-city-strikes-as-many-residents-refuse-evacuation",
-      "source": "The Straits Times World News",
-      "published_at": "2025-09-12T12:43:33+00:00",
-      "summary": "CAIRO - Israeli strikes killed at least 40 Palestinians in the Gaza Strip on Friday, local health authorities said, most of them in Gaza City where many residents are staying put despite Israeli evacuation orders because they have nowhere safe to go.",
+      "id": "30fb9d0b9547b0f6",
+      "title": "UN Security Council unite in condemning Israeli bombing of Qatar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-security-council-unite-in-condemning-israeli-bombing-of-qatar?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-12T12:46:34+00:00",
+      "summary": "In a rare move, the US backed a UN Security Council statement condemning Israel’s attack on Hamas’s Doha office.",
       "tags": [
-        "MAN",
-        "United Kingdom",
+        "DOH",
+        "Qatar",
         "airport/security"
       ],
       "type": "major news",
       "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN"
+        "airport": "Hamad",
+        "city": "Doha",
+        "country": "Qatar",
+        "iata": "DOH",
+        "lat": 25.2731,
+        "lon": 51.6081
       }
     },
     {
@@ -530,7 +730,9 @@
         "airport": "Barajas",
         "city": "Madrid",
         "country": "Spain",
-        "iata": "MAD"
+        "iata": "MAD",
+        "lat": 40.4719,
+        "lon": -3.5626
       }
     },
     {
@@ -550,7 +752,9 @@
         "airport": "Changi",
         "city": "Singapore",
         "country": "Singapore",
-        "iata": "SIN"
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
       }
     },
     {
@@ -570,27 +774,9 @@
         "airport": "Changi",
         "city": "Singapore",
         "country": "Singapore",
-        "iata": "SIN"
-      }
-    },
-    {
-      "id": "e41e4779d0c1d0c2",
-      "title": "Ukrainian drones strike Russia's largest oil terminal for the first time",
-      "url": "https://www.straitstimes.com/world/europe/ukrainian-drones-strike-russias-largest-oil-terminal-for-the-first-time",
-      "source": "The Straits Times World News",
-      "published_at": "2025-09-12T12:33:52+00:00",
-      "summary": "MOSCOW - A Ukrainian drone attack on Russia's northwestern port of Primorsk suspended loadings at the country's largest oil terminal for the first time, according to two industry sources and Ukraine's military.",
-      "tags": [
-        "ORD",
-        "United States",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "O'Hare",
-        "city": "Chicago",
-        "country": "United States",
-        "iata": "ORD"
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
       }
     },
     {
@@ -610,7 +796,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -630,7 +818,9 @@
         "airport": "Changi",
         "city": "Singapore",
         "country": "Singapore",
-        "iata": "SIN"
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
       }
     },
     {
@@ -650,27 +840,9 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
-      }
-    },
-    {
-      "id": "c3df19a08733e2ca",
-      "title": "(no title)",
-      "url": "https://mastodon.social/@bigorre_org/115191238937135142",
-      "source": "#airport",
-      "published_at": "2025-09-12T12:06:56+00:00",
-      "summary": "How many runways can you see for North Ronaldsay airport (UK) ? :  The answer is on https://www. bigorre.org/aero/meteo/egen/en # northronaldsay # uk # northronaldsayairport # egen # nrl # airport # aviation # avgeek vl",
-      "tags": [
-        "MAN",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
@@ -687,43 +859,47 @@
       "geo": {}
     },
     {
-      "id": "20276b831e5f797b",
-      "title": "(no title)",
-      "url": "https://mastodon.social/@bigorre_org/115191178714459287",
-      "source": "#airport",
-      "published_at": "2025-09-12T11:51:37+00:00",
-      "summary": "Aviation weather for Paris Charles de Gaulle International airport in Paris and Roissy-en-France area (France) is “LFPG 121130Z 23015KT 210V270 9999 SCT038 19/08 Q1018 TEMPO 24015G25KT” :  See what it means on https://www. bigorre.org/aero/meteo/lfpg/en # paris # roissyenfrance # france # parischarlesdegaulleinternationalairport # lfpg # cdg # metar # aviation # aviationweather # avgeek # airport vl",
+      "id": "d8b161eb97f80ac7",
+      "title": "After shock Israeli attack on their city, Doha’s residents voice unease",
+      "url": "https://www.aljazeera.com/editorial/2025/9/12/after-shock-israeli-attack-on-their-city-dohas-residents-voice-unease?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-12T11:52:47+00:00",
+      "summary": "Our correspondent takes in the mood in the Qatari capital after an Israeli attack on a Hamas meeting this week.",
       "tags": [
-        "CDG",
-        "France",
+        "DOH",
+        "Qatar",
         "airport/security"
       ],
-      "type": "social",
+      "type": "major news",
       "geo": {
-        "airport": "Charles de Gaulle",
-        "city": "Paris",
-        "country": "France",
-        "iata": "CDG"
+        "airport": "Hamad",
+        "city": "Doha",
+        "country": "Qatar",
+        "iata": "DOH",
+        "lat": 25.2731,
+        "lon": 51.6081
       }
     },
     {
-      "id": "49106484863a4263",
-      "title": "(no title)",
-      "url": "https://mastodon.social/@bigorre_org/115191160455540385",
-      "source": "#airport",
-      "published_at": "2025-09-12T11:46:59+00:00",
-      "summary": "Aviation weather for Castellón-Costa Azahar airport in Castellón de la Plana area (Spain) is “LECH 121130Z AUTO 11010KT 080V160 9000 BKN030 25/19 Q1021” :  See what it means on https://www. bigorre.org/aero/meteo/lech/en # castellondelaplana # spain # castelloncostaazaharairport # lech # cdt # metar # aviation # aviationweather # avgeek # airport vl",
+      "id": "1cacf665f24dcf69",
+      "title": "Trump to meet Qatari prime minister after Israeli attack in Doha",
+      "url": "https://www.straitstimes.com/world/trump-to-meet-qatari-prime-minister-after-israeli-attack-in-doha",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-12T11:28:24+00:00",
+      "summary": "The White House did not elaborate on the timing of the meeting or its agenda.",
       "tags": [
-        "DEL",
-        "India",
+        "DOH",
+        "Qatar",
         "airport/security"
       ],
-      "type": "social",
+      "type": "major news",
       "geo": {
-        "airport": "Indira Gandhi",
-        "city": "Delhi",
-        "country": "India",
-        "iata": "DEL"
+        "airport": "Hamad",
+        "city": "Doha",
+        "country": "Qatar",
+        "iata": "DOH",
+        "lat": 25.2731,
+        "lon": 51.6081
       }
     },
     {
@@ -743,8 +919,23 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
+    },
+    {
+      "id": "9a90236e351eea6b",
+      "title": "IDF says it nabbed suspected terror cells working for Iran’s IRGC in Syria",
+      "url": "https://www.timesofisrael.com/idf-says-it-nabbed-suspected-terror-cells-working-for-irans-irgc-in-syria/",
+      "source": "The Times of Israel",
+      "published_at": "2025-09-12T11:08:06+00:00",
+      "summary": "Operatives were directed by clandestine unit from elite Quds Force to attack Israel, not all of them knew whom they were working for, military says The post IDF says it nabbed suspected terror cells working for Iran’s IRGC in Syria appeared first on The Times of Israel .",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
     },
     {
       "id": "3bef808ad5489033",
@@ -757,6 +948,19 @@
         "airport/security"
       ],
       "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "246843c4d684565c",
+      "title": "Qatar attack is Israel acting as the “tail wagging the US dog”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/9/12/qatar-attack-is-israel-acting-as-the-tail-wagging-the-us?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-12T10:12:45+00:00",
+      "summary": "Adam Shapiro on Israel’s attack on Qatar, possible US involvement and how Israel exerts influence over Washington.",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -776,7 +980,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -796,7 +1002,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -829,7 +1037,31 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
+      }
+    },
+    {
+      "id": "f41e3d4479e5e6e1",
+      "title": "Gaza’s worst fear is no longer bombs but ‘humanitarian cities’",
+      "url": "https://www.aljazeera.com/opinions/2025/9/12/gazas-worst-fear-is-no-longer-bombs-but-humanitarian?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-12T09:11:54+00:00",
+      "summary": "We, survivors of Israel’s genocidal war, now face an even greater terror.",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -862,7 +1094,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -876,6 +1110,63 @@
         "airport/security"
       ],
       "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "9fed610cfc46b676",
+      "title": "UAE summons Israeli ambassador over Israel’s attack on Hamas leaders in Doha, says KAN",
+      "url": "https://www.straitstimes.com/world/middle-east/uae-summons-israeli-ambassador-over-israels-attack-on-hamas-leaders-in-doha-israels-kan-says",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-12T08:18:14+00:00",
+      "summary": "Doha will host an emergency Arab-Islamic summit on Sept 14 and Sept 15 to discuss the Israeli attack.",
+      "tags": [
+        "DOH",
+        "Qatar",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Hamad",
+        "city": "Doha",
+        "country": "Qatar",
+        "iata": "DOH",
+        "lat": 25.2731,
+        "lon": 51.6081
+      }
+    },
+    {
+      "id": "f9c98bf6840199b8",
+      "title": "Israel’s pattern is “to sabotage any efforts to end war”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/9/12/israels-pattern-is-to-sabotage-any-efforts-to-end-war?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-12T08:15:28+00:00",
+      "summary": "Israel’s attack on Hamas leaders in Qatar is part of a pattern to sabotage peace efforts, says analyst Omar Rahman",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "c39569d55b6a2fd4",
+      "title": "South Sudan's opposition says government trying to enforce \"one-tribe rule\"",
+      "url": "https://www.straitstimes.com/world/south-sudans-opposition-says-government-trying-to-enforce-one-tribe-rule",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-12T08:13:39+00:00",
+      "summary": "South Sudan's opposition has accused the government of trying to enforce \\\"authoritarian control and one-tribe rule\\\" after First Vice President Riek Machar was charged with orchestrating militia attacks and suspended from his role.",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -895,7 +1186,9 @@
         "airport": "Chhatrapati Shivaji",
         "city": "Mumbai",
         "country": "India",
-        "iata": "BOM"
+        "iata": "BOM",
+        "lat": 19.0896,
+        "lon": 72.8656
       }
     },
     {
@@ -915,7 +1208,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -961,7 +1256,44 @@
         "airport": "Frankfurt",
         "city": "Frankfurt",
         "country": "Germany",
-        "iata": "FRA"
+        "iata": "FRA",
+        "lat": 50.0379,
+        "lon": 8.5622
+      }
+    },
+    {
+      "id": "e7ebec9a03e07fec",
+      "title": "LIVE: Israel kills 50 in Gaza, Qatari PM to meet top US officials",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/9/12/live-israel-kills-dozens-in-gaza-unsc-condemns-doha-attack?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-12T07:26:21+00:00",
+      "summary": "Israeli onslaught on Gaza intensifies as US Security Council issues statement condemning attack on Qatari capital.",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "13e7f54f2534cb8a",
+      "title": "Emperor Naruhito and family pay their respects in Nagasaki",
+      "url": "https://www.japantimes.co.jp/news/2025/09/12/japan/imperial-family-nagasaki/",
+      "source": "Latest articles - The Japan Times",
+      "published_at": "2025-09-12T07:11:00+00:00",
+      "summary": "The family is slated to meet with people living in a special elderly nursing home for atomic bomb survivors on Saturday.",
+      "tags": [
+        "SIN",
+        "Singapore",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Changi",
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
       }
     },
     {
@@ -981,7 +1313,9 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
@@ -1001,7 +1335,9 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
@@ -1034,7 +1370,31 @@
         "airport": "Hartsfield–Jackson",
         "city": "Atlanta",
         "country": "United States",
-        "iata": "ATL"
+        "iata": "ATL",
+        "lat": 33.6407,
+        "lon": -84.4277
+      }
+    },
+    {
+      "id": "617d937d271f9dfc",
+      "title": "Family fights pet labrador's dangerous dog declaration after alleged attack",
+      "url": "https://www.abc.net.au/news/2025-09-12/family-appeals-labradors-dangerous-dog-declaration-wa-council/105766142",
+      "source": "Just In",
+      "published_at": "2025-09-12T06:34:19+00:00",
+      "summary": "A WA family asks the State Administrative Tribunal to overturn the City of Greater Geraldton's ruling that Dozer, their golden labrador, is a dangerous dog.",
+      "tags": [
+        "IST",
+        "Türkiye",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Istanbul",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -1054,7 +1414,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1074,7 +1436,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -1094,7 +1458,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -1114,7 +1480,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1134,16 +1502,18 @@
         "airport": "Hamad",
         "city": "Doha",
         "country": "Qatar",
-        "iata": "DOH"
+        "iata": "DOH",
+        "lat": 25.2731,
+        "lon": 51.6081
       }
     },
     {
-      "id": "f8b0bd14f44025dc",
-      "title": "Au Népal, dans Katmandou dévastée, les jeunes redoutent le retour au pouvoir des vieux dirigeants qu’ils ont chassés : « Tout le monde se dit de la génération Z »",
-      "url": "https://www.lemonde.fr/international/article/2025/09/12/dans-katmandou-devastee-les-jeunes-redoutent-le-retour-au-pouvoir-des-vieux-dirigeants-qu-ils-ont-chasses-tout-le-monde-se-dit-de-la-generation-z_6640505_3210.html",
-      "source": "International : Toute l’actualité sur Le Monde.fr.",
-      "published_at": "2025-09-12T04:35:07+00:00",
-      "summary": "Aucun lieu de pouvoir n’a été épargné dans la capitale du Népal au cours de deux jours de protestation d’une violence inouïe. L’armée, qui a pris le contrôle du pays, négocie une sortie de crise, alors que le premier ministre a démissionné et que le président est introuvable. Mais les jeunes à l’origine du mouvement n’ont guère voix au chapitre.",
+      "id": "042e8d551b32c72f",
+      "title": "Indian-origin motel manager from Karnataka beheaded in U.S.; co-worker arrested",
+      "url": "https://www.thehindu.com/news/international/indian-origin-motel-manager-beheaded-in-us-co-worker-arrested/article70040702.ece",
+      "source": "World News Today: International News Headlines - The Hindu | The Hindu",
+      "published_at": "2025-09-12T05:19:59+00:00",
+      "summary": "Surveillance footage showed Cobos-Martinez retrieving a machete and attacking Chandra Mouli Nagamallaiah",
       "tags": [
         "MAN",
         "United Kingdom",
@@ -1154,7 +1524,31 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "3d0dee245edb4e43",
+      "title": "Australia’s biggest gas project greenlit to 2070 with ‘partial’ protection for Indigenous rock art",
+      "url": "https://www.theguardian.com/environment/2025/sep/12/north-west-shelf-gas-project-extended-to-2070-with-partial-protection-for-indigenous-rock-art",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-12T05:16:44+00:00",
+      "summary": "Approval met with fury from conservation groups and the Greens, who called it a ‘betrayal’ of Australians who want climate action Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Albanese government has approved an extension to 2070 of one of the world’s biggest gas export projects, saying it has agreed on conditions to protect more than 1 million pieces of ancient world heritage-listed Indigenous rock art that sit nearby. Climate campaigners have described Woodside’s North West Shelf extension as a “carbon bomb” incompatible with global climate goals. The approval was met with fury from conservation groups and the Greens on Friday, who said it was a “betrayal” of Australians who wanted climate action. Continue reading...",
+      "tags": [
+        "IST",
+        "Türkiye",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Istanbul",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -1174,7 +1568,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1207,7 +1603,9 @@
         "airport": "Frankfurt",
         "city": "Frankfurt",
         "country": "Germany",
-        "iata": "FRA"
+        "iata": "FRA",
+        "lat": 50.0379,
+        "lon": 8.5622
       }
     },
     {
@@ -1227,7 +1625,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -1241,19 +1641,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cf1799915868a771",
-      "title": "Hong Kong aiming to become top art trading hub to rival New York: source",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3325252/hong-kong-aiming-become-top-art-trading-hub-rival-new-york-source?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-09-12T02:30:09+00:00",
-      "summary": "Hong Kong’s leader aims to elevate the city into a “world-class high-end art trading hub” to rival New York under measures to be revealed in his fourth policy address next Wednesday, the Post has learned.\nEfforts to strengthen the city’s multibillion-dollar art trading industry would include boosting services in financing, insurance and professional training, and designating maintenance and storage spaces in a cultural hub and near the airport, a government source said.\nThe move will align with...",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1286,7 +1673,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1319,7 +1708,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1365,7 +1756,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1375,6 +1768,19 @@
       "source": "The Straits Times World News",
       "published_at": "2025-09-11T23:30:00+00:00",
       "summary": "Bolsonaro, 70, protests his innocence and claims to be the victim of political persecution.",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "bd132a0e7d04e2e8",
+      "title": "In divided Brasilia, some celebrate Bolsonaro conviction while others fume",
+      "url": "https://www.straitstimes.com/world/in-divided-brasilia-some-celebrate-bolsonaro-conviction-others-fume",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-11T23:20:00+00:00",
+      "summary": "Bolsonaro is Brazil's first former president to be convicted for attacking democracy.",
       "tags": [
         "airport/security"
       ],
@@ -1398,7 +1804,9 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
@@ -1418,7 +1826,31 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
+      }
+    },
+    {
+      "id": "cc17a077be0113ca",
+      "title": "Second B-21 Raider Stealth Bomber Has Flown",
+      "url": "https://www.reddit.com/r/aviation/comments/1nemix1/second_b21_raider_stealth_bomber_has_flown/",
+      "source": "aviation",
+      "published_at": "2025-09-11T22:26:37+00:00",
+      "summary": "submitted by /u/RoachedCoach [link] [comments]",
+      "tags": [
+        "BOM",
+        "India",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Chhatrapati Shivaji",
+        "city": "Mumbai",
+        "country": "India",
+        "iata": "BOM",
+        "lat": 19.0896,
+        "lon": 72.8656
       }
     },
     {
@@ -1451,7 +1883,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1471,7 +1905,9 @@
         "airport": "Vienna",
         "city": "Vienna",
         "country": "Austria",
-        "iata": "VIE"
+        "iata": "VIE",
+        "lat": 48.1103,
+        "lon": 16.5697
       }
     },
     {
@@ -1486,6 +1922,50 @@
       ],
       "type": "major news",
       "geo": {}
+    },
+    {
+      "id": "42553ca4a6e4c5e3",
+      "title": "Brazil’s ex-leader Bolsonaro sentenced to 27 years in prison for coup plot",
+      "url": "https://www.straitstimes.com/world/brazils-jair-bolsonaro-guilty-of-coup-charges-court-majority-decides-in-landmark-trial",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-11T20:02:07+00:00",
+      "summary": "Bolsonaro is the first former president in the country’s history to be convicted for attacking democracy.",
+      "tags": [
+        "IST",
+        "Türkiye",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Istanbul",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
+      }
+    },
+    {
+      "id": "53c2cd8146121115",
+      "title": "South Sudan VP Machar charged with treason and murder, suspended by president",
+      "url": "https://www.straitstimes.com/world/south-sudan-vp-machar-charged-with-treason-and-murder-suspended-by-president",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-11T19:24:09+00:00",
+      "summary": "NAIROBI - South Sudan's First Vice President Riek Machar has been charged with murder, treason and crimes against humanity for his alleged involvement in attacks by an ethnic militia against federal forces in March, the justice minister said on Thursday.",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
     },
     {
       "id": "04648b14c6e7d261",
@@ -1517,7 +1997,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -1537,7 +2019,9 @@
         "airport": "Frankfurt",
         "city": "Frankfurt",
         "country": "Germany",
-        "iata": "FRA"
+        "iata": "FRA",
+        "lat": 50.0379,
+        "lon": 8.5622
       }
     },
     {
@@ -1570,7 +2054,75 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
+      }
+    },
+    {
+      "id": "228af8203cdcf8b4",
+      "title": "With nowhere else to shelter, Palestinians displaced in Gaza return to a city under Israeli assault",
+      "url": "https://www.straitstimes.com/world/middle-east/with-nowhere-else-to-shelter-palestinians-displaced-in-gaza-return-to-a-city-under-israeli-assault",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-11T16:25:39+00:00",
+      "summary": "GAZA - Conditions in overcrowded coastal encampments for displaced Palestinians in Gaza are so desperate that some people who fled Israel's new offensive on famine-struck Gaza City in recent days are heading back towards the falling bombs, they told Reuters.",
+      "tags": [
+        "BOM",
+        "India",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Chhatrapati Shivaji",
+        "city": "Mumbai",
+        "country": "India",
+        "iata": "BOM",
+        "lat": 19.0896,
+        "lon": 72.8656
+      }
+    },
+    {
+      "id": "36d1657db8b4f585",
+      "title": "UAE president’s Gulf tour seeks coordination after Israeli attack in Doha, adviser says",
+      "url": "https://www.straitstimes.com/world/middle-east/uae-presidents-gulf-tour-seeks-coordination-after-israeli-attack-in-doha-adviser-says",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-11T15:48:18+00:00",
+      "summary": "DUBAI - United Arab Emirates President Sheikh Mohammed bin Zayed Al Nahyan's tour of Gulf countries is aimed at coordinating positions after Tuesday's Israeli attack on Hamas leaders in Doha, his diplomatic adviser said on Thursday.",
+      "tags": [
+        "DUB",
+        "Ireland",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Dublin",
+        "city": "Dublin",
+        "country": "Ireland",
+        "iata": "DUB",
+        "lat": 53.4213,
+        "lon": -6.2701
+      }
+    },
+    {
+      "id": "684aed81a86581d4",
+      "title": "Hamas says Israel’s Qatar attack won’t change Gaza ceasefire demands",
+      "url": "https://www.thehindu.com/news/international/hamas-says-attack-against-leaders-in-doha-wont-alter-groups-terms-on-ending-gaza-war/article70038358.ece",
+      "source": "World News Today: International News Headlines - The Hindu | The Hindu",
+      "published_at": "2025-09-11T14:24:26+00:00",
+      "summary": "Hamas official Fawzi Barhoum reaffirmed key demands: a full ceasefire, the withdrawal of Israeli forces from Gaza, a real prisoner-for-hostage exchange, humanitarian relief and reconstruction of the enclave",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1603,7 +2155,9 @@
         "airport": "Hamad",
         "city": "Doha",
         "country": "Qatar",
-        "iata": "DOH"
+        "iata": "DOH",
+        "lat": 25.2731,
+        "lon": 51.6081
       }
     },
     {
@@ -1623,7 +2177,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1669,7 +2225,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1702,8 +2260,45 @@
         "airport": "Indira Gandhi",
         "city": "Delhi",
         "country": "India",
-        "iata": "DEL"
+        "iata": "DEL",
+        "lat": 28.5562,
+        "lon": 77.1
       }
+    },
+    {
+      "id": "8e4238dd6d3c1a9e",
+      "title": "A single shot: What horrifying videos reveal about killing of Charlie Kirk",
+      "url": "https://www.latimes.com/world-nation/story/2025-09-10/la-me-charlie-kirk-videos",
+      "source": "World & Nation",
+      "published_at": "2025-09-11T03:07:18+00:00",
+      "summary": "Videos captured the attack that authorities call a targeted political assassination, showing Kirk struck in the neck by a single shot.",
+      "tags": [
+        "SIN",
+        "Singapore",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Changi",
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
+      }
+    },
+    {
+      "id": "0120ab45d703745e",
+      "title": "24 years of 9/11: New York marks attacks against divided backdrop",
+      "url": "https://www.thehindu.com/news/international/24-years-of-911-new-york-marks-attacks-against-divided-backdrop/article70036301.ece",
+      "source": "World News Today: International News Headlines - The Hindu | The Hindu",
+      "published_at": "2025-09-11T02:43:39+00:00",
+      "summary": "This year’s gathering takes place against a backdrop of sharp political division both in the city and nationally",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
     },
     {
       "id": "18518f051cbabd1e",
@@ -1722,7 +2317,9 @@
         "airport": "Indira Gandhi",
         "city": "Delhi",
         "country": "India",
-        "iata": "DEL"
+        "iata": "DEL",
+        "lat": 28.5562,
+        "lon": 77.1
       }
     },
     {
@@ -1742,7 +2339,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1762,7 +2361,9 @@
         "airport": "Hamad",
         "city": "Doha",
         "country": "Qatar",
-        "iata": "DOH"
+        "iata": "DOH",
+        "lat": 25.2731,
+        "lon": 51.6081
       }
     },
     {
@@ -1782,7 +2383,9 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
@@ -1802,7 +2405,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -1822,7 +2427,9 @@
         "airport": "Indira Gandhi",
         "city": "Delhi",
         "country": "India",
-        "iata": "DEL"
+        "iata": "DEL",
+        "lat": 28.5562,
+        "lon": 77.1
       }
     },
     {
@@ -1842,7 +2449,9 @@
         "airport": "Indira Gandhi",
         "city": "Delhi",
         "country": "India",
-        "iata": "DEL"
+        "iata": "DEL",
+        "lat": 28.5562,
+        "lon": 77.1
       }
     },
     {
@@ -1875,7 +2484,9 @@
         "airport": "Frankfurt",
         "city": "Frankfurt",
         "country": "Germany",
-        "iata": "FRA"
+        "iata": "FRA",
+        "lat": 50.0379,
+        "lon": 8.5622
       }
     },
     {
@@ -1908,7 +2519,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1941,7 +2554,31 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
+      }
+    },
+    {
+      "id": "89e76cdd9d8b6be6",
+      "title": "German Court Convicts Syrian National for Stabbing Attack That Killed 3",
+      "url": "https://www.nytimes.com/2025/09/10/world/europe/german-stabbing-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-10T15:37:01+00:00",
+      "summary": "Issa al Hasan was found guilty of murder in the Islamic State-inspired rampage last year that spurred a national debate about refugees and migration.",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1961,7 +2598,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -1981,7 +2620,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -2014,7 +2655,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -2047,7 +2690,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -2067,7 +2712,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -2100,7 +2747,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -2120,7 +2769,9 @@
         "airport": "Vienna",
         "city": "Vienna",
         "country": "Austria",
-        "iata": "VIE"
+        "iata": "VIE",
+        "lat": 48.1103,
+        "lon": 16.5697
       }
     },
     {
@@ -2140,7 +2791,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -2160,7 +2813,44 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
+      }
+    },
+    {
+      "id": "ef6b59568bbef549",
+      "title": "'Get out of there!' Israel warns Gaza City to evacuate",
+      "url": "https://www.latimes.com/world-nation/story/2025-09-09/israel-warns-gaza-city-residents-to-evacuate",
+      "source": "World & Nation",
+      "published_at": "2025-09-09T18:28:22+00:00",
+      "summary": "On the day it attacked Hamas leadership in Qatar, Israel warned Gaza City residents to evacuate in advance of a major offensive.",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e8da89256eddfd1c",
+      "title": "Israel attacks Hamas leaders in Qatar, drawing condemnation, as Gazans told to evacuate",
+      "url": "https://www.dailymaverick.co.za/article/2025-09-09-israel-attacks-hamas-leaders-in-qatar-drawing-condemnation-as-gazans-told-to-evacuate/",
+      "source": "World Archives - Daily Maverick",
+      "published_at": "2025-09-09T18:18:55+00:00",
+      "summary": "Qatar condemned Tuesday’s attack as ‘cowardly’ and called it a flagrant violation of international law. The assault is likely to deal a serious, if not fatal, blow to the ceasefire efforts, especially since negotiations have often taken place in Qatar. The post Israel attacks Hamas leaders in Qatar, drawing condemnation, as Gazans told to evacuate appeared first on Daily Maverick .",
+      "tags": [
+        "SIN",
+        "Singapore",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Changi",
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
       }
     },
     {
@@ -2180,7 +2870,9 @@
         "airport": "Hamad",
         "city": "Doha",
         "country": "Qatar",
-        "iata": "DOH"
+        "iata": "DOH",
+        "lat": 25.2731,
+        "lon": 51.6081
       }
     },
     {
@@ -2200,7 +2892,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -2220,7 +2914,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -2240,7 +2936,9 @@
         "airport": "Vienna",
         "city": "Vienna",
         "country": "Austria",
-        "iata": "VIE"
+        "iata": "VIE",
+        "lat": 48.1103,
+        "lon": 16.5697
       }
     },
     {
@@ -2260,7 +2958,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -2294,7 +2994,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -2314,7 +3016,9 @@
         "airport": "Benito Juárez",
         "city": "Mexico City",
         "country": "Mexico",
-        "iata": "MEX"
+        "iata": "MEX",
+        "lat": 19.4361,
+        "lon": -99.0719
       }
     },
     {
@@ -2335,7 +3039,31 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "0cf5c7756e07b1b6",
+      "title": "We don’t, and won’t, shy away from reporting on Gaza, famine and the pressing power of now",
+      "url": "https://www.dailymaverick.co.za/article/2025-08-27-we-dont-and-wont-shy-away-from-reporting-on-gaza-famine-and-pressing-power-of-now/",
+      "source": "World Archives - Daily Maverick",
+      "published_at": "2025-08-27T21:34:52+00:00",
+      "summary": "Daily Maverick, its editors and journalists have been attacked by some on social media and in public because of perceptions of bias about our coverage of Israel's war on Gaza. For the record, this is where we stand. The post We don’t, and won’t, shy away from reporting on Gaza, famine and the pressing power of now appeared first on Daily Maverick .",
+      "tags": [
+        "ORD",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "O'Hare",
+        "city": "Chicago",
+        "country": "United States",
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
@@ -2355,7 +3083,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -2375,7 +3105,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -2401,6 +3133,7 @@
       "tags": [
         "MAN",
         "United Kingdom",
+        "airport/security",
         "diplomatic"
       ],
       "type": "social",
@@ -2408,8 +3141,23 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
+    },
+    {
+      "id": "fbedbf8e279b9e96",
+      "title": "Donald Trump's Attacks on the Fed Could Signal a MAGA Takeover",
+      "url": "https://www.spiegel.de/international/business/dark-clouds-for-the-economy-trumps-attacks-on-the-fed-could-signal-a-maga-takeover-a-0073d56f-d7fd-4162-beec-a0d7f2bff04f#ref=rss",
+      "source": "DER SPIEGEL - International",
+      "published_at": "2025-08-19T12:38:00+00:00",
+      "summary": "Donald Trump's continued attacks on Federal Reserve chief Jerome Powell threaten the pillars of the U.S. economy. He could be planning a complete MAGA takeover of monetary policy.",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
     },
     {
       "id": "94acb620688a10ba",
@@ -2428,7 +3176,31 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "3f07d243c1ef3d7b",
+      "title": "Of atomic bombs, Animal Farm and a looming inflection point in world history",
+      "url": "https://www.dailymaverick.co.za/article/2025-08-18-of-atomic-bombs-animal-farm-and-a-looming-inflection-point-in-world-history/",
+      "source": "World Archives - Daily Maverick",
+      "published_at": "2025-08-18T19:14:19+00:00",
+      "summary": "This past week marked two monumental but very different anniversaries — the surrender of Japan in World War 2 and the publication of George Orwell’s immensely powerful allegory, Animal Farm. The post Of atomic bombs, Animal Farm and a looming inflection point in world history appeared first on Daily Maverick .",
+      "tags": [
+        "IST",
+        "Türkiye",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Istanbul",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -2448,7 +3220,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -2468,7 +3242,9 @@
         "airport": "Frankfurt",
         "city": "Frankfurt",
         "country": "Germany",
-        "iata": "FRA"
+        "iata": "FRA",
+        "lat": 50.0379,
+        "lon": 8.5622
       }
     },
     {
@@ -2488,7 +3264,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -2508,7 +3286,9 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
@@ -2551,6 +3331,28 @@
       "geo": {}
     },
     {
+      "id": "6244a292f0bce41c",
+      "title": "Standing Up to Putin's Regime: The Russian Lawyer Who Refuses to Back Down",
+      "url": "https://www.spiegel.de/international/world/standing-up-to-putins-regime-the-russian-lawyer-who-refuses-to-back-down-a-b549a535-7dfe-4e29-bd84-9c30206baacc#ref=rss",
+      "source": "DER SPIEGEL - International",
+      "published_at": "2025-08-06T07:42:00+00:00",
+      "summary": "Only very few defense attorneys in Russia are still prepared to represent opposition activists in court against charges of being \"traitors\" and \"terrorists\". Maria Bontsler is one of them - and is now in prison herself.",
+      "tags": [
+        "IST",
+        "Türkiye",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Istanbul",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
+      }
+    },
+    {
       "id": "9a6cf6694545d982",
       "title": "(no title)",
       "url": "https://scottishgames.net/2025/08/05/scotnesia-games-ecosystem-exchange-august-2025/",
@@ -2567,7 +3369,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -2580,6 +3384,7 @@
       "tags": [
         "SIN",
         "Singapore",
+        "airport/security",
         "diplomatic"
       ],
       "type": "social",
@@ -2587,7 +3392,9 @@
         "airport": "Changi",
         "city": "Singapore",
         "country": "Singapore",
-        "iata": "SIN"
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
       }
     },
     {
@@ -2607,7 +3414,9 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
@@ -2627,7 +3436,9 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
@@ -2648,7 +3459,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -2668,7 +3481,9 @@
         "airport": "Istanbul",
         "city": "Istanbul",
         "country": "Türkiye",
-        "iata": "IST"
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
       }
     },
     {
@@ -2688,7 +3503,9 @@
         "airport": "Manchester",
         "city": "Manchester",
         "country": "United Kingdom",
-        "iata": "MAN"
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
       }
     },
     {
@@ -2708,7 +3525,9 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
@@ -2754,7 +3573,9 @@
         "airport": "O'Hare",
         "city": "Chicago",
         "country": "United States",
-        "iata": "ORD"
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
       }
     },
     {
