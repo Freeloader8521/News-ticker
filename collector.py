@@ -2,21 +2,26 @@
 """
 Collector for the Global Situational Awareness Dashboard.
 
-- Reads feeds from feeds.yaml
-- Filters by watch_terms.yaml (keeps items that match airport/security or diplomatic)
-- Strips HTML
-- Matches airports by alias/IATA and injects geo (iata, city, country) + lat/lon
-- Stores BOTH originals and English translations:
-    title_orig, summary_orig, lang, title_en, summary_en
-- Social posts without a title -> first line of the content as title
-- Classifies: major news / local news / social
-- De-dupes by newest and writes data.json
+What it does
+- Loads feeds from feeds.yaml (news, aviation authorities, official, weather, social)
+- Loads airport aliases/IATA + lat/lon from airports.json
+- Normalises each entry:
+    • strips HTML
+    • detects language and stores originals + English translations
+      (title_orig, summary_orig, lang, title_en, summary_en)
+    • matches airports safely (no false hits like 'firST' → IST)
+      and injects geo = {iata, airport, city, country, lat, lon}
+    • tags items for airport/security or diplomatic terms
+    • classifies type: major news / local news / social
+    • falls back to first line of content if title is missing
+- De-duplicates by newest and writes data.json
 """
 
-import re
 import json
+import re
 import hashlib
 from datetime import datetime, timezone
+from typing import Any, Dict, List
 
 import requests
 import feedparser
@@ -27,6 +32,9 @@ from langdetect import detect, LangDetectException
 from deep_translator import GoogleTranslator
 
 # ----------------------------- Basics -----------------------------
+
+UA = {"User-Agent": "GSA-Collector/1.5 (+https://streamlit.app)"}
+
 def now_utc() -> datetime:
     return datetime.now(timezone.utc)
 
@@ -44,8 +52,6 @@ def clean_source(feed_title: str, url: str) -> str:
         t = re.sub(r"\s*RSS\s*Feed.*$", "", t, flags=re.I)
         return t
     return get_domain(url)
-
-UA = {"User-Agent": "GSA-Collector/1.4 (+https://streamlit.app)"}
 
 def strip_html(raw: str) -> str:
     if not raw:
@@ -69,7 +75,9 @@ def to_english(s: str) -> str:
     except Exception:
         return s  # best-effort
 
-# ----------------------------- Feeds -----------------------------
+# ----------------------------- Config & Lists -----------------------------
+
+# feeds.yaml
 try:
     with open("feeds.yaml", "r", encoding="utf-8") as f:
         FEEDS = yaml.safe_load(f) or {}
@@ -91,7 +99,7 @@ MAJOR_DOMAINS = {
     "nhc.noaa.gov","weather.gov"
 }
 
-# ----------------------------- Watch terms -----------------------------
+# watch_terms.yaml
 with open("watch_terms.yaml", "r", encoding="utf-8") as f:
     TERMS = yaml.safe_load(f) or {}
 CORE    = set(TERMS.get("core_terms", []))
@@ -102,24 +110,26 @@ def should_exclude(text: str) -> bool:
     t = (text or "").lower()
     return any(x.lower() in t for x in EXCLUDE)
 
-def tags_for(text: str):
+def tags_for(text: str) -> List[str]:
     t = (text or "").lower()
-    out = []
+    out: List[str] = []
     if any(x.lower() in t for x in CORE):
         out.append("airport/security")
     if any(x.lower() in t for x in DIPLO):
         out.append("diplomatic")
     return out
 
-# ----------------------------- Airports (with lat/lon) -----------------------------
+# ----------------------------- Airports (aliases + lat/lon) -----------------------------
+
 try:
     with open("airports.json", "r", encoding="utf-8") as f:
         AIRPORTS = json.load(f)
 except FileNotFoundError:
     AIRPORTS = []
 
-ALIASES = {}     # alias(lower) -> meta
-IATA_TO_LL = {}  # IATA(upper) -> (lat, lon)
+ALIASES: Dict[str, Dict[str, Any]] = {}     # alias(lower) -> meta
+IATA_TO_LL: Dict[str, tuple] = {}           # IATA(upper) -> (lat, lon)
+
 for a in AIRPORTS:
     meta = {
         "iata": a.get("iata"),
@@ -136,32 +146,73 @@ for a in AIRPORTS:
         if alias:
             ALIASES[alias.lower()] = meta
 
+# Safer context around IATA codes
+AIRPORT_CONTEXT = re.compile(r"\b(airport|intl|international|terminal|airfield|aerodrome)s?\b", re.I)
+
+def _has_airport_context(text: str, pos: int, window: int = 48) -> bool:
+    """Is there 'airport/intl/terminal' near this position?"""
+    start = max(0, pos - window)
+    end   = min(len(text), pos + window)
+    return bool(AIRPORT_CONTEXT.search(text[start:end]))
+
 def match_airport(text: str):
-    t = (text or "").lower()
+    """
+    Safer airport matcher:
+      - prefers full-name aliases (e.g. 'Istanbul Airport')
+      - only accepts IATA codes as standalone tokens (word boundaries)
+      - for bare IATA matches, requires nearby 'airport/intl/terminal' context
+      - never matches IATA codes embedded inside words (e.g. 'firST' → IST)
+    """
+    if not text:
+        return None
+
+    t_lower = text.lower()
+    t_upper = text.upper()
+
+    # 1) Full-name aliases first (allow without 'airport' if context is nearby)
     for alias, meta in ALIASES.items():
-        if alias and alias in t:
-            iata = (meta.get("iata") or "").upper()
-            lat, lon = None, None
-            if iata and iata in IATA_TO_LL:
-                lat, lon = IATA_TO_LL[iata]
-            out = {
-                "iata": meta.get("iata"),
-                "name": meta.get("name"),
-                "city": meta.get("city"),
-                "country": meta.get("country"),
+        if not alias:
+            continue
+        # skip pure 3-letter aliases here; handled below as IATA
+        if len(alias) == 3 and alias.isalpha():
+            continue
+
+        for m in re.finditer(rf"\b{re.escape(alias)}\b", t_lower):
+            pos = m.start()
+            if ("airport" in alias) or _has_airport_context(t_lower, pos):
+                iata = (meta.get("iata") or "").upper()
+                lat = meta.get("lat"); lon = meta.get("lon")
+                out = {
+                    "iata": iata or None,
+                    "name": meta.get("name"),
+                    "city": meta.get("city"),
+                    "country": meta.get("country"),
+                }
+                if isinstance(lat, (int, float)) and isinstance(lon, (int, float)):
+                    out["lat"] = lat; out["lon"] = lon
+                elif iata and iata in IATA_TO_LL:
+                    out["lat"], out["lon"] = IATA_TO_LL[iata]
+                return out
+
+    # 2) Standalone IATA tokens with airport context nearby
+    for m in re.finditer(r"\b([A-Z]{3})\b", t_upper):
+        token = m.group(1)
+        if token in IATA_TO_LL and _has_airport_context(t_lower, m.start()):
+            lat, lon = IATA_TO_LL[token]
+            meta = next((a for a in AIRPORTS if (a.get("iata") or "").upper() == token), None)
+            return {
+                "iata": token,
+                "name": meta.get("name") if meta else None,
+                "city": meta.get("city") if meta else None,
+                "country": meta.get("country") if meta else None,
+                "lat": lat,
+                "lon": lon,
             }
-            if lat is not None and lon is not None:
-                out["lat"] = lat
-                out["lon"] = lon
-            return out
+
     return None
 
-def classify_type(url: str, declared_type: str, src_domain: str) -> str:
-    if (declared_type or "").lower() == "social":
-        return "social"
-    return "major news" if any(src_domain.endswith(d) for d in MAJOR_DOMAINS) else "local news"
+# ----------------------------- Fetch & normalise -----------------------------
 
-# ----------------------------- Fetch/normalise -----------------------------
 def fetch_feed(url: str):
     try:
         r = requests.get(url, headers=UA, timeout=20)
@@ -181,6 +232,11 @@ def derive_title(raw_title: str, summary: str) -> str:
     first = next((ln for ln in s if ln.strip()), "")
     return (first[:160] if first else "(no title)")
 
+def classify_type(url: str, declared_type: str, src_domain: str) -> str:
+    if (declared_type or "").lower() == "social":
+        return "social"
+    return "major news" if any(src_domain.endswith(d) for d in MAJOR_DOMAINS) else "local news"
+
 def normalise(entry, feedtitle: str, declared_type: str):
     url = entry.get("link", "") or entry.get("id", "") or ""
     raw_title = entry.get("title", "") or ""
@@ -190,11 +246,12 @@ def normalise(entry, feedtitle: str, declared_type: str):
     summary_clean = strip_html(raw_summary)
     title_clean = derive_title(raw_title, summary_clean)
 
-    # Detect + translate
+    # Detect + translate (stored so the app can toggle)
     lang = safe_detect(f"{title_clean} {summary_clean}")
     title_en = title_clean if lang == "en" else to_english(title_clean)
     summary_en = summary_clean if lang == "en" else to_english(summary_clean)
 
+    # Filtering text in English
     text_for_filter = f"{title_en} {summary_en}"
     if should_exclude(text_for_filter):
         return None
@@ -214,7 +271,7 @@ def normalise(entry, feedtitle: str, declared_type: str):
     src_dom = get_domain(url)
     src_name = clean_source(feedtitle, url)
 
-    # Tags & geo (geo ONLY from airport match)
+    # Tags & geo (ONLY from an airport match)
     item_tags = tags_for(text_for_filter)
     geo = {}
     ap = match_airport(text_for_filter)
@@ -242,13 +299,15 @@ def normalise(entry, feedtitle: str, declared_type: str):
 
     return {
         "id": sha1_16(url or title_en),
-        # originals + translations
+
+        # originals + translations for UI toggle
         "title_orig": title_clean,
         "summary_orig": summary_clean,
         "lang": lang,
         "title_en": title_en,
         "summary_en": summary_en,
-        # legacy convenience (English by default)
+
+        # legacy convenience (English default)
         "title": title_en,
         "summary": summary_en,
 
@@ -261,8 +320,9 @@ def normalise(entry, feedtitle: str, declared_type: str):
     }
 
 # ----------------------------- Collect -----------------------------
+
 def collect_block(feed_urls, declared_type: str, per_feed_limit: int = 80):
-    items = []
+    items: List[Dict[str, Any]] = []
     for f in feed_urls:
         feedtitle, entries = fetch_feed(f)
         for e in entries[:per_feed_limit]:
@@ -272,7 +332,7 @@ def collect_block(feed_urls, declared_type: str, per_feed_limit: int = 80):
     return items
 
 def collect_all():
-    items = []
+    items: List[Dict[str, Any]] = []
     items += collect_block(NEWS_FEEDS, "news")
     items += collect_block(AUTH_FEEDS, "news")
     items += collect_block(OFFICIAL_FEEDS, "news")
@@ -280,7 +340,7 @@ def collect_all():
     items += collect_block(SOCIAL_FEEDS, "social")
 
     # De-dupe newest
-    best = {}
+    best: Dict[str, Dict[str, Any]] = {}
     for it in items:
         k = it["id"]
         if (k not in best) or (it["published_at"] > best[k]["published_at"]):
@@ -290,6 +350,7 @@ def collect_all():
     return out[:500]
 
 # ----------------------------- Main -----------------------------
+
 def main():
     items = collect_all()
     data = {"generated_at": now_utc().isoformat(), "items": items, "trends": {}}
@@ -299,4 +360,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
