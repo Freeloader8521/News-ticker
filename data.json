@@ -1,9 +1,53 @@
 {
-  "generated_at": "2025-09-12T15:33:30.770289+00:00",
+  "generated_at": "2025-09-12T15:48:33.335905+00:00",
   "items": [
     {
+      "id": "ba8984cfb2ec5c07",
+      "title": "Former Judge Sushila Karki Named Nepal’s Leader After Gen Z Protests",
+      "url": "https://www.nytimes.com/2025/09/12/world/asia/nepal-protests-leader-karki-gen-z.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-12T15:33:10+00:00",
+      "summary": "Sushila Karki, a former chief justice, was the choice of the student protesters whose mass rallies on Monday started a violent uprising that toppled the government.",
+      "tags": [
+        "SIN",
+        "Singapore",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Changi",
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN",
+        "lat": 1.3644,
+        "lon": 103.9915
+      }
+    },
+    {
+      "id": "30a5b0be99cce1c8",
+      "title": "Rutte calls Russian drones incursion into Poland ‘largest concentration of violations into Nato airspace’ – Europe live",
+      "url": "https://www.theguardian.com/world/live/2025/sep/12/poland-russia-drones-ukraine-war-latest-news-europe-live",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-12T15:29:26+00:00",
+      "summary": "Rutte says that ‘America’s commitment to Nato’s ironclad in every sense’ and he is ‘very happy with the American reaction’ Tusk also says the announcement with BAE Systems is “only a part of our cooperation with the UK.” He says he “ received another message from prime minister Starmer about greater UK involvement in military assistance, here in Poland , on an urgent basis,” without offering further details. Continue reading...",
+      "tags": [
+        "IST",
+        "Türkiye",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Istanbul",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
+      }
+    },
+    {
       "id": "6ebc55782002e24d",
-      "title": "(no title)",
+      "title": "Aviation weather for Eduardo Falla Solano airport in San Vicente Del Caguán area (Colombia) is “SKSV 121500Z NIL” :  See what it means on https://www. bigorre.o",
       "url": "https://mastodon.social/@bigorre_org/115192005211191232",
       "source": "#airport",
       "published_at": "2025-09-12T15:21:49+00:00",
@@ -24,30 +68,8 @@
       }
     },
     {
-      "id": "30a5b0be99cce1c8",
-      "title": "Rutte calls Russian drones incursion into Poland ‘largest concentration of violations into Nato airspace’ – Europe live",
-      "url": "https://www.theguardian.com/world/live/2025/sep/12/poland-russia-drones-ukraine-war-latest-news-europe-live",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-12T15:14:51+00:00",
-      "summary": "Nato’s Rutte and US Air Force general speaking now on Russian drone incursion Tusk also says the announcement with BAE Systems is “only a part of our cooperation with the UK.” He says he “ received another message from prime minister Starmer about greater UK involvement in military assistance, here in Poland , on an urgent basis,” without offering further details. Continue reading...",
-      "tags": [
-        "IST",
-        "Türkiye",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Istanbul",
-        "city": "Istanbul",
-        "country": "Türkiye",
-        "iata": "IST",
-        "lat": 41.2753,
-        "lon": 28.7519
-      }
-    },
-    {
       "id": "1169cf11482cd7de",
-      "title": "(no title)",
+      "title": "Aviation weather for London Heathrow airport (UK) is “EGLL 121450Z AUTO 27017KT 9999 -RA SCT042/// //////CB 16/09 Q1011” :  See what it means on https://www. bi",
       "url": "https://mastodon.social/@bigorre_org/115191944312271485",
       "source": "#airport",
       "published_at": "2025-09-12T15:06:20+00:00",
@@ -69,7 +91,7 @@
     },
     {
       "id": "76c6bba508d8427c",
-      "title": "(no title)",
+      "title": "The departure delay at Teterboro # Airport ( # TEB ) has decreased to 15-29 minutes and is still decreasing. # AirportStatusBot",
       "url": "https://mastodon.social/@AirportStatusBot/115191936071148012",
       "source": "#airport",
       "published_at": "2025-09-12T15:04:14+00:00",
@@ -113,7 +135,7 @@
     },
     {
       "id": "478334432291e543",
-      "title": "(no title)",
+      "title": "How many runways can you see for La Crosse Municipal airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/klse/en # lacrosse # usa # lacrosse",
       "url": "https://mastodon.social/@bigorre_org/115191929031395698",
       "source": "#airport",
       "published_at": "2025-09-12T15:02:26+00:00",
@@ -192,7 +214,7 @@
     },
     {
       "id": "57d51630761838ae",
-      "title": "(no title)",
+      "title": "How many runways can you see for Daytona Beach International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kdab/en # daytonabeach # us",
       "url": "https://mastodon.social/@bigorre_org/115191847292322918",
       "source": "#airport",
       "published_at": "2025-09-12T14:41:39+00:00",
@@ -302,7 +324,7 @@
     },
     {
       "id": "3c91e0b5079f8d82",
-      "title": "(no title)",
+      "title": "How many runways can you see for Beauregard Regional airport in De Ridder area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kdri/en # deridde",
       "url": "https://mastodon.social/@bigorre_org/115191748565848162",
       "source": "#airport",
       "published_at": "2025-09-12T14:16:33+00:00",
@@ -324,7 +346,7 @@
     },
     {
       "id": "0bbd24e7ad48202a",
-      "title": "(no title)",
+      "title": "The departure delay for Ronald Reagan Washington National # Airport ( # DCA ) is no longer in effect. # AirportStatusBot",
       "url": "https://mastodon.social/@AirportStatusBot/115191707566566315",
       "source": "#airport",
       "published_at": "2025-09-12T14:06:07+00:00",
@@ -346,7 +368,7 @@
     },
     {
       "id": "c1b1121c8dc6ad60",
-      "title": "(no title)",
+      "title": "Aviation weather for Los Angeles International airport (USA) is “KLAX 121353Z 08005KT 8SM FEW009 SCT012 OVC021 19/16 A2994 RMK AO2 SLP136 T01940161 $” :  See wh",
       "url": "https://mastodon.social/@bigorre_org/115191693147482256",
       "source": "#airport",
       "published_at": "2025-09-12T14:02:27+00:00",
@@ -368,7 +390,7 @@
     },
     {
       "id": "8d0598027b20d954",
-      "title": "(no title)",
+      "title": "The departure delay at Teterboro # Airport ( # TEB ) has decreased to 30-44 minutes and is now decreasing. # AirportStatusBot",
       "url": "https://mastodon.social/@AirportStatusBot/115191691369732983",
       "source": "#airport",
       "published_at": "2025-09-12T14:02:00+00:00",
@@ -390,7 +412,7 @@
     },
     {
       "id": "e72062c16f5477df",
-      "title": "(no title)",
+      "title": "The departure delay at Teterboro # Airport ( # TEB ) has increased to 46-60 minutes and is still increasing. # AirportStatusBot",
       "url": "https://mastodon.social/@AirportStatusBot/115191687209105899",
       "source": "#airport",
       "published_at": "2025-09-12T14:00:56+00:00",
@@ -456,7 +478,7 @@
     },
     {
       "id": "3668cc2eb73f9872",
-      "title": "(no title)",
+      "title": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being delayed at their origin # airport . Delays are currently averaging 52 minutes an",
       "url": "https://mastodon.social/@AirportStatusBot/115191671095208658",
       "source": "#airport",
       "published_at": "2025-09-12T13:56:51+00:00",
@@ -478,7 +500,7 @@
     },
     {
       "id": "73ab16af4c48545d",
-      "title": "(no title)",
+      "title": "Aviation weather for Augusto C. Sandino (Managua) International airport (Nicaragua) is “MNMG 121300Z 00000KT 9999 FEW022 BKN300 27/23 Q1012 A2990 NOSIG” :  See ",
       "url": "https://mastodon.social/@bigorre_org/115191669375337860",
       "source": "#airport",
       "published_at": "2025-09-12T13:56:24+00:00",
@@ -526,7 +548,7 @@
     },
     {
       "id": "8473094ce87d17e0",
-      "title": "(no title)",
+      "title": "How many runways can you see for Charlotte Douglas International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kclt/en # charlotte # u",
       "url": "https://mastodon.social/@bigorre_org/115191591664643302",
       "source": "#airport",
       "published_at": "2025-09-12T13:36:38+00:00",
@@ -548,7 +570,7 @@
     },
     {
       "id": "b30ce92d6ad5514e",
-      "title": "(no title)",
+      "title": "The departure delay at Ronald Reagan Washington National # Airport ( # DCA ) has increased to 31-45 minutes and is still increasing. # AirportStatusBot",
       "url": "https://mastodon.social/@AirportStatusBot/115191558259215277",
       "source": "#airport",
       "published_at": "2025-09-12T13:28:09+00:00",
@@ -592,7 +614,7 @@
     },
     {
       "id": "cc27820011c8ac6c",
-      "title": "(no title)",
+      "title": "A departure delay has been issued for Ronald Reagan Washington National # Airport ( # DCA ) due to military operations. Current delays are 16-30 minutes and inc",
       "url": "https://mastodon.social/@AirportStatusBot/115191522078704722",
       "source": "#airport",
       "published_at": "2025-09-12T13:18:57+00:00",
@@ -636,7 +658,7 @@
     },
     {
       "id": "e11bef3d10b31efb",
-      "title": "(no title)",
+      "title": "How many runways can you see for Michael J. Smith Field airport in Beaufort area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kmrh/en # beauf",
       "url": "https://mastodon.social/@bigorre_org/115191492064996538",
       "source": "#airport",
       "published_at": "2025-09-12T13:11:19+00:00",
@@ -658,7 +680,7 @@
     },
     {
       "id": "93d3abda795a5083",
-      "title": "(no title)",
+      "title": "Aviation weather for John F Kennedy International airport in New York area (USA) is “KJFK 121251Z 05011KT 10SM BKN065 BKN250 20/13 A3021 RMK AO2 SLP230 T0200012",
       "url": "https://mastodon.social/@bigorre_org/115191435633075972",
       "source": "#airport",
       "published_at": "2025-09-12T12:56:58+00:00",
@@ -680,7 +702,7 @@
     },
     {
       "id": "7aa6c780960b8156",
-      "title": "(no title)",
+      "title": "Aviation weather for Desierto de Atacama airport in Copiapo area (Chile) is “SCAT 121100Z AUTO 35009KT //// R17/P2000N BKN002/// OVC009/// 11/11 Q1014” :  See w",
       "url": "https://mastodon.social/@bigorre_org/115191414674297906",
       "source": "#airport",
       "published_at": "2025-09-12T12:51:38+00:00",
@@ -759,7 +781,7 @@
     },
     {
       "id": "537123e47810ea2e",
-      "title": "(no title)",
+      "title": "The departure delay at Teterboro # Airport ( # TEB ) has increased to 31-45 minutes and is still increasing. # AirportStatusBot",
       "url": "https://mastodon.social/@AirportStatusBot/115191348504305449",
       "source": "#airport",
       "published_at": "2025-09-12T12:34:48+00:00",
@@ -781,7 +803,7 @@
     },
     {
       "id": "661140275c15cd51",
-      "title": "(no title)",
+      "title": "How many runways can you see for Miramichi airport (Canada) ? :  The answer is on https://www. bigorre.org/aero/meteo/cych/en # miramichi # canada # miramichiai",
       "url": "https://mastodon.social/@bigorre_org/115191337430882036",
       "source": "#airport",
       "published_at": "2025-09-12T12:31:59+00:00",
@@ -1056,28 +1078,6 @@
       "geo": {}
     },
     {
-      "id": "4913147ceb1364b7",
-      "title": "What to Know About the Protests in Nepal",
-      "url": "https://www.nytimes.com/2025/09/10/world/asia/nepal-gen-z-protests.html",
-      "source": "NYT > World News",
-      "published_at": "2025-09-12T08:56:09+00:00",
-      "summary": "Troops patrolled the capital after days of unrest led to the resignation of the country’s prime minister. Protesters say they want a former chief justice to lead Nepal’s interim government.",
-      "tags": [
-        "IST",
-        "Türkiye",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Istanbul",
-        "city": "Istanbul",
-        "country": "Türkiye",
-        "iata": "IST",
-        "lat": 41.2753,
-        "lon": 28.7519
-      }
-    },
-    {
       "id": "7ffa68f4660af0e4",
       "title": "Wizz Air A321XLR hard landing and tail strike at Prague Airport",
       "url": "https://www.reddit.com/r/aviation/comments/1ney13k/wizz_air_a321xlr_hard_landing_and_tail_strike_at/",
@@ -1089,6 +1089,28 @@
       ],
       "type": "social",
       "geo": {}
+    },
+    {
+      "id": "7bd9abecc6a5e706",
+      "title": "Trump says Russian drone incursion 'could have been a mistake' — Poland denies",
+      "url": "https://www.reddit.com/r/worldnews/comments/1nexmyp/trump_says_russian_drone_incursion_could_have/",
+      "source": "World News",
+      "published_at": "2025-09-12T08:25:16+00:00",
+      "summary": "submitted by /u/JioMetaX [link] [comments]",
+      "tags": [
+        "IST",
+        "Türkiye",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Istanbul",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
+      }
     },
     {
       "id": "9fed610cfc46b676",
@@ -1146,28 +1168,6 @@
       ],
       "type": "major news",
       "geo": {}
-    },
-    {
-      "id": "e33f916346b08d4f",
-      "title": "Enquête : dans un quartier de Gaza assiégé par l’armée israélienne, des drones incendiaires bombardent un hôpital",
-      "url": "https://www.lemonde.fr/international/article/2025/09/12/enquete-dans-un-quartier-de-gaza-assiege-par-l-armee-israelienne-des-drones-incendiaires-bombardent-un-hopital_6640580_3210.html",
-      "source": "International : Toute l’actualité sur Le Monde.fr.",
-      "published_at": "2025-09-12T08:00:04+00:00",
-      "summary": "De nombreuses vidéos authentifiées par « Le Monde » révèlent que des drones quadricoptères ont largué des projectiles incendiaires sur des ambulances et des tentes de déplacés, dans une zone de la ville de Gaza ciblée par l’armée israélienne.",
-      "tags": [
-        "BOM",
-        "India",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Chhatrapati Shivaji",
-        "city": "Mumbai",
-        "country": "India",
-        "iata": "BOM",
-        "lat": 19.0896,
-        "lon": 72.8656
-      }
     },
     {
       "id": "557a710696043d9f",
@@ -1649,7 +1649,7 @@
     },
     {
       "id": "ae9e668a3b9525b1",
-      "title": "(no title)",
+      "title": "Sky News Faces Backlash from UK Embassy Over Epstein Questioning of Peter Mandelson Sky News faced significant fallout from the UK embassy after a confrontation",
       "url": "https://killbait.com/posts/page/sky-news-faces-backlash-from-uk-embassy-over-epstein-questioning-of-peter-mandelson",
       "source": "#embassy",
       "published_at": "2025-09-12T00:21:54+00:00",
@@ -2710,7 +2710,7 @@
     },
     {
       "id": "4336788383c0fa01",
-      "title": "(no title)",
+      "title": "Legal Challenges to China’s Proposed Mega Embassy in London This kind of rhetoric is just paranoid. An embassy is an embassy, and the UK government should be mo",
       "url": "https://killbait.com/posts/page/legal-challenges-to-china-s-proposed-mega-embassy-in-london?ridcomment=4fb204f9-d48c-488f-9d70-19d199886b7b#comment2",
       "source": "#embassy",
       "published_at": "2025-09-10T06:18:09+00:00",
@@ -2754,7 +2754,7 @@
     },
     {
       "id": "2e834ba02d895e81",
-      "title": "(no title)",
+      "title": "Legal Challenges to China’s Proposed Mega Embassy in London The UK government's plan to approve a Chinese 'mega embassy' near the Tower of London has sparked le",
       "url": "https://killbait.com/posts/page/legal-challenges-to-china-s-proposed-mega-embassy-in-london",
       "source": "#embassy",
       "published_at": "2025-09-10T04:26:17+00:00",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": "381f851a00e2dd0c",
-      "title": "(no title)",
+      "title": "Belgium arrests suspect with Molotov cocktail outside Israeli embassy, Israeli Foreign Ministry says By&nbspEuronews Published on 06/09/2025 – 9:29 GMT+2 ADVERT",
       "url": "https://newsbeep.org/@newsbeep/115156687852711517",
       "source": "#embassy",
       "published_at": "2025-09-06T09:40:09+00:00",
@@ -2934,7 +2934,7 @@
     },
     {
       "id": "bc3a1f3e83a3a141",
-      "title": "(no title)",
+      "title": "In these troubled times we live in, many members of our group are involved with # activism for multiple causes. However, we still make the time to come together",
       "url": "https://mastodon.world/@UyghurCrisisResponseTeam/115142927772390835",
       "source": "#embassy",
       "published_at": "2025-09-03T23:20:46+00:00",
@@ -2979,7 +2979,7 @@
     },
     {
       "id": "3952e57cc4940647",
-      "title": "(no title)",
+      "title": "# TimeWarp to mid March 2020, after  the first 4 deaths in # Switzerland , we had a # Lockdown but nevertheless an appointment at the # GermanEmbassy in # Berne",
       "url": "https://tooting.ch/@hafelg/115121610750602434",
       "source": "#embassy",
       "published_at": "2025-08-31T04:59:34+00:00",
@@ -3068,7 +3068,7 @@
     },
     {
       "id": "3b4c52fe4874f94e",
-      "title": "(no title)",
+      "title": "Inside China’s Controversial London Mega-Embassy https://www. youtube.com/watch?v=iiMDdihT5Y4 # Embassy # London # China # spying # spies # evesdropping",
       "url": "https://mastodon.social/@spacemagick/115068006329678451",
       "source": "#embassy",
       "published_at": "2025-08-21T17:47:16+00:00",
@@ -3081,7 +3081,7 @@
     },
     {
       "id": "8721c31964e63086",
-      "title": "(no title)",
+      "title": "German prosecutors have filed charges against a Russian national before the state security senate of the Berlin Court of Justice, alleging support for the terro",
       "url": "https://mastodon.social/@osnafm/115060523262541594",
       "source": "#embassy",
       "published_at": "2025-08-20T10:04:13+00:00",
@@ -3117,7 +3117,7 @@
     },
     {
       "id": "94acb620688a10ba",
-      "title": "(no title)",
+      "title": "🇰🇪✈️ Border # Injustice in # Kenya I was denied my right to leave Kenya and contact my # embassy — a clear # violation of international law and # humanrights . ",
       "url": "https://mastodon.world/@rubenstorm/115051770331862445",
       "source": "#embassy",
       "published_at": "2025-08-18T20:58:14+00:00",
@@ -3183,7 +3183,7 @@
     },
     {
       "id": "8f38b947a9a068bf",
-      "title": "(no title)",
+      "title": "France says citizen arrested in Mali is an accredited embassy employee http:// newsfeed.facilit8.network/TMXJ X1 # France # Mali # Embassy # Diplomacy # Politic",
       "url": "https://journa.host/@africa/115044016340148130",
       "source": "#embassy",
       "published_at": "2025-08-17T12:06:18+00:00",
@@ -3227,7 +3227,7 @@
     },
     {
       "id": "7c62a2c0ac5637b3",
-      "title": "(no title)",
+      "title": "Estonia expels senior Russian diplomat for # subversion , sanctions violations Official note delivered to # Russia 's charge d’affaires, # Estonia ordered Prile",
       "url": "https://mastodon.scot/@paka/115027587275865821",
       "source": "#embassy",
       "published_at": "2025-08-14T14:28:10+00:00",
@@ -3249,7 +3249,7 @@
     },
     {
       "id": "f39bb51d43728974",
-      "title": "(no title)",
+      "title": "TIL you cannot do a TLS request in embedded rust or no_std that checks the server certificate. And that the raspberry pi pico wifi HAL does not support setting ",
       "url": "https://social.treehouse.systems/@Aissen/115017482091169582",
       "source": "#embassy",
       "published_at": "2025-08-12T19:38:17+00:00",
@@ -3262,7 +3262,7 @@
     },
     {
       "id": "0aaee2c24031f8b0",
-      "title": "(no title)",
+      "title": "“This is deeply damaging incompetence,” former U.S. ambassador to Russia Michael McFaul posted on social media. “ #Witkoff should finally start taking a notetak",
       "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:5zca2ola2zxpkw37w4f3wxtu/post/3lw4pslr7kc2r",
       "source": "#embassy",
       "published_at": "2025-08-11T11:44:09+00:00",
@@ -3275,7 +3275,7 @@
     },
     {
       "id": "eab566833ce62d0b",
-      "title": "(no title)",
+      "title": "Legal stoush between Russia and Australia over embassy site near Parliament House reaches the High Court There may be a touch of the Cold War in the air in Canb",
       "url": "https://newsbeep.org/@newsbeep/114982258142070422",
       "source": "#embassy",
       "published_at": "2025-08-06T14:20:22+00:00",
@@ -3310,7 +3310,7 @@
     },
     {
       "id": "9a6cf6694545d982",
-      "title": "(no title)",
+      "title": "SGN Partners with Indonesian Embassy for ‘Scotnesia’ Games Ecosystem Exchange The Scottish Games Network is delighted to announce the Scotnesia Game Exchange 20",
       "url": "https://scottishgames.net/2025/08/05/scotnesia-games-ecosystem-exchange-august-2025/",
       "source": "#embassy",
       "published_at": "2025-08-05T10:17:30+00:00",
@@ -3332,7 +3332,7 @@
     },
     {
       "id": "85af77e3fedf33e3",
-      "title": "(no title)",
+      "title": "# Microsoft catches # Russian # hackers targeting foreign # embassies Russian-state hackers are targeting foreign embassies in # Moscow with custom # malware th",
       "url": "https://mas.to/@PrivacyDigest/114966265745594439",
       "source": "#embassy",
       "published_at": "2025-08-03T18:33:18+00:00",
@@ -3355,7 +3355,7 @@
     },
     {
       "id": "ca25a9c4027d5979",
-      "title": "(no title)",
+      "title": "Japanese Embassy expresses deep concern after visit to Thai-Cambodian border, urges ceasefire commitment The Japanese Embassy in Thailand issued a statement via",
       "url": "https://channels.im/@Japan/114957292170939939",
       "source": "#embassy",
       "published_at": "2025-08-02T04:31:12+00:00",
@@ -3377,7 +3377,7 @@
     },
     {
       "id": "d01b6b180787b9c0",
-      "title": "(no title)",
+      "title": "https://www. alojapan.com/1336601/japanese- embassy-expresses-deep-concern-after-visit-to-thai-cambodian-border-urges-ceasefire-commitment/ Japanese Embassy exp",
       "url": "https://channels.im/@alojapan/114957102895403445",
       "source": "#embassy",
       "published_at": "2025-08-02T03:43:04+00:00",
@@ -3399,7 +3399,7 @@
     },
     {
       "id": "1647dbf9d3f4b797",
-      "title": "(no title)",
+      "title": "Gaza starvation: Protests erupt at Egyptian embassies worldwide Activists accusing Egypt of refusing to let aid into the Gaza Strip amid a mounting starvation c",
       "url": "https://newsbeep.org/@newsbeep/114944508985951376",
       "source": "#embassy",
       "published_at": "2025-07-30T22:20:16+00:00",
@@ -3422,7 +3422,7 @@
     },
     {
       "id": "930a148575e852b1",
-      "title": "(no title)",
+      "title": "यात्रा चेतावनी: विदेश मंत्रालय ने आठ देशों और थाईलैंड के सात प्रांतों के लिए जारी किया अलर्ट; पढ़ें पूरी डिटेल 🌐 Like ‼️ Share ‼️ Follow ‼️ # News ₹travel # adv",
       "url": "https://mastodon.social/@HindiNews/114926030166161666",
       "source": "#embassy",
       "published_at": "2025-07-27T16:00:52+00:00",
