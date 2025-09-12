@@ -14,8 +14,9 @@ aviation_authorities:
 
 official_announcements:
   - https://www.gov.uk/search/news-and-communications.atom
-  - https://www.ncsc.gov.uk/api/1/news.rss          # corrected URL
-
+  - https://www.ncsc.gov.uk/information/rss-feeds/overview-news.rss
+  - https://www.ncsc.gov.uk/information/rss-feeds/guidance.rss
+  
 weather_alerts:
   - https://www.metoffice.gov.uk/public/data/PWSCache/WarningsRSS/Region/UK
   - https://alerts.weather.gov/cap/us.php?x=0
