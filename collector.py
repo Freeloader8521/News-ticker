@@ -220,13 +220,17 @@ def match_airport(text: str):
 
 def fetch_feed(url: str):
     try:
+        dom = get_domain(url)
+        if dom in BLOCKED_DOMAINS:
+            return dom, []  # ignore this feed entirely
         r = requests.get(url, headers=UA, timeout=20)
         r.raise_for_status()
         d = feedparser.parse(r.content)
-        return d.feed.get("title", get_domain(url)), d.entries
+        return d.feed.get("title", dom), d.entries
     except Exception as ex:
         print("Feed error:", url, ex)
         return get_domain(url), []
+
 
 def derive_title(raw_title: str, summary: str) -> str:
     t = strip_html(raw_title or "").strip()
