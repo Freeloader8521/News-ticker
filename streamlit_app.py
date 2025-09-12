@@ -118,15 +118,27 @@ st.session_state.seen_ids |= current_ids
 st.title("Global Situational Awareness Dashboard")
 st.markdown(_crest_html(), unsafe_allow_html=True)
 
-# Timestamp
-if generated:
+from datetime import datetime
+
+def pretty_dt(iso):
     try:
-        ts = datetime.fromisoformat(generated.replace("Z", "+00:00"))
-        st.caption(f"Last update: {ts.isoformat()}")
+        dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        return dt.strftime("%H:%M, %A %d %B %Y")
     except Exception:
-        st.caption(f"Last update: {generated}")
-else:
-    st.warning("No data yet. Check DATA_JSON_URL or wait for the collector to run.")
+        return iso or ""
+
+data = load_data()
+last = pretty_dt(data.get("generated_at"))
+
+st.markdown(
+    f"""
+    <div style="margin: 0.5rem 0 1rem 0;">
+        <span style="font-size:1.1rem; font-weight:600;">Last update:</span>
+        <span style="font-size:1.1rem;">{last}</span>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 
 # ------------------------- Controls -------------------------
 colA, colB = st.columns([2, 2])
