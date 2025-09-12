@@ -1,22 +1,21 @@
-name: collect-hourly
+name: collect-halfhourly
 
 on:
   schedule:
-    # Every hour at :00
-    - cron: "0 * * * *"
-  # Let you run it manually any time
+    # Every 30 minutes (at :00 and :30)
+    - cron: "*/30 * * * *"
+  # Manual run option
   workflow_dispatch: {}
 
-# Prevent overlapping runs from clobbering each other
+# Prevent overlapping runs
 concurrency:
-  group: collect-hourly
+  group: collect-halfhourly
   cancel-in-progress: true
 
 jobs:
   collect:
     runs-on: ubuntu-latest
 
-    # Needed so the job can push data.json back to the repo
     permissions:
       contents: write
 
@@ -24,7 +23,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # so rebase works properly
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,7 +42,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "actions@users.noreply.github.com"
-          # Make sure we’re up to date before pushing (avoids non–fast-forward)
           git pull --rebase origin main || true
           git add data.json
           git commit -m "Update data.json [ci skip]" || echo "No changes to commit"
