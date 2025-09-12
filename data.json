@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-12T21:36:17.255095+00:00",
+  "generated_at": "2025-09-12T21:38:25.569033+00:00",
   "items": [
     {
       "id": "e9d7bb1607a96b3c",
@@ -76,6 +76,24 @@
       "url": "https://www.bbc.com/news/articles/c179qne0zw0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-09-12T19:33:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "557f5d59e449d66b",
+      "title_orig": "Zookeeper mauled to death by lions in front of visitors at Thailand safari park",
+      "summary_orig": "The fatal attack took place when an employee stepped out of his vehicle.",
+      "lang": "en",
+      "title_en": "Zookeeper mauled to death by lions in front of visitors at Thailand safari park",
+      "summary_en": "The fatal attack took place when an employee stepped out of his vehicle.",
+      "title": "Zookeeper mauled to death by lions in front of visitors at Thailand safari park",
+      "summary": "The fatal attack took place when an employee stepped out of his vehicle.",
+      "url": "https://globalnews.ca/news/11416748/zookeeper-killed-lions-thailand-safari-park/",
+      "source": ": World",
+      "published_at": "2025-09-12T19:22:15+00:00",
       "tags": [
         "airport/security"
       ],
@@ -560,6 +578,24 @@
       "geo": {}
     },
     {
+      "id": "ec9faccad1c0b244",
+      "title_orig": "UN to hold emergency meeting on Russia’s drone incursion in Poland",
+      "summary_orig": "The United Nations Security Council is set to hold an emergency meeting at the request of the Polish Foreign Ministry after Russia violated its airspace.",
+      "lang": "en",
+      "title_en": "UN to hold emergency meeting on Russia’s drone incursion in Poland",
+      "summary_en": "The United Nations Security Council is set to hold an emergency meeting at the request of the Polish Foreign Ministry after Russia violated its airspace.",
+      "title": "UN to hold emergency meeting on Russia’s drone incursion in Poland",
+      "summary": "The United Nations Security Council is set to hold an emergency meeting at the request of the Polish Foreign Ministry after Russia violated its airspace.",
+      "url": "https://globalnews.ca/news/11408526/united-nations-emergency-meeting-russia-poland/",
+      "source": ": World",
+      "published_at": "2025-09-11T12:45:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "d7897700ac02d8c4",
       "title_orig": "Nepal’s Young Protesters Find an Unlikely Partner: The Army",
       "summary_orig": "After an explosion of popular rage tore through the country, its respected army was the only institution left standing. It’s now in talks with the protesters.",
@@ -791,6 +827,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "7d65f49ec1740422",
+      "title_orig": "What is NATO’s Article 4? Here’s what happens after Russian drone incursion",
+      "summary_orig": "The incursion of Russian drones into Poland's airspace came three days after Russia’s largest aerial attack on Ukraine since the war began.",
+      "lang": "en",
+      "title_en": "What is NATO’s Article 4? Here’s what happens after Russian drone incursion",
+      "summary_en": "The incursion of Russian drones into Poland's airspace came three days after Russia’s largest aerial attack on Ukraine since the war began.",
+      "title": "What is NATO’s Article 4? Here’s what happens after Russian drone incursion",
+      "summary": "The incursion of Russian drones into Poland's airspace came three days after Russia’s largest aerial attack on Ukraine since the war began.",
+      "url": "https://globalnews.ca/news/11406584/nato-article-4-russia/",
+      "source": ": World",
+      "published_at": "2025-09-10T13:26:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
