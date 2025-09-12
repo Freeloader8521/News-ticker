@@ -155,21 +155,18 @@ def play_beep():
     """
     st.markdown(audio_tag, unsafe_allow_html=True)
 
-# ---- Airports index for lat/lon (optional, for map) ----
-@st.cache_data(ttl=3600)
+# ---- Airports index for lat/lon (optional fallback) ----
 def load_airports_index():
-    """Return dicts for IATA->(lat,lon) and alias->IATA using airports.json if it contains lat/lon."""
+    """No cache: always read the latest airports.json."""
     try:
         with open("airports.json", "r", encoding="utf-8") as f:
             airports = json.load(f)
     except Exception:
         return {}, {}
 
-    iata_to_ll = {}
-    alias_to_iata = {}
+    iata_to_ll, alias_to_iata = {}, {}
     for a in airports:
         iata = (a.get("iata") or "").upper()
-        # accept lat/lon or latitude/longitude keys
         lat = a.get("lat", a.get("latitude"))
         lon = a.get("lon", a.get("longitude"))
         if iata and isinstance(lat, (int, float)) and isinstance(lon, (int, float)):
@@ -181,8 +178,10 @@ def load_airports_index():
             alias_to_iata[iata.lower()] = iata
     return iata_to_ll, alias_to_iata
 
-def item_latlon(it: Dict[str, Any], iata_to_ll: Dict[str, tuple]) -> tuple | None:
-    """Prefer explicit geo.lat/lon; fall back to IATA lookup in airports.json."""
+iata_to_ll, alias_to_iata = load_airports_index()
+
+def item_latlon(it: Dict[str, Any]) -> tuple | None:
+    """Use collector-provided geo.lat/lon first; otherwise try IATA->airports.json."""
     geo = it.get("geo", {}) or {}
     lat = geo.get("lat") or geo.get("latitude")
     lon = geo.get("lon") or geo.get("longitude")
@@ -193,55 +192,17 @@ def item_latlon(it: Dict[str, Any], iata_to_ll: Dict[str, tuple]) -> tuple | Non
         return iata_to_ll[iata]
     return None
 
-# --------------------------------------------------------------------------------------
-# Page
-# --------------------------------------------------------------------------------------
-
-st.set_page_config(page_title=APP_TITLE, page_icon="🛰️", layout="wide")
-st.title(APP_TITLE)
-
-data = load_data()
-last_updated = pretty_dt_uk(data.get("generated_at"))
-
-# Last update + Refresh
-wrap = f"""
-<div style="margin: 0.4rem 0 0.5rem 0;">
-  <span style="font-size:1.1rem; font-weight:600;">Last update:</span>
-  <span style="font-size:1.1rem;">{last_updated}</span>
-</div>
-"""
-st.markdown(wrap, unsafe_allow_html=True)
-
-# Refresh button
+# Refresh button (use st.rerun)
 if st.button("Refresh"):
     st.rerun()
 
-
-items = [it for it in (data.get("items") or []) if is_relevant(it)]
-
-# --- New item alert (per session) ---
-if "seen_ids" not in st.session_state:
-    st.session_state.seen_ids = set()
-
-current_ids = {it["id"] for it in items}
-new_ids = sorted(list(current_ids - st.session_state.seen_ids))
-if new_ids:
-    st.success(f"New qualifying items: {len(new_ids)}")
-    play_beep()
-st.session_state.seen_ids = current_ids
-
-# --------------------------------------------------------------------------------------
-# Map (latest 15 items with coordinates)
-# --------------------------------------------------------------------------------------
+# --- Map (latest 15 items, airport coordinates only) ---
 st.subheader("Map (latest 15 items)")
-iata_to_ll, alias_to_iata = load_airports_index()
-
-# sort newest and take 15
 items_sorted = sorted(items, key=lambda x: x.get("published_at", ""), reverse=True)[:15]
 
 coords = []
 for it in items_sorted:
-    ll = item_latlon(it, iata_to_ll)
+    ll = item_latlon(it)
     if not ll:
         continue
     lat, lon = ll
@@ -252,18 +213,17 @@ for it in items_sorted:
 if coords:
     df = pd.DataFrame(coords)
     layer = pdk.Layer(
-    "ScatterplotLayer",
-    df,
-    get_position=["lon", "lat"],
-    get_radius=60000,              # 60 km visual radius
-    get_fill_color=[255, 100, 0, 200],  # bright orange, semi-opaque
-    pickable=True,
-)
-
+        "ScatterplotLayer",
+        df,
+        get_position=["lon", "lat"],
+        get_radius=60000,
+        get_fill_color=[255, 100, 0, 200],  # visible on dark/light maps
+        pickable=True,
+    )
     view = pdk.ViewState(latitude=20, longitude=0, zoom=1.5)
     st.pydeck_chart(pdk.Deck(layers=[layer], initial_view_state=view, tooltip={"text": "{title}\n{info}"}))
 else:
-    st.caption("No coordinates available yet. Add `lat`/`lon` to airports in `airports.json` or have the collector include them.")
+    st.caption("No airport coordinates available yet.")
 
 # --------------------------------------------------------------------------------------
 # Controls
