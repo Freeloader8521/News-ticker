@@ -1,0 +1,83 @@
+news:
+  # Global wires / aviation specialist
+  - https://www.reuters.com/rssFeed/worldNews
+  - http://feeds.bbci.co.uk/news/world/rss.xml
+  - https://apnews.com/hub/apf-topnews?format=rss
+  - https://avherald.com/rss.php
+
+  # Europe – major
+  - https://www.theguardian.com/world/rss
+  - https://www.lemonde.fr/international/rss_full.xml
+  - https://www.spiegel.de/international/index.rss
+  - https://english.elpais.com/rss/elpais/portada_america_en.xml
+  - https://www.rtve.es/api/rss/internacional.xml
+  - https://www.ansa.it/sito/ansait_rss.xml
+
+  # Middle East & North Africa
+  - https://www.aljazeera.com/xml/rss/all.xml
+  - https://english.alarabiya.net/.mrss/en/rss.xml
+  - https://www.jpost.com/Rss/RssFeedsHeadlines.aspx
+  - https://www.timesofisrael.com/feed/
+
+  # Sub-Saharan Africa
+  - https://www.bbc.co.uk/news/world/africa/rss.xml
+  - https://mg.co.za/feed/
+  - https://www.dailymaverick.co.za/section/world/feed/
+  - https://www.nation.africa/kenya/rss
+
+  # Asia–Pacific
+  - https://www.scmp.com/rss/91/feed
+  - https://www.straitstimes.com/news/world/rss.xml
+  - https://www.japantimes.co.jp/feed/
+  - https://www.koreaherald.com/rss/XML
+  - https://www.thehindu.com/news/international/feeder/default.rss
+  - https://www.abc.net.au/news/feed/51120/rss.xml
+  - https://www.nzherald.co.nz/rss/
+
+  # Americas
+  - https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+  - https://www.cbc.ca/cmlink/rss-world
+  - https://www.theglobeandmail.com/world/rss/
+  - https://www.latimes.com/world/rss2.0.xml
+  - https://www.buenosairesherald.com/feed
+  - https://www.folha.uol.com.br/internacional/rss091.xml
+
+  # UK Government / FCDO style
+  - https://www.gov.uk/government/announcements.atom
+
+aviation_authorities:
+  # Safety agencies / regulators (official announcements, advisories)
+  - https://www.faa.gov/newsroom/rss.xml                 # US FAA News
+  - https://www.ntsb.gov/rss/press-releases.xml         # US NTSB
+  - https://www.easa.europa.eu/newsroom/press-releases/rss.xml   # EASA
+  - https://www.caa.co.uk/feeds/NewsReleaseFeed.aspx    # UK CAA
+  - https://www.aaib.gov.uk/news/rss                    # UK AAIB
+  - https://www.bea.aero/en/feed/actualites/            # France BEA
+  - https://www.bfu-web.de/SharedDocs/RSS/EN/Press-releases.xml  # Germany BFU
+  - https://www.atsb.gov.au/rss/all                     # Australia ATSB
+  - https://tc.canada.ca/en/aviation.rss                # Transport Canada (check; replace if it changes)
+  - https://www.caa.govt.nz/feed/                       # New Zealand CAA
+  - https://www.caa.co.za/news/rss.xml                  # South Africa CAA
+  - https://www.caa.go.ke/index.php?option=com_content&view=category&id=67&format=feed&type=rss  # Kenya CAA
+
+notam_tfr:
+  # NOTAM/TFR style feeds where RSS exists publicly
+  - https://tfr.faa.gov/tfr2/list.html?type=rss         # FAA TFR list (US temporary flight restrictions; if it breaks, remove)
+  # Many NOTAM systems don’t expose RSS; this section will vary by country.
+
+weather_alerts:
+  # Severe weather from official sources (for hurricanes/typhoons/red warnings)
+  - https://www.metoffice.gov.uk/feeds/warnings/rss   # UK Met Office warnings (if this URL changes, remove/replace)
+  - https://www.nhc.noaa.gov/gtwo.xml?basin=atlc&fdays=2   # NHC Atlantic (advisories/2-day outlook)
+  - https://www.nhc.noaa.gov/gtwo.xml?basin=epac&fdays=2   # NHC East Pacific
+  - https://www.metservice.com/warnings/severe-weather-warnings.rss  # NZ MetService
+  - https://www.bom.gov.au/fwo/IDZ00060.warnings_qld.xml   # AU BoM (QLD warnings; swap for other states as needed)
+  # Add your national services as you go (many have RSS).
+
+social:
+  # “Social via RSS” (safe starters)
+  - https://www.reddit.com/r/aviation/.rss
+  - https://www.reddit.com/r/aviationsafety/.rss
+  - https://www.reddit.com/r/worldnews/.rss
+  - https://mastodon.social/tags/airport.rss
+  - https://mastodon.social/tags/embassy.rss
