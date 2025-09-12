@@ -278,6 +278,8 @@ def normalise(entry, feedtitle: str, declared_type: str):
         pub = now_utc()
 
     src_dom = get_domain(url)
+    if src_dom in BLOCKED_DOMAINS:
+    return None
     src_name = clean_source(feedtitle, url)
 
     # Tags & geo (ONLY from an airport match)
