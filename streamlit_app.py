@@ -1,13 +1,14 @@
-import os# streamlit_app.py
+# streamlit_app.py
 
 import json
-import base64
 from datetime import datetime
 from typing import Dict, Any, List
 
 import requests
 import streamlit as st
 import pytz
+import pandas as pd
+import pydeck as pdk
 
 # --------------------------------------------------------------------------------------
 # Config
@@ -42,8 +43,6 @@ COUNTRY_FLAGS = {
     "Saudi Arabia": "🇸🇦",
     "Israel": "🇮🇱",
     "India": "🇮🇳",
-    "Pakistan": "🇵🇰",
-    "Bangladesh": "🇧🇩",
     "Thailand": "🇹🇭",
     "Malaysia": "🇲🇾",
     "Singapore": "🇸🇬",
@@ -64,9 +63,6 @@ COUNTRY_FLAGS = {
     "Nigeria": "🇳🇬",
     "Ghana": "🇬🇭",
 }
-
-# Optional crest image (top-right). Put a public URL in secrets as CREST_URL, or leave blank.
-CREST_URL = st.secrets.get("CREST_URL", "").strip()
 
 # --------------------------------------------------------------------------------------
 # Helpers
@@ -102,17 +98,8 @@ def load_data() -> Dict[str, Any]:
         st.warning(f"Could not load data.json ({e}).")
         return {"generated_at": "", "items": [], "trends": {}}
 
-def crest_html(url: str) -> str:
-    if not url:
-        return ""
-    return f"""
-    <div style="position:fixed; top:12px; right:14px; z-index:9999; opacity:.25;">
-        <img src="{url}" alt="crest" style="height:58px;"/>
-    </div>
-    """
-
 def is_relevant(it: Dict[str, Any]) -> bool:
-    """Keep items that are already filtered by the collector (airport/security or diplomatic)."""
+    """Items should already be filtered by the collector; keep a belt-and-braces check."""
     tags = it.get("tags", [])
     return ("airport/security" in tags) or ("diplomatic" in tags)
 
@@ -141,13 +128,9 @@ def live_caption(it: Dict[str, Any]) -> str:
         geo_bits.append(geo["city"])
     if geo.get("country"):
         f = flag_for_country(geo["country"])
-        if f:
-            geo_bits.append(f)
-        else:
-            geo_bits.append(geo["country"])
+        geo_bits.append(f if f else geo["country"])
     if geo.get("iata"):
         geo_bits.append(geo["iata"])
-
     if geo_bits:
         parts.append(" | ".join(geo_bits))
 
@@ -158,7 +141,7 @@ def live_caption(it: Dict[str, Any]) -> str:
 
     return " | ".join(parts)
 
-# A tiny beep (440 Hz, 150 ms) – base64 WAV
+# A tiny beep (short WAV) – base64
 _BEEP_WAV = (
     "UklGRoQAAABXQVZFZm10IBAAAAABAAEAESsAACJWAAACABAAZGF0YYQAAAABAQEB"
     "AQEBAQEBAQEBAQEBAP///wD///8A////AP///wD///8A////AP///wD///8A////"
@@ -172,26 +155,67 @@ def play_beep():
     """
     st.markdown(audio_tag, unsafe_allow_html=True)
 
+# ---- Airports index for lat/lon (optional, for map) ----
+@st.cache_data(ttl=3600)
+def load_airports_index():
+    """Return dicts for IATA->(lat,lon) and alias->IATA using airports.json if it contains lat/lon."""
+    try:
+        with open("airports.json", "r", encoding="utf-8") as f:
+            airports = json.load(f)
+    except Exception:
+        return {}, {}
+
+    iata_to_ll = {}
+    alias_to_iata = {}
+    for a in airports:
+        iata = (a.get("iata") or "").upper()
+        # accept lat/lon or latitude/longitude keys
+        lat = a.get("lat", a.get("latitude"))
+        lon = a.get("lon", a.get("longitude"))
+        if iata and isinstance(lat, (int, float)) and isinstance(lon, (int, float)):
+            iata_to_ll[iata] = (lat, lon)
+        for alias in (a.get("aliases") or []):
+            if iata and alias:
+                alias_to_iata[alias.lower()] = iata
+        if iata:
+            alias_to_iata[iata.lower()] = iata
+    return iata_to_ll, alias_to_iata
+
+def item_latlon(it: Dict[str, Any], iata_to_ll: Dict[str, tuple]) -> tuple | None:
+    """Prefer explicit geo.lat/lon; fall back to IATA lookup in airports.json."""
+    geo = it.get("geo", {}) or {}
+    lat = geo.get("lat") or geo.get("latitude")
+    lon = geo.get("lon") or geo.get("longitude")
+    if isinstance(lat, (int, float)) and isinstance(lon, (int, float)):
+        return (lat, lon)
+    iata = (geo.get("iata") or "").upper()
+    if iata and iata in iata_to_ll:
+        return iata_to_ll[iata]
+    return None
+
 # --------------------------------------------------------------------------------------
 # Page
 # --------------------------------------------------------------------------------------
 
 st.set_page_config(page_title=APP_TITLE, page_icon="🛰️", layout="wide")
 st.title(APP_TITLE)
-if CREST_URL:
-    st.markdown(crest_html(CREST_URL), unsafe_allow_html=True)
 
 data = load_data()
 last_updated = pretty_dt_uk(data.get("generated_at"))
-st.markdown(
-    f"""
-    <div style="margin: 0.4rem 0 1.0rem 0;">
-        <span style="font-size:1.1rem; font-weight:600;">Last update:</span>
-        <span style="font-size:1.1rem;">{last_updated}</span>
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
+
+# Last update + Refresh
+wrap = f"""
+<div style="margin: 0.4rem 0 0.5rem 0;">
+  <span style="font-size:1.1rem; font-weight:600;">Last update:</span>
+  <span style="font-size:1.1rem;">{last_updated}</span>
+</div>
+"""
+st.markdown(wrap, unsafe_allow_html=True)
+
+# Refresh button
+if st.button("Refresh"):
+    st.cache_data.clear()
+    st.experimental_rerun()
 
 items = [it for it in (data.get("items") or []) if is_relevant(it)]
 
@@ -206,7 +230,42 @@ if new_ids:
     play_beep()
 st.session_state.seen_ids = current_ids
 
-# --- Controls ---
+# --------------------------------------------------------------------------------------
+# Map (latest 15 items with coordinates)
+# --------------------------------------------------------------------------------------
+st.subheader("Map (latest 15 items)")
+iata_to_ll, alias_to_iata = load_airports_index()
+
+# sort newest and take 15
+items_sorted = sorted(items, key=lambda x: x.get("published_at", ""), reverse=True)[:15]
+
+coords = []
+for it in items_sorted:
+    ll = item_latlon(it, iata_to_ll)
+    if not ll:
+        continue
+    lat, lon = ll
+    title = it.get("title", "") or "(no title)"
+    info = f"{it.get('source','')} — {pretty_dt_uk(it.get('published_at',''))}"
+    coords.append({"lat": lat, "lon": lon, "title": title, "info": info})
+
+if coords:
+    df = pd.DataFrame(coords)
+    layer = pdk.Layer(
+        "ScatterplotLayer",
+        df,
+        get_position=["lon", "lat"],
+        get_radius=40000,
+        pickable=True,
+    )
+    view = pdk.ViewState(latitude=20, longitude=0, zoom=1.5)
+    st.pydeck_chart(pdk.Deck(layers=[layer], initial_view_state=view, tooltip={"text": "{title}\n{info}"}))
+else:
+    st.caption("No coordinates available yet. Add `lat`/`lon` to airports in `airports.json` or have the collector include them.")
+
+# --------------------------------------------------------------------------------------
+# Controls
+# --------------------------------------------------------------------------------------
 search = st.text_input("Search", "")
 type_choices = ["major news", "local news", "social"]
 type_filter = st.multiselect("Type", type_choices, default=type_choices)
@@ -227,8 +286,37 @@ def passes_filters(it: Dict[str, Any]) -> bool:
 
 items = [it for it in items if passes_filters(it)]
 
-# Split into two panes
+# --------------------------------------------------------------------------------------
+# Columns: Live feed / Social media
+# --------------------------------------------------------------------------------------
 col_live, col_social = st.columns((2, 1))
+
+def live_caption(it: Dict[str, Any]) -> str:
+    parts: List[str] = []
+    src = it.get("source")
+    if src:
+        parts.append(src)
+    try:
+        parts.append(pretty_dt_uk(it.get("published_at", "")))
+    except Exception:
+        pass
+    geo = it.get("geo", {}) or {}
+    geo_bits: List[str] = []
+    if geo.get("airport"):
+        geo_bits.append(geo["airport"])
+    if geo.get("city"):
+        geo_bits.append(geo["city"])
+    if geo.get("country"):
+        f = COUNTRY_FLAGS.get(geo["country"], "")
+        geo_bits.append(f if f else geo["country"])
+    if geo.get("iata"):
+        geo_bits.append(geo["iata"])
+    if geo_bits:
+        parts.append(" | ".join(geo_bits))
+    tags = [t for t in it.get("tags", []) if t not in ("airport/security", "diplomatic")]
+    if tags:
+        parts.append(", ".join(tags))
+    return " | ".join(parts)
 
 with col_live:
     st.subheader("Live feed")
@@ -237,7 +325,7 @@ with col_live:
         with st.container(border=True):
             st.markdown(f"**{it.get('title','(no title)')}**")
             st.caption(live_caption(it))
-            summary = it.get("summary", "").strip()
+            summary = (it.get("summary") or "").strip()
             if summary:
                 st.write(summary)
             url = it.get("url", "")
@@ -251,214 +339,9 @@ with col_social:
         with st.container(border=True):
             st.markdown(f"**{it.get('title','(no title)')}**")
             st.caption(live_caption(it))
-            summary = it.get("summary", "").strip()
+            summary = (it.get("summary") or "").strip()
             if summary:
                 st.write(summary)
             url = it.get("url", "")
             if url:
                 st.write(f"[Open source]({url})")
-
-import json
-import base64
-from datetime import datetime
-import re
-import requests
-import streamlit as st
-
-# ------------------------- Page setup -------------------------
-st.set_page_config(page_title="Global Situational Awareness Dashboard", layout="wide")
-st.markdown("<meta http-equiv='refresh' content='60'>", unsafe_allow_html=True)
-
-DATA_JSON_URL = os.getenv("DATA_JSON_URL", "").strip()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-
-# ------------------------- Country → flag (emoji) -------------------------
-COUNTRY_FLAGS = {
-    "United Kingdom": "🇬🇧", "United States": "🇺🇸", "Canada": "🇨🇦",
-    "France": "🇫🇷", "Germany": "🇩🇪", "Netherlands": "🇳🇱", "Spain": "🇪🇸",
-    "Italy": "🇮🇹", "Ireland": "🇮🇪", "Switzerland": "🇨🇭", "Austria": "🇦🇹",
-    "Belgium": "🇧🇪", "Luxembourg": "🇱🇺", "Denmark": "🇩🇰", "Norway": "🇳🇴",
-    "Sweden": "🇸🇪", "Finland": "🇫🇮", "Iceland": "🇮🇸", "Poland": "🇵🇱",
-    "Czech Republic": "🇨🇿", "Slovakia": "🇸🇰", "Hungary": "🇭🇺",
-    "Romania": "🇷🇴", "Bulgaria": "🇧🇬", "Greece": "🇬🇷", "Croatia": "🇭🇷",
-    "Slovenia": "🇸🇮", "Türkiye": "🇹🇷",
-
-    "United Arab Emirates": "🇦🇪", "Qatar": "🇶🇦", "Saudi Arabia": "🇸🇦",
-    "Iran": "🇮🇷", "Iraq": "🇮🇶", "Jordan": "🇯🇴", "Lebanon": "🇱🇧",
-    "Israel": "🇮🇱", "Palestine": "🇵🇸",
-
-    "Singapore": "🇸🇬", "Hong Kong": "🇭🇰", "China": "🇨🇳", "Japan": "🇯🇵",
-    "South Korea": "🇰🇷", "North Korea": "🇰🇵", "India": "🇮🇳",
-    "Thailand": "🇹🇭", "Malaysia": "🇲🇾", "Philippines": "🇵🇭",
-    "Indonesia": "🇮🇩", "Australia": "🇦🇺", "New Zealand": "🇳🇿",
-
-    "Brazil": "🇧🇷", "Argentina": "🇦🇷", "Chile": "🇨🇱", "Mexico": "🇲🇽",
-
-    "South Africa": "🇿🇦", "Kenya": "🇰🇪", "Egypt": "🇪🇬",
-    "Nigeria": "🇳🇬", "Ghana": "🇬🇭",
-}
-
-# ------------------------- Floating crest -------------------------
-def _crest_html():
-    for fname, mime in (("crest.png","image/png"), ("crest.jpg","image/jpeg"), ("crest.jpeg","image/jpeg")):
-        if os.path.exists(fname):
-            with open(fname, "rb") as f:
-                b64 = base64.b64encode(f.read()).decode()
-            return f'<img class="crest" src="data:{mime};base64,{b64}" width="80">'
-    return ""  # no crest file present
-
-st.markdown("""
-<style>
-.crest { position: fixed; top: 10px; right: 20px; z-index: 9999; }
-</style>
-""", unsafe_allow_html=True)
-
-# ------------------------- Data loader -------------------------
-@st.cache_data(ttl=30)
-def load_data():
-    if DATA_JSON_URL:
-        r = requests.get(DATA_JSON_URL, timeout=20)
-        r.raise_for_status()
-        return r.json()
-    try:
-        with open("data.json", "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return {"generated_at": None, "items": [], "trends": {"top_terms": []}}
-
-# ------------------------- Beep -------------------------
-_BEEP = "SUQzAwAAAAAFI1RTU0UAAAAPAAACc2RhdGEAAAAA"
-def play_beep():
-    st.markdown(
-        f"<audio autoplay><source src='data:audio/wav;base64,{_BEEP}'></audio>",
-        unsafe_allow_html=True,
-    )
-
-# ------------------------- Helpers -------------------------
-def get_domain(url: str) -> str:
-    m = re.search(r"https?://([^/]+)", url or "")
-    return (m.group(1).lower() if m else "").replace("www.", "")
-
-def classify_type(item) -> str:
-    """
-    Map each item into one of: 'major news', 'local news', 'social'
-    """
-    itype = (item.get("type") or "news").lower()
-    if itype == "social":
-        return "social"
-    dom = get_domain(item.get("url", ""))
-    MAJOR_DOMAINS = {
-        "reuters.com","bbc.co.uk","apnews.com","avherald.com","gov.uk",
-        "theguardian.com","sky.com","cnn.com","nytimes.com","aljazeera.com",
-        "ft.com","bloomberg.com"
-    }
-    return "major news" if any(dom.endswith(d) for d in MAJOR_DOMAINS) else "local news"
-
-def is_relevant(item) -> bool:
-    tags = set(item.get("tags", []))
-    return ("airport/security" in tags) or ("diplomatic" in tags)
-
-# ------------------------- Load data -------------------------
-data = load_data()
-generated = data.get("generated_at")
-items = data.get("items", [])
-
-# ------------------------- Alert on new relevant items -------------------------
-if "seen_ids" not in st.session_state:
-    st.session_state.seen_ids = set()
-
-current_ids = {it["id"] for it in items if is_relevant(it)}
-new_ids = current_ids - st.session_state.seen_ids
-if new_ids:
-    st.success(f"New qualifying items: {len(new_ids)}")
-    play_beep()
-st.session_state.seen_ids |= current_ids
-
-# ------------------------- Header -------------------------
-st.title("Global Situational Awareness Dashboard")
-st.markdown(_crest_html(), unsafe_allow_html=True)
-
-from datetime import datetime
-
-def pretty_dt(iso):
-    try:
-        dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
-        return dt.strftime("%H:%M, %A %d %B %Y")
-    except Exception:
-        return iso or ""
-
-data = load_data()
-last = pretty_dt(data.get("generated_at"))
-
-st.markdown(
-    f"""
-    <div style="margin: 0.5rem 0 1rem 0;">
-        <span style="font-size:1.1rem; font-weight:600;">Last update:</span>
-        <span style="font-size:1.1rem;">{last}</span>
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
-
-# ------------------------- Controls -------------------------
-colA, colB = st.columns([2, 2])
-q = colA.text_input("Search", "")
-type_choices = ["major news", "local news", "social"]
-type_filter = colB.multiselect("Type", type_choices, default=type_choices)
-
-def passes_filters(it) -> bool:
-    if type_filter and classify_type(it) not in type_filter:
-        return False
-    if q:
-        txt = (it.get("title", "") + " " + it.get("summary", "")).lower()
-        if q.lower() not in txt:
-            return False
-    return True
-
-# Split items
-live_items, social_items = [], []
-for it in items:
-    if not passes_filters(it):
-        continue
-    if classify_type(it) == "social":
-        social_items.append(it)
-    else:
-        live_items.append(it)
-
-live_items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
-social_items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
-
-# ------------------------- Render -------------------------
-colLive, colSocial = st.columns([2, 1])
-
-def render_card(col, it):
-    title = it.get("title") or "(no title)"
-    with col.expander(title):
-        geo = it.get("geo", {}) or {}
-        country = geo.get("country")
-        flag = COUNTRY_FLAGS.get(country, "") if country else ""
-        locbits = [
-            geo.get("airport"),
-            geo.get("city"),
-            f"{country} {flag}" if country else None,
-        ]
-        loc = " | ".join([x for x in locbits if x])
-        tags = ", ".join(it.get("tags", []))
-
-        col.caption(
-            f"{it.get('source','')} | {it.get('published_at','')}"
-            + (f" | {loc}" if loc else "")
-            + (f" | {tags}" if tags else "")
-        )
-        if it.get("summary"):
-            col.write(it["summary"])
-        if it.get("url"):
-            col.write(f"[Open source]({it['url']})")
-
-colLive.subheader("Live feed")
-colSocial.subheader("Social media")
-
-for it in live_items[:200]:
-    render_card(colLive, it)
-
-for it in social_items[:200]:
-    render_card(colSocial, it)
