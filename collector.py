@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Collector: pulls headlines hourly, tags airport/diplomatic relevance,
-classifies each item as major news / local news / social, and writes data.json.
+Collector: pulls headlines hourly, tags relevance (airport/diplomatic),
+infers geo from airport (IATA) OR country mentions, classifies items,
+and writes data.json for the Streamlit app.
 """
 
 import re
@@ -27,10 +28,6 @@ def domain(url: str) -> str:
     return m.group(1).lower().replace("www.", "") if m else ""
 
 def clean_source(feed_title: str, url: str) -> str:
-    """
-    Prefer a helpful feed title, otherwise fall back to the domain.
-    Trim noisy suffixes like ' – RSS' etc.
-    """
     title = (feed_title or "").strip()
     if title:
         title = re.sub(r"\s*[-–—]\s*RSS.*$", "", title, flags=re.I)
@@ -40,22 +37,19 @@ def clean_source(feed_title: str, url: str) -> str:
 
 
 # ----------------------------- Config & Data -----------------------------
-# Major outlets / wires
+# Major outlets / wires (extend any time)
 MAJOR_DOMAINS = {
     "reuters.com", "bbc.co.uk", "apnews.com", "avherald.com", "gov.uk",
-    "theguardian.com", "sky.com", "skynews.com.au", "cnn.com", "nytimes.com",
-    "aljazeera.com", "ft.com", "bloomberg.com"
+    "theguardian.com", "sky.com", "cnn.com", "nytimes.com", "aljazeera.com",
+    "ft.com", "bloomberg.com"
 }
 
-# Social sources we can fetch via RSS safely (examples; expand as you like)
+# Social via RSS (safe examples; extend freely)
 SOCIAL_FEEDS = [
-    # Reddit (every subreddit has .rss)
     "https://www.reddit.com/r/aviation/.rss",
     "https://www.reddit.com/r/flying/.rss",
     "https://www.reddit.com/r/aviationsafety/.rss",
     "https://www.reddit.com/r/uknews/.rss",
-
-    # Mastodon (tag feed example via mastodon.social)
     "https://mastodon.social/tags/aviation.rss",
     "https://mastodon.social/tags/airport.rss",
 ]
@@ -84,9 +78,10 @@ try:
 except FileNotFoundError:
     AIRPORTS = []
 
+# Map alias (and IATA codes) -> airport meta
 ALIASES = {}
 for a in AIRPORTS:
-    for alias in a.get("aliases", []) + [a.get("iata", "")]:
+    for alias in (a.get("aliases", []) or []) + [a.get("iata", "")]:
         if alias:
             ALIASES[alias.lower()] = {
                 "iata": a.get("iata"),
@@ -94,6 +89,137 @@ for a in AIRPORTS:
                 "city": a.get("city"),
                 "country": a.get("country"),
             }
+
+# Country aliases -> canonical name (keep in sync with flags in the app)
+COUNTRY_ALIASES = {
+    # United Kingdom variants
+    "united kingdom": "United Kingdom",
+    "uk": "United Kingdom",
+    "u.k.": "United Kingdom",
+    "britain": "United Kingdom",
+    "great britain": "United Kingdom",
+    "england": "United Kingdom",
+    "scotland": "United Kingdom",
+    "wales": "United Kingdom",
+    "northern ireland": "United Kingdom",
+
+    # Europe
+    "france": "France",
+    "germany": "Germany",
+    "netherlands": "Netherlands",
+    "holland": "Netherlands",
+    "spain": "Spain",
+    "catalonia": "Spain",
+    "italy": "Italy",
+    "ireland": "Ireland",
+    "switzerland": "Switzerland",
+    "austria": "Austria",
+    "belgium": "Belgium",
+    "luxembourg": "Luxembourg",
+    "denmark": "Denmark",
+    "norway": "Norway",
+    "sweden": "Sweden",
+    "finland": "Finland",
+    "iceland": "Iceland",
+    "poland": "Poland",
+    "czech republic": "Czech Republic",
+    "czechia": "Czech Republic",
+    "slovakia": "Slovakia",
+    "hungary": "Hungary",
+    "romania": "Romania",
+    "bulgaria": "Bulgaria",
+    "greece": "Greece",
+    "turkey": "Türkiye",
+    "türkiye": "Türkiye",
+    "croatia": "Croatia",
+    "slovenia": "Slovenia",
+
+    # Middle East
+    "united arab emirates": "United Arab Emirates",
+    "uae": "United Arab Emirates",
+    "dubai": "United Arab Emirates",
+    "abu dhabi": "United Arab Emirates",
+    "qatar": "Qatar",
+    "doha": "Qatar",
+    "saudi arabia": "Saudi Arabia",
+    "riyadh": "Saudi Arabia",
+    "iran": "Iran",
+    "iraq": "Iraq",
+    "jordan": "Jordan",
+    "lebanon": "Lebanon",
+    "israel": "Israel",
+    "palestine": "Palestine",
+
+    # Asia-Pacific
+    "singapore": "Singapore",
+    "hong kong": "Hong Kong",
+    "china": "China",
+    "prc": "China",
+    "beijing": "China",
+    "shanghai": "China",
+    "japan": "Japan",
+    "tokyo": "Japan",
+    "osaka": "Japan",
+    "south korea": "South Korea",
+    "korea": "South Korea",
+    "seoul": "South Korea",
+    "north korea": "North Korea",
+    "india": "India",
+    "delhi": "India",
+    "mumbai": "India",
+    "thailand": "Thailand",
+    "bangkok": "Thailand",
+    "malaysia": "Malaysia",
+    "kuala lumpur": "Malaysia",
+    "philippines": "Philippines",
+    "manila": "Philippines",
+    "indonesia": "Indonesia",
+    "jakarta": "Indonesia",
+    "australia": "Australia",
+    "sydney": "Australia",
+    "melbourne": "Australia",
+    "new zealand": "New Zealand",
+    "auckland": "New Zealand",
+
+    # Americas
+    "united states": "United States",
+    "u.s.": "United States",
+    "usa": "United States",
+    "us": "United States",
+    "washington": "United States",
+    "america": "United States",
+    "canada": "Canada",
+    "toronto": "Canada",
+    "vancouver": "Canada",
+    "mexico": "Mexico",
+    "brazil": "Brazil",
+    "rio": "Brazil",
+    "são paulo": "Brazil",
+    "argentina": "Argentina",
+    "buenos aires": "Argentina",
+    "chile": "Chile",
+    "santiago": "Chile",
+
+    # Africa
+    "south africa": "South Africa",
+    "johannesburg": "South Africa",
+    "cape town": "South Africa",
+    "kenya": "Kenya",
+    "nairobi": "Kenya",
+    "egypt": "Egypt",
+    "cairo": "Egypt",
+    "nigeria": "Nigeria",
+    "lagos": "Nigeria",
+    "ghana": "Ghana",
+    "accra": "Ghana",
+}
+
+def detect_country(text: str):
+    t = (text or "").lower()
+    for needle, canon in COUNTRY_ALIASES.items():
+        if needle in t:
+            return canon
+    return None
 
 
 # ----------------------------- Relevance & Enrichment -----------------------------
@@ -118,12 +244,6 @@ def match_airport(text: str):
     return None
 
 def classify_type(url: str, declared_type: str, src_domain: str) -> str:
-    """
-    Returns one of: 'major news', 'local news', 'social'
-    - If the feed declares 'social', return 'social'
-    - Else if domain is in MAJOR_DOMAINS -> major news
-    - Else -> local news
-    """
     if (declared_type or "").lower() == "social":
         return "social"
     if any(src_domain.endswith(d) for d in MAJOR_DOMAINS):
@@ -156,15 +276,25 @@ def normalise(entry, feedtitle: str, declared_type: str):
 
     # tags & geo
     item_tags = tags_for(f"{title} {summary}")
+
     geo = {}
     ap = match_airport(f"{title} {summary}")
     if ap:
+        # Airport match → full geo + IATA tag
         geo = {"airport": ap["name"], "city": ap["city"], "country": ap["country"], "iata": ap["iata"]}
-        if ap["iata"]:
+        if ap.get("iata"):
             item_tags.append(ap["iata"])
+    else:
+        # No airport → try country mention
+        ct = detect_country(f"{title} {summary}")
+        if ct:
+            geo = {"country": ct}
 
-    # classification
     item_type = classify_type(url, declared_type, src_dom)
+
+    # Only keep items that are relevant to the brief
+    if not (("airport/security" in item_tags) or ("diplomatic" in item_tags)):
+        return None
 
     return {
         "id": hash_id(url or title),
@@ -175,13 +305,12 @@ def normalise(entry, feedtitle: str, declared_type: str):
         "summary": summary,
         "tags": sorted(set(item_tags)),
         "type": item_type,              # 'major news' | 'local news' | 'social'
-        "geo": geo
+        "geo": geo                      # may be {country: ...} even without airport
     }
 
 
 # ----------------------------- Collectors -----------------------------
 def pull_feed(url: str):
-    """Fetch RSS/Atom and return (feedtitle, entries)."""
     d = feedparser.parse(url)
     return d.feed.get("title", domain(url)), d.entries
 
@@ -192,7 +321,7 @@ def collect_block(feed_urls, declared_type: str):
             feedtitle, entries = pull_feed(f)
             for e in entries[:60]:
                 it = normalise(e, feedtitle, declared_type)
-                if it and (("airport/security" in it["tags"]) or ("diplomatic" in it["tags"])):
+                if it:
                     items.append(it)
         except Exception as ex:
             print("Feed error:", f, ex)
@@ -202,6 +331,7 @@ def collect_all():
     items = []
     items += collect_block(NEWS_FEEDS, "news")
     items += collect_block(SOCIAL_FEEDS, "social")
+
     # De-duplicate by id, keep newest
     dedup = {}
     for it in items:
