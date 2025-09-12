@@ -214,8 +214,8 @@ st.markdown(wrap, unsafe_allow_html=True)
 
 # Refresh button
 if st.button("Refresh"):
-    st.cache_data.clear()
-    st.experimental_rerun()
+    st.rerun()
+
 
 items = [it for it in (data.get("items") or []) if is_relevant(it)]
 
