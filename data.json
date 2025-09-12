@@ -1,18 +1,409 @@
 {
-  "generated_at": "2025-09-12T11:55:48.447588+00:00",
+  "generated_at": "2025-09-12T13:03:55.295944+00:00",
   "items": [
     {
-      "id": "f33404a96215b0e9",
-      "title": "Ukraine launches 221 drones on Russia, Moscow says",
-      "url": "https://www.bbc.com/news/articles/cderllgw84ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-09-12T11:04:16+00:00",
-      "summary": "The overnight attack is the largest since May, but follows much larger bombardments from Russia.",
+      "id": "93d3abda795a5083",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115191435633075972",
+      "source": "#airport",
+      "published_at": "2025-09-12T12:56:58+00:00",
+      "summary": "<p>Aviation weather for John F Kennedy International airport in New York area (USA) is “KJFK 121251Z 05011KT 10SM BKN065 BKN250 20/13 A3021 RMK AO2 SLP230 T02000128” :  See what it means on <a href=\"https://www.bigorre.org/aero/meteo/kjfk/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/kjfk/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/newyork\" rel=\"tag\">#<span>newyork</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/usa\" rel=\"tag\">#<span>usa</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/johnfkennedyinternationalairport\" rel=\"tag\">#<span>johnfkennedyinternationalairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/kjfk\" rel=\"tag\">#<span>kjfk</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/jfk\" rel=\"tag\">#<span>jfk</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/metar\" rel=\"tag\">#<span>metar</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviationweather\" rel=\"tag\">#<span>aviationweather</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a>    vl</p>",
       "tags": [
+        "JFK",
+        "United States",
         "airport/security"
       ],
-      "confidence": "medium",
-      "type": "news"
+      "type": "social",
+      "geo": {
+        "airport": "John F. Kennedy",
+        "city": "New York",
+        "country": "United States",
+        "iata": "JFK"
+      }
+    },
+    {
+      "id": "7aa6c780960b8156",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115191414674297906",
+      "source": "#airport",
+      "published_at": "2025-09-12T12:51:38+00:00",
+      "summary": "<p>Aviation weather for Desierto de Atacama airport in Copiapo area (Chile) is “SCAT 121100Z AUTO 35009KT //// R17/P2000N BKN002/// OVC009/// 11/11 Q1014” :  See what it means on <a href=\"https://www.bigorre.org/aero/meteo/scat/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/scat/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/copiapo\" rel=\"tag\">#<span>copiapo</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/chile\" rel=\"tag\">#<span>chile</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/desiertodeatacamaairport\" rel=\"tag\">#<span>desiertodeatacamaairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/scat\" rel=\"tag\">#<span>scat</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/cpo\" rel=\"tag\">#<span>cpo</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/metar\" rel=\"tag\">#<span>metar</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviationweather\" rel=\"tag\">#<span>aviationweather</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a>    vl</p>",
+      "tags": [
+        "Chile",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "country": "Chile"
+      }
+    },
+    {
+      "id": "f33404a96215b0e9",
+      "title": "Ukraine strikes key Russian oil terminal in massive drone attack",
+      "url": "https://www.bbc.com/news/articles/cderllgw84ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-12T12:36:34+00:00",
+      "summary": "The overnight attack is the largest since May, but follows much larger bombardments from Russia.",
+      "tags": [
+        "SIN",
+        "Singapore",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Changi",
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN"
+      }
+    },
+    {
+      "id": "537123e47810ea2e",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@AirportStatusBot/115191348504305449",
+      "source": "#airport",
+      "published_at": "2025-09-12T12:34:48+00:00",
+      "summary": "<p>The departure delay at Teterboro <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/Airport\" rel=\"tag\">#<span>Airport</span></a> (<a class=\"mention hashtag\" href=\"https://mastodon.social/tags/TEB\" rel=\"tag\">#<span>TEB</span></a>) has increased to 31-45 minutes and is still increasing. <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/AirportStatusBot\" rel=\"tag\">#<span>AirportStatusBot</span></a></p>",
+      "tags": [
+        "SIN",
+        "Singapore",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Changi",
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN"
+      }
+    },
+    {
+      "id": "661140275c15cd51",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115191337430882036",
+      "source": "#airport",
+      "published_at": "2025-09-12T12:31:59+00:00",
+      "summary": "<p>How many runways can you see for Miramichi airport (Canada) ? :  The answer is on <a href=\"https://www.bigorre.org/aero/meteo/cych/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/cych/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/miramichi\" rel=\"tag\">#<span>miramichi</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/canada\" rel=\"tag\">#<span>canada</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/miramichiairport\" rel=\"tag\">#<span>miramichiairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/cych\" rel=\"tag\">#<span>cych</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/ych\" rel=\"tag\">#<span>ych</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a>    vl</p>",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
+    },
+    {
+      "id": "d97b92045db247f3",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@AirportStatusBot/115191312375011009",
+      "source": "#airport",
+      "published_at": "2025-09-12T12:25:37+00:00",
+      "summary": "<p>A departure delay has been issued for Teterboro <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/Airport\" rel=\"tag\">#<span>Airport</span></a> (<a class=\"mention hashtag\" href=\"https://mastodon.social/tags/TEB\" rel=\"tag\">#<span>TEB</span></a>). Current delays are 16-30 minutes and increasing. <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/AirportStatusBot\" rel=\"tag\">#<span>AirportStatusBot</span></a></p>",
+      "tags": [
+        "SIN",
+        "Singapore",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Changi",
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN"
+      }
+    },
+    {
+      "id": "c3df19a08733e2ca",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115191238937135142",
+      "source": "#airport",
+      "published_at": "2025-09-12T12:06:56+00:00",
+      "summary": "<p>How many runways can you see for North Ronaldsay airport (UK) ? :  The answer is on <a href=\"https://www.bigorre.org/aero/meteo/egen/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/egen/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/northronaldsay\" rel=\"tag\">#<span>northronaldsay</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/uk\" rel=\"tag\">#<span>uk</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/northronaldsayairport\" rel=\"tag\">#<span>northronaldsayairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/egen\" rel=\"tag\">#<span>egen</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/nrl\" rel=\"tag\">#<span>nrl</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a>    vl</p>",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
+    },
+    {
+      "id": "20276b831e5f797b",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115191178714459287",
+      "source": "#airport",
+      "published_at": "2025-09-12T11:51:37+00:00",
+      "summary": "<p>Aviation weather for Paris Charles de Gaulle International airport in Paris and Roissy-en-France area (France) is “LFPG 121130Z 23015KT 210V270 9999 SCT038 19/08 Q1018 TEMPO 24015G25KT” :  See what it means on <a href=\"https://www.bigorre.org/aero/meteo/lfpg/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/lfpg/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/paris\" rel=\"tag\">#<span>paris</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/roissyenfrance\" rel=\"tag\">#<span>roissyenfrance</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/france\" rel=\"tag\">#<span>france</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/parischarlesdegaulleinternationalairport\" rel=\"tag\">#<span>parischarlesdegaulleinternationalairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/lfpg\" rel=\"tag\">#<span>lfpg</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/cdg\" rel=\"tag\">#<span>cdg</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/metar\" rel=\"tag\">#<span>metar</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviationweather\" rel=\"tag\">#<span>aviationweather</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a>    vl</p>",
+      "tags": [
+        "CDG",
+        "France",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Charles de Gaulle",
+        "city": "Paris",
+        "country": "France",
+        "iata": "CDG"
+      }
+    },
+    {
+      "id": "49106484863a4263",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115191160455540385",
+      "source": "#airport",
+      "published_at": "2025-09-12T11:46:59+00:00",
+      "summary": "<p>Aviation weather for Castellón-Costa Azahar airport in Castellón de la Plana area (Spain) is “LECH 121130Z AUTO 11010KT 080V160 9000 BKN030 25/19 Q1021” :  See what it means on <a href=\"https://www.bigorre.org/aero/meteo/lech/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/lech/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/castellondelaplana\" rel=\"tag\">#<span>castellondelaplana</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/spain\" rel=\"tag\">#<span>spain</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/castelloncostaazaharairport\" rel=\"tag\">#<span>castelloncostaazaharairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/lech\" rel=\"tag\">#<span>lech</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/cdt\" rel=\"tag\">#<span>cdt</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/metar\" rel=\"tag\">#<span>metar</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviationweather\" rel=\"tag\">#<span>aviationweather</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a>    vl</p>",
+      "tags": [
+        "DEL",
+        "India",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Indira Gandhi",
+        "city": "Delhi",
+        "country": "India",
+        "iata": "DEL"
+      }
+    },
+    {
+      "id": "139a68cc5a62fe24",
+      "title": "(no title)",
+      "url": "https://mastodon.world/@airports_bot/115191066430190966",
+      "source": "#airport",
+      "published_at": "2025-09-12T11:23:04+00:00",
+      "summary": "<p>Bucharest Henri Coandă International Airport - Otopeni, Romania</p><p><a href=\"https://en.wikipedia.org/wiki/Henri_Coand%C4%83_International_Airport\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Henri_Co</span><span class=\"invisible\">and%C4%83_International_Airport</span></a><br /><a href=\"https://www.openstreetmap.org/#map=13/44.572127/26.103396\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">openstreetmap.org/#map=13/44.5</span><span class=\"invisible\">72127/26.103396</span></a></p><p><a class=\"mention hashtag\" href=\"https://mastodon.world/tags/LROP\" rel=\"nofollow noopener\" target=\"_blank\">#<span>LROP</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.world/tags/OTP\" rel=\"nofollow noopener\" target=\"_blank\">#<span>OTP</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.world/tags/Otopeni\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Otopeni</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.world/tags/Romania\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Romania</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.world/tags/airport\" rel=\"nofollow noopener\" target=\"_blank\">#<span>airport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.world/tags/aviation\" rel=\"nofollow noopener\" target=\"_blank\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.world/tags/avgeeks\" rel=\"nofollow noopener\" target=\"_blank\">#<span>avgeeks</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.world/tags/GIS\" rel=\"nofollow noopener\" target=\"_blank\">#<span>GIS</span></a></p>",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
+    },
+    {
+      "id": "b29eaf7ecf0bbdd8",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115191042684638990",
+      "source": "#airport",
+      "published_at": "2025-09-12T11:17:02+00:00",
+      "summary": "<p>How many runways can you see for Sanday airport (UK) ? :  The answer is on <a href=\"https://www.bigorre.org/aero/meteo/eges/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/eges/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/sanday\" rel=\"tag\">#<span>sanday</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/uk\" rel=\"tag\">#<span>uk</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/sandayairport\" rel=\"tag\">#<span>sandayairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/eges\" rel=\"tag\">#<span>eges</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/ndy\" rel=\"tag\">#<span>ndy</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a>    vl</p>",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
+    },
+    {
+      "id": "57f9579bb06899d9",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115190961910861795",
+      "source": "#airport",
+      "published_at": "2025-09-12T10:56:29+00:00",
+      "summary": "<p>Aviation weather for Munich Franz-Josef-Strauß airport (Germany) is “EDDM 121050Z AUTO 29009KT 9999 SCT025 16/11 Q1021 NOSIG” :  See what it means on <a href=\"https://www.bigorre.org/aero/meteo/eddm/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/eddm/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/munich\" rel=\"tag\">#<span>munich</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/germany\" rel=\"tag\">#<span>germany</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/munichfranzjosefstraubairport\" rel=\"tag\">#<span>munichfranzjosefstraubairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/eddm\" rel=\"tag\">#<span>eddm</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/muc\" rel=\"tag\">#<span>muc</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/metar\" rel=\"tag\">#<span>metar</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviationweather\" rel=\"tag\">#<span>aviationweather</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a>    vl</p>",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
+    },
+    {
+      "id": "c2249dd1775771e8",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115190902460780318",
+      "source": "#airport",
+      "published_at": "2025-09-12T10:41:22+00:00",
+      "summary": "<p>Aviation weather for Dallas Fort Worth International airport (USA) is “KDFW 120953Z 20006KT 10SM CLR 24/19 A3008 RMK AO2 SLP177 T02390194 $” :  See what it means on <a href=\"https://www.bigorre.org/aero/meteo/kdfw/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/kdfw/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/dallas\" rel=\"tag\">#<span>dallas</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/fortworth\" rel=\"tag\">#<span>fortworth</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/usa\" rel=\"tag\">#<span>usa</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/dallasfortworthinternationalairport\" rel=\"tag\">#<span>dallasfortworthinternationalairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/kdfw\" rel=\"tag\">#<span>kdfw</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/dfw\" rel=\"tag\">#<span>dfw</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/metar\" rel=\"tag\">#<span>metar</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviationweather\" rel=\"tag\">#<span>aviationweather</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a>    vl</p>",
+      "tags": [
+        "SFO",
+        "United States",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "San Francisco",
+        "city": "San Francisco",
+        "country": "United States",
+        "iata": "SFO"
+      }
+    },
+    {
+      "id": "6d52ece9428f30f7",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115190882013742883",
+      "source": "#airport",
+      "published_at": "2025-09-12T10:36:10+00:00",
+      "summary": "<p>How many runways can you see for Tessalit airport (Mali) ? :  The answer is on <a href=\"https://www.bigorre.org/aero/meteo/gats/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/gats/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/mali\" rel=\"tag\">#<span>mali</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/tessalitairport\" rel=\"tag\">#<span>tessalitairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/gats\" rel=\"tag\">#<span>gats</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a>    vl</p>",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
+    },
+    {
+      "id": "ff56af6872e584a3",
+      "title": "(no title)",
+      "url": "https://zirk.us/@scholar_farmer/115190860334300413",
+      "source": "#airport",
+      "published_at": "2025-09-12T10:30:39+00:00",
+      "summary": "<p><a class=\"mention hashtag\" href=\"https://zirk.us/tags/Airport\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Airport</span></a> <a class=\"mention hashtag\" href=\"https://zirk.us/tags/art\" rel=\"nofollow noopener\" target=\"_blank\">#<span>art</span></a> from <a class=\"mention hashtag\" href=\"https://zirk.us/tags/BNA\" rel=\"nofollow noopener\" target=\"_blank\">#<span>BNA</span></a> <a class=\"mention hashtag\" href=\"https://zirk.us/tags/PublicArt\" rel=\"nofollow noopener\" target=\"_blank\">#<span>PublicArt</span></a></p>",
+      "tags": [
+        "United States",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "country": "United States"
+      }
+    },
+    {
+      "id": "91ff3d05270a1a23",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115190785503970253",
+      "source": "#airport",
+      "published_at": "2025-09-12T10:11:37+00:00",
+      "summary": "<p>Aviation weather for Southampton airport (UK) is “EGHI 120950Z 24012KT 200V280 9999 SCT038 18/09 Q1011” :  See what it means on <a href=\"https://www.bigorre.org/aero/meteo/eghi/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/eghi/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/southampton\" rel=\"tag\">#<span>southampton</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/uk\" rel=\"tag\">#<span>uk</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/southamptonairport\" rel=\"tag\">#<span>southamptonairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/eghi\" rel=\"tag\">#<span>eghi</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/sou\" rel=\"tag\">#<span>sou</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/metar\" rel=\"tag\">#<span>metar</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviationweather\" rel=\"tag\">#<span>aviationweather</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a>    vl</p>",
+      "tags": [
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "id": "6189c017292242c2",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115190707095702354",
+      "source": "#airport",
+      "published_at": "2025-09-12T09:51:41+00:00",
+      "summary": "<p>How many runways can you see for Václav Havel Prague airport (Czechia) ? :  The answer is on <a href=\"https://www.bigorre.org/aero/meteo/lkpr/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/lkpr/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/prague\" rel=\"tag\">#<span>prague</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/czechia\" rel=\"tag\">#<span>czechia</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/vaclavhavelpragueairport\" rel=\"tag\">#<span>vaclavhavelpragueairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/lkpr\" rel=\"tag\">#<span>lkpr</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/prg\" rel=\"tag\">#<span>prg</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a>    vl</p>",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
+    },
+    {
+      "id": "14ef73494bc13144",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115190629107457167",
+      "source": "#airport",
+      "published_at": "2025-09-12T09:31:51+00:00",
+      "summary": "<p>Aviation weather for Sydney Kingsford Smith International airport (Australia) is “METAR YSSY 120930Z AUTO 12006KT 9999 // NCD 15/07 Q1023 RMK RF00.0/000.0” :  See what it means on <a href=\"https://www.bigorre.org/aero/meteo/yssy/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/yssy/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/sydney\" rel=\"tag\">#<span>sydney</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/australia\" rel=\"tag\">#<span>australia</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/sydneykingsfordsmithinternationalairport\" rel=\"tag\">#<span>sydneykingsfordsmithinternationalairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/yssy\" rel=\"tag\">#<span>yssy</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/syd\" rel=\"tag\">#<span>syd</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/metar\" rel=\"tag\">#<span>metar</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviationweather\" rel=\"tag\">#<span>aviationweather</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a>    vl</p>",
+      "tags": [
+        "SFO",
+        "United States",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "San Francisco",
+        "city": "San Francisco",
+        "country": "United States",
+        "iata": "SFO"
+      }
+    },
+    {
+      "id": "835d9e1ad800cb28",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@AirportStatusBot/115190620896263101",
+      "source": "#airport",
+      "published_at": "2025-09-12T09:29:46+00:00",
+      "summary": "<p>North Central West Virginia <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/Airport\" rel=\"tag\">#<span>Airport</span></a> (<a class=\"mention hashtag\" href=\"https://mastodon.social/tags/CKB\" rel=\"tag\">#<span>CKB</span></a>) has reopened. <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/AirportStatusBot\" rel=\"tag\">#<span>AirportStatusBot</span></a></p>",
+      "tags": [
+        "United States",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "country": "United States"
+      }
+    },
+    {
+      "id": "94998d8ce9e897f7",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115190609548126483",
+      "source": "#airport",
+      "published_at": "2025-09-12T09:26:53+00:00",
+      "summary": "<p>How many runways can you see for Helsinki Vantaa airport (Finland) ? :  The answer is on <a href=\"https://www.bigorre.org/aero/meteo/efhk/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/efhk/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/helsinki\" rel=\"tag\">#<span>helsinki</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/finland\" rel=\"tag\">#<span>finland</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/helsinkivantaaairport\" rel=\"tag\">#<span>helsinkivantaaairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/efhk\" rel=\"tag\">#<span>efhk</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/hel\" rel=\"tag\">#<span>hel</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a>    vl</p>",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
+    },
+    {
+      "id": "46386f6296e60b0d",
+      "title": "(no title)",
+      "url": "https://mastodon.social/@bigorre_org/115190510544945220",
+      "source": "#airport",
+      "published_at": "2025-09-12T09:01:42+00:00",
+      "summary": "<p>Aviation weather for Băneasa International airport in Bucharest area (Romania) is “LRBS 120830Z 06009KT 9999 SCT012 BKN030 22/19 Q1017 NOSIG” :  See what it means on <a href=\"https://www.bigorre.org/aero/meteo/lrbs/en\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">bigorre.org/aero/meteo/lrbs/en</span><span class=\"invisible\"></span></a>  <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/bucharest\" rel=\"tag\">#<span>bucharest</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/romania\" rel=\"tag\">#<span>romania</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/bneasainternationalairport\" rel=\"tag\">#<span>bneasainternationalairport</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/lrbs\" rel=\"tag\">#<span>lrbs</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/bbu\" rel=\"tag\">#<span>bbu</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/metar\" rel=\"tag\">#<span>metar</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviation\" rel=\"tag\">#<span>aviation</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/aviationweather\" rel=\"tag\">#<span>aviationweather</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/avgeek\" rel=\"tag\">#<span>avgeek</span></a> <a class=\"mention hashtag\" href=\"https://mastodon.social/tags/airport\" rel=\"tag\">#<span>airport</span></a>    vl</p>",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
     },
     {
       "id": "5463aa5c53eed09d",
@@ -22,10 +413,13 @@
       "published_at": "2025-09-12T07:46:12+00:00",
       "summary": "Media and some protesters gather at the airport as more than 300 workers detained in the US last week return.",
       "tags": [
+        "South Korea",
         "airport/security"
       ],
-      "confidence": "medium",
-      "type": "news"
+      "type": "local news",
+      "geo": {
+        "country": "South Korea"
+      }
     },
     {
       "id": "37886b905e31d408",
@@ -35,10 +429,13 @@
       "published_at": "2025-09-12T02:55:48+00:00",
       "summary": "Drones like this one were shot down over Polish airspace in the early hours of Wednesday.",
       "tags": [
+        "United States",
         "airport/security"
       ],
-      "confidence": "medium",
-      "type": "news"
+      "type": "local news",
+      "geo": {
+        "country": "United States"
+      }
     },
     {
       "id": "fb42d6a305403682",
@@ -48,10 +445,13 @@
       "published_at": "2025-09-11T23:50:46+00:00",
       "summary": "Nepalis rush home from India as deadly protests have engulfed the Himalayan nation.",
       "tags": [
+        "India",
         "airport/security"
       ],
-      "confidence": "medium",
-      "type": "news"
+      "type": "local news",
+      "geo": {
+        "country": "India"
+      }
     },
     {
       "id": "1894911a63f2eb94",
@@ -61,10 +461,17 @@
       "published_at": "2025-09-11T23:46:28+00:00",
       "summary": "Germany, the Netherlands and the Czech Republic will be sending Poland more support to defend Nato's eastern flank.",
       "tags": [
+        "MAN",
+        "United Kingdom",
         "airport/security"
       ],
-      "confidence": "medium",
-      "type": "news"
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
     },
     {
       "id": "4fe8e1e2ed8a5fc2",
@@ -76,8 +483,8 @@
       "tags": [
         "airport/security"
       ],
-      "confidence": "medium",
-      "type": "news"
+      "type": "local news",
+      "geo": {}
     },
     {
       "id": "f685ce70e92f9230",
@@ -87,10 +494,17 @@
       "published_at": "2025-09-10T19:44:52+00:00",
       "summary": "Israel's strikes in Doha and the Russian drone incursion could present major affronts to his authority.",
       "tags": [
+        "DOH",
+        "Qatar",
         "airport/security"
       ],
-      "confidence": "medium",
-      "type": "news"
+      "type": "local news",
+      "geo": {
+        "airport": "Hamad",
+        "city": "Doha",
+        "country": "Qatar",
+        "iata": "DOH"
+      }
     },
     {
       "id": "13ea08e07d8c3612",
@@ -100,10 +514,37 @@
       "published_at": "2025-09-10T18:56:48+00:00",
       "summary": "Whether the drone incursion was deliberate or accidental, Moscow will be watching Nato's response to it closely.",
       "tags": [
+        "DEL",
+        "India",
         "airport/security"
       ],
-      "confidence": "medium",
-      "type": "news"
+      "type": "local news",
+      "geo": {
+        "airport": "Indira Gandhi",
+        "city": "Delhi",
+        "country": "India",
+        "iata": "DEL"
+      }
+    },
+    {
+      "id": "e20693d04ceec4d5",
+      "title": "Mod Announcement: Rule Changes & Content Limitations",
+      "url": "https://www.reddit.com/r/aviation/comments/1lzt61p/mod_announcement_rule_changes_content_limitations/",
+      "source": "aviation",
+      "published_at": "2025-07-14T17:46:04+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Please read the following announcement before posting or commenting.</h1> <p><em>Violations of these rules may result in a permanent ban.</em></p> <h1>Changes to Rule 2:</h1> <p>Rule 2 has been changed to include the use of AI. This includes, but is not limited to, the use of AI in writing comments and posts or generating images. This also includes presenting AI theories or arguments, even if you explicitly state they are generated by AI. AI-generated content regarding aviation is frequently wrong and is incredibly low effort. The use of AI may result in a ban. </p> <h1>Introduction of Rule 10:</h1> <p>Even though we have been restricting NSFW content and gore before this, we have added it as an official rule and will be strongly enforcing it from now on.</p> <p>Rule 10 <em>bans any gore being posted to this subreddit</em>, even if it is a link to an outside source. This includes as a post or a comment. <em>Violations of this will result in a permanent ban</em> from <a href=\"https://www.reddit.com/r/aviation\">r/aviation</a>. In addition to this, we are also limiting NSFW content that is not explicitly gore. This content will be decided on a case by case basis. Content involving incidents like the one that was seen at Milan Bergamo Airport will always be marked as NSFW, and we will provide details in pinned comments and the flair to elaborate on how NSFW the content is, so that everyone can make their own choice on what they want to see. </p> <h1>Geopolitics:</h1> <p>Please remember to keep discussion in this subreddit focused on aviation. While geopolitics will frequently be a part of discussion, please remain respectful and avoid getting in arguments about this. Do not bring geopolitics into posts where they don’t belong. </p> <h1>Air India Related Content</h1> <p>Before posting Air India related content, please do the following. </p> <ul> <li>Search through the 4 megathreads below to see if your content has already been discussed;</li> </ul> <p><a href=\"https://www.reddit.com/r/aviation/s/U93gymXJEP\">Megathread 1 (day of crash)</a></p> <p><a href=\"https://www.reddit.com/r/aviation/s/470abHAgRi\">Megathread 2 (2 days after crash)</a></p> <p><a href=\"https://www.reddit.com/r/aviation/s/8OOvTCgH5U\">Megathread 3 (week after crash)</a></p> <p><a href=\"https://www.reddit.com/r/aviation/s/Gx08Nhhpfe\">Preliminary Report Megathread</a> - Search this subreddit to see if it has already been posted. - Check if there are any active megathreads about the Air India crash, and if so, post there instead. These will be found pinned on the subreddit homepage. - Check if the content you are posting is up to date, original, and adds to the discussion. - If you are posting news, check if it is from a reputable source. Do not post speculation from news sources. </p> <p>Thank you for your understanding. If you have any questions or concerns, please do not hesitate to reach out through modmail. </p> <p>The <a href=\"https://www.reddit.com/r/aviation\">r/aviation</a> Mod Team</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/usgapg123\"> /u/usgapg123 </a> <br /> <span><a href=\"https://www.reddit.com/r/aviation/comments/1lzt61p/mod_announcement_rule_changes_content_limitations/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/aviation/comments/1lzt61p/mod_announcement_rule_changes_content_limitations/\">[comments]</a></span>",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN"
+      }
     }
   ],
   "trends": {}
