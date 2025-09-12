@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
 """
-Collector: builds data.json for the Global Situational Awareness Dashboard.
+Collector for the Global Situational Awareness Dashboard.
 
-- Adds geo (airport, city, country, iata) AND lat/lon from airports.json when an airport is matched
-- Strips HTML from summaries
-- No country inference from text (geo only when airport matched)
-- Filters by watch_terms.yaml, classifies major/local/social
+- Reads feeds from feeds.yaml
+- Filters by watch_terms.yaml (airport/security or diplomatic)
+- Strips HTML
+- Adds airport geo + lat/lon from airports.json (no country inference from text)
+- Translates non-English titles/summaries to English (best-effort)
+- If a post has no title, uses first line of the summary as title (social feeds esp.)
+- Classifies: major news / local news / social
+- De-dupes newest and writes data.json
 """
 
 import re
@@ -18,6 +22,8 @@ import feedparser
 import yaml
 from dateutil import parser as dtparse
 from bs4 import BeautifulSoup
+from langdetect import detect, LangDetectException
+from googletrans import Translator
 
 # ----------------------------- Basics -----------------------------
 def now_utc() -> datetime:
@@ -38,7 +44,8 @@ def clean_source(feed_title: str, url: str) -> str:
         return t
     return get_domain(url)
 
-UA = {"User-Agent": "GSA-Collector/1.2 (+https://streamlit.app)"}
+UA = {"User-Agent": "GSA-Collector/1.3 (+https://streamlit.app)"}
+translator = Translator(service_urls=["translate.googleapis.com"])
 
 def strip_html(raw: str) -> str:
     if not raw:
@@ -48,7 +55,24 @@ def strip_html(raw: str) -> str:
     except Exception:
         return re.sub(r"<[^>]+>", "", raw)
 
-# ----------------------------- Feeds from YAML -----------------------------
+def safe_detect(text: str) -> str:
+    try:
+        return detect(text) if text and text.strip() else "en"
+    except LangDetectException:
+        return "en"
+
+def to_english(s: str) -> str:
+    if not s:
+        return s
+    lang = safe_detect(s)
+    if lang == "en":
+        return s
+    try:
+        return translator.translate(s, src=lang, dest="en").text
+    except Exception:
+        return s  # fall back if translation fails
+
+# ----------------------------- Feeds -----------------------------
 try:
     with open("feeds.yaml", "r", encoding="utf-8") as f:
         FEEDS = yaml.safe_load(f) or {}
@@ -61,7 +85,6 @@ OFFICIAL_FEEDS = FEEDS.get("official_announcements", [])
 WEATHER_FEEDS  = FEEDS.get("weather_alerts", [])
 SOCIAL_FEEDS   = FEEDS.get("social", [])
 
-# Major outlets / official domains treated as 'major news'
 MAJOR_DOMAINS = {
     "reuters.com","bbc.co.uk","apnews.com","theguardian.com","nytimes.com",
     "bloomberg.com","ft.com","cnn.com","aljazeera.com","sky.com","latimes.com",
@@ -74,7 +97,6 @@ MAJOR_DOMAINS = {
 # ----------------------------- Watch terms -----------------------------
 with open("watch_terms.yaml", "r", encoding="utf-8") as f:
     TERMS = yaml.safe_load(f) or {}
-
 CORE    = set(TERMS.get("core_terms", []))
 DIPLO   = set(TERMS.get("diplomacy_terms", []))
 EXCLUDE = set(TERMS.get("exclude_terms", []))
@@ -92,16 +114,15 @@ def tags_for(text: str):
         out.append("diplomatic")
     return out
 
-# ----------------------------- Airports ref (incl. lat/lon) -----------------------------
+# ----------------------------- Airports (with lat/lon) -----------------------------
 try:
     with open("airports.json", "r", encoding="utf-8") as f:
         AIRPORTS = json.load(f)
 except FileNotFoundError:
     AIRPORTS = []
 
-# Build lookups: alias -> meta, and IATA -> (lat, lon)
-ALIASES = {}
-IATA_TO_LL = {}
+ALIASES = {}     # alias(lower) -> meta
+IATA_TO_LL = {}  # IATA(upper) -> (lat, lon)
 for a in AIRPORTS:
     meta = {
         "iata": a.get("iata"),
@@ -111,10 +132,9 @@ for a in AIRPORTS:
         "lat": a.get("lat", a.get("latitude")),
         "lon": a.get("lon", a.get("longitude")),
     }
-    # lat/lon lookup by IATA (uppercased)
-    if meta["iata"] and isinstance(meta["lat"], (int, float)) and isinstance(meta["lon"], (int, float)):
-        IATA_TO_LL[meta["iata"].upper()] = (meta["lat"], meta["lon"])
-    # aliases (lowercased) incl. IATA itself
+    iata = (meta["iata"] or "").upper()
+    if iata and isinstance(meta["lat"], (int, float)) and isinstance(meta["lon"], (int, float)):
+        IATA_TO_LL[iata] = (meta["lat"], meta["lon"])
     for alias in (a.get("aliases") or []) + [a.get("iata", "")]:
         if alias:
             ALIASES[alias.lower()] = meta
@@ -123,21 +143,20 @@ def match_airport(text: str):
     t = (text or "").lower()
     for alias, meta in ALIASES.items():
         if alias and alias in t:
-            # Attach lat/lon if available via IATA
             iata = (meta.get("iata") or "").upper()
             lat, lon = None, None
             if iata and iata in IATA_TO_LL:
                 lat, lon = IATA_TO_LL[iata]
-            enriched = {
+            out = {
                 "iata": meta.get("iata"),
                 "name": meta.get("name"),
                 "city": meta.get("city"),
                 "country": meta.get("country"),
             }
             if lat is not None and lon is not None:
-                enriched["lat"] = lat
-                enriched["lon"] = lon
-            return enriched
+                out["lat"] = lat
+                out["lon"] = lon
+            return out
     return None
 
 def classify_type(url: str, declared_type: str, src_domain: str) -> str:
@@ -156,16 +175,32 @@ def fetch_feed(url: str):
         print("Feed error:", url, ex)
         return get_domain(url), []
 
+def derive_title(raw_title: str, summary: str) -> str:
+    t = strip_html(raw_title).strip()
+    if t and t.lower() != "(no title)":
+        return t
+    # use first sentence/line of summary
+    first = (summary or "").strip().splitlines()[0][:160]
+    return first if first else "(no title)"
+
 def normalise(entry, feedtitle: str, declared_type: str):
     url = entry.get("link", "") or entry.get("id", "") or ""
-    title = strip_html(entry.get("title", "") or "(no title)")
-    summary = strip_html(entry.get("summary", "") or "")
-    text = f"{title} {summary}"
+    raw_title = entry.get("title", "") or ""
+    raw_summary = entry.get("summary", "") or ""
 
+    # Clean HTML
+    summary_clean = strip_html(raw_summary)
+    title_clean = derive_title(raw_title, summary_clean)
+
+    # Translate (best-effort)
+    title_en = to_english(title_clean)
+    summary_en = to_english(summary_clean)
+
+    text = f"{title_en} {summary_en}"
     if should_exclude(text):
         return None
 
-    # published time
+    # Time
     pub = None
     for k in ("published", "updated", "created"):
         if entry.get(k):
@@ -180,7 +215,7 @@ def normalise(entry, feedtitle: str, declared_type: str):
     src_dom = get_domain(url)
     src_name = clean_source(feedtitle, url)
 
-    # tags & geo: ONLY from airport match
+    # Tags & geo (geo ONLY from airports)
     item_tags = tags_for(text)
     geo = {}
     ap = match_airport(text)
@@ -199,7 +234,7 @@ def normalise(entry, feedtitle: str, declared_type: str):
         if ap.get("country"):
             item_tags.append(ap["country"])
 
-    # keep only relevant
+    # Only keep relevant
     if not (("airport/security" in item_tags) or ("diplomatic" in item_tags)):
         return None
 
@@ -207,15 +242,15 @@ def normalise(entry, feedtitle: str, declared_type: str):
     item_tags = sorted(set(item_tags))
 
     return {
-        "id": sha1_16(url or title),
-        "title": title,
+        "id": sha1_16(url or title_en),
+        "title": title_en,
         "url": url,
         "source": src_name,
         "published_at": pub.isoformat(),
-        "summary": summary,
+        "summary": summary_en,
         "tags": item_tags,
         "type": item_type,
-        "geo": geo  # may include lat/lon if airport matched
+        "geo": geo
     }
 
 # ----------------------------- Collect -----------------------------
@@ -237,7 +272,7 @@ def collect_all():
     items += collect_block(WEATHER_FEEDS, "news")
     items += collect_block(SOCIAL_FEEDS, "social")
 
-    # De-dupe by id, keep newest
+    # De-dupe newest
     best = {}
     for it in items:
         k = it["id"]
@@ -257,4 +292,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
