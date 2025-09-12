@@ -99,6 +99,11 @@ MAJOR_DOMAINS = {
     "nhc.noaa.gov","weather.gov"
 }
 
+BLOCKED_DOMAINS = {
+    "bigorre.org",
+    "www.bigorre.org",
+}
+
 # watch_terms.yaml
 with open("watch_terms.yaml", "r", encoding="utf-8") as f:
     TERMS = yaml.safe_load(f) or {}
