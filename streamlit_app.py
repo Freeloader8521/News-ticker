@@ -7,12 +7,12 @@ import requests
 import streamlit as st
 
 # ------------------------- Page setup -------------------------
-st.set_page_config(page_title="Airport & UK Missions Dashboard", layout="wide")
+st.set_page_config(page_title="Global Situational Awareness Dashboard", layout="wide")
 st.markdown("<meta http-equiv='refresh' content='60'>", unsafe_allow_html=True)
 
 DATA_JSON_URL = os.getenv("DATA_JSON_URL", "").strip()
 
-# Country → flag (emoji)
+# ------------------------- Country → flag (emoji) -------------------------
 COUNTRY_FLAGS = {
     "United Kingdom": "🇬🇧", "United States": "🇺🇸", "Canada": "🇨🇦",
     "France": "🇫🇷", "Germany": "🇩🇪", "Netherlands": "🇳🇱", "Spain": "🇪🇸",
@@ -25,11 +25,20 @@ COUNTRY_FLAGS = {
     "Argentina": "🇦🇷", "Mexico": "🇲🇽"
 }
 
-# Domains we treat as "major" wires/outlets
-MAJOR_DOMAINS = {
-    "reuters.com", "bbc.co.uk", "apnews.com", "avherald.com", "gov.uk",
-    # add more here any time (cnn.com, theguardian.com, etc.)
-}
+# ------------------------- Floating crest -------------------------
+def _crest_html():
+    for fname, mime in (("crest.png","image/png"), ("crest.jpg","image/jpeg"), ("crest.jpeg","image/jpeg")):
+        if os.path.exists(fname):
+            with open(fname, "rb") as f:
+                b64 = base64.b64encode(f.read()).decode()
+            return f'<img class="crest" src="data:{mime};base64,{b64}" width="80">'
+    return ""  # no crest file present
+
+st.markdown("""
+<style>
+.crest { position: fixed; top: 10px; right: 20px; z-index: 9999; }
+</style>
+""", unsafe_allow_html=True)
 
 # ------------------------- Data loader -------------------------
 @st.cache_data(ttl=30)
@@ -60,17 +69,19 @@ def get_domain(url: str) -> str:
 def classify_type(item) -> str:
     """
     Map each item into one of: 'major news', 'local news', 'social'
-    - If item['type'] == 'social' -> 'social'
-    - Else (news): look at domain
     """
     itype = (item.get("type") or "news").lower()
     if itype == "social":
         return "social"
     dom = get_domain(item.get("url", ""))
+    MAJOR_DOMAINS = {
+        "reuters.com","bbc.co.uk","apnews.com","avherald.com","gov.uk",
+        "theguardian.com","sky.com","cnn.com","nytimes.com","aljazeera.com",
+        "ft.com","bloomberg.com"
+    }
     return "major news" if any(dom.endswith(d) for d in MAJOR_DOMAINS) else "local news"
 
 def is_relevant(item) -> bool:
-    """Relevant = tagged airport/security or diplomatic."""
     tags = set(item.get("tags", []))
     return ("airport/security" in tags) or ("diplomatic" in tags)
 
@@ -90,19 +101,9 @@ if new_ids:
     play_beep()
 st.session_state.seen_ids |= current_ids
 
-# ------------------------- Header + crest -------------------------
-st.title("Airport & UK Missions Situational Dashboard")
-
-st.markdown(
-    """
-<style>
-.crest { position: fixed; top: 10px; right: 20px; z-index: 9999; }
-</style>
-""",
-    unsafe_allow_html=True,
-)
-# Safe to leave even if the image isn't present
-st.markdown('<img src="crest.png" class="crest" width="80">', unsafe_allow_html=True)
+# ------------------------- Header -------------------------
+st.title("Global Situational Awareness Dashboard")
+st.markdown(_crest_html(), unsafe_allow_html=True)
 
 # Timestamp
 if generated:
@@ -121,28 +122,24 @@ type_choices = ["major news", "local news", "social"]
 type_filter = colB.multiselect("Type", type_choices, default=type_choices)
 
 def passes_filters(it) -> bool:
-    if type_filter:
-        if classify_type(it) not in type_filter:
-            return False
+    if type_filter and classify_type(it) not in type_filter:
+        return False
     if q:
         txt = (it.get("title", "") + " " + it.get("summary", "")).lower()
         if q.lower() not in txt:
             return False
     return True
 
-# Split into live vs social
-live_items = []
-social_items = []
+# Split items
+live_items, social_items = [], []
 for it in items:
     if not passes_filters(it):
         continue
-    bucket = classify_type(it)
-    if bucket == "social":
+    if classify_type(it) == "social":
         social_items.append(it)
     else:
         live_items.append(it)
 
-# Sort both newest first
 live_items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
 social_items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
 
@@ -163,26 +160,21 @@ def render_card(col, it):
         loc = " | ".join([x for x in locbits if x])
         tags = ", ".join(it.get("tags", []))
 
-        # Header line
         col.caption(
             f"{it.get('source','')} | {it.get('published_at','')}"
             + (f" | {loc}" if loc else "")
             + (f" | {tags}" if tags else "")
         )
-        # Summary + link
         if it.get("summary"):
             col.write(it["summary"])
         if it.get("url"):
             col.write(f"[Open source]({it['url']})")
 
-# Column headers
 colLive.subheader("Live feed")
 colSocial.subheader("Social media")
 
-# Render lists
 for it in live_items[:200]:
     render_card(colLive, it)
 
 for it in social_items[:200]:
     render_card(colSocial, it)
-
