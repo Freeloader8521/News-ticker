@@ -2,10 +2,10 @@
 """
 Collector: builds data.json for the Global Situational Awareness Dashboard.
 
-Changes in this version:
-- Strips HTML from summaries (BeautifulSoup)
-- NO country inference: only set geo when an airport is matched from airports.json
-- Keeps filtering by watch_terms.yaml and classifying major/local/social
+- Adds geo (airport, city, country, iata) AND lat/lon from airports.json when an airport is matched
+- Strips HTML from summaries
+- No country inference from text (geo only when airport matched)
+- Filters by watch_terms.yaml, classifies major/local/social
 """
 
 import re
@@ -38,7 +38,7 @@ def clean_source(feed_title: str, url: str) -> str:
         return t
     return get_domain(url)
 
-UA = {"User-Agent": "GSA-Collector/1.1 (+https://streamlit.app)"}
+UA = {"User-Agent": "GSA-Collector/1.2 (+https://streamlit.app)"}
 
 def strip_html(raw: str) -> str:
     if not raw:
@@ -92,29 +92,52 @@ def tags_for(text: str):
         out.append("diplomatic")
     return out
 
-# ----------------------------- Airports ref -----------------------------
+# ----------------------------- Airports ref (incl. lat/lon) -----------------------------
 try:
     with open("airports.json", "r", encoding="utf-8") as f:
         AIRPORTS = json.load(f)
 except FileNotFoundError:
     AIRPORTS = []
 
+# Build lookups: alias -> meta, and IATA -> (lat, lon)
 ALIASES = {}
+IATA_TO_LL = {}
 for a in AIRPORTS:
+    meta = {
+        "iata": a.get("iata"),
+        "name": a.get("name"),
+        "city": a.get("city"),
+        "country": a.get("country"),
+        "lat": a.get("lat", a.get("latitude")),
+        "lon": a.get("lon", a.get("longitude")),
+    }
+    # lat/lon lookup by IATA (uppercased)
+    if meta["iata"] and isinstance(meta["lat"], (int, float)) and isinstance(meta["lon"], (int, float)):
+        IATA_TO_LL[meta["iata"].upper()] = (meta["lat"], meta["lon"])
+    # aliases (lowercased) incl. IATA itself
     for alias in (a.get("aliases") or []) + [a.get("iata", "")]:
         if alias:
-            ALIASES[alias.lower()] = {
-                "iata": a.get("iata"),
-                "name": a.get("name"),
-                "city": a.get("city"),
-                "country": a.get("country"),
-            }
+            ALIASES[alias.lower()] = meta
 
 def match_airport(text: str):
     t = (text or "").lower()
     for alias, meta in ALIASES.items():
         if alias and alias in t:
-            return meta
+            # Attach lat/lon if available via IATA
+            iata = (meta.get("iata") or "").upper()
+            lat, lon = None, None
+            if iata and iata in IATA_TO_LL:
+                lat, lon = IATA_TO_LL[iata]
+            enriched = {
+                "iata": meta.get("iata"),
+                "name": meta.get("name"),
+                "city": meta.get("city"),
+                "country": meta.get("country"),
+            }
+            if lat is not None and lon is not None:
+                enriched["lat"] = lat
+                enriched["lon"] = lon
+            return enriched
     return None
 
 def classify_type(url: str, declared_type: str, src_domain: str) -> str:
@@ -157,18 +180,26 @@ def normalise(entry, feedtitle: str, declared_type: str):
     src_dom = get_domain(url)
     src_name = clean_source(feedtitle, url)
 
-    # tags & geo (geo ONLY from airports)
+    # tags & geo: ONLY from airport match
     item_tags = tags_for(text)
     geo = {}
     ap = match_airport(text)
     if ap:
-        geo = {"airport": ap["name"], "city": ap["city"], "country": ap["country"], "iata": ap["iata"]}
+        geo = {
+            "airport": ap.get("name"),
+            "city": ap.get("city"),
+            "country": ap.get("country"),
+            "iata": ap.get("iata"),
+        }
+        if ap.get("lat") is not None and ap.get("lon") is not None:
+            geo["lat"] = ap["lat"]
+            geo["lon"] = ap["lon"]
         if ap.get("iata"):
             item_tags.append(ap["iata"])
         if ap.get("country"):
             item_tags.append(ap["country"])
 
-    # Only keep relevant
+    # keep only relevant
     if not (("airport/security" in item_tags) or ("diplomatic" in item_tags)):
         return None
 
@@ -184,7 +215,7 @@ def normalise(entry, feedtitle: str, declared_type: str):
         "summary": summary,
         "tags": item_tags,
         "type": item_type,
-        "geo": geo  # may be {} if no airport match
+        "geo": geo  # may include lat/lon if airport matched
     }
 
 # ----------------------------- Collect -----------------------------
