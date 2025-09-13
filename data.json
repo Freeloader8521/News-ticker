@@ -1,6 +1,69 @@
 {
-  "generated_at": "2025-09-13T19:22:02.253302+00:00",
+  "generated_at": "2025-09-13T19:40:07.098884+00:00",
   "items": [
+    {
+      "id": "fb4ed836bdc22be1",
+      "title_orig": "Aviation weather for Pearson Field airport in Vancouver area (USA) is “KVUO 131853Z AUTO 00000KT 10SM CLR 21/14 A2994 RMK AO2 SLP139 T02060139” :  See what it m",
+      "summary_orig": "Aviation weather for Pearson Field airport in Vancouver area (USA) is “KVUO 131853Z AUTO 00000KT 10SM CLR 21/14 A2994 RMK AO2 SLP139 T02060139” :  See what it means on https://www. bigorre.org/aero/meteo/kvuo/en # vancouver # usa # pearsonfieldairport # kvuo # metar # aviation # aviationweather # avgeek # airport vl",
+      "lang": "en",
+      "title_en": "Aviation weather for Pearson Field airport in Vancouver area (USA) is “KVUO 131853Z AUTO 00000KT 10SM CLR 21/14 A2994 RMK AO2 SLP139 T02060139” :  See what it m",
+      "summary_en": "Aviation weather for Pearson Field airport in Vancouver area (USA) is “KVUO 131853Z AUTO 00000KT 10SM CLR 21/14 A2994 RMK AO2 SLP139 T02060139” :  See what it means on https://www. bigorre.org/aero/meteo/kvuo/en # vancouver # usa # pearsonfieldairport # kvuo # metar # aviation # aviationweather # avgeek # airport vl",
+      "title": "Aviation weather for Pearson Field airport in Vancouver area (USA) is “KVUO 131853Z AUTO 00000KT 10SM CLR 21/14 A2994 RMK AO2 SLP139 T02060139” :  See what it m",
+      "summary": "Aviation weather for Pearson Field airport in Vancouver area (USA) is “KVUO 131853Z AUTO 00000KT 10SM CLR 21/14 A2994 RMK AO2 SLP139 T02060139” :  See what it means on https://www. bigorre.org/aero/meteo/kvuo/en # vancouver # usa # pearsonfieldairport # kvuo # metar # aviation # aviationweather # avgeek # airport vl",
+      "url": "https://mastodon.social/@bigorre_org/115198669351737656",
+      "source": "#aviation",
+      "published_at": "2025-09-13T19:36:35+00:00",
+      "tags": [
+        "Canada",
+        "YYZ",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Pearson",
+        "city": "Toronto",
+        "country": "Canada",
+        "iata": "YYZ",
+        "lat": 43.6777,
+        "lon": -79.6248
+      }
+    },
+    {
+      "id": "71adac67651f0c40",
+      "title_orig": "Nine arrests and 'many more' likely as police attacked at Tommy Robinson protest",
+      "summary_orig": "Violence flared at the London rally organised by Far Right activist Tommy Robinson",
+      "lang": "en",
+      "title_en": "Nine arrests and 'many more' likely as police attacked at Tommy Robinson protest",
+      "summary_en": "Violence flared at the London rally organised by Far Right activist Tommy Robinson",
+      "title": "Nine arrests and 'many more' likely as police attacked at Tommy Robinson protest",
+      "summary": "Violence flared at the London rally organised by Far Right activist Tommy Robinson",
+      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/nine-arrests-many-more-likely-32471957",
+      "source": "MEN - News",
+      "published_at": "2025-09-13T19:34:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8c34918a8fcec285",
+      "title_orig": "More than 100,000 join Tommy Robinson rally, as counter-protesters demonstrate",
+      "summary_orig": "Nine people are arrested as the Met say extra officers have been deployed to deal with \"significant aggression\".",
+      "lang": "en",
+      "title_en": "More than 100,000 join Tommy Robinson rally, as counter-protesters demonstrate",
+      "summary_en": "Nine people are arrested as the Met say extra officers have been deployed to deal with \"significant aggression\".",
+      "title": "More than 100,000 join Tommy Robinson rally, as counter-protesters demonstrate",
+      "summary": "Nine people are arrested as the Met say extra officers have been deployed to deal with \"significant aggression\".",
+      "url": "https://www.bbc.com/news/articles/cwydezxl0xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-13T19:27:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "8b24199145bbec4a",
       "title_orig": "A departure delay has been issued for Seattle–Tacoma International # Airport ( # SEA ) due to traffic management initiatives. Current delays are 16-30 minutes a",
@@ -56,6 +119,24 @@
       "geo": {}
     },
     {
+      "id": "d59271a09da02c33",
+      "title_orig": "Russian drone shot down over Romania as Poland raises air defense alert - Türkiye Today",
+      "summary_orig": "submitted by /u/According-Gear-8217 [link] [comments]",
+      "lang": "en",
+      "title_en": "Russian drone shot down over Romania as Poland raises air defense alert - Türkiye Today",
+      "summary_en": "submitted by /u/According-Gear-8217 [link] [comments]",
+      "title": "Russian drone shot down over Romania as Poland raises air defense alert - Türkiye Today",
+      "summary": "submitted by /u/According-Gear-8217 [link] [comments]",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1ng5sx4/russian_drone_shot_down_over_romania_as_poland/",
+      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
+      "published_at": "2025-09-13T19:01:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
       "id": "ab515c87096efdbf",
       "title_orig": "Far-Right Rally in London Draws Huge Crowd and a Counterprotest",
       "summary_orig": "The divisive anti-immigrant agitator Tommy Robinson organized what he said was a free-speech festival for his supporters.",
@@ -66,7 +147,7 @@
       "summary": "The divisive anti-immigrant agitator Tommy Robinson organized what he said was a free-speech festival for his supporters.",
       "url": "https://www.nytimes.com/2025/09/13/world/europe/britain-far-right-rally-robinson.html",
       "source": "NYT > World News",
-      "published_at": "2025-09-13T18:59:49+00:00",
+      "published_at": "2025-09-13T18:59:50+00:00",
       "tags": [
         "airport/security"
       ],
@@ -175,24 +256,6 @@
       "url": "http://www.euronews.com/2025/09/13/police-assaulted-during-massive-london-march-organised-by-far-right-activist-tommy-robinso",
       "source": "News | Euronews RSS",
       "published_at": "2025-09-13T18:36:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8c34918a8fcec285",
-      "title_orig": "More than 100,000 join Tommy Robinson rally, as counter-protesters demonstrate",
-      "summary_orig": "Nine people are arrested as the Met say extra officers have been deployed to deal with \"significant aggression\".",
-      "lang": "en",
-      "title_en": "More than 100,000 join Tommy Robinson rally, as counter-protesters demonstrate",
-      "summary_en": "Nine people are arrested as the Met say extra officers have been deployed to deal with \"significant aggression\".",
-      "title": "More than 100,000 join Tommy Robinson rally, as counter-protesters demonstrate",
-      "summary": "Nine people are arrested as the Met say extra officers have been deployed to deal with \"significant aggression\".",
-      "url": "https://www.bbc.com/news/articles/cwydezxl0xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-09-13T18:34:57+00:00",
       "tags": [
         "airport/security"
       ],
@@ -521,24 +584,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "e6b917eed7b25202",
-      "title_orig": "Bombardier Q400 loses wheel on takeoff",
-      "summary_orig": "In the latter half you can see it land safely Source - https://www.instagram.com/reel/DOgVwxLko3N/ More info - https://timesofindia.indiatimes.com/india/spicejet-aircraft-loses-tyre-on-take-off-at-kandla/amp_articleshow/123851371.cms submitted by /u/MyDespatcherDyKabel [link] [comments]",
-      "lang": "en",
-      "title_en": "Bombardier Q400 loses wheel on takeoff",
-      "summary_en": "In the latter half you can see it land safely Source - https://www.instagram.com/reel/DOgVwxLko3N/ More info - https://timesofindia.indiatimes.com/india/spicejet-aircraft-loses-tyre-on-take-off-at-kandla/amp_articleshow/123851371.cms submitted by /u/MyDespatcherDyKabel [link] [comments]",
-      "title": "Bombardier Q400 loses wheel on takeoff",
-      "summary": "In the latter half you can see it land safely Source - https://www.instagram.com/reel/DOgVwxLko3N/ More info - https://timesofindia.indiatimes.com/india/spicejet-aircraft-loses-tyre-on-take-off-at-kandla/amp_articleshow/123851371.cms submitted by /u/MyDespatcherDyKabel [link] [comments]",
-      "url": "https://www.reddit.com/r/aviation/comments/1ng3akm/bombardier_q400_loses_wheel_on_takeoff/",
-      "source": "aviation",
-      "published_at": "2025-09-13T17:24:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -1210,24 +1255,6 @@
       "url": "https://mastodon.social/@bigorre_org/115197746349677358",
       "source": "#airport",
       "published_at": "2025-09-13T15:41:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "0deef689f33a4e12",
-      "title_orig": "How many runways can you see for Waterloo Regional airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kalo/en # waterloo # usa # waterloore",
-      "summary_orig": "How many runways can you see for Waterloo Regional airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kalo/en # waterloo # usa # waterlooregionalairport # kalo # alo # airport # aviation # avgeek vl",
-      "lang": "en",
-      "title_en": "How many runways can you see for Waterloo Regional airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kalo/en # waterloo # usa # waterloore",
-      "summary_en": "How many runways can you see for Waterloo Regional airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kalo/en # waterloo # usa # waterlooregionalairport # kalo # alo # airport # aviation # avgeek vl",
-      "title": "How many runways can you see for Waterloo Regional airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kalo/en # waterloo # usa # waterloore",
-      "summary": "How many runways can you see for Waterloo Regional airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kalo/en # waterloo # usa # waterlooregionalairport # kalo # alo # airport # aviation # avgeek vl",
-      "url": "https://mastodon.social/@bigorre_org/115197726819854176",
-      "source": "#airport",
-      "published_at": "2025-09-13T15:36:54+00:00",
       "tags": [
         "airport/security"
       ],
