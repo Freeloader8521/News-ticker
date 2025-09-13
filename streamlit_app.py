@@ -8,9 +8,6 @@ import pytz
 # ────────────────────────── Page config / theme ──────────────────────────
 st.set_page_config(page_title="Global Situational Awareness Dashboard", layout="wide")
 
-# Force white background and tidy spacing
-st.markdown(
-    """
 st.markdown(
     """
     <style>
