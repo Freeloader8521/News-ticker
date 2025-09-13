@@ -1,24 +1,97 @@
 news:
+  # UK / Europe – majors
+  - https://feeds.bbci.co.uk/news/rss.xml
   - https://feeds.bbci.co.uk/news/world/rss.xml
   - https://www.theguardian.com/world/rss
+  - https://www.theguardian.com/uk-news/rss
+  - https://www.telegraph.co.uk/news/rss.xml
+  - https://www.independent.co.uk/news/world/rss
+  - https://www.thetimes.co.uk/environment/rss  # may require access
+  - https://www.ft.com/world/rss  # may require access
+  - https://www.reutersagency.com/feed/?best-sectors=world&post_type=best # Reuters world
+  - https://www.reuters.com/world/uk/rss
+  - https://www.reuters.com/world/europe/rss
+  - https://www.reuters.com/world/asia-pacific/rss
+  - https://www.reuters.com/world/middle-east/rss
+  - https://www.reuters.com/world/africa/rss
+  - https://www.reuters.com/world/americas/rss
+  - https://news.sky.com/feeds/rss/world.xml
   - https://www.aljazeera.com/xml/rss/all.xml
-  - https://rss.nytimes.com/services/xml/rss/nyt/World.xml
-  - http://feeds.skynews.com/feeds/rss/world.xml
-  - https://globalnews.ca/world/feed/                # swapped in for CBC
+  - https://www.euronews.com/rss?level=theme&name=news
+  - https://apnews.com/hub/ap-top-news?utm_source=apnews.com&utm_medium=referral&utm_campaign=rss  # AP (RSS-like)
+  - https://www.nytimes.com/services/xml/rss/nyt/World.xml
+  - https://www.cnn.com/world/index.html?output=rss
+  - https://feeds.a.dj.com/rss/RSSWorldNews.xml
+  - https://www.washingtonpost.com/rss/world/
+  - https://www.latimes.com/world-nation/rss2.0.xml
+  - https://www.scmp.com/rss/91/feed  # South China Morning Post
+  - https://www.straitstimes.com/global/rss.xml
+  - https://www.japantimes.co.jp/feed/
+  - https://www.france24.com/en/rss
+  - https://www.dw.com/english/feeds/rss
+  - https://www.rferl.org/api/zyriteuuir  # Radio Free Europe World
+  # Aviation specialist
+  - https://avherald.com/rss.php
+  - https://www.flightglobal.com/feeds/rss/  # multiple subfeeds
+  - https://simpleflying.com/feed/
+  - https://runwaygirlnetwork.com/feed/
+  - https://www.airlive.net/feed/
+  - https://www.ainonline.com/rss.xml
+  - https://www.ch-aviation.com/portal/rss
+  # UK regional (sample)
+  - https://www.manchestereveningnews.co.uk/news/?service=rss
+  - https://www.liverpoolecho.co.uk/news/?service=rss
+  - https://www.birminghammail.co.uk/news/?service=rss
+  - https://www.edinburghlive.co.uk/news/?service=rss
+  - https://www.bristolpost.co.uk/news/?service=rss
 
 aviation_authorities:
-  - https://www.easa.europa.eu/newsroom-and-events/news/feed.xml
-  - https://www.gov.uk/aaib-reports.atom
-  - https://www.ntsb.gov/Pages/RSS.aspx?feed=press-releases
-  - https://www.ntsb.gov/Pages/RSS.aspx?feed=investigations
+  - https://www.faa.gov/newsroom/all_news_rss.xml
+  - https://www.faa.gov/air_traffic/publications/atpubs/notices/notices.rss  # Notices
+  - https://www.caa.co.uk/feeds/News/  # UK CAA news
+  - https://nats.aero/news/feed/  # NATS news/blog
+  - https://www.easa.europa.eu/en/newsroom-andevents/news/rss.xml
+  - https://www.icao.int/Newsroom/_layouts/15/listfeed.aspx?List=1b3325f0-bc7f-4e86-8d8c-2f4e9bf5a3a0
+  - https://www.atsb.gov.au/rss  # Australia ATSB
+  - https://www.taic.org.nz/rss.xml  # NZ Transport Accident Investigation Commission
+  - https://www.tc.gc.ca/en/transport-canada/rss/aviation.xml
+  - https://www.caa.co.za/feed/  # South Africa CAA (WordPress)
+  - https://www.dgca.gov.in/digigov-portal/?page=site/TopNews&view=Rss  # India DGCA
+  - https://www.caac.gov.cn/rss/english.xml  # China CAAC (if available)
 
 official_announcements:
-  - https://www.gov.uk/search/news-and-communications.atom
-  - https://www.ncsc.gov.uk/information/rss-feeds/overview-news.rss
-  - https://www.ncsc.gov.uk/information/rss-feeds/guidance.rss
-  
-weather_alerts:
-  - https://www.metoffice.gov.uk/public/data/PWSCache/WarningsRSS/Region/UK
-  - https://alerts.weather.gov/cap/us.php?x=0
+  - https://www.gov.uk/government/announcements.atom  # UK GOV announcements
+  - https://www.gov.uk/government/world?format=atom  # FCDO world news
+  - https://home.treasury.gov/news/press-releases/feed  # US sanctions (context)
+  - https://www.state.gov/rss-feeds/press-releases/  # US State Dept
+  - https://www.consilium.europa.eu/en/press/press-releases/more-rss/  # EU Council PR
+  - https://ec.europa.eu/commission/presscorner/home/en/rss.xml  # EU Commission PR
+  - https://www.un.org/press/en/rss.xml  # UN Press
+  - https://www.nato.int/cps/en/natolive/news_rss.htm
+  - https://www.osce.org/feeds/news.xml
 
-social: []
+weather_alerts:
+  - https://www.metoffice.gov.uk/public/data/PWSCache/WarningsRSS/Region/UK  # UK warnings
+  - https://www.metoffice.gov.uk/public/data/PWSCache/WarningsRSS/Region/World  # Global overview (limited)
+  - https://www.met.ie/warnings/rss  # Ireland
+  - https://www.metservice.com/warnings/severe-weather-warnings/rss  # NZ
+  - https://www.nhc.noaa.gov/index-at.xml  # Atlantic hurricanes
+  - https://www.nhc.noaa.gov/gtwo.xml  # NHC outlook
+  - https://www.weather.gov/rss_page.php?site_name=nws  # NWS (US)
+  - https://www.gdacs.org/xml/rss.xml  # Global Disaster Alerts
+  - https://www.emsc-csem.org/Earthquake/rss.php  # EMSC earthquakes
+  - https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.atom  # USGS quakes
+
+social:
+  # Mastodon: pick servers you trust; these are general public timelines or aviation-focused instances
+  - https://mastodon.social/tags/aviation.rss
+  - https://mastodon.social/tags/airport.rss
+  - https://mastodon.social/tags/security.rss
+  - https://eupolicy.social/tags/airport.rss
+  - https://mastodon.world/tags/aviation.rss
+  # Reddit (via RSS)
+  - https://www.reddit.com/r/aviation/.rss
+  - https://www.reddit.com/r/flying/.rss
+  - https://www.reddit.com/r/aviationmaintenance/.rss
+  - https://www.reddit.com/r/worldnews/.rss
+  - https://www.reddit.com/r/UkrainianConflict/.rss
