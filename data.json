@@ -1,6 +1,24 @@
 {
-  "generated_at": "2025-09-13T02:41:54.024270+00:00",
+  "generated_at": "2025-09-13T03:35:38.534147+00:00",
   "items": [
+    {
+      "id": "b5a9d106f7f97044",
+      "title_orig": "Severe Thunderstorm Warning issued September 12 at 8:29PM MST until September 12 at 9:00PM MST by NWS Tucson AZ",
+      "summary_orig": "At 829 PM MST, a severe thunderstorm was located near San Jose,\nmoving northeast at 35 mph.\n\nHAZARD...60 mph wind gusts and quarter size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Hail damage to vehicles is expected. Expect wind damage\nto roofs, siding, and trees.\n\nLocations impacted include...\nSafford, Thatcher, Solomon, San Jose, Safford Regional Airport,\nRoper Lake State Park and Swift Trail Junction.\n\nThis includes the following highways...\nRoute 191 between mile markers 114 and 153.\nRoute 75 between mile markers 386 and 393.\nRoute 70 between mile markers 336 and 370.",
+      "lang": "en",
+      "title_en": "Severe Thunderstorm Warning issued September 12 at 8:29PM MST until September 12 at 9:00PM MST by NWS Tucson AZ",
+      "summary_en": "At 829 PM MST, a severe thunderstorm was located near San Jose,\nmoving northeast at 35 mph.\n\nHAZARD...60 mph wind gusts and quarter size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Hail damage to vehicles is expected. Expect wind damage\nto roofs, siding, and trees.\n\nLocations impacted include...\nSafford, Thatcher, Solomon, San Jose, Safford Regional Airport,\nRoper Lake State Park and Swift Trail Junction.\n\nThis includes the following highways...\nRoute 191 between mile markers 114 and 153.\nRoute 75 between mile markers 386 and 393.\nRoute 70 between mile markers 336 and 370.",
+      "title": "Severe Thunderstorm Warning issued September 12 at 8:29PM MST until September 12 at 9:00PM MST by NWS Tucson AZ",
+      "summary": "At 829 PM MST, a severe thunderstorm was located near San Jose,\nmoving northeast at 35 mph.\n\nHAZARD...60 mph wind gusts and quarter size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Hail damage to vehicles is expected. Expect wind damage\nto roofs, siding, and trees.\n\nLocations impacted include...\nSafford, Thatcher, Solomon, San Jose, Safford Regional Airport,\nRoper Lake State Park and Swift Trail Junction.\n\nThis includes the following highways...\nRoute 191 between mile markers 114 and 153.\nRoute 75 between mile markers 386 and 393.\nRoute 70 between mile markers 336 and 370.",
+      "url": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bb07589aec174cd8f55dbf00511be1451fdea297.001.1.cap",
+      "source": "Current watches, warnings, and advisories for United States land zones",
+      "published_at": "2025-09-13T03:29:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "ba8984cfb2ec5c07",
       "title_orig": "Former Judge Sushila Karki Named Nepal’s Leader After Gen Z Protests",
@@ -369,24 +387,6 @@
         "lat": 37.4602,
         "lon": 126.4407
       }
-    },
-    {
-      "id": "8a31a503de256c9e",
-      "title_orig": "Number of dead in Nepal anti-corruption protests rises to 51",
-      "summary_orig": "The number of people who died during anti-corruption protests in Nepal has risen to 51, police said.",
-      "lang": "en",
-      "title_en": "Number of dead in Nepal anti-corruption protests rises to 51",
-      "summary_en": "The number of people who died during anti-corruption protests in Nepal has risen to 51, police said.",
-      "title": "Number of dead in Nepal anti-corruption protests rises to 51",
-      "summary": "The number of people who died during anti-corruption protests in Nepal has risen to 51, police said.",
-      "url": "https://news.sky.com/story/number-of-dead-in-nepal-anti-corruption-protests-rises-to-51-13429091",
-      "source": "World News - Breaking international news and headlines | Sky News",
-      "published_at": "2025-09-12T11:22:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
     },
     {
       "id": "17b2ec97c53f9f3f",
