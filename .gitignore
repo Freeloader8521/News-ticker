@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit cache and logs
+.streamlit/
+logs/
+
+# Local data files
+data.json
+
+# Test / coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
