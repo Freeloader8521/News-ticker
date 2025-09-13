@@ -1,11 +1,20 @@
-streamlit==1.37.1
-requests==2.32.3
-python-dateutil==2.9.0.post0
-feedparser==6.0.11
-PyYAML==6.0.2
-beautifulsoup4
-langdetect
-deep-translator
-pytz
-pandas
-pydeck
+# Core app
+streamlit>=1.32
+pydeck>=0.8
+
+# Feeds and parsing
+feedparser>=6.0.11
+requests>=2.31.0
+PyYAML>=6.0.1
+beautifulsoup4>=4.12.2
+
+# Dates and times
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Language detection & translation
+langdetect>=1.0.9
+deep-translator>=1.11.4
+
+# Data handling
+pandas>=2.0.0
