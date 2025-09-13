@@ -1,111 +1,177 @@
+# streamlit_app.py
+
 import json
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List
 from datetime import datetime
-
-import streamlit as st
 import pytz
+import streamlit as st
 
-# ────────────────────────── Page config / theme ──────────────────────────
-st.set_page_config(page_title="Global Situational Awareness Dashboard", layout="wide")
+# ----------------------------- Page Config -----------------------------
+st.set_page_config(
+    page_title="Global Situational Awareness Dashboard",
+    layout="wide",
+    initial_sidebar_state="collapsed",
+)
 
+# ----------------------------- Custom CSS -----------------------------
 st.markdown(
     """
     <style>
-      /* Force light theme colours */
-      html, body, [class*="st-"] {
+    /* Force light theme colours */
+    html, body, [class*="st-"] {
         color: #111 !important;
         background: #ffffff !important;
-      }
+    }
 
-      /* Container spacing */
-      .block-container { padding-top: 1.5rem; padding-bottom: 2rem; }
+    /* Container spacing */
+    .block-container {
+        padding-top: 1.5rem;
+        padding-bottom: 2rem;
+    }
 
-      /* Links */
-      a, a:visited { color: #0b5ed7 !important; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+    /* Links */
+    a, a:visited { color: #0b5ed7 !important; text-decoration: none; }
+    a:hover { text-decoration: underline; }
 
-      /* Headings */
-      h1, h2, h3, h4, h5, h6 { color: #111 !important; }
+    /* Headings */
+    h1, h2, h3, h4, h5, h6 { color: #111 !important; }
 
-      /* Markdown text inside Streamlit containers */
-      div[data-testid="stMarkdownContainer"] p,
-      div[data-testid="stMarkdownContainer"] span,
-      div[data-testid="stMarkdownContainer"] li {
-        color: #111 !important;
-      }
+    /* Inputs */
+    input, textarea, .stTextInput input, .stMultiSelect, .stSelectbox {
+      color: #111 !important;
+      background: #fff !important;
+    }
 
-      /* Inputs */
-      input, textarea, .stTextInput input {
-        color: #111 !important;
-        background: #fff !important;
-      }
+    /* Style Refresh button */
+    button[kind="secondary"] {
+      border: 1px solid #333 !important;
+      border-radius: 6px !important;
+      background: #f8f8f8 !important;
+      color: #111 !important;
+      font-weight: 500;
+    }
 
-      /* Cards */
-      .story-card { padding: 0.85rem 1rem; border: 1px solid #E6E6E6; border-radius: 10px; margin-bottom: 0.8rem; background: #fff; }
-      .story-title { font-size: 1.05rem; font-weight: 700; margin: 0 0 0.35rem 0; color: #111 !important; }
-      .story-meta { color: #555 !important; font-size: 0.9rem; margin-bottom: 0.35rem; }
-      .story-summary { font-size: 0.98rem; line-height: 1.35rem; color: #111 !important; }
+    /* Checkbox outline ("Translate to English") */
+    div[data-testid="stCheckbox"] {
+      border: 1px solid #333 !important;
+      border-radius: 6px !important;
+      padding: 6px 10px !important;
+      margin-bottom: 10px !important;
+      background: #f8f8f8 !important;
+    }
+
+    /* Article cards */
+    .article-card {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      background: #f9f9f9;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+    }
+    .article-card h3 {
+      margin-top: 0;
+      margin-bottom: 0.5rem;
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #111 !important;
+    }
+    .article-card p { margin: 0.2rem 0; color: #333 !important; }
+    .story-meta { color: #555 !important; font-size: 0.9rem; }
     </style>
     """,
     unsafe_allow_html=True,
 )
 
+# ----------------------------- Header -----------------------------
 st.title("Global Situational Awareness Dashboard")
 
-# ────────────────────────── Helpers ──────────────────────────
-UK = pytz.timezone("Europe/London")
+# ----------------------------- Helpers -----------------------------
+UK_TZ = pytz.timezone("Europe/London")
 
-def pretty_dt_uk(iso: str) -> str:
+def pretty_dt_iso(iso: str) -> str:
+    """ISO UTC -> 'HH:MM, Friday 13 September 2025' in UK local time (with DST)."""
     if not iso:
         return ""
     try:
         dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
-        dt_uk = dt.astimezone(UK)
+        dt_uk = dt.astimezone(UK_TZ)
         return dt_uk.strftime("%H:%M, %A %d %B %Y")
     except Exception:
         return iso
 
-def load_json(path: str) -> Dict[str, Any]:
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
+def load_data() -> Dict[str, Any]:
+    try:
+        with open("data.json", "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {"generated_at": "", "items": []}
 
-def safe_date(it: Dict[str, Any]) -> str:
-    return it.get("published_at") or ""
+def choose_text(it: Dict[str, Any], translate: bool, key: str) -> str:
+    """Return translated or original field with sensible fallback."""
+    if translate:
+        if key == "title":
+            return it.get("title_en") or it.get("title") or it.get("title_orig") or "(no title)"
+        if key == "summary":
+            return it.get("summary_en") or it.get("summary") or it.get("summary_orig") or ""
+    else:
+        if key == "title":
+            return it.get("title") or it.get("title_orig") or it.get("title_en") or "(no title)"
+        if key == "summary":
+            return it.get("summary") or it.get("summary_orig") or it.get("summary_en") or ""
+    return ""
 
-def caption_line(it: Dict[str, Any]) -> str:
-    src = it.get("source", "")
-    ts = pretty_dt_uk(it.get("published_at", ""))
-    geo = it.get("geo", {}) or {}
-    loc_bits = [geo.get("airport"), geo.get("city"), geo.get("country"), geo.get("iata")]
-    loc = " | ".join([x for x in loc_bits if x])
-    tags = ", ".join([t for t in it.get("tags", []) if t not in ("airport/security", "diplomatic")])
-    parts = [s for s in (src, ts, loc if loc else None, tags if tags else None) if s]
+def meta_line(it: Dict[str, Any]) -> str:
+    src = it.get("source", "Unknown")
+    when = pretty_dt_iso(it.get("published_at"))
+    geo = it.get("geo") or {}
+    loc_bits = [x for x in [geo.get("airport"), geo.get("city"), geo.get("country"), geo.get("iata")] if x]
+    loc = " | ".join(loc_bits)
+    parts = [src, when] + ([loc] if loc else [])
     return " | ".join(parts)
 
-# ────────────────────────── Load data ──────────────────────────
-data = load_json("data.json")
-generated = data.get("generated_at")
-items: List[Dict[str, Any]] = data.get("items", [])
+def render_card(it: Dict[str, Any], translate: bool):
+    title = choose_text(it, translate, "title")
+    summary = choose_text(it, translate, "summary")
+    if not title and summary:
+        title = (summary.split("\n")[0].split(".")[0] or "(no title)")
+    title = title or "(no title)"
+    url = it.get("url") or "#"
+    meta = meta_line(it)
 
-# Header: last update + refresh + translate toggle
+    st.markdown(
+        f"""
+        <div class="article-card">
+          <h3>{title}</h3>
+          <p class="story-meta"><em>{meta}</em></p>
+          <p class="story-summary">{summary}</p>
+          <p style="margin-top:.4rem;"><a href="{url}" target="_blank">Open source</a></p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+# ----------------------------- Data & Header Row -----------------------------
+data = load_data()
+last_gen = pretty_dt_iso(data.get("generated_at"))
+
 hdr_left, hdr_right = st.columns([3, 1])
 with hdr_left:
     st.markdown(
         f"""
-        <div style="margin: 0.4rem 0 0.75rem 0;">
-            <span style="font-size:1.15rem; font-weight:700;">Last update:</span>
-            <span style="font-size:1.05rem;">{pretty_dt_uk(generated)}</span>
+        <div style="margin: 0.4rem 0 0.6rem 0;">
+            <span style="font-size:1.05rem; font-weight:700;">Last update:</span>
+            <span style="font-size:1.0rem;">{last_gen}</span>
         </div>
         """,
         unsafe_allow_html=True,
     )
 with hdr_right:
-    if st.button("Refresh", use_container_width=True):
+    if st.button("Refresh", type="secondary", use_container_width=True):
         st.rerun()
 
-translate_toggle = st.checkbox("Translate to English", value=True, help="Show English translations when available")
-
-# Controls
+# ----------------------------- Controls -----------------------------
+translate = st.checkbox("Translate to English", value=True, help="Show translated titles and summaries when available.")
 ctl1, ctl2 = st.columns([2, 1])
 with ctl1:
     q = st.text_input("Search", "")
@@ -113,62 +179,35 @@ with ctl2:
     type_choices = ["major news", "local news", "social"]
     type_filter = st.multiselect("Type", type_choices, default=type_choices)
 
-def passes_filters(it: Dict[str, Any]) -> bool:
+def keep_item(it: Dict[str, Any]) -> bool:
     if type_filter and it.get("type") not in type_filter:
         return False
     if q:
-        hay = " ".join([
-            it.get("title_en") or it.get("title_orig") or it.get("title",""),
-            it.get("summary_en") or it.get("summary_orig",""),
+        blob = " ".join([
+            choose_text(it, translate, "title"),
+            choose_text(it, translate, "summary"),
+            it.get("source", ""),
             " ".join(it.get("tags", [])),
-            it.get("source","")
+            json.dumps(it.get("geo", {})),
         ]).lower()
-        return q.lower() in hay
+        return q.lower() in blob
     return True
 
-filtered = [it for it in items if passes_filters(it)]
-filtered = sorted(filtered, key=safe_date, reverse=True)
+items: List[Dict[str, Any]] = [it for it in (data.get("items") or []) if keep_item(it)]
+items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
 
-# ────────────────────────── Layout: Live feed & Social ──────────────────────────
+# ----------------------------- Layout -----------------------------
 col_live, col_social = st.columns((2, 1))
 
-def render_column(col, header: str, arr: List[Dict[str, Any]]):
-    col.subheader(header)
-    for it in arr:
-        # choose translated vs original
-        title_txt = (it.get("title_en") if translate_toggle else it.get("title_orig")) or it.get("title") or ""
-        summary_txt = (it.get("summary_en") if translate_toggle else it.get("summary_orig")) or it.get("summary","")
-        # fallback: if still no title, use first line of summary
-        if not title_txt and summary_txt:
-            title_txt = summary_txt.split(".")[0].split("\n")[0] or "(no title)"
-        if not title_txt:
-            title_txt = "(no title)"
-
-        meta = caption_line(it)
-        url = it.get("url")
-
-        with col.container():
-            st.markdown('<div class="story-card">', unsafe_allow_html=True)
-            # Title (always visible and clickable if URL exists)
-            if url:
-                st.markdown(f'<div class="story-title"><a href="{url}" target="_blank">{title_txt}</a></div>', unsafe_allow_html=True)
-            else:
-                st.markdown(f'<div class="story-title">{title_txt}</div>', unsafe_allow_html=True)
-            # Meta line
-            if meta:
-                st.markdown(f'<div class="story-meta">{meta}</div>', unsafe_allow_html=True)
-            # Summary
-            if summary_txt:
-                st.markdown(f'<div class="story-summary">{summary_txt}</div>', unsafe_allow_html=True)
-            # Link (secondary)
-            if url:
-                st.markdown(f'[Open source]({url})')
-            st.markdown('</div>', unsafe_allow_html=True)
-
 with col_live:
-    live_items = [it for it in filtered if it.get("type") in ("major news", "local news")]
-    render_column(st, "Live feed", live_items)
+    st.subheader("Live feed")
+    for it in items:
+        if it.get("type") in ("major news", "local news"):
+            render_card(it, translate)
 
 with col_social:
-    social_items = [it for it in filtered if it.get("type") == "social"]
-    render_column(st, "Social media", social_items)
+    st.subheader("Social media")
+    for it in items:
+        if it.get("type") == "social":
+            render_card(it, translate)
+
