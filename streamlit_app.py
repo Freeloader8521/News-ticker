@@ -11,13 +11,43 @@ st.set_page_config(page_title="Global Situational Awareness Dashboard", layout="
 # Force white background and tidy spacing
 st.markdown(
     """
+st.markdown(
+    """
     <style>
-      .stApp { background: #ffffff !important; }
+      /* Force light theme colours */
+      html, body, [class*="st-"] {
+        color: #111 !important;
+        background: #ffffff !important;
+      }
+
+      /* Container spacing */
       .block-container { padding-top: 1.5rem; padding-bottom: 2rem; }
-      .story-card { padding: 0.85rem 1rem; border: 1px solid #E6E6E6; border-radius: 10px; margin-bottom: 0.8rem; }
-      .story-title { font-size: 1.05rem; font-weight: 700; margin: 0 0 0.35rem 0; }
-      .story-meta { color: #6e6e6e; font-size: 0.9rem; margin-bottom: 0.35rem; }
-      .story-summary { font-size: 0.98rem; line-height: 1.35rem; }
+
+      /* Links */
+      a, a:visited { color: #0b5ed7 !important; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      /* Headings */
+      h1, h2, h3, h4, h5, h6 { color: #111 !important; }
+
+      /* Markdown text inside Streamlit containers */
+      div[data-testid="stMarkdownContainer"] p,
+      div[data-testid="stMarkdownContainer"] span,
+      div[data-testid="stMarkdownContainer"] li {
+        color: #111 !important;
+      }
+
+      /* Inputs */
+      input, textarea, .stTextInput input {
+        color: #111 !important;
+        background: #fff !important;
+      }
+
+      /* Cards */
+      .story-card { padding: 0.85rem 1rem; border: 1px solid #E6E6E6; border-radius: 10px; margin-bottom: 0.8rem; background: #fff; }
+      .story-title { font-size: 1.05rem; font-weight: 700; margin: 0 0 0.35rem 0; color: #111 !important; }
+      .story-meta { color: #555 !important; font-size: 0.9rem; margin-bottom: 0.35rem; }
+      .story-summary { font-size: 0.98rem; line-height: 1.35rem; color: #111 !important; }
     </style>
     """,
     unsafe_allow_html=True,
