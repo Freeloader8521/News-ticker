@@ -15,15 +15,18 @@ What it does
     • classifies type: major news / local news / social
     • falls back to first line of content if title is missing
 - De-duplicates by newest and writes data.json
+- Writes progress updates to STATUS_FILE (default: status.json)
 """
 
-import json
+from __future__ import annotations
+
+import os
 import re
+import json
 import hashlib
 from datetime import datetime, timezone
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
-import logging
 import requests
 import feedparser
 import yaml
@@ -32,34 +35,43 @@ from bs4 import BeautifulSoup
 from langdetect import detect, LangDetectException
 from deep_translator import GoogleTranslator
 
-# ----------------------------- Config & Constants -----------------------------
+# ----------------------------- Config -----------------------------
 
 APP_NAME = "GSA-Collector"
 APP_VER = "1.6"
-APP_URL = "https://streamlit.app"
+UA = {"User-Agent": f"{APP_NAME}/{APP_VER} (+https://streamlit.app)"}
 
-UA = {"User-Agent": f"{APP_NAME}/{APP_VER} (+{APP_URL})"}
-REQUEST_TIMEOUT = 20  # seconds
-PER_FEED_LIMIT = 80   # entries to consider per feed
-MAX_ITEMS = 500       # final cap on output list length
+STATUS_FILE = os.environ.get("STATUS_FILE", "status.json")   # streamlit reads this
+DATA_FILE = "data.json"
+FEEDS_FILE = "feeds.yaml"
+TERMS_FILE = "watch_terms.yaml"
+AIRPORTS_FILE = "airports.json"
 
-# Logging setup
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s %(levelname)s %(message)s"
-)
-log = logging.getLogger(APP_NAME)
+# High-quality domains → "major news"
+MAJOR_DOMAINS = {
+    "reuters.com", "bbc.co.uk", "apnews.com", "theguardian.com", "nytimes.com",
+    "bloomberg.com", "ft.com", "cnn.com", "aljazeera.com", "sky.com", "latimes.com",
+    "cbc.ca", "theglobeandmail.com", "scmp.com", "straitstimes.com", "japantimes.co.jp",
+    "avherald.com", "gov.uk", "faa.gov", "easa.europa.eu", "caa.co.uk", "ntsb.gov",
+    "bea.aero", "atsb.gov.au", "caa.govt.nz", "tc.gc.ca", "noaa.gov", "nhc.noaa.gov",
+    "weather.gov"
+}
 
-# Simple cache for translations to reduce API calls
-_TRANSLATE_CACHE: Dict[str, str] = {}
+# Flat-out block these domains
+BLOCKED_DOMAINS = {
+    "bigorre.org", "www.bigorre.org",
+}
 
-# ----------------------------- Basics -----------------------------
+# If social post’s URL points only to one of these, drop it
+BLOCKED_LINK_DOMAINS = BLOCKED_DOMAINS.copy()
+
+# ----------------------------- Small helpers -----------------------------
 
 def now_utc() -> datetime:
     return datetime.now(timezone.utc)
 
 def sha1_16(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
+    return hashlib.sha1((s or "").encode("utf-8")).hexdigest()[:16]
 
 def get_domain(url: str) -> str:
     m = re.search(r"https?://([^/]+)", url or "")
@@ -90,59 +102,62 @@ def safe_detect(text: str) -> str:
 def to_english(s: str) -> str:
     if not s:
         return s
-    # Cache hit
-    if s in _TRANSLATE_CACHE:
-        return _TRANSLATE_CACHE[s]
     try:
-        translated = GoogleTranslator(source="auto", target="en").translate(s)
-        _TRANSLATE_CACHE[s] = translated
-        return translated
-    except Exception as ex:
-        # Best-effort: return original string on failure
-        log.debug("Translation failed; returning original: %s", ex)
-        return s
+        return GoogleTranslator(source="auto", target="en").translate(s)
+    except Exception:
+        return s  # best-effort
 
-# ----------------------------- Config & Lists -----------------------------
+def derive_title(raw_title: str, summary: str) -> str:
+    t = strip_html(raw_title or "").strip()
+    if t and t.lower() != "(no title)":
+        return t
+    # first non-empty line up to ~160 chars
+    s = (summary or "").strip().splitlines()
+    first = next((ln for ln in s if ln.strip()), "")
+    return (first[:160] if first else "(no title)")
 
-# feeds.yaml
-try:
-    with open("feeds.yaml", "r", encoding="utf-8") as f:
-        FEEDS = yaml.safe_load(f) or {}
-except FileNotFoundError:
-    log.warning("feeds.yaml not found; proceeding with empty feed list")
-    FEEDS = {}
+# ----------------------------- Status file -----------------------------
 
-NEWS_FEEDS     = FEEDS.get("news", [])
-AUTH_FEEDS     = FEEDS.get("aviation_authorities", [])
+def write_status(obj: Dict[str, Any]) -> None:
+    try:
+        with open(STATUS_FILE, "w", encoding="utf-8") as f:
+            json.dump(obj, f, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
+
+def status_stage(state: str, stage: str, current: int, total: int, extra: Dict[str, Any] | None = None):
+    payload = {
+        "state": state,                     # "starting" | "running" | "done" | "error"
+        "stage": stage,                     # which block we are on
+        "current": int(current),
+        "total": int(total),
+        "updated_at": now_utc().isoformat()
+    }
+    if extra:
+        payload.update(extra)
+    write_status(payload)
+
+# ----------------------------- Load configuration files -----------------------------
+
+def load_yaml(path: str) -> Dict[str, Any]:
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+            return data or {}
+    except FileNotFoundError:
+        return {}
+
+FEEDS = load_yaml(FEEDS_FILE)
+NEWS_FEEDS = FEEDS.get("news", [])
+AUTH_FEEDS = FEEDS.get("aviation_authorities", [])
 OFFICIAL_FEEDS = FEEDS.get("official_announcements", [])
-WEATHER_FEEDS  = FEEDS.get("weather_alerts", [])
-SOCIAL_FEEDS   = FEEDS.get("social", [])
+WEATHER_FEEDS = FEEDS.get("weather_alerts", [])
+SOCIAL_FEEDS = FEEDS.get("social", [])
 
-MAJOR_DOMAINS = {
-    "reuters.com","bbc.co.uk","apnews.com","theguardian.com","nytimes.com",
-    "bloomberg.com","ft.com","cnn.com","aljazeera.com","sky.com","latimes.com",
-    "cbc.ca","theglobeandmail.com","scmp.com","straitstimes.com","japantimes.co.jp",
-    "avherald.com","gov.uk","faa.gov","easa.europa.eu","caa.co.uk","ntsb.gov",
-    "bea.aero","atsb.gov.au","caa.govt.nz","caa.co.za","tc.gc.ca","noaa.gov",
-    "nhc.noaa.gov","weather.gov"
-}
-
-BLOCKED_DOMAINS = {
-    "bigorre.org",
-    "www.bigorre.org",
-}
-
-# watch_terms.yaml
-try:
-    with open("watch_terms.yaml", "r", encoding="utf-8") as f:
-        TERMS = yaml.safe_load(f) or {}
-except FileNotFoundError:
-    log.warning("watch_terms.yaml not found; proceeding with empty terms")
-    TERMS = {}
-
-CORE    = set(TERMS.get("core_terms", []) or [])
-DIPLO   = set(TERMS.get("diplomacy_terms", []) or [])
-EXCLUDE = set(TERMS.get("exclude_terms", []) or [])
+TERMS = load_yaml(TERMS_FILE)
+CORE = set(TERMS.get("core_terms", []))
+DIPLO = set(TERMS.get("diplomacy_terms", []))
+EXCLUDE = set(TERMS.get("exclude_terms", []))
 
 def should_exclude(text: str) -> bool:
     t = (text or "").lower()
@@ -160,14 +175,13 @@ def tags_for(text: str) -> List[str]:
 # ----------------------------- Airports (aliases + lat/lon) -----------------------------
 
 try:
-    with open("airports.json", "r", encoding="utf-8") as f:
-        AIRPORTS = json.load(f)
+    with open(AIRPORTS_FILE, "r", encoding="utf-8") as f:
+        AIRPORTS: List[Dict[str, Any]] = json.load(f)
 except FileNotFoundError:
-    log.warning("airports.json not found; airport tagging disabled")
     AIRPORTS = []
 
 ALIASES: Dict[str, Dict[str, Any]] = {}     # alias(lower) -> meta
-IATA_TO_LL: Dict[str, tuple] = {}           # IATA(upper) -> (lat, lon)
+IATA_TO_LL: Dict[str, Tuple[float, float]] = {}  # IATA(upper) -> (lat, lon)
 
 for a in AIRPORTS:
     meta = {
@@ -189,9 +203,8 @@ for a in AIRPORTS:
 AIRPORT_CONTEXT = re.compile(r"\b(airport|intl|international|terminal|airfield|aerodrome)s?\b", re.I)
 
 def _has_airport_context(text: str, pos: int, window: int = 48) -> bool:
-    """Is there 'airport/intl/terminal' near this position?"""
     start = max(0, pos - window)
-    end   = min(len(text), pos + window)
+    end = min(len(text), pos + window)
     return bool(AIRPORT_CONTEXT.search(text[start:end]))
 
 def match_airport(text: str) -> Optional[Dict[str, Any]]:
@@ -200,7 +213,7 @@ def match_airport(text: str) -> Optional[Dict[str, Any]]:
       - prefers full-name aliases (e.g. 'Istanbul Airport')
       - only accepts IATA codes as standalone tokens (word boundaries)
       - for bare IATA matches, requires nearby 'airport/intl/terminal' context
-      - never matches IATA codes embedded inside words (e.g. 'firST' → IST)
+      - never matches IATA embedded in other words (e.g. 'firST' → IST)
     """
     if not text:
         return None
@@ -208,14 +221,13 @@ def match_airport(text: str) -> Optional[Dict[str, Any]]:
     t_lower = text.lower()
     t_upper = text.upper()
 
-    # 1) Full-name aliases first (allow without 'airport' if context is nearby)
+    # 1) Full-name aliases first
     for alias, meta in ALIASES.items():
         if not alias:
             continue
         # skip pure 3-letter aliases here; handled below as IATA
         if len(alias) == 3 and alias.isalpha():
             continue
-
         for m in re.finditer(rf"\b{re.escape(alias)}\b", t_lower):
             pos = m.start()
             if ("airport" in alias) or _has_airport_context(t_lower, pos):
@@ -252,38 +264,32 @@ def match_airport(text: str) -> Optional[Dict[str, Any]]:
 
 # ----------------------------- Fetch & normalise -----------------------------
 
-def fetch_feed(url: str):
+def fetch_feed(url: str) -> Tuple[str, List[Dict[str, Any]]]:
     try:
         dom = get_domain(url)
         if dom in BLOCKED_DOMAINS:
             return dom, []  # ignore this feed entirely
-        r = requests.get(url, headers=UA, timeout=REQUEST_TIMEOUT)
+        r = requests.get(url, headers=UA, timeout=25)
         r.raise_for_status()
         d = feedparser.parse(r.content)
-        return d.feed.get("title", dom), d.entries
+        return d.feed.get("title", dom), d.entries or []
     except Exception as ex:
-        log.warning("Feed error for %s: %s", url, ex)
+        print("Feed error:", url, ex)
         return get_domain(url), []
-
-
-def derive_title(raw_title: str, summary: str) -> str:
-    t = strip_html(raw_title or "").strip()
-    if t and t.lower() != "(no title)":
-        return t
-    # first non-empty line up to ~160 chars
-    s = (summary or "").strip().splitlines()
-    first = next((ln for ln in s if ln.strip()), "")
-    return (first[:160] if first else "(no title)")
 
 def classify_type(url: str, declared_type: str, src_domain: str) -> str:
     if (declared_type or "").lower() == "social":
         return "social"
     return "major news" if any(src_domain.endswith(d) for d in MAJOR_DOMAINS) else "local news"
 
-def normalise(entry, feedtitle: str, declared_type: str):
+def normalise(entry: Dict[str, Any], feedtitle: str, declared_type: str) -> Optional[Dict[str, Any]]:
     url = entry.get("link", "") or entry.get("id", "") or ""
     raw_title = entry.get("title", "") or ""
     raw_summary = entry.get("summary", "") or ""
+
+    # Social spam guard: if sole link is a blocked domain, drop it
+    if url and get_domain(url) in BLOCKED_LINK_DOMAINS:
+        return None
 
     # Clean HTML
     summary_clean = strip_html(raw_summary)
@@ -294,7 +300,7 @@ def normalise(entry, feedtitle: str, declared_type: str):
     title_en = title_clean if lang == "en" else to_english(title_clean)
     summary_en = summary_clean if lang == "en" else to_english(summary_clean)
 
-    # Filtering text in English
+    # Filter out excluded terms
     text_for_filter = f"{title_en} {summary_en}"
     if should_exclude(text_for_filter):
         return None
@@ -311,15 +317,16 @@ def normalise(entry, feedtitle: str, declared_type: str):
     if not pub:
         pub = now_utc()
 
+    # Source & type
     src_dom = get_domain(url)
     if src_dom in BLOCKED_DOMAINS:
-        return None  # <-- fixed indentation: this line must be inside normalise()
-
+        return None
     src_name = clean_source(feedtitle, url)
+    item_type = classify_type(url, declared_type, src_dom)
 
     # Tags & geo (ONLY from an airport match)
     item_tags = tags_for(text_for_filter)
-    geo: Dict[str, Any] = {}
+    geo = {}
     ap = match_airport(text_for_filter)
     if ap:
         geo = {
@@ -336,27 +343,23 @@ def normalise(entry, feedtitle: str, declared_type: str):
         if ap.get("country"):
             item_tags.append(ap["country"])
 
-    # Keep only relevant
+    # Keep only relevant (airport/security or diplomatic)
     if not (("airport/security" in item_tags) or ("diplomatic" in item_tags)):
         return None
 
-    item_type = classify_type(url, declared_type, src_dom)
     item_tags = sorted(set(item_tags))
 
     return {
         "id": sha1_16(url or title_en),
-
         # originals + translations for UI toggle
         "title_orig": title_clean,
         "summary_orig": summary_clean,
         "lang": lang,
         "title_en": title_en,
         "summary_en": summary_en,
-
         # legacy convenience (English default)
         "title": title_en,
         "summary": summary_en,
-
         "url": url,
         "source": src_name,
         "published_at": pub.isoformat(),
@@ -367,23 +370,42 @@ def normalise(entry, feedtitle: str, declared_type: str):
 
 # ----------------------------- Collect -----------------------------
 
-def collect_block(feed_urls, declared_type: str, per_feed_limit: int = PER_FEED_LIMIT):
+def collect_block(block_name: str, feed_urls: List[str], declared_type: str, per_feed_limit: int = 80) -> List[Dict[str, Any]]:
     items: List[Dict[str, Any]] = []
-    for f in feed_urls:
+    total = len(feed_urls)
+    status_stage("running", f"start:{block_name}", 0, total)
+
+    for idx, f in enumerate(feed_urls, start=1):
         feedtitle, entries = fetch_feed(f)
         for e in entries[:per_feed_limit]:
             it = normalise(e, feedtitle, declared_type)
             if it:
                 items.append(it)
+
+        status_stage("running", block_name, idx, total, {"last_feed": f})
+
+    status_stage("running", f"end:{block_name}", total, total)
     return items
 
-def collect_all():
+def collect_all() -> List[Dict[str, Any]]:
+    blocks = [
+        ("news", NEWS_FEEDS, "news"),
+        ("aviation", AUTH_FEEDS, "news"),
+        ("official", OFFICIAL_FEEDS, "news"),
+        ("weather", WEATHER_FEEDS, "news"),
+        ("social", SOCIAL_FEEDS, "social"),
+    ]
+
+    # Total feeds for progress context
+    grand_total = sum(len(b[1]) for b in blocks) or 1
+    processed = 0
+    status_stage("starting", "initialising", processed, grand_total)
+
     items: List[Dict[str, Any]] = []
-    items += collect_block(NEWS_FEEDS, "news")
-    items += collect_block(AUTH_FEEDS, "news")
-    items += collect_block(OFFICIAL_FEEDS, "news")
-    items += collect_block(WEATHER_FEEDS, "news")
-    items += collect_block(SOCIAL_FEEDS, "social")
+    for name, urls, dtype in blocks:
+        items += collect_block(name, urls, dtype)
+        processed += len(urls)
+        status_stage("running", "aggregate", processed, grand_total)
 
     # De-dupe newest
     best: Dict[str, Dict[str, Any]] = {}
@@ -393,16 +415,22 @@ def collect_all():
             best[k] = it
     out = list(best.values())
     out.sort(key=lambda x: x["published_at"], reverse=True)
-    return out[:MAX_ITEMS]
+    return out[:500]
 
 # ----------------------------- Main -----------------------------
 
 def main():
-    items = collect_all()
-    data = {"generated_at": now_utc().isoformat(), "items": items, "trends": {}}
-    with open("data.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-    log.info("Wrote data.json with %d items", len(items))
+    try:
+        status_stage("starting", "collect", 0, 1)
+        items = collect_all()
+        data = {"generated_at": now_utc().isoformat(), "items": items, "trends": {}}
+        with open(DATA_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        status_stage("done", "finished", 1, 1, {"written_items": len(items), "file": DATA_FILE})
+        print(f"Wrote {DATA_FILE} with {len(items)} items")
+    except Exception as ex:
+        status_stage("error", "exception", 1, 1, {"error": str(ex)})
+        raise
 
 if __name__ == "__main__":
     main()
