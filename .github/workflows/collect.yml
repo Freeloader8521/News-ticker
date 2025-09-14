@@ -1,48 +1,66 @@
-name: collect-halfhourly
+name: collect-hourly
 
 on:
   schedule:
-    # Every 30 minutes (at :00 and :30)
-    - cron: "*/30 * * * *"
-  # Manual run option
-  workflow_dispatch: {}
+    - cron: '0,30 * * * *'   # every 30 minutes
+  workflow_dispatch:
 
-# Prevent overlapping runs
 concurrency:
-  group: collect-halfhourly
+  group: collect-hourly
   cancel-in-progress: true
+
+permissions:
+  contents: write
 
 jobs:
   collect:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0          # we need full history for rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -U feedparser requests pyyaml python-dateutil beautifulsoup4 \
+                         langdetect deep-translator pytz pandas pydeck
+
+      # --- IMPORTANT: pull/rebase BEFORE we generate files ---
+      - name: Pull latest main
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin
+          git checkout main
+          git pull --rebase --autostash origin main
 
       - name: Run collector
-        run: python collector.py
-
-      - name: Commit data.json
+        env:
+          STATUS_FILE: status.json
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "actions@users.noreply.github.com"
-          git pull --rebase origin main || true
-          git add data.json
-          git commit -m "Update data.json [ci skip]" || echo "No changes to commit"
-          git push origin HEAD:main
+          python collector.py
+          echo "Collector finished."
+
+      - name: Commit data.json (and status.json) if changed
+        run: |
+          set -e
+          CHANGED=0
+          git add -N data.json status.json 2>/dev/null || true     # stage-as-intent, to let diff notice changes
+          if ! git diff --quiet -- data.json status.json; then
+            git add data.json status.json 2>/dev/null || true
+            git commit -m "Update data.json [skip ci]"
+            CHANGED=1
+          else
+            echo "No changes to commit."
+          fi
+          if [ "$CHANGED" = "1" ]; then
+            git push origin HEAD:main
+          fi
