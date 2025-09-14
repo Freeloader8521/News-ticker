@@ -142,8 +142,11 @@ with colH:
 
 # refresh → clear caches and rerun
 def do_refresh():
-    fetch_json.clear()
+    st.cache_data.clear()   # clear all cached functions safely
     st.experimental_rerun()
+
+with colBtn:
+    st.button("Refresh", on_click=do_refresh, use_container_width=True))
 
 with colBtn:
     st.button("Refresh", on_click=do_refresh, use_container_width=True)
