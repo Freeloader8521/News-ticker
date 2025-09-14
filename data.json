@@ -1,6 +1,42 @@
 {
-  "generated_at": "2025-09-14T17:28:22.853038+00:00",
+  "generated_at": "2025-09-14T17:38:10.057366+00:00",
   "items": [
+    {
+      "id": "191b765bfd4f69ed",
+      "title_orig": "The departure delay for Philadelphia International # Airport ( # PHL ) is no longer in effect. # AirportStatusBot",
+      "summary_orig": "The departure delay for Philadelphia International # Airport ( # PHL ) is no longer in effect. # AirportStatusBot",
+      "lang": "en",
+      "title_en": "The departure delay for Philadelphia International # Airport ( # PHL ) is no longer in effect. # AirportStatusBot",
+      "summary_en": "The departure delay for Philadelphia International # Airport ( # PHL ) is no longer in effect. # AirportStatusBot",
+      "title": "The departure delay for Philadelphia International # Airport ( # PHL ) is no longer in effect. # AirportStatusBot",
+      "summary": "The departure delay for Philadelphia International # Airport ( # PHL ) is no longer in effect. # AirportStatusBot",
+      "url": "https://mastodon.social/@AirportStatusBot/115203856613157279",
+      "source": "#airport",
+      "published_at": "2025-09-14T17:35:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "3d3074ce6df1916d",
+      "title_orig": "How many runways can you see for Santa Fe Municipal airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/ksaf/en # santafe # usa # santafemun",
+      "summary_orig": "How many runways can you see for Santa Fe Municipal airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/ksaf/en # santafe # usa # santafemunicipalairport # ksaf # saf # airport # aviation # avgeek vl",
+      "lang": "en",
+      "title_en": "How many runways can you see for Santa Fe Municipal airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/ksaf/en # santafe # usa # santafemun",
+      "summary_en": "How many runways can you see for Santa Fe Municipal airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/ksaf/en # santafe # usa # santafemunicipalairport # ksaf # saf # airport # aviation # avgeek vl",
+      "title": "How many runways can you see for Santa Fe Municipal airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/ksaf/en # santafe # usa # santafemun",
+      "summary": "How many runways can you see for Santa Fe Municipal airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/ksaf/en # santafe # usa # santafemunicipalairport # ksaf # saf # airport # aviation # avgeek vl",
+      "url": "https://mastodon.social/@bigorre_org/115203841892374280",
+      "source": "#aviation",
+      "published_at": "2025-09-14T17:32:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
     {
       "id": "6fcaad9694c8f239",
       "title_orig": "Pic of the moment:  Texas Aircraft 100 Colt taken during Gillespie County Airport 75th Anniversary  at Fredericksburg, US in 2023 # avgeek # aviation",
@@ -182,7 +218,7 @@
       "title": "How many runways can you see for Fort Worth Meacham International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kftw/en # fortworth # ",
       "summary": "How many runways can you see for Fort Worth Meacham International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kftw/en # fortworth # usa # fortworthmeachaminternationalairport # kftw # ftw # airport # aviation # avgeek vl",
       "url": "https://mastodon.social/@bigorre_org/115203761666600827",
-      "source": "#aviation",
+      "source": "#airport",
       "published_at": "2025-09-14T17:11:38+00:00",
       "tags": [
         "airport/security"
@@ -346,6 +382,24 @@
       "url": "https://mastodon.social/@bigorre_org/115203664804870617",
       "source": "#airport",
       "published_at": "2025-09-14T16:47:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "dad5befd2e1824c9",
+      "title_orig": "Tupolev Tu-154B-2 in Mineralnye Vody airport",
+      "summary_orig": "The aircraft was built in 1982 and flew until 2011. It is now used as a simulator for emergency services. submitted by /u/Existing-Fee5075 [link] [comments]",
+      "lang": "en",
+      "title_en": "Tupolev Tu-154B-2 in Mineralnye Vody airport",
+      "summary_en": "The aircraft was built in 1982 and flew until 2011. It is now used as a simulator for emergency services. submitted by /u/Existing-Fee5075 [link] [comments]",
+      "title": "Tupolev Tu-154B-2 in Mineralnye Vody airport",
+      "summary": "The aircraft was built in 1982 and flew until 2011. It is now used as a simulator for emergency services. submitted by /u/Existing-Fee5075 [link] [comments]",
+      "url": "https://www.reddit.com/r/aviation/comments/1ngw5tn/tupolev_tu154b2_in_mineralnye_vody_airport/",
+      "source": "aviation",
+      "published_at": "2025-09-14T16:44:32+00:00",
       "tags": [
         "airport/security"
       ],
@@ -857,24 +911,6 @@
       }
     },
     {
-      "id": "ff5d24f050762e41",
-      "title_orig": "Aviation weather for Mansfield Lahm Regional airport (USA) is “KMFD 141452Z 08007KT 10SM CLR 22/11 A3012 RMK AO2 SLP194 T02220106 53004” :  See what it means on",
-      "summary_orig": "Aviation weather for Mansfield Lahm Regional airport (USA) is “KMFD 141452Z 08007KT 10SM CLR 22/11 A3012 RMK AO2 SLP194 T02220106 53004” :  See what it means on https://www. bigorre.org/aero/meteo/kmfd/en # mansfield # usa # mansfieldlahmregionalairport # kmfd # mfd # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Aviation weather for Mansfield Lahm Regional airport (USA) is “KMFD 141452Z 08007KT 10SM CLR 22/11 A3012 RMK AO2 SLP194 T02220106 53004” :  See what it means on",
-      "summary_en": "Aviation weather for Mansfield Lahm Regional airport (USA) is “KMFD 141452Z 08007KT 10SM CLR 22/11 A3012 RMK AO2 SLP194 T02220106 53004” :  See what it means on https://www. bigorre.org/aero/meteo/kmfd/en # mansfield # usa # mansfieldlahmregionalairport # kmfd # mfd # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Aviation weather for Mansfield Lahm Regional airport (USA) is “KMFD 141452Z 08007KT 10SM CLR 22/11 A3012 RMK AO2 SLP194 T02220106 53004” :  See what it means on",
-      "summary": "Aviation weather for Mansfield Lahm Regional airport (USA) is “KMFD 141452Z 08007KT 10SM CLR 22/11 A3012 RMK AO2 SLP194 T02220106 53004” :  See what it means on https://www. bigorre.org/aero/meteo/kmfd/en # mansfield # usa # mansfieldlahmregionalairport # kmfd # mfd # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115203288813348368",
-      "source": "#airport",
-      "published_at": "2025-09-14T15:11:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "e8b4492ce8562b61",
       "title_orig": "Rubio in Israel as IDF destroys more Gaza City buildings",
       "summary_orig": "The US secretary of state will discuss the war in Gaza following Israel's attack on Hamas in Qatar, which has drawn widespread condemnation.",
@@ -922,24 +958,6 @@
       "url": "https://www.reddit.com/r/worldnews/comments/1ngtbq0/ukrainian_drones_strike_major_russian_oil/",
       "source": "World News",
       "published_at": "2025-09-14T14:53:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "375d2206980fcb41",
-      "title_orig": "How many runways can you see for Easterwood Field airport in College Station area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kcll/en # coll",
-      "summary_orig": "How many runways can you see for Easterwood Field airport in College Station area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kcll/en # collegestation # usa # easterwoodfieldairport # kcll # cll # airport # aviation # avgeek vl",
-      "lang": "en",
-      "title_en": "How many runways can you see for Easterwood Field airport in College Station area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kcll/en # coll",
-      "summary_en": "How many runways can you see for Easterwood Field airport in College Station area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kcll/en # collegestation # usa # easterwoodfieldairport # kcll # cll # airport # aviation # avgeek vl",
-      "title": "How many runways can you see for Easterwood Field airport in College Station area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kcll/en # coll",
-      "summary": "How many runways can you see for Easterwood Field airport in College Station area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kcll/en # collegestation # usa # easterwoodfieldairport # kcll # cll # airport # aviation # avgeek vl",
-      "url": "https://mastodon.social/@bigorre_org/115203210984024946",
-      "source": "#airport",
-      "published_at": "2025-09-14T14:51:35+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1912,24 +1930,6 @@
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1ngjopw/romania_reacts_to_russian_drone_provocations/",
       "source": "News & Events Surrounding Russia's Invasion of Ukraine",
       "published_at": "2025-09-14T06:17:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "6b748e1903985e2b",
-      "title_orig": "Romania reports Russian drone in its airspace as Poland scrambles jets again",
-      "summary_orig": "submitted by /u/Belegor87 [link] [comments]",
-      "lang": "en",
-      "title_en": "Romania reports Russian drone in its airspace as Poland scrambles jets again",
-      "summary_en": "submitted by /u/Belegor87 [link] [comments]",
-      "title": "Romania reports Russian drone in its airspace as Poland scrambles jets again",
-      "summary": "submitted by /u/Belegor87 [link] [comments]",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ngjma2/romania_reports_russian_drone_in_its_airspace_as/",
-      "source": "World News",
-      "published_at": "2025-09-14T06:13:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4028,11 +4028,11 @@
       "id": "fd6860917ad0ab15",
       "title_orig": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b",
       "summary_orig": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e8%88%aa%e7%a9%ba212/ 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport 2025年6月14日、日本トランスオーシャン航空212便、久米島空港→那覇空港ボーイング B737-800(JA06RK)より撮影した那覇空港着陸の動画です。 On June 14, 2025, Japan Transo",
-      "lang": "pt",
-      "title_en": "https: // www. Alojapan.com/1362022/%E3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%88%e3%83%a9%e3%83%b3%e3%82%b",
-      "summary_en": "https://www.alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e8%88%aa%e7%a9%ba212/ [Landing at Naha Airport] Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Final Approach to Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # announcement # Airport # Haneda Airport # Naha # Naha Airport [Landing at Naha Airport] Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Final Approach to Naha Airport June 14, 2025, Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Boeing This is a video of landing at Naha Airport, taken from the B737-800 (JA06RK). On June 14, 2025, Japan Transo",
-      "title": "https: // www. Alojapan.com/1362022/%E3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%88%e3%83%a9%e3%83%b3%e3%82%b",
-      "summary": "https://www.alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e8%88%aa%e7%a9%ba212/ [Landing at Naha Airport] Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Final Approach to Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # announcement # Airport # Haneda Airport # Naha # Naha Airport [Landing at Naha Airport] Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Final Approach to Naha Airport June 14, 2025, Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Boeing This is a video of landing at Naha Airport, taken from the B737-800 (JA06RK). On June 14, 2025, Japan Transo",
+      "lang": "en",
+      "title_en": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b",
+      "summary_en": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e8%88%aa%e7%a9%ba212/ 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport 2025年6月14日、日本トランスオーシャン航空212便、久米島空港→那覇空港ボーイング B737-800(JA06RK)より撮影した那覇空港着陸の動画です。 On June 14, 2025, Japan Transo",
+      "title": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b",
+      "summary": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e8%88%aa%e7%a9%ba212/ 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport 2025年6月14日、日本トランスオーシャン航空212便、久米島空港→那覇空港ボーイング B737-800(JA06RK)より撮影した那覇空港着陸の動画です。 On June 14, 2025, Japan Transo",
       "url": "https://channels.im/@alojapan/115145492640399954",
       "source": "#AirPort",
       "published_at": "2025-09-04T10:13:03+00:00",
