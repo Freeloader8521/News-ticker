@@ -1,224 +1,254 @@
 # streamlit_app.py
-import time
+import os
 import json
+import time
 from datetime import datetime
-from typing import Any, Dict, List
-from urllib.parse import urlparse
-
 import pytz
 import requests
-import pandas as pd
 import streamlit as st
 
-# --------------------------- Config ---------------------------
-st.set_page_config(
-    page_title="Global Situational Awareness Dashboard",
-    layout="wide",
-)
+# ------------------------ Config ------------------------
 
-# Theme nudge: white background + visible control outlines
-st.markdown("""
-<style>
-/* Light, readable UI */
-html, body, [class*="st-"] {
-  background: #ffffff !important;
-  color: #111 !important;
-}
-/* Inputs / selects / buttons: subtle outline so they don't disappear on white */
-.stTextInput>div>div>input,
-.stMultiSelect [data-baseweb="select"] div[role="combobox"],
-.stToggleSwitch label {
-  border: 1px solid #cbd5e1 !important;
-  border-radius: 6px !important;
-}
-.stButton button {
-  border: 1px solid #cbd5e1 !important;
-  border-radius: 8px !important;
-}
-/* Cards */
-.block-container .card {
-  border: 1px solid #e5e7eb;
-  border-radius: 10px;
-  padding: .9rem 1rem;
-  margin-bottom: .9rem;
-  background: #fff;
-}
-</style>
-""", unsafe_allow_html=True)
+APP_TITLE = "Global Situational Awareness Dashboard"
+LOCAL_TZ = "Europe/London"
 
-# Required secrets:
-# - DATA_JSON_URL: raw URL to data.json (your repo's raw GitHub link)
-# Optional secrets:
-# - STATUS_JSON_URL: raw URL to status.json (same repo; see collector instructions below)
 DATA_URL = st.secrets.get("DATA_JSON_URL", "").strip()
 STATUS_URL = st.secrets.get("STATUS_JSON_URL", "").strip()
 
-if not DATA_URL:
-    st.error("Missing secret: DATA_JSON_URL")
-    st.stop()
+DATA_FILE_FALLBACK = "data.json"
+STATUS_FILE_FALLBACK = "status.json"
 
-# If STATUS_JSON_URL not set, assume it's the same folder as data.json
-if not STATUS_URL:
-    p = urlparse(DATA_URL)
-    if p.path.endswith("/data.json"):
-        STATUS_URL = DATA_URL[:-len("data.json")] + "status.json"
+# ------------------------ Small helpers ------------------------
 
-# --------------------------- Helpers ---------------------------
-@st.cache_data(ttl=60)
-def fetch_json(url: str, timeout: int = 15) -> Dict[str, Any]:
-    r = requests.get(url, timeout=timeout, headers={"User-Agent": "GSA/streamlit"})
+def pretty_dt_iso(iso: str) -> str:
+    """
+    Render ISO8601 timestamp as: 14:55, Friday 13 August 2025 (UK time with DST).
+    Falls back gracefully on errors.
+    """
+    try:
+        dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        tz = pytz.timezone(LOCAL_TZ)
+        dt_uk = dt.astimezone(tz)
+        return dt_uk.strftime("%H:%M, %A %d %B %Y")
+    except Exception:
+        return iso or ""
+
+@st.cache_data(show_spinner=False, ttl=60)
+def fetch_json_from_url(url: str):
+    r = requests.get(url, timeout=20)
     r.raise_for_status()
     return r.json()
 
-def uk_dt_str(iso: str) -> str:
-    """Format ISO time in Europe/London as 'HH:MM, Friday 13 September 2025'."""
-    if not iso:
-        return ""
+def load_data():
+    # Try remote first (if configured), then local fallback
+    if DATA_URL:
+        try:
+            return fetch_json_from_url(DATA_URL)
+        except Exception as ex:
+            st.warning(f"Couldn’t fetch DATA_JSON_URL ({ex}). Falling back to local {DATA_FILE_FALLBACK}.")
     try:
-        dt_utc = datetime.fromisoformat(iso.replace("Z", "+00:00"))
-        uk = pytz.timezone("Europe/London")
-        dt_uk = dt_utc.astimezone(uk)
-        return dt_uk.strftime("%H:%M, %A %d %B %Y")
-    except Exception:
-        return iso
+        with open(DATA_FILE_FALLBACK, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception as ex:
+        st.error(f"No data found. Make sure data.json exists or secrets DATA_JSON_URL is set. ({ex})")
+        return {"generated_at": "", "items": [], "trends": {}}
 
-def get_text(it: Dict[str, Any], field: str, translate_on: bool) -> str:
-    if translate_on:
-        return it.get(f"{field}_en") or it.get(field) or ""
-    return it.get(f"{field}_orig") or it.get(field) or ""
-
-def passes_filters(it: Dict[str, Any], search: str, types: List[str], translate_on: bool) -> bool:
-    if types and it.get("type") not in types:
-        return False
-    if search:
-        hay = (get_text(it, "title", translate_on) + " " +
-               get_text(it, "summary", translate_on)).lower()
-        if search.lower() not in hay:
-            return False
-    return True
-
-def render_item(it: Dict[str, Any], translate_on: bool) -> None:
-    title = get_text(it, "title", translate_on) or "(no title)"
-    summary = get_text(it, "summary", translate_on)
-    with st.container():
-        st.markdown(f"**{title}**")
-        meta_bits = []
-        if it.get("source"):
-            meta_bits.append(it["source"])
-        if it.get("published_at"):
-            meta_bits.append(uk_dt_str(it["published_at"]))
-        if it.get("geo") and isinstance(it["geo"], dict):
-            g = it["geo"]
-            loc = " | ".join([x for x in [g.get("airport"), g.get("city"), g.get("country")] if x])
-            if loc:
-                meta_bits.append(loc)
-        if meta_bits:
-            st.caption(" | ".join(meta_bits))
-        if summary:
-            st.write(summary)
-        if it.get("url"):
-            st.markdown(f"[Open source]({it['url']})")
-        st.divider()
-
-# --------------------------- Header ---------------------------
-left, right = st.columns([0.85, 0.15])
-with left:
-    st.title("Global Situational Awareness Dashboard")
-with right:
-    # Refresh with visible feedback
-    if st.button("🔄 Refresh", use_container_width=True):
-        st.toast("Refreshing…")
-        with st.spinner("Rebuilding view…"):
-            try:
-                st.cache_data.clear()
-            except Exception:
-                pass
-            time.sleep(0.2)
-            try:
-                st.rerun()
-            except Exception:
-                st.experimental_rerun()
-
-# Load data.json (always show *current* data)
-try:
-    data = fetch_json(DATA_URL)
-except Exception as ex:
-    st.error(f"Failed to load data.json: {ex}")
-    st.stop()
-
-generated = data.get("generated_at", "")
-st.caption(f"**Last update:** {uk_dt_str(generated)}")
-
-# --------------------------- Controls ---------------------------
-controls_left, controls_right = st.columns([0.55, 0.45])
-
-with controls_left:
-    # Proper on/off switch for translation
-    if "translate_to_en" not in st.session_state:
-        st.session_state.translate_to_en = False
-    st.session_state.translate_to_en = st.toggle(
-        "Translate to English",
-        value=st.session_state.translate_to_en,
-        help="Show machine-translated titles and summaries where available."
-    )
-    search = st.text_input("Search", "")
-
-with controls_right:
-    type_choices = ["major news", "local news", "social"]
-    selected_types = st.multiselect(
-        "Type",
-        type_choices,
-        default=type_choices,
-    )
-
-# --------------------------- Live progress (status.json) ---------------------------
-# If the collector is running and writing status.json in your repo during the job,
-# show a progress bar. (See instructions below to enable this in collector/workflow.)
-if STATUS_URL:
+def load_status():
+    # Optional progress file (status.json)
+    if STATUS_URL:
+        try:
+            return fetch_json_from_url(STATUS_URL)
+        except Exception:
+            pass
     try:
-        status = fetch_json(STATUS_URL, timeout=8)
+        with open(STATUS_FILE_FALLBACK, "r", encoding="utf-8") as f:
+            return json.load(f)
     except Exception:
-        status = {}
+        return {}
 
-    # Expected shape:
-    # {"state":"running"|"idle"|"done",
-    #  "stage":"news"/"official"/"weather"/"social",
-    #  "current": 17, "total": 53,
-    #  "last_feed":"example.com/rss",
-    #  "updated_at":"…ISO…"}
-    state = status.get("state", "idle")
-    if state == "running":
-        cur = int(status.get("current", 0))
-        tot = max(int(status.get("total", 1)), 1)
-        pct = min(max(cur / tot, 0.0), 1.0)
-        prog = st.progress(pct, text=f"Collecting feeds ({cur}/{tot}) — {status.get('stage','')}")
-        # Also show last touched feed
-        if status.get("last_feed"):
-            st.caption(f"Last feed: {status['last_feed']}")
-    elif state == "done":
-        st.info("Collector finished. Press **Refresh** to load the latest items.")
-    # else: idle → no bar
+def classify(it):
+    """Use the collector’s field if present; else infer."""
+    t = (it.get("type") or "").lower()
+    if t in ("major news", "local news", "social"):
+        return t
+    # Fallback inference
+    src = (it.get("source") or "").lower()
+    if any(src.endswith(d) for d in (
+        "reuters.com","bbc.co.uk","apnews.com","theguardian.com","nytimes.com",
+        "bloomberg.com","ft.com","cnn.com","aljazeera.com","sky.com","latimes.com",
+        "cbc.ca","theglobeandmail.com","scmp.com","straitstimes.com","japantimes.co.jp",
+        "avherald.com","gov.uk","faa.gov","easa.europa.eu","caa.co.uk","ntsb.gov",
+        "bea.aero","atsb.gov.au","caa.govt.nz","tc.gc.ca","noaa.gov","nhc.noaa.gov",
+        "weather.gov"
+    )):
+        return "major news"
+    return "local news"
+
+def item_matches_search(it, q):
+    if not q:
+        return True
+    q = q.lower()
+    fields = [
+        it.get("title_en") or it.get("title_orig") or "",
+        it.get("summary_en") or it.get("summary_orig") or "",
+        it.get("source") or "",
+        it.get("url") or "",
+        " ".join(it.get("tags") or []),
+        json.dumps(it.get("geo") or {}, ensure_ascii=False)
+    ]
+    return any(q in (f or "").lower() for f in fields)
+
+# ------------------------ Page setup & CSS ------------------------
+
+st.set_page_config(page_title=APP_TITLE, layout="wide")
+
+# Force a light palette and readable borders
+st.markdown(
+    """
+    <style>
+    html, body, [class*="st-"] { color: #111 !important; background: #fff !important; }
+
+    /* Inputs, selects, pills */
+    .stTextInput > div > div > input,
+    .stMultiSelect [data-baseweb="select"] div,
+    .stSelectbox [data-baseweb="select"] div {
+        border: 1px solid #d0d7de !important;
+        background: #fff !important;
+        color: #111 !important;
+    }
+
+    /* Buttons */
+    .stButton > button {
+        border: 1px solid #1f6feb !important;
+        color: #1f6feb !important;
+        background: #fff !important;
+        padding: 0.4rem 0.9rem;
+        border-radius: 6px;
+        font-weight: 600;
+    }
+    .stButton > button:hover { background: #f6f8fa !important; }
+
+    /* Checkbox/Toggle label visibility */
+    label, .stCheckbox label { color: #111 !important; }
+
+    /* Card-ish feel for items */
+    .item-card {
+        border: 1px solid #e6e6e6;
+        border-radius: 8px;
+        padding: 0.8rem 1rem;
+        margin-bottom: 0.75rem;
+        background: #fff;
+    }
+    .meta { color: #5f6a6a; font-size: 0.9rem; margin-bottom: 0.25rem; }
+    .source { font-weight: 600; }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
+# ------------------------ Header ------------------------
+
+st.title(APP_TITLE)
+
+# Top right: Refresh
+col_title, col_refresh = st.columns([0.8, 0.2])
+with col_refresh:
+    if st.button("Refresh", use_container_width=True):
+        # Clear cached fetches so we re-download; also give the user a feeling of live progress
+        fetch_json_from_url.clear()
+        st.session_state["_request_refresh"] = True
+        st.rerun()
+
+# Last update time
+data = load_data()
+last = pretty_dt_iso(data.get("generated_at", ""))
+
+st.markdown(
+    f"**Last update:** {last}"
+)
+
+# Translate toggle (actual visible checkbox)
+translate = st.checkbox("Translate to English", value=True, help="Show English translations when available")
+
+# ------------------------ Live status / progress ------------------------
+
+# If the collector is running, status.json will advance current/total.
+status = load_status()
+if status:
+    state = status.get("state")            # starting | running | done | error
+    stage = status.get("stage", "")
+    cur = int(status.get("current", 0))
+    tot = max(1, int(status.get("total", 1)))
+
+    colA, colB = st.columns([0.7, 0.3])
+    with colA:
+        st.progress(min(1.0, cur / tot))
+    with colB:
+        st.write(f"{cur} of {tot} • {stage} • {state or ''}")
+
+    # If the user pressed Refresh, give a short, visible polling loop (3s) so they
+    # can see progress tick without waiting a whole rerun cycle.
+    if st.session_state.get("_request_refresh"):
+        for _ in range(3):
+            time.sleep(1)
+            status = load_status()
+            cur = int(status.get("current", 0))
+            tot = max(1, int(status.get("total", 1)))
+            st.session_state["_live_cur"] = cur
+            st.session_state["_live_tot"] = tot
+        # clear the flag; next rerun is manual
+        st.session_state["_request_refresh"] = False
 
 st.divider()
 
-# --------------------------- Body ---------------------------
-live_col, social_col = st.columns(2)
+# ------------------------ Controls ------------------------
 
-items: List[Dict[str, Any]] = data.get("items", [])
-translate_on = st.session_state.translate_to_en
+q = st.text_input("Search", "")
+type_choices = ["major news", "local news", "social"]
+type_filter = st.multiselect("Type", type_choices, default=type_choices)
 
-with live_col:
+# ------------------------ Buckets & rendering ------------------------
+
+def pick_title(it):
+    return (it.get("title_en") if translate else it.get("title_orig")) \
+           or it.get("title") or "(no title)"
+
+def pick_summary(it):
+    return (it.get("summary_en") if translate else it.get("summary_orig")) \
+           or it.get("summary") or ""
+
+def render_item(it):
+    title = pick_title(it)
+    url = it.get("url") or "#"
+    src = it.get("source") or "open source"
+    when = pretty_dt_iso(it.get("published_at", ""))
+    geo = it.get("geo") or {}
+    geo_bits = " | ".join([x for x in [geo.get("airport"), geo.get("city"), geo.get("country"), geo.get("iata")] if x])
+
+    st.markdown('<div class="item-card">', unsafe_allow_html=True)
+    st.markdown(f'**[{title}]({url})**  ', unsafe_allow_html=True)
+    st.markdown(
+        f'<div class="meta">'
+        f'<span class="source">{src}</span> | {when}'
+        f'{(" | " + geo_bits) if geo_bits else ""}'
+        f'</div>',
+        unsafe_allow_html=True
+    )
+    st.write(pick_summary(it))
+    st.markdown('</div>', unsafe_allow_html=True)
+
+items = data.get("items", [])
+
+# Filter
+items = [it for it in items if classify(it) in type_filter and item_matches_search(it, q)]
+
+colL, colR = st.columns(2)
+with colL:
     st.subheader("Live feed")
-    for it in items:
-        if it.get("type") == "social":
-            continue
-        if passes_filters(it, search, selected_types, translate_on):
-            render_item(it, translate_on)
+    for it in [i for i in items if classify(i) != "social"][:150]:
+        render_item(it)
 
-with social_col:
+with colR:
     st.subheader("Social media")
-    for it in items:
-        if it.get("type") != "social":
-            continue
-        if passes_filters(it, search, selected_types, translate_on):
-            render_item(it, translate_on)
+    for it in [i for i in items if classify(i) == "social"][:150]:
+        render_item(it)
