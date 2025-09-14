@@ -1,6 +1,78 @@
 {
-  "generated_at": "2025-09-14T22:32:07.466183+00:00",
+  "generated_at": "2025-09-14T22:42:45.261793+00:00",
   "items": [
+    {
+      "id": "6a54a0e3daac8fe6",
+      "title_orig": "A departure delay has been issued for John F Kennedy International # Airport ( # JFK ) due to traffic management initiatives. Current delays are 16-30 minutes a",
+      "summary_orig": "A departure delay has been issued for John F Kennedy International # Airport ( # JFK ) due to traffic management initiatives. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
+      "lang": "en",
+      "title_en": "A departure delay has been issued for John F Kennedy International # Airport ( # JFK ) due to traffic management initiatives. Current delays are 16-30 minutes a",
+      "summary_en": "A departure delay has been issued for John F Kennedy International # Airport ( # JFK ) due to traffic management initiatives. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
+      "title": "A departure delay has been issued for John F Kennedy International # Airport ( # JFK ) due to traffic management initiatives. Current delays are 16-30 minutes a",
+      "summary": "A departure delay has been issued for John F Kennedy International # Airport ( # JFK ) due to traffic management initiatives. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
+      "url": "https://mastodon.social/@AirportStatusBot/115205052539082818",
+      "source": "#airport",
+      "published_at": "2025-09-14T22:39:55+00:00",
+      "tags": [
+        "JFK",
+        "United States",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "John F. Kennedy",
+        "city": "New York",
+        "country": "United States",
+        "iata": "JFK",
+        "lat": 40.6413,
+        "lon": -73.7781
+      }
+    },
+    {
+      "id": "c09b0c980c855ba9",
+      "title_orig": "The departure delay for John F Kennedy International # Airport ( # JFK ) is no longer in effect. # AirportStatusBot",
+      "summary_orig": "The departure delay for John F Kennedy International # Airport ( # JFK ) is no longer in effect. # AirportStatusBot",
+      "lang": "en",
+      "title_en": "The departure delay for John F Kennedy International # Airport ( # JFK ) is no longer in effect. # AirportStatusBot",
+      "summary_en": "The departure delay for John F Kennedy International # Airport ( # JFK ) is no longer in effect. # AirportStatusBot",
+      "title": "The departure delay for John F Kennedy International # Airport ( # JFK ) is no longer in effect. # AirportStatusBot",
+      "summary": "The departure delay for John F Kennedy International # Airport ( # JFK ) is no longer in effect. # AirportStatusBot",
+      "url": "https://mastodon.social/@AirportStatusBot/115205044415168546",
+      "source": "#airport",
+      "published_at": "2025-09-14T22:37:51+00:00",
+      "tags": [
+        "JFK",
+        "United States",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "John F. Kennedy",
+        "city": "New York",
+        "country": "United States",
+        "iata": "JFK",
+        "lat": 40.6413,
+        "lon": -73.7781
+      }
+    },
+    {
+      "id": "a6b63bb1bf40b3d6",
+      "title_orig": "A departure delay has been issued for Teterboro # Airport ( # TEB ) due to VIP movement. Current delays are 31-45 minutes and increasing. # AirportStatusBot",
+      "summary_orig": "A departure delay has been issued for Teterboro # Airport ( # TEB ) due to VIP movement. Current delays are 31-45 minutes and increasing. # AirportStatusBot",
+      "lang": "en",
+      "title_en": "A departure delay has been issued for Teterboro # Airport ( # TEB ) due to VIP movement. Current delays are 31-45 minutes and increasing. # AirportStatusBot",
+      "summary_en": "A departure delay has been issued for Teterboro # Airport ( # TEB ) due to VIP movement. Current delays are 31-45 minutes and increasing. # AirportStatusBot",
+      "title": "A departure delay has been issued for Teterboro # Airport ( # TEB ) due to VIP movement. Current delays are 31-45 minutes and increasing. # AirportStatusBot",
+      "summary": "A departure delay has been issued for Teterboro # Airport ( # TEB ) due to VIP movement. Current delays are 31-45 minutes and increasing. # AirportStatusBot",
+      "url": "https://mastodon.social/@AirportStatusBot/115205036290205212",
+      "source": "#airport",
+      "published_at": "2025-09-14T22:35:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
     {
       "id": "f911e18db0a5629f",
       "title_orig": "How many runways can you see for Forest Field Aerodrome airport (New Zealand) ? :  The answer is on https://www. bigorre.org/aero/meteo/nzff/en # newzealand # f",
@@ -614,24 +686,6 @@
       "geo": {}
     },
     {
-      "id": "c07921c9b41d2c08",
-      "title_orig": "The departure delay for Seattle–Tacoma International # Airport ( # SEA ) is no longer in effect. # AirportStatusBot",
-      "summary_orig": "The departure delay for Seattle–Tacoma International # Airport ( # SEA ) is no longer in effect. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "The departure delay for Seattle–Tacoma International # Airport ( # SEA ) is no longer in effect. # AirportStatusBot",
-      "summary_en": "The departure delay for Seattle–Tacoma International # Airport ( # SEA ) is no longer in effect. # AirportStatusBot",
-      "title": "The departure delay for Seattle–Tacoma International # Airport ( # SEA ) is no longer in effect. # AirportStatusBot",
-      "summary": "The departure delay for Seattle–Tacoma International # Airport ( # SEA ) is no longer in effect. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115204361144857933",
-      "source": "#airport",
-      "published_at": "2025-09-14T19:44:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "c6a596619530b304",
       "title_orig": "'Outlawed tribe' and their history of gun and arson attacks as former soldier back in court",
       "summary_orig": "Barry Burke was a senior member of the feared Croxteth Young Guns - as he appears back in court, the ECHO has taken a closer look at the gang's history",
@@ -668,33 +722,6 @@
       "geo": {}
     },
     {
-      "id": "47e1a6c174ca858c",
-      "title_orig": "Shower rain on London Heathrow airport (UK) “EGLL 141920Z AUTO 21014KT 9999 -RA BKN010 OVC016 18/16 Q1001 TEMPO 4000 +SHRA BKN012” :  See what it means on https",
-      "summary_orig": "Shower rain on London Heathrow airport (UK) “EGLL 141920Z AUTO 21014KT 9999 -RA BKN010 OVC016 18/16 Q1001 TEMPO 4000 +SHRA BKN012” :  See what it means on https://www. bigorre.org/aero/meteo/egll/en # london # uk # londonheathrowairport # egll # lhr # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Shower rain on London Heathrow airport (UK) “EGLL 141920Z AUTO 21014KT 9999 -RA BKN010 OVC016 18/16 Q1001 TEMPO 4000 +SHRA BKN012” :  See what it means on https",
-      "summary_en": "Shower rain on London Heathrow airport (UK) “EGLL 141920Z AUTO 21014KT 9999 -RA BKN010 OVC016 18/16 Q1001 TEMPO 4000 +SHRA BKN012” :  See what it means on https://www. bigorre.org/aero/meteo/egll/en # london # uk # londonheathrowairport # egll # lhr # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Shower rain on London Heathrow airport (UK) “EGLL 141920Z AUTO 21014KT 9999 -RA BKN010 OVC016 18/16 Q1001 TEMPO 4000 +SHRA BKN012” :  See what it means on https",
-      "summary": "Shower rain on London Heathrow airport (UK) “EGLL 141920Z AUTO 21014KT 9999 -RA BKN010 OVC016 18/16 Q1001 TEMPO 4000 +SHRA BKN012” :  See what it means on https://www. bigorre.org/aero/meteo/egll/en # london # uk # londonheathrowairport # egll # lhr # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115204330590958710",
-      "source": "#airport",
-      "published_at": "2025-09-14T19:36:19+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
       "id": "2416b381062a086c",
       "title_orig": "It's fun to see industry support for # avgeek events like this weekend's # Dorkfest / # LAXDorkfest2025 . Many noticed Southwest's special livery planes showing",
       "summary_orig": "It's fun to see industry support for # avgeek events like this weekend's # Dorkfest / # LAXDorkfest2025 . Many noticed Southwest's special livery planes showing up a lot. It wasn't a coincidence. Southwest COO Andrew Watterson attended and told us the airline scheduled those planes to come into LAX during Dorkfest for the avgeeks to gawk at. 😎  Later we heard Alaska also did that - but harder to spot since their Terminal 6 favors Runways 25R/L on the south side of the airport. # aviation # travel",
@@ -713,21 +740,21 @@
       "geo": {}
     },
     {
-      "id": "abf5424f30289f72",
-      "title_orig": "The departure delay at Teterboro # Airport ( # TEB ) has increased to 31-45 minutes and is now increasing. # AirportStatusBot",
-      "summary_orig": "The departure delay at Teterboro # Airport ( # TEB ) has increased to 31-45 minutes and is now increasing. # AirportStatusBot",
+      "id": "53a15e68bdb18145",
+      "title_orig": "Final stage of Spain's Vuelta abandoned after police clash with pro-Palestinian protesters",
+      "summary_orig": "The final stage of Spain's Vuelta cycling race was abandoned on Sunday afternoon as cyclists were entering Madrid after police clashed with pro-Palestinian protesters in the Spanish capital's centre. Police fired tear gas at the crowds as hundreds of pro-Palestinian protesters knocked down security barriers and surged onto the course.",
       "lang": "en",
-      "title_en": "The departure delay at Teterboro # Airport ( # TEB ) has increased to 31-45 minutes and is now increasing. # AirportStatusBot",
-      "summary_en": "The departure delay at Teterboro # Airport ( # TEB ) has increased to 31-45 minutes and is now increasing. # AirportStatusBot",
-      "title": "The departure delay at Teterboro # Airport ( # TEB ) has increased to 31-45 minutes and is now increasing. # AirportStatusBot",
-      "summary": "The departure delay at Teterboro # Airport ( # TEB ) has increased to 31-45 minutes and is now increasing. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115204296552555425",
-      "source": "#airport",
-      "published_at": "2025-09-14T19:27:40+00:00",
+      "title_en": "Final stage of Spain's Vuelta abandoned after police clash with pro-Palestinian protesters",
+      "summary_en": "The final stage of Spain's Vuelta cycling race was abandoned on Sunday afternoon as cyclists were entering Madrid after police clashed with pro-Palestinian protesters in the Spanish capital's centre. Police fired tear gas at the crowds as hundreds of pro-Palestinian protesters knocked down security barriers and surged onto the course.",
+      "title": "Final stage of Spain's Vuelta abandoned after police clash with pro-Palestinian protesters",
+      "summary": "The final stage of Spain's Vuelta cycling race was abandoned on Sunday afternoon as cyclists were entering Madrid after police clashed with pro-Palestinian protesters in the Spanish capital's centre. Police fired tear gas at the crowds as hundreds of pro-Palestinian protesters knocked down security barriers and surged onto the course.",
+      "url": "https://www.france24.com/en/video/20250914-final-stage-of-spain-s-vuelta-abandoned-after-police-clash-with-pro-palestinian-protesters",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-14T19:10:13+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "social",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -839,6 +866,24 @@
       "geo": {}
     },
     {
+      "id": "0d4a457217d49023",
+      "title_orig": "Tens of thousands join Ankara protest against legal crackdown on Turkey's main opposition party",
+      "summary_orig": "At least 50,000 people rallied in Ankara's vast Tandogan Square Sunday to protest against a year-long legal crackdown on members of Turkey's main opposition party, organisers said. The protest comes ahead of a court decision Monday that could invalidate the 2023 Republican People's Party congress, fundamentally reshaping the party.",
+      "lang": "en",
+      "title_en": "Tens of thousands join Ankara protest against legal crackdown on Turkey's main opposition party",
+      "summary_en": "At least 50,000 people rallied in Ankara's vast Tandogan Square Sunday to protest against a year-long legal crackdown on members of Turkey's main opposition party, organisers said. The protest comes ahead of a court decision Monday that could invalidate the 2023 Republican People's Party congress, fundamentally reshaping the party.",
+      "title": "Tens of thousands join Ankara protest against legal crackdown on Turkey's main opposition party",
+      "summary": "At least 50,000 people rallied in Ankara's vast Tandogan Square Sunday to protest against a year-long legal crackdown on members of Turkey's main opposition party, organisers said. The protest comes ahead of a court decision Monday that could invalidate the 2023 Republican People's Party congress, fundamentally reshaping the party.",
+      "url": "https://www.france24.com/en/asia-pacific/20250914-tens-of-thousands-join-ankara-protest-against-legal-crackdown-on-turkey-s-main-opposition-party",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-14T18:30:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "2f38880a1ccc13b2",
       "title_orig": "METAR Change Notification",
       "summary_orig": "I’m sitting here waiting to make a VFR 135 flight happen and my destination airport is low IFR. Curious if there’s an app or service or something that could alert me as soon as my destination airport weather changes so I don’t have to constantly be looking every 2 mins. submitted by /u/MobileAndMonitoring [link] [comments]",
@@ -908,6 +953,24 @@
         "airport/security"
       ],
       "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "24013e9c16860644",
+      "title_orig": "Romania summons Russian ambassador after drone breaches country's airspace",
+      "summary_orig": "Romania summoned the Russian ambassador to Bucharest on Sunday after a drone was observed breaching the country's airspace on its way to strike targets in Ukraine on Saturday. Poland also scrambled fighter jets last week to shoot down a number of Russian drones that had entered its airspace.",
+      "lang": "en",
+      "title_en": "Romania summons Russian ambassador after drone breaches country's airspace",
+      "summary_en": "Romania summoned the Russian ambassador to Bucharest on Sunday after a drone was observed breaching the country's airspace on its way to strike targets in Ukraine on Saturday. Poland also scrambled fighter jets last week to shoot down a number of Russian drones that had entered its airspace.",
+      "title": "Romania summons Russian ambassador after drone breaches country's airspace",
+      "summary": "Romania summoned the Russian ambassador to Bucharest on Sunday after a drone was observed breaching the country's airspace on its way to strike targets in Ukraine on Saturday. Poland also scrambled fighter jets last week to shoot down a number of Russian drones that had entered its airspace.",
+      "url": "https://www.france24.com/en/live-news/20250914-romania-summons-russian-ambassador-over-drone-threat",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-14T17:31:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -1142,6 +1205,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a9c331859b2d0862",
+      "title_orig": "Final stage of Spain's Vuelta interrupted as police clash with pro-Palestinian protesters",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Final stage of Spain's Vuelta interrupted as police clash with pro-Palestinian protesters",
+      "summary_en": "",
+      "title": "Final stage of Spain's Vuelta interrupted as police clash with pro-Palestinian protesters",
+      "summary": "",
+      "url": "https://www.france24.com/en/sport/20250914-spain-s-pm-sanchez-proud-of-pro-palestinian-protests-as-vuelta-race-nears-end",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-14T16:31:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -1649,6 +1730,42 @@
       "geo": {}
     },
     {
+      "id": "35f8b21546ed804f",
+      "title_orig": "Marco Rubio visits Israel to push for Gaza ceasefire talks",
+      "summary_orig": "US Secretary of State Marco Rubio arrived in Israel on Sunday, as Israel intensified its attacks against northern Gaza, flattening another high-rise building and killing at least 12 Palestinians. The trip is taking place after President Donald Trump rebuked Israel over the unprecedented attack against Hamas leaders meeting in Doha on Tuesday.",
+      "lang": "en",
+      "title_en": "Marco Rubio visits Israel to push for Gaza ceasefire talks",
+      "summary_en": "US Secretary of State Marco Rubio arrived in Israel on Sunday, as Israel intensified its attacks against northern Gaza, flattening another high-rise building and killing at least 12 Palestinians. The trip is taking place after President Donald Trump rebuked Israel over the unprecedented attack against Hamas leaders meeting in Doha on Tuesday.",
+      "title": "Marco Rubio visits Israel to push for Gaza ceasefire talks",
+      "summary": "US Secretary of State Marco Rubio arrived in Israel on Sunday, as Israel intensified its attacks against northern Gaza, flattening another high-rise building and killing at least 12 Palestinians. The trip is taking place after President Donald Trump rebuked Israel over the unprecedented attack against Hamas leaders meeting in Doha on Tuesday.",
+      "url": "https://www.france24.com/en/video/20250914-marco-rubio-visits-israel-to-push-for-gaza-ceasefire-talks",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-14T12:52:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "302ff478375666bd",
+      "title_orig": "Italy tells Israel to respect rights of activists on Gaza flotilla",
+      "summary_orig": "Italy has told Israel to respect the rights of Italian activists taking part in a flotilla that is seeking to break the Israeli blockade of Gaza, after a boat was attacked with incendiary devices in Tunisian waters.",
+      "lang": "en",
+      "title_en": "Italy tells Israel to respect rights of activists on Gaza flotilla",
+      "summary_en": "Italy has told Israel to respect the rights of Italian activists taking part in a flotilla that is seeking to break the Israeli blockade of Gaza, after a boat was attacked with incendiary devices in Tunisian waters.",
+      "title": "Italy tells Israel to respect rights of activists on Gaza flotilla",
+      "summary": "Italy has told Israel to respect the rights of Italian activists taking part in a flotilla that is seeking to break the Israeli blockade of Gaza, after a boat was attacked with incendiary devices in Tunisian waters.",
+      "url": "https://www.france24.com/en/video/20250914-italy-tells-israel-to-respect-rights-of-activists-on-gaza-flotilla",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-14T12:37:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "da52019b580ca40f",
       "title_orig": "Evening plane spotting from my terrace near the airport ✈️🌇",
       "summary_orig": "There’s an airport near my place & while I was on the terrace at sunset, planes flew right in front of me, the sky looked so beautiful, had to capture it 🫶🏼 Gear - Nikon D5100 camera + 200-500mm lens ✨ submitted by /u/Cosmos-Stellar [link] [comments]",
@@ -1919,6 +2036,24 @@
       "geo": {}
     },
     {
+      "id": "50cb421cd41c67b5",
+      "title_orig": "Georgia arrests opposition leader amid crackdown on pro-EU voices",
+      "summary_orig": "Georgian authorities on Thursday arrested Levan Khabeishvili, a leader of the country's largest opposition party, days after he had called for a \"peaceful revolution\" at municipal elections scheduled for next month. The arrest comes amid a crackdown on pro-European Union opposition figures as street protests continue over a disputed election last October and a subsequent government decision to halt talks on joining the EU.",
+      "lang": "en",
+      "title_en": "Georgia arrests opposition leader amid crackdown on pro-EU voices",
+      "summary_en": "Georgian authorities on Thursday arrested Levan Khabeishvili, a leader of the country's largest opposition party, days after he had called for a \"peaceful revolution\" at municipal elections scheduled for next month. The arrest comes amid a crackdown on pro-European Union opposition figures as street protests continue over a disputed election last October and a subsequent government decision to halt talks on joining the EU.",
+      "title": "Georgia arrests opposition leader amid crackdown on pro-EU voices",
+      "summary": "Georgian authorities on Thursday arrested Levan Khabeishvili, a leader of the country's largest opposition party, days after he had called for a \"peaceful revolution\" at municipal elections scheduled for next month. The arrest comes amid a crackdown on pro-European Union opposition figures as street protests continue over a disputed election last October and a subsequent government decision to halt talks on joining the EU.",
+      "url": "https://www.france24.com/en/video/20250914-georgia-arrests-opposition-leader-amid-crackdown-on-pro-eu-voices",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-14T09:45:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "f9734e8428714eb4",
       "title_orig": "Strikes on Qatar and Poland shake U.S. sway among friend and foe",
       "summary_orig": "Trump’s removed attitude contrasts sharply with his repeated claims about his unique ability to solve the world’s intractable conflicts.",
@@ -1955,6 +2090,24 @@
       "geo": {}
     },
     {
+      "id": "d4e554ca42f50a79",
+      "title_orig": "Ukraine intensifies drone strikes on Russian oil facilities, officials say",
+      "summary_orig": "Ukrainian drones on Sunday attacked the Kirishi oil refinery in the northwest Leningrad region, an official said, adding that debris from the shot-down drones caused a temporary fire. The refinery is one of Russia’s largest and is the second to be targeted in less than 48 hours.",
+      "lang": "en",
+      "title_en": "Ukraine intensifies drone strikes on Russian oil facilities, officials say",
+      "summary_en": "Ukrainian drones on Sunday attacked the Kirishi oil refinery in the northwest Leningrad region, an official said, adding that debris from the shot-down drones caused a temporary fire. The refinery is one of Russia’s largest and is the second to be targeted in less than 48 hours.",
+      "title": "Ukraine intensifies drone strikes on Russian oil facilities, officials say",
+      "summary": "Ukrainian drones on Sunday attacked the Kirishi oil refinery in the northwest Leningrad region, an official said, adding that debris from the shot-down drones caused a temporary fire. The refinery is one of Russia’s largest and is the second to be targeted in less than 48 hours.",
+      "url": "https://www.france24.com/en/europe/20250914-ukraine-intensifies-drone-strikes-on-russian-oil-facilities-officials-say",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-14T09:23:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "b29c76de62f0c102",
       "title_orig": "Nepal's interim PM to hand over power within six months",
       "summary_orig": "Sushila Karki said the government must heed protesters' demands for \"an end to corruption, good governance and economic equality\".",
@@ -1984,6 +2137,24 @@
       "url": "http://www.euronews.com/2025/09/14/police-assaulted-during-massive-london-march-organised-by-far-right-activist-tommy-robinso",
       "source": "News | Euronews RSS",
       "published_at": "2025-09-14T08:36:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2f8fde1fe87f9f31",
+      "title_orig": "Nepal’s new PM says will only serve for 6 months, urges 'cooperation' after deadly protests",
+      "summary_orig": "Nepal’s first female prime minister, Sushila Karki, took office on Sunday and vowed to only stay in the role for the next six months. She replaces Khadga Prasad Oli, who was forced to resign and flee his official residence amid violent youth protests over corruption. “We have to work according to the thinking of the Gen Z generation,” Karki said.",
+      "lang": "en",
+      "title_en": "Nepal’s new PM says will only serve for 6 months, urges 'cooperation' after deadly protests",
+      "summary_en": "Nepal’s first female prime minister, Sushila Karki, took office on Sunday and vowed to only stay in the role for the next six months. She replaces Khadga Prasad Oli, who was forced to resign and flee his official residence amid violent youth protests over corruption. “We have to work according to the thinking of the Gen Z generation,” Karki said.",
+      "title": "Nepal’s new PM says will only serve for 6 months, urges 'cooperation' after deadly protests",
+      "summary": "Nepal’s first female prime minister, Sushila Karki, took office on Sunday and vowed to only stay in the role for the next six months. She replaces Khadga Prasad Oli, who was forced to resign and flee his official residence amid violent youth protests over corruption. “We have to work according to the thinking of the Gen Z generation,” Karki said.",
+      "url": "https://www.france24.com/en/asia-pacific/20250914-nepal-new-pm-says-will-only-stay-in-office-for-6-months-urges-cooperation-after-deadly-protests",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-14T08:33:50+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3488,11 +3659,11 @@
       "id": "f1495fd701a044a4",
       "title_orig": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacio",
       "summary_orig": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacion # avión # avion # Luftfahrt # Flugzeuge",
-      "lang": "es",
+      "lang": "en",
       "title_en": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacio",
-      "summary_en": "Renew Airport Postcards. # Renew # Nevada # Airport # Aviation # Airplanes # Avgeek # Postcards # Postcard # Travel # Plane PPOTTING # AVIATION # AVIATION # APPROVAL # AVION # LUFTFAHRT # FLUGZEUGE",
+      "summary_en": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacion # avión # avion # Luftfahrt # Flugzeuge",
       "title": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacio",
-      "summary": "Renew Airport Postcards. # Renew # Nevada # Airport # Aviation # Airplanes # Avgeek # Postcards # Postcard # Travel # Plane PPOTTING # AVIATION # AVIATION # APPROVAL # AVION # LUFTFAHRT # FLUGZEUGE",
+      "summary": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacion # avión # avion # Luftfahrt # Flugzeuge",
       "url": "https://mastodon.online/@Aviation_Librarian/115179652015690890",
       "source": "#AirPort",
       "published_at": "2025-09-10T11:00:14+00:00",
