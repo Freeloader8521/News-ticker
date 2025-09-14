@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 import pytz
 import streamlit as st
+import requests
 
 # ---------------- Config ----------------
 DATA_JSON_URL = os.environ.get(
@@ -22,7 +23,6 @@ def pretty_dt(iso: str) -> str:
 @st.cache_data(ttl=300)
 def fetch_json():
     try:
-        import requests
         r = requests.get(DATA_JSON_URL, timeout=20)
         r.raise_for_status()
         return r.json()
@@ -69,15 +69,12 @@ colTopA, colTopB = st.columns([6, 1])
 with colTopA:
     st.markdown(f"**Last update:** {last}")
 
-# Refresh button with spinner
+# Refresh button with spinner + rerun
 with colTopB:
-    clicked = st.button("Refresh", use_container_width=True)
-if clicked:
-    with st.status("Refreshing feeds…", expanded=False) as status:
-        status.update(label="Clearing cache", state="running")
-        st.cache_data.clear()
-        status.update(label="Reloading app…", state="running")
-        st.experimental_rerun()
+    if st.button("Refresh", use_container_width=True):
+        with st.spinner("Refreshing feeds…"):
+            st.cache_data.clear()
+            st.rerun()
 
 # Translate toggle
 translate = st.checkbox("Translate to English", value=True)
