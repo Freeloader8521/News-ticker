@@ -1,19 +1,17 @@
 import os
 import json
-import time
 from datetime import datetime
 import pytz
-import requests
 import streamlit as st
+import requests
 
 # ---------------- Config ----------------
+# Fix for inotify instance limit (disable file watcher on Streamlit Cloud)
+os.environ["STREAMLIT_SERVER_FILE_WATCHER_TYPE"] = "none"
+
 DATA_JSON_URL = os.environ.get(
     "DATA_JSON_URL",
     "https://raw.githubusercontent.com/Freeloader8521/News-ticker/main/data.json"
-)
-STATUS_JSON_URL = os.environ.get(
-    "STATUS_JSON_URL",
-    "https://raw.githubusercontent.com/Freeloader8521/News-ticker/main/status.json"
 )
 
 # ---------------- Utils ----------------
@@ -26,50 +24,18 @@ def pretty_dt(iso: str) -> str:
         return iso or ""
 
 @st.cache_data(ttl=300)
-def fetch_json(url):
+def fetch_json():
     try:
-        r = requests.get(url, timeout=20)
+        r = requests.get(DATA_JSON_URL, timeout=20)
         r.raise_for_status()
         return r.json()
     except Exception:
-        return {}
-
-def poll_status_bar():
-    """Poll status.json and update progress bar until finished."""
-    status_container = st.empty()
-    prog = status_container.progress(0, text="Starting…")
-
-    while True:
-        try:
-            r = requests.get(STATUS_JSON_URL, timeout=10)
-            if r.status_code == 200:
-                status = r.json()
-                cur = int(status.get("current", 0) or 0)
-                tot = max(1, int(status.get("total", 1) or 1))
-                stage = status.get("stage", "")
-                state = status.get("state", "")
-
-                prog.progress(
-                    min(cur / tot, 1.0),
-                    text=f"{cur}/{tot} feeds processed ({stage}, {state})"
-                )
-
-                if state.lower() == "done":
-                    break
-        except Exception:
-            prog.progress(0, text="Waiting for status.json…")
-
-        time.sleep(3)  # poll every 3s
-
-    status_container.success("Refresh complete ✅")
-    time.sleep(1)
-    st.cache_data.clear()
-    st.rerun()
+        return {"generated_at": None, "items": []}
 
 # ---------------- Layout ----------------
 st.set_page_config(page_title="Global Situational Awareness Dashboard", layout="wide")
 
-# CSS tweaks
+# CSS – force light mode, outlines on buttons, toggle styles
 st.markdown(
     """
     <style>
@@ -77,19 +43,23 @@ st.markdown(
         color: #111 !important;
         background: #fff !important;
     }
+    .block-container { padding-top: 1rem; padding-bottom: 1rem; }
     .stButton button {
         border: 1px solid #444 !important;
         padding: 0.4rem 1rem;
         border-radius: 4px;
         font-weight: 600;
     }
-    .toggle-on {
-        background: #28a745 !important;
-        color: white !important;
+    .translate-toggle button {
+        border: 1px solid #444 !important;
+        border-radius: 4px;
+        padding: 0.3rem 1rem;
+        font-weight: 600;
     }
-    .toggle-off {
-        background: #dc3545 !important;
-        color: white !important;
+    h2 {
+        margin-top: 1rem;
+        border-bottom: 2px solid #ccc;
+        padding-bottom: 0.3rem;
     }
     </style>
     """,
@@ -97,7 +67,7 @@ st.markdown(
 )
 
 # ---------------- Header ----------------
-data = fetch_json(DATA_JSON_URL) or {}
+data = fetch_json()
 last = pretty_dt(data.get("generated_at"))
 
 st.title("Global Situational Awareness Dashboard")
@@ -106,25 +76,26 @@ colTopA, colTopB = st.columns([6, 1])
 with colTopA:
     st.markdown(f"**Last update:** {last}")
 
+# Refresh button with spinner + rerun
 with colTopB:
     if st.button("Refresh", use_container_width=True):
         with st.spinner("Refreshing feeds…"):
-            poll_status_bar()
+            st.cache_data.clear()
+            st.rerun()
 
-# ---------------- Translate toggle ----------------
+# Translate toggle (ON/OFF button instead of checkbox)
 if "translate" not in st.session_state:
-    st.session_state["translate"] = True
+    st.session_state.translate = True
 
-if st.session_state["translate"]:
-    if st.button("Translate: ON", key="toggle_on"):
-        st.session_state["translate"] = False
-        st.rerun()
-else:
-    if st.button("Translate: OFF", key="toggle_off"):
-        st.session_state["translate"] = True
-        st.rerun()
-
-translate = st.session_state["translate"]
+colToggle = st.container()
+with colToggle:
+    if st.button(
+        f"Translate: {'ON' if st.session_state.translate else 'OFF'}",
+        key="translate_btn",
+        help="Toggle translation of non-English items",
+    ):
+        st.session_state.translate = not st.session_state.translate
+translate = st.session_state.translate
 
 # ---------------- Controls ----------------
 colSearch, colType = st.columns([3, 2])
