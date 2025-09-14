@@ -1,15 +1,69 @@
 {
-  "generated_at": "2025-09-14T21:26:45.352832+00:00",
+  "generated_at": "2025-09-14T21:38:02.563545+00:00",
   "items": [
     {
-      "id": "0a147cb24e5dcf3d",
-      "title_orig": "A missing and important # security feature for @ ublockorigin : add a per-filter option for whether each given subscription is allowed to use trusted filters, a",
-      "summary_orig": "A missing and important # security feature for @ ublockorigin : add a per-filter option for whether each given subscription is allowed to use trusted filters, and make it default to unchecked for all non-default subscriptions. As it stands malicious compromise of any filter subscription allows arbitrary code injection into any or every page, using, for example, trusted-replace-node-text on any script element. It's the same # supplyChain threat model as malicious Python/Ruby/Node/R/etc. packages or malicious VS Code or browser extensions. # uBlockOrigin # supplyChainSecurity # supplyChainAttack",
+      "id": "4b1cbfebd606900d",
+      "title_orig": "The departure delay for Harry Reid International # Airport ( # LAS ) is no longer in effect. # AirportStatusBot",
+      "summary_orig": "The departure delay for Harry Reid International # Airport ( # LAS ) is no longer in effect. # AirportStatusBot",
       "lang": "en",
-      "title_en": "A missing and important # security feature for @ ublockorigin : add a per-filter option for whether each given subscription is allowed to use trusted filters, a",
-      "summary_en": "A missing and important # security feature for @ ublockorigin : add a per-filter option for whether each given subscription is allowed to use trusted filters, and make it default to unchecked for all non-default subscriptions. As it stands malicious compromise of any filter subscription allows arbitrary code injection into any or every page, using, for example, trusted-replace-node-text on any script element. It's the same # supplyChain threat model as malicious Python/Ruby/Node/R/etc. packages or malicious VS Code or browser extensions. # uBlockOrigin # supplyChainSecurity # supplyChainAttack",
-      "title": "A missing and important # security feature for @ ublockorigin : add a per-filter option for whether each given subscription is allowed to use trusted filters, a",
-      "summary": "A missing and important # security feature for @ ublockorigin : add a per-filter option for whether each given subscription is allowed to use trusted filters, and make it default to unchecked for all non-default subscriptions. As it stands malicious compromise of any filter subscription allows arbitrary code injection into any or every page, using, for example, trusted-replace-node-text on any script element. It's the same # supplyChain threat model as malicious Python/Ruby/Node/R/etc. packages or malicious VS Code or browser extensions. # uBlockOrigin # supplyChainSecurity # supplyChainAttack",
+      "title_en": "The departure delay for Harry Reid International # Airport ( # LAS ) is no longer in effect. # AirportStatusBot",
+      "summary_en": "The departure delay for Harry Reid International # Airport ( # LAS ) is no longer in effect. # AirportStatusBot",
+      "title": "The departure delay for Harry Reid International # Airport ( # LAS ) is no longer in effect. # AirportStatusBot",
+      "summary": "The departure delay for Harry Reid International # Airport ( # LAS ) is no longer in effect. # AirportStatusBot",
+      "url": "https://mastodon.social/@AirportStatusBot/115204801729866165",
+      "source": "#airport",
+      "published_at": "2025-09-14T21:36:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "36ae3b63c2690fd4",
+      "title_orig": "Romania Says Russian Drone Entered Its Airspace",
+      "summary_orig": "It was the second time in less than a week that a Russian drone had flown through a NATO member’s airspace. Last week, NATO scrambled fighter jets to shoot down Russian drones in Polish airspace.",
+      "lang": "en",
+      "title_en": "Romania Says Russian Drone Entered Its Airspace",
+      "summary_en": "It was the second time in less than a week that a Russian drone had flown through a NATO member’s airspace. Last week, NATO scrambled fighter jets to shoot down Russian drones in Polish airspace.",
+      "title": "Romania Says Russian Drone Entered Its Airspace",
+      "summary": "It was the second time in less than a week that a Russian drone had flown through a NATO member’s airspace. Last week, NATO scrambled fighter jets to shoot down Russian drones in Polish airspace.",
+      "url": "https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-14T21:29:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f7bac855b6daba3d",
+      "title_orig": "Community welcomes 'inclusion and togetherness' weeks after hotel protests",
+      "summary_orig": "Hoylake4All hosted its Big Lunch event at St Luke's Church today",
+      "lang": "en",
+      "title_en": "Community welcomes 'inclusion and togetherness' weeks after hotel protests",
+      "summary_en": "Hoylake4All hosted its Big Lunch event at St Luke's Church today",
+      "title": "Community welcomes 'inclusion and togetherness' weeks after hotel protests",
+      "summary": "Hoylake4All hosted its Big Lunch event at St Luke's Church today",
+      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/gallery/community-welcomes-inclusion-togetherness-weeks-32475184",
+      "source": "Liverpool Echo - News",
+      "published_at": "2025-09-14T21:27:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0a147cb24e5dcf3d",
+      "title_orig": "A missing and important # security feature for @ ublockorigin : add a per-subscription option for whether each subscription is allowed to use trusted filters, a",
+      "summary_orig": "A missing and important # security feature for @ ublockorigin : add a per-subscription option for whether each subscription is allowed to use trusted filters, and make it default to unchecked for all non-default subscriptions. As it stands malicious compromise of any filter subscription allows arbitrary code injection into any or every page, using, for example, trusted-replace-node-text on any script element. It's the same # supplyChain threat model as malicious Python/Ruby/Node/R/etc. packages or malicious VS Code or browser extensions. # uBlockOrigin # supplyChainSecurity # supplyChainAttack",
+      "lang": "en",
+      "title_en": "A missing and important # security feature for @ ublockorigin : add a per-subscription option for whether each subscription is allowed to use trusted filters, a",
+      "summary_en": "A missing and important # security feature for @ ublockorigin : add a per-subscription option for whether each subscription is allowed to use trusted filters, and make it default to unchecked for all non-default subscriptions. As it stands malicious compromise of any filter subscription allows arbitrary code injection into any or every page, using, for example, trusted-replace-node-text on any script element. It's the same # supplyChain threat model as malicious Python/Ruby/Node/R/etc. packages or malicious VS Code or browser extensions. # uBlockOrigin # supplyChainSecurity # supplyChainAttack",
+      "title": "A missing and important # security feature for @ ublockorigin : add a per-subscription option for whether each subscription is allowed to use trusted filters, a",
+      "summary": "A missing and important # security feature for @ ublockorigin : add a per-subscription option for whether each subscription is allowed to use trusted filters, and make it default to unchecked for all non-default subscriptions. As it stands malicious compromise of any filter subscription allows arbitrary code injection into any or every page, using, for example, trusted-replace-node-text on any script element. It's the same # supplyChain threat model as malicious Python/Ruby/Node/R/etc. packages or malicious VS Code or browser extensions. # uBlockOrigin # supplyChainSecurity # supplyChainAttack",
       "url": "https://infosec.exchange/@deFractal/115204743598382690",
       "source": "#security",
       "published_at": "2025-09-14T21:21:21+00:00",
@@ -569,24 +623,6 @@
       "geo": {}
     },
     {
-      "id": "53a15e68bdb18145",
-      "title_orig": "Final stage of Spain's Vuelta abandoned after police clash with pro-Palestinian protesters",
-      "summary_orig": "The final stage of Spain's Vuelta cycling race was abandoned on Sunday afternoon as cyclists were entering Madrid after police clashed with pro-Palestinian protesters in the Spanish capital's centre. Police fired tear gas at the crowds as hundreds of pro-Palestinian protesters knocked down security barriers and surged onto the course.",
-      "lang": "en",
-      "title_en": "Final stage of Spain's Vuelta abandoned after police clash with pro-Palestinian protesters",
-      "summary_en": "The final stage of Spain's Vuelta cycling race was abandoned on Sunday afternoon as cyclists were entering Madrid after police clashed with pro-Palestinian protesters in the Spanish capital's centre. Police fired tear gas at the crowds as hundreds of pro-Palestinian protesters knocked down security barriers and surged onto the course.",
-      "title": "Final stage of Spain's Vuelta abandoned after police clash with pro-Palestinian protesters",
-      "summary": "The final stage of Spain's Vuelta cycling race was abandoned on Sunday afternoon as cyclists were entering Madrid after police clashed with pro-Palestinian protesters in the Spanish capital's centre. Police fired tear gas at the crowds as hundreds of pro-Palestinian protesters knocked down security barriers and surged onto the course.",
-      "url": "https://www.france24.com/en/video/20250914-final-stage-of-spain-s-vuelta-abandoned-after-police-clash-with-pro-palestinian-protesters",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-14T19:10:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "70baefead36f3b80",
       "title_orig": "Inbound operations to Minneapolis–Saint Paul International # Airport / Wold–Chamberlain Field ( # MSP ) have resumed. # AirportStatusBot",
       "summary_orig": "Inbound operations to Minneapolis–Saint Paul International # Airport / Wold–Chamberlain Field ( # MSP ) have resumed. # AirportStatusBot",
@@ -785,24 +821,6 @@
       "geo": {}
     },
     {
-      "id": "0d4a457217d49023",
-      "title_orig": "Tens of thousands join Ankara protest against legal crackdown on Turkey's main opposition party",
-      "summary_orig": "At least 50,000 people rallied in Ankara's vast Tandogan Square Sunday to protest against a year-long legal crackdown on members of Turkey's main opposition party, organisers said. The protest comes ahead of a court decision Monday that could invalidate the 2023 Republican People's Party congress, fundamentally reshaping the party.",
-      "lang": "en",
-      "title_en": "Tens of thousands join Ankara protest against legal crackdown on Turkey's main opposition party",
-      "summary_en": "At least 50,000 people rallied in Ankara's vast Tandogan Square Sunday to protest against a year-long legal crackdown on members of Turkey's main opposition party, organisers said. The protest comes ahead of a court decision Monday that could invalidate the 2023 Republican People's Party congress, fundamentally reshaping the party.",
-      "title": "Tens of thousands join Ankara protest against legal crackdown on Turkey's main opposition party",
-      "summary": "At least 50,000 people rallied in Ankara's vast Tandogan Square Sunday to protest against a year-long legal crackdown on members of Turkey's main opposition party, organisers said. The protest comes ahead of a court decision Monday that could invalidate the 2023 Republican People's Party congress, fundamentally reshaping the party.",
-      "url": "https://www.france24.com/en/asia-pacific/20250914-tens-of-thousands-join-ankara-protest-against-legal-crackdown-on-turkey-s-main-opposition-party",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-14T18:30:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2f38880a1ccc13b2",
       "title_orig": "METAR Change Notification",
       "summary_orig": "I’m sitting here waiting to make a VFR 135 flight happen and my destination airport is low IFR. Curious if there’s an app or service or something that could alert me as soon as my destination airport weather changes so I don’t have to constantly be looking every 2 mins. submitted by /u/MobileAndMonitoring [link] [comments]",
@@ -818,42 +836,6 @@
         "airport/security"
       ],
       "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "720b57d48a75510e",
-      "title_orig": "A departure delay has been issued for Harry Reid International # Airport ( # LAS ) due to high traffic volume. Current delays are 16-30 minutes and increasing. ",
-      "summary_orig": "A departure delay has been issued for Harry Reid International # Airport ( # LAS ) due to high traffic volume. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "A departure delay has been issued for Harry Reid International # Airport ( # LAS ) due to high traffic volume. Current delays are 16-30 minutes and increasing. ",
-      "summary_en": "A departure delay has been issued for Harry Reid International # Airport ( # LAS ) due to high traffic volume. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
-      "title": "A departure delay has been issued for Harry Reid International # Airport ( # LAS ) due to high traffic volume. Current delays are 16-30 minutes and increasing. ",
-      "summary": "A departure delay has been issued for Harry Reid International # Airport ( # LAS ) due to high traffic volume. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115204057698981517",
-      "source": "#airport",
-      "published_at": "2025-09-14T18:26:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "36ae3b63c2690fd4",
-      "title_orig": "Romania Says Russian Drone Entered Its Airspace",
-      "summary_orig": "It was the second time in less than a week that a Russian drone had flown through a NATO member’s airspace. Last week, NATO scrambled fighter jets to shoot down Russian drones in Polish airspace.",
-      "lang": "en",
-      "title_en": "Romania Says Russian Drone Entered Its Airspace",
-      "summary_en": "It was the second time in less than a week that a Russian drone had flown through a NATO member’s airspace. Last week, NATO scrambled fighter jets to shoot down Russian drones in Polish airspace.",
-      "title": "Romania Says Russian Drone Entered Its Airspace",
-      "summary": "It was the second time in less than a week that a Russian drone had flown through a NATO member’s airspace. Last week, NATO scrambled fighter jets to shoot down Russian drones in Polish airspace.",
-      "url": "https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html",
-      "source": "NYT > World News",
-      "published_at": "2025-09-14T18:24:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -926,24 +908,6 @@
         "airport/security"
       ],
       "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "24013e9c16860644",
-      "title_orig": "Romania summons Russian ambassador after drone breaches country's airspace",
-      "summary_orig": "Romania summoned the Russian ambassador to Bucharest on Sunday after a drone was observed breaching the country's airspace on its way to strike targets in Ukraine on Saturday. Poland also scrambled fighter jets last week to shoot down a number of Russian drones that had entered its airspace.",
-      "lang": "en",
-      "title_en": "Romania summons Russian ambassador after drone breaches country's airspace",
-      "summary_en": "Romania summoned the Russian ambassador to Bucharest on Sunday after a drone was observed breaching the country's airspace on its way to strike targets in Ukraine on Saturday. Poland also scrambled fighter jets last week to shoot down a number of Russian drones that had entered its airspace.",
-      "title": "Romania summons Russian ambassador after drone breaches country's airspace",
-      "summary": "Romania summoned the Russian ambassador to Bucharest on Sunday after a drone was observed breaching the country's airspace on its way to strike targets in Ukraine on Saturday. Poland also scrambled fighter jets last week to shoot down a number of Russian drones that had entered its airspace.",
-      "url": "https://www.france24.com/en/live-news/20250914-romania-summons-russian-ambassador-over-drone-threat",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-14T17:31:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1156,42 +1120,6 @@
       "url": "https://www.birminghammail.co.uk/black-country/sikh-leaders-tell-police-you-32474201",
       "source": "Birmingham Live - News",
       "published_at": "2025-09-14T16:32:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e8e71cfd6b408b92",
-      "title_orig": "Musk’s Grok AI bot falsely suggests police misrepresented footage of far-right rally in London",
-      "summary_orig": "Met forced to rebut misinformation amplified by X users as Musk accused of inciting violence with protest comments The Metropolitan police has had to counter false suggestions by the artificial intelligence on Elon Musk’s X platform that the force passed off footage from 2020 as being from Saturday’s far-right rally in the city. The claim by the chatbot Grok was in answer to an X user’s query about where and when footage of police clashing with crowds was filmed. Continue reading...",
-      "lang": "en",
-      "title_en": "Musk’s Grok AI bot falsely suggests police misrepresented footage of far-right rally in London",
-      "summary_en": "Met forced to rebut misinformation amplified by X users as Musk accused of inciting violence with protest comments The Metropolitan police has had to counter false suggestions by the artificial intelligence on Elon Musk’s X platform that the force passed off footage from 2020 as being from Saturday’s far-right rally in the city. The claim by the chatbot Grok was in answer to an X user’s query about where and when footage of police clashing with crowds was filmed. Continue reading...",
-      "title": "Musk’s Grok AI bot falsely suggests police misrepresented footage of far-right rally in London",
-      "summary": "Met forced to rebut misinformation amplified by X users as Musk accused of inciting violence with protest comments The Metropolitan police has had to counter false suggestions by the artificial intelligence on Elon Musk’s X platform that the force passed off footage from 2020 as being from Saturday’s far-right rally in the city. The claim by the chatbot Grok was in answer to an X user’s query about where and when footage of police clashing with crowds was filmed. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2025/sep/14/musks-grok-ai-bot-falsely-suggests-met-misrepresented-footage-of-clashes-with-far-right",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-09-14T16:31:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "a9c331859b2d0862",
-      "title_orig": "Final stage of Spain's Vuelta interrupted as police clash with pro-Palestinian protesters",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Final stage of Spain's Vuelta interrupted as police clash with pro-Palestinian protesters",
-      "summary_en": "",
-      "title": "Final stage of Spain's Vuelta interrupted as police clash with pro-Palestinian protesters",
-      "summary": "",
-      "url": "https://www.france24.com/en/sport/20250914-spain-s-pm-sanchez-proud-of-pro-palestinian-protests-as-vuelta-race-nears-end",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-14T16:31:05+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1703,42 +1631,6 @@
       "geo": {}
     },
     {
-      "id": "35f8b21546ed804f",
-      "title_orig": "Marco Rubio visits Israel to push for Gaza ceasefire talks",
-      "summary_orig": "US Secretary of State Marco Rubio arrived in Israel on Sunday, as Israel intensified its attacks against northern Gaza, flattening another high-rise building and killing at least 12 Palestinians. The trip is taking place after President Donald Trump rebuked Israel over the unprecedented attack against Hamas leaders meeting in Doha on Tuesday.",
-      "lang": "en",
-      "title_en": "Marco Rubio visits Israel to push for Gaza ceasefire talks",
-      "summary_en": "US Secretary of State Marco Rubio arrived in Israel on Sunday, as Israel intensified its attacks against northern Gaza, flattening another high-rise building and killing at least 12 Palestinians. The trip is taking place after President Donald Trump rebuked Israel over the unprecedented attack against Hamas leaders meeting in Doha on Tuesday.",
-      "title": "Marco Rubio visits Israel to push for Gaza ceasefire talks",
-      "summary": "US Secretary of State Marco Rubio arrived in Israel on Sunday, as Israel intensified its attacks against northern Gaza, flattening another high-rise building and killing at least 12 Palestinians. The trip is taking place after President Donald Trump rebuked Israel over the unprecedented attack against Hamas leaders meeting in Doha on Tuesday.",
-      "url": "https://www.france24.com/en/video/20250914-marco-rubio-visits-israel-to-push-for-gaza-ceasefire-talks",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-14T12:52:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "302ff478375666bd",
-      "title_orig": "Italy tells Israel to respect rights of activists on Gaza flotilla",
-      "summary_orig": "Italy has told Israel to respect the rights of Italian activists taking part in a flotilla that is seeking to break the Israeli blockade of Gaza, after a boat was attacked with incendiary devices in Tunisian waters.",
-      "lang": "en",
-      "title_en": "Italy tells Israel to respect rights of activists on Gaza flotilla",
-      "summary_en": "Italy has told Israel to respect the rights of Italian activists taking part in a flotilla that is seeking to break the Israeli blockade of Gaza, after a boat was attacked with incendiary devices in Tunisian waters.",
-      "title": "Italy tells Israel to respect rights of activists on Gaza flotilla",
-      "summary": "Italy has told Israel to respect the rights of Italian activists taking part in a flotilla that is seeking to break the Israeli blockade of Gaza, after a boat was attacked with incendiary devices in Tunisian waters.",
-      "url": "https://www.france24.com/en/video/20250914-italy-tells-israel-to-respect-rights-of-activists-on-gaza-flotilla",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-14T12:37:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "da52019b580ca40f",
       "title_orig": "Evening plane spotting from my terrace near the airport ✈️🌇",
       "summary_orig": "There’s an airport near my place & while I was on the terrace at sunset, planes flew right in front of me, the sky looked so beautiful, had to capture it 🫶🏼 Gear - Nikon D5100 camera + 200-500mm lens ✨ submitted by /u/Cosmos-Stellar [link] [comments]",
@@ -2009,24 +1901,6 @@
       "geo": {}
     },
     {
-      "id": "50cb421cd41c67b5",
-      "title_orig": "Georgia arrests opposition leader amid crackdown on pro-EU voices",
-      "summary_orig": "Georgian authorities on Thursday arrested Levan Khabeishvili, a leader of the country's largest opposition party, days after he had called for a \"peaceful revolution\" at municipal elections scheduled for next month. The arrest comes amid a crackdown on pro-European Union opposition figures as street protests continue over a disputed election last October and a subsequent government decision to halt talks on joining the EU.",
-      "lang": "en",
-      "title_en": "Georgia arrests opposition leader amid crackdown on pro-EU voices",
-      "summary_en": "Georgian authorities on Thursday arrested Levan Khabeishvili, a leader of the country's largest opposition party, days after he had called for a \"peaceful revolution\" at municipal elections scheduled for next month. The arrest comes amid a crackdown on pro-European Union opposition figures as street protests continue over a disputed election last October and a subsequent government decision to halt talks on joining the EU.",
-      "title": "Georgia arrests opposition leader amid crackdown on pro-EU voices",
-      "summary": "Georgian authorities on Thursday arrested Levan Khabeishvili, a leader of the country's largest opposition party, days after he had called for a \"peaceful revolution\" at municipal elections scheduled for next month. The arrest comes amid a crackdown on pro-European Union opposition figures as street protests continue over a disputed election last October and a subsequent government decision to halt talks on joining the EU.",
-      "url": "https://www.france24.com/en/video/20250914-georgia-arrests-opposition-leader-amid-crackdown-on-pro-eu-voices",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-14T09:45:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f9734e8428714eb4",
       "title_orig": "Strikes on Qatar and Poland shake U.S. sway among friend and foe",
       "summary_orig": "Trump’s removed attitude contrasts sharply with his repeated claims about his unique ability to solve the world’s intractable conflicts.",
@@ -2063,24 +1937,6 @@
       "geo": {}
     },
     {
-      "id": "d4e554ca42f50a79",
-      "title_orig": "Ukraine intensifies drone strikes on Russian oil facilities, officials say",
-      "summary_orig": "Ukrainian drones on Sunday attacked the Kirishi oil refinery in the northwest Leningrad region, an official said, adding that debris from the shot-down drones caused a temporary fire. The refinery is one of Russia’s largest and is the second to be targeted in less than 48 hours.",
-      "lang": "en",
-      "title_en": "Ukraine intensifies drone strikes on Russian oil facilities, officials say",
-      "summary_en": "Ukrainian drones on Sunday attacked the Kirishi oil refinery in the northwest Leningrad region, an official said, adding that debris from the shot-down drones caused a temporary fire. The refinery is one of Russia’s largest and is the second to be targeted in less than 48 hours.",
-      "title": "Ukraine intensifies drone strikes on Russian oil facilities, officials say",
-      "summary": "Ukrainian drones on Sunday attacked the Kirishi oil refinery in the northwest Leningrad region, an official said, adding that debris from the shot-down drones caused a temporary fire. The refinery is one of Russia’s largest and is the second to be targeted in less than 48 hours.",
-      "url": "https://www.france24.com/en/europe/20250914-ukraine-intensifies-drone-strikes-on-russian-oil-facilities-officials-say",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-14T09:23:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b29c76de62f0c102",
       "title_orig": "Nepal's interim PM to hand over power within six months",
       "summary_orig": "Sushila Karki said the government must heed protesters' demands for \"an end to corruption, good governance and economic equality\".",
@@ -2110,24 +1966,6 @@
       "url": "http://www.euronews.com/2025/09/14/police-assaulted-during-massive-london-march-organised-by-far-right-activist-tommy-robinso",
       "source": "News | Euronews RSS",
       "published_at": "2025-09-14T08:36:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2f8fde1fe87f9f31",
-      "title_orig": "Nepal’s new PM says will only serve for 6 months, urges 'cooperation' after deadly protests",
-      "summary_orig": "Nepal’s first female prime minister, Sushila Karki, took office on Sunday and vowed to only stay in the role for the next six months. She replaces Khadga Prasad Oli, who was forced to resign and flee his official residence amid violent youth protests over corruption. “We have to work according to the thinking of the Gen Z generation,” Karki said.",
-      "lang": "en",
-      "title_en": "Nepal’s new PM says will only serve for 6 months, urges 'cooperation' after deadly protests",
-      "summary_en": "Nepal’s first female prime minister, Sushila Karki, took office on Sunday and vowed to only stay in the role for the next six months. She replaces Khadga Prasad Oli, who was forced to resign and flee his official residence amid violent youth protests over corruption. “We have to work according to the thinking of the Gen Z generation,” Karki said.",
-      "title": "Nepal’s new PM says will only serve for 6 months, urges 'cooperation' after deadly protests",
-      "summary": "Nepal’s first female prime minister, Sushila Karki, took office on Sunday and vowed to only stay in the role for the next six months. She replaces Khadga Prasad Oli, who was forced to resign and flee his official residence amid violent youth protests over corruption. “We have to work according to the thinking of the Gen Z generation,” Karki said.",
-      "url": "https://www.france24.com/en/asia-pacific/20250914-nepal-new-pm-says-will-only-stay-in-office-for-6-months-urges-cooperation-after-deadly-protests",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-14T08:33:50+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2236,24 +2074,6 @@
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1ngjopw/romania_reacts_to_russian_drone_provocations/",
       "source": "News & Events Surrounding Russia's Invasion of Ukraine",
       "published_at": "2025-09-14T06:17:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "a4503bd488bb6218",
-      "title_orig": "At the YES 2025 Conference in Kyiv, U.S. envoy Keith Kellogg called Ukraine the global leader in drone technologies, stating the U.S. is “seriously behind.” He rejected comparisons to South Vietnam, saying Ukraine will endure as a state.",
-      "summary_orig": "submitted by /u/Icy_Till_7254 [link] [comments]",
-      "lang": "en",
-      "title_en": "At the YES 2025 Conference in Kyiv, U.S. envoy Keith Kellogg called Ukraine the global leader in drone technologies, stating the U.S. is “seriously behind.” He rejected comparisons to South Vietnam, saying Ukraine will endure as a state.",
-      "summary_en": "submitted by /u/Icy_Till_7254 [link] [comments]",
-      "title": "At the YES 2025 Conference in Kyiv, U.S. envoy Keith Kellogg called Ukraine the global leader in drone technologies, stating the U.S. is “seriously behind.” He rejected comparisons to South Vietnam, saying Ukraine will endure as a state.",
-      "summary": "submitted by /u/Icy_Till_7254 [link] [comments]",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1ngixfw/at_the_yes_2025_conference_in_kyiv_us_envoy_keith/",
-      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
-      "published_at": "2025-09-14T05:32:11+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3686,11 +3506,11 @@
       "id": "f1495fd701a044a4",
       "title_orig": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacio",
       "summary_orig": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacion # avión # avion # Luftfahrt # Flugzeuge",
-      "lang": "es",
+      "lang": "en",
       "title_en": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacio",
-      "summary_en": "Renew Airport Postcards. # Renew # Nevada # Airport # Aviation # Airplanes # Avgeek # Postcards # Postcard # Travel # Plane PPOTTING # AVIATION # AVIATION # APPROVAL # AVION # LUFTFAHRT # FLUGZEUGE",
+      "summary_en": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacion # avión # avion # Luftfahrt # Flugzeuge",
       "title": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacio",
-      "summary": "Renew Airport Postcards. # Renew # Nevada # Airport # Aviation # Airplanes # Avgeek # Postcards # Postcard # Travel # Plane PPOTTING # AVIATION # AVIATION # APPROVAL # AVION # LUFTFAHRT # FLUGZEUGE",
+      "summary": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacion # avión # avion # Luftfahrt # Flugzeuge",
       "url": "https://mastodon.online/@Aviation_Librarian/115179652015690890",
       "source": "#AirPort",
       "published_at": "2025-09-10T11:00:14+00:00",
@@ -4172,11 +3992,11 @@
       "id": "fd6860917ad0ab15",
       "title_orig": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b",
       "summary_orig": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e8%88%aa%e7%a9%ba212/ 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport 2025年6月14日、日本トランスオーシャン航空212便、久米島空港→那覇空港ボーイング B737-800(JA06RK)より撮影した那覇空港着陸の動画です。 On June 14, 2025, Japan Transo",
-      "lang": "en",
-      "title_en": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b",
-      "summary_en": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e8%88%aa%e7%a9%ba212/ 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport 2025年6月14日、日本トランスオーシャン航空212便、久米島空港→那覇空港ボーイング B737-800(JA06RK)より撮影した那覇空港着陸の動画です。 On June 14, 2025, Japan Transo",
-      "title": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b",
-      "summary": "https://www. alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e8%88%aa%e7%a9%ba212/ 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【那覇空港着陸】日本トランスオーシャン航空212便、久米島空港→那覇空港 Final Approach to Naha Airport 2025年6月14日、日本トランスオーシャン航空212便、久米島空港→那覇空港ボーイング B737-800(JA06RK)より撮影した那覇空港着陸の動画です。 On June 14, 2025, Japan Transo",
+      "lang": "pt",
+      "title_en": "https: // www. Alojapan.com/1362022/%E3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%88%e3%83%a9%e3%83%b3%e3%82%b",
+      "summary_en": "https://www.alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e8%88%aa%e7%a9%ba212/ [Landing at Naha Airport] Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Final Approach to Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # announcement # Airport # Haneda Airport # Naha # Naha Airport [Landing at Naha Airport] Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Final Approach to Naha Airport June 14, 2025, Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Boeing This is a video of landing at Naha Airport, taken from the B737-800 (JA06RK). On June 14, 2025, Japan Transo",
+      "title": "https: // www. Alojapan.com/1362022/%E3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%88%e3%83%a9%e3%83%b3%e3%82%b",
+      "summary": "https://www.alojapan.com/1362022/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e8%88%aa%e7%a9%ba212/ [Landing at Naha Airport] Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Final Approach to Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # announcement # Airport # Haneda Airport # Naha # Naha Airport [Landing at Naha Airport] Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Final Approach to Naha Airport June 14, 2025, Japan Transocean Airlines Flight 212, Kumejima Airport → Naha Airport Boeing This is a video of landing at Naha Airport, taken from the B737-800 (JA06RK). On June 14, 2025, Japan Transo",
       "url": "https://channels.im/@alojapan/115145492640399954",
       "source": "#AirPort",
       "published_at": "2025-09-04T10:13:03+00:00",
