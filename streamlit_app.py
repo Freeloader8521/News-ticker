@@ -1,4 +1,8 @@
 import os
+# Disable file watcher completely (fixes inotify EMFILE errors on Streamlit Cloud)
+os.environ["STREAMLIT_SERVER_FILE_WATCHER_TYPE"] = "none"
+
+import os
 import json
 from datetime import datetime
 import pytz
