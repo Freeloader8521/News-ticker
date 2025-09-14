@@ -1,213 +1,224 @@
 # streamlit_app.py
-
+import time
 import json
-from typing import Any, Dict, List
 from datetime import datetime
+from typing import Any, Dict, List
+from urllib.parse import urlparse
+
 import pytz
+import requests
+import pandas as pd
 import streamlit as st
 
-# ----------------------------- Page Config -----------------------------
+# --------------------------- Config ---------------------------
 st.set_page_config(
     page_title="Global Situational Awareness Dashboard",
     layout="wide",
-    initial_sidebar_state="collapsed",
 )
 
-# ----------------------------- Custom CSS -----------------------------
-st.markdown(
-    """
-    <style>
-    /* Force light theme colours */
-    html, body, [class*="st-"] {
-        color: #111 !important;
-        background: #ffffff !important;
-    }
+# Theme nudge: white background + visible control outlines
+st.markdown("""
+<style>
+/* Light, readable UI */
+html, body, [class*="st-"] {
+  background: #ffffff !important;
+  color: #111 !important;
+}
+/* Inputs / selects / buttons: subtle outline so they don't disappear on white */
+.stTextInput>div>div>input,
+.stMultiSelect [data-baseweb="select"] div[role="combobox"],
+.stToggleSwitch label {
+  border: 1px solid #cbd5e1 !important;
+  border-radius: 6px !important;
+}
+.stButton button {
+  border: 1px solid #cbd5e1 !important;
+  border-radius: 8px !important;
+}
+/* Cards */
+.block-container .card {
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: .9rem 1rem;
+  margin-bottom: .9rem;
+  background: #fff;
+}
+</style>
+""", unsafe_allow_html=True)
 
-    /* Container spacing */
-    .block-container {
-        padding-top: 1.5rem;
-        padding-bottom: 2rem;
-    }
+# Required secrets:
+# - DATA_JSON_URL: raw URL to data.json (your repo's raw GitHub link)
+# Optional secrets:
+# - STATUS_JSON_URL: raw URL to status.json (same repo; see collector instructions below)
+DATA_URL = st.secrets.get("DATA_JSON_URL", "").strip()
+STATUS_URL = st.secrets.get("STATUS_JSON_URL", "").strip()
 
-    /* Links */
-    a, a:visited { color: #0b5ed7 !important; text-decoration: none; }
-    a:hover { text-decoration: underline; }
+if not DATA_URL:
+    st.error("Missing secret: DATA_JSON_URL")
+    st.stop()
 
-    /* Headings */
-    h1, h2, h3, h4, h5, h6 { color: #111 !important; }
+# If STATUS_JSON_URL not set, assume it's the same folder as data.json
+if not STATUS_URL:
+    p = urlparse(DATA_URL)
+    if p.path.endswith("/data.json"):
+        STATUS_URL = DATA_URL[:-len("data.json")] + "status.json"
 
-    /* Inputs */
-    input, textarea, .stTextInput input, .stMultiSelect, .stSelectbox {
-      color: #111 !important;
-      background: #fff !important;
-    }
+# --------------------------- Helpers ---------------------------
+@st.cache_data(ttl=60)
+def fetch_json(url: str, timeout: int = 15) -> Dict[str, Any]:
+    r = requests.get(url, timeout=timeout, headers={"User-Agent": "GSA/streamlit"})
+    r.raise_for_status()
+    return r.json()
 
-    /* Style Refresh button */
-    button[kind="secondary"] {
-      border: 1px solid #333 !important;
-      border-radius: 6px !important;
-      background: #f8f8f8 !important;
-      color: #111 !important;
-      font-weight: 500;
-    }
-
-    /* Checkbox outline ("Translate to English") */
-    div[data-testid="stCheckbox"] {
-      border: 1px solid #333 !important;
-      border-radius: 6px !important;
-      padding: 6px 10px !important;
-      margin-bottom: 10px !important;
-      background: #f8f8f8 !important;
-    }
-
-    /* Article cards */
-    .article-card {
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      background: #f9f9f9;
-      padding: 1rem;
-      margin-bottom: 1rem;
-      box-shadow: 0 1px 2px rgba(0,0,0,0.05);
-    }
-    .article-card h3 {
-      margin-top: 0;
-      margin-bottom: 0.5rem;
-      font-size: 1.1rem;
-      font-weight: 700;
-      color: #111 !important;
-    }
-    .article-card p { margin: 0.2rem 0; color: #333 !important; }
-    .story-meta { color: #555 !important; font-size: 0.9rem; }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
-
-# ----------------------------- Header -----------------------------
-st.title("Global Situational Awareness Dashboard")
-
-# ----------------------------- Helpers -----------------------------
-UK_TZ = pytz.timezone("Europe/London")
-
-def pretty_dt_iso(iso: str) -> str:
-    """ISO UTC -> 'HH:MM, Friday 13 September 2025' in UK local time (with DST)."""
+def uk_dt_str(iso: str) -> str:
+    """Format ISO time in Europe/London as 'HH:MM, Friday 13 September 2025'."""
     if not iso:
         return ""
     try:
-        dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
-        dt_uk = dt.astimezone(UK_TZ)
+        dt_utc = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        uk = pytz.timezone("Europe/London")
+        dt_uk = dt_utc.astimezone(uk)
         return dt_uk.strftime("%H:%M, %A %d %B %Y")
     except Exception:
         return iso
 
-def load_data() -> Dict[str, Any]:
-    try:
-        with open("data.json", "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return {"generated_at": "", "items": []}
+def get_text(it: Dict[str, Any], field: str, translate_on: bool) -> str:
+    if translate_on:
+        return it.get(f"{field}_en") or it.get(field) or ""
+    return it.get(f"{field}_orig") or it.get(field) or ""
 
-def choose_text(it: Dict[str, Any], translate: bool, key: str) -> str:
-    """Return translated or original field with sensible fallback."""
-    if translate:
-        if key == "title":
-            return it.get("title_en") or it.get("title") or it.get("title_orig") or "(no title)"
-        if key == "summary":
-            return it.get("summary_en") or it.get("summary") or it.get("summary_orig") or ""
-    else:
-        if key == "title":
-            return it.get("title") or it.get("title_orig") or it.get("title_en") or "(no title)"
-        if key == "summary":
-            return it.get("summary") or it.get("summary_orig") or it.get("summary_en") or ""
-    return ""
-
-def meta_line(it: Dict[str, Any]) -> str:
-    src = it.get("source", "Unknown")
-    when = pretty_dt_iso(it.get("published_at"))
-    geo = it.get("geo") or {}
-    loc_bits = [x for x in [geo.get("airport"), geo.get("city"), geo.get("country"), geo.get("iata")] if x]
-    loc = " | ".join(loc_bits)
-    parts = [src, when] + ([loc] if loc else [])
-    return " | ".join(parts)
-
-def render_card(it: Dict[str, Any], translate: bool):
-    title = choose_text(it, translate, "title")
-    summary = choose_text(it, translate, "summary")
-    if not title and summary:
-        title = (summary.split("\n")[0].split(".")[0] or "(no title)")
-    title = title or "(no title)"
-    url = it.get("url") or "#"
-    meta = meta_line(it)
-
-    st.markdown(
-        f"""
-        <div class="article-card">
-          <h3>{title}</h3>
-          <p class="story-meta"><em>{meta}</em></p>
-          <p class="story-summary">{summary}</p>
-          <p style="margin-top:.4rem;"><a href="{url}" target="_blank">Open source</a></p>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
-
-# ----------------------------- Data & Header Row -----------------------------
-data = load_data()
-last_gen = pretty_dt_iso(data.get("generated_at"))
-
-hdr_left, hdr_right = st.columns([3, 1])
-with hdr_left:
-    st.markdown(
-        f"""
-        <div style="margin: 0.4rem 0 0.6rem 0;">
-            <span style="font-size:1.05rem; font-weight:700;">Last update:</span>
-            <span style="font-size:1.0rem;">{last_gen}</span>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
-with hdr_right:
-    if st.button("Refresh", type="secondary", use_container_width=True):
-        st.rerun()
-
-# ----------------------------- Controls -----------------------------
-translate = st.checkbox("Translate to English", value=True, help="Show translated titles and summaries when available.")
-ctl1, ctl2 = st.columns([2, 1])
-with ctl1:
-    q = st.text_input("Search", "")
-with ctl2:
-    type_choices = ["major news", "local news", "social"]
-    type_filter = st.multiselect("Type", type_choices, default=type_choices)
-
-def keep_item(it: Dict[str, Any]) -> bool:
-    if type_filter and it.get("type") not in type_filter:
+def passes_filters(it: Dict[str, Any], search: str, types: List[str], translate_on: bool) -> bool:
+    if types and it.get("type") not in types:
         return False
-    if q:
-        blob = " ".join([
-            choose_text(it, translate, "title"),
-            choose_text(it, translate, "summary"),
-            it.get("source", ""),
-            " ".join(it.get("tags", [])),
-            json.dumps(it.get("geo", {})),
-        ]).lower()
-        return q.lower() in blob
+    if search:
+        hay = (get_text(it, "title", translate_on) + " " +
+               get_text(it, "summary", translate_on)).lower()
+        if search.lower() not in hay:
+            return False
     return True
 
-items: List[Dict[str, Any]] = [it for it in (data.get("items") or []) if keep_item(it)]
-items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+def render_item(it: Dict[str, Any], translate_on: bool) -> None:
+    title = get_text(it, "title", translate_on) or "(no title)"
+    summary = get_text(it, "summary", translate_on)
+    with st.container():
+        st.markdown(f"**{title}**")
+        meta_bits = []
+        if it.get("source"):
+            meta_bits.append(it["source"])
+        if it.get("published_at"):
+            meta_bits.append(uk_dt_str(it["published_at"]))
+        if it.get("geo") and isinstance(it["geo"], dict):
+            g = it["geo"]
+            loc = " | ".join([x for x in [g.get("airport"), g.get("city"), g.get("country")] if x])
+            if loc:
+                meta_bits.append(loc)
+        if meta_bits:
+            st.caption(" | ".join(meta_bits))
+        if summary:
+            st.write(summary)
+        if it.get("url"):
+            st.markdown(f"[Open source]({it['url']})")
+        st.divider()
 
-# ----------------------------- Layout -----------------------------
-col_live, col_social = st.columns((2, 1))
+# --------------------------- Header ---------------------------
+left, right = st.columns([0.85, 0.15])
+with left:
+    st.title("Global Situational Awareness Dashboard")
+with right:
+    # Refresh with visible feedback
+    if st.button("🔄 Refresh", use_container_width=True):
+        st.toast("Refreshing…")
+        with st.spinner("Rebuilding view…"):
+            try:
+                st.cache_data.clear()
+            except Exception:
+                pass
+            time.sleep(0.2)
+            try:
+                st.rerun()
+            except Exception:
+                st.experimental_rerun()
 
-with col_live:
+# Load data.json (always show *current* data)
+try:
+    data = fetch_json(DATA_URL)
+except Exception as ex:
+    st.error(f"Failed to load data.json: {ex}")
+    st.stop()
+
+generated = data.get("generated_at", "")
+st.caption(f"**Last update:** {uk_dt_str(generated)}")
+
+# --------------------------- Controls ---------------------------
+controls_left, controls_right = st.columns([0.55, 0.45])
+
+with controls_left:
+    # Proper on/off switch for translation
+    if "translate_to_en" not in st.session_state:
+        st.session_state.translate_to_en = False
+    st.session_state.translate_to_en = st.toggle(
+        "Translate to English",
+        value=st.session_state.translate_to_en,
+        help="Show machine-translated titles and summaries where available."
+    )
+    search = st.text_input("Search", "")
+
+with controls_right:
+    type_choices = ["major news", "local news", "social"]
+    selected_types = st.multiselect(
+        "Type",
+        type_choices,
+        default=type_choices,
+    )
+
+# --------------------------- Live progress (status.json) ---------------------------
+# If the collector is running and writing status.json in your repo during the job,
+# show a progress bar. (See instructions below to enable this in collector/workflow.)
+if STATUS_URL:
+    try:
+        status = fetch_json(STATUS_URL, timeout=8)
+    except Exception:
+        status = {}
+
+    # Expected shape:
+    # {"state":"running"|"idle"|"done",
+    #  "stage":"news"/"official"/"weather"/"social",
+    #  "current": 17, "total": 53,
+    #  "last_feed":"example.com/rss",
+    #  "updated_at":"…ISO…"}
+    state = status.get("state", "idle")
+    if state == "running":
+        cur = int(status.get("current", 0))
+        tot = max(int(status.get("total", 1)), 1)
+        pct = min(max(cur / tot, 0.0), 1.0)
+        prog = st.progress(pct, text=f"Collecting feeds ({cur}/{tot}) — {status.get('stage','')}")
+        # Also show last touched feed
+        if status.get("last_feed"):
+            st.caption(f"Last feed: {status['last_feed']}")
+    elif state == "done":
+        st.info("Collector finished. Press **Refresh** to load the latest items.")
+    # else: idle → no bar
+
+st.divider()
+
+# --------------------------- Body ---------------------------
+live_col, social_col = st.columns(2)
+
+items: List[Dict[str, Any]] = data.get("items", [])
+translate_on = st.session_state.translate_to_en
+
+with live_col:
     st.subheader("Live feed")
     for it in items:
-        if it.get("type") in ("major news", "local news"):
-            render_card(it, translate)
+        if it.get("type") == "social":
+            continue
+        if passes_filters(it, search, selected_types, translate_on):
+            render_item(it, translate_on)
 
-with col_social:
+with social_col:
     st.subheader("Social media")
     for it in items:
-        if it.get("type") == "social":
-            render_card(it, translate)
-
+        if it.get("type") != "social":
+            continue
+        if passes_filters(it, search, selected_types, translate_on):
+            render_item(it, translate_on)
