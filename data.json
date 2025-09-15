@@ -1,6 +1,465 @@
 {
-  "generated_at": "2025-09-15T15:35:56.665423+00:00",
+  "generated_at": "2025-09-15T16:46:09.767444+00:00",
   "items": [
+    {
+      "id": "07cf4b1fbbad0a67",
+      "title_orig": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
+      "summary_orig": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
+      "lang": "en",
+      "title_en": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
+      "summary_en": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
+      "title": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
+      "summary": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
+      "url": "https://mastodon.social/@AirportStatusBot/115209319795902061",
+      "source": "#airport",
+      "published_at": "2025-09-15T16:45:08+00:00",
+      "tags": [
+        "SFO",
+        "United States",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "San Francisco",
+        "city": "San Francisco",
+        "country": "United States",
+        "iata": "SFO",
+        "lat": 37.6213,
+        "lon": -122.379
+      }
+    },
+    {
+      "id": "d051438e8087db2b",
+      "title_orig": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
+      "summary_orig": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
+      "lang": "en",
+      "title_en": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
+      "summary_en": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
+      "title": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
+      "summary": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
+      "url": "https://mastodon.social/@AirportStatusBot/115209319647748969",
+      "source": "#airport",
+      "published_at": "2025-09-15T16:45:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "354d9dfe622929e3",
+      "title_orig": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight",
+      "summary_orig": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight.A single seat jet powered aircraft that was intended to reach a terminal velocity of 805kmh(500mph)and as a result the designers adopted a prone position for the pilot.It would also have made use of a computerised sighting system enabling it to be more accurate at speed # ww2 # worldwar2 # germany # henschel # aircraft # aviation # jet engined",
+      "lang": "en",
+      "title_en": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight",
+      "summary_en": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight.A single seat jet powered aircraft that was intended to reach a terminal velocity of 805kmh(500mph)and as a result the designers adopted a prone position for the pilot.It would also have made use of a computerised sighting system enabling it to be more accurate at speed # ww2 # worldwar2 # germany # henschel # aircraft # aviation # jet engined",
+      "title": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight",
+      "summary": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight.A single seat jet powered aircraft that was intended to reach a terminal velocity of 805kmh(500mph)and as a result the designers adopted a prone position for the pilot.It would also have made use of a computerised sighting system enabling it to be more accurate at speed # ww2 # worldwar2 # germany # henschel # aircraft # aviation # jet engined",
+      "url": "https://mastodon.social/@theworldatwar/115209317923721875",
+      "source": "#aviation",
+      "published_at": "2025-09-15T16:44:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "4e6c531820e7b253",
+      "title_orig": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/e",
+      "summary_orig": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/en # ozark # usa # cairnsaaffortruckerairfieldairport # kozr # ozr # airport # aviation # avgeek vl",
+      "lang": "en",
+      "title_en": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/e",
+      "summary_en": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/en # ozark # usa # cairnsaaffortruckerairfieldairport # kozr # ozr # airport # aviation # avgeek vl",
+      "title": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/e",
+      "summary": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/en # ozark # usa # cairnsaaffortruckerairfieldairport # kozr # ozr # airport # aviation # avgeek vl",
+      "url": "https://mastodon.social/@bigorre_org/115209306900769180",
+      "source": "#aviation",
+      "published_at": "2025-09-15T16:41:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "779bc9d677e965e8",
+      "title_orig": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/met",
+      "summary_orig": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/meteo/ltfm/en # istanbul # turkey # istanbulairport # ltfm # ist # metar # aviation # aviationweather # avgeek # airport vl",
+      "lang": "en",
+      "title_en": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/met",
+      "summary_en": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/meteo/ltfm/en # istanbul # turkey # istanbulairport # ltfm # ist # metar # aviation # aviationweather # avgeek # airport vl",
+      "title": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/met",
+      "summary": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/meteo/ltfm/en # istanbul # turkey # istanbulairport # ltfm # ist # metar # aviation # aviationweather # avgeek # airport vl",
+      "url": "https://mastodon.social/@bigorre_org/115209287905905460",
+      "source": "#aviation",
+      "published_at": "2025-09-15T16:37:02+00:00",
+      "tags": [
+        "IST",
+        "Türkiye",
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {
+        "airport": "Istanbul",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "iata": "IST",
+        "lat": 41.2753,
+        "lon": 28.7519
+      }
+    },
+    {
+      "id": "da88483c406faf61",
+      "title_orig": "Russia and Belarus carry out military drills amid rising tension – Europe live",
+      "summary_orig": "Allies rehearsing scenarios of an attack on Belarus in the first such exercises since Russia invaded Ukraine EU trade spokesperson Olof Gill also defended the EU’s sanctions from criticism that they are not going far enough. He said: “Our assessment is that the successive sanctions packages we have brought forward, which includes new initiatives plus additional initiatives to make the previous one stronger if that makes sense, our assessment is that those sanctions are working. The economic evidence shows that they are having an impact on the Russian economy, and that is precisely what they intended to do. “Phasing out of Russian fossil fuels is something that we have been doing and are doing actively for a number already of years, since the beginning of the war, with a very clear roadmap, with now even a clear legislative proposal in order to phase out the remaining gas still entering the EU. … This is something on which the EU has been very actively and we have a very, very clear roadmap, and how to go about it.” Continue reading...",
+      "lang": "en",
+      "title_en": "Russia and Belarus carry out military drills amid rising tension – Europe live",
+      "summary_en": "Allies rehearsing scenarios of an attack on Belarus in the first such exercises since Russia invaded Ukraine EU trade spokesperson Olof Gill also defended the EU’s sanctions from criticism that they are not going far enough. He said: “Our assessment is that the successive sanctions packages we have brought forward, which includes new initiatives plus additional initiatives to make the previous one stronger if that makes sense, our assessment is that those sanctions are working. The economic evidence shows that they are having an impact on the Russian economy, and that is precisely what they intended to do. “Phasing out of Russian fossil fuels is something that we have been doing and are doing actively for a number already of years, since the beginning of the war, with a very clear roadmap, with now even a clear legislative proposal in order to phase out the remaining gas still entering the EU. … This is something on which the EU has been very actively and we have a very, very clear roadmap, and how to go about it.” Continue reading...",
+      "title": "Russia and Belarus carry out military drills amid rising tension – Europe live",
+      "summary": "Allies rehearsing scenarios of an attack on Belarus in the first such exercises since Russia invaded Ukraine EU trade spokesperson Olof Gill also defended the EU’s sanctions from criticism that they are not going far enough. He said: “Our assessment is that the successive sanctions packages we have brought forward, which includes new initiatives plus additional initiatives to make the previous one stronger if that makes sense, our assessment is that those sanctions are working. The economic evidence shows that they are having an impact on the Russian economy, and that is precisely what they intended to do. “Phasing out of Russian fossil fuels is something that we have been doing and are doing actively for a number already of years, since the beginning of the war, with a very clear roadmap, with now even a clear legislative proposal in order to phase out the remaining gas still entering the EU. … This is something on which the EU has been very actively and we have a very, very clear roadmap, and how to go about it.” Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2025/sep/15/russia-ukraine-romania-poland-drone-trump-tariffs-europe-live-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-15T16:32:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "b4c495ba8a185699",
+      "title_orig": "Trump threatens to call national emergency in Washington DC over Ice cooperation – US politics live",
+      "summary_orig": "President vows to ‘federalize’ capital city after mayor says police will not work with Ice in immigration crackdown Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
+      "lang": "en",
+      "title_en": "Trump threatens to call national emergency in Washington DC over Ice cooperation – US politics live",
+      "summary_en": "President vows to ‘federalize’ capital city after mayor says police will not work with Ice in immigration crackdown Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
+      "title": "Trump threatens to call national emergency in Washington DC over Ice cooperation – US politics live",
+      "summary": "President vows to ‘federalize’ capital city after mayor says police will not work with Ice in immigration crackdown Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/15/donald-trump-politics-washington-dc-national-emergency-ice-charlie-kirk-live-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-15T16:26:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "dd43552344bc9db8",
+      "title_orig": "Exclusive: Russia's Kirishi oil refinery halts key unit after Ukrainian drone attack, sources say",
+      "summary_orig": "submitted by /u/rulepanic [link] [comments]",
+      "lang": "en",
+      "title_en": "Exclusive: Russia's Kirishi oil refinery halts key unit after Ukrainian drone attack, sources say",
+      "summary_en": "submitted by /u/rulepanic [link] [comments]",
+      "title": "Exclusive: Russia's Kirishi oil refinery halts key unit after Ukrainian drone attack, sources say",
+      "summary": "submitted by /u/rulepanic [link] [comments]",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1nhqh8n/exclusive_russias_kirishi_oil_refinery_halts_key/",
+      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
+      "published_at": "2025-09-15T16:23:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "c3693142b5de2f72",
+      "title_orig": "Bristol Bus Strike - full list of the services scrapped or reduced",
+      "summary_orig": "16 routes not running at all, 18 cut back to cope with bus drivers' strike",
+      "lang": "en",
+      "title_en": "Bristol Bus Strike - full list of the services scrapped or reduced",
+      "summary_en": "16 routes not running at all, 18 cut back to cope with bus drivers' strike",
+      "title": "Bristol Bus Strike - full list of the services scrapped or reduced",
+      "summary": "16 routes not running at all, 18 cut back to cope with bus drivers' strike",
+      "url": "https://www.bristolpost.co.uk/news/bristol-news/bristol-bus-strike-full-list-10501851",
+      "source": "Bristol Post - News",
+      "published_at": "2025-09-15T16:23:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4bd1f1f52db25fe5",
+      "title_orig": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. #",
+      "summary_orig": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. # AirportStatusBot",
+      "lang": "en",
+      "title_en": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. #",
+      "summary_en": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. # AirportStatusBot",
+      "title": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. #",
+      "summary": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. # AirportStatusBot",
+      "url": "https://mastodon.social/@AirportStatusBot/115209226778707100",
+      "source": "#airport",
+      "published_at": "2025-09-15T16:21:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "d4bc06d413580eae",
+      "title_orig": "Apple introduced Memory Integrity Enforcement (MIE) as a new memory safety feature new iPhone devices. MIE combines Apple silicon hardware with operating system",
+      "summary_orig": "Apple introduced Memory Integrity Enforcement (MIE) as a new memory safety feature new iPhone devices. MIE combines Apple silicon hardware with operating system security to block memory corruption attacks. https:// peterspath.net/blog/dev-memory -integrity-enforcement/ # development # dev # ios # apple # security",
+      "lang": "en",
+      "title_en": "Apple introduced Memory Integrity Enforcement (MIE) as a new memory safety feature new iPhone devices. MIE combines Apple silicon hardware with operating system",
+      "summary_en": "Apple introduced Memory Integrity Enforcement (MIE) as a new memory safety feature new iPhone devices. MIE combines Apple silicon hardware with operating system security to block memory corruption attacks. https:// peterspath.net/blog/dev-memory -integrity-enforcement/ # development # dev # ios # apple # security",
+      "title": "Apple introduced Memory Integrity Enforcement (MIE) as a new memory safety feature new iPhone devices. MIE combines Apple silicon hardware with operating system",
+      "summary": "Apple introduced Memory Integrity Enforcement (MIE) as a new memory safety feature new iPhone devices. MIE combines Apple silicon hardware with operating system security to block memory corruption attacks. https:// peterspath.net/blog/dev-memory -integrity-enforcement/ # development # dev # ios # apple # security",
+      "url": "https://mastodon.social/@peterspath/115209218206876158",
+      "source": "#security",
+      "published_at": "2025-09-15T16:19:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "484d6e293af27c34",
+      "title_orig": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https",
+      "summary_orig": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https://www. bigorre.org/aero/meteo/kgcy/en # greeneville # usa # greenevillegreenecountymunicipalairport # kgcy # gcy # metar # aviation # aviationweather # avgeek # airport vl",
+      "lang": "en",
+      "title_en": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https",
+      "summary_en": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https://www. bigorre.org/aero/meteo/kgcy/en # greeneville # usa # greenevillegreenecountymunicipalairport # kgcy # gcy # metar # aviation # aviationweather # avgeek # airport vl",
+      "title": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https",
+      "summary": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https://www. bigorre.org/aero/meteo/kgcy/en # greeneville # usa # greenevillegreenecountymunicipalairport # kgcy # gcy # metar # aviation # aviationweather # avgeek # airport vl",
+      "url": "https://mastodon.social/@bigorre_org/115209208056585652",
+      "source": "#aviation",
+      "published_at": "2025-09-15T16:16:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "36ce4c998cc03a96",
+      "title_orig": "US’s Rubio says efforts to recognise Palestinian state make it harder to end war – Middle East crisis live",
+      "summary_orig": "Secretary of state holds press conference with Benjamin Netanyahu during visit to Jerusalem That brings the press conference to a close, as Netanyahu takes a moment to acknowledge both his and Rubio’s staff who are sat in the front row. The main takeaways from the event, which lasted just over half an hour, are that the US views international efforts to recognise the Palestinian state as a hindrance to peace efforts and that Netanyahu refuses to rule out future strikes on Hamas leaders – wherever they are. Continue reading...",
+      "lang": "en",
+      "title_en": "US’s Rubio says efforts to recognise Palestinian state make it harder to end war – Middle East crisis live",
+      "summary_en": "Secretary of state holds press conference with Benjamin Netanyahu during visit to Jerusalem That brings the press conference to a close, as Netanyahu takes a moment to acknowledge both his and Rubio’s staff who are sat in the front row. The main takeaways from the event, which lasted just over half an hour, are that the US views international efforts to recognise the Palestinian state as a hindrance to peace efforts and that Netanyahu refuses to rule out future strikes on Hamas leaders – wherever they are. Continue reading...",
+      "title": "US’s Rubio says efforts to recognise Palestinian state make it harder to end war – Middle East crisis live",
+      "summary": "Secretary of state holds press conference with Benjamin Netanyahu during visit to Jerusalem That brings the press conference to a close, as Netanyahu takes a moment to acknowledge both his and Rubio’s staff who are sat in the front row. The main takeaways from the event, which lasted just over half an hour, are that the US views international efforts to recognise the Palestinian state as a hindrance to peace efforts and that Netanyahu refuses to rule out future strikes on Hamas leaders – wherever they are. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2025/sep/15/israel-gaza-hamas-qatar-marco-rubio-netanyahu-middle-east-crisis-live-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-15T16:14:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "d34423205322b726",
+      "title_orig": "Manchester Airport officials thought there was something wrong, they were right",
+      "summary_orig": "Oliver Chiverton was handed a suspended sentence after he was stopped at Manchester Airport",
+      "lang": "en",
+      "title_en": "Manchester Airport officials thought there was something wrong, they were right",
+      "summary_en": "Oliver Chiverton was handed a suspended sentence after he was stopped at Manchester Airport",
+      "title": "Manchester Airport officials thought there was something wrong, they were right",
+      "summary": "Oliver Chiverton was handed a suspended sentence after he was stopped at Manchester Airport",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-airport-arrest-passenger-uk-32481511",
+      "source": "MEN - News",
+      "published_at": "2025-09-15T16:13:20+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "e9a0df14ff5fe3a1",
+      "title_orig": "Drills in Belarus and drone incursions into Romania: How the war in Ukraine has already become a European conflict",
+      "summary_orig": "Romania became the latest Nato member to scramble fighter jets after a Russian drone entered its airspace",
+      "lang": "en",
+      "title_en": "Drills in Belarus and drone incursions into Romania: How the war in Ukraine has already become a European conflict",
+      "summary_en": "Romania became the latest Nato member to scramble fighter jets after a Russian drone entered its airspace",
+      "title": "Drills in Belarus and drone incursions into Romania: How the war in Ukraine has already become a European conflict",
+      "summary": "Romania became the latest Nato member to scramble fighter jets after a Russian drone entered its airspace",
+      "url": "https://www.independent.co.uk/news/world/europe/war-ukraine-russia-europe-conflict-belarus-romania-poland-b2826859.html",
+      "source": "The Independent World",
+      "published_at": "2025-09-15T16:11:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "66cfe5fafaa27d70",
+      "title_orig": "OpenAI's GPT-5 still vulnerable to prompt injection attacks (56.8% success). Hidden malicious instructions in documents can manipulate AI responses, ex: telling",
+      "summary_orig": "OpenAI's GPT-5 still vulnerable to prompt injection attacks (56.8% success). Hidden malicious instructions in documents can manipulate AI responses, ex: telling chatbots to recommend removing liability protections as standard practice ... https:// bryl.link/4vb # AI # Security",
+      "lang": "en",
+      "title_en": "OpenAI's GPT-5 still vulnerable to prompt injection attacks (56.8% success). Hidden malicious instructions in documents can manipulate AI responses, ex: telling",
+      "summary_en": "OpenAI's GPT-5 still vulnerable to prompt injection attacks (56.8% success). Hidden malicious instructions in documents can manipulate AI responses, ex: telling chatbots to recommend removing liability protections as standard practice ... https:// bryl.link/4vb # AI # Security",
+      "title": "OpenAI's GPT-5 still vulnerable to prompt injection attacks (56.8% success). Hidden malicious instructions in documents can manipulate AI responses, ex: telling",
+      "summary": "OpenAI's GPT-5 still vulnerable to prompt injection attacks (56.8% success). Hidden malicious instructions in documents can manipulate AI responses, ex: telling chatbots to recommend removing liability protections as standard practice ... https:// bryl.link/4vb # AI # Security",
+      "url": "https://mastodon.social/@bryley/115209153154286029",
+      "source": "#security",
+      "published_at": "2025-09-15T16:02:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "e8509798585f6dcf",
+      "title_orig": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # Ai",
+      "summary_orig": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
+      "lang": "en",
+      "title_en": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # Ai",
+      "summary_en": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
+      "title": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # Ai",
+      "summary": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
+      "url": "https://mastodon.social/@AirportStatusBot/115209150962056149",
+      "source": "#airport",
+      "published_at": "2025-09-15T16:02:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "d5dacef05f2df7b9",
+      "title_orig": "‘Tinder Swindler’ Shimon Hayut arrested in Georgia on Interpol request",
+      "summary_orig": "Hayut, a convicted fraudster who was focus of a Netflix documentary, was detained on as-yet unknown grounds A convicted con artist who was the focus of the Netflix documentary The Tinder Swindler has been arrested in Georgia on Interpol’s request, officials have said. Shimon Yehuda Hayut, also known as Simon Leviev, was taken into custody on Sunday as he arrived at Batumi international airport in the south-west of the country. Continue reading...",
+      "lang": "en",
+      "title_en": "‘Tinder Swindler’ Shimon Hayut arrested in Georgia on Interpol request",
+      "summary_en": "Hayut, a convicted fraudster who was focus of a Netflix documentary, was detained on as-yet unknown grounds A convicted con artist who was the focus of the Netflix documentary The Tinder Swindler has been arrested in Georgia on Interpol’s request, officials have said. Shimon Yehuda Hayut, also known as Simon Leviev, was taken into custody on Sunday as he arrived at Batumi international airport in the south-west of the country. Continue reading...",
+      "title": "‘Tinder Swindler’ Shimon Hayut arrested in Georgia on Interpol request",
+      "summary": "Hayut, a convicted fraudster who was focus of a Netflix documentary, was detained on as-yet unknown grounds A convicted con artist who was the focus of the Netflix documentary The Tinder Swindler has been arrested in Georgia on Interpol’s request, officials have said. Shimon Yehuda Hayut, also known as Simon Leviev, was taken into custody on Sunday as he arrived at Batumi international airport in the south-west of the country. Continue reading...",
+      "url": "https://www.theguardian.com/world/2025/sep/15/tinder-swindler-shimon-hayut-simon-leviev-arrest-georgia-interpol",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-15T16:01:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "ee0e19f1000522d9",
+      "title_orig": "Fifty Arab leaders host urgent summit in Qatar over Israel’s ‘treacherous’ Doha bombing",
+      "summary_orig": "The unprecedented meeting of so many leaders shows the seriousness of the emergency summit as Netanyahu hints of further strikes against Hamas on the horizon",
+      "lang": "en",
+      "title_en": "Fifty Arab leaders host urgent summit in Qatar over Israel’s ‘treacherous’ Doha bombing",
+      "summary_en": "The unprecedented meeting of so many leaders shows the seriousness of the emergency summit as Netanyahu hints of further strikes against Hamas on the horizon",
+      "title": "Fifty Arab leaders host urgent summit in Qatar over Israel’s ‘treacherous’ Doha bombing",
+      "summary": "The unprecedented meeting of so many leaders shows the seriousness of the emergency summit as Netanyahu hints of further strikes against Hamas on the horizon",
+      "url": "https://www.independent.co.uk/news/world/middle-east/qatar-arab-leaders-israel-bombing-b2826899.html",
+      "source": "The Independent World",
+      "published_at": "2025-09-15T15:59:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5340c7d3aa1bc78a",
+      "title_orig": "Panic as families given ‘minutes to flee’ before Israel destroys tower",
+      "summary_orig": "Residents of the Mahna Tower in Gaza City were ordered to evacuate just minutes before it was bombed by Israel.",
+      "lang": "en",
+      "title_en": "Panic as families given ‘minutes to flee’ before Israel destroys tower",
+      "summary_en": "Residents of the Mahna Tower in Gaza City were ordered to evacuate just minutes before it was bombed by Israel.",
+      "title": "Panic as families given ‘minutes to flee’ before Israel destroys tower",
+      "summary": "Residents of the Mahna Tower in Gaza City were ordered to evacuate just minutes before it was bombed by Israel.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/panic-as-families-given-minutes-to-flee-before-israel-destroys-tower?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-15T15:58:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "15de814965d2b461",
+      "title_orig": "DNA evidence links suspect to killing of Charlie Kirk, FBI director says",
+      "summary_orig": "Kash Patel says DNA found on towel wrapped around rifle believed to have been used to kill Kirk matches that of Tyler Robinson Kash Patel, the director of the FBI , has said that DNA evidence found by investigators links the man accused of killing rightwing political activist Charlie Kirk to the fatal attack despite his alleged refusal to cooperate with authorities after his arrest. Speaking on the conservative-friendly Fox News network on Monday morning, Patel said that DNA found on a towel wrapped around the rifle believed to have been used to kill Kirk matches that of the suspect in custody, 22-year-old Tyler Robinson. Continue reading...",
+      "lang": "en",
+      "title_en": "DNA evidence links suspect to killing of Charlie Kirk, FBI director says",
+      "summary_en": "Kash Patel says DNA found on towel wrapped around rifle believed to have been used to kill Kirk matches that of Tyler Robinson Kash Patel, the director of the FBI , has said that DNA evidence found by investigators links the man accused of killing rightwing political activist Charlie Kirk to the fatal attack despite his alleged refusal to cooperate with authorities after his arrest. Speaking on the conservative-friendly Fox News network on Monday morning, Patel said that DNA found on a towel wrapped around the rifle believed to have been used to kill Kirk matches that of the suspect in custody, 22-year-old Tyler Robinson. Continue reading...",
+      "title": "DNA evidence links suspect to killing of Charlie Kirk, FBI director says",
+      "summary": "Kash Patel says DNA found on towel wrapped around rifle believed to have been used to kill Kirk matches that of Tyler Robinson Kash Patel, the director of the FBI , has said that DNA evidence found by investigators links the man accused of killing rightwing political activist Charlie Kirk to the fatal attack despite his alleged refusal to cooperate with authorities after his arrest. Speaking on the conservative-friendly Fox News network on Monday morning, Patel said that DNA found on a towel wrapped around the rifle believed to have been used to kill Kirk matches that of the suspect in custody, 22-year-old Tyler Robinson. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2025/sep/15/dna-evidence-charlie-kirk-shooter",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-15T15:54:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "7f6056270d595e2e",
+      "title_orig": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # us",
+      "summary_orig": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # usa # phoenixskyharborinternationalairport # kphx # phx # airport # aviation # avgeek vl",
+      "lang": "en",
+      "title_en": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # us",
+      "summary_en": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # usa # phoenixskyharborinternationalairport # kphx # phx # airport # aviation # avgeek vl",
+      "title": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # us",
+      "summary": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # usa # phoenixskyharborinternationalairport # kphx # phx # airport # aviation # avgeek vl",
+      "url": "https://mastodon.social/@bigorre_org/115209110455295817",
+      "source": "#airport",
+      "published_at": "2025-09-15T15:51:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "5445bb10f5260b6b",
+      "title_orig": "Is Moscow declaring war to NATO?",
+      "summary_orig": "The Kremlin declared on Monday that NATO is already at war with Russia, arguing that the alliance's strong and unwavering support for Ukraine leaves no need for further evidence. This statement is likely to heighten concerns among NATO members, especially after recent Russian drone incursions into Polish and Romanian airspace. While Moscow has denied that these incidents were intentional, NATO allies are speculating about Russia's motives, with many believing Russia is testing NATO’s readiness—and possibly the US’s commitment to European security.",
+      "lang": "en",
+      "title_en": "Is Moscow declaring war to NATO?",
+      "summary_en": "The Kremlin declared on Monday that NATO is already at war with Russia, arguing that the alliance's strong and unwavering support for Ukraine leaves no need for further evidence. This statement is likely to heighten concerns among NATO members, especially after recent Russian drone incursions into Polish and Romanian airspace. While Moscow has denied that these incidents were intentional, NATO allies are speculating about Russia's motives, with many believing Russia is testing NATO’s readiness—and possibly the US’s commitment to European security.",
+      "title": "Is Moscow declaring war to NATO?",
+      "summary": "The Kremlin declared on Monday that NATO is already at war with Russia, arguing that the alliance's strong and unwavering support for Ukraine leaves no need for further evidence. This statement is likely to heighten concerns among NATO members, especially after recent Russian drone incursions into Polish and Romanian airspace. While Moscow has denied that these incidents were intentional, NATO allies are speculating about Russia's motives, with many believing Russia is testing NATO’s readiness—and possibly the US’s commitment to European security.",
+      "url": "https://www.france24.com/en/video/20250915-is-moscow-declaring-war-to-nato",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-15T15:43:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ba1a69c28d42c198",
+      "title_orig": "Israel demolishes more high-rise towers as Gaza City offensive ramps up",
+      "summary_orig": "BBC Verify's Merlyn Thomas looks at the latest Israeli strikes on buildings in Gaza City city over the weekend.",
+      "lang": "en",
+      "title_en": "Israel demolishes more high-rise towers as Gaza City offensive ramps up",
+      "summary_en": "BBC Verify's Merlyn Thomas looks at the latest Israeli strikes on buildings in Gaza City city over the weekend.",
+      "title": "Israel demolishes more high-rise towers as Gaza City offensive ramps up",
+      "summary": "BBC Verify's Merlyn Thomas looks at the latest Israeli strikes on buildings in Gaza City city over the weekend.",
+      "url": "https://www.bbc.com/news/videos/cr5q8mj6nrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-15T15:40:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "8f387af6332c7e51",
       "title_orig": "Aviation weather for Indira Gandhi International airport in New Delhi area (India) is “VIDP 151500Z VRB02KT 5000 HZ FEW100 32/23 Q1005 NOSIG” :  See what it mea",
@@ -11,7 +470,7 @@
       "title": "Aviation weather for Indira Gandhi International airport in New Delhi area (India) is “VIDP 151500Z VRB02KT 5000 HZ FEW100 32/23 Q1005 NOSIG” :  See what it mea",
       "summary": "Aviation weather for Indira Gandhi International airport in New Delhi area (India) is “VIDP 151500Z VRB02KT 5000 HZ FEW100 32/23 Q1005 NOSIG” :  See what it means on https://www. bigorre.org/aero/meteo/vidp/en # newdelhi # india # indiragandhiinternationalairport # vidp # del # metar # aviation # aviationweather # avgeek # airport vl",
       "url": "https://mastodon.social/@bigorre_org/115209031245387145",
-      "source": "#aviation",
+      "source": "#airport",
       "published_at": "2025-09-15T15:31:45+00:00",
       "tags": [
         "airport/security"
@@ -47,7 +506,7 @@
       "title": "Aviation weather for Gwinnett County Briscoe Field airport in Lawrenceville area (USA) is “KLZU 151456Z 07004KT 10SM CLR 26/14 A3018 RMK AO2 SLP224 T02560144 53",
       "summary": "Aviation weather for Gwinnett County Briscoe Field airport in Lawrenceville area (USA) is “KLZU 151456Z 07004KT 10SM CLR 26/14 A3018 RMK AO2 SLP224 T02560144 53010” :  See what it means on https://www. bigorre.org/aero/meteo/klzu/en # lawrenceville # usa # gwinnettcountybriscoefieldairport # klzu # lzu # metar # aviation # aviationweather # avgeek # airport vl",
       "url": "https://mastodon.social/@bigorre_org/115209011620557315",
-      "source": "#aviation",
+      "source": "#airport",
       "published_at": "2025-09-15T15:26:46+00:00",
       "tags": [
         "airport/security"
@@ -71,24 +530,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b4c495ba8a185699",
-      "title_orig": "Trump threatens to call national emergency in Washington DC over Ice cooperation – US politics live",
-      "summary_orig": "President vows to ‘federalize’ capital city after mayor says police will not work with Ice in immigration crackdown Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
-      "lang": "en",
-      "title_en": "Trump threatens to call national emergency in Washington DC over Ice cooperation – US politics live",
-      "summary_en": "President vows to ‘federalize’ capital city after mayor says police will not work with Ice in immigration crackdown Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
-      "title": "Trump threatens to call national emergency in Washington DC over Ice cooperation – US politics live",
-      "summary": "President vows to ‘federalize’ capital city after mayor says police will not work with Ice in immigration crackdown Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/15/donald-trump-politics-washington-dc-national-emergency-ice-charlie-kirk-live-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-15T15:15:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -164,24 +605,6 @@
       "geo": {}
     },
     {
-      "id": "da88483c406faf61",
-      "title_orig": "Russia and Belarus carry out military drills amid rising tension – Europe live",
-      "summary_orig": "Allies rehearsing scenarios of an attack on Belarus in the first such exercises since Russia invaded Ukraine EU trade spokesperson Olof Gill also defended the EU’s sanctions from criticism that they are not going far enough. He said: “Our assessment is that the successive sanctions packages we have brought forward, which includes new initiatives plus additional initiatives to make the previous one stronger if that makes sense, our assessment is that those sanctions are working. The economic evidence shows that they are having an impact on the Russian economy, and that is precisely what they intended to do. “Phasing out of Russian fossil fuels is something that we have been doing and are doing actively for a number already of years, since the beginning of the war, with a very clear roadmap, with now even a clear legislative proposal in order to phase out the remaining gas still entering the EU. … This is something on which the EU has been very actively and we have a very, very clear roadmap, and how to go about it.” Continue reading...",
-      "lang": "en",
-      "title_en": "Russia and Belarus carry out military drills amid rising tension – Europe live",
-      "summary_en": "Allies rehearsing scenarios of an attack on Belarus in the first such exercises since Russia invaded Ukraine EU trade spokesperson Olof Gill also defended the EU’s sanctions from criticism that they are not going far enough. He said: “Our assessment is that the successive sanctions packages we have brought forward, which includes new initiatives plus additional initiatives to make the previous one stronger if that makes sense, our assessment is that those sanctions are working. The economic evidence shows that they are having an impact on the Russian economy, and that is precisely what they intended to do. “Phasing out of Russian fossil fuels is something that we have been doing and are doing actively for a number already of years, since the beginning of the war, with a very clear roadmap, with now even a clear legislative proposal in order to phase out the remaining gas still entering the EU. … This is something on which the EU has been very actively and we have a very, very clear roadmap, and how to go about it.” Continue reading...",
-      "title": "Russia and Belarus carry out military drills amid rising tension – Europe live",
-      "summary": "Allies rehearsing scenarios of an attack on Belarus in the first such exercises since Russia invaded Ukraine EU trade spokesperson Olof Gill also defended the EU’s sanctions from criticism that they are not going far enough. He said: “Our assessment is that the successive sanctions packages we have brought forward, which includes new initiatives plus additional initiatives to make the previous one stronger if that makes sense, our assessment is that those sanctions are working. The economic evidence shows that they are having an impact on the Russian economy, and that is precisely what they intended to do. “Phasing out of Russian fossil fuels is something that we have been doing and are doing actively for a number already of years, since the beginning of the war, with a very clear roadmap, with now even a clear legislative proposal in order to phase out the remaining gas still entering the EU. … This is something on which the EU has been very actively and we have a very, very clear roadmap, and how to go about it.” Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2025/sep/15/russia-ukraine-romania-poland-drone-trump-tariffs-europe-live-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-15T15:12:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "01bb910a97b30b54",
       "title_orig": "Refueling in the rain?",
       "summary_orig": "Hey guys, I was thinking about going out and flying today to get some fuel from a neighboring airport, but I see it's supposed to rain tomorrow and I'd LOVE to get some IMC/approaches in. However, thinking about it, is it advisable to fuel while it's raining? I know I'd need to sunp fuel a few minutes after refueling, but I wanted to get some insight. Any thoughts? TIA! submitted by /u/Your_Answer_Is_No [link] [comments]",
@@ -197,6 +620,24 @@
         "airport/security"
       ],
       "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "ceee232539a45d89",
+      "title_orig": "Who are the 57 members of the Organisation of Islamic Cooperation?",
+      "summary_orig": "Representatives from the Arab and Muslim world have gathered in Doha to respond to Israel’s attack on Qatar.",
+      "lang": "en",
+      "title_en": "Who are the 57 members of the Organisation of Islamic Cooperation?",
+      "summary_en": "Representatives from the Arab and Muslim world have gathered in Doha to respond to Israel’s attack on Qatar.",
+      "title": "Who are the 57 members of the Organisation of Islamic Cooperation?",
+      "summary": "Representatives from the Arab and Muslim world have gathered in Doha to respond to Israel’s attack on Qatar.",
+      "url": "https://www.aljazeera.com/news/2025/9/15/who-are-the-57-members-of-the-organisation-of-islamic-cooperation?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-15T15:11:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -227,7 +668,7 @@
       "title": "Aviation weather for Lyons-Rice County Municipal airport (USA) is “KLYO 151435Z AUTO 18006KT 10SM CLR 21/19 A3008 RMK AO2 T02140193” :  See what it means on htt",
       "summary": "Aviation weather for Lyons-Rice County Municipal airport (USA) is “KLYO 151435Z AUTO 18006KT 10SM CLR 21/19 A3008 RMK AO2 T02140193” :  See what it means on https://www. bigorre.org/aero/meteo/klyo/en # lyons # usa # lyonsricecountymunicipalairport # klyo # lyo # metar # aviation # aviationweather # avgeek # airport vl",
       "url": "https://mastodon.social/@bigorre_org/115208914757879067",
-      "source": "#aviation",
+      "source": "#airport",
       "published_at": "2025-09-15T15:02:08+00:00",
       "tags": [
         "airport/security"
@@ -251,24 +692,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "36ce4c998cc03a96",
-      "title_orig": "US’s Rubio says efforts to recognise Palestinian state make it harder to end war – Middle East crisis live",
-      "summary_orig": "Secretary of state holds press conference with Benjamin Netanyahu during visit to Jerusalem That brings the press conference to a close, as Netanyahu takes a moment to acknowledge both his and Rubio’s staff who are sat in the front row. The main takeaways from the event, which lasted just over half an hour, are that the US views international efforts to recognise the Palestinian state as a hindrance to peace efforts and that Netanyahu refuses to rule out future strikes on Hamas leaders – wherever they are. Continue reading...",
-      "lang": "en",
-      "title_en": "US’s Rubio says efforts to recognise Palestinian state make it harder to end war – Middle East crisis live",
-      "summary_en": "Secretary of state holds press conference with Benjamin Netanyahu during visit to Jerusalem That brings the press conference to a close, as Netanyahu takes a moment to acknowledge both his and Rubio’s staff who are sat in the front row. The main takeaways from the event, which lasted just over half an hour, are that the US views international efforts to recognise the Palestinian state as a hindrance to peace efforts and that Netanyahu refuses to rule out future strikes on Hamas leaders – wherever they are. Continue reading...",
-      "title": "US’s Rubio says efforts to recognise Palestinian state make it harder to end war – Middle East crisis live",
-      "summary": "Secretary of state holds press conference with Benjamin Netanyahu during visit to Jerusalem That brings the press conference to a close, as Netanyahu takes a moment to acknowledge both his and Rubio’s staff who are sat in the front row. The main takeaways from the event, which lasted just over half an hour, are that the US views international efforts to recognise the Palestinian state as a hindrance to peace efforts and that Netanyahu refuses to rule out future strikes on Hamas leaders – wherever they are. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2025/sep/15/israel-gaza-hamas-qatar-marco-rubio-netanyahu-middle-east-crisis-live-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-15T14:55:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -299,7 +722,7 @@
       "title": "‘Her light shone so brightly’: Southport attack inquiry hears parents’ memories of their daughters",
       "summary": "Mothers of Elsie Dot Stancombe, Bebe King and Alice da Silva Aguiar also speak of struggles with trauma and loss The parents of the three girls killed in the Southport attack have told the inquiry into their deaths of the unbridled joy their daughters brought them and the enduring trauma of their loss. “This should never have happened in a safe and just society,” said Jenni Stancombe, the mother of Elsie Dot Stancombe. “This cannot happen, no other parent should feel this pain.” Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2025/sep/15/southport-attack-inquiry-hears-parents-memories-of-their-daughters",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2025-09-15T14:49:09+00:00",
       "tags": [
         "airport/security"
@@ -355,6 +778,24 @@
       "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/update-after-two-stabbed-outside-32480526",
       "source": "Liverpool Echo - News",
       "published_at": "2025-09-15T14:33:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "aa28ec246e79fbea",
+      "title_orig": "Belarus and Russia's show of firepower appears to be a message to Europe",
+      "summary_orig": "The Zapad-2025 military drills come just days after Poland accused Moscow of violating its air space with a drone incursion.",
+      "lang": "en",
+      "title_en": "Belarus and Russia's show of firepower appears to be a message to Europe",
+      "summary_en": "The Zapad-2025 military drills come just days after Poland accused Moscow of violating its air space with a drone incursion.",
+      "title": "Belarus and Russia's show of firepower appears to be a message to Europe",
+      "summary": "The Zapad-2025 military drills come just days after Poland accused Moscow of violating its air space with a drone incursion.",
+      "url": "https://www.bbc.com/news/articles/cn95jxvn04eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-15T14:32:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -434,24 +875,6 @@
       "geo": {}
     },
     {
-      "id": "27f77ad21d47061b",
-      "title_orig": "'Insulting': MORE Greater Manchester transport workers could soon go on strike",
-      "summary_orig": "Another 200 staff may join bus drivers",
-      "lang": "en",
-      "title_en": "'Insulting': MORE Greater Manchester transport workers could soon go on strike",
-      "summary_en": "Another 200 staff may join bus drivers",
-      "title": "'Insulting': MORE Greater Manchester transport workers could soon go on strike",
-      "summary": "Another 200 staff may join bus drivers",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/insulting-more-greater-manchester-transport-32479138",
-      "source": "MEN - News",
-      "published_at": "2025-09-15T14:17:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a93a6202c427ea25",
       "title_orig": "Aviation weather for Alberto Alcolumbre airport in Macapá area (Brazil) is “SBMQ 151400Z 06010KT 9999 SCT025 31/25 Q1013” :  See what it means on https://www. b",
       "summary_orig": "Aviation weather for Alberto Alcolumbre airport in Macapá area (Brazil) is “SBMQ 151400Z 06010KT 9999 SCT025 31/25 Q1013” :  See what it means on https://www. bigorre.org/aero/meteo/sbmq/en # macapa # brazil # albertoalcolumbreairport # sbmq # mcp # metar # aviation # aviationweather # avgeek # airport vl",
@@ -504,33 +927,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "6d7814866b81a6ba",
-      "title_orig": "Aer Lingus announces major change for Manchester Airport passengers",
-      "summary_orig": "It comes into force this week",
-      "lang": "en",
-      "title_en": "Aer Lingus announces major change for Manchester Airport passengers",
-      "summary_en": "It comes into force this week",
-      "title": "Aer Lingus announces major change for Manchester Airport passengers",
-      "summary": "It comes into force this week",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/aer-lingus-announces-major-change-32480156",
-      "source": "MEN - News",
-      "published_at": "2025-09-15T14:11:00+00:00",
-      "tags": [
-        "MAN",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN",
-        "lat": 53.3652,
-        "lon": -2.2727
-      }
     },
     {
       "id": "c24c7a78c8475e44",
@@ -731,60 +1127,6 @@
       "geo": {}
     },
     {
-      "id": "db136c9dfeccd5eb",
-      "title_orig": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to r",
-      "summary_orig": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to resume at 10:45 AM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to r",
-      "summary_en": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to resume at 10:45 AM. # AirportStatusBot",
-      "title": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to r",
-      "summary": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to resume at 10:45 AM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115208555150894790",
-      "source": "#airport",
-      "published_at": "2025-09-15T13:30:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "9a4be85c994863ee",
-      "title_orig": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "summary_orig": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "summary_en": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "title": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "summary": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115208551038644225",
-      "source": "#airport",
-      "published_at": "2025-09-15T13:29:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "914e55f148c5818b",
-      "title_orig": "A departure delay has been issued for Logan International # Airport ( # BOS ) due to low ceilings. Current delays are 16-30 minutes and increasing. # AirportSta",
-      "summary_orig": "A departure delay has been issued for Logan International # Airport ( # BOS ) due to low ceilings. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "A departure delay has been issued for Logan International # Airport ( # BOS ) due to low ceilings. Current delays are 16-30 minutes and increasing. # AirportSta",
-      "summary_en": "A departure delay has been issued for Logan International # Airport ( # BOS ) due to low ceilings. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
-      "title": "A departure delay has been issued for Logan International # Airport ( # BOS ) due to low ceilings. Current delays are 16-30 minutes and increasing. # AirportSta",
-      "summary": "A departure delay has been issued for Logan International # Airport ( # BOS ) due to low ceilings. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115208546775104873",
-      "source": "#airport",
-      "published_at": "2025-09-15T13:28:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "fbf50367b8a2b1d5",
       "title_orig": "Vuelta boss defends keeping Israeli team in race after protests derail Madrid finale",
       "summary_orig": "Spanish Vuelta organisers on Monday defended the Israel-based cycling team's right to compete after pro-Palestinian protests disrupted the race’s finale in Madrid, forcing Sunday's last stage to be cut short. Spain’s left-wing government expressed sympathy with the protesters, while Israeli officials accused Madrid of fueling unrest.",
@@ -800,24 +1142,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8d7ed60af6b289c7",
-      "title_orig": "Aviation weather for Jim Hamilton L.B. Owens airport in Columbia area (USA) is “KCUB 151253Z AUTO 04003KT 10SM CLR 20/14 A3011 RMK AO2 SLP195 T02000144” :  See ",
-      "summary_orig": "Aviation weather for Jim Hamilton L.B. Owens airport in Columbia area (USA) is “KCUB 151253Z AUTO 04003KT 10SM CLR 20/14 A3011 RMK AO2 SLP195 T02000144” :  See what it means on https://www. bigorre.org/aero/meteo/kcub/en # columbia # usa # jimhamiltonlbowensairport # kcub # cub # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Aviation weather for Jim Hamilton L.B. Owens airport in Columbia area (USA) is “KCUB 151253Z AUTO 04003KT 10SM CLR 20/14 A3011 RMK AO2 SLP195 T02000144” :  See ",
-      "summary_en": "Aviation weather for Jim Hamilton L.B. Owens airport in Columbia area (USA) is “KCUB 151253Z AUTO 04003KT 10SM CLR 20/14 A3011 RMK AO2 SLP195 T02000144” :  See what it means on https://www. bigorre.org/aero/meteo/kcub/en # columbia # usa # jimhamiltonlbowensairport # kcub # cub # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Aviation weather for Jim Hamilton L.B. Owens airport in Columbia area (USA) is “KCUB 151253Z AUTO 04003KT 10SM CLR 20/14 A3011 RMK AO2 SLP195 T02000144” :  See ",
-      "summary": "Aviation weather for Jim Hamilton L.B. Owens airport in Columbia area (USA) is “KCUB 151253Z AUTO 04003KT 10SM CLR 20/14 A3011 RMK AO2 SLP195 T02000144” :  See what it means on https://www. bigorre.org/aero/meteo/kcub/en # columbia # usa # jimhamiltonlbowensairport # kcub # cub # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115208540508120061",
-      "source": "#airport",
-      "published_at": "2025-09-15T13:26:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -837,60 +1161,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "d0db43d3ab580ffb",
-      "title_orig": "Aviation weather for London Heathrow airport (UK) is “EGLL 151250Z AUTO 25022KT 9999 SCT035/// SCT044/// //////CB 17/10 Q1006 NOSIG” :  See what it means on htt",
-      "summary_orig": "Aviation weather for London Heathrow airport (UK) is “EGLL 151250Z AUTO 25022KT 9999 SCT035/// SCT044/// //////CB 17/10 Q1006 NOSIG” :  See what it means on https://www. bigorre.org/aero/meteo/egll/en # london # uk # londonheathrowairport # egll # lhr # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Aviation weather for London Heathrow airport (UK) is “EGLL 151250Z AUTO 25022KT 9999 SCT035/// SCT044/// //////CB 17/10 Q1006 NOSIG” :  See what it means on htt",
-      "summary_en": "Aviation weather for London Heathrow airport (UK) is “EGLL 151250Z AUTO 25022KT 9999 SCT035/// SCT044/// //////CB 17/10 Q1006 NOSIG” :  See what it means on https://www. bigorre.org/aero/meteo/egll/en # london # uk # londonheathrowairport # egll # lhr # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Aviation weather for London Heathrow airport (UK) is “EGLL 151250Z AUTO 25022KT 9999 SCT035/// SCT044/// //////CB 17/10 Q1006 NOSIG” :  See what it means on htt",
-      "summary": "Aviation weather for London Heathrow airport (UK) is “EGLL 151250Z AUTO 25022KT 9999 SCT035/// SCT044/// //////CB 17/10 Q1006 NOSIG” :  See what it means on https://www. bigorre.org/aero/meteo/egll/en # london # uk # londonheathrowairport # egll # lhr # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115208500965449151",
-      "source": "#airport",
-      "published_at": "2025-09-15T13:16:54+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
-      "id": "93cdc34e6b07b6ec",
-      "title_orig": "The departure delay for Chicago O'Hare International # Airport ( # ORD ) is no longer in effect. # AirportStatusBot",
-      "summary_orig": "The departure delay for Chicago O'Hare International # Airport ( # ORD ) is no longer in effect. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "The departure delay for Chicago O'Hare International # Airport ( # ORD ) is no longer in effect. # AirportStatusBot",
-      "summary_en": "The departure delay for Chicago O'Hare International # Airport ( # ORD ) is no longer in effect. # AirportStatusBot",
-      "title": "The departure delay for Chicago O'Hare International # Airport ( # ORD ) is no longer in effect. # AirportStatusBot",
-      "summary": "The departure delay for Chicago O'Hare International # Airport ( # ORD ) is no longer in effect. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115208490402827843",
-      "source": "#airport",
-      "published_at": "2025-09-15T13:14:13+00:00",
-      "tags": [
-        "ORD",
-        "United States",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "O'Hare",
-        "city": "Chicago",
-        "country": "United States",
-        "iata": "ORD",
-        "lat": 41.9742,
-        "lon": -87.9073
-      }
     },
     {
       "id": "f65942a64cbd8a4c",
@@ -947,24 +1217,6 @@
       "geo": {}
     },
     {
-      "id": "85c53248ea567f00",
-      "title_orig": "How many runways can you see for Quonset State airport in North Kingstown area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/koqu/en # northki",
-      "summary_orig": "How many runways can you see for Quonset State airport in North Kingstown area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/koqu/en # northkingstown # usa # quonsetstateairport # koqu # nco # airport # aviation # avgeek vl",
-      "lang": "en",
-      "title_en": "How many runways can you see for Quonset State airport in North Kingstown area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/koqu/en # northki",
-      "summary_en": "How many runways can you see for Quonset State airport in North Kingstown area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/koqu/en # northkingstown # usa # quonsetstateairport # koqu # nco # airport # aviation # avgeek vl",
-      "title": "How many runways can you see for Quonset State airport in North Kingstown area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/koqu/en # northki",
-      "summary": "How many runways can you see for Quonset State airport in North Kingstown area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/koqu/en # northkingstown # usa # quonsetstateairport # koqu # nco # airport # aviation # avgeek vl",
-      "url": "https://mastodon.social/@bigorre_org/115208442729116733",
-      "source": "#airport",
-      "published_at": "2025-09-15T13:02:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "945b6a91cb008c9f",
       "title_orig": "Panama Ministry of Economy discloses breach claimed by INC ransomware Panama's Ministry of Economy and Finance (MEF) has disclosed that one of its computers may",
       "summary_orig": "Panama Ministry of Economy discloses breach claimed by INC ransomware Panama's Ministry of Economy and Finance (MEF) has disclosed that one of its computers may have been compromised in a cyberattack. The MEF says that personal and institutional data are safe. # Panama # databreach # ransomware # malware # security # cybersecurity # hackers # hacking # hacked https://www. bleepingcomputer.com/news/secu rity/panama-ministry-of-economy-discloses-breach-claimed-by-inc-ransomware/",
@@ -1016,24 +1268,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6615a87930dcfa5e",
-      "title_orig": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to r",
-      "summary_orig": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to resume at 9:45 AM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to r",
-      "summary_en": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to resume at 9:45 AM. # AirportStatusBot",
-      "title": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to r",
-      "summary": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to low ceilings. Operations are expected to resume at 9:45 AM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115208392307592937",
-      "source": "#airport",
-      "published_at": "2025-09-15T12:49:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -1163,24 +1397,6 @@
       "geo": {}
     },
     {
-      "id": "50734161c4a4e0f1",
-      "title_orig": "Protecting Rust against supply chain attacks https:// lobste.rs/s/ylbxri # rust # security https:// kerkour.com/rust-supply-chain- attacks",
-      "summary_orig": "Protecting Rust against supply chain attacks https:// lobste.rs/s/ylbxri # rust # security https:// kerkour.com/rust-supply-chain- attacks",
-      "lang": "en",
-      "title_en": "Protecting Rust against supply chain attacks https:// lobste.rs/s/ylbxri # rust # security https:// kerkour.com/rust-supply-chain- attacks",
-      "summary_en": "Protecting Rust against supply chain attacks https:// lobste.rs/s/ylbxri # rust # security https:// kerkour.com/rust-supply-chain- attacks",
-      "title": "Protecting Rust against supply chain attacks https:// lobste.rs/s/ylbxri # rust # security https:// kerkour.com/rust-supply-chain- attacks",
-      "summary": "Protecting Rust against supply chain attacks https:// lobste.rs/s/ylbxri # rust # security https:// kerkour.com/rust-supply-chain- attacks",
-      "url": "https://mastodon.social/@lobsters/115208238426736120",
-      "source": "#security",
-      "published_at": "2025-09-15T12:10:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "7cba3401e484bff9",
       "title_orig": "Israel destroys multiple high-rises in Gaza City after evacuation warning",
       "summary_orig": "Israel’s military destroyed several high-rise buildings in Gaza City on Sunday after issuing online evacuation orders, some of which gave residents less than an hour to leave.",
@@ -1246,24 +1462,6 @@
       "url": "https://www.reddit.com/r/flying/comments/1nhjrkp/detroit_area_det_instrument_approach_question_am/",
       "source": "Flying",
       "published_at": "2025-09-15T11:55:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "5b7093494f1c1b04",
-      "title_orig": "Jetzt patchen! Attacken auf Android-Smartphones von Samsung beobachtet Samsung hat eine Schadcode-Lücke in diversen Android-Versionen geschlossen. Es ist bereit",
-      "summary_orig": "Jetzt patchen! Attacken auf Android-Smartphones von Samsung beobachtet Samsung hat eine Schadcode-Lücke in diversen Android-Versionen geschlossen. Es ist bereits Exploitcode in Umlauf. https://www. heise.de/news/Jetzt-patchen-At tacken-auf-Android-Smartphones-von-Samsung-beobachtet-10645224.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # Android # Cyberangriff # Exploit # Mobiles # Patchday # Samsung # Security # Sicherheitslücken # Updates # news",
-      "lang": "de",
-      "title_en": "Patch now! Attacks on Android smartphones from Samsung observed Samsung has closed a malicious code gap in various Android versions. It's ready",
-      "summary_en": "Patch now! Attacks on Android smartphones from Samsung observed Samsung has closed a malicious code gap in various Android versions. It is already exploit code in circulation. https: // www. heise.de/news/jetz-patchen-at Tacken-auf-Android-Smartphones-von-Samsung-Baubacht-10645224.html? wt_mc = sm.Red.ho.mastodon.mastmd_beitraege & utm_source = mastodon # cyber attack # exploit # Mobiles # patchday # samsung # security # security gaps # updates # news",
-      "title": "Patch now! Attacks on Android smartphones from Samsung observed Samsung has closed a malicious code gap in various Android versions. It's ready",
-      "summary": "Patch now! Attacks on Android smartphones from Samsung observed Samsung has closed a malicious code gap in various Android versions. It is already exploit code in circulation. https: // www. heise.de/news/jetz-patchen-at Tacken-auf-Android-Smartphones-von-Samsung-Baubacht-10645224.html? wt_mc = sm.Red.ho.mastodon.mastmd_beitraege & utm_source = mastodon # cyber attack # exploit # Mobiles # patchday # samsung # security # security gaps # updates # news",
-      "url": "https://social.heise.de/@heisec/115208139595735825",
-      "source": "#security",
-      "published_at": "2025-09-15T11:45:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1574,24 +1772,6 @@
         "airport/security"
       ],
       "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "d30da92395f33d5b",
-      "title_orig": "'Violence, hooliganism, fraud: Far-right populist Nigel Farage regards Tommy Robinson as too fringe'",
-      "summary_orig": "Prime Minister Keir Starmer said Sunday Britain would not tolerate people feeling intimidated \"because of their background or the colour of their skin\" after a large far-right protest was marked by battles with police. In his first comments on Saturday's rally organised by far-right activist Tommy Robinson and attended by up to 150,000 people, according to police, Starmer also condemned attacks on police on officers. For in-depth analysis and a deeper perspective, Eve Irvine welcomes Renaud Foucart, Economist and Senior Lecturer in the Department of Economics at Lancaster University Management School.",
-      "lang": "en",
-      "title_en": "'Violence, hooliganism, fraud: Far-right populist Nigel Farage regards Tommy Robinson as too fringe'",
-      "summary_en": "Prime Minister Keir Starmer said Sunday Britain would not tolerate people feeling intimidated \"because of their background or the colour of their skin\" after a large far-right protest was marked by battles with police. In his first comments on Saturday's rally organised by far-right activist Tommy Robinson and attended by up to 150,000 people, according to police, Starmer also condemned attacks on police on officers. For in-depth analysis and a deeper perspective, Eve Irvine welcomes Renaud Foucart, Economist and Senior Lecturer in the Department of Economics at Lancaster University Management School.",
-      "title": "'Violence, hooliganism, fraud: Far-right populist Nigel Farage regards Tommy Robinson as too fringe'",
-      "summary": "Prime Minister Keir Starmer said Sunday Britain would not tolerate people feeling intimidated \"because of their background or the colour of their skin\" after a large far-right protest was marked by battles with police. In his first comments on Saturday's rally organised by far-right activist Tommy Robinson and attended by up to 150,000 people, according to police, Starmer also condemned attacks on police on officers. For in-depth analysis and a deeper perspective, Eve Irvine welcomes Renaud Foucart, Economist and Senior Lecturer in the Department of Economics at Lancaster University Management School.",
-      "url": "https://www.france24.com/en/video/20250915-violence-hooliganism-fraud-far-right-populist-nigel-farage-sees-tommy-robinson-as-too-fringe",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-15T10:10:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1967,28 +2147,19 @@
       "id": "027c83f4815036fb",
       "title_orig": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#m",
       "summary_orig": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#map=13/-6.1 25570/106.655998 # WIII # CGK # Jakarta # Indonesia # airport # aviation # avgeeks # GIS",
-      "lang": "en",
-      "title_en": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#m",
-      "summary_en": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#map=13/-6.1 25570/106.655998 # WIII # CGK # Jakarta # Indonesia # airport # aviation # avgeeks # GIS",
-      "title": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#m",
-      "summary": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#map=13/-6.1 25570/106.655998 # WIII # CGK # Jakarta # Indonesia # airport # aviation # avgeeks # GIS",
+      "lang": "id",
+      "title_en": "Soekarno -Hatta International Airport -Jakarta, Indonesia https: // en.wikipedia.org/wiki/soekarno -Hatta_international_airport https: // www. openstreetmap.org/#m",
+      "summary_en": "Soekarno -Hatta International Airport -Jakarta, Indonesia https: // en.wikipedia.org/wiki/soekarno -Hatta_international_airport https: // www. openstreetmap.org/#map=13/-6.1 25570/106.655998 # wiii # cgk # jakarta # indonesia # aviation # aviation # aviation # gis",
+      "title": "Soekarno -Hatta International Airport -Jakarta, Indonesia https: // en.wikipedia.org/wiki/soekarno -Hatta_international_airport https: // www. openstreetmap.org/#m",
+      "summary": "Soekarno -Hatta International Airport -Jakarta, Indonesia https: // en.wikipedia.org/wiki/soekarno -Hatta_international_airport https: // www. openstreetmap.org/#map=13/-6.1 25570/106.655998 # wiii # cgk # jakarta # indonesia # aviation # aviation # aviation # gis",
       "url": "https://mastodon.world/@airports_bot/115206637850406336",
       "source": "#aviation",
       "published_at": "2025-09-15T05:23:05+00:00",
       "tags": [
-        "CGK",
-        "Indonesia",
         "airport/security"
       ],
       "type": "social",
-      "geo": {
-        "airport": "Soekarno–Hatta",
-        "city": "Jakarta",
-        "country": "Indonesia",
-        "iata": "CGK",
-        "lat": -6.1256,
-        "lon": 106.6559
-      }
+      "geo": {}
     },
     {
       "id": "f54e71804387f8c8",
@@ -2099,42 +2270,6 @@
       "geo": {}
     },
     {
-      "id": "07809aa7720685c7",
-      "title_orig": "I got a @ JetTip alert that Southwest 800 from Las Vegas # KLAS to Seattle # KSEA was diverting to Portland # KPDX . Since they made a steep descent into Portla",
-      "summary_orig": "I got a @ JetTip alert that Southwest 800 from Las Vegas # KLAS to Seattle # KSEA was diverting to Portland # KPDX . Since they made a steep descent into Portland, I went out to get pictures. The exterior appears in good condition. It may have been a precautionary diversion due to a line of weather approaching the SeaTac Airport. # aviation # WAwx # ORwx # aviation # travel # avgeek",
-      "lang": "en",
-      "title_en": "I got a @ JetTip alert that Southwest 800 from Las Vegas # KLAS to Seattle # KSEA was diverting to Portland # KPDX . Since they made a steep descent into Portla",
-      "summary_en": "I got a @ JetTip alert that Southwest 800 from Las Vegas # KLAS to Seattle # KSEA was diverting to Portland # KPDX . Since they made a steep descent into Portland, I went out to get pictures. The exterior appears in good condition. It may have been a precautionary diversion due to a line of weather approaching the SeaTac Airport. # aviation # WAwx # ORwx # aviation # travel # avgeek",
-      "title": "I got a @ JetTip alert that Southwest 800 from Las Vegas # KLAS to Seattle # KSEA was diverting to Portland # KPDX . Since they made a steep descent into Portla",
-      "summary": "I got a @ JetTip alert that Southwest 800 from Las Vegas # KLAS to Seattle # KSEA was diverting to Portland # KPDX . Since they made a steep descent into Portland, I went out to get pictures. The exterior appears in good condition. It may have been a precautionary diversion due to a line of weather approaching the SeaTac Airport. # aviation # WAwx # ORwx # aviation # travel # avgeek",
-      "url": "https://avgeek.social/@ikluft/115205896290685300",
-      "source": "#aviation",
-      "published_at": "2025-09-15T02:14:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "9c991b167a62e2e1",
-      "title_orig": "I got some pictures of IcelandAir's # avgeek -favorite Hekla Aurora on final approach to Portland Int'l Airport # KPDX this evening. # aviation # travel # avgee",
-      "summary_orig": "I got some pictures of IcelandAir's # avgeek -favorite Hekla Aurora on final approach to Portland Int'l Airport # KPDX this evening. # aviation # travel # avgeek",
-      "lang": "en",
-      "title_en": "I got some pictures of IcelandAir's # avgeek -favorite Hekla Aurora on final approach to Portland Int'l Airport # KPDX this evening. # aviation # travel # avgee",
-      "summary_en": "I got some pictures of IcelandAir's # avgeek -favorite Hekla Aurora on final approach to Portland Int'l Airport # KPDX this evening. # aviation # travel # avgeek",
-      "title": "I got some pictures of IcelandAir's # avgeek -favorite Hekla Aurora on final approach to Portland Int'l Airport # KPDX this evening. # aviation # travel # avgee",
-      "summary": "I got some pictures of IcelandAir's # avgeek -favorite Hekla Aurora on final approach to Portland Int'l Airport # KPDX this evening. # aviation # travel # avgeek",
-      "url": "https://avgeek.social/@ikluft/115205775543347891",
-      "source": "#aviation",
-      "published_at": "2025-09-15T01:43:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "6bcc744bda25817e",
       "title_orig": "Over 100,000 pro-Palestinian protesters forced early end to Spanish Vuelta, authorities say",
       "summary_orig": "submitted by /u/wizardofthefuture [link] [comments]",
@@ -2225,24 +2360,6 @@
       "geo": {}
     },
     {
-      "id": "ad89086969afcc04",
-      "title_orig": "Polish foreign minister urges allies to consider intercepting Russian drones over Ukraine",
-      "summary_orig": "submitted by /u/Aine_Ellsechs [link] [comments]",
-      "lang": "en",
-      "title_en": "Polish foreign minister urges allies to consider intercepting Russian drones over Ukraine",
-      "summary_en": "submitted by /u/Aine_Ellsechs [link] [comments]",
-      "title": "Polish foreign minister urges allies to consider intercepting Russian drones over Ukraine",
-      "summary": "submitted by /u/Aine_Ellsechs [link] [comments]",
-      "url": "https://www.reddit.com/r/worldnews/comments/1nh6cow/polish_foreign_minister_urges_allies_to_consider/",
-      "source": "World News",
-      "published_at": "2025-09-14T23:32:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "d11e32a54898a38e",
       "title_orig": "Aviation weather for Ruby airport (USA) is “PARY 142056Z AUTO 02006KT 10SM OVC095 04/M03 A2992 RMK AO2 SLP141 T00441028 56001 TSNO” :  See what it means on http",
       "summary_orig": "Aviation weather for Ruby airport (USA) is “PARY 142056Z AUTO 02006KT 10SM OVC095 04/M03 A2992 RMK AO2 SLP141 T00441028 56001 TSNO” :  See what it means on https://www. bigorre.org/aero/meteo/pary/en # ruby # usa # rubyairport # pary # rby # metar # aviation # aviationweather # avgeek # airport vl",
@@ -2290,42 +2407,6 @@
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1nh23dn/ukraine_war_latest_ukrainian_drones_strike_major/",
       "source": "News & Events Surrounding Russia's Invasion of Ukraine",
       "published_at": "2025-09-14T20:33:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "90ab6b77888b4f60",
-      "title_orig": "Man charged over 'abusive behaviour' at anti-immigration protest outside Scottish hotel",
-      "summary_orig": "The protest, was organised by Save Our Future & Our Kids Futures, started outside the hotel, with counter protesters from Stand Up to Racism Scotland also in attendance.",
-      "lang": "en",
-      "title_en": "Man charged over 'abusive behaviour' at anti-immigration protest outside Scottish hotel",
-      "summary_en": "The protest, was organised by Save Our Future & Our Kids Futures, started outside the hotel, with counter protesters from Stand Up to Racism Scotland also in attendance.",
-      "title": "Man charged over 'abusive behaviour' at anti-immigration protest outside Scottish hotel",
-      "summary": "The protest, was organised by Save Our Future & Our Kids Futures, started outside the hotel, with counter protesters from Stand Up to Racism Scotland also in attendance.",
-      "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/man-charged-over-abusive-behaviour-32475057",
-      "source": "Edinburgh Live - News",
-      "published_at": "2025-09-14T19:39:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2f38880a1ccc13b2",
-      "title_orig": "METAR Change Notification",
-      "summary_orig": "I’m sitting here waiting to make a VFR 135 flight happen and my destination airport is low IFR. Curious if there’s an app or service or something that could alert me as soon as my destination airport weather changes so I don’t have to constantly be looking every 2 mins. submitted by /u/MobileAndMonitoring [link] [comments]",
-      "lang": "en",
-      "title_en": "METAR Change Notification",
-      "summary_en": "I’m sitting here waiting to make a VFR 135 flight happen and my destination airport is low IFR. Curious if there’s an app or service or something that could alert me as soon as my destination airport weather changes so I don’t have to constantly be looking every 2 mins. submitted by /u/MobileAndMonitoring [link] [comments]",
-      "title": "METAR Change Notification",
-      "summary": "I’m sitting here waiting to make a VFR 135 flight happen and my destination airport is low IFR. Curious if there’s an app or service or something that could alert me as soon as my destination airport weather changes so I don’t have to constantly be looking every 2 mins. submitted by /u/MobileAndMonitoring [link] [comments]",
-      "url": "https://www.reddit.com/r/flying/comments/1ngyv38/metar_change_notification/",
-      "source": "Flying",
-      "published_at": "2025-09-14T18:28:29+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2387,24 +2468,6 @@
       "geo": {}
     },
     {
-      "id": "bbf0c0d2b5acfea4",
-      "title_orig": "Bombed, starving and orphaned: The horrific plight of children arriving in Gaza’s hospitals alone",
-      "summary_orig": "Up to 40,000 children in Gaza are believed to have lost at least one parent as Israeli forces continue a brutal offensive. Medics tell Alex Croft that many are now arriving in hospital alone",
-      "lang": "en",
-      "title_en": "Bombed, starving and orphaned: The horrific plight of children arriving in Gaza’s hospitals alone",
-      "summary_en": "Up to 40,000 children in Gaza are believed to have lost at least one parent as Israeli forces continue a brutal offensive. Medics tell Alex Croft that many are now arriving in hospital alone",
-      "title": "Bombed, starving and orphaned: The horrific plight of children arriving in Gaza’s hospitals alone",
-      "summary": "Up to 40,000 children in Gaza are believed to have lost at least one parent as Israeli forces continue a brutal offensive. Medics tell Alex Croft that many are now arriving in hospital alone",
-      "url": "https://www.independent.co.uk/news/world/middle-east/gaza-children-hospital-israel-medics-nasser-hospital-b2813325.html",
-      "source": "The Independent World",
-      "published_at": "2025-09-14T16:22:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "848b64ccb3e1c8f9",
       "title_orig": "Russia's Second-Largest Oil Refinery Hit By Drones! Kirishi Near St. Petersburg.",
       "summary_orig": "submitted by /u/JaB675 [link] [comments]",
@@ -2438,24 +2501,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "2c8d28d94717ff1b",
-      "title_orig": "Ukraine ramps up drone strikes on Russian oil facilities in latest attack",
-      "summary_orig": "Ukrainian drones have struck one of Russia’s largest oil refineries, sparking a fire",
-      "lang": "en",
-      "title_en": "Ukraine ramps up drone strikes on Russian oil facilities in latest attack",
-      "summary_en": "Ukrainian drones have struck one of Russia’s largest oil refineries, sparking a fire",
-      "title": "Ukraine ramps up drone strikes on Russian oil facilities in latest attack",
-      "summary": "Ukrainian drones have struck one of Russia’s largest oil refineries, sparking a fire",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-kirishi-refinery-drone-strike-ukraine-b2826275.html",
-      "source": "The Independent World",
-      "published_at": "2025-09-14T15:35:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2528,24 +2573,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "07d1120b945b6218",
-      "title_orig": "Enter Air 737 overruns the runway during taxing in Kraków Balice (EPKK).",
-      "summary_orig": "submitted by /u/helioNz4R1 [link] [comments]",
-      "lang": "en",
-      "title_en": "Enter Air 737 overruns the runway during taxing in Kraków Balice (EPKK).",
-      "summary_en": "submitted by /u/helioNz4R1 [link] [comments]",
-      "title": "Enter Air 737 overruns the runway during taxing in Kraków Balice (EPKK).",
-      "summary": "submitted by /u/helioNz4R1 [link] [comments]",
-      "url": "https://www.reddit.com/r/aviation/comments/1ngr6e8/enter_air_737_overruns_the_runway_during_taxing/",
-      "source": "aviation",
-      "published_at": "2025-09-14T13:21:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -3190,24 +3217,6 @@
       "url": "https://runwaygirlnetwork.com/2025/09/philippine-airlines-lufthansa-systems/",
       "source": "Runway Girl",
       "published_at": "2025-09-12T13:56:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c32ce393bc2e3f07",
-      "title_orig": "Russia flexes its military muscles at NATO’s doorstep days after sending drones to Poland",
-      "summary_orig": "Poland closed all border crossings with Belarus as the joint Russia-Belarus military exercises Zapad-2025 begin at NATO’s doorstep. Moscow and Minks claim the drills simulate repelling an attack against Russia and Belarus. But Zapad-2021 masked Russia’s preparations for its invasion of Ukraine.",
-      "lang": "en",
-      "title_en": "Russia flexes its military muscles at NATO’s doorstep days after sending drones to Poland",
-      "summary_en": "Poland closed all border crossings with Belarus as the joint Russia-Belarus military exercises Zapad-2025 begin at NATO’s doorstep. Moscow and Minks claim the drills simulate repelling an attack against Russia and Belarus. But Zapad-2021 masked Russia’s preparations for its invasion of Ukraine.",
-      "title": "Russia flexes its military muscles at NATO’s doorstep days after sending drones to Poland",
-      "summary": "Poland closed all border crossings with Belarus as the joint Russia-Belarus military exercises Zapad-2025 begin at NATO’s doorstep. Moscow and Minks claim the drills simulate repelling an attack against Russia and Belarus. But Zapad-2021 masked Russia’s preparations for its invasion of Ukraine.",
-      "url": "http://www.euronews.com/2025/09/12/russia-flexes-its-military-muscles-at-natos-doorstep-days-after-sending-drones-to-poland",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-09-12T13:26:20+00:00",
       "tags": [
         "airport/security"
       ],
