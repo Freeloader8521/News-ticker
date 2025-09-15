@@ -191,7 +191,7 @@ generated_at = data.get("generated_at")
 last = pretty_dt(generated_at) if generated_at else "n/a"
 
 # -------- Header Row
-st.title("Global Situational Awareness Dashboard")
+st.title("Situational Awareness Dashboard")
 headA, headB = st.columns([6, 1])
 with headA:
     st.markdown(f"**Last update:** {last}")
