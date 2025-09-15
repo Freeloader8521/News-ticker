@@ -1,0 +1,49 @@
+# What to block and what to allow from "social" items
+
+# Any post living on these domains will be dropped outright
+blocked_post_domains:
+  - biggore.social
+  - manticore.social
+  - gab.com
+  - gettr.com
+  - truthsocial.com
+  - ruqqus.com
+  - 4chan.org
+  - 8kun.top
+
+# If ANY of these terms appear in title/summary/url → drop
+blocked_terms:
+  - crypto giveaway
+  - free airdrop
+  - promo code
+  - adult cam
+  - casino
+  - bet now
+  - matic
+  - porno
+  - referral link
+  - viagra
+  - pump and dump
+
+# Optional: only keep social posts that link out to reputable domains.
+# Leave empty [] to disable. If non-empty, at least ONE link must match.
+allowed_link_domains:
+  - bbc.co.uk
+  - theguardian.com
+  - apnews.com
+  - reuters.com
+  - ft.com
+  - nytimes.com
+  - gov.uk
+  - faa.gov
+  - easa.europa.eu
+  - ncsc.gov.uk
+  - noaa.gov
+  - nato.int
+  - ec.europa.eu
+
+# Also accept any link that ends with a government/military-ish TLD pattern.
+allow_gov_like_tlds: true   # .gov, .mil, .gob.*, .go.* etc
+
+# Very short “toots” tend to be spammy; drop if text shorter than this
+min_text_chars: 60
