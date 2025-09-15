@@ -1,426 +1,398 @@
 #!/usr/bin/env python3
-"""
-Collector for the Global Situational Awareness Dashboard.
-
-- Loads feeds from feeds.yaml (+ feeds-extra.yaml if present)
-- Optional sharding via env: SHARD_INDEX, TOTAL_SHARDS (1-based)
-- Merges & fetches feeds, writing progress to status.json
-- Normalises items: HTML strip, language detect, EN translate
-- Airport matching (aliases + IATA) to inject geo {iata,lat,lon,...}
-- Tagging via watch_terms.yaml
-- De-dupes by newest and writes data.json
-"""
-
 from __future__ import annotations
-import os
-import re
-import json
-import hashlib
-import logging
+
+import json, re, hashlib, logging, os
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Tuple
 
-import requests
-import feedparser
-import yaml
-from bs4 import BeautifulSoup
+import requests, feedparser, yaml
 from dateutil import parser as dtparse
+from bs4 import BeautifulSoup
 from langdetect import detect, LangDetectException
 from deep_translator import GoogleTranslator
 
 # ----------------------------- Config -----------------------------
-
 APP_NAME = "GSA-Collector"
-APP_VER  = "1.8"
-UA = {"User-Agent": f"{APP_NAME}/{APP_VER} (+https://streamlit.app)"}
+APP_VER  = "1.9"
+UA       = {"User-Agent": f"{APP_NAME}/{APP_VER} (+https://streamlit.app)"}
 
-# Files we write
-DATA_FILE   = "data.json"
-STATUS_FILE = "status.json"
+FAIL_HARD_CODES = {401, 403, 404}
+FAIL_MAX_CONSEC = 3
+FAIL_EMPTY_MAX  = 3
 
-# Env toggles
-SHARD_INDEX   = int(os.environ.get("SHARD_INDEX", "1"))  # 1-based
-TOTAL_SHARDS  = int(os.environ.get("TOTAL_SHARDS", "1"))
-PER_FEED_LIMIT = int(os.environ.get("PER_FEED_LIMIT", "80"))  # max entries read per feed
+FEEDS_MAIN_FILE   = "feeds.yaml"
+FEEDS_EXTRA_FILE  = "feeds-extra.yaml"
+BROKEN_FILE       = "feeds-broken.yaml"
+FAIL_DB_FILE      = "feeds-fail-counts.json"
+STATUS_FILE       = "status.json"
+DATA_OUT          = "data.json"
+SOCIAL_FILTERS_YAML = "social_filters.yaml"
 
-# Domains considered "major" for type classification
-MAJOR_DOMAINS = {
-    "reuters.com","bbc.co.uk","apnews.com","theguardian.com","nytimes.com",
-    "bloomberg.com","ft.com","cnn.com","aljazeera.com","sky.com","latimes.com",
-    "cbc.ca","theglobeandmail.com","scmp.com","straitstimes.com","japantimes.co.jp",
-    "avherald.com","gov.uk","faa.gov","easa.europa.eu","caa.co.uk","ntsb.gov",
-    "bea.aero","atsb.gov.au","caa.govt.nz","caa.co.za","tc.gc.ca","noaa.gov",
-    "nhc.noaa.gov","weather.gov"
-}
-
-# Explicitly blocked (spam/self-promo etc.)
-BLOCKED_DOMAINS = {
-    "bigorre.org", "www.bigorre.org",
-}
-
-# ----------------------------- Logging -----------------------------
+# ----------------------------- logging -----------------------------
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("collector")
 
-# ----------------------------- Small utils -----------------------------
-
-def now_utc() -> datetime:
-    return datetime.now(timezone.utc)
-
-def iso(dt: datetime) -> str:
-    return dt.astimezone(timezone.utc).isoformat()
-
-def sha1_16(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
-
-def get_domain(url: str) -> str:
+# ----------------------------- helpers -----------------------------
+def now_utc() -> datetime: return datetime.now(timezone.utc)
+def sha1_16(s: str) -> str: return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
+def domain_of(url: str) -> str:
     m = re.search(r"https?://([^/]+)", url or "")
     return (m.group(1).lower() if m else "").replace("www.", "")
-
 def strip_html(raw: str) -> str:
-    if not raw:
-        return ""
-    try:
-        return BeautifulSoup(raw, "html.parser").get_text(" ", strip=True)
-    except Exception:
-        return re.sub(r"<[^>]+>", "", raw or "")
-
+    if not raw: return ""
+    try: return BeautifulSoup(raw, "html.parser").get_text(" ", strip=True)
+    except Exception: return re.sub(r"<[^>]+>", "", raw or "")
 def safe_detect(text: str) -> str:
-    try:
-        return detect(text) if text and text.strip() else "en"
-    except LangDetectException:
-        return "en"
-
+    try: return detect(text) if text and text.strip() else "en"
+    except LangDetectException: return "en"
 def to_english(s: str) -> str:
-    if not s:
-        return s
-    try:
-        return GoogleTranslator(source="auto", target="en").translate(s)
-    except Exception:
-        return s  # best effort
-
-def clean_source(feed_title: str, url: str) -> str:
-    t = (feed_title or "").strip()
-    if t:
-        t = re.sub(r"\s*[-–—]\s*RSS.*$", "", t, flags=re.I)
-        t = re.sub(r"\s*RSS\s*Feed.*$", "", t, flags=re.I)
-        return t
-    return get_domain(url)
-
-# ----------------------------- Status I/O -----------------------------
-
-def write_status(obj: Dict[str, Any]) -> None:
+    if not s: return s
+    try: return GoogleTranslator(source="auto", target="en").translate(s)
+    except Exception: return s
+def write_status(obj: dict):
     try:
         with open(STATUS_FILE, "w", encoding="utf-8") as f:
-            json.dump(obj, f, ensure_ascii=False, indent=2)
-    except Exception as ex:
-        log.warning("Could not write status.json: %s", ex)
-
-def set_status_note(note: str) -> None:
-    try:
-        with open(STATUS_FILE, "r", encoding="utf-8") as f:
-            st = json.load(f)
-    except Exception:
-        st = {}
-    st["note"] = note
-    write_status(st)
-
-# ----------------------------- Load config & terms -----------------------------
+            json.dump(obj, f, indent=2, ensure_ascii=False)
+    except Exception: pass
 
 def load_yaml(path: str) -> dict:
     try:
-        with open(path, "r", encoding="utf-8") as f:
-            return yaml.safe_load(f) or {}
-    except FileNotFoundError:
-        return {}
+        with open(path, "r", encoding="utf-8") as f: return yaml.safe_load(f) or {}
+    except FileNotFoundError: return {}
 
-# Main feeds (curated)
-FEEDS = load_yaml("feeds.yaml")
-NEWS_FEEDS     = FEEDS.get("news", [])
-AUTH_FEEDS     = FEEDS.get("aviation_auth", [])
-OFFICIAL_FEEDS = FEEDS.get("official_announcements", [])
-WEATHER_FEEDS  = FEEDS.get("weather_alerts", [])
-SOCIAL_FEEDS   = FEEDS.get("social", [])
+def dedupe(seq: List[str]) -> List[str]:
+    seen, out = set(), []
+    for s in seq:
+        if s not in seen:
+            seen.add(s); out.append(s)
+    return out
 
-# Optional extra feeds discovered elsewhere
-EXTRA = load_yaml("feeds-extra.yaml")
-NEWS_FEEDS = list(NEWS_FEEDS) + list(EXTRA.get("news_extra", []))
+def load_all_feeds() -> Tuple[List[str], List[str], List[str], List[str], List[str]]:
+    feeds_main  = load_yaml(FEEDS_MAIN_FILE)
+    feeds_extra = load_yaml(FEEDS_EXTRA_FILE)
+    feeds_broke = load_yaml(BROKEN_FILE)
 
-# Watch terms for tagging
-TERMS  = load_yaml("watch_terms.yaml")
-CORE   = set(TERMS.get("core_terms", []))
-DIPLO  = set(TERMS.get("diplomacy_terms", []))
-EXCLUDE= set(TERMS.get("exclude_terms", []))
+    def g(src, key): return src.get(key, [])
+
+    main_news   = g(feeds_main, "news");                 extra_news   = g(feeds_extra, "news_extra")
+    main_auth   = g(feeds_main, "aviation_authorities"); extra_auth   = g(feeds_extra, "aviation_authorities_extra")
+    main_off    = g(feeds_main, "official_announcements"); extra_off  = g(feeds_extra, "official_announcements_extra")
+    main_weather= g(feeds_main, "weather_alerts");       extra_weather= g(feeds_extra, "weather_alerts_extra")
+    main_social = g(feeds_main, "social");               extra_social = g(feeds_extra, "social_extra")
+
+    broken_all  = set(dedupe(sum([feeds_broke.get(k, []) for k in feeds_broke], [])))
+    def ok(lst): return [u for u in lst if u not in broken_all]
+
+    NEWS     = dedupe(ok(main_news)   + ok(extra_news))
+    AUTH     = dedupe(ok(main_auth)   + ok(extra_auth))
+    OFFICIAL = dedupe(ok(main_off)    + ok(extra_off))
+    WEATHER  = dedupe(ok(main_weather)+ ok(extra_weather))
+    SOCIAL   = dedupe(ok(main_social) + ok(extra_social))
+    return NEWS, AUTH, OFFICIAL, WEATHER, SOCIAL
+
+def load_fail_db() -> Dict[str, dict]:
+    try:
+        with open(FAIL_DB_FILE, "r", encoding="utf-8") as f: return json.load(f)
+    except FileNotFoundError: return {}
+def save_fail_db(db: Dict[str, dict]):
+    with open(FAIL_DB_FILE, "w", encoding="utf-8") as f: json.dump(db, f, indent=2, ensure_ascii=False)
+def mark_broken(url: str):
+    y = load_yaml(BROKEN_FILE); y.setdefault("broken", [])
+    if url not in y["broken"]:
+        y["broken"].append(url)
+        with open(BROKEN_FILE, "w", encoding="utf-8") as f: yaml.safe_dump(y, f, sort_keys=False, allow_unicode=True)
+
+# ----------------------------- watch terms & airports (unchanged) -----------------------------
+try:
+    with open("watch_terms.yaml", "r", encoding="utf-8") as f:
+        TERMS = yaml.safe_load(f) or {}
+except FileNotFoundError:
+    TERMS = {}
+CORE    = set(TERMS.get("core_terms", []))
+DIPLO   = set(TERMS.get("diplomacy_terms", []))
+EXCLUDE = set(TERMS.get("exclude_terms", []))
 
 def should_exclude(text: str) -> bool:
     t = (text or "").lower()
     return any(x.lower() in t for x in EXCLUDE)
-
 def tags_for(text: str) -> List[str]:
-    t = (text or "").lower()
-    out: List[str] = []
-    if any(x.lower() in t for x in CORE):
-        out.append("airport/security")
-    if any(x.lower() in t for x in DIPLO):
-        out.append("diplomatic")
+    t = (text or "").lower(); out=[]
+    if any(x.lower() in t for x in CORE):  out.append("airport/security")
+    if any(x.lower() in t for x in DIPLO): out.append("diplomatic")
     return out
 
-# ----------------------------- Airports -----------------------------
-
 try:
-    with open("airports.json", "r", encoding="utf-8") as f:
-        AIRPORTS = json.load(f)
+    with open("airports.json", "r", encoding="utf-8") as f: AIRPORTS = json.load(f)
 except FileNotFoundError:
     AIRPORTS = []
 
-ALIASES: Dict[str, Dict[str, Any]] = {}     # alias(lower) -> meta
-IATA_TO_LL: Dict[str, Tuple[float,float]] = {}
-
+ALIASES: Dict[str, Dict[str, Any]] = {}; IATA_TO_LL: Dict[str, tuple] = {}
 for a in AIRPORTS:
-    meta = {
-        "iata": a.get("iata"),
-        "name": a.get("name"),
-        "city": a.get("city"),
-        "country": a.get("country"),
-        "lat": a.get("lat", a.get("latitude")),
-        "lon": a.get("lon", a.get("longitude")),
-    }
+    meta = {"iata": a.get("iata"), "name": a.get("name"), "city": a.get("city"),
+            "country": a.get("country"), "lat": a.get("lat", a.get("latitude")),
+            "lon": a.get("lon", a.get("longitude"))}
     iata = (meta["iata"] or "").upper()
-    lat, lon = meta.get("lat"), meta.get("lon")
-    if iata and isinstance(lat, (int, float)) and isinstance(lon, (int, float)):
-        IATA_TO_LL[iata] = (lat, lon)
+    if iata and isinstance(meta["lat"], (int, float)) and isinstance(meta["lon"], (int, float)):
+        IATA_TO_LL[iata] = (meta["lat"], meta["lon"])
     for alias in (a.get("aliases") or []) + [a.get("iata", "")]:
-        if alias:
-            ALIASES[alias.lower()] = meta
+        if alias: ALIASES[alias.lower()] = meta
 
-# Require nearby “airport/intl/terminal” context for bare IATA
 AIRPORT_CONTEXT = re.compile(r"\b(airport|intl|international|terminal|airfield|aerodrome)s?\b", re.I)
-
-def _has_airport_ctx(text: str, pos: int, window: int = 48) -> bool:
-    start = max(0, pos - window)
-    end   = min(len(text), pos + window)
+def _has_airport_context(text: str, pos: int, window: int = 48) -> bool:
+    start = max(0, pos - window); end = min(len(text), pos + window)
     return bool(AIRPORT_CONTEXT.search(text[start:end]))
 
 def match_airport(text: str):
-    if not text:
-        return None
-    tl = text.lower()
-    tu = text.upper()
+    if not text: return None
+    t_lower = text.lower(); t_upper = text.upper()
 
-    # 1) Prefer full-name aliases (“Istanbul Airport”, “Heathrow”)
     for alias, meta in ALIASES.items():
-        if not alias:
-            continue
-        if len(alias) == 3 and alias.isalpha():
-            continue  # pure IATA handled below
-        for m in re.finditer(rf"\b{re.escape(alias)}\b", tl):
-            pos = m.start()
-            if ("airport" in alias) or _has_airport_ctx(tl, pos):
-                iata = (meta.get("iata") or "").upper()
-                out = {
-                    "iata": iata or None,
-                    "name": meta.get("name"),
-                    "city": meta.get("city"),
-                    "country": meta.get("country"),
-                }
+        if not alias: continue
+        if len(alias) == 3 and alias.isalpha(): continue
+        for m in re.finditer(rf"\b{re.escape(alias)}\b", t_lower):
+            if ("airport" in alias) or _has_airport_context(t_lower, m.start()):
+                out = {"iata": (meta.get("iata") or "").upper() or None,
+                       "name": meta.get("name"), "city": meta.get("city"),
+                       "country": meta.get("country")}
                 lat, lon = meta.get("lat"), meta.get("lon")
                 if isinstance(lat, (int, float)) and isinstance(lon, (int, float)):
                     out["lat"], out["lon"] = lat, lon
-                elif iata and iata in IATA_TO_LL:
-                    out["lat"], out["lon"] = IATA_TO_LL[iata]
+                elif out["iata"] and out["iata"] in IATA_TO_LL:
+                    out["lat"], out["lon"] = IATA_TO_LL[out["iata"]]
                 return out
 
-    # 2) Bare IATA tokens, only if airport-context nearby
-    for m in re.finditer(r"\b([A-Z]{3})\b", tu):
-        tok = m.group(1)
-        if tok in IATA_TO_LL and _has_airport_ctx(tl, m.start()):
-            lat, lon = IATA_TO_LL[tok]
-            meta = next((a for a in AIRPORTS if (a.get("iata") or "").upper() == tok), None)
-            return {
-                "iata": tok,
-                "name": meta.get("name") if meta else None,
-                "city": meta.get("city") if meta else None,
-                "country": meta.get("country") if meta else None,
-                "lat": lat, "lon": lon,
-            }
+    for m in re.finditer(r"\b([A-Z]{3})\b", t_upper):
+        token = m.group(1)
+        if token in IATA_TO_LL and _has_airport_context(t_lower, m.start()):
+            lat, lon = IATA_TO_LL[token]
+            meta = next((a for a in AIRPORTS if (a.get("iata") or "").upper() == token), None)
+            return {"iata": token, "name": meta.get("name") if meta else None,
+                    "city": meta.get("city") if meta else None,
+                    "country": meta.get("country") if meta else None,
+                    "lat": lat, "lon": lon}
     return None
 
-# ----------------------------- Fetch/normalise -----------------------------
+MAJOR_DOMAINS = {
+    "reuters.com","bbc.co.uk","apnews.com","theguardian.com","nytimes.com","bloomberg.com",
+    "ft.com","aljazeera.com","dw.com","france24.com","euronews.com","avherald.com","gov.uk","faa.gov",
+    "easa.europa.eu","ncsc.gov.uk","noaa.gov"
+}
+def classify_type(url: str, declared: str, src_domain: str) -> str:
+    if (declared or "").lower() == "social": return "social"
+    return "major news" if any(src_domain.endswith(d) for d in MAJOR_DOMAINS) else "local news"
 
-def fetch_feed(url: str) -> Tuple[str, List[Any]]:
+# ----------------------------- social filters -----------------------------
+def load_social_filters():
+    y = load_yaml(SOCIAL_FILTERS_YAML)
+    blocked_post_domains = set((y.get("blocked_post_domains") or []))
+    blocked_terms        = set((y.get("blocked_terms") or []))
+    allowed_link_domains = set((y.get("allowed_link_domains") or []))
+    allow_gov_like       = bool(y.get("allow_gov_like_tlds", True))
+    min_text_chars       = int(y.get("min_text_chars", 0))
+    return blocked_post_domains, blocked_terms, allowed_link_domains, allow_gov_like, min_text_chars
+
+BLOCK_DOMAINS, BLOCK_TERMS, ALLOW_LINKS, ALLOW_GOV_TLDS, MIN_TEXT = load_social_filters()
+
+URL_RE = re.compile(r"https?://[^\s)]+", re.I)
+def extract_urls(text: str) -> List[str]:
+    return URL_RE.findall(text or "")
+
+def looks_gov_like(d: str) -> bool:
+    return bool(re.search(r"\.(gov|mil|gob\.[a-z]{2}|go\.[a-z]{2})(?:$|/)", d))
+
+def is_social_allowed(post_url: str, text: str) -> bool:
+    # 1) hard block by the post host
+    host = domain_of(post_url)
+    if host in BLOCK_DOMAINS: return False
+
+    # 2) text length gate
+    if MIN_TEXT and len((text or "").strip()) < MIN_TEXT: return False
+
+    # 3) term block
+    lowered = (text or "").lower()
+    if any(term.lower() in lowered for term in BLOCK_TERMS): return False
+
+    # 4) link allow policy
+    if ALLOW_LINKS:
+        links = [domain_of(u) for u in extract_urls(text)]
+        if any(ld in ALLOW_LINKS for ld in links): return True
+        if ALLOW_GOV_TLDS and any(looks_gov_like(ld) for ld in links): return True
+        # no allowed links → drop
+        return False
+
+    # default allow
+    return True
+
+# ----------------------------- fetching & bookkeeping -----------------------------
+def fetch_feed(url: str, fail_db: Dict[str, dict]) -> Tuple[str, List[Any], str]:
+    dom = domain_of(url)
     try:
-        dom = get_domain(url)
-        if dom in BLOCKED_DOMAINS:
-            return dom, []
         r = requests.get(url, headers=UA, timeout=25)
+        if r.status_code in FAIL_HARD_CODES:
+            log.warning("Feed error %s: %s", r.status_code, url)
+            return dom, [], str(r.status_code)
         r.raise_for_status()
         d = feedparser.parse(r.content)
-        return d.feed.get("title", dom), d.entries
+        entries = d.entries or []
+        if not entries:
+            log.warning("Feed parsed but empty: %s", url)
+            return d.feed.get("title", dom), [], "empty"
+        return d.feed.get("title", dom), entries, ""
+    except requests.HTTPError as ex:
+        code = getattr(ex.response, "status_code", None)
+        reason = str(code) if code in FAIL_HARD_CODES else "other"
+        log.warning("Feed HTTP error %s for %s", code, url)
+        return dom, [], reason
     except Exception as ex:
-        log.warning("Feed error %s: %s", url, ex)
-        return get_domain(url), []
+        log.warning("Feed error %s: %s", type(ex).__name__, url)
+        return dom, [], "other"
 
+def update_fail_bookkeeping(url: str, reason: str, fail_db: Dict[str, dict]) -> bool:
+    rec = fail_db.setdefault(url, {"hard": 0, "empty": 0})
+    if reason in {"401","403","404"}: rec["hard"] += 1
+    elif reason == "empty":          rec["empty"] += 1
+    else:
+        rec["hard"]  = max(0, rec["hard"]  - 1)
+        rec["empty"] = max(0, rec["empty"] - 1)
+    return (rec["hard"] >= FAIL_MAX_CONSEC) or (rec["empty"] >= FAIL_EMPTY_MAX)
+
+def record_success(url: str, fail_db: Dict[str, dict]):
+    if url in fail_db:
+        fail_db[url]["hard"] = 0
+        fail_db[url]["empty"] = 0
+
+# ----------------------------- normalise -----------------------------
 def derive_title(raw_title: str, summary: str) -> str:
     t = strip_html(raw_title or "").strip()
-    if t and t.lower() != "(no title)":
-        return t
-    lines = [ln.strip() for ln in (summary or "").splitlines() if ln.strip()]
-    return lines[0][:160] if lines else "(no title)"
-
-def classify_type(url: str, declared: str, src_dom: str) -> str:
-    if (declared or "").lower() == "social":
-        return "social"
-    return "major news" if any(src_dom.endswith(d) for d in MAJOR_DOMAINS) else "local news"
+    if t and t.lower() != "(no title)": return t
+    first = next((ln for ln in (summary or "").strip().splitlines() if ln.strip()), "")
+    return (first[:160] if first else "(no title)")
 
 def normalise(entry, feedtitle: str, declared_type: str):
     url = entry.get("link", "") or entry.get("id", "") or ""
-    summary_clean = strip_html(entry.get("summary", ""))
-    title_clean   = derive_title(entry.get("title", ""), summary_clean)
+    raw_title = entry.get("title", "") or ""
+    raw_summary = entry.get("summary", "") or ""
 
-    # Language & translation
+    summary_clean = strip_html(raw_summary)
+    title_clean   = derive_title(raw_title, summary_clean)
+
     lang = safe_detect(f"{title_clean} {summary_clean}")
-    title_en   = title_clean if lang == "en" else to_english(title_clean)
+    title_en   = title_clean   if lang == "en" else to_english(title_clean)
     summary_en = summary_clean if lang == "en" else to_english(summary_clean)
+    text_for_filter = f"{title_en} {summary_en}"
 
-    # text for filters
-    text_en = f"{title_en} {summary_en}"
-    if should_exclude(text_en):
-        return None
+    # kill excluded words early
+    if should_exclude(text_for_filter): return None
 
-    # Time
+    # time
     pub = None
-    for k in ("published", "updated", "created"):
+    for k in ("published","updated","created"):
         if entry.get(k):
             try:
-                pub = dtparse.parse(entry[k]).astimezone(timezone.utc)
-                break
-            except Exception:
-                pass
-    if not pub:
-        pub = now_utc()
+                pub = dtparse.parse(entry[k]).astimezone(timezone.utc); break
+            except Exception: pass
+    if not pub: pub = now_utc()
 
-    src_dom  = get_domain(url)
-    if src_dom in BLOCKED_DOMAINS:
-        return None
-    src_name = clean_source(feedtitle, url)
+    src_dom  = domain_of(url)
+    src_name = feedtitle or src_dom
 
-    # Tags & geo
-    tags = tags_for(text_en)
+    # social spam gate
+    if (declared_type or "").lower() == "social":
+        if not is_social_allowed(url, text_for_filter):
+            return None
+
+    # tags + airport hinting
+    item_tags = tags_for(text_for_filter)
     geo = {}
-    ap = match_airport(text_en)
+    ap = match_airport(text_for_filter)
     if ap:
-        geo = {
-            "airport": ap.get("name"),
-            "city": ap.get("city"),
-            "country": ap.get("country"),
-            "iata": ap.get("iata"),
-        }
+        geo = {"airport": ap.get("name"), "city": ap.get("city"), "country": ap.get("country"),
+               "iata": ap.get("iata")}
         if ap.get("lat") is not None and ap.get("lon") is not None:
             geo["lat"], geo["lon"] = ap["lat"], ap["lon"]
-        if ap.get("iata"):
-            tags.append(ap["iata"])
-        if ap.get("country"):
-            tags.append(ap["country"])
+        if ap.get("iata"):    item_tags.append(ap["iata"])
+        if ap.get("country"): item_tags.append(ap["country"])
 
-    # Keep only relevant (airport/security or diplomacy)
-    if not (("airport/security" in tags) or ("diplomatic" in tags)):
+    # keep only if relevant
+    if not (("airport/security" in item_tags) or ("diplomatic" in item_tags)):
         return None
 
     item_type = classify_type(url, declared_type, src_dom)
-    tags = sorted(set(tags))
+    item_tags = sorted(set(item_tags))
 
     return {
         "id": sha1_16(url or title_en),
-        # store originals + translations for UI toggle
-        "title_orig": title_clean, "summary_orig": summary_clean, "lang": lang,
-        "title_en": title_en, "summary_en": summary_en,
-        # legacy convenience (default EN)
-        "title": title_en, "summary": summary_en,
-        "url": url, "source": src_name, "published_at": pub.isoformat(),
-        "tags": tags, "type": item_type, "geo": geo
+        "title_orig": title_clean,
+        "summary_orig": summary_clean,
+        "lang": lang,
+        "title_en": title_en,
+        "summary_en": summary_en,
+        "title": title_en,
+        "summary": summary_en,
+        "url": url,
+        "source": src_name,
+        "published_at": pub.isoformat(),
+        "tags": item_tags,
+        "type": item_type,
+        "geo": geo
     }
 
-# ----------------------------- Sharding helpers -----------------------------
-
-def shard(items: List[str], shard_index: int, total_shards: int) -> List[str]:
-    if total_shards <= 1:
-        return items
-    shard_index = max(1, min(shard_index, total_shards))
-    return [u for i, u in enumerate(items) if (i % total_shards) == (shard_index - 1)]
-
-# ----------------------------- Collect -----------------------------
-
+# ----------------------------- collect -----------------------------
 def collect_block(feed_urls: List[str], declared_type: str,
-                  status_prefix: str, per_feed_limit: int) -> List[Dict[str, Any]]:
+                  per_feed_limit: int, fail_db: Dict[str, dict], status: dict):
     items: List[Dict[str, Any]] = []
-    total = len(feed_urls)
-    done = 0
-    for url in feed_urls:
-        done += 1
-        write_status({
-            "started_at": iso(STARTED_AT),
-            "total": total, "done": done,
-            "current": get_domain(url),
-            "note": f"{status_prefix}: {done}/{total}",
-            "version": APP_VER
-        })
-        feedtitle, entries = fetch_feed(url)
-        for e in entries[:per_feed_limit]:
-            it = normalise(e, feedtitle, declared_type)
-            if it:
-                items.append(it)
+    for f in feed_urls:
+        status["current"] = domain_of(f); write_status(status)
+        title, entries, fail_reason = fetch_feed(f, fail_db)
+        if fail_reason:
+            if update_fail_bookkeeping(f, fail_reason, fail_db):
+                log.warning("Quarantining broken feed: %s (%s)", f, fail_reason)
+                mark_broken(f)
+            continue
+        else:
+            record_success(f, fail_db)
+
+        for e in entries[:80]:
+            it = normalise(e, title, declared_type)
+            if it: items.append(it)
+
+        status["done"] = status.get("done", 0) + 1; write_status(status)
     return items
 
-def collect_all() -> List[Dict[str, Any]]:
+def collect_all():
+    started = now_utc().isoformat()
+    status = {"started_at": started, "version": APP_VER, "total": 0, "done": 0, "current": ""}
+    write_status(status)
+
+    NEWS, AUTH, OFFICIAL, WEATHER, SOCIAL = load_all_feeds()
+    all_feeds = NEWS + AUTH + OFFICIAL + WEATHER + SOCIAL
+    status["total"] = len(all_feeds); write_status(status)
+
+    fail_db = load_fail_db()
+
     items: List[Dict[str, Any]] = []
+    items += collect_block(NEWS,     "news",   80, fail_db, status)
+    items += collect_block(AUTH,     "news",   80, fail_db, status)
+    items += collect_block(OFFICIAL, "news",   80, fail_db, status)
+    items += collect_block(WEATHER,  "news",   80, fail_db, status)
+    items += collect_block(SOCIAL,   "social", 80, fail_db, status)
 
-    # NEWS shardable
-    news_urls = shard(list(dict.fromkeys(NEWS_FEEDS)), SHARD_INDEX, TOTAL_SHARDS)
-    items += collect_block(news_urls, "news", "News", PER_FEED_LIMIT)
+    save_fail_db(fail_db)
 
-    # The rest are usually small – run on every shard
-    items += collect_block(list(dict.fromkeys(AUTH_FEEDS)), "news", "Authorities", PER_FEED_LIMIT)
-    items += collect_block(list(dict.fromkeys(OFFICIAL_FEEDS)), "news", "Official", PER_FEED_LIMIT)
-    items += collect_block(list(dict.fromkeys(WEATHER_FEEDS)), "news", "Weather", PER_FEED_LIMIT)
-    items += collect_block(list(dict.fromkeys(SOCIAL_FEEDS)), "social", "Social", PER_FEED_LIMIT)
-
-    # De-dupe newest by id
     best: Dict[str, Dict[str, Any]] = {}
     for it in items:
         k = it["id"]
         if (k not in best) or (it["published_at"] > best[k]["published_at"]):
             best[k] = it
-    out = list(best.values())
-    out.sort(key=lambda x: x["published_at"], reverse=True)
-    return out[:500]
+    out = list(best.values()); out.sort(key=lambda x: x["published_at"], reverse=True)
+    out = out[:500]
 
-# ----------------------------- Main -----------------------------
+    with open(DATA_OUT, "w", encoding="utf-8") as f:
+        json.dump({"generated_at": now_utc().isoformat(), "items": out, "trends": {}}, f,
+                  indent=2, ensure_ascii=False)
 
-def main():
-    global STARTED_AT
-    STARTED_AT = now_utc()
-    write_status({
-        "started_at": iso(STARTED_AT),
-        "total": 0, "done": 0, "current": None,
-        "note": "Starting…", "version": APP_VER
-    })
+    status.update({"finished_at": now_utc().isoformat(), "note": f"Collected {len(out)} items"})
+    write_status(status); log.info("Done. Items=%d", len(out))
 
-    items = collect_all()
-
-    data = {"generated_at": iso(now_utc()), "items": items, "trends": {}}
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-
-    write_status({
-        "started_at": iso(STARTED_AT),
-        "finished_at": iso(now_utc()),
-        "total": len(NEWS_FEEDS),
-        "done": len(NEWS_FEEDS) if TOTAL_SHARDS <= 1 else len(shard(NEWS_FEEDS, SHARD_INDEX, TOTAL_SHARDS)),
-        "current": None,
-        "note": f"Collected {len(items)} items",
-        "version": APP_VER
-    })
-    log.info("Wrote %s (%d items) and status.json", DATA_FILE, len(items))
-
-if __name__ == "__main__":
-    main()
+def main(): collect_all()
+if __name__ == "__main__": main()
