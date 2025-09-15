@@ -1,0 +1,120 @@
+# Extra local & regional outlets. Safe to keep separate from feeds.yaml.
+# The collector merges this at runtime and auto-prunes broken sources.
+news_extra:
+  # -------- United Kingdom --------
+  - https://metro.co.uk/feed/
+  - https://www.standard.co.uk/news/rss
+  - https://www.manchestereveningnews.co.uk/news/?service=rss
+  - https://www.liverpoolecho.co.uk/?service=rss
+  - https://www.birminghammail.co.uk/?service=rss
+  - https://www.bristolpost.co.uk/?service=rss
+  - https://www.nottinghampost.com/?service=rss
+  - https://www.leicestermercury.co.uk/?service=rss
+  - https://www.derbytelegraph.co.uk/?service=rss
+  - https://www.kentlive.news/?service=rss
+  - https://www.getsurrey.co.uk/?service=rss
+  - https://www.cambridge-news.co.uk/?service=rss
+  - https://www.oxfordshirelive.co.uk/?service=rss
+  - https://www.leeds-live.co.uk/?service=rss
+  - https://www.sussexlive.co.uk/?service=rss
+  - https://www.devonlive.com/?service=rss
+  - https://www.cornwalllive.com/?service=rss
+  - https://www.northantslive.news/?service=rss
+  - https://www.hertsad.co.uk/rss
+  - https://www.yorkshireeveningpost.co.uk/rss
+  - https://www.edinburghnews.scotsman.com/rss
+  - https://www.scotsman.com/rss
+  - https://www.dailyrecord.co.uk/?service=rss
+  - https://www.walesonline.co.uk/?service=rss
+  - https://www.belfastlive.co.uk/?service=rss
+
+  # -------- Ireland --------
+  - https://www.irishexaminer.com/feed/
+  - https://www.thejournal.ie/feed/
+  - https://www.breakingnews.ie/feed/rss/
+
+  # -------- United States (mix of newspapers & local TV) --------
+  - https://ktla.com/feed/                # Los Angeles
+  - https://fox5sandiego.com/feed/       # San Diego
+  - https://www.bostonglobe.com/rss/     # Boston (site-wide)
+  - https://www.seattletimes.com/feed/   # Seattle
+  - https://www.denverpost.com/feed/     # Denver
+  - https://www.startribune.com/rss/     # Minneapolis
+  - https://www.cleveland.com/arc/outboundfeeds/rss/?outputType=xml
+  - https://www.oregonlive.com/arc/outboundfeeds/rss/?outputType=xml
+  - https://www.nola.com/arc/outboundfeeds/rss/?outputType=xml
+  - https://www.pennlive.com/arc/outboundfeeds/rss/?outputType=xml
+  - https://www.syracuse.com/arc/outboundfeeds/rss/?outputType=xml
+  - https://www.mlive.com/arc/outboundfeeds/rss/?outputType=xml    # Michigan local network
+  - https://www.tampabay.com/feeds/all/
+  - https://www.dallasnews.com/feed/     # Dallas Morning News
+  - https://www.sfchronicle.com/local/feed/  # S.F. local (may redirect)
+  - https://www.chron.com/local/feed/        # Houston local
+  - https://www.azfamily.com/search/?f=rss&t=article&c=news  # Phoenix (KTVK/KPHO)
+  - https://www.kxan.com/feed/           # Austin
+  - https://www.kgw.com/feeds/syndication/rss/news  # Portland OR
+  - https://www.wral.com/rs/rss/105911/   # Raleigh
+  - https://www.ajc.com/news/?output=rss  # Atlanta
+  - https://www.phillyvoice.com/rss/      # Philadelphia
+  - https://www.inquirer.com/arcio/rss/   # Philadelphia Inquirer
+  - https://www.cincinnati.com/rss/       # May be aggregated regional feed
+  - https://wtop.com/feed/                # DC region radio newsroom
+  - https://www.kpbs.org/feeds/news       # San Diego public media
+  - https://www.kqed.org/news/rss         # Bay Area public media
+
+  # -------- Canada --------
+  - https://www.cbc.ca/cmlink/rss-canada-toronto
+  - https://www.cbc.ca/cmlink/rss-canada-britishcolumbia
+  - https://www.cbc.ca/cmlink/rss-canada-alberta
+  - https://www.cbc.ca/cmlink/rss-canada-saskatchewan
+  - https://www.cbc.ca/cmlink/rss-canada-manitoba
+  - https://www.cbc.ca/cmlink/rss-canada-ottawa
+  - https://www.cbc.ca/cmlink/rss-canada-montreal
+  - https://www.cbc.ca/cmlink/rss-canada-newbrunswick
+  - https://www.cbc.ca/cmlink/rss-canada-novascotia
+  - https://www.cbc.ca/cmlink/rss-canada-newfoundland
+  - https://www.cp24.com/rss/CP24-Latest
+  - https://globalnews.ca/feed/            # national + locals mixed
+
+  # -------- Europe (non-UK) --------
+  - https://www.thelocal.de/feeds/rss.php
+  - https://www.thelocal.fr/feeds/rss.php
+  - https://www.thelocal.es/feeds/rss.php
+  - https://www.thelocal.it/feeds/rss.php
+  - https://www.thelocal.se/feeds/rss.php
+  - https://www.thelocal.dk/feeds/rss.php
+  - https://www.politico.eu/feed/          # EU politics (regional)
+  - https://www.rte.ie/news/rss/           # Ireland national/local mix
+  - https://www.leparisien.fr/arc/outboundfeeds/rss/?outputType=xml
+  - https://www.20min.ch/rss.xml           # Switzerland (cities)
+  - https://www.elmundo.es/rss/            # Spain (multiple sections)
+  - https://www.elpais.com/rss/elpais/portada.xml
+
+  # -------- Australia & New Zealand --------
+  - https://www.abc.net.au/news/feed/51120/rss.xml   # NSW
+  - https://www.abc.net.au/news/feed/46182/rss.xml   # QLD
+  - https://www.abc.net.au/news/feed/45944/rss.xml   # VIC
+  - https://www.abc.net.au/news/feed/45966/rss.xml   # SA
+  - https://www.abc.net.au/news/feed/45950/rss.xml   # WA
+  - https://www.abc.net.au/news/feed/45956/rss.xml   # TAS
+  - https://www.abc.net.au/news/feed/51126/rss.xml   # ACT
+  - https://www.stuff.co.nz/rss                      # NZ network
+  - https://www.nzherald.co.nz/rss/                  # NZ national + local
+
+  # -------- Asia --------
+  - https://www.japantimes.co.jp/feed/               # Japan (site-wide)
+  - https://www.scmp.com/rss/91/feed                 # SCMP Hong Kong: City
+  - https://www.straitstimes.com/news/world/rss.xml  # Singapore/world
+  - https://www.thehindu.com/news/national/feeder/default.rss
+  - https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml
+  - https://www.bangkokpost.com/rss/data/topstories.xml
+  - https://www.koreatimes.co.kr/www/rss/nation.xml
+  - https://www.taipeitimes.com/rss/frontpage
+
+  # -------- Middle East & Africa --------
+  - https://www.thenationalnews.com/feeds/rss        # UAE (site-wide)
+  - https://www.arabnews.com/rss.xml                 # KSA (site-wide)
+  - https://www.dawn.com/feeds/home                  # Pakistan
+  - https://ewn.co.za/RSS                            # South Africa (Eyewitness News)
+  - https://www.news24.com/news24/rss                # South Africa network
+  - https://www.theeastafrican.co.ke/feeds/539449/539450/-/format/rdf/-/f8u1v3/-/index.xml
