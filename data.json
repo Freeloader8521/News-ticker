@@ -1,6 +1,69 @@
 {
-  "generated_at": "2025-09-15T18:50:13.370792+00:00",
+  "generated_at": "2025-09-15T19:01:22.188198+00:00",
   "items": [
+    {
+      "id": "fe90f3bd1e8b0363",
+      "title_orig": "Ukraine-Russia war latest: UK Typhoon jets to join defence missions over Poland after ‘reckless’ drone incursions",
+      "summary_orig": "Moscow claims Nato already fighting Russia by backing Kyiv",
+      "lang": "en",
+      "title_en": "Ukraine-Russia war latest: UK Typhoon jets to join defence missions over Poland after ‘reckless’ drone incursions",
+      "summary_en": "Moscow claims Nato already fighting Russia by backing Kyiv",
+      "title": "Ukraine-Russia war latest: UK Typhoon jets to join defence missions over Poland after ‘reckless’ drone incursions",
+      "summary": "Moscow claims Nato already fighting Russia by backing Kyiv",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-romania-drones-nato-poland-latest-news-b2826568.html",
+      "source": "The Independent World",
+      "published_at": "2025-09-15T18:54:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "096c34e796afa838",
+      "title_orig": "Hundreds stranded in Bahamas after 'drunk' TUI passenger forces diversion",
+      "summary_orig": "The flight was heading to Manchester Airport from Montego Bay",
+      "lang": "en",
+      "title_en": "Hundreds stranded in Bahamas after 'drunk' TUI passenger forces diversion",
+      "summary_en": "The flight was heading to Manchester Airport from Montego Bay",
+      "title": "Hundreds stranded in Bahamas after 'drunk' TUI passenger forces diversion",
+      "summary": "The flight was heading to Manchester Airport from Montego Bay",
+      "url": "https://www.liverpoolecho.co.uk/news/hundreds-stranded-bahamas-after-drunk-32482542",
+      "source": "Liverpool Echo - News",
+      "published_at": "2025-09-15T18:48:55+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "b4c495ba8a185699",
+      "title_orig": "Vance urges people to go hard against anyone ‘justifying or celebrating’ Charlie Kirk’s killing – live",
+      "summary_orig": "JD Vance says the Trump administration would work to dismantle those who celebrate Kirk’s death and political violence against their opponents Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
+      "lang": "en",
+      "title_en": "Vance urges people to go hard against anyone ‘justifying or celebrating’ Charlie Kirk’s killing – live",
+      "summary_en": "JD Vance says the Trump administration would work to dismantle those who celebrate Kirk’s death and political violence against their opponents Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
+      "title": "Vance urges people to go hard against anyone ‘justifying or celebrating’ Charlie Kirk’s killing – live",
+      "summary": "JD Vance says the Trump administration would work to dismantle those who celebrate Kirk’s death and political violence against their opponents Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/15/donald-trump-politics-washington-dc-national-emergency-ice-charlie-kirk-live-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-15T18:48:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "ee0e19f1000522d9",
       "title_orig": "Fifty Arab and Muslim leaders host urgent summit in Qatar over Israel’s ‘treacherous’ Doha bombing",
@@ -47,7 +110,7 @@
       "title": "RAF Typhoon jets ready to shoot down drones over Poland, UK says",
       "summary": "‘Nato is responding with unity and strength’ to Russian threats, says John Healey RAF Typhoon jets will be deployed within days to shoot down drones over Poland and other Nato allies in eastern Europe if necessary, after last week’s incursion of 19 uncrewed Russian aircraft into Poland. The British fighters, based at Coningsby in Lincolnshire, will join Nato’s new Eastern Sentry mission working alongside French, German and Danish counterparts who are acting as reinforcements for Dutch F-35s and Polish F-16s. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2025/sep/15/raf-typhoon-jets-ready-to-shoot-down-drones-over-poland-uk-says",
-      "source": "UK news | The Guardian",
+      "source": "World news | The Guardian",
       "published_at": "2025-09-15T18:40:14+00:00",
       "tags": [
         "airport/security"
@@ -58,78 +121,15 @@
     {
       "id": "effd9c31b431bf73",
       "title_orig": "‘Our children matter’: parents protest against government’s Send reform plans",
-      "summary_orig": "Concerns grow over potential cuts to educational support as Lib Dem leader addresses rally at Westminster Parents who are fearful about the government’s plans to overhaul special needs education in England took their fight to parliament on Monday, where the Liberal Democrat leader, Ed Davey, warned the prime minister: “Get this wrong and you are out.” Up to 700 parents, many carrying colourful, homemade banners, took part in the Westminster day of protest. “Failed”, said one poster in blood-red paint, dripping over a list of children’s names. “Stop cuts, start caring,” said another. Continue reading...",
+      "summary_orig": "Concerns grow over potential cuts to educational support as Lib Dem leader addresses rally at Westminster Parents fearful about the government’s plans to overhaul special needs education in England took their fight to parliament on Monday, where the Liberal Democrat leader, Ed Davey, warned the prime minister: “Get this wrong and you are out.” Up to 700 parents, many carrying colourful, homemade banners, took part in the Westminster day of protest. “Failed,” said one poster in blood-red paint, dripping over a list of children’s names. “Stop cuts, start caring,” said another. Continue reading...",
       "lang": "en",
       "title_en": "‘Our children matter’: parents protest against government’s Send reform plans",
-      "summary_en": "Concerns grow over potential cuts to educational support as Lib Dem leader addresses rally at Westminster Parents who are fearful about the government’s plans to overhaul special needs education in England took their fight to parliament on Monday, where the Liberal Democrat leader, Ed Davey, warned the prime minister: “Get this wrong and you are out.” Up to 700 parents, many carrying colourful, homemade banners, took part in the Westminster day of protest. “Failed”, said one poster in blood-red paint, dripping over a list of children’s names. “Stop cuts, start caring,” said another. Continue reading...",
+      "summary_en": "Concerns grow over potential cuts to educational support as Lib Dem leader addresses rally at Westminster Parents fearful about the government’s plans to overhaul special needs education in England took their fight to parliament on Monday, where the Liberal Democrat leader, Ed Davey, warned the prime minister: “Get this wrong and you are out.” Up to 700 parents, many carrying colourful, homemade banners, took part in the Westminster day of protest. “Failed,” said one poster in blood-red paint, dripping over a list of children’s names. “Stop cuts, start caring,” said another. Continue reading...",
       "title": "‘Our children matter’: parents protest against government’s Send reform plans",
-      "summary": "Concerns grow over potential cuts to educational support as Lib Dem leader addresses rally at Westminster Parents who are fearful about the government’s plans to overhaul special needs education in England took their fight to parliament on Monday, where the Liberal Democrat leader, Ed Davey, warned the prime minister: “Get this wrong and you are out.” Up to 700 parents, many carrying colourful, homemade banners, took part in the Westminster day of protest. “Failed”, said one poster in blood-red paint, dripping over a list of children’s names. “Stop cuts, start caring,” said another. Continue reading...",
+      "summary": "Concerns grow over potential cuts to educational support as Lib Dem leader addresses rally at Westminster Parents fearful about the government’s plans to overhaul special needs education in England took their fight to parliament on Monday, where the Liberal Democrat leader, Ed Davey, warned the prime minister: “Get this wrong and you are out.” Up to 700 parents, many carrying colourful, homemade banners, took part in the Westminster day of protest. “Failed,” said one poster in blood-red paint, dripping over a list of children’s names. “Stop cuts, start caring,” said another. Continue reading...",
       "url": "https://www.theguardian.com/education/2025/sep/15/parents-protest-england-send-reform-education",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-09-15T18:37:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "41ac7e8d5c454385",
-      "title_orig": "Aviation weather for Haneda International airport in Tokyo area (Japan) is “RJTT 151800Z 14003KT 9999 FEW010 SCT030 BKN045 27/26 Q1015 NOSIG RMK 1CU010 3CU030 6",
-      "summary_orig": "Aviation weather for Haneda International airport in Tokyo area (Japan) is “RJTT 151800Z 14003KT 9999 FEW010 SCT030 BKN045 27/26 Q1015 NOSIG RMK 1CU010 3CU030 6SC045 A2998” :  See what it means on https://www. bigorre.org/aero/meteo/rjtt/en # tokyo # japan # hanedainternationalairport # rjtt # hnd # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Aviation weather for Haneda International airport in Tokyo area (Japan) is “RJTT 151800Z 14003KT 9999 FEW010 SCT030 BKN045 27/26 Q1015 NOSIG RMK 1CU010 3CU030 6",
-      "summary_en": "Aviation weather for Haneda International airport in Tokyo area (Japan) is “RJTT 151800Z 14003KT 9999 FEW010 SCT030 BKN045 27/26 Q1015 NOSIG RMK 1CU010 3CU030 6SC045 A2998” :  See what it means on https://www. bigorre.org/aero/meteo/rjtt/en # tokyo # japan # hanedainternationalairport # rjtt # hnd # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Aviation weather for Haneda International airport in Tokyo area (Japan) is “RJTT 151800Z 14003KT 9999 FEW010 SCT030 BKN045 27/26 Q1015 NOSIG RMK 1CU010 3CU030 6",
-      "summary": "Aviation weather for Haneda International airport in Tokyo area (Japan) is “RJTT 151800Z 14003KT 9999 FEW010 SCT030 BKN045 27/26 Q1015 NOSIG RMK 1CU010 3CU030 6SC045 A2998” :  See what it means on https://www. bigorre.org/aero/meteo/rjtt/en # tokyo # japan # hanedainternationalairport # rjtt # hnd # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115209759340783334",
-      "source": "#aviation",
-      "published_at": "2025-09-15T18:36:55+00:00",
-      "tags": [
-        "HND",
-        "Japan",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Haneda",
-        "city": "Tokyo",
-        "country": "Japan",
-        "iata": "HND",
-        "lat": 35.5494,
-        "lon": 139.7798
-      }
-    },
-    {
-      "id": "fe90f3bd1e8b0363",
-      "title_orig": "Ukraine-Russia war latest: Moscow claims Nato is ‘fighting against Russia’ after drones enter Romanian airspace",
-      "summary_orig": "Romania condemns Moscow's 'unacceptable and irresponsible' violation of its sovereignty",
-      "lang": "en",
-      "title_en": "Ukraine-Russia war latest: Moscow claims Nato is ‘fighting against Russia’ after drones enter Romanian airspace",
-      "summary_en": "Romania condemns Moscow's 'unacceptable and irresponsible' violation of its sovereignty",
-      "title": "Ukraine-Russia war latest: Moscow claims Nato is ‘fighting against Russia’ after drones enter Romanian airspace",
-      "summary": "Romania condemns Moscow's 'unacceptable and irresponsible' violation of its sovereignty",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-romania-drones-nato-poland-latest-news-b2826568.html",
-      "source": "The Independent World",
-      "published_at": "2025-09-15T18:35:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b4c495ba8a185699",
-      "title_orig": "Trump aide Stephen Miller vows to ‘destroy’ what he claims is ‘domestic terror movement’ after Charlie Kirk killing – live",
-      "summary_orig": "White House deputy chief of staff joins JD Vance on Kirk’s podcast to threaten retribution for death of rightwing activist as motive for attack remains unclear DNA evidence links suspect to killing of Charlie Kirk, FBI director says Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
-      "lang": "en",
-      "title_en": "Trump aide Stephen Miller vows to ‘destroy’ what he claims is ‘domestic terror movement’ after Charlie Kirk killing – live",
-      "summary_en": "White House deputy chief of staff joins JD Vance on Kirk’s podcast to threaten retribution for death of rightwing activist as motive for attack remains unclear DNA evidence links suspect to killing of Charlie Kirk, FBI director says Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
-      "title": "Trump aide Stephen Miller vows to ‘destroy’ what he claims is ‘domestic terror movement’ after Charlie Kirk killing – live",
-      "summary": "White House deputy chief of staff joins JD Vance on Kirk’s podcast to threaten retribution for death of rightwing activist as motive for attack remains unclear DNA evidence links suspect to killing of Charlie Kirk, FBI director says Secretary of state Marco Rubio will travel to Qatar on Tuesday , the Washington Post is reporting, after holding talks with Benjamin Netanyahu today in Israel. As my colleague Julian Borger writes : “Part of [Rubio’s] mission on this two-day visit is to convey Donald Trump ’s irritation at the Israeli missile strike on Doha that was aimed at Hamas leadership but killed their aides and a Qatari security officer. Common sense dictates that drone technology should be harnessed to scan every elevated structure with a line of sight to a target. If drones can enable the early detection and prevention of assassination attempts, why not use them? Better to have vigilant eyes in the sky than to remain blind to would-be assassins. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/15/donald-trump-politics-washington-dc-national-emergency-ice-charlie-kirk-live-news-updates",
       "source": "World news | The Guardian",
-      "published_at": "2025-09-15T18:33:08+00:00",
+      "published_at": "2025-09-15T18:37:52+00:00",
       "tags": [
         "airport/security"
       ],
@@ -155,60 +155,6 @@
       "geo": {}
     },
     {
-      "id": "362d84c5b07f0652",
-      "title_orig": "Patch now! Attacks on Android smartphones from Samsung observed Samsung has closed a malicious code gap in various Android versions. Exploit code is already in ",
-      "summary_orig": "Patch now! Attacks on Android smartphones from Samsung observed Samsung has closed a malicious code gap in various Android versions. Exploit code is already in circulation. https://www. heise.de/en/news/Patch-now-Att acks-on-Android-smartphones-from-Samsung-observed-10645499.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # Android # Cyberangriff # Exploit # Mobiles # Patchday # Samsung # Security # Sicherheitslücken # Updates # news",
-      "lang": "en",
-      "title_en": "Patch now! Attacks on Android smartphones from Samsung observed Samsung has closed a malicious code gap in various Android versions. Exploit code is already in ",
-      "summary_en": "Patch now! Attacks on Android smartphones from Samsung observed Samsung has closed a malicious code gap in various Android versions. Exploit code is already in circulation. https://www. heise.de/en/news/Patch-now-Att acks-on-Android-smartphones-from-Samsung-observed-10645499.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # Android # Cyberangriff # Exploit # Mobiles # Patchday # Samsung # Security # Sicherheitslücken # Updates # news",
-      "title": "Patch now! Attacks on Android smartphones from Samsung observed Samsung has closed a malicious code gap in various Android versions. Exploit code is already in ",
-      "summary": "Patch now! Attacks on Android smartphones from Samsung observed Samsung has closed a malicious code gap in various Android versions. Exploit code is already in circulation. https://www. heise.de/en/news/Patch-now-Att acks-on-Android-smartphones-from-Samsung-observed-10645499.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # Android # Cyberangriff # Exploit # Mobiles # Patchday # Samsung # Security # Sicherheitslücken # Updates # news",
-      "url": "https://social.heise.de/@heiseonlineenglish/115209739981644239",
-      "source": "#security",
-      "published_at": "2025-09-15T18:32:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "92c21b18d9e6004a",
-      "title_orig": "Aviation weather for Gallatin Field airport in Bozeman area (USA) is “KBZN 151756Z COR 19004KT 10SM FEW060 OVC120 14/08 A3013 RMK AO2 SLP183 T01390083 51013 $” ",
-      "summary_orig": "Aviation weather for Gallatin Field airport in Bozeman area (USA) is “KBZN 151756Z COR 19004KT 10SM FEW060 OVC120 14/08 A3013 RMK AO2 SLP183 T01390083 51013 $” :  See what it means on https://www. bigorre.org/aero/meteo/kbzn/en # bozeman # usa # gallatinfieldairport # kbzn # bzn # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Aviation weather for Gallatin Field airport in Bozeman area (USA) is “KBZN 151756Z COR 19004KT 10SM FEW060 OVC120 14/08 A3013 RMK AO2 SLP183 T01390083 51013 $” ",
-      "summary_en": "Aviation weather for Gallatin Field airport in Bozeman area (USA) is “KBZN 151756Z COR 19004KT 10SM FEW060 OVC120 14/08 A3013 RMK AO2 SLP183 T01390083 51013 $” :  See what it means on https://www. bigorre.org/aero/meteo/kbzn/en # bozeman # usa # gallatinfieldairport # kbzn # bzn # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Aviation weather for Gallatin Field airport in Bozeman area (USA) is “KBZN 151756Z COR 19004KT 10SM FEW060 OVC120 14/08 A3013 RMK AO2 SLP183 T01390083 51013 $” ",
-      "summary": "Aviation weather for Gallatin Field airport in Bozeman area (USA) is “KBZN 151756Z COR 19004KT 10SM FEW060 OVC120 14/08 A3013 RMK AO2 SLP183 T01390083 51013 $” :  See what it means on https://www. bigorre.org/aero/meteo/kbzn/en # bozeman # usa # gallatinfieldairport # kbzn # bzn # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115209739589151572",
-      "source": "#aviation",
-      "published_at": "2025-09-15T18:31:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "fb3ea3407e9ec4a7",
-      "title_orig": "Is this legal?",
-      "summary_orig": "A friend of mine owns his own airplane but also travels via the airlines for work. He has asked me to fly him to our regional airport and bring the plane back home. The reasoning is that he doesn't want to pay for vehicle parking, doesn't want to fly himself and leave his plane there out in the elements, and it's just generally faster to fly there than drive. I am not being compensated for this, but I often see remarks that the FAA counts flight time as compensation. I know it seems minuscule, but I honestly want to know what the law states around this, and I cannot find anything in my own research. submitted by /u/PlaneDevelopment1428 [link] [comments]",
-      "lang": "en",
-      "title_en": "Is this legal?",
-      "summary_en": "A friend of mine owns his own airplane but also travels via the airlines for work. He has asked me to fly him to our regional airport and bring the plane back home. The reasoning is that he doesn't want to pay for vehicle parking, doesn't want to fly himself and leave his plane there out in the elements, and it's just generally faster to fly there than drive. I am not being compensated for this, but I often see remarks that the FAA counts flight time as compensation. I know it seems minuscule, but I honestly want to know what the law states around this, and I cannot find anything in my own research. submitted by /u/PlaneDevelopment1428 [link] [comments]",
-      "title": "Is this legal?",
-      "summary": "A friend of mine owns his own airplane but also travels via the airlines for work. He has asked me to fly him to our regional airport and bring the plane back home. The reasoning is that he doesn't want to pay for vehicle parking, doesn't want to fly himself and leave his plane there out in the elements, and it's just generally faster to fly there than drive. I am not being compensated for this, but I often see remarks that the FAA counts flight time as compensation. I know it seems minuscule, but I honestly want to know what the law states around this, and I cannot find anything in my own research. submitted by /u/PlaneDevelopment1428 [link] [comments]",
-      "url": "https://www.reddit.com/r/flying/comments/1nhtxuo/is_this_legal/",
-      "source": "Flying",
-      "published_at": "2025-09-15T18:30:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "e5671ef3036c4ee8",
       "title_orig": "Who were the key figures at the Unite the Kingdom rally in London?",
       "summary_orig": "At the march attended by at least 110,000 people, Tommy Robinson was joined by some influential supporters Britain witnessed one of the largest far-right demonstrations in recent memory on Saturday in London. Organised by Stephen Yaxley-Lennon, better known as Tommy Robinson, the Unite the Kingdom protest was attended by between 110,000 and 150,000 people , exceeding the estimates of organisers, while about 5,000 “anti-racism” campaigners mounted a counter-protest. Continue reading...",
@@ -224,78 +170,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "cf47434e1d7b8c08",
-      "title_orig": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory - Academic researchers have devised a new variant of Rowhammer attacks that bypass the late... htt",
-      "summary_orig": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory - Academic researchers have devised a new variant of Rowhammer attacks that bypass the late... https://www. bleepingcomputer.com/news/secu rity/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/ # security",
-      "lang": "en",
-      "title_en": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory - Academic researchers have devised a new variant of Rowhammer attacks that bypass the late... htt",
-      "summary_en": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory - Academic researchers have devised a new variant of Rowhammer attacks that bypass the late... https://www. bleepingcomputer.com/news/secu rity/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/ # security",
-      "title": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory - Academic researchers have devised a new variant of Rowhammer attacks that bypass the late... htt",
-      "summary": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory - Academic researchers have devised a new variant of Rowhammer attacks that bypass the late... https://www. bleepingcomputer.com/news/secu rity/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/ # security",
-      "url": "https://schleuss.online/@itsecbot/115209696914343605",
-      "source": "#security",
-      "published_at": "2025-09-15T18:21:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "df6c9602eac77ce8",
-      "title_orig": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory https://www. bleepingcomputer.com/news/secu rity/new-phoenix-attack-bypasses-rowhammer-defenses-in",
-      "summary_orig": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory https://www. bleepingcomputer.com/news/secu rity/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/ # Security",
-      "lang": "en",
-      "title_en": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory https://www. bleepingcomputer.com/news/secu rity/new-phoenix-attack-bypasses-rowhammer-defenses-in",
-      "summary_en": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory https://www. bleepingcomputer.com/news/secu rity/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/ # Security",
-      "title": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory https://www. bleepingcomputer.com/news/secu rity/new-phoenix-attack-bypasses-rowhammer-defenses-in",
-      "summary": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory https://www. bleepingcomputer.com/news/secu rity/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/ # Security",
-      "url": "https://social.obeygravity.de/@bleepingcomputer_com/115209673347815009",
-      "source": "#security",
-      "published_at": "2025-09-15T18:15:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "2a7bafad3e1542bd",
-      "title_orig": "How many runways can you see for Gallatin Field airport in Bozeman area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kbzn/en # bozeman # usa ",
-      "summary_orig": "How many runways can you see for Gallatin Field airport in Bozeman area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kbzn/en # bozeman # usa # gallatinfieldairport # kbzn # bzn # airport # aviation # avgeek vl",
-      "lang": "en",
-      "title_en": "How many runways can you see for Gallatin Field airport in Bozeman area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kbzn/en # bozeman # usa ",
-      "summary_en": "How many runways can you see for Gallatin Field airport in Bozeman area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kbzn/en # bozeman # usa # gallatinfieldairport # kbzn # bzn # airport # aviation # avgeek vl",
-      "title": "How many runways can you see for Gallatin Field airport in Bozeman area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kbzn/en # bozeman # usa ",
-      "summary": "How many runways can you see for Gallatin Field airport in Bozeman area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kbzn/en # bozeman # usa # gallatinfieldairport # kbzn # bzn # airport # aviation # avgeek vl",
-      "url": "https://mastodon.social/@bigorre_org/115209658317929647",
-      "source": "#aviation",
-      "published_at": "2025-09-15T18:11:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "c976ba1b4bfeadba",
-      "title_orig": "Attackers can paralyze IT security solution IBM QRadar SIEM IBM QRadar SIEM is vulnerable in several ways. Security patches provide a remedy. https://www. heise",
-      "summary_orig": "Attackers can paralyze IT security solution IBM QRadar SIEM IBM QRadar SIEM is vulnerable in several ways. Security patches provide a remedy. https://www. heise.de/en/news/Attackers-can -paralyze-IT-security-solution-IBM-QRadar-SIEM-10644155.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # IT # Patchday # Security # Sicherheitslücken # Updates # news",
-      "lang": "en",
-      "title_en": "Attackers can paralyze IT security solution IBM QRadar SIEM IBM QRadar SIEM is vulnerable in several ways. Security patches provide a remedy. https://www. heise",
-      "summary_en": "Attackers can paralyze IT security solution IBM QRadar SIEM IBM QRadar SIEM is vulnerable in several ways. Security patches provide a remedy. https://www. heise.de/en/news/Attackers-can -paralyze-IT-security-solution-IBM-QRadar-SIEM-10644155.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # IT # Patchday # Security # Sicherheitslücken # Updates # news",
-      "title": "Attackers can paralyze IT security solution IBM QRadar SIEM IBM QRadar SIEM is vulnerable in several ways. Security patches provide a remedy. https://www. heise",
-      "summary": "Attackers can paralyze IT security solution IBM QRadar SIEM IBM QRadar SIEM is vulnerable in several ways. Security patches provide a remedy. https://www. heise.de/en/news/Attackers-can -paralyze-IT-security-solution-IBM-QRadar-SIEM-10644155.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # IT # Patchday # Security # Sicherheitslücken # Updates # news",
-      "url": "https://social.heise.de/@heiseonlineenglish/115209622017879516",
-      "source": "#security",
-      "published_at": "2025-09-15T18:02:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -315,69 +189,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "3ae6657b8fbb46fb",
-      "title_orig": "Aviation weather for Mondell Field airport in Newcastle area (USA) is “KECS 151715Z AUTO 16003KT 10SM CLR 22/04 A3003 RMK AO2” :  See what it means on https://w",
-      "summary_orig": "Aviation weather for Mondell Field airport in Newcastle area (USA) is “KECS 151715Z AUTO 16003KT 10SM CLR 22/04 A3003 RMK AO2” :  See what it means on https://www. bigorre.org/aero/meteo/kecs/en # newcastle # usa # mondellfieldairport # kecs # ecs # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Aviation weather for Mondell Field airport in Newcastle area (USA) is “KECS 151715Z AUTO 16003KT 10SM CLR 22/04 A3003 RMK AO2” :  See what it means on https://w",
-      "summary_en": "Aviation weather for Mondell Field airport in Newcastle area (USA) is “KECS 151715Z AUTO 16003KT 10SM CLR 22/04 A3003 RMK AO2” :  See what it means on https://www. bigorre.org/aero/meteo/kecs/en # newcastle # usa # mondellfieldairport # kecs # ecs # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Aviation weather for Mondell Field airport in Newcastle area (USA) is “KECS 151715Z AUTO 16003KT 10SM CLR 22/04 A3003 RMK AO2” :  See what it means on https://w",
-      "summary": "Aviation weather for Mondell Field airport in Newcastle area (USA) is “KECS 151715Z AUTO 16003KT 10SM CLR 22/04 A3003 RMK AO2” :  See what it means on https://www. bigorre.org/aero/meteo/kecs/en # newcastle # usa # mondellfieldairport # kecs # ecs # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115209560741658106",
-      "source": "#aviation",
-      "published_at": "2025-09-15T17:46:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "6588753f6c781bad",
-      "title_orig": "Aviation weather for Montreal-Trudeau International airport (Canada) is “CYUL 151700Z 36005KT 290V040 30SM FEW040 FEW250 21/10 A3032 RMK CU1CI1 CU TR CI TR SLP2",
-      "summary_orig": "Aviation weather for Montreal-Trudeau International airport (Canada) is “CYUL 151700Z 36005KT 290V040 30SM FEW040 FEW250 21/10 A3032 RMK CU1CI1 CU TR CI TR SLP268 DENSITY ALT 400FT” :  See what it means on https://www. bigorre.org/aero/meteo/cyul/en # montreal # canada # montrealtrudeauinternationalairport # cyul # yul # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Aviation weather for Montreal-Trudeau International airport (Canada) is “CYUL 151700Z 36005KT 290V040 30SM FEW040 FEW250 21/10 A3032 RMK CU1CI1 CU TR CI TR SLP2",
-      "summary_en": "Aviation weather for Montreal-Trudeau International airport (Canada) is “CYUL 151700Z 36005KT 290V040 30SM FEW040 FEW250 21/10 A3032 RMK CU1CI1 CU TR CI TR SLP268 DENSITY ALT 400FT” :  See what it means on https://www. bigorre.org/aero/meteo/cyul/en # montreal # canada # montrealtrudeauinternationalairport # cyul # yul # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Aviation weather for Montreal-Trudeau International airport (Canada) is “CYUL 151700Z 36005KT 290V040 30SM FEW040 FEW250 21/10 A3032 RMK CU1CI1 CU TR CI TR SLP2",
-      "summary": "Aviation weather for Montreal-Trudeau International airport (Canada) is “CYUL 151700Z 36005KT 290V040 30SM FEW040 FEW250 21/10 A3032 RMK CU1CI1 CU TR CI TR SLP268 DENSITY ALT 400FT” :  See what it means on https://www. bigorre.org/aero/meteo/cyul/en # montreal # canada # montrealtrudeauinternationalairport # cyul # yul # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115209521541988906",
-      "source": "#aviation",
-      "published_at": "2025-09-15T17:36:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "0eab3e6e78348824",
-      "title_orig": "Inbound operations to LaGuardia # Airport ( # LGA ) have resumed. # AirportStatusBot",
-      "summary_orig": "Inbound operations to LaGuardia # Airport ( # LGA ) have resumed. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "Inbound operations to LaGuardia # Airport ( # LGA ) have resumed. # AirportStatusBot",
-      "summary_en": "Inbound operations to LaGuardia # Airport ( # LGA ) have resumed. # AirportStatusBot",
-      "title": "Inbound operations to LaGuardia # Airport ( # LGA ) have resumed. # AirportStatusBot",
-      "summary": "Inbound operations to LaGuardia # Airport ( # LGA ) have resumed. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115209500441972835",
-      "source": "#airport",
-      "published_at": "2025-09-15T17:31:05+00:00",
-      "tags": [
-        "LGA",
-        "United States",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "LaGuardia",
-        "city": "New York",
-        "country": "United States",
-        "iata": "LGA",
-        "lat": 40.7769,
-        "lon": -73.874
-      }
     },
     {
       "id": "50f9553b3f22f796",
@@ -416,66 +227,12 @@
       "title": "Eden Project architect Nicholas Grimshaw dies aged 85",
       "summary": "Groundbreaking designs included the original Eurostar terminal in London and the Financial Times’s Printworks The architect Sir Nicholas Grimshaw, who designed the Eden Project in Cornwall and the original Eurostar terminal at Waterloo in London, has died aged 85. His company, Grimshaw, founded in 1980, was responsible for a series of groundbreaking buildings, the first of which was the Financial Times’s Printworks, which opened in 1988 and won several awards. It was Grade-II listed in 2016. Continue reading...",
       "url": "https://www.theguardian.com/artanddesign/2025/sep/15/eden-project-architect-nicholas-grimshaw-dies-aged-85",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2025-09-15T17:26:57+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "b2673137fa1f3398",
-      "title_orig": "Naha Airport / JASDF Naha Air Base - Naha, Japan https:// en.wikipedia.org/wiki/Naha_Air port https://www. openstreetmap.org/#map=13/26.1 95801/127.646004 # ROA",
-      "summary_orig": "Naha Airport / JASDF Naha Air Base - Naha, Japan https:// en.wikipedia.org/wiki/Naha_Air port https://www. openstreetmap.org/#map=13/26.1 95801/127.646004 # ROAH # OKA # Naha # Japan # airport # aviation # avgeeks # GIS",
-      "lang": "en",
-      "title_en": "Naha Airport / JASDF Naha Air Base - Naha, Japan https:// en.wikipedia.org/wiki/Naha_Air port https://www. openstreetmap.org/#map=13/26.1 95801/127.646004 # ROA",
-      "summary_en": "Naha Airport / JASDF Naha Air Base - Naha, Japan https:// en.wikipedia.org/wiki/Naha_Air port https://www. openstreetmap.org/#map=13/26.1 95801/127.646004 # ROAH # OKA # Naha # Japan # airport # aviation # avgeeks # GIS",
-      "title": "Naha Airport / JASDF Naha Air Base - Naha, Japan https:// en.wikipedia.org/wiki/Naha_Air port https://www. openstreetmap.org/#map=13/26.1 95801/127.646004 # ROA",
-      "summary": "Naha Airport / JASDF Naha Air Base - Naha, Japan https:// en.wikipedia.org/wiki/Naha_Air port https://www. openstreetmap.org/#map=13/26.1 95801/127.646004 # ROAH # OKA # Naha # Japan # airport # aviation # avgeeks # GIS",
-      "url": "https://mastodon.world/@airports_bot/115209469211647064",
-      "source": "#airport",
-      "published_at": "2025-09-15T17:23:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "c2b5b1eb39488ede",
-      "title_orig": "How many runways can you see for Fulton County Brown Field airport in Atlanta area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kfty/en # atl",
-      "summary_orig": "How many runways can you see for Fulton County Brown Field airport in Atlanta area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kfty/en # atlanta # usa # fultoncountybrownfieldairport # kfty # fty # airport # aviation # avgeek vl",
-      "lang": "en",
-      "title_en": "How many runways can you see for Fulton County Brown Field airport in Atlanta area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kfty/en # atl",
-      "summary_en": "How many runways can you see for Fulton County Brown Field airport in Atlanta area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kfty/en # atlanta # usa # fultoncountybrownfieldairport # kfty # fty # airport # aviation # avgeek vl",
-      "title": "How many runways can you see for Fulton County Brown Field airport in Atlanta area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kfty/en # atl",
-      "summary": "How many runways can you see for Fulton County Brown Field airport in Atlanta area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kfty/en # atlanta # usa # fultoncountybrownfieldairport # kfty # fty # airport # aviation # avgeek vl",
-      "url": "https://mastodon.social/@bigorre_org/115209464867811615",
-      "source": "#airport",
-      "published_at": "2025-09-15T17:22:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "b6063958df636f31",
-      "title_orig": "The arrival delay for Eagle County Regional # Airport ( # EGE ) is no longer in effect. # AirportStatusBot",
-      "summary_orig": "The arrival delay for Eagle County Regional # Airport ( # EGE ) is no longer in effect. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "The arrival delay for Eagle County Regional # Airport ( # EGE ) is no longer in effect. # AirportStatusBot",
-      "summary_en": "The arrival delay for Eagle County Regional # Airport ( # EGE ) is no longer in effect. # AirportStatusBot",
-      "title": "The arrival delay for Eagle County Regional # Airport ( # EGE ) is no longer in effect. # AirportStatusBot",
-      "summary": "The arrival delay for Eagle County Regional # Airport ( # EGE ) is no longer in effect. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115209462336552533",
-      "source": "#airport",
-      "published_at": "2025-09-15T17:21:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -494,51 +251,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "cd79e989b593380c",
-      "title_orig": "Inbound aircraft to LaGuardia # Airport ( # LGA ) are currently being held at their origin # airport due to high traffic volume. Operations are expected to resu",
-      "summary_orig": "Inbound aircraft to LaGuardia # Airport ( # LGA ) are currently being held at their origin # airport due to high traffic volume. Operations are expected to resume at 1:45 PM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "Inbound aircraft to LaGuardia # Airport ( # LGA ) are currently being held at their origin # airport due to high traffic volume. Operations are expected to resu",
-      "summary_en": "Inbound aircraft to LaGuardia # Airport ( # LGA ) are currently being held at their origin # airport due to high traffic volume. Operations are expected to resume at 1:45 PM. # AirportStatusBot",
-      "title": "Inbound aircraft to LaGuardia # Airport ( # LGA ) are currently being held at their origin # airport due to high traffic volume. Operations are expected to resu",
-      "summary": "Inbound aircraft to LaGuardia # Airport ( # LGA ) are currently being held at their origin # airport due to high traffic volume. Operations are expected to resume at 1:45 PM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115209392770287216",
-      "source": "#airport",
-      "published_at": "2025-09-15T17:03:42+00:00",
-      "tags": [
-        "LGA",
-        "United States",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "LaGuardia",
-        "city": "New York",
-        "country": "United States",
-        "iata": "LGA",
-        "lat": 40.7769,
-        "lon": -73.874
-      }
-    },
-    {
-      "id": "27de1dd68a5ce2ff",
-      "title_orig": "Moscow says Nato is ‘fighting against Russia’ after Romania drone incursion - Latest",
-      "summary_orig": "submitted by /u/WaytMen26 [link] [comments]",
-      "lang": "en",
-      "title_en": "Moscow says Nato is ‘fighting against Russia’ after Romania drone incursion - Latest",
-      "summary_en": "submitted by /u/WaytMen26 [link] [comments]",
-      "title": "Moscow says Nato is ‘fighting against Russia’ after Romania drone incursion - Latest",
-      "summary": "submitted by /u/WaytMen26 [link] [comments]",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1nhrjod/moscow_says_nato_is_fighting_against_russia_after/",
-      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
-      "published_at": "2025-09-15T17:02:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -578,24 +290,6 @@
       "geo": {}
     },
     {
-      "id": "13f507d1cc38e40a",
-      "title_orig": "How many runways can you see for Salt Lake City International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kslc/en # saltlakecity # u",
-      "summary_orig": "How many runways can you see for Salt Lake City International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kslc/en # saltlakecity # usa # saltlakecityinternationalairport # kslc # slc # airport # aviation # avgeek vl",
-      "lang": "en",
-      "title_en": "How many runways can you see for Salt Lake City International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kslc/en # saltlakecity # u",
-      "summary_en": "How many runways can you see for Salt Lake City International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kslc/en # saltlakecity # usa # saltlakecityinternationalairport # kslc # slc # airport # aviation # avgeek vl",
-      "title": "How many runways can you see for Salt Lake City International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kslc/en # saltlakecity # u",
-      "summary": "How many runways can you see for Salt Lake City International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kslc/en # saltlakecity # usa # saltlakecityinternationalairport # kslc # slc # airport # aviation # avgeek vl",
-      "url": "https://mastodon.social/@bigorre_org/115209385406188187",
-      "source": "#airport",
-      "published_at": "2025-09-15T17:01:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "776dd2e5f01cf832",
       "title_orig": "Mum of Southport victim demands truth from inquiry",
       "summary_orig": "The parents of the girls murdered in the attack demanded \"real change\" and \"accountability\".",
@@ -611,24 +305,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "50e4454456d5d487",
-      "title_orig": "British fighter jets to fly air defence missions over Poland after Russia's drone incursion",
-      "summary_orig": "submitted by /u/falconfalcon7 [link] [comments]",
-      "lang": "en",
-      "title_en": "British fighter jets to fly air defence missions over Poland after Russia's drone incursion",
-      "summary_en": "submitted by /u/falconfalcon7 [link] [comments]",
-      "title": "British fighter jets to fly air defence missions over Poland after Russia's drone incursion",
-      "summary": "submitted by /u/falconfalcon7 [link] [comments]",
-      "url": "https://www.reddit.com/r/worldnews/comments/1nhrgs0/british_fighter_jets_to_fly_air_defence_missions/",
-      "source": "World News",
-      "published_at": "2025-09-15T17:00:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -668,150 +344,6 @@
       "geo": {}
     },
     {
-      "id": "b0f980a78121081e",
-      "title_orig": "The ground delay at Logan International # Airport ( # BOS ) has increased and now has an average delay of 1 hour and 45 minutes and a maximum delay of 4 hours a",
-      "summary_orig": "The ground delay at Logan International # Airport ( # BOS ) has increased and now has an average delay of 1 hour and 45 minutes and a maximum delay of 4 hours and 58 minutes. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "The ground delay at Logan International # Airport ( # BOS ) has increased and now has an average delay of 1 hour and 45 minutes and a maximum delay of 4 hours a",
-      "summary_en": "The ground delay at Logan International # Airport ( # BOS ) has increased and now has an average delay of 1 hour and 45 minutes and a maximum delay of 4 hours and 58 minutes. # AirportStatusBot",
-      "title": "The ground delay at Logan International # Airport ( # BOS ) has increased and now has an average delay of 1 hour and 45 minutes and a maximum delay of 4 hours a",
-      "summary": "The ground delay at Logan International # Airport ( # BOS ) has increased and now has an average delay of 1 hour and 45 minutes and a maximum delay of 4 hours and 58 minutes. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115209323927984186",
-      "source": "#airport",
-      "published_at": "2025-09-15T16:46:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "07cf4b1fbbad0a67",
-      "title_orig": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
-      "summary_orig": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
-      "summary_en": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
-      "title": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
-      "summary": "Inbound aircraft to San Francisco International # Airport ( # SFO ) are no longer being delayed. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115209319795902061",
-      "source": "#airport",
-      "published_at": "2025-09-15T16:45:08+00:00",
-      "tags": [
-        "SFO",
-        "United States",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "San Francisco",
-        "city": "San Francisco",
-        "country": "United States",
-        "iata": "SFO",
-        "lat": 37.6213,
-        "lon": -122.379
-      }
-    },
-    {
-      "id": "d051438e8087db2b",
-      "title_orig": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "summary_orig": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "summary_en": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "title": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "summary": "Inbound operations to Logan International # Airport ( # BOS ) have resumed. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115209319647748969",
-      "source": "#airport",
-      "published_at": "2025-09-15T16:45:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "354d9dfe622929e3",
-      "title_orig": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight",
-      "summary_orig": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight.A single seat jet powered aircraft that was intended to reach a terminal velocity of 805kmh(500mph)and as a result the designers adopted a prone position for the pilot.It would also have made use of a computerised sighting system enabling it to be more accurate at speed # ww2 # worldwar2 # germany # henschel # aircraft # aviation # jet engined",
-      "lang": "en",
-      "title_en": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight",
-      "summary_en": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight.A single seat jet powered aircraft that was intended to reach a terminal velocity of 805kmh(500mph)and as a result the designers adopted a prone position for the pilot.It would also have made use of a computerised sighting system enabling it to be more accurate at speed # ww2 # worldwar2 # germany # henschel # aircraft # aviation # jet engined",
-      "title": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight",
-      "summary": "A German Henschel Hs 132 V1 ready for initial trials -Germany, Spring 1945.The Soviet army captured the factory before this aircraft could undergo a test flight.A single seat jet powered aircraft that was intended to reach a terminal velocity of 805kmh(500mph)and as a result the designers adopted a prone position for the pilot.It would also have made use of a computerised sighting system enabling it to be more accurate at speed # ww2 # worldwar2 # germany # henschel # aircraft # aviation # jet engined",
-      "url": "https://mastodon.social/@theworldatwar/115209317923721875",
-      "source": "#aviation",
-      "published_at": "2025-09-15T16:44:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "4e6c531820e7b253",
-      "title_orig": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/e",
-      "summary_orig": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/en # ozark # usa # cairnsaaffortruckerairfieldairport # kozr # ozr # airport # aviation # avgeek vl",
-      "lang": "en",
-      "title_en": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/e",
-      "summary_en": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/en # ozark # usa # cairnsaaffortruckerairfieldairport # kozr # ozr # airport # aviation # avgeek vl",
-      "title": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/e",
-      "summary": "How many runways can you see for Cairns AAF (Fort Rucker) Air Field airport in Ozark area (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kozr/en # ozark # usa # cairnsaaffortruckerairfieldairport # kozr # ozr # airport # aviation # avgeek vl",
-      "url": "https://mastodon.social/@bigorre_org/115209306900769180",
-      "source": "#airport",
-      "published_at": "2025-09-15T16:41:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "779bc9d677e965e8",
-      "title_orig": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/met",
-      "summary_orig": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/meteo/ltfm/en # istanbul # turkey # istanbulairport # ltfm # ist # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/met",
-      "summary_en": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/meteo/ltfm/en # istanbul # turkey # istanbulairport # ltfm # ist # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/met",
-      "summary": "Aviation weather for Istanbul airport (Turkey) is “LTFM 151620Z 02013KT 9999 BKN030 22/15 Q1018 NOSIG” :  See what it means on https://www. bigorre.org/aero/meteo/ltfm/en # istanbul # turkey # istanbulairport # ltfm # ist # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115209287905905460",
-      "source": "#airport",
-      "published_at": "2025-09-15T16:37:02+00:00",
-      "tags": [
-        "IST",
-        "Türkiye",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Istanbul",
-        "city": "Istanbul",
-        "country": "Türkiye",
-        "iata": "IST",
-        "lat": 41.2753,
-        "lon": 28.7519
-      }
-    },
-    {
-      "id": "dd43552344bc9db8",
-      "title_orig": "Exclusive: Russia's Kirishi oil refinery halts key unit after Ukrainian drone attack, sources say",
-      "summary_orig": "submitted by /u/rulepanic [link] [comments]",
-      "lang": "en",
-      "title_en": "Exclusive: Russia's Kirishi oil refinery halts key unit after Ukrainian drone attack, sources say",
-      "summary_en": "submitted by /u/rulepanic [link] [comments]",
-      "title": "Exclusive: Russia's Kirishi oil refinery halts key unit after Ukrainian drone attack, sources say",
-      "summary": "submitted by /u/rulepanic [link] [comments]",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1nhqh8n/exclusive_russias_kirishi_oil_refinery_halts_key/",
-      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
-      "published_at": "2025-09-15T16:23:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "c3693142b5de2f72",
       "title_orig": "Bristol Bus Strike - full list of the services scrapped or reduced",
       "summary_orig": "16 routes not running at all, 18 cut back to cope with bus drivers' strike",
@@ -827,42 +359,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4bd1f1f52db25fe5",
-      "title_orig": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. #",
-      "summary_orig": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. #",
-      "summary_en": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. # AirportStatusBot",
-      "title": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. #",
-      "summary": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport . Operations are expected to resume at 1:30 PM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115209226778707100",
-      "source": "#airport",
-      "published_at": "2025-09-15T16:21:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "484d6e293af27c34",
-      "title_orig": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https",
-      "summary_orig": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https://www. bigorre.org/aero/meteo/kgcy/en # greeneville # usa # greenevillegreenecountymunicipalairport # kgcy # gcy # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https",
-      "summary_en": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https://www. bigorre.org/aero/meteo/kgcy/en # greeneville # usa # greenevillegreenecountymunicipalairport # kgcy # gcy # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https",
-      "summary": "Aviation weather for Greeneville-Greene County Municipal airport (USA) is “KGCY 151555Z AUTO 26003KT 10SM CLR 25/17 A3019 RMK A01” :  See what it means on https://www. bigorre.org/aero/meteo/kgcy/en # greeneville # usa # greenevillegreenecountymunicipalairport # kgcy # gcy # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115209208056585652",
-      "source": "#airport",
-      "published_at": "2025-09-15T16:16:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -908,24 +404,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e8509798585f6dcf",
-      "title_orig": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # Ai",
-      "summary_orig": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # Ai",
-      "summary_en": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
-      "title": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # Ai",
-      "summary": "An arrival delay has been issued for Eagle County Regional # Airport ( # EGE ) due to military operations. Current delays are 16-30 minutes and increasing. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115209150962056149",
-      "source": "#airport",
-      "published_at": "2025-09-15T16:02:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -983,24 +461,6 @@
       "geo": {}
     },
     {
-      "id": "7f6056270d595e2e",
-      "title_orig": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # us",
-      "summary_orig": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # usa # phoenixskyharborinternationalairport # kphx # phx # airport # aviation # avgeek vl",
-      "lang": "en",
-      "title_en": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # us",
-      "summary_en": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # usa # phoenixskyharborinternationalairport # kphx # phx # airport # aviation # avgeek vl",
-      "title": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # us",
-      "summary": "How many runways can you see for Phoenix Sky Harbor International airport (USA) ? :  The answer is on https://www. bigorre.org/aero/meteo/kphx/en # phoenix # usa # phoenixskyharborinternationalairport # kphx # phx # airport # aviation # avgeek vl",
-      "url": "https://mastodon.social/@bigorre_org/115209110455295817",
-      "source": "#airport",
-      "published_at": "2025-09-15T15:51:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "5445bb10f5260b6b",
       "title_orig": "Is Moscow declaring war on NATO?",
       "summary_orig": "The Kremlin declared on Monday that NATO is already at war with Russia, arguing that the alliance's strong and unwavering support for Ukraine leaves no need for further evidence. This statement is likely to heighten concerns among NATO members, especially after recent Russian drone incursions into Polish and Romanian airspace. While Moscow has denied that these incidents were intentional, NATO allies are speculating about Russia's motives, with many believing Russia is testing NATO’s readiness—and possibly the US’s commitment to European security.",
@@ -1015,7 +475,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1051,7 +511,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1087,7 +547,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1123,7 +583,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1141,25 +601,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "01bb910a97b30b54",
-      "title_orig": "Refueling in the rain?",
-      "summary_orig": "Hey guys, I was thinking about going out and flying today to get some fuel from a neighboring airport, but I see it's supposed to rain tomorrow and I'd LOVE to get some IMC/approaches in. However, thinking about it, is it advisable to fuel while it's raining? I know I'd need to sunp fuel a few minutes after refueling, but I wanted to get some insight. Any thoughts? TIA! submitted by /u/Your_Answer_Is_No [link] [comments]",
-      "lang": "en",
-      "title_en": "Refueling in the rain?",
-      "summary_en": "Hey guys, I was thinking about going out and flying today to get some fuel from a neighboring airport, but I see it's supposed to rain tomorrow and I'd LOVE to get some IMC/approaches in. However, thinking about it, is it advisable to fuel while it's raining? I know I'd need to sunp fuel a few minutes after refueling, but I wanted to get some insight. Any thoughts? TIA! submitted by /u/Your_Answer_Is_No [link] [comments]",
-      "title": "Refueling in the rain?",
-      "summary": "Hey guys, I was thinking about going out and flying today to get some fuel from a neighboring airport, but I see it's supposed to rain tomorrow and I'd LOVE to get some IMC/approaches in. However, thinking about it, is it advisable to fuel while it's raining? I know I'd need to sunp fuel a few minutes after refueling, but I wanted to get some insight. Any thoughts? TIA! submitted by /u/Your_Answer_Is_No [link] [comments]",
-      "url": "https://www.reddit.com/r/flying/comments/1nhojcq/refueling_in_the_rain/",
-      "source": "Flying",
-      "published_at": "2025-09-15T15:11:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1375,25 +817,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "285ae59883727f29",
-      "title_orig": "Poland calls for no-fly zone over Ukraine to defend Russian attacks",
-      "summary_orig": "submitted by /u/Street_Anon [link] [comments]",
-      "lang": "en",
-      "title_en": "Poland calls for no-fly zone over Ukraine to defend Russian attacks",
-      "summary_en": "submitted by /u/Street_Anon [link] [comments]",
-      "title": "Poland calls for no-fly zone over Ukraine to defend Russian attacks",
-      "summary": "submitted by /u/Street_Anon [link] [comments]",
-      "url": "https://www.reddit.com/r/worldnews/comments/1nhmf2a/poland_calls_for_nofly_zone_over_ukraine_to/",
-      "source": "World News",
-      "published_at": "2025-09-15T13:51:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1429,7 +853,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1447,7 +871,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1465,7 +889,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1537,7 +961,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1555,7 +979,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1573,7 +997,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1591,7 +1015,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1631,24 +1055,6 @@
       "geo": {}
     },
     {
-      "id": "b1a3fb8d99b326b1",
-      "title_orig": "We were at the Oklahoma City Zoo yesterday and looked up and saw this guy flying overhead",
-      "summary_orig": "Sorry for the low quality picture. We were walking out of an exhibit and heard a plane and of course I looked up, as usual, but to my absolute surprise, was greeted by the B2 bomber flying right over us. I have never seen this in the wild so was pretty shocked. Got my phone out quickly just in time to take a picture. I know Tinker AFB is right here, but does anyone know what it was doing over here? It was pretty cool nonetheless! submitted by /u/InsecureDelusion [link] [comments]",
-      "lang": "en",
-      "title_en": "We were at the Oklahoma City Zoo yesterday and looked up and saw this guy flying overhead",
-      "summary_en": "Sorry for the low quality picture. We were walking out of an exhibit and heard a plane and of course I looked up, as usual, but to my absolute surprise, was greeted by the B2 bomber flying right over us. I have never seen this in the wild so was pretty shocked. Got my phone out quickly just in time to take a picture. I know Tinker AFB is right here, but does anyone know what it was doing over here? It was pretty cool nonetheless! submitted by /u/InsecureDelusion [link] [comments]",
-      "title": "We were at the Oklahoma City Zoo yesterday and looked up and saw this guy flying overhead",
-      "summary": "Sorry for the low quality picture. We were walking out of an exhibit and heard a plane and of course I looked up, as usual, but to my absolute surprise, was greeted by the B2 bomber flying right over us. I have never seen this in the wild so was pretty shocked. Got my phone out quickly just in time to take a picture. I know Tinker AFB is right here, but does anyone know what it was doing over here? It was pretty cool nonetheless! submitted by /u/InsecureDelusion [link] [comments]",
-      "url": "https://www.reddit.com/r/aviation/comments/1nhkg3x/we_were_at_the_oklahoma_city_zoo_yesterday_and/",
-      "source": "aviation",
-      "published_at": "2025-09-15T12:27:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "d0fce2ad9b447ff1",
       "title_orig": "Ryanair May Never Return To Israel Amid Terminal Dispute",
       "summary_orig": "Ryanair Group CEO Michael O'Leary has cited issues with airport authorities as a major qualm on this front.",
@@ -1681,7 +1087,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1699,43 +1105,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "edd6ff4d7da7e3ee",
-      "title_orig": "In any rational world, this headline would be common sense. Here it's seen as a bad thing somehow. # DublinAirport # climatecrisis # aviation Airport passenger ",
-      "summary_orig": "In any rational world, this headline would be common sense. Here it's seen as a bad thing somehow. # DublinAirport # climatecrisis # aviation Airport passenger cap will stifle growth - O'Brien https://www. rte.ie/news/2025/0915/1533513- dublin-airport-cap/",
-      "lang": "en",
-      "title_en": "In any rational world, this headline would be common sense. Here it's seen as a bad thing somehow. # DublinAirport # climatecrisis # aviation Airport passenger ",
-      "summary_en": "In any rational world, this headline would be common sense. Here it's seen as a bad thing somehow. # DublinAirport # climatecrisis # aviation Airport passenger cap will stifle growth - O'Brien https://www. rte.ie/news/2025/0915/1533513- dublin-airport-cap/",
-      "title": "In any rational world, this headline would be common sense. Here it's seen as a bad thing somehow. # DublinAirport # climatecrisis # aviation Airport passenger ",
-      "summary": "In any rational world, this headline would be common sense. Here it's seen as a bad thing somehow. # DublinAirport # climatecrisis # aviation Airport passenger cap will stifle growth - O'Brien https://www. rte.ie/news/2025/0915/1533513- dublin-airport-cap/",
-      "url": "https://mastodon.ie/@Des_egan/115208186217503678",
-      "source": "#aviation",
-      "published_at": "2025-09-15T11:56:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "a3627801b1eb7a43",
-      "title_orig": "Detroit Area (DET) Instrument Approach Question - Am I Becoming Canadian?",
-      "summary_orig": "I'm a PPL just starting the idea of obtaining my instrument ticket. I fly with a really good CFII from time to time to stay sharp and work on skills, especially if I feel I'm rusty, otherwise my missions tend to be in search of the perfect $100 hamburger or omelette with my girlfriend. Anyway, I live, and my PA-28 is based, just outside of Chicago. But I often travel (commercially) to Detroit for work. In speaking with my CFII, we thought it might be cool to do a day trip to Detroit Coleman Young Airport (DET), the closest to my office, as a practice IFR flight. Looking it over, there are some approaches that require flight across the border into Canada. So, the question is does this approach become an international flight? Will we need the radio license? Maybe a passport if we're diverted? Or is it just understood that since this approach, while technically over Canadian airspace, is a US flight into a US airport? Will we need to contact Canadian ATC? Sorry, that's more than one question. Any suggestions from pilots who've frequented Coleman Young would be appreciated. Thanks in advance! (edited for typo) submitted by /u/FlyShippy [link] [comments]",
-      "lang": "en",
-      "title_en": "Detroit Area (DET) Instrument Approach Question - Am I Becoming Canadian?",
-      "summary_en": "I'm a PPL just starting the idea of obtaining my instrument ticket. I fly with a really good CFII from time to time to stay sharp and work on skills, especially if I feel I'm rusty, otherwise my missions tend to be in search of the perfect $100 hamburger or omelette with my girlfriend. Anyway, I live, and my PA-28 is based, just outside of Chicago. But I often travel (commercially) to Detroit for work. In speaking with my CFII, we thought it might be cool to do a day trip to Detroit Coleman Young Airport (DET), the closest to my office, as a practice IFR flight. Looking it over, there are some approaches that require flight across the border into Canada. So, the question is does this approach become an international flight? Will we need the radio license? Maybe a passport if we're diverted? Or is it just understood that since this approach, while technically over Canadian airspace, is a US flight into a US airport? Will we need to contact Canadian ATC? Sorry, that's more than one question. Any suggestions from pilots who've frequented Coleman Young would be appreciated. Thanks in advance! (edited for typo) submitted by /u/FlyShippy [link] [comments]",
-      "title": "Detroit Area (DET) Instrument Approach Question - Am I Becoming Canadian?",
-      "summary": "I'm a PPL just starting the idea of obtaining my instrument ticket. I fly with a really good CFII from time to time to stay sharp and work on skills, especially if I feel I'm rusty, otherwise my missions tend to be in search of the perfect $100 hamburger or omelette with my girlfriend. Anyway, I live, and my PA-28 is based, just outside of Chicago. But I often travel (commercially) to Detroit for work. In speaking with my CFII, we thought it might be cool to do a day trip to Detroit Coleman Young Airport (DET), the closest to my office, as a practice IFR flight. Looking it over, there are some approaches that require flight across the border into Canada. So, the question is does this approach become an international flight? Will we need the radio license? Maybe a passport if we're diverted? Or is it just understood that since this approach, while technically over Canadian airspace, is a US flight into a US airport? Will we need to contact Canadian ATC? Sorry, that's more than one question. Any suggestions from pilots who've frequented Coleman Young would be appreciated. Thanks in advance! (edited for typo) submitted by /u/FlyShippy [link] [comments]",
-      "url": "https://www.reddit.com/r/flying/comments/1nhjrkp/detroit_area_det_instrument_approach_question_am/",
-      "source": "Flying",
-      "published_at": "2025-09-15T11:55:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -1753,7 +1123,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1775,42 +1145,6 @@
       "geo": {}
     },
     {
-      "id": "cd2bd4f5c98a042e",
-      "title_orig": "Skyshield Needs Just 120 Warplanes to Stop Putin’s Drones Over Ukraine Before They Reach NATO",
-      "summary_orig": "submitted by /u/UNITED24Media [link] [comments]",
-      "lang": "en",
-      "title_en": "Skyshield Needs Just 120 Warplanes to Stop Putin’s Drones Over Ukraine Before They Reach NATO",
-      "summary_en": "submitted by /u/UNITED24Media [link] [comments]",
-      "title": "Skyshield Needs Just 120 Warplanes to Stop Putin’s Drones Over Ukraine Before They Reach NATO",
-      "summary": "submitted by /u/UNITED24Media [link] [comments]",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1nhjc5m/skyshield_needs_just_120_warplanes_to_stop_putins/",
-      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
-      "published_at": "2025-09-15T11:33:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "d623a86cc4689a35",
-      "title_orig": "Today's memory:  Raytheon T1-A Jayhawk taken during EAA Southwest Fly-In, Hondo, TX 01-06-2007  at Hondo Airport, US # avgeek # aviation",
-      "summary_orig": "Today's memory:  Raytheon T1-A Jayhawk taken during EAA Southwest Fly-In, Hondo, TX 01-06-2007  at Hondo Airport, US # avgeek # aviation",
-      "lang": "en",
-      "title_en": "Today's memory:  Raytheon T1-A Jayhawk taken during EAA Southwest Fly-In, Hondo, TX 01-06-2007  at Hondo Airport, US # avgeek # aviation",
-      "summary_en": "Today's memory:  Raytheon T1-A Jayhawk taken during EAA Southwest Fly-In, Hondo, TX 01-06-2007  at Hondo Airport, US # avgeek # aviation",
-      "title": "Today's memory:  Raytheon T1-A Jayhawk taken during EAA Southwest Fly-In, Hondo, TX 01-06-2007  at Hondo Airport, US # avgeek # aviation",
-      "summary": "Today's memory:  Raytheon T1-A Jayhawk taken during EAA Southwest Fly-In, Hondo, TX 01-06-2007  at Hondo Airport, US # avgeek # aviation",
-      "url": "https://squawk.mytransponder.com/@futurshox/115208072929925350",
-      "source": "#aviation",
-      "published_at": "2025-09-15T11:28:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "05a44765b5027862",
       "title_orig": "Rubio is in Israel in wake of Qatar attack as strikes intensify in northern Gaza",
       "summary_orig": "US Secretary of State Marco Rubio is in Israel as its military intensifies attacks on northern Gaza, destroying several high-rise buildings and killing at least 13 Palestinians. His two-day visit comes amid an emergency summit in Qatar with Arab leaders, while the United Nations prepares for a contentious debate on Palestinian statehood. Rubio is set to meet with Israeli Prime Minister Benjamin Netanyahu again this afternoon, likely to discuss the ongoing situation in Gaza and the West Bank, as FRANCE 24's Noga Tarnopolsky explains from Jerusalem.",
@@ -1825,25 +1159,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "03e064fec6f3fdd2",
-      "title_orig": "Tocumen International Airport - Tocumen, Panama https:// en.wikipedia.org/wiki/Tocumen_ International_Airport https://www. openstreetmap.org/#map=13/9.07 1360/-",
-      "summary_orig": "Tocumen International Airport - Tocumen, Panama https:// en.wikipedia.org/wiki/Tocumen_ International_Airport https://www. openstreetmap.org/#map=13/9.07 1360/-79.383499 # MPTO # PTY # Tocumen # Panama # airport # aviation # avgeeks # GIS",
-      "lang": "en",
-      "title_en": "Tocumen International Airport - Tocumen, Panama https:// en.wikipedia.org/wiki/Tocumen_ International_Airport https://www. openstreetmap.org/#map=13/9.07 1360/-",
-      "summary_en": "Tocumen International Airport - Tocumen, Panama https:// en.wikipedia.org/wiki/Tocumen_ International_Airport https://www. openstreetmap.org/#map=13/9.07 1360/-79.383499 # MPTO # PTY # Tocumen # Panama # airport # aviation # avgeeks # GIS",
-      "title": "Tocumen International Airport - Tocumen, Panama https:// en.wikipedia.org/wiki/Tocumen_ International_Airport https://www. openstreetmap.org/#map=13/9.07 1360/-",
-      "summary": "Tocumen International Airport - Tocumen, Panama https:// en.wikipedia.org/wiki/Tocumen_ International_Airport https://www. openstreetmap.org/#map=13/9.07 1360/-79.383499 # MPTO # PTY # Tocumen # Panama # airport # aviation # avgeeks # GIS",
-      "url": "https://mastodon.world/@airports_bot/115208053397332307",
-      "source": "#aviation",
-      "published_at": "2025-09-15T11:23:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1897,7 +1213,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1917,7 +1233,7 @@
         "Hong Kong",
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {
         "airport": "Hong Kong",
         "city": "Hong Kong",
@@ -1925,33 +1241,6 @@
         "iata": "HKG",
         "lat": 22.308,
         "lon": 113.9185
-      }
-    },
-    {
-      "id": "727806cde0318657",
-      "title_orig": "https://www. alojapan.com/1370276/%e3%80%90 %e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bd%9e%e9%82%a",
-      "summary_orig": "https://www. alojapan.com/1370276/%e3%80%90 %e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bd%9e%e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91ana1267%e4%be%bf/ 【プレミアムクラス機内食～那覇空港着陸】ANA1267便、岩国空港→那覇空港 Premium class in flight meal # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【プレミアムクラス機内食～那覇空港着陸】ANA1267便、岩国空港→那覇空港 Premium class in flight meal 2025年6月28日撮影、ANA1267便、岩国空港→那覇空港Boeing737-800(JA71AN)より撮影した、プレミアムクラス機内食～那覇空港着陸の動画です。 This video was filmed on J",
-      "lang": "en",
-      "title_en": "https://www. alojapan.com/1370276/%e3%80%90 %e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bd%9e%e9%82%a",
-      "summary_en": "https://www. alojapan.com/1370276/%e3%80%90 %e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bd%9e%e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91ana1267%e4%be%bf/ 【プレミアムクラス機内食～那覇空港着陸】ANA1267便、岩国空港→那覇空港 Premium class in flight meal # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【プレミアムクラス機内食～那覇空港着陸】ANA1267便、岩国空港→那覇空港 Premium class in flight meal 2025年6月28日撮影、ANA1267便、岩国空港→那覇空港Boeing737-800(JA71AN)より撮影した、プレミアムクラス機内食～那覇空港着陸の動画です。 This video was filmed on J",
-      "title": "https://www. alojapan.com/1370276/%e3%80%90 %e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bd%9e%e9%82%a",
-      "summary": "https://www. alojapan.com/1370276/%e3%80%90 %e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bd%9e%e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91ana1267%e4%be%bf/ 【プレミアムクラス機内食～那覇空港着陸】ANA1267便、岩国空港→那覇空港 Premium class in flight meal # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【プレミアムクラス機内食～那覇空港着陸】ANA1267便、岩国空港→那覇空港 Premium class in flight meal 2025年6月28日撮影、ANA1267便、岩国空港→那覇空港Boeing737-800(JA71AN)より撮影した、プレミアムクラス機内食～那覇空港着陸の動画です。 This video was filmed on J",
-      "url": "https://channels.im/@alojapan/115207892090634945",
-      "source": "#AirPort",
-      "published_at": "2025-09-15T10:42:03+00:00",
-      "tags": [
-        "HND",
-        "Japan",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Haneda",
-        "city": "Tokyo",
-        "country": "Japan",
-        "iata": "HND",
-        "lat": 35.5494,
-        "lon": 139.7798
       }
     },
     {
@@ -1969,25 +1258,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "1376554124665b59",
-      "title_orig": "I like browsing through plane-cyclopedia such as Jane's All The World # Aircraft . Bird of the day is the sharp-looking PZL-230 Skorpion presented in the 1992-9",
-      "summary_orig": "I like browsing through plane-cyclopedia such as Jane's All The World # Aircraft . Bird of the day is the sharp-looking PZL-230 Skorpion presented in the 1992-93 edition. Low-cost, light attack aircraft project for the Polish AF. Cancelled in 1994. ✈️ # aerospace # aviation # engineering # aviationbookclub",
-      "lang": "en",
-      "title_en": "I like browsing through plane-cyclopedia such as Jane's All The World # Aircraft . Bird of the day is the sharp-looking PZL-230 Skorpion presented in the 1992-9",
-      "summary_en": "I like browsing through plane-cyclopedia such as Jane's All The World # Aircraft . Bird of the day is the sharp-looking PZL-230 Skorpion presented in the 1992-93 edition. Low-cost, light attack aircraft project for the Polish AF. Cancelled in 1994. ✈️ # aerospace # aviation # engineering # aviationbookclub",
-      "title": "I like browsing through plane-cyclopedia such as Jane's All The World # Aircraft . Bird of the day is the sharp-looking PZL-230 Skorpion presented in the 1992-9",
-      "summary": "I like browsing through plane-cyclopedia such as Jane's All The World # Aircraft . Bird of the day is the sharp-looking PZL-230 Skorpion presented in the 1992-93 edition. Low-cost, light attack aircraft project for the Polish AF. Cancelled in 1994. ✈️ # aerospace # aviation # engineering # aviationbookclub",
-      "url": "https://mstdn.social/@glebris/115207797701178988",
-      "source": "#aviation",
-      "published_at": "2025-09-15T10:18:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2005,7 +1276,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2041,7 +1312,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2060,24 +1331,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3b84cd7f16f18232",
-      "title_orig": "Ukrainian strike destroys key Russian radar station in Rostov Oblast",
-      "summary_orig": "submitted by /u/jackytheblade [link] [comments]",
-      "lang": "en",
-      "title_en": "Ukrainian strike destroys key Russian radar station in Rostov Oblast",
-      "summary_en": "submitted by /u/jackytheblade [link] [comments]",
-      "title": "Ukrainian strike destroys key Russian radar station in Rostov Oblast",
-      "summary": "submitted by /u/jackytheblade [link] [comments]",
-      "url": "https://www.reddit.com/r/worldnews/comments/1nhgz4k/ukrainian_strike_destroys_key_russian_radar/",
-      "source": "World News",
-      "published_at": "2025-09-15T09:15:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -2131,7 +1384,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2167,7 +1420,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2185,7 +1438,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2205,7 +1458,7 @@
         "Japan",
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {
         "airport": "Haneda",
         "city": "Tokyo",
@@ -2230,43 +1483,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ae6e643ab5257b36",
-      "title_orig": "Ukrainian drone strikes deep in Russia have triggered major internet outages, forcing the Kremlin to suspend services. Cash registers down, buses halted, deliveries lost — at a cost of $557M/hour across Russia and $115M in Moscow alone. (FT)",
-      "summary_orig": "submitted by /u/Icy_Till_7254 [link] [comments]",
-      "lang": "en",
-      "title_en": "Ukrainian drone strikes deep in Russia have triggered major internet outages, forcing the Kremlin to suspend services. Cash registers down, buses halted, deliveries lost — at a cost of $557M/hour across Russia and $115M in Moscow alone. (FT)",
-      "summary_en": "submitted by /u/Icy_Till_7254 [link] [comments]",
-      "title": "Ukrainian drone strikes deep in Russia have triggered major internet outages, forcing the Kremlin to suspend services. Cash registers down, buses halted, deliveries lost — at a cost of $557M/hour across Russia and $115M in Moscow alone. (FT)",
-      "summary": "submitted by /u/Icy_Till_7254 [link] [comments]",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1nhegxn/ukrainian_drone_strikes_deep_in_russia_have/",
-      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
-      "published_at": "2025-09-15T06:30:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "7a1c14dbee8c892d",
-      "title_orig": "Zelenskyy: Europe will see Shahed drones, ballistic missiles if Russia faces no pressure",
-      "summary_orig": "submitted by /u/Rich-Annual5511 [link] [comments]",
-      "lang": "en",
-      "title_en": "Zelenskyy: Europe will see Shahed drones, ballistic missiles if Russia faces no pressure",
-      "summary_en": "submitted by /u/Rich-Annual5511 [link] [comments]",
-      "title": "Zelenskyy: Europe will see Shahed drones, ballistic missiles if Russia faces no pressure",
-      "summary": "submitted by /u/Rich-Annual5511 [link] [comments]",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1nhe77r/zelenskyy_europe_will_see_shahed_drones_ballistic/",
-      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
-      "published_at": "2025-09-15T06:14:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2284,7 +1501,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2302,25 +1519,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e8c405e8e9436521",
-      "title_orig": "Russia bombs apartment buildings. Trump says they missed military targets by mistake. Russia launches drones into Poland. Trump says maybe they just got lost. Trump is Putin’s bitch.",
-      "summary_orig": "submitted by /u/Icy_Till_7254 [link] [comments]",
-      "lang": "en",
-      "title_en": "Russia bombs apartment buildings. Trump says they missed military targets by mistake. Russia launches drones into Poland. Trump says maybe they just got lost. Trump is Putin’s bitch.",
-      "summary_en": "submitted by /u/Icy_Till_7254 [link] [comments]",
-      "title": "Russia bombs apartment buildings. Trump says they missed military targets by mistake. Russia launches drones into Poland. Trump says maybe they just got lost. Trump is Putin’s bitch.",
-      "summary": "submitted by /u/Icy_Till_7254 [link] [comments]",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1nhdndh/russia_bombs_apartment_buildings_trump_says_they/",
-      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
-      "published_at": "2025-09-15T05:41:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2342,33 +1541,6 @@
       "geo": {}
     },
     {
-      "id": "027c83f4815036fb",
-      "title_orig": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#m",
-      "summary_orig": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#map=13/-6.1 25570/106.655998 # WIII # CGK # Jakarta # Indonesia # airport # aviation # avgeeks # GIS",
-      "lang": "en",
-      "title_en": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#m",
-      "summary_en": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#map=13/-6.1 25570/106.655998 # WIII # CGK # Jakarta # Indonesia # airport # aviation # avgeeks # GIS",
-      "title": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#m",
-      "summary": "Soekarno-Hatta International Airport - Jakarta, Indonesia https:// en.wikipedia.org/wiki/Soekarno -Hatta_International_Airport https://www. openstreetmap.org/#map=13/-6.1 25570/106.655998 # WIII # CGK # Jakarta # Indonesia # airport # aviation # avgeeks # GIS",
-      "url": "https://mastodon.world/@airports_bot/115206637850406336",
-      "source": "#aviation",
-      "published_at": "2025-09-15T05:23:05+00:00",
-      "tags": [
-        "CGK",
-        "Indonesia",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Soekarno–Hatta",
-        "city": "Jakarta",
-        "country": "Indonesia",
-        "iata": "CGK",
-        "lat": -6.1256,
-        "lon": 106.6559
-      }
-    },
-    {
       "id": "f54e71804387f8c8",
       "title_orig": "Philippine president says corruption scandal protests justified",
       "summary_orig": "A corruption scandal involving phony flood-control projects has prompted a series of protests across the capital Manila in recent weeks.",
@@ -2383,25 +1555,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "e8e4b75684c69360",
-      "title_orig": "\"Southwest Airlines coming to Santa Rosa's regional airport\" by Northern California Public Media (PBS/NPR Santa Rosa) - Southwest Airlines begins service to Cha",
-      "summary_orig": "\"Southwest Airlines coming to Santa Rosa's regional airport\" by Northern California Public Media (PBS/NPR Santa Rosa) - Southwest Airlines begins service to Charles Schulz Sonoma County Airport in Santa Rosa # KSTS on April 7, 2026. Initial non-stop destinations will be San Diego # KSAN , Burbank # KBUR , Las Vegas # KLAS and Denver # KDEN . STS became the Bay Area's 4th airline-served airport in 2016, currently served by Alaska and American. https:// norcalpublicmedia.org/20250910 99056/news-feed/southwest-airlines-coming-to-santa-rosas-regional-airport # aviation # travel # business # avgeek",
-      "lang": "en",
-      "title_en": "\"Southwest Airlines coming to Santa Rosa's regional airport\" by Northern California Public Media (PBS/NPR Santa Rosa) - Southwest Airlines begins service to Cha",
-      "summary_en": "\"Southwest Airlines coming to Santa Rosa's regional airport\" by Northern California Public Media (PBS/NPR Santa Rosa) - Southwest Airlines begins service to Charles Schulz Sonoma County Airport in Santa Rosa # KSTS on April 7, 2026. Initial non-stop destinations will be San Diego # KSAN , Burbank # KBUR , Las Vegas # KLAS and Denver # KDEN . STS became the Bay Area's 4th airline-served airport in 2016, currently served by Alaska and American. https:// norcalpublicmedia.org/20250910 99056/news-feed/southwest-airlines-coming-to-santa-rosas-regional-airport # aviation # travel # business # avgeek",
-      "title": "\"Southwest Airlines coming to Santa Rosa's regional airport\" by Northern California Public Media (PBS/NPR Santa Rosa) - Southwest Airlines begins service to Cha",
-      "summary": "\"Southwest Airlines coming to Santa Rosa's regional airport\" by Northern California Public Media (PBS/NPR Santa Rosa) - Southwest Airlines begins service to Charles Schulz Sonoma County Airport in Santa Rosa # KSTS on April 7, 2026. Initial non-stop destinations will be San Diego # KSAN , Burbank # KBUR , Las Vegas # KLAS and Denver # KDEN . STS became the Bay Area's 4th airline-served airport in 2016, currently served by Alaska and American. https:// norcalpublicmedia.org/20250910 99056/news-feed/southwest-airlines-coming-to-santa-rosas-regional-airport # aviation # travel # business # avgeek",
-      "url": "https://avgeek.social/@ikluft/115206441074605227",
-      "source": "#aviation",
-      "published_at": "2025-09-15T04:33:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2419,7 +1573,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2455,43 +1609,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "b42f7024869f8687",
-      "title_orig": "TABLES TURNED! Ukrainians Advance into Russia's Kursk! 〘from 1:31: mention of a new \"drone drop munition dubbed 'the black hole bomb'\" which can be a thermobaric munition〙",
-      "summary_orig": "submitted by /u/mizu-no-oto [link] [comments]",
-      "lang": "en",
-      "title_en": "TABLES TURNED! Ukrainians Advance into Russia's Kursk! 〘from 1:31: mention of a new \"drone drop munition dubbed 'the black hole bomb'\" which can be a thermobaric munition〙",
-      "summary_en": "submitted by /u/mizu-no-oto [link] [comments]",
-      "title": "TABLES TURNED! Ukrainians Advance into Russia's Kursk! 〘from 1:31: mention of a new \"drone drop munition dubbed 'the black hole bomb'\" which can be a thermobaric munition〙",
-      "summary": "submitted by /u/mizu-no-oto [link] [comments]",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1nh7rps/tables_turned_ukrainians_advance_into_russias/",
-      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
-      "published_at": "2025-09-15T00:38:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "d63e171443954ad4",
-      "title_orig": "Kyiv’s Special Ops Execute Attack to Segment Russian Rail Routes. Seeking to maximize the effectiveness of its hits, Ukraine’s HUR and Special Ops disrupted two separate railway routes to compound logistics problems for the Kremlin.",
-      "summary_orig": "submitted by /u/MaryADraper [link] [comments]",
-      "lang": "en",
-      "title_en": "Kyiv’s Special Ops Execute Attack to Segment Russian Rail Routes. Seeking to maximize the effectiveness of its hits, Ukraine’s HUR and Special Ops disrupted two separate railway routes to compound logistics problems for the Kremlin.",
-      "summary_en": "submitted by /u/MaryADraper [link] [comments]",
-      "title": "Kyiv’s Special Ops Execute Attack to Segment Russian Rail Routes. Seeking to maximize the effectiveness of its hits, Ukraine’s HUR and Special Ops disrupted two separate railway routes to compound logistics problems for the Kremlin.",
-      "summary": "submitted by /u/MaryADraper [link] [comments]",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1nh7kij/kyivs_special_ops_execute_attack_to_segment/",
-      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
-      "published_at": "2025-09-15T00:29:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2509,7 +1627,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2528,24 +1646,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "d11e32a54898a38e",
-      "title_orig": "Aviation weather for Ruby airport (USA) is “PARY 142056Z AUTO 02006KT 10SM OVC095 04/M03 A2992 RMK AO2 SLP141 T00441028 56001 TSNO” :  See what it means on http",
-      "summary_orig": "Aviation weather for Ruby airport (USA) is “PARY 142056Z AUTO 02006KT 10SM OVC095 04/M03 A2992 RMK AO2 SLP141 T00441028 56001 TSNO” :  See what it means on https://www. bigorre.org/aero/meteo/pary/en # ruby # usa # rubyairport # pary # rby # metar # aviation # aviationweather # avgeek # airport vl",
-      "lang": "en",
-      "title_en": "Aviation weather for Ruby airport (USA) is “PARY 142056Z AUTO 02006KT 10SM OVC095 04/M03 A2992 RMK AO2 SLP141 T00441028 56001 TSNO” :  See what it means on http",
-      "summary_en": "Aviation weather for Ruby airport (USA) is “PARY 142056Z AUTO 02006KT 10SM OVC095 04/M03 A2992 RMK AO2 SLP141 T00441028 56001 TSNO” :  See what it means on https://www. bigorre.org/aero/meteo/pary/en # ruby # usa # rubyairport # pary # rby # metar # aviation # aviationweather # avgeek # airport vl",
-      "title": "Aviation weather for Ruby airport (USA) is “PARY 142056Z AUTO 02006KT 10SM OVC095 04/M03 A2992 RMK AO2 SLP141 T00441028 56001 TSNO” :  See what it means on http",
-      "summary": "Aviation weather for Ruby airport (USA) is “PARY 142056Z AUTO 02006KT 10SM OVC095 04/M03 A2992 RMK AO2 SLP141 T00441028 56001 TSNO” :  See what it means on https://www. bigorre.org/aero/meteo/pary/en # ruby # usa # rubyairport # pary # rby # metar # aviation # aviationweather # avgeek # airport vl",
-      "url": "https://mastodon.social/@bigorre_org/115204823688299912",
-      "source": "#AirPort",
-      "published_at": "2025-09-14T21:41:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -2596,24 +1696,6 @@
       "url": "http://www.euronews.com/2025/09/14/ukraine-strikes-one-of-russias-top-oil-refineries-causing-explosions-and-sparking-fire",
       "source": "News | Euronews RSS",
       "published_at": "2025-09-14T16:59:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c3a38529f8ffb404",
-      "title_orig": "Rubio in Israel for talks to limit diplomatic damage over Qatar strikes",
-      "summary_orig": "US secretary of state says Trump ‘not happy’ about Israeli attack that targeted Hamas officials in Doha for Gaza talks The US secretary of state, Marco Rubio, has held talks in Israel with Benjamin Netanyahu aimed at limiting the diplomatic damage to both countries by Israel’s attempt to assassinate Hamas leaders in Qatar , its continued demolition of Gaza, and the accelerated expansion of settlements in the occupied West Bank. The Israeli prime minister took Rubio on a tour of the Western Wall, where both men placed written prayers between the stones, before taking his American visitor underground to view archeological excavations. Continue reading...",
-      "lang": "en",
-      "title_en": "Rubio in Israel for talks to limit diplomatic damage over Qatar strikes",
-      "summary_en": "US secretary of state says Trump ‘not happy’ about Israeli attack that targeted Hamas officials in Doha for Gaza talks The US secretary of state, Marco Rubio, has held talks in Israel with Benjamin Netanyahu aimed at limiting the diplomatic damage to both countries by Israel’s attempt to assassinate Hamas leaders in Qatar , its continued demolition of Gaza, and the accelerated expansion of settlements in the occupied West Bank. The Israeli prime minister took Rubio on a tour of the Western Wall, where both men placed written prayers between the stones, before taking his American visitor underground to view archeological excavations. Continue reading...",
-      "title": "Rubio in Israel for talks to limit diplomatic damage over Qatar strikes",
-      "summary": "US secretary of state says Trump ‘not happy’ about Israeli attack that targeted Hamas officials in Doha for Gaza talks The US secretary of state, Marco Rubio, has held talks in Israel with Benjamin Netanyahu aimed at limiting the diplomatic damage to both countries by Israel’s attempt to assassinate Hamas leaders in Qatar , its continued demolition of Gaza, and the accelerated expansion of settlements in the occupied West Bank. The Israeli prime minister took Rubio on a tour of the Western Wall, where both men placed written prayers between the stones, before taking his American visitor underground to view archeological excavations. Continue reading...",
-      "url": "https://www.theguardian.com/world/2025/sep/14/rubio-visit-middle-east-israel-qatar-hamas",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-14T15:47:55+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2707,7 +1789,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2801,24 +1883,6 @@
       "geo": {}
     },
     {
-      "id": "22bad31a8d72bc40",
-      "title_orig": "# photography # planes # Photograph # airport # CH # MyWorkIsNotYetDone # myphoto # ownwork # sooc # raw2jpg # NoAi # noFilter Ein paar Bilder # ZRH",
-      "summary_orig": "# photography # planes # Photograph # airport # CH # MyWorkIsNotYetDone # myphoto # ownwork # sooc # raw2jpg # NoAi # noFilter Ein paar Bilder # ZRH",
-      "lang": "en",
-      "title_en": "# photography # planes # Photograph # airport # CH # MyWorkIsNotYetDone # myphoto # ownwork # sooc # raw2jpg # NoAi # noFilter Ein paar Bilder # ZRH",
-      "summary_en": "# photography # planes # Photograph # airport # CH # MyWorkIsNotYetDone # myphoto # ownwork # sooc # raw2jpg # NoAi # noFilter Ein paar Bilder # ZRH",
-      "title": "# photography # planes # Photograph # airport # CH # MyWorkIsNotYetDone # myphoto # ownwork # sooc # raw2jpg # NoAi # noFilter Ein paar Bilder # ZRH",
-      "summary": "# photography # planes # Photograph # airport # CH # MyWorkIsNotYetDone # myphoto # ownwork # sooc # raw2jpg # NoAi # noFilter Ein paar Bilder # ZRH",
-      "url": "https://mastodontech.de/@dutchking/115198555539054752",
-      "source": "#AirPort",
-      "published_at": "2025-09-13T19:07:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "c184f1404df38adc",
       "title_orig": "Protesters clash with police at far-right rally in London – video",
       "summary_orig": "More than 110,000 people marched through central London on Saturday in a rally called Unite the Kingdom organised by far-right activist Tommy Robinson to protest against government immigration policies. Protesters clashed with police as they breached a barrier that was set up to separate them from a counter-protest nearby Police assaulted as far-right rally led by Tommy Robinson sparks clashes UK politics live Continue reading...",
@@ -2887,7 +1951,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2923,7 +1987,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2942,42 +2006,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6e39799fcc09eac7",
-      "title_orig": "# Whitehorse , # Yukon is the only secondary # airport in # Canada where passenger numbers have fully recovered from the # COVID related # travel restrictions. ",
-      "summary_orig": "# Whitehorse , # Yukon is the only secondary # airport in # Canada where passenger numbers have fully recovered from the # COVID related # travel restrictions. # YXY",
-      "lang": "en",
-      "title_en": "# Whitehorse , # Yukon is the only secondary # airport in # Canada where passenger numbers have fully recovered from the # COVID related # travel restrictions. ",
-      "summary_en": "# Whitehorse , # Yukon is the only secondary # airport in # Canada where passenger numbers have fully recovered from the # COVID related # travel restrictions. # YXY",
-      "title": "# Whitehorse , # Yukon is the only secondary # airport in # Canada where passenger numbers have fully recovered from the # COVID related # travel restrictions. ",
-      "summary": "# Whitehorse , # Yukon is the only secondary # airport in # Canada where passenger numbers have fully recovered from the # COVID related # travel restrictions. # YXY",
-      "url": "https://social.heise.de/@newstik/115197109542724425",
-      "source": "#AirPort",
-      "published_at": "2025-09-13T12:59:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "3b192cc32ef64244",
-      "title_orig": "https://www. alojapan.com/1368871/%e3%80%90 %e3%82%a8%e3%82%b3%e3%83%8e%e3%83%9f%e3%83%bc%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bc%8f%e6%88%9",
-      "summary_orig": "https://www. alojapan.com/1368871/%e3%80%90 %e3%82%a8%e3%82%b3%e3%83%8e%e3%83%9f%e3%83%bc%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bc%8f%e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91ana904%e4%be%bf/ 【エコノミークラス機内食／成田空港着陸】ANA904便、大連周水子国際空港→成田空港 Economy class in flight meal # airport # ANA # Announcement # CabinCrew # Chiba # ChibaDestinations # ChibaTour # ChibaTravel # ChibaTrip # ChibaVacation # Haneda # Japan # Landing # Naha # Osaka # railway # takeoff # taxing # train # アナウンス # 千葉 # 空港 # 羽田空港 # 那覇空港 【エコノミークラス機内食／成田空港着陸】ANA904便、大連周水子国際空港→成田空港 Economy class in flight meal 2025年6月22日撮影、ANA904便、大連周水子国際空港→成田国際空港Boeing787-8(JA896A)より撮影した、エコノミークラス機内食と成田空港着陸の動画です。 Th",
-      "lang": "en",
-      "title_en": "https://www. alojapan.com/1368871/%e3%80%90 %e3%82%a8%e3%82%b3%e3%83%8e%e3%83%9f%e3%83%bc%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bc%8f%e6%88%9",
-      "summary_en": "https://www. alojapan.com/1368871/%e3%80%90 %e3%82%a8%e3%82%b3%e3%83%8e%e3%83%9f%e3%83%bc%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bc%8f%e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91ana904%e4%be%bf/ 【エコノミークラス機内食／成田空港着陸】ANA904便、大連周水子国際空港→成田空港 Economy class in flight meal # airport # ANA # Announcement # CabinCrew # Chiba # ChibaDestinations # ChibaTour # ChibaTravel # ChibaTrip # ChibaVacation # Haneda # Japan # Landing # Naha # Osaka # railway # takeoff # taxing # train # アナウンス # 千葉 # 空港 # 羽田空港 # 那覇空港 【エコノミークラス機内食／成田空港着陸】ANA904便、大連周水子国際空港→成田空港 Economy class in flight meal 2025年6月22日撮影、ANA904便、大連周水子国際空港→成田国際空港Boeing787-8(JA896A)より撮影した、エコノミークラス機内食と成田空港着陸の動画です。 Th",
-      "title": "https://www. alojapan.com/1368871/%e3%80%90 %e3%82%a8%e3%82%b3%e3%83%8e%e3%83%9f%e3%83%bc%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bc%8f%e6%88%9",
-      "summary": "https://www. alojapan.com/1368871/%e3%80%90 %e3%82%a8%e3%82%b3%e3%83%8e%e3%83%9f%e3%83%bc%e3%82%af%e3%83%a9%e3%82%b9%e6%a9%9f%e5%86%85%e9%a3%9f%ef%bc%8f%e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e7%9d%80%e9%99%b8%e3%80%91ana904%e4%be%bf/ 【エコノミークラス機内食／成田空港着陸】ANA904便、大連周水子国際空港→成田空港 Economy class in flight meal # airport # ANA # Announcement # CabinCrew # Chiba # ChibaDestinations # ChibaTour # ChibaTravel # ChibaTrip # ChibaVacation # Haneda # Japan # Landing # Naha # Osaka # railway # takeoff # taxing # train # アナウンス # 千葉 # 空港 # 羽田空港 # 那覇空港 【エコノミークラス機内食／成田空港着陸】ANA904便、大連周水子国際空港→成田空港 Economy class in flight meal 2025年6月22日撮影、ANA904便、大連周水子国際空港→成田国際空港Boeing787-8(JA896A)より撮影した、エコノミークラス機内食と成田空港着陸の動画です。 Th",
-      "url": "https://channels.im/@alojapan/115196866327637252",
-      "source": "#AirPort",
-      "published_at": "2025-09-13T11:58:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -3058,7 +2086,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -3211,7 +2239,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -3373,7 +2401,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -3392,24 +2420,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c9024d843fdd9db7",
-      "title_orig": "I admit, I'm a talk to strangers kind of person. Mostly because I'm curious about other perspectives, thinking, experiences. Almost always I leave with more emp",
-      "summary_orig": "I admit, I'm a talk to strangers kind of person. Mostly because I'm curious about other perspectives, thinking, experiences. Almost always I leave with more empathy for their world. Do you talk to strangers? eg on the bus, planes, waiting rooms, library, etc, etc? # waiting # publictransit # airport # public Yes, I often start Yes, but I won't start No, are you insane? This is the worst thing you can do",
-      "lang": "en",
-      "title_en": "I admit, I'm a talk to strangers kind of person. Mostly because I'm curious about other perspectives, thinking, experiences. Almost always I leave with more emp",
-      "summary_en": "I admit, I'm a talk to strangers kind of person. Mostly because I'm curious about other perspectives, thinking, experiences. Almost always I leave with more empathy for their world. Do you talk to strangers? eg on the bus, planes, waiting rooms, library, etc, etc? # waiting # publictransit # airport # public Yes, I often start Yes, but I won't start No, are you insane? This is the worst thing you can do",
-      "title": "I admit, I'm a talk to strangers kind of person. Mostly because I'm curious about other perspectives, thinking, experiences. Almost always I leave with more emp",
-      "summary": "I admit, I'm a talk to strangers kind of person. Mostly because I'm curious about other perspectives, thinking, experiences. Almost always I leave with more empathy for their world. Do you talk to strangers? eg on the bus, planes, waiting rooms, library, etc, etc? # waiting # publictransit # airport # public Yes, I often start Yes, but I won't start No, are you insane? This is the worst thing you can do",
-      "url": "https://mstdn.ca/@jeffhorton/115186500953452968",
-      "source": "#AirPort",
-      "published_at": "2025-09-11T16:02:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
@@ -3490,7 +2500,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -3548,24 +2558,6 @@
       "geo": {}
     },
     {
-      "id": "f1495fd701a044a4",
-      "title_orig": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacio",
-      "summary_orig": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacion # avión # avion # Luftfahrt # Flugzeuge",
-      "lang": "es",
-      "title_en": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacio",
-      "summary_en": "Renew Airport Postcards. # Renew # Nevada # Airport # Aviation # Airplanes # Avgeek # Postcards # Postcard # Travel # Plane PPOTTING # AVIATION # AVIATION # APPROVAL # AVION # LUFTFAHRT # FLUGZEUGE",
-      "title": "Reno Airport Postcards . # Reno # Nevada # Airport # aviation # airplanes # avgeek # planes # postcards # postcard # travel # planespotting # aviación # aviacio",
-      "summary": "Renew Airport Postcards. # Renew # Nevada # Airport # Aviation # Airplanes # Avgeek # Postcards # Postcard # Travel # Plane PPOTTING # AVIATION # AVIATION # APPROVAL # AVION # LUFTFAHRT # FLUGZEUGE",
-      "url": "https://mastodon.online/@Aviation_Librarian/115179652015690890",
-      "source": "#AirPort",
-      "published_at": "2025-09-10T11:00:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "ef6b59568bbef549",
       "title_orig": "'Get out of there!' Israel warns Gaza City to evacuate",
       "summary_orig": "On the day it attacked Hamas leadership in Qatar, Israel warned Gaza City residents to evacuate in advance of a major offensive.",
@@ -3580,7 +2572,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -3616,7 +2608,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -3656,24 +2648,6 @@
       "geo": {}
     },
     {
-      "id": "3f54632d105f10b7",
-      "title_orig": "https://www. europesays.com/2396935/ ANZ travel market outlook: Growth fueled by prices, not passengers # Accor # Airline # Airport # business # Coronavirus # G",
-      "summary_orig": "https://www. europesays.com/2396935/ ANZ travel market outlook: Growth fueled by prices, not passengers # Accor # Airline # Airport # business # Coronavirus # GroundTransportation # Home2ndTier # Hotel # markets # News # online # OnlineTravelAgency # PhocuswrightResearch # Qantas # VirginAtlantic",
-      "lang": "en",
-      "title_en": "https://www. europesays.com/2396935/ ANZ travel market outlook: Growth fueled by prices, not passengers # Accor # Airline # Airport # business # Coronavirus # G",
-      "summary_en": "https://www. europesays.com/2396935/ ANZ travel market outlook: Growth fueled by prices, not passengers # Accor # Airline # Airport # business # Coronavirus # GroundTransportation # Home2ndTier # Hotel # markets # News # online # OnlineTravelAgency # PhocuswrightResearch # Qantas # VirginAtlantic",
-      "title": "https://www. europesays.com/2396935/ ANZ travel market outlook: Growth fueled by prices, not passengers # Accor # Airline # Airport # business # Coronavirus # G",
-      "summary": "https://www. europesays.com/2396935/ ANZ travel market outlook: Growth fueled by prices, not passengers # Accor # Airline # Airport # business # Coronavirus # GroundTransportation # Home2ndTier # Hotel # markets # News # online # OnlineTravelAgency # PhocuswrightResearch # Qantas # VirginAtlantic",
-      "url": "https://pubeurope.com/@europesays/115172864860381332",
-      "source": "#AirPort",
-      "published_at": "2025-09-09T06:14:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "a7b64ea26dd306ac",
       "title_orig": "At least 19 killed in ‘gen Z’ protests against Nepal’s social media ban",
       "summary_orig": "Many demonstrators say they are also on the streets over corruption and nepotism they allege is rampant At least 19 people have been killed during protests in Nepal over a government ban on dozens of online platforms including Facebook, Instagram, WhatsApp and X. The government has faced mounting criticism after imposing a ban on 26 prominent social media platforms and messaging apps last week because they had missed a deadline to register under new regulations. Continue reading...",
@@ -3692,294 +2666,6 @@
       "geo": {}
     },
     {
-      "id": "65046deb4bdcd89d",
-      "title_orig": "https://www. alojapan.com/1365110/%e3%80%90 %e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91ana903%e4%be%bf%e3%80%81%e6%88%90%e7%94%b0%e7%a9%ba%e",
-      "summary_orig": "https://www. alojapan.com/1365110/%e3%80%90 %e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91ana903%e4%be%bf%e3%80%81%e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e2%86%92%e5%a4%a7%e9%80%a3%e5%91%a8%e6%b0%b4%e5%ad%90%e5%9b%bd/ 【成田空港離陸】ANA903便、成田空港→大連周水子国際空港 Takeoff at Narita Airport # airport # ANA # Announcement # CabinCrew # Chiba # ChibaDestinations # ChibaTour # ChibaTravel # ChibaTrip # ChibaVacation # Haneda # Japan # Landing # Naha # Osaka # railway # takeoff # taxing # train # アナウンス # 千葉 # 空港 # 羽田空港 # 那覇空港 【成田空港離陸】ANA903便、成田空港→大連周水子国際空港 Takeoff at Narita Airport 2025年6月20日撮影、ANA903便、成田国際空港→大連周水子国際空港Boeing787-8(JA840A)より撮影した、成田空港離陸の動画です。 This video was taken on June 20, 2025, from",
-      "lang": "en",
-      "title_en": "https://www. alojapan.com/1365110/%e3%80%90 %e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91ana903%e4%be%bf%e3%80%81%e6%88%90%e7%94%b0%e7%a9%ba%e",
-      "summary_en": "https://www. alojapan.com/1365110/%e3%80%90 %e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91ana903%e4%be%bf%e3%80%81%e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e2%86%92%e5%a4%a7%e9%80%a3%e5%91%a8%e6%b0%b4%e5%ad%90%e5%9b%bd/ 【成田空港離陸】ANA903便、成田空港→大連周水子国際空港 Takeoff at Narita Airport # airport # ANA # Announcement # CabinCrew # Chiba # ChibaDestinations # ChibaTour # ChibaTravel # ChibaTrip # ChibaVacation # Haneda # Japan # Landing # Naha # Osaka # railway # takeoff # taxing # train # アナウンス # 千葉 # 空港 # 羽田空港 # 那覇空港 【成田空港離陸】ANA903便、成田空港→大連周水子国際空港 Takeoff at Narita Airport 2025年6月20日撮影、ANA903便、成田国際空港→大連周水子国際空港Boeing787-8(JA840A)より撮影した、成田空港離陸の動画です。 This video was taken on June 20, 2025, from",
-      "title": "https://www. alojapan.com/1365110/%e3%80%90 %e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91ana903%e4%be%bf%e3%80%81%e6%88%90%e7%94%b0%e7%a9%ba%e",
-      "summary": "https://www. alojapan.com/1365110/%e3%80%90 %e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91ana903%e4%be%bf%e3%80%81%e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e2%86%92%e5%a4%a7%e9%80%a3%e5%91%a8%e6%b0%b4%e5%ad%90%e5%9b%bd/ 【成田空港離陸】ANA903便、成田空港→大連周水子国際空港 Takeoff at Narita Airport # airport # ANA # Announcement # CabinCrew # Chiba # ChibaDestinations # ChibaTour # ChibaTravel # ChibaTrip # ChibaVacation # Haneda # Japan # Landing # Naha # Osaka # railway # takeoff # taxing # train # アナウンス # 千葉 # 空港 # 羽田空港 # 那覇空港 【成田空港離陸】ANA903便、成田空港→大連周水子国際空港 Takeoff at Narita Airport 2025年6月20日撮影、ANA903便、成田国際空港→大連周水子国際空港Boeing787-8(JA840A)より撮影した、成田空港離陸の動画です。 This video was taken on June 20, 2025, from",
-      "url": "https://channels.im/@alojapan/115168322776490869",
-      "source": "#AirPort",
-      "published_at": "2025-09-08T10:59:03+00:00",
-      "tags": [
-        "Japan",
-        "NRT",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Narita",
-        "city": "Tokyo",
-        "country": "Japan",
-        "iata": "NRT",
-        "lat": 35.773,
-        "lon": 140.3929
-      }
-    },
-    {
-      "id": "19cd05ddfddcb6e9",
-      "title_orig": "The ground stop at Logan International # Airport ( # BOS ) has been extended by 1 hour to 6:15 PM. # AirportStatusBot",
-      "summary_orig": "The ground stop at Logan International # Airport ( # BOS ) has been extended by 1 hour to 6:15 PM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "The ground stop at Logan International # Airport ( # BOS ) has been extended by 1 hour to 6:15 PM. # AirportStatusBot",
-      "summary_en": "The ground stop at Logan International # Airport ( # BOS ) has been extended by 1 hour to 6:15 PM. # AirportStatusBot",
-      "title": "The ground stop at Logan International # Airport ( # BOS ) has been extended by 1 hour to 6:15 PM. # AirportStatusBot",
-      "summary": "The ground stop at Logan International # Airport ( # BOS ) has been extended by 1 hour to 6:15 PM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115159422512572415",
-      "source": "#AirPort",
-      "published_at": "2025-09-06T21:15:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "89eea4ad6bb65986",
-      "title_orig": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 29 minutes to 5:00 PM. # AirportStatusBot",
-      "summary_orig": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 29 minutes to 5:00 PM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 29 minutes to 5:00 PM. # AirportStatusBot",
-      "summary_en": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 29 minutes to 5:00 PM. # AirportStatusBot",
-      "title": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 29 minutes to 5:00 PM. # AirportStatusBot",
-      "summary": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 29 minutes to 5:00 PM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115159196828989120",
-      "source": "#AirPort",
-      "published_at": "2025-09-06T20:18:13+00:00",
-      "tags": [
-        "EWR",
-        "United States",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Newark Liberty",
-        "city": "Newark",
-        "country": "United States",
-        "iata": "EWR",
-        "lat": 40.6895,
-        "lon": -74.1745
-      }
-    },
-    {
-      "id": "b153f335305ca186",
-      "title_orig": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to # thunderstorms . Operations are expected ",
-      "summary_orig": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to # thunderstorms . Operations are expected to resume at 5:15 PM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to # thunderstorms . Operations are expected ",
-      "summary_en": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to # thunderstorms . Operations are expected to resume at 5:15 PM. # AirportStatusBot",
-      "title": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to # thunderstorms . Operations are expected ",
-      "summary": "Inbound aircraft to Logan International # Airport ( # BOS ) are currently being held at their origin # airport due to # thunderstorms . Operations are expected to resume at 5:15 PM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115159131095066732",
-      "source": "#AirPort",
-      "published_at": "2025-09-06T20:01:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "56238d49ea319622",
-      "title_orig": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 minute to 4:31 PM. # AirportStatusBot",
-      "summary_orig": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 minute to 4:31 PM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 minute to 4:31 PM. # AirportStatusBot",
-      "summary_en": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 minute to 4:31 PM. # AirportStatusBot",
-      "title": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 minute to 4:31 PM. # AirportStatusBot",
-      "summary": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 minute to 4:31 PM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115159101756791577",
-      "source": "#AirPort",
-      "published_at": "2025-09-06T19:54:02+00:00",
-      "tags": [
-        "EWR",
-        "United States",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Newark Liberty",
-        "city": "Newark",
-        "country": "United States",
-        "iata": "EWR",
-        "lat": 40.6895,
-        "lon": -74.1745
-      }
-    },
-    {
-      "id": "5ad6b3710078b4de",
-      "title_orig": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 30 minutes to 4:30 PM. # AirportStatusBot",
-      "summary_orig": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 30 minutes to 4:30 PM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 30 minutes to 4:30 PM. # AirportStatusBot",
-      "summary_en": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 30 minutes to 4:30 PM. # AirportStatusBot",
-      "title": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 30 minutes to 4:30 PM. # AirportStatusBot",
-      "summary": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 30 minutes to 4:30 PM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115158938606572084",
-      "source": "#AirPort",
-      "published_at": "2025-09-06T19:12:32+00:00",
-      "tags": [
-        "EWR",
-        "United States",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Newark Liberty",
-        "city": "Newark",
-        "country": "United States",
-        "iata": "EWR",
-        "lat": 40.6895,
-        "lon": -74.1745
-      }
-    },
-    {
-      "id": "a23c388909ea61f6",
-      "title_orig": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 hour and 15 minutes to 4:00 PM. # AirportStatusBot",
-      "summary_orig": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 hour and 15 minutes to 4:00 PM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 hour and 15 minutes to 4:00 PM. # AirportStatusBot",
-      "summary_en": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 hour and 15 minutes to 4:00 PM. # AirportStatusBot",
-      "title": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 hour and 15 minutes to 4:00 PM. # AirportStatusBot",
-      "summary": "The ground stop at Newark Liberty International # Airport ( # EWR ) has been extended by 1 hour and 15 minutes to 4:00 PM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115158817055102415",
-      "source": "#AirPort",
-      "published_at": "2025-09-06T18:41:38+00:00",
-      "tags": [
-        "EWR",
-        "United States",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Newark Liberty",
-        "city": "Newark",
-        "country": "United States",
-        "iata": "EWR",
-        "lat": 40.6895,
-        "lon": -74.1745
-      }
-    },
-    {
-      "id": "650a2d1cbe85bd01",
-      "title_orig": "Inbound aircraft to Newark Liberty International # Airport ( # EWR ) are currently being held at their origin # airport due to # thunderstorms . Operations are ",
-      "summary_orig": "Inbound aircraft to Newark Liberty International # Airport ( # EWR ) are currently being held at their origin # airport due to # thunderstorms . Operations are expected to resume at 2:45 PM. # AirportStatusBot",
-      "lang": "en",
-      "title_en": "Inbound aircraft to Newark Liberty International # Airport ( # EWR ) are currently being held at their origin # airport due to # thunderstorms . Operations are ",
-      "summary_en": "Inbound aircraft to Newark Liberty International # Airport ( # EWR ) are currently being held at their origin # airport due to # thunderstorms . Operations are expected to resume at 2:45 PM. # AirportStatusBot",
-      "title": "Inbound aircraft to Newark Liberty International # Airport ( # EWR ) are currently being held at their origin # airport due to # thunderstorms . Operations are ",
-      "summary": "Inbound aircraft to Newark Liberty International # Airport ( # EWR ) are currently being held at their origin # airport due to # thunderstorms . Operations are expected to resume at 2:45 PM. # AirportStatusBot",
-      "url": "https://mastodon.social/@AirportStatusBot/115158520657287867",
-      "source": "#AirPort",
-      "published_at": "2025-09-06T17:26:15+00:00",
-      "tags": [
-        "EWR",
-        "United States",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Newark Liberty",
-        "city": "Newark",
-        "country": "United States",
-        "iata": "EWR",
-        "lat": 40.6895,
-        "lon": -74.1745
-      }
-    },
-    {
-      "id": "02470470e2682acc",
-      "title_orig": "furries? at my airport? 🛫 this leggy is onboard a flight for # seattle tonight. happy # fursuitfriday and hope you all have a good weekend! 📸 Timber Durr 🪡 Symp",
-      "summary_orig": "furries? at my airport? 🛫 this leggy is onboard a flight for # seattle tonight. happy # fursuitfriday and hope you all have a good weekend! 📸 Timber Durr 🪡 Symphontail # pittsburgh # furry # fursuit # airport",
-      "lang": "en",
-      "title_en": "furries? at my airport? 🛫 this leggy is onboard a flight for # seattle tonight. happy # fursuitfriday and hope you all have a good weekend! 📸 Timber Durr 🪡 Symp",
-      "summary_en": "furries? at my airport? 🛫 this leggy is onboard a flight for # seattle tonight. happy # fursuitfriday and hope you all have a good weekend! 📸 Timber Durr 🪡 Symphontail # pittsburgh # furry # fursuit # airport",
-      "title": "furries? at my airport? 🛫 this leggy is onboard a flight for # seattle tonight. happy # fursuitfriday and hope you all have a good weekend! 📸 Timber Durr 🪡 Symp",
-      "summary": "furries? at my airport? 🛫 this leggy is onboard a flight for # seattle tonight. happy # fursuitfriday and hope you all have a good weekend! 📸 Timber Durr 🪡 Symphontail # pittsburgh # furry # fursuit # airport",
-      "url": "https://furry.engineer/@guguke/115154278586394839",
-      "source": "#AirPort",
-      "published_at": "2025-09-05T23:27:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
-      "id": "2b6fc3600424d5c1",
-      "title_orig": "https://www. alojapan.com/1363183/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e8%88%aa%e7%a9%ba918%e4%be%bf%e3%8",
-      "summary_orig": "https://www. alojapan.com/1363183/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e8%88%aa%e7%a9%ba918%e4%be%bf%e3%80%81%e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e2%86%92%e7%be%bd%e7%94%b0/ 【那覇空港離陸】日本航空918便、那覇空港→羽田空港 Takeoff at Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【那覇空港離陸】日本航空918便、那覇空港→羽田空港 Takeoff at Naha Airport 2025年6月14日、日本航空918便、那覇空港→東京国際空港（羽田）Airbus A350-900(JA11XJ)より撮影した那覇空港離陸の動画です。 June 14, 2025, Japan Airlines Flight 918, Naha Airport → Tokyo Inte",
-      "lang": "en",
-      "title_en": "https://www. alojapan.com/1363183/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e8%88%aa%e7%a9%ba918%e4%be%bf%e3%8",
-      "summary_en": "https://www. alojapan.com/1363183/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e8%88%aa%e7%a9%ba918%e4%be%bf%e3%80%81%e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e2%86%92%e7%be%bd%e7%94%b0/ 【那覇空港離陸】日本航空918便、那覇空港→羽田空港 Takeoff at Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【那覇空港離陸】日本航空918便、那覇空港→羽田空港 Takeoff at Naha Airport 2025年6月14日、日本航空918便、那覇空港→東京国際空港（羽田）Airbus A350-900(JA11XJ)より撮影した那覇空港離陸の動画です。 June 14, 2025, Japan Airlines Flight 918, Naha Airport → Tokyo Inte",
-      "title": "https://www. alojapan.com/1363183/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e8%88%aa%e7%a9%ba918%e4%be%bf%e3%8",
-      "summary": "https://www. alojapan.com/1363183/%e3%80%90 %e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e9%9b%a2%e9%99%b8%e3%80%91%e6%97%a5%e6%9c%ac%e8%88%aa%e7%a9%ba918%e4%be%bf%e3%80%81%e9%82%a3%e8%a6%87%e7%a9%ba%e6%b8%af%e2%86%92%e7%be%bd%e7%94%b0/ 【那覇空港離陸】日本航空918便、那覇空港→羽田空港 Takeoff at Naha Airport # airport # ANA # Announcement # CabinCrew # Haneda # Japan # Landing # Naha # NahaDestinations # NahaTour # NahaTravel # NahaTrip # NahaVacation # Osaka # railway # takeoff # taxing # train # アナウンス # 空港 # 羽田空港 # 那覇 # 那覇空港 【那覇空港離陸】日本航空918便、那覇空港→羽田空港 Takeoff at Naha Airport 2025年6月14日、日本航空918便、那覇空港→東京国際空港（羽田）Airbus A350-900(JA11XJ)より撮影した那覇空港離陸の動画です。 June 14, 2025, Japan Airlines Flight 918, Naha Airport → Tokyo Inte",
-      "url": "https://channels.im/@alojapan/115153502468973617",
-      "source": "#AirPort",
-      "published_at": "2025-09-05T20:10:03+00:00",
-      "tags": [
-        "HND",
-        "Japan",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Haneda",
-        "city": "Tokyo",
-        "country": "Japan",
-        "iata": "HND",
-        "lat": 35.5494,
-        "lon": 139.7798
-      }
-    },
-    {
-      "id": "321a82c591b3577c",
-      "title_orig": "Is this a Concorde at Heathrow, or just a weird angle on a more conventional jet? # airplane # plane # BA # concorde # Heathrow # airport",
-      "summary_orig": "Is this a Concorde at Heathrow, or just a weird angle on a more conventional jet? # airplane # plane # BA # concorde # Heathrow # airport",
-      "lang": "en",
-      "title_en": "Is this a Concorde at Heathrow, or just a weird angle on a more conventional jet? # airplane # plane # BA # concorde # Heathrow # airport",
-      "summary_en": "Is this a Concorde at Heathrow, or just a weird angle on a more conventional jet? # airplane # plane # BA # concorde # Heathrow # airport",
-      "title": "Is this a Concorde at Heathrow, or just a weird angle on a more conventional jet? # airplane # plane # BA # concorde # Heathrow # airport",
-      "summary": "Is this a Concorde at Heathrow, or just a weird angle on a more conventional jet? # airplane # plane # BA # concorde # Heathrow # airport",
-      "url": "https://kind.social/@PKYo/115151549510000647",
-      "source": "#AirPort",
-      "published_at": "2025-09-05T11:53:24+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
-      "id": "704d8a25d67b6752",
-      "title_orig": "Sometimes when it gets really hot outside 🥵 I remind myself that years ago I used to work in sub-zero temps. See the snow moving scross the ground? 🥶 Don’t miss",
-      "summary_orig": "Sometimes when it gets really hot outside 🥵 I remind myself that years ago I used to work in sub-zero temps. See the snow moving scross the ground? 🥶 Don’t miss that. # summer # winter # seasons # aircraft # airport # hot # cold # video # deice",
-      "lang": "en",
-      "title_en": "Sometimes when it gets really hot outside 🥵 I remind myself that years ago I used to work in sub-zero temps. See the snow moving scross the ground? 🥶 Don’t miss",
-      "summary_en": "Sometimes when it gets really hot outside 🥵 I remind myself that years ago I used to work in sub-zero temps. See the snow moving scross the ground? 🥶 Don’t miss that. # summer # winter # seasons # aircraft # airport # hot # cold # video # deice",
-      "title": "Sometimes when it gets really hot outside 🥵 I remind myself that years ago I used to work in sub-zero temps. See the snow moving scross the ground? 🥶 Don’t miss",
-      "summary": "Sometimes when it gets really hot outside 🥵 I remind myself that years ago I used to work in sub-zero temps. See the snow moving scross the ground? 🥶 Don’t miss that. # summer # winter # seasons # aircraft # airport # hot # cold # video # deice",
-      "url": "https://social.lol/@von/115147878633810090",
-      "source": "#AirPort",
-      "published_at": "2025-09-04T20:19:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "ae26a0907a26b6bd",
       "title_orig": "Indonesia's protests over the economy turn to police brutality",
       "summary_orig": "Indonesia's protests over the economy turn to police brutality",
@@ -3994,7 +2680,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -4012,7 +2698,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -4048,7 +2734,7 @@
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -4088,24 +2774,6 @@
       "geo": {}
     },
     {
-      "id": "e20693d04ceec4d5",
-      "title_orig": "Mod Announcement: Rule Changes & Content Limitations",
-      "summary_orig": "Please read the following announcement before posting or commenting. Violations of these rules may result in a permanent ban. Changes to Rule 2: Rule 2 has been changed to include the use of AI. This includes, but is not limited to, the use of AI in writing comments and posts or generating images. This also includes presenting AI theories or arguments, even if you explicitly state they are generated by AI. AI-generated content regarding aviation is frequently wrong and is incredibly low effort. The use of AI may result in a ban. Introduction of Rule 10: Even though we have been restricting NSFW content and gore before this, we have added it as an official rule and will be strongly enforcing it from now on. Rule 10 bans any gore being posted to this subreddit , even if it is a link to an outside source. This includes as a post or a comment. Violations of this will result in a permanent ban from r/aviation . In addition to this, we are also limiting NSFW content that is not explicitly gore. This content will be decided on a case by case basis. Content involving incidents like the one that was seen at Milan Bergamo Airport will always be marked as NSFW, and we will provide details in pinned comments and the flair to elaborate on how NSFW the content is, so that everyone can make their own choice on what they want to see. Geopolitics: Please remember to keep discussion in this subreddit focused on aviation. While geopolitics will frequently be a part of discussion, please remain respectful and avoid getting in arguments about this. Do not bring geopolitics into posts where they don’t belong. Air India Related Content Before posting Air India related content, please do the following. Search through the 4 megathreads below to see if your content has already been discussed; Megathread 1 (day of crash) Megathread 2 (2 days after crash) Megathread 3 (week after crash) Preliminary Report Megathread - Search this subreddit to see if it has already been posted. - Check if there are any active megathreads about the Air India crash, and if so, post there instead. These will be found pinned on the subreddit homepage. - Check if the content you are posting is up to date, original, and adds to the discussion. - If you are posting news, check if it is from a reputable source. Do not post speculation from news sources. Thank you for your understanding. If you have any questions or concerns, please do not hesitate to reach out through modmail. The r/aviation Mod Team submitted by /u/usgapg123 [link] [comments]",
-      "lang": "en",
-      "title_en": "Mod Announcement: Rule Changes & Content Limitations",
-      "summary_en": "Please read the following announcement before posting or commenting. Violations of these rules may result in a permanent ban. Changes to Rule 2: Rule 2 has been changed to include the use of AI. This includes, but is not limited to, the use of AI in writing comments and posts or generating images. This also includes presenting AI theories or arguments, even if you explicitly state they are generated by AI. AI-generated content regarding aviation is frequently wrong and is incredibly low effort. The use of AI may result in a ban. Introduction of Rule 10: Even though we have been restricting NSFW content and gore before this, we have added it as an official rule and will be strongly enforcing it from now on. Rule 10 bans any gore being posted to this subreddit , even if it is a link to an outside source. This includes as a post or a comment. Violations of this will result in a permanent ban from r/aviation . In addition to this, we are also limiting NSFW content that is not explicitly gore. This content will be decided on a case by case basis. Content involving incidents like the one that was seen at Milan Bergamo Airport will always be marked as NSFW, and we will provide details in pinned comments and the flair to elaborate on how NSFW the content is, so that everyone can make their own choice on what they want to see. Geopolitics: Please remember to keep discussion in this subreddit focused on aviation. While geopolitics will frequently be a part of discussion, please remain respectful and avoid getting in arguments about this. Do not bring geopolitics into posts where they don’t belong. Air India Related Content Before posting Air India related content, please do the following. Search through the 4 megathreads below to see if your content has already been discussed; Megathread 1 (day of crash) Megathread 2 (2 days after crash) Megathread 3 (week after crash) Preliminary Report Megathread - Search this subreddit to see if it has already been posted. - Check if there are any active megathreads about the Air India crash, and if so, post there instead. These will be found pinned on the subreddit homepage. - Check if the content you are posting is up to date, original, and adds to the discussion. - If you are posting news, check if it is from a reputable source. Do not post speculation from news sources. Thank you for your understanding. If you have any questions or concerns, please do not hesitate to reach out through modmail. The r/aviation Mod Team submitted by /u/usgapg123 [link] [comments]",
-      "title": "Mod Announcement: Rule Changes & Content Limitations",
-      "summary": "Please read the following announcement before posting or commenting. Violations of these rules may result in a permanent ban. Changes to Rule 2: Rule 2 has been changed to include the use of AI. This includes, but is not limited to, the use of AI in writing comments and posts or generating images. This also includes presenting AI theories or arguments, even if you explicitly state they are generated by AI. AI-generated content regarding aviation is frequently wrong and is incredibly low effort. The use of AI may result in a ban. Introduction of Rule 10: Even though we have been restricting NSFW content and gore before this, we have added it as an official rule and will be strongly enforcing it from now on. Rule 10 bans any gore being posted to this subreddit , even if it is a link to an outside source. This includes as a post or a comment. Violations of this will result in a permanent ban from r/aviation . In addition to this, we are also limiting NSFW content that is not explicitly gore. This content will be decided on a case by case basis. Content involving incidents like the one that was seen at Milan Bergamo Airport will always be marked as NSFW, and we will provide details in pinned comments and the flair to elaborate on how NSFW the content is, so that everyone can make their own choice on what they want to see. Geopolitics: Please remember to keep discussion in this subreddit focused on aviation. While geopolitics will frequently be a part of discussion, please remain respectful and avoid getting in arguments about this. Do not bring geopolitics into posts where they don’t belong. Air India Related Content Before posting Air India related content, please do the following. Search through the 4 megathreads below to see if your content has already been discussed; Megathread 1 (day of crash) Megathread 2 (2 days after crash) Megathread 3 (week after crash) Preliminary Report Megathread - Search this subreddit to see if it has already been posted. - Check if there are any active megathreads about the Air India crash, and if so, post there instead. These will be found pinned on the subreddit homepage. - Check if the content you are posting is up to date, original, and adds to the discussion. - If you are posting news, check if it is from a reputable source. Do not post speculation from news sources. Thank you for your understanding. If you have any questions or concerns, please do not hesitate to reach out through modmail. The r/aviation Mod Team submitted by /u/usgapg123 [link] [comments]",
-      "url": "https://www.reddit.com/r/aviation/comments/1lzt61p/mod_announcement_rule_changes_content_limitations/",
-      "source": "aviation",
-      "published_at": "2025-07-14T17:46:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
-      "geo": {}
-    },
-    {
       "id": "02c7e60d38f28eba",
       "title_orig": "Streeting and BMA to hold talks to avoid doctor strikes",
       "summary_orig": "Resident doctors set to walk out for five consecutive days on July 25 in what would be a ‘wrecking ball’ through NHS",
@@ -4121,24 +2789,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "dc7e511e80c16915",
-      "title_orig": "JOINT SUBREDDIT FUNDRAISER FOR UKRAINE X UNITED24",
-      "summary_orig": "Hello users of r/UkrainianConflict , For the past three years, Ukrainian cities have endured relentless attacks from Russian missiles and Iranian-made Shahed-136 kamikaze drones. In 2025 alone, over 12,000 of these drones have struck Ukraine — targeting not military infrastructure, but homes, hospitals, and schools. Thousands of civilians have been killed. Hundreds of them were children. A number of subreddits, including this one, believe this campaign of terror must end. We're proud to join the Sky Sentinel fundraiser in collaboration with United24, the official fundraising platform of Ukraine. The goal: help fund Sky Sentinel, an Al-powered, Ukrainian-made turret system designed to autonomously detect and shoot down these deadly drones. Each turret costs $150,000. United24 supporters have already raised over $1 million, and now we're coming together to raise enough for one more turret - entirely through Reddit. If we should not reach the goal, the donations will still be used for Sky Sentinel. If we don't reach the goal, the donations will still go to United24's general Sky Sentinel Program. If we succeed: • We'll save civilian lives. • A community vote will name the turret. • We'll receive a photo of the deployed turret, showing our contribution in action. Every donation helps, no matter the amount. Click the link below to donate and learn more about Sky Sentinel https://u24.gov.ua/sky-sentinel?utm_source=reddit&utm_medium=fundraising&utm_campaign=sky-sentinel Thank you for your support and a shoutout to u/SurvivingSpartan and all the others who made this fundraiser possible! submitted by /u/humanlikecorvus [link] [comments]",
-      "lang": "en",
-      "title_en": "JOINT SUBREDDIT FUNDRAISER FOR UKRAINE X UNITED24",
-      "summary_en": "Hello users of r/UkrainianConflict , For the past three years, Ukrainian cities have endured relentless attacks from Russian missiles and Iranian-made Shahed-136 kamikaze drones. In 2025 alone, over 12,000 of these drones have struck Ukraine — targeting not military infrastructure, but homes, hospitals, and schools. Thousands of civilians have been killed. Hundreds of them were children. A number of subreddits, including this one, believe this campaign of terror must end. We're proud to join the Sky Sentinel fundraiser in collaboration with United24, the official fundraising platform of Ukraine. The goal: help fund Sky Sentinel, an Al-powered, Ukrainian-made turret system designed to autonomously detect and shoot down these deadly drones. Each turret costs $150,000. United24 supporters have already raised over $1 million, and now we're coming together to raise enough for one more turret - entirely through Reddit. If we should not reach the goal, the donations will still be used for Sky Sentinel. If we don't reach the goal, the donations will still go to United24's general Sky Sentinel Program. If we succeed: • We'll save civilian lives. • A community vote will name the turret. • We'll receive a photo of the deployed turret, showing our contribution in action. Every donation helps, no matter the amount. Click the link below to donate and learn more about Sky Sentinel https://u24.gov.ua/sky-sentinel?utm_source=reddit&utm_medium=fundraising&utm_campaign=sky-sentinel Thank you for your support and a shoutout to u/SurvivingSpartan and all the others who made this fundraiser possible! submitted by /u/humanlikecorvus [link] [comments]",
-      "title": "JOINT SUBREDDIT FUNDRAISER FOR UKRAINE X UNITED24",
-      "summary": "Hello users of r/UkrainianConflict , For the past three years, Ukrainian cities have endured relentless attacks from Russian missiles and Iranian-made Shahed-136 kamikaze drones. In 2025 alone, over 12,000 of these drones have struck Ukraine — targeting not military infrastructure, but homes, hospitals, and schools. Thousands of civilians have been killed. Hundreds of them were children. A number of subreddits, including this one, believe this campaign of terror must end. We're proud to join the Sky Sentinel fundraiser in collaboration with United24, the official fundraising platform of Ukraine. The goal: help fund Sky Sentinel, an Al-powered, Ukrainian-made turret system designed to autonomously detect and shoot down these deadly drones. Each turret costs $150,000. United24 supporters have already raised over $1 million, and now we're coming together to raise enough for one more turret - entirely through Reddit. If we should not reach the goal, the donations will still be used for Sky Sentinel. If we don't reach the goal, the donations will still go to United24's general Sky Sentinel Program. If we succeed: • We'll save civilian lives. • A community vote will name the turret. • We'll receive a photo of the deployed turret, showing our contribution in action. Every donation helps, no matter the amount. Click the link below to donate and learn more about Sky Sentinel https://u24.gov.ua/sky-sentinel?utm_source=reddit&utm_medium=fundraising&utm_campaign=sky-sentinel Thank you for your support and a shoutout to u/SurvivingSpartan and all the others who made this fundraiser possible! submitted by /u/humanlikecorvus [link] [comments]",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1lnl1el/joint_subreddit_fundraiser_for_ukraine_x_united24/",
-      "source": "News & Events Surrounding Russia's Invasion of Ukraine",
-      "published_at": "2025-06-29T17:57:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "social",
       "geo": {}
     },
     {
