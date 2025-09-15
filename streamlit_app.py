@@ -1,4 +1,7 @@
 import os
+import re
+import io
+import csv
 import json
 from textwrap import shorten
 from datetime import datetime
@@ -48,7 +51,6 @@ def pick_language_text(it: Dict, translate_on: bool) -> (str, str):
         return it.get("title_en") or it.get("title") or it.get("title_orig") or "", \
                it.get("summary_en") or it.get("summary") or it.get("summary_orig") or ""
     else:
-        # Prefer originals when translate is OFF; fall back to English
         return it.get("title_orig") or it.get("title") or it.get("title_en") or "", \
                it.get("summary_orig") or it.get("summary") or it.get("summary_en") or ""
 
@@ -57,7 +59,7 @@ def pick_language_text(it: Dict, translate_on: bool) -> (str, str):
 def ai_risk_summary(cache_key: str, items: List[Dict], model: str, translate_on: bool) -> str:
     """
     cache_key is usually data['generated_at'] so we re-summarize only when new data arrives.
-    We keep the prompt small for cost—top 80 relevant items, each truncated.
+    We keep the prompt small for cost—top ~80 relevant entries, each truncated.
     """
     if not OPENAI_API_KEY:
         return "Set OPENAI_API_KEY in your Streamlit secrets to enable the AI summary."
@@ -73,7 +75,6 @@ def ai_risk_summary(cache_key: str, items: List[Dict], model: str, translate_on:
     else:
         risk_items = risk_items[:80]
 
-    # Build compact lines
     lines = []
     for it in risk_items:
         title, summary = pick_language_text(it, translate_on)
@@ -89,20 +90,18 @@ def ai_risk_summary(cache_key: str, items: List[Dict], model: str, translate_on:
             line += f"\n  {clamp_txt(summary, 280)}"
         lines.append(line)
 
-    # Prompt
     sys = (
         "You are an analyst for an aviation/physical security dashboard. "
         "Given recent items, extract concrete, near-term risks to PHYSICAL well-being: "
         "e.g., attacks near airports/transport, airspace closures, strikes causing safety gaps, "
-        "severe weather disrupting operations, evacuations, diplomatic incidents that may trigger protests. "
-        "Ignore finance/celebrity/politics unless it implies a physical security or operations impact. "
-        "Be concise and specific. Group by theme. Use bullet points. For each bullet add: "
-        "[Severity: low|moderate|high] and a crisp 3–7 word title, then 1 line detail with where/when if present. "
-        "Do NOT hallucinate. If uncertain, mark Severity: low."
+        "severe weather disrupting operations, evacuations, diplomatic incidents likely to spark protests. "
+        "Ignore finance/celebrity/politics unless it implies physical security or operations impact. "
+        "Be concise. Group by theme. Use bullet points. For each bullet add: "
+        "[Severity: low|moderate|high] and a crisp 3–7 word title, then one line detail "
+        "with where/when if present. Do NOT hallucinate. If uncertain, mark Severity: low."
     )
     user = "Recent items:\n" + "\n".join(lines)
 
-    # OpenAI call (chat.completions)
     try:
         from openai import OpenAI
         client = OpenAI(api_key=OPENAI_API_KEY)
@@ -119,6 +118,54 @@ def ai_risk_summary(cache_key: str, items: List[Dict], model: str, translate_on:
     except Exception as ex:
         return f"⚠️ OpenAI error: {ex}"
 
+# -------- Parse AI bullets → rows for CSV export
+BULLET_RE = re.compile(r"^\s*[-•]\s+(.*)$")
+SEV_RE = re.compile(r"\[?\s*Severity\s*:\s*(low|moderate|high)\s*\]?", re.I)
+
+def parse_ai_summary_to_rows(text: str) -> List[Dict[str,str]]:
+    """
+    Very tolerant parser:
+    - takes lines starting with '-' or '•'
+    - tries to extract [Severity: X]
+    - splits 'Title — detail' or 'Title: detail' if present
+    """
+    rows = []
+    if not text:
+        return rows
+
+    for raw in text.splitlines():
+        m = BULLET_RE.match(raw)
+        if not m:
+            continue
+        line = m.group(1).strip()
+
+        # Severity
+        sev_match = SEV_RE.search(line)
+        sev = sev_match.group(1).lower() if sev_match else ""
+        line_wo_sev = SEV_RE.sub("", line).strip(" -–—:|")
+
+        # Title / detail split
+        # try em dash, colon, or pipe
+        parts = re.split(r"\s+[-–—:|]\s+", line_wo_sev, maxsplit=1)
+        if len(parts) == 2:
+            title, detail = parts[0].strip(), parts[1].strip()
+        else:
+            title, detail = line_wo_sev, ""
+
+        rows.append({"severity": sev, "title": title, "detail": detail})
+    return rows
+
+def rows_to_csv_bytes(rows: List[Dict[str,str]]) -> bytes:
+    buf = io.StringIO()
+    writer = csv.DictWriter(buf, fieldnames=["severity", "title", "detail"])
+    writer.writeheader()
+    for r in rows:
+        writer.writerow(r)
+    return buf.getvalue().encode("utf-8")
+
+def text_to_md_bytes(text: str) -> bytes:
+    return text.encode("utf-8")
+
 # ---------------- Layout ----------------
 st.set_page_config(page_title="Global Situational Awareness Dashboard", layout="wide")
 
@@ -131,7 +178,6 @@ st.markdown(
     .stButton button, .stDownloadButton button {
         border: 1px solid #444 !important; padding: 0.4rem 1rem; border-radius: 4px;
     }
-    .chip { display:inline-block; padding: 0.12rem 0.5rem; border:1px solid #ddd; border-radius:999px; font-size:0.8rem; margin-left:0.3rem; }
     h2 { margin-top: 1rem; border-bottom: 2px solid #eee; padding-bottom: 0.3rem; }
     </style>
     """,
@@ -155,7 +201,7 @@ with headB:
             st.cache_data.clear()
             st.rerun()
 
-# -------- Translate toggle (ON/OFF pill)
+# -------- Translate ON/OFF pill
 pill_col1, pill_col2 = st.columns([1, 5])
 with pill_col1:
     translate = st.toggle("Translate", value=True, help="Switch between original and English.")
@@ -165,9 +211,9 @@ with pill_col2:
 # -------- Status / progress (from status.json if available)
 status = fetch_json(STATUS_JSON_URL)
 if status:
-    cur = status.get("current", "")
     done = int(status.get("done", 0))
     tot = max(1, int(status.get("total", 0)) or 1)
+    cur = status.get("current", "")
     finished = status.get("finished_at")
     state_line = f"Processed {done}/{tot}"
     if not finished and cur:
@@ -178,9 +224,9 @@ if status:
     with progB:
         st.caption(state_line)
 
-# -------- NEW: Risk summary (AI)
+# -------- Risk summary (AI) + EXPORTS
 with st.container(border=True):
-    topL, topR = st.columns([0.7, 0.3])
+    topL, topR = st.columns([0.65, 0.35])
     with topL:
         st.subheader("Risk summary (AI)")
         st.caption("Auto-extracted, near-term physical safety/operations risks from the latest items.")
@@ -196,6 +242,28 @@ with st.container(border=True):
 
     if "ai_summary" in st.session_state:
         st.markdown(st.session_state["ai_summary"])
+
+        # --- Export buttons
+        rows = parse_ai_summary_to_rows(st.session_state["ai_summary"])
+        colDL1, colDL2, _ = st.columns([0.22, 0.22, 0.56])
+        with colDL1:
+            st.download_button(
+                "Download CSV",
+                data=rows_to_csv_bytes(rows),
+                file_name="risk_summary.csv",
+                mime="text/csv",
+                help="CSV with severity, title, detail",
+                use_container_width=True,
+            )
+        with colDL2:
+            st.download_button(
+                "Download Markdown",
+                data=text_to_md_bytes(st.session_state["ai_summary"]),
+                file_name="risk_summary.md",
+                mime="text/markdown",
+                help="Markdown of the AI bullet list",
+                use_container_width=True,
+            )
     else:
         st.info("Click **Generate summary** to create an AI overview of key risks.")
 
