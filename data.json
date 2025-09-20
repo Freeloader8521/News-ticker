@@ -1,6 +1,501 @@
 {
-  "generated_at": "2025-09-20T08:47:33.207865+00:00",
+  "generated_at": "2025-09-20T09:36:00.548427+00:00",
   "items": [
+    {
+      "id": "6e8816c312d4a61f",
+      "title_orig": "Cyberattack causes delays, disruptions at European airports",
+      "summary_orig": "Collins Aerospace, which provides check-in and boarding systems for airlines at multiple airports, said a \"cyber-related disruption\" affected its systems.",
+      "lang": "en",
+      "title_en": "Cyberattack causes delays, disruptions at European airports",
+      "summary_en": "Collins Aerospace, which provides check-in and boarding systems for airlines at multiple airports, said a \"cyber-related disruption\" affected its systems.",
+      "title": "Cyberattack causes delays, disruptions at European airports",
+      "summary": "Collins Aerospace, which provides check-in and boarding systems for airlines at multiple airports, said a \"cyber-related disruption\" affected its systems.",
+      "url": "https://www.politico.eu/article/cyberattack-delay-disruption-european-airport/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "source": "POLITICO",
+      "published_at": "2025-09-20T09:25:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ad574dd382177096",
+      "title_orig": "Airports across Europe hit by 'cyber-related disruption', leading to check-in delays",
+      "summary_orig": "Affected airports include Brussels, Berlin and London’s Heathrow.",
+      "lang": "en",
+      "title_en": "Airports across Europe hit by 'cyber-related disruption', leading to check-in delays",
+      "summary_en": "Affected airports include Brussels, Berlin and London’s Heathrow.",
+      "title": "Airports across Europe hit by 'cyber-related disruption', leading to check-in delays",
+      "summary": "Affected airports include Brussels, Berlin and London’s Heathrow.",
+      "url": "https://www.thejournal.ie/european-airports-hit-by-cyber-disruption-6822342-Sep2025/",
+      "source": "TheJournal.ie",
+      "published_at": "2025-09-20T09:20:57+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "cd22832260e720e2",
+      "title_orig": "Cyberattack disrupts check-in systems at major European airports",
+      "summary_orig": "People at BER airport as a cyber attack has caused delays, in Berlin, Germany, Saturday, Sept. 20, 2025. (Carsten Koall/dpa…",
+      "lang": "en",
+      "title_en": "Cyberattack disrupts check-in systems at major European airports",
+      "summary_en": "People at BER airport as a cyber attack has caused delays, in Berlin, Germany, Saturday, Sept. 20, 2025. (Carsten Koall/dpa…",
+      "title": "Cyberattack disrupts check-in systems at major European airports",
+      "summary": "People at BER airport as a cyber attack has caused delays, in Berlin, Germany, Saturday, Sept. 20, 2025. (Carsten Koall/dpa…",
+      "url": "https://wtop.com/europe/2025/09/cyberattack-disrupts-check-in-systems-at-major-european-airports/",
+      "source": "WTOP News",
+      "published_at": "2025-09-20T09:19:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "89631824150428ce",
+      "title_orig": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_orig": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "lang": "en",
+      "title_en": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_en": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "title": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "url": "https://www.thelocal.de/20250920/flights-cancelled-at-european-airports-following-cyber-related-disruption",
+      "source": "The Local Germany",
+      "published_at": "2025-09-20T09:19:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4ebf241a900e15ce",
+      "title_orig": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_orig": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "lang": "en",
+      "title_en": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_en": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "title": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "url": "https://www.thelocal.fr/20250920/flights-cancelled-at-european-airports-following-cyber-related-disruption",
+      "source": "The Local France",
+      "published_at": "2025-09-20T09:19:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "01788c1396725393",
+      "title_orig": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_orig": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "lang": "en",
+      "title_en": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_en": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "title": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "url": "https://www.thelocal.es/20250920/flights-cancelled-at-european-airports-following-cyber-related-disruption",
+      "source": "The Local Spain",
+      "published_at": "2025-09-20T09:19:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d57f5490c376115e",
+      "title_orig": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_orig": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "lang": "en",
+      "title_en": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_en": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "title": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "url": "https://www.thelocal.it/20250920/flights-cancelled-at-european-airports-following-cyber-related-disruption",
+      "source": "The Local Italy",
+      "published_at": "2025-09-20T09:19:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "adce61681f07d9ad",
+      "title_orig": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_orig": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "lang": "en",
+      "title_en": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_en": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "title": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "url": "https://www.thelocal.se/20250920/flights-cancelled-at-european-airports-following-cyber-related-disruption",
+      "source": "The Local Sweden",
+      "published_at": "2025-09-20T09:19:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4c59a7b77df22e9e",
+      "title_orig": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_orig": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "lang": "en",
+      "title_en": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary_en": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "title": "LATEST: Flights disrupted across Europe after 'cyber-related disruption'",
+      "summary": "Major European airports including Brussels, Berlin and London's Heathrow were Saturday hit by \"cyber-related disruption\" affecting check-in and baggage drop systems and causing delays and cancellations, airport service provider Collins Aerospace told AFP.",
+      "url": "https://www.thelocal.dk/20250920/flights-cancelled-at-european-airports-following-cyber-related-disruption",
+      "source": "The Local Denmark",
+      "published_at": "2025-09-20T09:19:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "24a4ceaa47fed650",
+      "title_orig": "Shireen Mazari says Islamabad police ‘surrounded’ her house, enquired about daughter Imaan and son-in-law Hadi",
+      "summary_orig": "Former minister Shireen Mazari said on Saturday that a “heavily armed raiding party” of the Islamabad police had surrounded her house at 1am and enquired about her daughter, Imaan Zainab Mazari-Hazir, and son-in-law, Hadi Ali Chattha. “At 1am this morning, a heavily armed raiding party of ICT police from Secretariat thana (police station) surrounded my home and asked for Imaan and Hadi. They were not there, and we informed them of the same. Cops said they had an FIR (first information report) against them and they should report to the thana . Eventually they left,” she posted on X. In a subsequent post, she referred to a protest at the Islamabad High Court yesterday, where Imaan — who is a lawyer and rights activist — and others had raised slogans in support of judicial independence. The lawyers had staged a protest on the premises of the IHC to oppose the suspension of Justice Tariq Mahmood Jahangiri from judicial work . Isl­a­mabad Bar Council member Ale­­em Abbasi, ex-president of the Islamabad High Court Bar Association (IHCBA) Riasat Ali and Imaan were prominent among the demonstrators. However, tensions flared when — after the demonstration — PTI-affiliated lawyers, including Intizar Hussain Panjotha, Naeem Panjotha, and Fatehullah Barki, confronted IHCBA President Wa­­j­id Ali Gilani. Witnesses reported the PTI lawyers pushed Gilani, leading to an altercation, before IHCBA Secretary Manzoor Ahmed Jaja and other lawyers intervened. The IHCBA president, accompanied by the secretary and bar council Vice Chairman Naseer Ahmed Kayani, later condemned the incident and announced that a reference would be sent to the bar council seeking the registration of a terrorism case against the lawyers concerned, as well as the cancellation of their licences. He alleged that a group of lawyers, including Imaan, physically assaulted him, dragged him, and branded him a traitor. Gilani further claimed that they were armed and pressured him to support demands for filing cases against PTI foun­der Imran Khan, which he refu­sed. Jaja also claimed that the protest had been held without a formal requisition to the bar, in violation of due procedure. Subsequently, police booked Imaan, Hadi and several PTI-linked lawyers under anti-terror laws. Referring to the episode, Shireen Mazari posted on X that “all videos of the IHC protest yesterday show clearly the FIR charges are absolutely false. Eye witness accounts reveal the same. But persecution of Imaan and Hadi has become a daily routine by the state.” Imaan, who is known to be vocal in her criticism of Pakistani authorities, recently also approached inquiry committees of the IHC and the Supreme Judicial Council (SJC) against IHC Chief Justice Sarfraz Dogar. The lawyer announced the development on X, saying that she had filed a complaint against the judge before the IHC’s workplace harassment committee and a reference for misconduct before the SJC. This followed her altercation with Justice Dogar during a hearing earlier this month and his subsequent remarks over the exchange, which Imaan described as “sexist”. Meanwhile, she and husband Hadi also face charges of alleged anti-state activities on social media. Imaan was also among the voices calling for a probe into the allegations made by six IHC judges against interference in judicial affairs by the country’s intelligence apparatus in March. The same month, an Islamabad court had issued arrest warrants for Mazari and Pashtun Tahaffuz Move­ment leaders Ali Wazir and Manzoor Pash­teen due to their repeated failure to appear in a case concerning an alleged anti-state march. This is a developing story that is being updated as the situation evolves. Initial reports in the media can sometimes be inaccurate. We will strive to ensure timeliness and accuracy by relying on credible sources, such as concerned, qualified authorities and our staff reporters.",
+      "lang": "en",
+      "title_en": "Shireen Mazari says Islamabad police ‘surrounded’ her house, enquired about daughter Imaan and son-in-law Hadi",
+      "summary_en": "Former minister Shireen Mazari said on Saturday that a “heavily armed raiding party” of the Islamabad police had surrounded her house at 1am and enquired about her daughter, Imaan Zainab Mazari-Hazir, and son-in-law, Hadi Ali Chattha. “At 1am this morning, a heavily armed raiding party of ICT police from Secretariat thana (police station) surrounded my home and asked for Imaan and Hadi. They were not there, and we informed them of the same. Cops said they had an FIR (first information report) against them and they should report to the thana . Eventually they left,” she posted on X. In a subsequent post, she referred to a protest at the Islamabad High Court yesterday, where Imaan — who is a lawyer and rights activist — and others had raised slogans in support of judicial independence. The lawyers had staged a protest on the premises of the IHC to oppose the suspension of Justice Tariq Mahmood Jahangiri from judicial work . Isl­a­mabad Bar Council member Ale­­em Abbasi, ex-president of the Islamabad High Court Bar Association (IHCBA) Riasat Ali and Imaan were prominent among the demonstrators. However, tensions flared when — after the demonstration — PTI-affiliated lawyers, including Intizar Hussain Panjotha, Naeem Panjotha, and Fatehullah Barki, confronted IHCBA President Wa­­j­id Ali Gilani. Witnesses reported the PTI lawyers pushed Gilani, leading to an altercation, before IHCBA Secretary Manzoor Ahmed Jaja and other lawyers intervened. The IHCBA president, accompanied by the secretary and bar council Vice Chairman Naseer Ahmed Kayani, later condemned the incident and announced that a reference would be sent to the bar council seeking the registration of a terrorism case against the lawyers concerned, as well as the cancellation of their licences. He alleged that a group of lawyers, including Imaan, physically assaulted him, dragged him, and branded him a traitor. Gilani further claimed that they were armed and pressured him to support demands for filing cases against PTI foun­der Imran Khan, which he refu­sed. Jaja also claimed that the protest had been held without a formal requisition to the bar, in violation of due procedure. Subsequently, police booked Imaan, Hadi and several PTI-linked lawyers under anti-terror laws. Referring to the episode, Shireen Mazari posted on X that “all videos of the IHC protest yesterday show clearly the FIR charges are absolutely false. Eye witness accounts reveal the same. But persecution of Imaan and Hadi has become a daily routine by the state.” Imaan, who is known to be vocal in her criticism of Pakistani authorities, recently also approached inquiry committees of the IHC and the Supreme Judicial Council (SJC) against IHC Chief Justice Sarfraz Dogar. The lawyer announced the development on X, saying that she had filed a complaint against the judge before the IHC’s workplace harassment committee and a reference for misconduct before the SJC. This followed her altercation with Justice Dogar during a hearing earlier this month and his subsequent remarks over the exchange, which Imaan described as “sexist”. Meanwhile, she and husband Hadi also face charges of alleged anti-state activities on social media. Imaan was also among the voices calling for a probe into the allegations made by six IHC judges against interference in judicial affairs by the country’s intelligence apparatus in March. The same month, an Islamabad court had issued arrest warrants for Mazari and Pashtun Tahaffuz Move­ment leaders Ali Wazir and Manzoor Pash­teen due to their repeated failure to appear in a case concerning an alleged anti-state march. This is a developing story that is being updated as the situation evolves. Initial reports in the media can sometimes be inaccurate. We will strive to ensure timeliness and accuracy by relying on credible sources, such as concerned, qualified authorities and our staff reporters.",
+      "title": "Shireen Mazari says Islamabad police ‘surrounded’ her house, enquired about daughter Imaan and son-in-law Hadi",
+      "summary": "Former minister Shireen Mazari said on Saturday that a “heavily armed raiding party” of the Islamabad police had surrounded her house at 1am and enquired about her daughter, Imaan Zainab Mazari-Hazir, and son-in-law, Hadi Ali Chattha. “At 1am this morning, a heavily armed raiding party of ICT police from Secretariat thana (police station) surrounded my home and asked for Imaan and Hadi. They were not there, and we informed them of the same. Cops said they had an FIR (first information report) against them and they should report to the thana . Eventually they left,” she posted on X. In a subsequent post, she referred to a protest at the Islamabad High Court yesterday, where Imaan — who is a lawyer and rights activist — and others had raised slogans in support of judicial independence. The lawyers had staged a protest on the premises of the IHC to oppose the suspension of Justice Tariq Mahmood Jahangiri from judicial work . Isl­a­mabad Bar Council member Ale­­em Abbasi, ex-president of the Islamabad High Court Bar Association (IHCBA) Riasat Ali and Imaan were prominent among the demonstrators. However, tensions flared when — after the demonstration — PTI-affiliated lawyers, including Intizar Hussain Panjotha, Naeem Panjotha, and Fatehullah Barki, confronted IHCBA President Wa­­j­id Ali Gilani. Witnesses reported the PTI lawyers pushed Gilani, leading to an altercation, before IHCBA Secretary Manzoor Ahmed Jaja and other lawyers intervened. The IHCBA president, accompanied by the secretary and bar council Vice Chairman Naseer Ahmed Kayani, later condemned the incident and announced that a reference would be sent to the bar council seeking the registration of a terrorism case against the lawyers concerned, as well as the cancellation of their licences. He alleged that a group of lawyers, including Imaan, physically assaulted him, dragged him, and branded him a traitor. Gilani further claimed that they were armed and pressured him to support demands for filing cases against PTI foun­der Imran Khan, which he refu­sed. Jaja also claimed that the protest had been held without a formal requisition to the bar, in violation of due procedure. Subsequently, police booked Imaan, Hadi and several PTI-linked lawyers under anti-terror laws. Referring to the episode, Shireen Mazari posted on X that “all videos of the IHC protest yesterday show clearly the FIR charges are absolutely false. Eye witness accounts reveal the same. But persecution of Imaan and Hadi has become a daily routine by the state.” Imaan, who is known to be vocal in her criticism of Pakistani authorities, recently also approached inquiry committees of the IHC and the Supreme Judicial Council (SJC) against IHC Chief Justice Sarfraz Dogar. The lawyer announced the development on X, saying that she had filed a complaint against the judge before the IHC’s workplace harassment committee and a reference for misconduct before the SJC. This followed her altercation with Justice Dogar during a hearing earlier this month and his subsequent remarks over the exchange, which Imaan described as “sexist”. Meanwhile, she and husband Hadi also face charges of alleged anti-state activities on social media. Imaan was also among the voices calling for a probe into the allegations made by six IHC judges against interference in judicial affairs by the country’s intelligence apparatus in March. The same month, an Islamabad court had issued arrest warrants for Mazari and Pashtun Tahaffuz Move­ment leaders Ali Wazir and Manzoor Pash­teen due to their repeated failure to appear in a case concerning an alleged anti-state march. This is a developing story that is being updated as the situation evolves. Initial reports in the media can sometimes be inaccurate. We will strive to ensure timeliness and accuracy by relying on credible sources, such as concerned, qualified authorities and our staff reporters.",
+      "url": "https://www.dawn.com/news/1943402/shireen-mazari-says-islamabad-police-surrounded-her-house-enquired-about-daughter-imaan-and-son-in-law-hadi",
+      "source": "Dawn - Home",
+      "published_at": "2025-09-20T09:16:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f5f5ec3c62d870b4",
+      "title_orig": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
+      "summary_orig": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
+      "lang": "en",
+      "title_en": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
+      "summary_en": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
+      "title": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
+      "summary": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
+      "url": "https://wtop.com/russia-ukraine-war-news/2025/09/russia-launches-large-scale-attack-on-ukraine-killing-3-and-injuring-dozens/",
+      "source": "WTOP News",
+      "published_at": "2025-09-20T09:13:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ca59fff4294bea4e",
+      "title_orig": "Heathrow cyber attack LIVE: London travellers face major disruption after Europe-wide IT meltdown",
+      "summary_orig": "Flights at Heathrow face major delays after cyber attack on Collins Aerospace, the firm behind global airline check-in and boarding systems",
+      "lang": "en",
+      "title_en": "Heathrow cyber attack LIVE: London travellers face major disruption after Europe-wide IT meltdown",
+      "summary_en": "Flights at Heathrow face major delays after cyber attack on Collins Aerospace, the firm behind global airline check-in and boarding systems",
+      "title": "Heathrow cyber attack LIVE: London travellers face major disruption after Europe-wide IT meltdown",
+      "summary": "Flights at Heathrow face major delays after cyber attack on Collins Aerospace, the firm behind global airline check-in and boarding systems",
+      "url": "https://www.standard.co.uk/news/london/london-heathrow-delays-cyber-attack-check-in-systems-b1248765.html",
+      "source": "The Standard News",
+      "published_at": "2025-09-20T09:10:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2d76c1c9b5d0ae8c",
+      "title_orig": "Manchester Airport 'not affected' amid Heathrow cyber attack with flights cancelled",
+      "summary_orig": "Holidaymakers are being told to check their flight status",
+      "lang": "en",
+      "title_en": "Manchester Airport 'not affected' amid Heathrow cyber attack with flights cancelled",
+      "summary_en": "Holidaymakers are being told to check their flight status",
+      "title": "Manchester Airport 'not affected' amid Heathrow cyber attack with flights cancelled",
+      "summary": "Holidaymakers are being told to check their flight status",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/heathrow-cyber-attack-flights-cancelled-32516870",
+      "source": "MEN - News",
+      "published_at": "2025-09-20T09:10:08+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "1f7ecb4c208b83b5",
+      "title_orig": "Heathrow warns of delays as suspected cyber-attack hits European airports",
+      "summary_orig": "Brussels and Berlin airports also affected as ‘technical issue’ hits service provider for check-in and boarding systems Flights have been delayed and cancelled at airports including Heathrow after an alleged cyber-attack targeted a service provider for check-in and boarding systems. Airports in Brussels and Berlin are also experiencing delays and disruption after the “technical issue” affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
+      "lang": "en",
+      "title_en": "Heathrow warns of delays as suspected cyber-attack hits European airports",
+      "summary_en": "Brussels and Berlin airports also affected as ‘technical issue’ hits service provider for check-in and boarding systems Flights have been delayed and cancelled at airports including Heathrow after an alleged cyber-attack targeted a service provider for check-in and boarding systems. Airports in Brussels and Berlin are also experiencing delays and disruption after the “technical issue” affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
+      "title": "Heathrow warns of delays as suspected cyber-attack hits European airports",
+      "summary": "Brussels and Berlin airports also affected as ‘technical issue’ hits service provider for check-in and boarding systems Flights have been delayed and cancelled at airports including Heathrow after an alleged cyber-attack targeted a service provider for check-in and boarding systems. Airports in Brussels and Berlin are also experiencing delays and disruption after the “technical issue” affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-20T09:06:17+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "2524eba9dc9ede26",
+      "title_orig": "All 11 M-5 passengers safely recovered from Katcha dacoits",
+      "summary_orig": "RAHIM YAR KHAN: In a joint operation of the police and the country’s premier intelligence agency, the 11 kidnapped passengers from the Sukkur-Multan Motorway (M-5) have been safely recovered from the notorious Indhar dacoit gang in the early hours of Friday. According to police spokesperson Zeeshan Randhawa, the police were continuously chasing the dacoits after they kidnapped several people from the motorway a few days ago. He said that after a tip-off, action was taken against the kidnappers and all of the hostages were safely recovered. As per details, on the night between Sept 4 and Sept 5, the Katcha area dacoits kidnapped 11 people from different vehicles on the Sukkur-Multan Motorway near Nawazabad in Sadiqabad tehsil. The bandits fired at vehicles on the motorway between 1 and 2am to force them to stop at the Azampur Rest Area and the Guddu Interchange. In the attack, crew of a passenger bus was reportedly injured and shifted to the emergency ward of the Sheikh Zayed Medical College Hospital (SZMCH) in Rahim Yar Khan. Traffic also remained suspended on the motorway for more than four hours, before it was finally restored at dawn. Incident happened after police operation near Punjab-Sindh border and Indhar gang threatened retribution South Punjab Additi­onal Inspector General (IG) Kamran Khan told Dawn that between 20 and 25 suspects attacked vehicles on the motorway. “Three people were injured, two of whom suffered minor injuries, so they were discharged. One remains admitted at the hospital with gunshot wounds to the waist and leg,” he said. SZMCH spokesperson Rana Ilyas Ahmed confirmed to Dawn that three injured were admitted to the facility and one was receiving treatment for a gunshot wound to the leg. The injured were aboard the same coach and hailed from Sheikhupura, he said. The motorway incident came amid a police operation against the Katcha criminals in which the police used drones in Ronti near the Punjab-Sindh border. The police had destroyed the hideouts of Katcha criminals during the operation. On the same day, Indhar gang leader Tanvir alias Dodu Indhar threatened the police with retribution. Later on September 8, Dodu Indhar claimed responsibility of the kidnapping. He also claimed that police had killed a person of his tribe after he was released from jail. He claimed the police was planning a same fate for his brother who would be released in a few months. In another video showing nine of the hostages standing in the floodwater, he claimed that they had killed two of the passengers and demanded the release of his brother. However, all 11 passengers had been recovered alive during the operation. It is pertinent to mention here that Katcha criminals have kidnapped 72 people so far this year. This is not the first time that the M-5 motorway was targeted by the criminals and after several incidents, the police started escorting vehicles in convoys. Published in Dawn, September 20th, 2025",
+      "lang": "en",
+      "title_en": "All 11 M-5 passengers safely recovered from Katcha dacoits",
+      "summary_en": "RAHIM YAR KHAN: In a joint operation of the police and the country’s premier intelligence agency, the 11 kidnapped passengers from the Sukkur-Multan Motorway (M-5) have been safely recovered from the notorious Indhar dacoit gang in the early hours of Friday. According to police spokesperson Zeeshan Randhawa, the police were continuously chasing the dacoits after they kidnapped several people from the motorway a few days ago. He said that after a tip-off, action was taken against the kidnappers and all of the hostages were safely recovered. As per details, on the night between Sept 4 and Sept 5, the Katcha area dacoits kidnapped 11 people from different vehicles on the Sukkur-Multan Motorway near Nawazabad in Sadiqabad tehsil. The bandits fired at vehicles on the motorway between 1 and 2am to force them to stop at the Azampur Rest Area and the Guddu Interchange. In the attack, crew of a passenger bus was reportedly injured and shifted to the emergency ward of the Sheikh Zayed Medical College Hospital (SZMCH) in Rahim Yar Khan. Traffic also remained suspended on the motorway for more than four hours, before it was finally restored at dawn. Incident happened after police operation near Punjab-Sindh border and Indhar gang threatened retribution South Punjab Additi­onal Inspector General (IG) Kamran Khan told Dawn that between 20 and 25 suspects attacked vehicles on the motorway. “Three people were injured, two of whom suffered minor injuries, so they were discharged. One remains admitted at the hospital with gunshot wounds to the waist and leg,” he said. SZMCH spokesperson Rana Ilyas Ahmed confirmed to Dawn that three injured were admitted to the facility and one was receiving treatment for a gunshot wound to the leg. The injured were aboard the same coach and hailed from Sheikhupura, he said. The motorway incident came amid a police operation against the Katcha criminals in which the police used drones in Ronti near the Punjab-Sindh border. The police had destroyed the hideouts of Katcha criminals during the operation. On the same day, Indhar gang leader Tanvir alias Dodu Indhar threatened the police with retribution. Later on September 8, Dodu Indhar claimed responsibility of the kidnapping. He also claimed that police had killed a person of his tribe after he was released from jail. He claimed the police was planning a same fate for his brother who would be released in a few months. In another video showing nine of the hostages standing in the floodwater, he claimed that they had killed two of the passengers and demanded the release of his brother. However, all 11 passengers had been recovered alive during the operation. It is pertinent to mention here that Katcha criminals have kidnapped 72 people so far this year. This is not the first time that the M-5 motorway was targeted by the criminals and after several incidents, the police started escorting vehicles in convoys. Published in Dawn, September 20th, 2025",
+      "title": "All 11 M-5 passengers safely recovered from Katcha dacoits",
+      "summary": "RAHIM YAR KHAN: In a joint operation of the police and the country’s premier intelligence agency, the 11 kidnapped passengers from the Sukkur-Multan Motorway (M-5) have been safely recovered from the notorious Indhar dacoit gang in the early hours of Friday. According to police spokesperson Zeeshan Randhawa, the police were continuously chasing the dacoits after they kidnapped several people from the motorway a few days ago. He said that after a tip-off, action was taken against the kidnappers and all of the hostages were safely recovered. As per details, on the night between Sept 4 and Sept 5, the Katcha area dacoits kidnapped 11 people from different vehicles on the Sukkur-Multan Motorway near Nawazabad in Sadiqabad tehsil. The bandits fired at vehicles on the motorway between 1 and 2am to force them to stop at the Azampur Rest Area and the Guddu Interchange. In the attack, crew of a passenger bus was reportedly injured and shifted to the emergency ward of the Sheikh Zayed Medical College Hospital (SZMCH) in Rahim Yar Khan. Traffic also remained suspended on the motorway for more than four hours, before it was finally restored at dawn. Incident happened after police operation near Punjab-Sindh border and Indhar gang threatened retribution South Punjab Additi­onal Inspector General (IG) Kamran Khan told Dawn that between 20 and 25 suspects attacked vehicles on the motorway. “Three people were injured, two of whom suffered minor injuries, so they were discharged. One remains admitted at the hospital with gunshot wounds to the waist and leg,” he said. SZMCH spokesperson Rana Ilyas Ahmed confirmed to Dawn that three injured were admitted to the facility and one was receiving treatment for a gunshot wound to the leg. The injured were aboard the same coach and hailed from Sheikhupura, he said. The motorway incident came amid a police operation against the Katcha criminals in which the police used drones in Ronti near the Punjab-Sindh border. The police had destroyed the hideouts of Katcha criminals during the operation. On the same day, Indhar gang leader Tanvir alias Dodu Indhar threatened the police with retribution. Later on September 8, Dodu Indhar claimed responsibility of the kidnapping. He also claimed that police had killed a person of his tribe after he was released from jail. He claimed the police was planning a same fate for his brother who would be released in a few months. In another video showing nine of the hostages standing in the floodwater, he claimed that they had killed two of the passengers and demanded the release of his brother. However, all 11 passengers had been recovered alive during the operation. It is pertinent to mention here that Katcha criminals have kidnapped 72 people so far this year. This is not the first time that the M-5 motorway was targeted by the criminals and after several incidents, the police started escorting vehicles in convoys. Published in Dawn, September 20th, 2025",
+      "url": "https://www.dawn.com/news/1943291/all-11-m-5-passengers-safely-recovered-from-katcha-dacoits",
+      "source": "Dawn - Home",
+      "published_at": "2025-09-20T09:06:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "661848efab272f3e",
+      "title_orig": "Rashford stars as Barca beat Newcastle, City see off Napoli",
+      "summary_orig": "PARIS: Marcus Rashf­ord proved the perfect replacement for Lamine Yamal, scoring twice on his return to England as Barcelona kicked off their Champions League bid with a 2-1 victory away to Newcastle United on Thursday, while Kevin De Bruyne watched mostly from the sidelines as Napoli lost 2-0 at his former club Manchester City. With Yamal missing thr­o­ugh injury, Rashford — a loan signing from Manch­ester United — got a start and scored both Barca goals at St James’ Park. The second took the breath away, a piledriver from 25 metres that flew in off the crossbar. “It’s an amazing experience playing for Barcelona. I’ve always been a huge admirer of the club. We just want to win as much as possible,” Rashford said. “I’m very motivated and determined. The quality we have in the team, that excites me alone. It’s so refreshing to play with these guys.” De Bruyne was also back on English soil, at the club where he spent 10 years before an emotional farewell in May. But his Etihad Stadium return lasted 26 minutes before he was substituted following a red card for team-mate Giovanni Di Lorenzo and City wound up a comfortable winner thanks to second-half goals from Erling Haaland and Jeremy Doku. Haaland’s header put him on 50 goals in 49 Cham­pions League appea­rances, with the Norway striker reaching that milestone quic­­ker than any other pla­yer in the competition’s history. The third consecutive evening of action in the first round of games in this season’s league phase also saw Eintracht Frankfurt, Sporting Lisbon and Club Brugge record big wins while FC Copenhagen held Bayer Leverkusen. England coach Thomas Tuchel was in the stands of a raucous St. James’ Park to witness Rashford showcase his finishing abilities that United could do with right now. Rashford was still looking for his first Barca goals and he got off the mark by heading in Jules Kounde’s cross in the 58th before he created space for himself with some clever footwork and blasted a ferocious right-footed shot from outside the area off the underside of the bar in the 67th. Anthony Gordon pulled one back for Newcastle, putting in a low cross from substitute Jacob Murphy in the 89th, but Barca — beaten in the semi-finals last season — held on to claim their first three points of the campaign. Pep Guardiola’s City, the 2023 Champions League winners, got off to an ideal start too as they saw off Serie A champions Napoli at the Etihad Stadium. The game was conditioned by the sending-off of Napoli captain Di Lorenzo, dismissed for wiping out Haaland as the Norwegian headed towards goal. Napoli’s defensive reorganisation meant De Bruyne was sacrificed. Ever the team player, the Belgium playmaker took the decision well, jogging off to applause from a home crowd that once cheered his every assist and goal. “It was the only option I could do,” Napoli coach Antonio Conte said. “I was really, really sorry for him.” MANCHESTER: Manchester City’s Erling Haaland (L) heads to score during the Champions League match against Napoli at the Etihad Stadium.—Reuters By the end of the game, City fans were chanting De Bruyne’s name, confident the three points were safe and their former hero — perhaps the club’s greatest-ever player — couldn’t hurt them. “He’s a legend of the club,” City midfielder Phil Foden said. “I can’t thank him enough for what he has done.” City’s undoubted star is now Haaland and the Norway striker has started the season in red-hot form, with his clever header in the 56th from Foden’s flick into the box making it 12 goals in seven matches for club and country. “The numbers speak for themselves and how fortunate we are to have him,” Guardiola said of Haaland, who is 12th in the all-time Champions League scoring charts — barely over a third of the way to Cristiano Ronaldo’s record 141 goals. “Along with the two monsters of the past 15 to 20 years. Ronaldo and [Lionel] Messi, Erling is there. In terms of goals he is unbelievable.” Doku added the second with a neat finish in the 65th as City laid down an early marker in Europe, leaving Napoli without a win in 13 visits to face English opposition in European competition. Frankfurt hit five Frankfurt were the night’s biggest winners as they beat Galatasaray 5-1, despite the Turkish visitors taking an early lead through Yunus Akgun at the Waldstadion. A Davinson Sanchez own goal brought Frankfurt level on 37 minutes, before teenage Turkey midfielder Can Uzun fired in his first Champions League goal just before the break and another own goal from Wilfried Singo at a free-kick gave the Bundesliga side some breathing space. Jonathan Burkardt’s deflected effort and Ansgar Knauff’s late strike wrapped up a comfortable night for the hosts. Fellow Bundesliga side Leverkusen had to come from behind twice to snatch a point in a 2-2 draw away to Copenhagen in the Danish capital. A brilliant Alejandro Grimaldo free-kick cancelled out Jordan Larsson’s early opener for the hosts. Young Brazilian forward Robert restored the hosts’ advantage in the 87th minute only for a Pantelis Hatzid­iakos own goal in stoppage time, deflecting the ball into his own net from substitute Claudio Echeverri’s cross, to give Leverkusen a share of the spoils. Club Brugge, who reached the last 16 last season, claimed a stunning 4-1 win at home to Monaco in Belgium, with an early penalty miss by Maghnes Akliouche for the visitors proving crucial. The Belgians struck three goals in the space of 10 minutes shortly before half-time through Nicolo Tresoldi, Raphael Onye­dika and Hans Vanaken. French 19-year-old forward Mamadou Diakhon lashed in a fourth with 15 minutes left, before Ansu Fati, making his Monaco debut, scored a late consolation. Kairat Almaty, the tournament newcomers from Kazakhstan, made what is thought to be longest ever trek for a Champions League fixture — across three time zones and more than 7,000 kilometres — and lost 4-1 at Portuguese champions Sporting. Kairat, who beat Celtic in the play-offs, had seen 18-year-old goalkeeper Sherkhan Kalmurza save an early penalty from Morten Hjulmand. Sporting, though, went ahead just before half-time through Francisco Trinccao, who then fired in another after 65 minutes before Alisson Santos and Geovany Quenda also struck in quick succession. Edmilson pulled one back for Kairat, who host Real Madrid next in a fortnight. Published in Dawn, September 20th, 2025",
+      "lang": "en",
+      "title_en": "Rashford stars as Barca beat Newcastle, City see off Napoli",
+      "summary_en": "PARIS: Marcus Rashf­ord proved the perfect replacement for Lamine Yamal, scoring twice on his return to England as Barcelona kicked off their Champions League bid with a 2-1 victory away to Newcastle United on Thursday, while Kevin De Bruyne watched mostly from the sidelines as Napoli lost 2-0 at his former club Manchester City. With Yamal missing thr­o­ugh injury, Rashford — a loan signing from Manch­ester United — got a start and scored both Barca goals at St James’ Park. The second took the breath away, a piledriver from 25 metres that flew in off the crossbar. “It’s an amazing experience playing for Barcelona. I’ve always been a huge admirer of the club. We just want to win as much as possible,” Rashford said. “I’m very motivated and determined. The quality we have in the team, that excites me alone. It’s so refreshing to play with these guys.” De Bruyne was also back on English soil, at the club where he spent 10 years before an emotional farewell in May. But his Etihad Stadium return lasted 26 minutes before he was substituted following a red card for team-mate Giovanni Di Lorenzo and City wound up a comfortable winner thanks to second-half goals from Erling Haaland and Jeremy Doku. Haaland’s header put him on 50 goals in 49 Cham­pions League appea­rances, with the Norway striker reaching that milestone quic­­ker than any other pla­yer in the competition’s history. The third consecutive evening of action in the first round of games in this season’s league phase also saw Eintracht Frankfurt, Sporting Lisbon and Club Brugge record big wins while FC Copenhagen held Bayer Leverkusen. England coach Thomas Tuchel was in the stands of a raucous St. James’ Park to witness Rashford showcase his finishing abilities that United could do with right now. Rashford was still looking for his first Barca goals and he got off the mark by heading in Jules Kounde’s cross in the 58th before he created space for himself with some clever footwork and blasted a ferocious right-footed shot from outside the area off the underside of the bar in the 67th. Anthony Gordon pulled one back for Newcastle, putting in a low cross from substitute Jacob Murphy in the 89th, but Barca — beaten in the semi-finals last season — held on to claim their first three points of the campaign. Pep Guardiola’s City, the 2023 Champions League winners, got off to an ideal start too as they saw off Serie A champions Napoli at the Etihad Stadium. The game was conditioned by the sending-off of Napoli captain Di Lorenzo, dismissed for wiping out Haaland as the Norwegian headed towards goal. Napoli’s defensive reorganisation meant De Bruyne was sacrificed. Ever the team player, the Belgium playmaker took the decision well, jogging off to applause from a home crowd that once cheered his every assist and goal. “It was the only option I could do,” Napoli coach Antonio Conte said. “I was really, really sorry for him.” MANCHESTER: Manchester City’s Erling Haaland (L) heads to score during the Champions League match against Napoli at the Etihad Stadium.—Reuters By the end of the game, City fans were chanting De Bruyne’s name, confident the three points were safe and their former hero — perhaps the club’s greatest-ever player — couldn’t hurt them. “He’s a legend of the club,” City midfielder Phil Foden said. “I can’t thank him enough for what he has done.” City’s undoubted star is now Haaland and the Norway striker has started the season in red-hot form, with his clever header in the 56th from Foden’s flick into the box making it 12 goals in seven matches for club and country. “The numbers speak for themselves and how fortunate we are to have him,” Guardiola said of Haaland, who is 12th in the all-time Champions League scoring charts — barely over a third of the way to Cristiano Ronaldo’s record 141 goals. “Along with the two monsters of the past 15 to 20 years. Ronaldo and [Lionel] Messi, Erling is there. In terms of goals he is unbelievable.” Doku added the second with a neat finish in the 65th as City laid down an early marker in Europe, leaving Napoli without a win in 13 visits to face English opposition in European competition. Frankfurt hit five Frankfurt were the night’s biggest winners as they beat Galatasaray 5-1, despite the Turkish visitors taking an early lead through Yunus Akgun at the Waldstadion. A Davinson Sanchez own goal brought Frankfurt level on 37 minutes, before teenage Turkey midfielder Can Uzun fired in his first Champions League goal just before the break and another own goal from Wilfried Singo at a free-kick gave the Bundesliga side some breathing space. Jonathan Burkardt’s deflected effort and Ansgar Knauff’s late strike wrapped up a comfortable night for the hosts. Fellow Bundesliga side Leverkusen had to come from behind twice to snatch a point in a 2-2 draw away to Copenhagen in the Danish capital. A brilliant Alejandro Grimaldo free-kick cancelled out Jordan Larsson’s early opener for the hosts. Young Brazilian forward Robert restored the hosts’ advantage in the 87th minute only for a Pantelis Hatzid­iakos own goal in stoppage time, deflecting the ball into his own net from substitute Claudio Echeverri’s cross, to give Leverkusen a share of the spoils. Club Brugge, who reached the last 16 last season, claimed a stunning 4-1 win at home to Monaco in Belgium, with an early penalty miss by Maghnes Akliouche for the visitors proving crucial. The Belgians struck three goals in the space of 10 minutes shortly before half-time through Nicolo Tresoldi, Raphael Onye­dika and Hans Vanaken. French 19-year-old forward Mamadou Diakhon lashed in a fourth with 15 minutes left, before Ansu Fati, making his Monaco debut, scored a late consolation. Kairat Almaty, the tournament newcomers from Kazakhstan, made what is thought to be longest ever trek for a Champions League fixture — across three time zones and more than 7,000 kilometres — and lost 4-1 at Portuguese champions Sporting. Kairat, who beat Celtic in the play-offs, had seen 18-year-old goalkeeper Sherkhan Kalmurza save an early penalty from Morten Hjulmand. Sporting, though, went ahead just before half-time through Francisco Trinccao, who then fired in another after 65 minutes before Alisson Santos and Geovany Quenda also struck in quick succession. Edmilson pulled one back for Kairat, who host Real Madrid next in a fortnight. Published in Dawn, September 20th, 2025",
+      "title": "Rashford stars as Barca beat Newcastle, City see off Napoli",
+      "summary": "PARIS: Marcus Rashf­ord proved the perfect replacement for Lamine Yamal, scoring twice on his return to England as Barcelona kicked off their Champions League bid with a 2-1 victory away to Newcastle United on Thursday, while Kevin De Bruyne watched mostly from the sidelines as Napoli lost 2-0 at his former club Manchester City. With Yamal missing thr­o­ugh injury, Rashford — a loan signing from Manch­ester United — got a start and scored both Barca goals at St James’ Park. The second took the breath away, a piledriver from 25 metres that flew in off the crossbar. “It’s an amazing experience playing for Barcelona. I’ve always been a huge admirer of the club. We just want to win as much as possible,” Rashford said. “I’m very motivated and determined. The quality we have in the team, that excites me alone. It’s so refreshing to play with these guys.” De Bruyne was also back on English soil, at the club where he spent 10 years before an emotional farewell in May. But his Etihad Stadium return lasted 26 minutes before he was substituted following a red card for team-mate Giovanni Di Lorenzo and City wound up a comfortable winner thanks to second-half goals from Erling Haaland and Jeremy Doku. Haaland’s header put him on 50 goals in 49 Cham­pions League appea­rances, with the Norway striker reaching that milestone quic­­ker than any other pla­yer in the competition’s history. The third consecutive evening of action in the first round of games in this season’s league phase also saw Eintracht Frankfurt, Sporting Lisbon and Club Brugge record big wins while FC Copenhagen held Bayer Leverkusen. England coach Thomas Tuchel was in the stands of a raucous St. James’ Park to witness Rashford showcase his finishing abilities that United could do with right now. Rashford was still looking for his first Barca goals and he got off the mark by heading in Jules Kounde’s cross in the 58th before he created space for himself with some clever footwork and blasted a ferocious right-footed shot from outside the area off the underside of the bar in the 67th. Anthony Gordon pulled one back for Newcastle, putting in a low cross from substitute Jacob Murphy in the 89th, but Barca — beaten in the semi-finals last season — held on to claim their first three points of the campaign. Pep Guardiola’s City, the 2023 Champions League winners, got off to an ideal start too as they saw off Serie A champions Napoli at the Etihad Stadium. The game was conditioned by the sending-off of Napoli captain Di Lorenzo, dismissed for wiping out Haaland as the Norwegian headed towards goal. Napoli’s defensive reorganisation meant De Bruyne was sacrificed. Ever the team player, the Belgium playmaker took the decision well, jogging off to applause from a home crowd that once cheered his every assist and goal. “It was the only option I could do,” Napoli coach Antonio Conte said. “I was really, really sorry for him.” MANCHESTER: Manchester City’s Erling Haaland (L) heads to score during the Champions League match against Napoli at the Etihad Stadium.—Reuters By the end of the game, City fans were chanting De Bruyne’s name, confident the three points were safe and their former hero — perhaps the club’s greatest-ever player — couldn’t hurt them. “He’s a legend of the club,” City midfielder Phil Foden said. “I can’t thank him enough for what he has done.” City’s undoubted star is now Haaland and the Norway striker has started the season in red-hot form, with his clever header in the 56th from Foden’s flick into the box making it 12 goals in seven matches for club and country. “The numbers speak for themselves and how fortunate we are to have him,” Guardiola said of Haaland, who is 12th in the all-time Champions League scoring charts — barely over a third of the way to Cristiano Ronaldo’s record 141 goals. “Along with the two monsters of the past 15 to 20 years. Ronaldo and [Lionel] Messi, Erling is there. In terms of goals he is unbelievable.” Doku added the second with a neat finish in the 65th as City laid down an early marker in Europe, leaving Napoli without a win in 13 visits to face English opposition in European competition. Frankfurt hit five Frankfurt were the night’s biggest winners as they beat Galatasaray 5-1, despite the Turkish visitors taking an early lead through Yunus Akgun at the Waldstadion. A Davinson Sanchez own goal brought Frankfurt level on 37 minutes, before teenage Turkey midfielder Can Uzun fired in his first Champions League goal just before the break and another own goal from Wilfried Singo at a free-kick gave the Bundesliga side some breathing space. Jonathan Burkardt’s deflected effort and Ansgar Knauff’s late strike wrapped up a comfortable night for the hosts. Fellow Bundesliga side Leverkusen had to come from behind twice to snatch a point in a 2-2 draw away to Copenhagen in the Danish capital. A brilliant Alejandro Grimaldo free-kick cancelled out Jordan Larsson’s early opener for the hosts. Young Brazilian forward Robert restored the hosts’ advantage in the 87th minute only for a Pantelis Hatzid­iakos own goal in stoppage time, deflecting the ball into his own net from substitute Claudio Echeverri’s cross, to give Leverkusen a share of the spoils. Club Brugge, who reached the last 16 last season, claimed a stunning 4-1 win at home to Monaco in Belgium, with an early penalty miss by Maghnes Akliouche for the visitors proving crucial. The Belgians struck three goals in the space of 10 minutes shortly before half-time through Nicolo Tresoldi, Raphael Onye­dika and Hans Vanaken. French 19-year-old forward Mamadou Diakhon lashed in a fourth with 15 minutes left, before Ansu Fati, making his Monaco debut, scored a late consolation. Kairat Almaty, the tournament newcomers from Kazakhstan, made what is thought to be longest ever trek for a Champions League fixture — across three time zones and more than 7,000 kilometres — and lost 4-1 at Portuguese champions Sporting. Kairat, who beat Celtic in the play-offs, had seen 18-year-old goalkeeper Sherkhan Kalmurza save an early penalty from Morten Hjulmand. Sporting, though, went ahead just before half-time through Francisco Trinccao, who then fired in another after 65 minutes before Alisson Santos and Geovany Quenda also struck in quick succession. Edmilson pulled one back for Kairat, who host Real Madrid next in a fortnight. Published in Dawn, September 20th, 2025",
+      "url": "https://www.dawn.com/news/1943334/rashford-stars-as-barca-beat-newcastle-city-see-off-napoli",
+      "source": "Dawn - Home",
+      "published_at": "2025-09-20T09:05:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "49c77895d2cdbf4d",
+      "title_orig": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
+      "summary_orig": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Collins Aerospace owner RTX said on Saturday that it had become aware of a cyber- related disruption to its MUSE software in selected airports, after major European flight hubs flagged delays due to a cyber-attack, Reuters reports. The company said: We are actively working to resolve the issue and restore full functionality to our customers as quickly as possible. The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations. Continue reading...",
+      "lang": "en",
+      "title_en": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
+      "summary_en": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Collins Aerospace owner RTX said on Saturday that it had become aware of a cyber- related disruption to its MUSE software in selected airports, after major European flight hubs flagged delays due to a cyber-attack, Reuters reports. The company said: We are actively working to resolve the issue and restore full functionality to our customers as quickly as possible. The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations. Continue reading...",
+      "title": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
+      "summary": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Collins Aerospace owner RTX said on Saturday that it had become aware of a cyber- related disruption to its MUSE software in selected airports, after major European flight hubs flagged delays due to a cyber-attack, Reuters reports. The company said: We are actively working to resolve the issue and restore full functionality to our customers as quickly as possible. The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-20T09:04:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "9ab18008177bf7fe",
+      "title_orig": "Heathrow among airports hit by cyber-attack on check-in system",
+      "summary_orig": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
+      "lang": "en",
+      "title_en": "Heathrow among airports hit by cyber-attack on check-in system",
+      "summary_en": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
+      "title": "Heathrow among airports hit by cyber-attack on check-in system",
+      "summary": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
+      "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-20T09:04:36+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "8c7e2bab47ab8074",
+      "title_orig": "Thousands evacuated in Hong Kong after bomb unearthed at construction site",
+      "summary_orig": "Bombs left over from the Second World War are often discovered in Hong Kong",
+      "lang": "en",
+      "title_en": "Thousands evacuated in Hong Kong after bomb unearthed at construction site",
+      "summary_en": "Bombs left over from the Second World War are often discovered in Hong Kong",
+      "title": "Thousands evacuated in Hong Kong after bomb unearthed at construction site",
+      "summary": "Bombs left over from the Second World War are often discovered in Hong Kong",
+      "url": "https://www.independent.co.uk/news/world/asia/hong-kong-bomb-quarry-bay-evacuated-b2830340.html",
+      "source": "The Independent World",
+      "published_at": "2025-09-20T09:02:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "97827d1d44eb56b7",
+      "title_orig": "How Poland Scrambled the NATO Jets to Shoot Down Russian Drones",
+      "summary_orig": "Western officials have concluded that the incursion was to probe their defenses.",
+      "lang": "en",
+      "title_en": "How Poland Scrambled the NATO Jets to Shoot Down Russian Drones",
+      "summary_en": "Western officials have concluded that the incursion was to probe their defenses.",
+      "title": "How Poland Scrambled the NATO Jets to Shoot Down Russian Drones",
+      "summary": "Western officials have concluded that the incursion was to probe their defenses.",
+      "url": "https://www.nytimes.com/2025/09/20/world/europe/poland-drones-russia-nato.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-20T09:02:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "4eee114d925fd39d",
+      "title_orig": "Heathrow among airports hit by delays after ‘cyber attack’ on check-in provider",
+      "summary_orig": "Several international airports are experiencing disruption after an alleged attack on a technical partner.",
+      "lang": "en",
+      "title_en": "Heathrow among airports hit by delays after ‘cyber attack’ on check-in provider",
+      "summary_en": "Several international airports are experiencing disruption after an alleged attack on a technical partner.",
+      "title": "Heathrow among airports hit by delays after ‘cyber attack’ on check-in provider",
+      "summary": "Several international airports are experiencing disruption after an alleged attack on a technical partner.",
+      "url": "https://www.standard.co.uk/news/uk/london-heathrow-london-brussels-berlin-brussels-airport-b1248767.html",
+      "source": "The Standard News",
+      "published_at": "2025-09-20T09:01:08+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "eb056bfcbe1dbce9",
+      "title_orig": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
+      "summary_orig": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your Party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
+      "lang": "en",
+      "title_en": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
+      "summary_en": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your Party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
+      "title": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
+      "summary": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your Party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2025/sep/20/zarah-sultana-consults-defamation-lawyers-after-spat-with-jeremy-corbyn-over-party-funds",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-20T08:57:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "aea5499b7889ddd7",
+      "title_orig": "Brussels airport says operations at several European airports have been disrupted by a cyberattack",
+      "summary_orig": "BRUSSELS (AP) — Brussels airport says operations at several European airports have been disrupted by a cyberattack.",
+      "lang": "en",
+      "title_en": "Brussels airport says operations at several European airports have been disrupted by a cyberattack",
+      "summary_en": "BRUSSELS (AP) — Brussels airport says operations at several European airports have been disrupted by a cyberattack.",
+      "title": "Brussels airport says operations at several European airports have been disrupted by a cyberattack",
+      "summary": "BRUSSELS (AP) — Brussels airport says operations at several European airports have been disrupted by a cyberattack.",
+      "url": "https://wtop.com/world/2025/09/brussels-airport-says-operations-at-several-european-airports-have-been-disrupted-by-a-cyberattack/",
+      "source": "WTOP News",
+      "published_at": "2025-09-20T08:40:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e7b1407c775f66d9",
+      "title_orig": "PM Modi inaugurates Mumbai International Cruise Terminal, projects worth  ₹34,200 crore in Gujarat",
+      "summary_orig": "The cruise terminal spans across 415,000 square feet and is equipped with facilities to accommodate around a million passengers a year.",
+      "lang": "en",
+      "title_en": "PM Modi inaugurates Mumbai International Cruise Terminal, projects worth  ₹34,200 crore in Gujarat",
+      "summary_en": "The cruise terminal spans across 415,000 square feet and is equipped with facilities to accommodate around a million passengers a year.",
+      "title": "PM Modi inaugurates Mumbai International Cruise Terminal, projects worth  ₹34,200 crore in Gujarat",
+      "summary": "The cruise terminal spans across 415,000 square feet and is equipped with facilities to accommodate around a million passengers a year.",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-inaugurates-mumbai-international-cruise-terminal-projects-worth-rs-34-200-crore-in-gujarat-101758335616042.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-09-20T08:40:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2fe636090feaff26",
+      "title_orig": "Russia launches deadly large-scale missile and drone attack on Ukraine",
+      "summary_orig": "At least 26 people were injured in the attack in Ukraine's central Dnipropetrovsk region",
+      "lang": "en",
+      "title_en": "Russia launches deadly large-scale missile and drone attack on Ukraine",
+      "summary_en": "At least 26 people were injured in the attack in Ukraine's central Dnipropetrovsk region",
+      "title": "Russia launches deadly large-scale missile and drone attack on Ukraine",
+      "summary": "At least 26 people were injured in the attack in Ukraine's central Dnipropetrovsk region",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-dnipropetrovsk-dron-attack-putin-b2830334.html",
+      "source": "The Independent World",
+      "published_at": "2025-09-20T08:39:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "952ea907679ebbc9",
       "title_orig": "BREAKING A cyber attack is causing disruption at several major European airports",
@@ -31,12 +526,12 @@
     {
       "id": "4e50882c57d6c1de",
       "title_orig": "UK airport passengers told 'check flights' after technical issue hits check-ins across Europe",
-      "summary_orig": "Flights have been delayed and cancelled at airports including Heathrow after an alleged cyber attack targeted a service provider for check-in and boarding systems.",
+      "summary_orig": "Airports including Heathrow, Berlin and Brussels said they had been impacts with many others said to be hit by delays",
       "lang": "en",
       "title_en": "UK airport passengers told 'check flights' after technical issue hits check-ins across Europe",
-      "summary_en": "Flights have been delayed and cancelled at airports including Heathrow after an alleged cyber attack targeted a service provider for check-in and boarding systems.",
+      "summary_en": "Airports including Heathrow, Berlin and Brussels said they had been impacts with many others said to be hit by delays",
       "title": "UK airport passengers told 'check flights' after technical issue hits check-ins across Europe",
-      "summary": "Flights have been delayed and cancelled at airports including Heathrow after an alleged cyber attack targeted a service provider for check-in and boarding systems.",
+      "summary": "Airports including Heathrow, Berlin and Brussels said they had been impacts with many others said to be hit by delays",
       "url": "https://www.bristolpost.co.uk/news/uk-world-news/uk-airport-passengers-told-check-10514799",
       "source": "Bristol Post - News",
       "published_at": "2025-09-20T08:28:01+00:00",
@@ -83,24 +578,6 @@
       }
     },
     {
-      "id": "ca59fff4294bea4e",
-      "title_orig": "Heathrow warns of flight delays after cyber attack hits check-in systems across Europe",
-      "summary_orig": "Heathrow said it was working with partners to minimise the impact",
-      "lang": "en",
-      "title_en": "Heathrow warns of flight delays after cyber attack hits check-in systems across Europe",
-      "summary_en": "Heathrow said it was working with partners to minimise the impact",
-      "title": "Heathrow warns of flight delays after cyber attack hits check-in systems across Europe",
-      "summary": "Heathrow said it was working with partners to minimise the impact",
-      "url": "https://www.standard.co.uk/news/london/london-heathrow-delays-cyber-attack-check-in-systems-b1248765.html",
-      "source": "The Standard News",
-      "published_at": "2025-09-20T08:23:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e25dab96e1295870",
       "title_orig": "Live updates as major UK and European airports warn of delays caused by cyber attack",
       "summary_orig": "Heathrow is one of a number of airports reporting problems with check-in and boarding systems following a cyber attack",
@@ -126,24 +603,6 @@
         "lat": 51.47,
         "lon": -0.4543
       }
-    },
-    {
-      "id": "49c77895d2cdbf4d",
-      "title_orig": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
-      "summary_orig": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Polish and allied aircraft were deployed early on Saturday to ensure the safety of Polish airspace after Russia launched airstrikes targeting western Ukraine near the border with Poland, armed forces of the Nato-member country said. “Polish and allied aircraft are operating in our airspace, while ground-based air defence and radar reconnaissance systems have been brought to the highest state of readiness,” the operational command said in a post on X. Continue reading...",
-      "lang": "en",
-      "title_en": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
-      "summary_en": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Polish and allied aircraft were deployed early on Saturday to ensure the safety of Polish airspace after Russia launched airstrikes targeting western Ukraine near the border with Poland, armed forces of the Nato-member country said. “Polish and allied aircraft are operating in our airspace, while ground-based air defence and radar reconnaissance systems have been brought to the highest state of readiness,” the operational command said in a post on X. Continue reading...",
-      "title": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
-      "summary": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Polish and allied aircraft were deployed early on Saturday to ensure the safety of Polish airspace after Russia launched airstrikes targeting western Ukraine near the border with Poland, armed forces of the Nato-member country said. “Polish and allied aircraft are operating in our airspace, while ground-based air defence and radar reconnaissance systems have been brought to the highest state of readiness,” the operational command said in a post on X. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-20T08:19:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
     },
     {
       "id": "36c531230ce7c98a",
@@ -317,24 +776,6 @@
       }
     },
     {
-      "id": "f5f5ec3c62d870b4",
-      "title_orig": "Russia launches large-scale attack on Ukraine, killing 3 and injuring dozens",
-      "summary_orig": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early on Saturday, killing…",
-      "lang": "en",
-      "title_en": "Russia launches large-scale attack on Ukraine, killing 3 and injuring dozens",
-      "summary_en": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early on Saturday, killing…",
-      "title": "Russia launches large-scale attack on Ukraine, killing 3 and injuring dozens",
-      "summary": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early on Saturday, killing…",
-      "url": "https://wtop.com/russia-ukraine-war-news/2025/09/russia-launches-large-scale-attack-on-ukraine-killing-3-and-injuring-dozens/",
-      "source": "WTOP News",
-      "published_at": "2025-09-20T07:52:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "753991081b81e769",
       "title_orig": "Russia launches 'massive attack' on Ukraine, killing three and wounding dozens",
       "summary_orig": "Ukraine issued a nationwide air alert, with officials reporting other strikes in the region around the capital Kyiv.",
@@ -431,24 +872,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "06e35e395c497ef5",
-      "title_orig": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
-      "summary_orig": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
-      "lang": "en",
-      "title_en": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
-      "summary_en": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
-      "title": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
-      "summary": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
-      "url": "https://www.france24.com/en/video/20250920-many-of-us-knew-that-the-second-term-of-donald-trump-would-be-much-more-dangerous-than-the-first",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T07:27:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -571,24 +994,6 @@
       "url": "https://www.standard.co.uk/news/uk/man-jumps-hot-air-balloon-dead-sussex-b1248761.html",
       "source": "The Standard News",
       "published_at": "2025-09-20T06:34:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "24a4ceaa47fed650",
-      "title_orig": "Shireen Mazari says Islamabad police ‘surrounded’ her house, enquired about daughter Imaan and son-in-law Hadi",
-      "summary_orig": "Former minister Shireen Mazari said on Saturday that a “heavily armed raiding party” of the Islamabad police had surrounded her house at 1am and enquired about her daughter, Imaan Zainab Mazari-Hazir, and son-in-law, Hadi Ali Chattha. “At 1am this morning, a heavily armed raiding party of ICT police from Secretariat thana (police station) surrounded my home and asked for Imaan and Hadi. They were not there, and we informed them of the same. Cops said they had an FIR (first information report) against them and they should report to the thana . Eventually they left,” she posted on X. In a subsequent post, she referred to a protest at the Islamabad High Court yesterday, where Imaan — who is a lawyer and rights activist — and others had raised slogans in support of judicial independence. The lawyers had staged a protest on the premises of the IHC to oppose the suspension of Justice Tariq Mahmood Jahangiri from judicial work . Isl­a­mabad Bar Council member Ale­­em Abbasi, ex-president of the Islamabad High Court Bar Association (IHCBA) Riasat Ali and Imaan were prominent among the demonstrators. However, tensions flared when — after the demonstration — PTI-affiliated lawyers, including Intizar Hussain Panjotha, Naeem Panjotha, and Fatehullah Barki, confronted IHCBA President Wa­­j­id Ali Gilani. Witnesses reported the PTI lawyers pushed Gilani, leading to an altercation, before IHCBA Secretary Manzoor Ahmed Jaja and other lawyers intervened. The IHCBA president, accompanied by the secretary and bar council Vice Chairman Naseer Ahmed Kayani, later condemned the incident and announced that a reference would be sent to the bar council seeking the registration of a terrorism case against the lawyers concerned, as well as the cancellation of their licences. He alleged that a group of lawyers, including Imaan, physically assaulted him, dragged him, and branded him a traitor. Gilani further claimed that they were armed and pressured him to support demands for filing cases against PTI foun­der Imran Khan, which he refu­sed. Jaja also claimed that the protest had been held without a formal requisition to the bar, in violation of due procedure. Subsequently, police booked Imaan, Hadi and several PTI-linked lawyers under anti-terror laws. Referring to the episode, Shireen Mazari posted on X that “all videos of the IHC protest yesterday show clearly the FIR charges are absolutely false. Eye witness accounts reveal the same. But persecution of Imaan and Hadi has become a daily routine by the state.” This is a developing story that is being updated as the situation evolves. Initial reports in the media can sometimes be inaccurate. We will strive to ensure timeliness and accuracy by relying on credible sources, such as concerned, qualified authorities and our staff reporters.",
-      "lang": "en",
-      "title_en": "Shireen Mazari says Islamabad police ‘surrounded’ her house, enquired about daughter Imaan and son-in-law Hadi",
-      "summary_en": "Former minister Shireen Mazari said on Saturday that a “heavily armed raiding party” of the Islamabad police had surrounded her house at 1am and enquired about her daughter, Imaan Zainab Mazari-Hazir, and son-in-law, Hadi Ali Chattha. “At 1am this morning, a heavily armed raiding party of ICT police from Secretariat thana (police station) surrounded my home and asked for Imaan and Hadi. They were not there, and we informed them of the same. Cops said they had an FIR (first information report) against them and they should report to the thana . Eventually they left,” she posted on X. In a subsequent post, she referred to a protest at the Islamabad High Court yesterday, where Imaan — who is a lawyer and rights activist — and others had raised slogans in support of judicial independence. The lawyers had staged a protest on the premises of the IHC to oppose the suspension of Justice Tariq Mahmood Jahangiri from judicial work . Isl­a­mabad Bar Council member Ale­­em Abbasi, ex-president of the Islamabad High Court Bar Association (IHCBA) Riasat Ali and Imaan were prominent among the demonstrators. However, tensions flared when — after the demonstration — PTI-affiliated lawyers, including Intizar Hussain Panjotha, Naeem Panjotha, and Fatehullah Barki, confronted IHCBA President Wa­­j­id Ali Gilani. Witnesses reported the PTI lawyers pushed Gilani, leading to an altercation, before IHCBA Secretary Manzoor Ahmed Jaja and other lawyers intervened. The IHCBA president, accompanied by the secretary and bar council Vice Chairman Naseer Ahmed Kayani, later condemned the incident and announced that a reference would be sent to the bar council seeking the registration of a terrorism case against the lawyers concerned, as well as the cancellation of their licences. He alleged that a group of lawyers, including Imaan, physically assaulted him, dragged him, and branded him a traitor. Gilani further claimed that they were armed and pressured him to support demands for filing cases against PTI foun­der Imran Khan, which he refu­sed. Jaja also claimed that the protest had been held without a formal requisition to the bar, in violation of due procedure. Subsequently, police booked Imaan, Hadi and several PTI-linked lawyers under anti-terror laws. Referring to the episode, Shireen Mazari posted on X that “all videos of the IHC protest yesterday show clearly the FIR charges are absolutely false. Eye witness accounts reveal the same. But persecution of Imaan and Hadi has become a daily routine by the state.” This is a developing story that is being updated as the situation evolves. Initial reports in the media can sometimes be inaccurate. We will strive to ensure timeliness and accuracy by relying on credible sources, such as concerned, qualified authorities and our staff reporters.",
-      "title": "Shireen Mazari says Islamabad police ‘surrounded’ her house, enquired about daughter Imaan and son-in-law Hadi",
-      "summary": "Former minister Shireen Mazari said on Saturday that a “heavily armed raiding party” of the Islamabad police had surrounded her house at 1am and enquired about her daughter, Imaan Zainab Mazari-Hazir, and son-in-law, Hadi Ali Chattha. “At 1am this morning, a heavily armed raiding party of ICT police from Secretariat thana (police station) surrounded my home and asked for Imaan and Hadi. They were not there, and we informed them of the same. Cops said they had an FIR (first information report) against them and they should report to the thana . Eventually they left,” she posted on X. In a subsequent post, she referred to a protest at the Islamabad High Court yesterday, where Imaan — who is a lawyer and rights activist — and others had raised slogans in support of judicial independence. The lawyers had staged a protest on the premises of the IHC to oppose the suspension of Justice Tariq Mahmood Jahangiri from judicial work . Isl­a­mabad Bar Council member Ale­­em Abbasi, ex-president of the Islamabad High Court Bar Association (IHCBA) Riasat Ali and Imaan were prominent among the demonstrators. However, tensions flared when — after the demonstration — PTI-affiliated lawyers, including Intizar Hussain Panjotha, Naeem Panjotha, and Fatehullah Barki, confronted IHCBA President Wa­­j­id Ali Gilani. Witnesses reported the PTI lawyers pushed Gilani, leading to an altercation, before IHCBA Secretary Manzoor Ahmed Jaja and other lawyers intervened. The IHCBA president, accompanied by the secretary and bar council Vice Chairman Naseer Ahmed Kayani, later condemned the incident and announced that a reference would be sent to the bar council seeking the registration of a terrorism case against the lawyers concerned, as well as the cancellation of their licences. He alleged that a group of lawyers, including Imaan, physically assaulted him, dragged him, and branded him a traitor. Gilani further claimed that they were armed and pressured him to support demands for filing cases against PTI foun­der Imran Khan, which he refu­sed. Jaja also claimed that the protest had been held without a formal requisition to the bar, in violation of due procedure. Subsequently, police booked Imaan, Hadi and several PTI-linked lawyers under anti-terror laws. Referring to the episode, Shireen Mazari posted on X that “all videos of the IHC protest yesterday show clearly the FIR charges are absolutely false. Eye witness accounts reveal the same. But persecution of Imaan and Hadi has become a daily routine by the state.” This is a developing story that is being updated as the situation evolves. Initial reports in the media can sometimes be inaccurate. We will strive to ensure timeliness and accuracy by relying on credible sources, such as concerned, qualified authorities and our staff reporters.",
-      "url": "https://www.dawn.com/news/1943402/shireen-mazari-says-islamabad-police-surrounded-her-house-enquired-about-daughter-imaan-and-son-in-law-hadi",
-      "source": "Dawn - Home",
-      "published_at": "2025-09-20T06:32:15+00:00",
       "tags": [
         "airport/security"
       ],
@@ -749,24 +1154,6 @@
       "geo": {}
     },
     {
-      "id": "0b6b53504c20cc0e",
-      "title_orig": "Poland scrambles aircraft in response to Russian strikes on western Ukraine",
-      "summary_orig": "Polish and allied aircraft were deployed early on Saturday to ensure the safety of the country's airspace after Russia launched strikes on western Ukraine, the Polish military said. The military said shortly after 0500 GMT that the air defence operation had ended as airstrikes by Russia against Ukraine had ceased.",
-      "lang": "en",
-      "title_en": "Poland scrambles aircraft in response to Russian strikes on western Ukraine",
-      "summary_en": "Polish and allied aircraft were deployed early on Saturday to ensure the safety of the country's airspace after Russia launched strikes on western Ukraine, the Polish military said. The military said shortly after 0500 GMT that the air defence operation had ended as airstrikes by Russia against Ukraine had ceased.",
-      "title": "Poland scrambles aircraft in response to Russian strikes on western Ukraine",
-      "summary": "Polish and allied aircraft were deployed early on Saturday to ensure the safety of the country's airspace after Russia launched strikes on western Ukraine, the Polish military said. The military said shortly after 0500 GMT that the air defence operation had ended as airstrikes by Russia against Ukraine had ceased.",
-      "url": "https://www.france24.com/en/europe/20250920-poland-scrambles-aircraft-in-response-to-russian-strikes-on-western-ukraine",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T05:24:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "ca88f551f9da4360",
       "title_orig": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
       "summary_orig": "Israeli forces continue to carry out attacks on Gaza's main urban centre, with two children killed in a strike on tent.",
@@ -868,24 +1255,6 @@
       "url": "https://www.hindustantimes.com/india-news/why-are-terror-groups-relocating-in-pakistan-theres-more-to-it-than-meets-the-eye-101758336563105.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2025-09-20T03:44:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "877855dcd65c3bc3",
-      "title_orig": "Regional security",
-      "summary_orig": "THE Strategic Mutual Defence Agreement , signed between Pakistan and Saudi Arabia, is making an impact far beyond Islamabad and Riyadh. While there is talk of extending the bilateral pact to other states, thus creating a larger regional security framework, there has also been unnecessary speculation about the use of Pakistan’s nuclear assets . Indeed, the expansion of defence cooperation is a project worth pursuing as currently both the Middle East and South Asia are experiencing geopolitical volatility. But where questions about nuclear arms are concerned, Pakistan should reiterate that its atomic weapons are a deterrent, meant solely for self-defence. Pakistan has joined military alliances earlier, including the Cold War-era Seato and Cento pacts, which put it squarely in the Western camp. In these US-led alliances, Pakistan was little more than a bit player. However, the defence pact with Riyadh is different, as Pakistan today has a combat-hardened military and much-improved defence capabilities. The country’s profile was strengthened following the military clash with India earlier this year, sending the message that Pakistan could defend itself against a much larger foe. All these factors, as well as the irresponsible Israeli attack on Qatar , likely convinced the Saudis that it was the right time to seal the deal. Now, there are indications that the military partnership could expand. Defence Minister Khawaja Asif told an interviewer that “the doors are not closed ” on other states. As we have argued, the Islamic Military Counter Terrorism Coalition could be repurposed for a larger defence role, bringing together Muslim states under one banner. Such an alliance, along the lines of Nato, would strengthen the security of all member states, and deter enemies from violating the sovereignty of Muslim and Arab countries. But the doors of membership should remain open to all Muslim states. Meanwhile, all relevant circles should exercise caution in their words and actions. There is much speculation in the Western media that the Pakistan-Saudi deal would make this country’s nukes available to Riyadh — perhaps because some Saudi officials have been quoted as saying that the pact ‘encompasses all military means’. When asked about the nuclear issue, Khawaja Asif said that “our capabilities, will absolutely be available under this pact”, though he added that Pakistan remains a responsible nuclear power. Any concerns on this front must be allayed immediately, and government officials in particular should unambiguously state that, as per Pakistan’s nuclear doctrine, the atomic weapons are meant as a deterrent. Meanwhile, Pakistan and the other Muslim states should pool their conventional defensive resources. Numerous Muslim states in the Middle East have been attacked by Israel, while Pakistan has increasingly faced Indian aggression. A defence pact could thus make adversaries think twice about launching strikes. Published in Dawn, September 20th, 2025",
-      "lang": "en",
-      "title_en": "Regional security",
-      "summary_en": "THE Strategic Mutual Defence Agreement , signed between Pakistan and Saudi Arabia, is making an impact far beyond Islamabad and Riyadh. While there is talk of extending the bilateral pact to other states, thus creating a larger regional security framework, there has also been unnecessary speculation about the use of Pakistan’s nuclear assets . Indeed, the expansion of defence cooperation is a project worth pursuing as currently both the Middle East and South Asia are experiencing geopolitical volatility. But where questions about nuclear arms are concerned, Pakistan should reiterate that its atomic weapons are a deterrent, meant solely for self-defence. Pakistan has joined military alliances earlier, including the Cold War-era Seato and Cento pacts, which put it squarely in the Western camp. In these US-led alliances, Pakistan was little more than a bit player. However, the defence pact with Riyadh is different, as Pakistan today has a combat-hardened military and much-improved defence capabilities. The country’s profile was strengthened following the military clash with India earlier this year, sending the message that Pakistan could defend itself against a much larger foe. All these factors, as well as the irresponsible Israeli attack on Qatar , likely convinced the Saudis that it was the right time to seal the deal. Now, there are indications that the military partnership could expand. Defence Minister Khawaja Asif told an interviewer that “the doors are not closed ” on other states. As we have argued, the Islamic Military Counter Terrorism Coalition could be repurposed for a larger defence role, bringing together Muslim states under one banner. Such an alliance, along the lines of Nato, would strengthen the security of all member states, and deter enemies from violating the sovereignty of Muslim and Arab countries. But the doors of membership should remain open to all Muslim states. Meanwhile, all relevant circles should exercise caution in their words and actions. There is much speculation in the Western media that the Pakistan-Saudi deal would make this country’s nukes available to Riyadh — perhaps because some Saudi officials have been quoted as saying that the pact ‘encompasses all military means’. When asked about the nuclear issue, Khawaja Asif said that “our capabilities, will absolutely be available under this pact”, though he added that Pakistan remains a responsible nuclear power. Any concerns on this front must be allayed immediately, and government officials in particular should unambiguously state that, as per Pakistan’s nuclear doctrine, the atomic weapons are meant as a deterrent. Meanwhile, Pakistan and the other Muslim states should pool their conventional defensive resources. Numerous Muslim states in the Middle East have been attacked by Israel, while Pakistan has increasingly faced Indian aggression. A defence pact could thus make adversaries think twice about launching strikes. Published in Dawn, September 20th, 2025",
-      "title": "Regional security",
-      "summary": "THE Strategic Mutual Defence Agreement , signed between Pakistan and Saudi Arabia, is making an impact far beyond Islamabad and Riyadh. While there is talk of extending the bilateral pact to other states, thus creating a larger regional security framework, there has also been unnecessary speculation about the use of Pakistan’s nuclear assets . Indeed, the expansion of defence cooperation is a project worth pursuing as currently both the Middle East and South Asia are experiencing geopolitical volatility. But where questions about nuclear arms are concerned, Pakistan should reiterate that its atomic weapons are a deterrent, meant solely for self-defence. Pakistan has joined military alliances earlier, including the Cold War-era Seato and Cento pacts, which put it squarely in the Western camp. In these US-led alliances, Pakistan was little more than a bit player. However, the defence pact with Riyadh is different, as Pakistan today has a combat-hardened military and much-improved defence capabilities. The country’s profile was strengthened following the military clash with India earlier this year, sending the message that Pakistan could defend itself against a much larger foe. All these factors, as well as the irresponsible Israeli attack on Qatar , likely convinced the Saudis that it was the right time to seal the deal. Now, there are indications that the military partnership could expand. Defence Minister Khawaja Asif told an interviewer that “the doors are not closed ” on other states. As we have argued, the Islamic Military Counter Terrorism Coalition could be repurposed for a larger defence role, bringing together Muslim states under one banner. Such an alliance, along the lines of Nato, would strengthen the security of all member states, and deter enemies from violating the sovereignty of Muslim and Arab countries. But the doors of membership should remain open to all Muslim states. Meanwhile, all relevant circles should exercise caution in their words and actions. There is much speculation in the Western media that the Pakistan-Saudi deal would make this country’s nukes available to Riyadh — perhaps because some Saudi officials have been quoted as saying that the pact ‘encompasses all military means’. When asked about the nuclear issue, Khawaja Asif said that “our capabilities, will absolutely be available under this pact”, though he added that Pakistan remains a responsible nuclear power. Any concerns on this front must be allayed immediately, and government officials in particular should unambiguously state that, as per Pakistan’s nuclear doctrine, the atomic weapons are meant as a deterrent. Meanwhile, Pakistan and the other Muslim states should pool their conventional defensive resources. Numerous Muslim states in the Middle East have been attacked by Israel, while Pakistan has increasingly faced Indian aggression. A defence pact could thus make adversaries think twice about launching strikes. Published in Dawn, September 20th, 2025",
-      "url": "https://www.dawn.com/news/1943367/regional-security",
-      "source": "Dawn - Home",
-      "published_at": "2025-09-20T03:37:52+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1012,24 +1381,6 @@
       "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-military-strike-drugs-vessel-b2830273.html",
       "source": "The Independent World",
       "published_at": "2025-09-20T02:37:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cb3f325bc0d02c41",
-      "title_orig": "FM Dar hints other states may follow suit after Pak-Saudi defence deal",
-      "summary_orig": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Friday hinted that some countries were showing interest in building strategic defence agreements with Pakistan, following the country’s landmark pact with Saudi Arabia . Pakis­tan and Saudi Arabia entered into a landmark mutual defence agreement, under which any aggression against one state will be considered an attack on both. The pact was signed by Prime Minister Shehbaz Sharif and Saudi Crown Prince Mohammad Bin Salman at the Al-Yamamah Palace in Riyadh on Wednesday. The agreement came amid diplomatic upheaval in the Middle East and just months after a deadly India-Pakistan conflict in May. “It’s premature to say anything, but some other countries want to enter into an agreement of this nature,” Dar told reporters in London, replying to a question about whether other states will join the pact or ink similar deals. “This was not signed overnight; it has taken several months.” Calling the agreement a “historic pact”, FM Dar said Pakistan has always maintained an informal defence arrangement with Saudi Arabia, which is the same as the agreement signed on Wednesday. “I believe that both sides are very happy. Let’s be frank: Saudi Arabia has stood with us during difficult times, such as the sanctions. Their support was very relevant and important,” he added. “Similarly, during the current crisis since 2022-2023, when we needed IMF (International Monetary Fund) support, Saudi Arabia stood with us.” Meanwhile, Defence Minister Khawaja Muhammad Asif told Reuters that nuclear weapons were “not on the radar” of the pact. He said the agreement could be extended to cover other Gulf nations. “We have no intention of using this pact for any aggression,” said Asif. “But if the parties are threatened, then obviously this arrangement will become operative.” In contrast, asked a day ago about whether Pakistan’s nuclear assets were also up for use under the agreement, Asif said: “What we have, our capabilities, will absolutely be available under this pact. PPP Chairman and former foreign minister Bilawal Bhutto-Zardari also welcomed the development. He said the way the deal was signed in the context of the recent conflict with India was a “very positive” development for both Pakistan and Saudi Arabia and congratulated the prime minister for pulling it off. Separately, India said it hoped Saudi Arabia would keep in mind mutual interests and sensitivities between it and archival Pakistan. “India and Saudi Arabia have a wide-ranging strategic partnership which has deepened considerably in the last few years,” Indian foreign ministry spokesperson Randhir Jaiswal told reporters during a weekly news briefing. “We expect that this strategic partnership will keep in mind mutual interests and sensitivities,” he said. Saudi Arabia is one of the top exporters of petroleum to India and the two countries agreed this year to boost cooperation in supplies of crude and liquefied petroleum gas. The two nations were also exploring joint projects in refineries and petrochemicals, Indian Prime Minister Narendra Modi said this year. A day ago, India’s foreign ministry said it was aware that the pact had been under consideration and that it would study the implications for New Delhi. The neighbours have fought three major wars, along with numerous clashes, including the four-day conflict in May that was their heaviest fighting in decades.",
-      "lang": "en",
-      "title_en": "FM Dar hints other states may follow suit after Pak-Saudi defence deal",
-      "summary_en": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Friday hinted that some countries were showing interest in building strategic defence agreements with Pakistan, following the country’s landmark pact with Saudi Arabia . Pakis­tan and Saudi Arabia entered into a landmark mutual defence agreement, under which any aggression against one state will be considered an attack on both. The pact was signed by Prime Minister Shehbaz Sharif and Saudi Crown Prince Mohammad Bin Salman at the Al-Yamamah Palace in Riyadh on Wednesday. The agreement came amid diplomatic upheaval in the Middle East and just months after a deadly India-Pakistan conflict in May. “It’s premature to say anything, but some other countries want to enter into an agreement of this nature,” Dar told reporters in London, replying to a question about whether other states will join the pact or ink similar deals. “This was not signed overnight; it has taken several months.” Calling the agreement a “historic pact”, FM Dar said Pakistan has always maintained an informal defence arrangement with Saudi Arabia, which is the same as the agreement signed on Wednesday. “I believe that both sides are very happy. Let’s be frank: Saudi Arabia has stood with us during difficult times, such as the sanctions. Their support was very relevant and important,” he added. “Similarly, during the current crisis since 2022-2023, when we needed IMF (International Monetary Fund) support, Saudi Arabia stood with us.” Meanwhile, Defence Minister Khawaja Muhammad Asif told Reuters that nuclear weapons were “not on the radar” of the pact. He said the agreement could be extended to cover other Gulf nations. “We have no intention of using this pact for any aggression,” said Asif. “But if the parties are threatened, then obviously this arrangement will become operative.” In contrast, asked a day ago about whether Pakistan’s nuclear assets were also up for use under the agreement, Asif said: “What we have, our capabilities, will absolutely be available under this pact. PPP Chairman and former foreign minister Bilawal Bhutto-Zardari also welcomed the development. He said the way the deal was signed in the context of the recent conflict with India was a “very positive” development for both Pakistan and Saudi Arabia and congratulated the prime minister for pulling it off. Separately, India said it hoped Saudi Arabia would keep in mind mutual interests and sensitivities between it and archival Pakistan. “India and Saudi Arabia have a wide-ranging strategic partnership which has deepened considerably in the last few years,” Indian foreign ministry spokesperson Randhir Jaiswal told reporters during a weekly news briefing. “We expect that this strategic partnership will keep in mind mutual interests and sensitivities,” he said. Saudi Arabia is one of the top exporters of petroleum to India and the two countries agreed this year to boost cooperation in supplies of crude and liquefied petroleum gas. The two nations were also exploring joint projects in refineries and petrochemicals, Indian Prime Minister Narendra Modi said this year. A day ago, India’s foreign ministry said it was aware that the pact had been under consideration and that it would study the implications for New Delhi. The neighbours have fought three major wars, along with numerous clashes, including the four-day conflict in May that was their heaviest fighting in decades.",
-      "title": "FM Dar hints other states may follow suit after Pak-Saudi defence deal",
-      "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Friday hinted that some countries were showing interest in building strategic defence agreements with Pakistan, following the country’s landmark pact with Saudi Arabia . Pakis­tan and Saudi Arabia entered into a landmark mutual defence agreement, under which any aggression against one state will be considered an attack on both. The pact was signed by Prime Minister Shehbaz Sharif and Saudi Crown Prince Mohammad Bin Salman at the Al-Yamamah Palace in Riyadh on Wednesday. The agreement came amid diplomatic upheaval in the Middle East and just months after a deadly India-Pakistan conflict in May. “It’s premature to say anything, but some other countries want to enter into an agreement of this nature,” Dar told reporters in London, replying to a question about whether other states will join the pact or ink similar deals. “This was not signed overnight; it has taken several months.” Calling the agreement a “historic pact”, FM Dar said Pakistan has always maintained an informal defence arrangement with Saudi Arabia, which is the same as the agreement signed on Wednesday. “I believe that both sides are very happy. Let’s be frank: Saudi Arabia has stood with us during difficult times, such as the sanctions. Their support was very relevant and important,” he added. “Similarly, during the current crisis since 2022-2023, when we needed IMF (International Monetary Fund) support, Saudi Arabia stood with us.” Meanwhile, Defence Minister Khawaja Muhammad Asif told Reuters that nuclear weapons were “not on the radar” of the pact. He said the agreement could be extended to cover other Gulf nations. “We have no intention of using this pact for any aggression,” said Asif. “But if the parties are threatened, then obviously this arrangement will become operative.” In contrast, asked a day ago about whether Pakistan’s nuclear assets were also up for use under the agreement, Asif said: “What we have, our capabilities, will absolutely be available under this pact. PPP Chairman and former foreign minister Bilawal Bhutto-Zardari also welcomed the development. He said the way the deal was signed in the context of the recent conflict with India was a “very positive” development for both Pakistan and Saudi Arabia and congratulated the prime minister for pulling it off. Separately, India said it hoped Saudi Arabia would keep in mind mutual interests and sensitivities between it and archival Pakistan. “India and Saudi Arabia have a wide-ranging strategic partnership which has deepened considerably in the last few years,” Indian foreign ministry spokesperson Randhir Jaiswal told reporters during a weekly news briefing. “We expect that this strategic partnership will keep in mind mutual interests and sensitivities,” he said. Saudi Arabia is one of the top exporters of petroleum to India and the two countries agreed this year to boost cooperation in supplies of crude and liquefied petroleum gas. The two nations were also exploring joint projects in refineries and petrochemicals, Indian Prime Minister Narendra Modi said this year. A day ago, India’s foreign ministry said it was aware that the pact had been under consideration and that it would study the implications for New Delhi. The neighbours have fought three major wars, along with numerous clashes, including the four-day conflict in May that was their heaviest fighting in decades.",
-      "url": "https://www.dawn.com/news/1943248/fm-dar-hints-other-states-may-follow-suit-after-pak-saudi-defence-deal",
-      "source": "Dawn - Home",
-      "published_at": "2025-09-20T02:31:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1857,24 +2208,6 @@
       "geo": {}
     },
     {
-      "id": "9a10e2783b77d6ae",
-      "title_orig": "Trump Vs The TV Networks, A right royal knees up, A Gaza ‘Genocide’",
-      "summary_orig": "This week has seen major upheavals on the global stage: Trump’s lavish and unprecedented UK state visit offered a boost to embattled Prime Minister Keir Starmer, while the U.S. grappled with political fallout and free speech debates following activist Charlie Kirk’s assassination. Meanwhile, Israel faced a damning UN report accusing it of genocide in Gaza, charges it strongly rejected, and France was rocked by mass strikes against austerity as President Macron contended with both political unrest and a bizarre defamation case targeting his wife.",
-      "lang": "en",
-      "title_en": "Trump Vs The TV Networks, A right royal knees up, A Gaza ‘Genocide’",
-      "summary_en": "This week has seen major upheavals on the global stage: Trump’s lavish and unprecedented UK state visit offered a boost to embattled Prime Minister Keir Starmer, while the U.S. grappled with political fallout and free speech debates following activist Charlie Kirk’s assassination. Meanwhile, Israel faced a damning UN report accusing it of genocide in Gaza, charges it strongly rejected, and France was rocked by mass strikes against austerity as President Macron contended with both political unrest and a bizarre defamation case targeting his wife.",
-      "title": "Trump Vs The TV Networks, A right royal knees up, A Gaza ‘Genocide’",
-      "summary": "This week has seen major upheavals on the global stage: Trump’s lavish and unprecedented UK state visit offered a boost to embattled Prime Minister Keir Starmer, while the U.S. grappled with political fallout and free speech debates following activist Charlie Kirk’s assassination. Meanwhile, Israel faced a damning UN report accusing it of genocide in Gaza, charges it strongly rejected, and France was rocked by mass strikes against austerity as President Macron contended with both political unrest and a bizarre defamation case targeting his wife.",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20250919-trump-vs-the-tv-networks-a-right-royal-knees-up-a-gaza-genocide",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-19T19:05:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "70b89ce4e13ef77a",
       "title_orig": "Press Release: Emirates welcomes its first retrofitted Boeing 777 in Africa",
       "summary_orig": "Following the advanced deployment of the retrofitted Boeing 777 aircraft to both Cape Town and Johannesburg last month, Emirates, the world’s largest international airline, hosted a guided tour of the fully refreshed aircraft. The airline showcased its next-generation cabins, featuring the latest sophisticated design and South Africa’s debut of the highly acclaimed Premium Economy Cabin.... The post Press Release: Emirates welcomes its first retrofitted Boeing 777 in Africa appeared first on Runway Girl .",
@@ -2019,24 +2352,6 @@
       "geo": {}
     },
     {
-      "id": "0793277b573bc2a1",
-      "title_orig": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
-      "summary_orig": "Israeli bombardment and remotely controlled robots with explosives are destroying Gaza City block by block.",
-      "lang": "en",
-      "title_en": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
-      "summary_en": "Israeli bombardment and remotely controlled robots with explosives are destroying Gaza City block by block.",
-      "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
-      "summary": "Israeli bombardment and remotely controlled robots with explosives are destroying Gaza City block by block.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-09-19T18:10:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "7b77fa5b4bdc613d",
       "title_orig": "Nagaland govt urges protesting teachers to return to schools, wait for court order",
       "summary_orig": "Nagaland govt urges protesting teachers to return to schools, wait for court order",
@@ -2070,24 +2385,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c5ba599ac52e94da",
-      "title_orig": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
-      "summary_orig": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defense”.",
-      "lang": "en",
-      "title_en": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
-      "summary_en": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defense”.",
-      "title": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
-      "summary": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defense”.",
-      "url": "https://www.france24.com/en/live-news/20250919-venezuela-accuses-us-of-waging-undeclared-war",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-19T18:01:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2325,24 +2622,6 @@
       "geo": {}
     },
     {
-      "id": "a9ecdcaf09230ab2",
-      "title_orig": "Scottish minister Jamie Hepburn quits after Douglas Ross assault accusation",
-      "summary_orig": "Former Scottish Tory leader alleges Hepburn grabbed him amid row over SNP’s apparent failure to tackle gull attacks A Scottish minister has resigned after a row over aggressive gulls spilled over into an angry altercation with the former Scottish Conservative leader Douglas Ross. Jamie Hepburn, the Scottish government’s minister for parliamentary business, tendered his resignation after Ross accused him of assault outside the parliament chamber on Wednesday. Continue reading...",
-      "lang": "en",
-      "title_en": "Scottish minister Jamie Hepburn quits after Douglas Ross assault accusation",
-      "summary_en": "Former Scottish Tory leader alleges Hepburn grabbed him amid row over SNP’s apparent failure to tackle gull attacks A Scottish minister has resigned after a row over aggressive gulls spilled over into an angry altercation with the former Scottish Conservative leader Douglas Ross. Jamie Hepburn, the Scottish government’s minister for parliamentary business, tendered his resignation after Ross accused him of assault outside the parliament chamber on Wednesday. Continue reading...",
-      "title": "Scottish minister Jamie Hepburn quits after Douglas Ross assault accusation",
-      "summary": "Former Scottish Tory leader alleges Hepburn grabbed him amid row over SNP’s apparent failure to tackle gull attacks A Scottish minister has resigned after a row over aggressive gulls spilled over into an angry altercation with the former Scottish Conservative leader Douglas Ross. Jamie Hepburn, the Scottish government’s minister for parliamentary business, tendered his resignation after Ross accused him of assault outside the parliament chamber on Wednesday. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2025/sep/19/scottish-minister-jamie-hepburn-quits-after-douglas-ross-assault-accusation",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-09-19T16:38:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "b48738ecc336e687",
       "title_orig": "Israel army says it will use ‘unprecedented force’ in Gaza City and urges residents to leave – as it happened",
       "summary_orig": "IDF tells residents of Gaza City to flee south but closes Salah al-Din road evacuation route. This live blog is closed Pakistan’s defence minister says his nation’s nuclear programme “will be made available” to Saudi Arabia if needed under the countries’ new defence pact, marking the first specific acknowledgment that Islamabad had put the kingdom under its nuclear umbrella. Defence minister Khawaja Mohammad Asif’s comments underline the importance of the pact struck this week between Pakistan and Saudi Arabia, which have had military ties for decades, AP reports. I welcome the excellent cooperation with the Palestinian Authority. We are working together to ensure his swift extradition. This is another step forward for justice and truth. My thoughts are with all the families who have endured the pain of waiting for so long. Continue reading...",
@@ -2577,24 +2856,6 @@
       "geo": {}
     },
     {
-      "id": "88dfcf80d37b7b89",
-      "title_orig": "Suspect in 1982 attack on Paris Jewish restaurant arrested in West Bank",
-      "summary_orig": "Palestinian authorities have arrested a key suspect in an antisemitic attack on a Jewish restaurant in Paris which left six people dead in Paris in 1982, French prosecutors said on Friday (September 19). FRANCE 24's Shirli Sitbon tells us more and gives us her analysis.",
-      "lang": "en",
-      "title_en": "Suspect in 1982 attack on Paris Jewish restaurant arrested in West Bank",
-      "summary_en": "Palestinian authorities have arrested a key suspect in an antisemitic attack on a Jewish restaurant in Paris which left six people dead in Paris in 1982, French prosecutors said on Friday (September 19). FRANCE 24's Shirli Sitbon tells us more and gives us her analysis.",
-      "title": "Suspect in 1982 attack on Paris Jewish restaurant arrested in West Bank",
-      "summary": "Palestinian authorities have arrested a key suspect in an antisemitic attack on a Jewish restaurant in Paris which left six people dead in Paris in 1982, French prosecutors said on Friday (September 19). FRANCE 24's Shirli Sitbon tells us more and gives us her analysis.",
-      "url": "https://www.france24.com/en/video/20250919-suspect-in-1982-attack-on-paris-jewish-restaurant-arrested-in-west-bank",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-19T15:07:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "8bc4e7b956719cc4",
       "title_orig": "China reveals more of its drone power at air show, 2 weeks after victory parade",
       "summary_orig": "Previously unknown drones are making their debut at the five-day Changchun air show, which opened on Friday in the provincial capital of Jilin in northeast China, just two weeks after the Victory Day military parade showcased several new models.\nAmong those attracting attention during pre-opening preparations was a twin-engined flying-wing tailless drone developed by the Chinese Academy of Sciences (CAS), the country’s leading scientific institution.\nThe show – which highlights the PLA Air Force...",
@@ -2646,24 +2907,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "4f9f347be3fb2770",
-      "title_orig": "Videos by Jaish-e-Mohammed terrorists exposed nexus with Pakistani govt: India",
-      "summary_orig": "External affairs ministry spokesperson Randhir Jaiswal said such statements made the nexus between terrorists and Islamabad ‘more glaring”",
-      "lang": "en",
-      "title_en": "Videos by Jaish-e-Mohammed terrorists exposed nexus with Pakistani govt: India",
-      "summary_en": "External affairs ministry spokesperson Randhir Jaiswal said such statements made the nexus between terrorists and Islamabad ‘more glaring”",
-      "title": "Videos by Jaish-e-Mohammed terrorists exposed nexus with Pakistani govt: India",
-      "summary": "External affairs ministry spokesperson Randhir Jaiswal said such statements made the nexus between terrorists and Islamabad ‘more glaring”",
-      "url": "https://www.hindustantimes.com/india-news/videos-by-jaish-e-mohammed-terrorists-exposed-nexus-with-pakistani-govt-india-101758293251682.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-09-19T14:47:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2928,24 +3171,6 @@
       "geo": {}
     },
     {
-      "id": "6c67a3f4b89d0ff3",
-      "title_orig": "Dying people should have ‘care and compassion like my mother’, says Arlene Foster",
-      "summary_orig": "She made her comments as peers debated the Terminally Ill Adults (End of Life) Bill, which if passed, would see assisted dying rolled out in England and Wales",
-      "lang": "en",
-      "title_en": "Dying people should have ‘care and compassion like my mother’, says Arlene Foster",
-      "summary_en": "She made her comments as peers debated the Terminally Ill Adults (End of Life) Bill, which if passed, would see assisted dying rolled out in England and Wales",
-      "title": "Dying people should have ‘care and compassion like my mother’, says Arlene Foster",
-      "summary": "She made her comments as peers debated the Terminally Ill Adults (End of Life) Bill, which if passed, would see assisted dying rolled out in England and Wales",
-      "url": "https://www.belfastlive.co.uk/news/belfast-news/dying-people-should-care-compassion-32512014",
-      "source": "BelfastLive - Home",
-      "published_at": "2025-09-19T12:51:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f66f0cff91674c03",
       "title_orig": "Wolves given double striker boost ahead of Leeds United clash",
       "summary_orig": "The latest Leeds United news from LeedsLive ahead of this weekend's Premier League trip to Molineux",
@@ -3011,24 +3236,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/emmanuel-macron-france-palestinian-paris-west-bank-b2829847.html",
       "source": "The Independent World",
       "published_at": "2025-09-19T12:22:34+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a153b511d8efcc3b",
-      "title_orig": "Co-op expected to reveal financial hit from cyber attack",
-      "summary_orig": "The company shut off parts of its IT systems after the attack, in which hackers accessed and extracted members’ personal data.",
-      "lang": "en",
-      "title_en": "Co-op expected to reveal financial hit from cyber attack",
-      "summary_en": "The company shut off parts of its IT systems after the attack, in which hackers accessed and extracted members’ personal data.",
-      "title": "Co-op expected to reveal financial hit from cyber attack",
-      "summary": "The company shut off parts of its IT systems after the attack, in which hackers accessed and extracted members’ personal data.",
-      "url": "https://www.standard.co.uk/news/uk/cooperative-group-bbc-coop-b1248651.html",
-      "source": "The Standard News",
-      "published_at": "2025-09-19T12:22:26+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3173,24 +3380,6 @@
       "url": "https://www.japantimes.co.jp/news/2025/09/19/japan/niigata-asdf-plane-runway/",
       "source": "Latest articles - The Japan Times",
       "published_at": "2025-09-19T10:54:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "993ff3761bd8483f",
-      "title_orig": "WHO implores more countries to accept Gaza’s growing wounded as Israel’s assault intensifies",
-      "summary_orig": "World Health Organisation has raised fears of an increasing number of wounded Palestinians as Israel’s attacks ramp up",
-      "lang": "en",
-      "title_en": "WHO implores more countries to accept Gaza’s growing wounded as Israel’s assault intensifies",
-      "summary_en": "World Health Organisation has raised fears of an increasing number of wounded Palestinians as Israel’s attacks ramp up",
-      "title": "WHO implores more countries to accept Gaza’s growing wounded as Israel’s assault intensifies",
-      "summary": "World Health Organisation has raised fears of an increasing number of wounded Palestinians as Israel’s attacks ramp up",
-      "url": "https://www.independent.co.uk/news/world/middle-east/gaza-city-israel-who-palestine-b2829678.html",
-      "source": "The Independent World",
-      "published_at": "2025-09-19T10:02:19+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3378,24 +3567,6 @@
       "geo": {}
     },
     {
-      "id": "985de41955b26c67",
-      "title_orig": "Hundreds of protestors rally in Edinburgh Meadows during Donald Trump visit",
-      "summary_orig": "Around 200 demonstrators gathered on the Meadows on Thursday evening, many carrying placards and banners with anti-Trump slogans.",
-      "lang": "en",
-      "title_en": "Hundreds of protestors rally in Edinburgh Meadows during Donald Trump visit",
-      "summary_en": "Around 200 demonstrators gathered on the Meadows on Thursday evening, many carrying placards and banners with anti-Trump slogans.",
-      "title": "Hundreds of protestors rally in Edinburgh Meadows during Donald Trump visit",
-      "summary": "Around 200 demonstrators gathered on the Meadows on Thursday evening, many carrying placards and banners with anti-Trump slogans.",
-      "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/hundreds-protestors-rally-edinburgh-meadows-32508398",
-      "source": "Edinburgh Live - News",
-      "published_at": "2025-09-19T06:48:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c001a2435931fe7d",
       "title_orig": "China issues warning to Papua New Guinea over defence deal with Australia",
       "summary_orig": "Beijing’s comments come as leading military figures in PNG express concern over a potential defence treaty with Australia China has urged Papua New Guinea not to sign a treaty that could restrict or prevent it from cooperating with another country, days after Australia failed to secure a defence pact with the Pacific nation. In a statement on Facebook late on Thursday, the Chinese embassy in Papua New Guinea said it respected the country’s “right to conclude a bilateral treaty with other countries on a voluntary basis”. Continue reading...",
@@ -3501,78 +3672,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "dc01305b524020cb",
-      "title_orig": "Hong Kong to evacuate 6,000 after WWII-era bomb found",
-      "summary_orig": "HONG KONG: Hong Kong planned to evacuate thousands of residents on Friday as a bomb left over from World War II was discovered at a construction site.\n\tPolice said that the bomb measured approximately 1.5 meters (4.9 feet) in length and weighed about 450 kilograms (1,000 pounds), adding that they believed it remained “fully functional.”\n\t“Due to the extremely high risks involved in dismantling and disposing of the bomb, we must activate the emergency evacuation plan,” said Hong Kong Police’s district commander Andy Chan.",
-      "lang": "en",
-      "title_en": "Hong Kong to evacuate 6,000 after WWII-era bomb found",
-      "summary_en": "HONG KONG: Hong Kong planned to evacuate thousands of residents on Friday as a bomb left over from World War II was discovered at a construction site.\n\tPolice said that the bomb measured approximately 1.5 meters (4.9 feet) in length and weighed about 450 kilograms (1,000 pounds), adding that they believed it remained “fully functional.”\n\t“Due to the extremely high risks involved in dismantling and disposing of the bomb, we must activate the emergency evacuation plan,” said Hong Kong Police’s district commander Andy Chan.",
-      "title": "Hong Kong to evacuate 6,000 after WWII-era bomb found",
-      "summary": "HONG KONG: Hong Kong planned to evacuate thousands of residents on Friday as a bomb left over from World War II was discovered at a construction site.\n\tPolice said that the bomb measured approximately 1.5 meters (4.9 feet) in length and weighed about 450 kilograms (1,000 pounds), adding that they believed it remained “fully functional.”\n\t“Due to the extremely high risks involved in dismantling and disposing of the bomb, we must activate the emergency evacuation plan,” said Hong Kong Police’s district commander Andy Chan.",
-      "url": "https://www.arabnews.com/node/2615949/world",
-      "source": "ArabNews",
-      "published_at": "2025-09-19T01:09:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bb8a292b817a68a4",
-      "title_orig": "Massive Attack join Israel boycott campaign",
-      "summary_orig": "PARIS: British trip-hop group Massive Attack announced they are joining a new music industry initiative to block their music in Israel and have also asked for their songs to be removed from Spotify.\n\tThe Bristol natives said they had joined “No Music for Genocide,” a collective of musicians modelled on the “Film Workers for Palestine” group, which has also called for a cultural boycott of Israel over the war in Gaza.",
-      "lang": "en",
-      "title_en": "Massive Attack join Israel boycott campaign",
-      "summary_en": "PARIS: British trip-hop group Massive Attack announced they are joining a new music industry initiative to block their music in Israel and have also asked for their songs to be removed from Spotify.\n\tThe Bristol natives said they had joined “No Music for Genocide,” a collective of musicians modelled on the “Film Workers for Palestine” group, which has also called for a cultural boycott of Israel over the war in Gaza.",
-      "title": "Massive Attack join Israel boycott campaign",
-      "summary": "PARIS: British trip-hop group Massive Attack announced they are joining a new music industry initiative to block their music in Israel and have also asked for their songs to be removed from Spotify.\n\tThe Bristol natives said they had joined “No Music for Genocide,” a collective of musicians modelled on the “Film Workers for Palestine” group, which has also called for a cultural boycott of Israel over the war in Gaza.",
-      "url": "https://www.arabnews.com/node/2615951/world",
-      "source": "ArabNews",
-      "published_at": "2025-09-19T01:09:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3b897d33fc777d8a",
-      "title_orig": "Israeli strike on south Lebanon kills one: ministry",
-      "summary_orig": "BEIRUT: An Israeli strike on southern Lebanon killed one person and wounded three others on Friday, Lebanon’s health ministry said, in the latest attack despite a ceasefire between Israel and Hezbollah.\n\tIn a statement, the ministry said that an “Israeli airstrike on a vehicle” in Tibnin, southern Lebanon killed one person and wounded three, describing it as a preliminary toll.\n\tThe Israeli army did not immediately comment on the incident.\n\tThe attack comes a day after Israel bombed several southern Lebanese towns it had warned residents to evacuate.",
-      "lang": "en",
-      "title_en": "Israeli strike on south Lebanon kills one: ministry",
-      "summary_en": "BEIRUT: An Israeli strike on southern Lebanon killed one person and wounded three others on Friday, Lebanon’s health ministry said, in the latest attack despite a ceasefire between Israel and Hezbollah.\n\tIn a statement, the ministry said that an “Israeli airstrike on a vehicle” in Tibnin, southern Lebanon killed one person and wounded three, describing it as a preliminary toll.\n\tThe Israeli army did not immediately comment on the incident.\n\tThe attack comes a day after Israel bombed several southern Lebanese towns it had warned residents to evacuate.",
-      "title": "Israeli strike on south Lebanon kills one: ministry",
-      "summary": "BEIRUT: An Israeli strike on southern Lebanon killed one person and wounded three others on Friday, Lebanon’s health ministry said, in the latest attack despite a ceasefire between Israel and Hezbollah.\n\tIn a statement, the ministry said that an “Israeli airstrike on a vehicle” in Tibnin, southern Lebanon killed one person and wounded three, describing it as a preliminary toll.\n\tThe Israeli army did not immediately comment on the incident.\n\tThe attack comes a day after Israel bombed several southern Lebanese towns it had warned residents to evacuate.",
-      "url": "https://www.arabnews.com/node/2615946/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-19T00:09:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b805f482083b251c",
-      "title_orig": "World Court says Mali drone case can’t proceed without Algeria accepting jurisdiction",
-      "summary_orig": "THE HAGUE: The International Court of Justice said on Friday that Mali’s application for a case against neighboring Algeria over the shooting down of a Malian military drone could only proceed if Algeria accepts the court’s jurisdiction.\n\tMali’s accusation that Algeria deliberately shot down the drone along their shared desert border during the night of March 31 to April 1 led to a diplomatic crisis.",
-      "lang": "en",
-      "title_en": "World Court says Mali drone case can’t proceed without Algeria accepting jurisdiction",
-      "summary_en": "THE HAGUE: The International Court of Justice said on Friday that Mali’s application for a case against neighboring Algeria over the shooting down of a Malian military drone could only proceed if Algeria accepts the court’s jurisdiction.\n\tMali’s accusation that Algeria deliberately shot down the drone along their shared desert border during the night of March 31 to April 1 led to a diplomatic crisis.",
-      "title": "World Court says Mali drone case can’t proceed without Algeria accepting jurisdiction",
-      "summary": "THE HAGUE: The International Court of Justice said on Friday that Mali’s application for a case against neighboring Algeria over the shooting down of a Malian military drone could only proceed if Algeria accepts the court’s jurisdiction.\n\tMali’s accusation that Algeria deliberately shot down the drone along their shared desert border during the night of March 31 to April 1 led to a diplomatic crisis.",
-      "url": "https://www.arabnews.com/node/2615942/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-19T00:09:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -3690,24 +3789,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "d301761ddcd44d1c",
-      "title_orig": "Trump helicopter forced to make emergency landing at London airport after ‘minor issue’",
-      "summary_orig": "President and first lady were about to return from a two-day visit to the UK when the technical issue occurred",
-      "lang": "en",
-      "title_en": "Trump helicopter forced to make emergency landing at London airport after ‘minor issue’",
-      "summary_en": "President and first lady were about to return from a two-day visit to the UK when the technical issue occurred",
-      "title": "Trump helicopter forced to make emergency landing at London airport after ‘minor issue’",
-      "summary": "President and first lady were about to return from a two-day visit to the UK when the technical issue occurred",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-london-helicopter-issue-b2829385.html",
-      "source": "The Independent World",
-      "published_at": "2025-09-18T18:33:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -4316,6 +4397,42 @@
       "url": "https://www.latimes.com/business/story/2025-09-04/indonesias-protests-over-the-economy-turn-to-police-brutality",
       "source": "World & Nation",
       "published_at": "2025-09-04T20:15:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2fc44d32f8bb4ddf",
+      "title_orig": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary_orig": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "lang": "en",
+      "title_en": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary_en": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "title": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "url": "https://www.arabnews.com/node/2614110/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T22:09:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "21fb050645000980",
+      "title_orig": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary_orig": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "lang": "en",
+      "title_en": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary_en": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "title": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "url": "https://www.arabnews.com/node/2614106/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T22:09:41+00:00",
       "tags": [
         "airport/security"
       ],
