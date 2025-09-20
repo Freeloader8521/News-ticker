@@ -1,6 +1,87 @@
 {
-  "generated_at": "2025-09-20T17:33:07.028643+00:00",
+  "generated_at": "2025-09-20T17:43:13.226521+00:00",
   "items": [
+    {
+      "id": "e7ac3fb819f2ccae",
+      "title_orig": "Heathrow and Other Airports in Europe Are Slowed by Cyberattack",
+      "summary_orig": "A disruption to check-in and boarding systems used by multiple airports had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
+      "lang": "en",
+      "title_en": "Heathrow and Other Airports in Europe Are Slowed by Cyberattack",
+      "summary_en": "A disruption to check-in and boarding systems used by multiple airports had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
+      "title": "Heathrow and Other Airports in Europe Are Slowed by Cyberattack",
+      "summary": "A disruption to check-in and boarding systems used by multiple airports had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
+      "url": "https://www.nytimes.com/2025/09/20/world/europe/europe-airports-delays-brussels-london-berlin.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-20T17:29:57+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "53c9ee22caaf3dde",
+      "title_orig": "Hundreds march with Birmingham bin strikers as union boss says government 'must intervene'",
+      "summary_orig": "BirminghamLive quiz Unite general secretary Sharon Graham at city centre rally as crippling bin dispute continues",
+      "lang": "en",
+      "title_en": "Hundreds march with Birmingham bin strikers as union boss says government 'must intervene'",
+      "summary_en": "BirminghamLive quiz Unite general secretary Sharon Graham at city centre rally as crippling bin dispute continues",
+      "title": "Hundreds march with Birmingham bin strikers as union boss says government 'must intervene'",
+      "summary": "BirminghamLive quiz Unite general secretary Sharon Graham at city centre rally as crippling bin dispute continues",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/hundreds-march-birmingham-bin-strikers-32518354",
+      "source": "Birmingham Live - News",
+      "published_at": "2025-09-20T17:25:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "55ace63daf05db7e",
+      "title_orig": "Aberdeen 0 Motherwell 1: Askou dares to dream as Charles-Cook strike sends Steelmen back to Hampden",
+      "summary_orig": "The Steelmen reached the semi-finals of the League Cup after edging Aberdeen at Pittodrie",
+      "lang": "en",
+      "title_en": "Aberdeen 0 Motherwell 1: Askou dares to dream as Charles-Cook strike sends Steelmen back to Hampden",
+      "summary_en": "The Steelmen reached the semi-finals of the League Cup after edging Aberdeen at Pittodrie",
+      "title": "Aberdeen 0 Motherwell 1: Askou dares to dream as Charles-Cook strike sends Steelmen back to Hampden",
+      "summary": "The Steelmen reached the semi-finals of the League Cup after edging Aberdeen at Pittodrie",
+      "url": "https://www.dailyrecord.co.uk/sport/local-sport/aberdeen-0-motherwell-1-askou-35935988",
+      "source": "Daily Record - Home",
+      "published_at": "2025-09-20T17:24:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "78487901a4307215",
+      "title_orig": "95-year-old woman charged with killing roommate 48 hours after moving into nursing home",
+      "summary_orig": "Nina Kravtsov, 89, died from blunt force trauma after allegedly being attacked by her roommate.",
+      "lang": "en",
+      "title_en": "95-year-old woman charged with killing roommate 48 hours after moving into nursing home",
+      "summary_en": "Nina Kravtsov, 89, died from blunt force trauma after allegedly being attacked by her roommate.",
+      "title": "95-year-old woman charged with killing roommate 48 hours after moving into nursing home",
+      "summary": "Nina Kravtsov, 89, died from blunt force trauma after allegedly being attacked by her roommate.",
+      "url": "https://www.syracuse.com/us-news/2025/09/95-year-old-charged-with-killing-roommate-48-hours-after-moving-into-nursing-home.html",
+      "source": "syracuse.com",
+      "published_at": "2025-09-20T17:24:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "4c0612422b2fefa0",
       "title_orig": "Hamas threatens remaining hostages amid Israel’s Gaza City attack",
@@ -713,24 +794,6 @@
       "geo": {}
     },
     {
-      "id": "f52b38ec6cb5e3e3",
-      "title_orig": "Rangers vs Hibs LIVE as Martin Boyle strike ruled out by VAR",
-      "summary_orig": "It's a massive night for Russell Martin at Ibrox with a place at Hampden at stake",
-      "lang": "en",
-      "title_en": "Rangers vs Hibs LIVE as Martin Boyle strike ruled out by VAR",
-      "summary_en": "It's a massive night for Russell Martin at Ibrox with a place at Hampden at stake",
-      "title": "Rangers vs Hibs LIVE as Martin Boyle strike ruled out by VAR",
-      "summary": "It's a massive night for Russell Martin at Ibrox with a place at Hampden at stake",
-      "url": "https://www.dailyrecord.co.uk/sport/football/football-news/rangers-vs-hibs-live-score-35936173",
-      "source": "Daily Record - Home",
-      "published_at": "2025-09-20T14:45:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "263a3368ca1574ea",
       "title_orig": "Dublin Airport evacuated in 'extreme security alert' amid cyber attack response",
       "summary_orig": "Officials are concerned the incident could be a “co-ordinated element” after several major European airports reported technical disruption as the result of a cyber attack.",
@@ -1064,24 +1127,6 @@
       "geo": {}
     },
     {
-      "id": "de76f487fa1b6784",
-      "title_orig": "Cyberattack at major European airports: \"Brussels airport is the worst affected\"",
-      "summary_orig": "\"Brussels airport is the worst affected by this outage\", said Dave Keating, FRANCE 24's Correspondent in Brussels, Belgium. \"There are lots of scenes of chaos at the airport with lots of flights cancelled and lots of flights delayed. The airport is telling people 'don't come, unless you have it confirmed that your flight is actually taking off'.\"",
-      "lang": "en",
-      "title_en": "Cyberattack at major European airports: \"Brussels airport is the worst affected\"",
-      "summary_en": "\"Brussels airport is the worst affected by this outage\", said Dave Keating, FRANCE 24's Correspondent in Brussels, Belgium. \"There are lots of scenes of chaos at the airport with lots of flights cancelled and lots of flights delayed. The airport is telling people 'don't come, unless you have it confirmed that your flight is actually taking off'.\"",
-      "title": "Cyberattack at major European airports: \"Brussels airport is the worst affected\"",
-      "summary": "\"Brussels airport is the worst affected by this outage\", said Dave Keating, FRANCE 24's Correspondent in Brussels, Belgium. \"There are lots of scenes of chaos at the airport with lots of flights cancelled and lots of flights delayed. The airport is telling people 'don't come, unless you have it confirmed that your flight is actually taking off'.\"",
-      "url": "https://www.france24.com/en/video/20250920-brussels-airport-is-the-worst-affected-by-this-outage",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T13:41:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "d643fb0f8b007e69",
       "title_orig": "Cyberattack causes disruptions at major European airports",
       "summary_orig": "The disruptions to electronic systems reported at Brussels, Berlin's Brandenburg and London's Heathrow airports meant that only manual check-in and boarding was possible.",
@@ -1262,33 +1307,6 @@
       "geo": {}
     },
     {
-      "id": "e7ac3fb819f2ccae",
-      "title_orig": "Heathrow and Other Airports in Europe Are Slowed by Cyberattack",
-      "summary_orig": "A disruption to check-in and boarding systems snarled departures at airports in Berlin, Brussels and London.",
-      "lang": "en",
-      "title_en": "Heathrow and Other Airports in Europe Are Slowed by Cyberattack",
-      "summary_en": "A disruption to check-in and boarding systems snarled departures at airports in Berlin, Brussels and London.",
-      "title": "Heathrow and Other Airports in Europe Are Slowed by Cyberattack",
-      "summary": "A disruption to check-in and boarding systems snarled departures at airports in Berlin, Brussels and London.",
-      "url": "https://www.nytimes.com/2025/09/20/world/europe/europe-airports-delays-brussels-london-berlin.html",
-      "source": "NYT > World News",
-      "published_at": "2025-09-20T13:02:50+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
       "id": "2d3507860db47321",
       "title_orig": "Russia launches attack on Ukraine, killing 3 and wounding dozens",
       "summary_orig": "'The enemy’s target was our infrastructure, residential areas and civilian enterprises,' said Ukrainian President Volodymyr Zelenskyy.",
@@ -1379,24 +1397,6 @@
       "geo": {}
     },
     {
-      "id": "47470730e304bde5",
-      "title_orig": "The Bright Side: 'KPop Demon Hunters' drone show delights fans in Seoul",
-      "summary_orig": "Fans of the hit animated musical \"KPop Demon Hunters\", Netflix’s most-watched movie ever, enjoyed a spectacular drone show over Seoul on Sunday, where 1,200 drones illuminated the night sky with images of beloved characters and iconic South Korean landmarks. FRANCE 24’s Tommy Walker, Chloé Borgnon and Constantin Simon report.",
-      "lang": "en",
-      "title_en": "The Bright Side: 'KPop Demon Hunters' drone show delights fans in Seoul",
-      "summary_en": "Fans of the hit animated musical \"KPop Demon Hunters\", Netflix’s most-watched movie ever, enjoyed a spectacular drone show over Seoul on Sunday, where 1,200 drones illuminated the night sky with images of beloved characters and iconic South Korean landmarks. FRANCE 24’s Tommy Walker, Chloé Borgnon and Constantin Simon report.",
-      "title": "The Bright Side: 'KPop Demon Hunters' drone show delights fans in Seoul",
-      "summary": "Fans of the hit animated musical \"KPop Demon Hunters\", Netflix’s most-watched movie ever, enjoyed a spectacular drone show over Seoul on Sunday, where 1,200 drones illuminated the night sky with images of beloved characters and iconic South Korean landmarks. FRANCE 24’s Tommy Walker, Chloé Borgnon and Constantin Simon report.",
-      "url": "https://www.france24.com/en/asia-pacific/20250920-the-bright-side-kpop-demon-hunters-drone-show-delights-fans-in-seoul",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T12:47:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "c597c34e09713b82",
       "title_orig": "Passengers stranded across Jharkhand as Kurmi protest blocks rail routes",
       "summary_orig": "Passengers stranded across Jharkhand as Kurmi protest blocks rail routes",
@@ -1431,33 +1431,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "16eec0be99bb0403",
-      "title_orig": "Cyberattack disrupts major European airports, the latest from Brussels",
-      "summary_orig": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London. Dave Keating reports the latest from Brussels.",
-      "lang": "en",
-      "title_en": "Cyberattack disrupts major European airports, the latest from Brussels",
-      "summary_en": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London. Dave Keating reports the latest from Brussels.",
-      "title": "Cyberattack disrupts major European airports, the latest from Brussels",
-      "summary": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London. Dave Keating reports the latest from Brussels.",
-      "url": "https://www.france24.com/en/video/20250920-cyberattack-disrupts-major-european-airports-the-latest-from-brussels",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T12:36:49+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
     },
     {
       "id": "267c4292b033a21d",
@@ -1649,33 +1622,6 @@
       "geo": {}
     },
     {
-      "id": "65e263863272914b",
-      "title_orig": "Cyberattack causes flight delays, cancellations at major European airports",
-      "summary_orig": "At least three European air hubs including Brussels, Berlin and London’s busy Heathrow airport reported flight delays and cancellations because of a “cyber-related disruption” on Saturday, according to airport service provider Collins Aerospace.",
-      "lang": "en",
-      "title_en": "Cyberattack causes flight delays, cancellations at major European airports",
-      "summary_en": "At least three European air hubs including Brussels, Berlin and London’s busy Heathrow airport reported flight delays and cancellations because of a “cyber-related disruption” on Saturday, according to airport service provider Collins Aerospace.",
-      "title": "Cyberattack causes flight delays, cancellations at major European airports",
-      "summary": "At least three European air hubs including Brussels, Berlin and London’s busy Heathrow airport reported flight delays and cancellations because of a “cyber-related disruption” on Saturday, according to airport service provider Collins Aerospace.",
-      "url": "https://www.france24.com/en/europe/20250920-cyberattack-causes-flight-delays-cancellations-at-major-european-airports",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T11:52:29+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
       "id": "e3df754115d47df4",
       "title_orig": "Dublin Airport Terminal 2 reopens after passenfers evacuated due to \"safety concerns\" - recap",
       "summary_orig": "\"Flight operations may be temporarily impacted\"",
@@ -1784,24 +1730,6 @@
       "geo": {}
     },
     {
-      "id": "3031bd34c679e2ab",
-      "title_orig": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
-      "summary_orig": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defence”. Peter O'Brien reports.",
-      "lang": "en",
-      "title_en": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
-      "summary_en": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defence”. Peter O'Brien reports.",
-      "title": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
-      "summary": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defence”. Peter O'Brien reports.",
-      "url": "https://www.france24.com/en/video/20250920-venezuela-accuses-us-of-waging-undeclared-war-in-strikes-on-alleged-drug-traffickers",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T10:56:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "fb33e7dd322ba20f",
       "title_orig": "Cyberattack disrupts European airports including Heathrow, Brussels",
       "summary_orig": "A cyberattack on a provider of check-in and boarding systems has disrupted operations at several major European airports, including London’s Heathrow — the continent’s busiest — causing flight delays and cancellations on Saturday. Collins Aerospace, which provides systems for several airlines at airports globally, is experiencing a technical issue that may cause delays for departing passengers, Heathrow Airport said, having warned of delays. Brussels Airport and Berlin Airport were also affected by the attack, they said in separate statements. RTX, Collins Aerospace’s parent company, said it had become aware of a “cyber-related disruption” to its software at selected airports, without naming them. Electronic check-in affected “The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations,” RTX said in an e-mailed statement, adding that it was working to fix the issue as quickly as possible. The attack has rendered automated systems inoperable, allowing only manual check-in and boarding procedures, Brussels Airport said on its website, adding the incident had occurred on Friday night. “This has a large impact on the flight schedule and will unfortunately cause delays and cancellations of flights…The service provider is actively working on the issue and trying to resolve the problem as quickly as possible.” Passengers with a flight scheduled for Saturday were advised by the affected airports to confirm their travel with airlines before heading to the airport. Frankfurt Airport not impacted “Due to a technical issue at a system provider … there are longer waiting times at check-in. We are working on a quick solution,” Berlin Airport said in a banner on its website. Frankfurt Airport, Germany’s largest, was not affected, a spokesperson said. An official from the operations control centre at Zurich Airport also said it had not been impacted. EasyJet, among Europe’s biggest airlines, said it was currently operating as normal and did not expect the issue to impact its flights for the rest of the day.\nOther major airlines Ryanair and British Airways owner IAG did not immediately respond to Reuters’ requests for comment. There were no indications of threats to Polish airports, Deputy Prime Minister and Digital Affairs Minister Krzysztof Gawkowski said.",
@@ -1858,51 +1786,6 @@
       "url": "https://www.aljazeera.com/news/2025/9/20/cyberattack-hits-check-in-systems-at-some-of-europes-busiest-airports?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
       "published_at": "2025-09-20T10:45:50+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
-      "id": "55517d175354e1d5",
-      "title_orig": "More than 65,000 Palestinians killed in Gaza, troops press assault with tanks and drones",
-      "summary_orig": "Nearly half a million Palestinians have fled south from Gaza City since late August, the Israeli military said Friday as it pushes ahead with a deadly ground offensive into the famine-struck city. The UN estimated that around one million people were living in and around the city by late August. Simon Moritz reports.",
-      "lang": "en",
-      "title_en": "More than 65,000 Palestinians killed in Gaza, troops press assault with tanks and drones",
-      "summary_en": "Nearly half a million Palestinians have fled south from Gaza City since late August, the Israeli military said Friday as it pushes ahead with a deadly ground offensive into the famine-struck city. The UN estimated that around one million people were living in and around the city by late August. Simon Moritz reports.",
-      "title": "More than 65,000 Palestinians killed in Gaza, troops press assault with tanks and drones",
-      "summary": "Nearly half a million Palestinians have fled south from Gaza City since late August, the Israeli military said Friday as it pushes ahead with a deadly ground offensive into the famine-struck city. The UN estimated that around one million people were living in and around the city by late August. Simon Moritz reports.",
-      "url": "https://www.france24.com/en/video/20250920-over-65-000-palestinians-killed-in-gaza-troops-press-assault-with-tanks-and-drones",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T10:45:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "9dfb95e3715c8556",
-      "title_orig": "Cyberattack disrupts European airports: Brussels, Berlin, Heathrow among affected",
-      "summary_orig": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London.",
-      "lang": "en",
-      "title_en": "Cyberattack disrupts European airports: Brussels, Berlin, Heathrow among affected",
-      "summary_en": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London.",
-      "title": "Cyberattack disrupts European airports: Brussels, Berlin, Heathrow among affected",
-      "summary": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London.",
-      "url": "https://www.france24.com/en/video/20250920-cyberattack-disrupts-european-airports-brussels-berlin-heathrow-among-affected",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T10:44:29+00:00",
       "tags": [
         "LHR",
         "United Kingdom",
@@ -2405,24 +2288,6 @@
       }
     },
     {
-      "id": "a472189a74c62b2f",
-      "title_orig": "Ukraine develops its drone industry as it seeks to triple production",
-      "summary_orig": "Ukrainian troops are pressing on with the counteroffensive in the east. President Zelensky says they have managed to push back some Russian drones. Ukraine continues to rely on weapons from its Western allies but is also investing in its own defense industry, particularly in the production of drones. Solange Mougin  and Axelle Simon report.",
-      "lang": "en",
-      "title_en": "Ukraine develops its drone industry as it seeks to triple production",
-      "summary_en": "Ukrainian troops are pressing on with the counteroffensive in the east. President Zelensky says they have managed to push back some Russian drones. Ukraine continues to rely on weapons from its Western allies but is also investing in its own defense industry, particularly in the production of drones. Solange Mougin  and Axelle Simon report.",
-      "title": "Ukraine develops its drone industry as it seeks to triple production",
-      "summary": "Ukrainian troops are pressing on with the counteroffensive in the east. President Zelensky says they have managed to push back some Russian drones. Ukraine continues to rely on weapons from its Western allies but is also investing in its own defense industry, particularly in the production of drones. Solange Mougin  and Axelle Simon report.",
-      "url": "https://www.france24.com/en/video/20250920-ukraine-develops-its-drone-industry-as-it-seeks-to-triple-production",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T08:58:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "eb056bfcbe1dbce9",
       "title_orig": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
       "summary_orig": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
@@ -2434,42 +2299,6 @@
       "url": "https://www.theguardian.com/politics/2025/sep/20/zarah-sultana-consults-defamation-lawyers-after-spat-with-jeremy-corbyn-over-party-funds",
       "source": "UK news | The Guardian",
       "published_at": "2025-09-20T08:57:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f0c1b64c77e3c458",
-      "title_orig": "US: Fallout continues after Charlie Kirk's assassination",
-      "summary_orig": "The fallout continues after the assassination of conservative activist Charlie Kirk. In recent days, there have also been freedom of speech protests following the removal of Jimmy Kimmel Live from ABC’s schedule over Kirk’s comments. Kirk’s funeral is scheduled for Sunday in Arizona, with President Trump expected to attend. Peter O’Brian has the latest.",
-      "lang": "en",
-      "title_en": "US: Fallout continues after Charlie Kirk's assassination",
-      "summary_en": "The fallout continues after the assassination of conservative activist Charlie Kirk. In recent days, there have also been freedom of speech protests following the removal of Jimmy Kimmel Live from ABC’s schedule over Kirk’s comments. Kirk’s funeral is scheduled for Sunday in Arizona, with President Trump expected to attend. Peter O’Brian has the latest.",
-      "title": "US: Fallout continues after Charlie Kirk's assassination",
-      "summary": "The fallout continues after the assassination of conservative activist Charlie Kirk. In recent days, there have also been freedom of speech protests following the removal of Jimmy Kimmel Live from ABC’s schedule over Kirk’s comments. Kirk’s funeral is scheduled for Sunday in Arizona, with President Trump expected to attend. Peter O’Brian has the latest.",
-      "url": "https://www.france24.com/en/video/20250920-us-fallout-continues-after-charlie-kirk-s-assassination",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T08:55:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "eb58b4bd61e421fb",
-      "title_orig": "US forces strike third alleged drug vessel killing three, Trump says",
-      "summary_orig": "President Donald Trump announced that US forces conducted a “lethal kinetic strike” on a vessel allegedly trafficking drugs, killing three “male narcoterrorists” on board. He said he authorized the operation, carried out within the US Southern Command’s jurisdiction, after intelligence confirmed the boat’s involvement in drug smuggling. This marks the third such strike on suspected narcotics vessels in recent weeks. Postdoctoral researcher Emilia Ziosi from the University of Oxford’s Department of Sociology joins us for more.",
-      "lang": "en",
-      "title_en": "US forces strike third alleged drug vessel killing three, Trump says",
-      "summary_en": "President Donald Trump announced that US forces conducted a “lethal kinetic strike” on a vessel allegedly trafficking drugs, killing three “male narcoterrorists” on board. He said he authorized the operation, carried out within the US Southern Command’s jurisdiction, after intelligence confirmed the boat’s involvement in drug smuggling. This marks the third such strike on suspected narcotics vessels in recent weeks. Postdoctoral researcher Emilia Ziosi from the University of Oxford’s Department of Sociology joins us for more.",
-      "title": "US forces strike third alleged drug vessel killing three, Trump says",
-      "summary": "President Donald Trump announced that US forces conducted a “lethal kinetic strike” on a vessel allegedly trafficking drugs, killing three “male narcoterrorists” on board. He said he authorized the operation, carried out within the US Southern Command’s jurisdiction, after intelligence confirmed the boat’s involvement in drug smuggling. This marks the third such strike on suspected narcotics vessels in recent weeks. Postdoctoral researcher Emilia Ziosi from the University of Oxford’s Department of Sociology joins us for more.",
-      "url": "https://www.france24.com/en/video/20250920-us-forces-strike-third-alleged-drug-vessel-killing-three-trump-says",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T08:53:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2708,24 +2537,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "06e35e395c497ef5",
-      "title_orig": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
-      "summary_orig": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
-      "lang": "en",
-      "title_en": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
-      "summary_en": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
-      "title": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
-      "summary": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
-      "url": "https://www.france24.com/en/video/20250920-many-of-us-knew-that-the-second-term-of-donald-trump-would-be-much-more-dangerous-than-the-first",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T07:27:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3657,24 +3468,6 @@
       "geo": {}
     },
     {
-      "id": "e5344e550442aaa1",
-      "title_orig": "Edinburgh Airport: New pay deal averts threatened strike action",
-      "summary_orig": "Threatened strike action at Edinburgh Airport has been averted after more than 100 staff backed a new pay offer.",
-      "lang": "en",
-      "title_en": "Edinburgh Airport: New pay deal averts threatened strike action",
-      "summary_en": "Threatened strike action at Edinburgh Airport has been averted after more than 100 staff backed a new pay offer.",
-      "title": "Edinburgh Airport: New pay deal averts threatened strike action",
-      "summary": "Threatened strike action at Edinburgh Airport has been averted after more than 100 staff backed a new pay offer.",
-      "url": "https://www.edinburghnews.scotsman.com/news/edinburgh-airport-new-pay-deal-averts-threatened-strike-action-5326567",
-      "source": "Edinburgh News",
-      "published_at": "2025-09-19T17:21:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5c0eeb7225eac816",
       "title_orig": "Estonia says Russian fighter jets breached its airspace in ‘brazen’ incursion",
       "summary_orig": "Three Russian military aircraft violated Nato member Estonia’s airspace on Friday for 12 minutes in an “unprecedentedly brazen” incursion, its government said, amid rising tensions on the alliance’s eastern flank.\nThe incident comes just over a week after more than 20 Russian drones entered Polish airspace on the night of September 9-10, prompting Nato aircraft to shoot down some of them and Western officials to say Russia was testing the alliance’s readiness and resolve.\nIt also comes three...",
@@ -4221,78 +4014,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "dc01305b524020cb",
-      "title_orig": "Hong Kong to evacuate 6,000 after WWII-era bomb found",
-      "summary_orig": "HONG KONG: Hong Kong planned to evacuate thousands of residents on Friday as a bomb left over from World War II was discovered at a construction site.\n\tPolice said that the bomb measured approximately 1.5 meters (4.9 feet) in length and weighed about 450 kilograms (1,000 pounds), adding that they believed it remained “fully functional.”\n\t“Due to the extremely high risks involved in dismantling and disposing of the bomb, we must activate the emergency evacuation plan,” said Hong Kong Police’s district commander Andy Chan.",
-      "lang": "en",
-      "title_en": "Hong Kong to evacuate 6,000 after WWII-era bomb found",
-      "summary_en": "HONG KONG: Hong Kong planned to evacuate thousands of residents on Friday as a bomb left over from World War II was discovered at a construction site.\n\tPolice said that the bomb measured approximately 1.5 meters (4.9 feet) in length and weighed about 450 kilograms (1,000 pounds), adding that they believed it remained “fully functional.”\n\t“Due to the extremely high risks involved in dismantling and disposing of the bomb, we must activate the emergency evacuation plan,” said Hong Kong Police’s district commander Andy Chan.",
-      "title": "Hong Kong to evacuate 6,000 after WWII-era bomb found",
-      "summary": "HONG KONG: Hong Kong planned to evacuate thousands of residents on Friday as a bomb left over from World War II was discovered at a construction site.\n\tPolice said that the bomb measured approximately 1.5 meters (4.9 feet) in length and weighed about 450 kilograms (1,000 pounds), adding that they believed it remained “fully functional.”\n\t“Due to the extremely high risks involved in dismantling and disposing of the bomb, we must activate the emergency evacuation plan,” said Hong Kong Police’s district commander Andy Chan.",
-      "url": "https://www.arabnews.com/node/2615949/world",
-      "source": "ArabNews",
-      "published_at": "2025-09-19T01:09:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bb8a292b817a68a4",
-      "title_orig": "Massive Attack join Israel boycott campaign",
-      "summary_orig": "PARIS: British trip-hop group Massive Attack announced they are joining a new music industry initiative to block their music in Israel and have also asked for their songs to be removed from Spotify.\n\tThe Bristol natives said they had joined “No Music for Genocide,” a collective of musicians modelled on the “Film Workers for Palestine” group, which has also called for a cultural boycott of Israel over the war in Gaza.",
-      "lang": "en",
-      "title_en": "Massive Attack join Israel boycott campaign",
-      "summary_en": "PARIS: British trip-hop group Massive Attack announced they are joining a new music industry initiative to block their music in Israel and have also asked for their songs to be removed from Spotify.\n\tThe Bristol natives said they had joined “No Music for Genocide,” a collective of musicians modelled on the “Film Workers for Palestine” group, which has also called for a cultural boycott of Israel over the war in Gaza.",
-      "title": "Massive Attack join Israel boycott campaign",
-      "summary": "PARIS: British trip-hop group Massive Attack announced they are joining a new music industry initiative to block their music in Israel and have also asked for their songs to be removed from Spotify.\n\tThe Bristol natives said they had joined “No Music for Genocide,” a collective of musicians modelled on the “Film Workers for Palestine” group, which has also called for a cultural boycott of Israel over the war in Gaza.",
-      "url": "https://www.arabnews.com/node/2615951/world",
-      "source": "ArabNews",
-      "published_at": "2025-09-19T01:09:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3b897d33fc777d8a",
-      "title_orig": "Israeli strike on south Lebanon kills one: ministry",
-      "summary_orig": "BEIRUT: An Israeli strike on southern Lebanon killed one person and wounded three others on Friday, Lebanon’s health ministry said, in the latest attack despite a ceasefire between Israel and Hezbollah.\n\tIn a statement, the ministry said that an “Israeli airstrike on a vehicle” in Tibnin, southern Lebanon killed one person and wounded three, describing it as a preliminary toll.\n\tThe Israeli army did not immediately comment on the incident.\n\tThe attack comes a day after Israel bombed several southern Lebanese towns it had warned residents to evacuate.",
-      "lang": "en",
-      "title_en": "Israeli strike on south Lebanon kills one: ministry",
-      "summary_en": "BEIRUT: An Israeli strike on southern Lebanon killed one person and wounded three others on Friday, Lebanon’s health ministry said, in the latest attack despite a ceasefire between Israel and Hezbollah.\n\tIn a statement, the ministry said that an “Israeli airstrike on a vehicle” in Tibnin, southern Lebanon killed one person and wounded three, describing it as a preliminary toll.\n\tThe Israeli army did not immediately comment on the incident.\n\tThe attack comes a day after Israel bombed several southern Lebanese towns it had warned residents to evacuate.",
-      "title": "Israeli strike on south Lebanon kills one: ministry",
-      "summary": "BEIRUT: An Israeli strike on southern Lebanon killed one person and wounded three others on Friday, Lebanon’s health ministry said, in the latest attack despite a ceasefire between Israel and Hezbollah.\n\tIn a statement, the ministry said that an “Israeli airstrike on a vehicle” in Tibnin, southern Lebanon killed one person and wounded three, describing it as a preliminary toll.\n\tThe Israeli army did not immediately comment on the incident.\n\tThe attack comes a day after Israel bombed several southern Lebanese towns it had warned residents to evacuate.",
-      "url": "https://www.arabnews.com/node/2615946/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-19T00:09:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b805f482083b251c",
-      "title_orig": "World Court says Mali drone case can’t proceed without Algeria accepting jurisdiction",
-      "summary_orig": "THE HAGUE: The International Court of Justice said on Friday that Mali’s application for a case against neighboring Algeria over the shooting down of a Malian military drone could only proceed if Algeria accepts the court’s jurisdiction.\n\tMali’s accusation that Algeria deliberately shot down the drone along their shared desert border during the night of March 31 to April 1 led to a diplomatic crisis.",
-      "lang": "en",
-      "title_en": "World Court says Mali drone case can’t proceed without Algeria accepting jurisdiction",
-      "summary_en": "THE HAGUE: The International Court of Justice said on Friday that Mali’s application for a case against neighboring Algeria over the shooting down of a Malian military drone could only proceed if Algeria accepts the court’s jurisdiction.\n\tMali’s accusation that Algeria deliberately shot down the drone along their shared desert border during the night of March 31 to April 1 led to a diplomatic crisis.",
-      "title": "World Court says Mali drone case can’t proceed without Algeria accepting jurisdiction",
-      "summary": "THE HAGUE: The International Court of Justice said on Friday that Mali’s application for a case against neighboring Algeria over the shooting down of a Malian military drone could only proceed if Algeria accepts the court’s jurisdiction.\n\tMali’s accusation that Algeria deliberately shot down the drone along their shared desert border during the night of March 31 to April 1 led to a diplomatic crisis.",
-      "url": "https://www.arabnews.com/node/2615942/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-19T00:09:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -4892,6 +4613,42 @@
       "url": "https://www.latimes.com/business/story/2025-09-04/indonesias-protests-over-the-economy-turn-to-police-brutality",
       "source": "World & Nation",
       "published_at": "2025-09-04T20:15:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2fc44d32f8bb4ddf",
+      "title_orig": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary_orig": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "lang": "en",
+      "title_en": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary_en": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "title": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "url": "https://www.arabnews.com/node/2614110/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T22:09:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "21fb050645000980",
+      "title_orig": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary_orig": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "lang": "en",
+      "title_en": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary_en": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "title": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "url": "https://www.arabnews.com/node/2614106/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T22:09:41+00:00",
       "tags": [
         "airport/security"
       ],
