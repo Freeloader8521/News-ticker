@@ -1,18 +1,45 @@
 {
-  "generated_at": "2025-09-20T17:43:13.226521+00:00",
+  "generated_at": "2025-09-20T18:47:27.277918+00:00",
   "items": [
     {
-      "id": "e7ac3fb819f2ccae",
-      "title_orig": "Heathrow and Other Airports in Europe Are Slowed by Cyberattack",
-      "summary_orig": "A disruption to check-in and boarding systems used by multiple airports had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
+      "id": "c65f2da2475735bb",
+      "title_orig": "'Knock-on delays' at Dublin Airport after evacuation",
+      "summary_orig": "The terminal reopened at 1:30pm, with flights expected to resume at around 2pm.",
       "lang": "en",
-      "title_en": "Heathrow and Other Airports in Europe Are Slowed by Cyberattack",
-      "summary_en": "A disruption to check-in and boarding systems used by multiple airports had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
-      "title": "Heathrow and Other Airports in Europe Are Slowed by Cyberattack",
-      "summary": "A disruption to check-in and boarding systems used by multiple airports had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
-      "url": "https://www.nytimes.com/2025/09/20/world/europe/europe-airports-delays-brussels-london-berlin.html",
-      "source": "NYT > World News",
-      "published_at": "2025-09-20T17:29:57+00:00",
+      "title_en": "'Knock-on delays' at Dublin Airport after evacuation",
+      "summary_en": "The terminal reopened at 1:30pm, with flights expected to resume at around 2pm.",
+      "title": "'Knock-on delays' at Dublin Airport after evacuation",
+      "summary": "The terminal reopened at 1:30pm, with flights expected to resume at around 2pm.",
+      "url": "https://www.thejournal.ie/dublin-airport-delays-5-6822572-Sep2025/",
+      "source": "TheJournal.ie",
+      "published_at": "2025-09-20T18:27:00+00:00",
+      "tags": [
+        "DUB",
+        "Ireland",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dublin",
+        "city": "Dublin",
+        "country": "Ireland",
+        "iata": "DUB",
+        "lat": 53.4213,
+        "lon": -6.2701
+      }
+    },
+    {
+      "id": "1f7ecb4c208b83b5",
+      "title_orig": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
+      "summary_orig": "Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected Flights have been delayed and cancelled at three major European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and boarding said it was hit by a cyber-attack. Airports in Brussels and Berlin are also experiencing delays and disruption after the issue affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
+      "lang": "en",
+      "title_en": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
+      "summary_en": "Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected Flights have been delayed and cancelled at three major European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and boarding said it was hit by a cyber-attack. Airports in Brussels and Berlin are also experiencing delays and disruption after the issue affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
+      "title": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
+      "summary": "Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected Flights have been delayed and cancelled at three major European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and boarding said it was hit by a cyber-attack. Airports in Brussels and Berlin are also experiencing delays and disruption after the issue affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-20T18:18:18+00:00",
       "tags": [
         "LHR",
         "United Kingdom",
@@ -27,6 +54,105 @@
         "lat": 51.47,
         "lon": -0.4543
       }
+    },
+    {
+      "id": "2cc42ef9da64c0b1",
+      "title_orig": "Estonia seeks Nato consultation after Russian jets violate airspace",
+      "summary_orig": "Estonia has called for consultations with NATO allies after three Russian MiG-31 fighter jets entered its airspace over the Gulf of Finland for 12 minutes on Friday without authorization. In response, Italy, Finland, and Sweden scrambled jets as part of NATO’s mission to strengthen its eastern flank. A NATO spokesperson condemned the incident as another display of “reckless Russian behaviour” and highlighted the alliance’s readiness to react. While Russia denied the violation, the event comes amid rising tensions, with Poland and Romania recently reporting incursions by Russian drones into their airspace. Estonian ambassador to France, Viljar Lubi, joins us for more, together with Alexandre Vautravers, Editor-in-chief of the Revue militaire Suisse, from Geneva.",
+      "lang": "en",
+      "title_en": "Estonia seeks Nato consultation after Russian jets violate airspace",
+      "summary_en": "Estonia has called for consultations with NATO allies after three Russian MiG-31 fighter jets entered its airspace over the Gulf of Finland for 12 minutes on Friday without authorization. In response, Italy, Finland, and Sweden scrambled jets as part of NATO’s mission to strengthen its eastern flank. A NATO spokesperson condemned the incident as another display of “reckless Russian behaviour” and highlighted the alliance’s readiness to react. While Russia denied the violation, the event comes amid rising tensions, with Poland and Romania recently reporting incursions by Russian drones into their airspace. Estonian ambassador to France, Viljar Lubi, joins us for more, together with Alexandre Vautravers, Editor-in-chief of the Revue militaire Suisse, from Geneva.",
+      "title": "Estonia seeks Nato consultation after Russian jets violate airspace",
+      "summary": "Estonia has called for consultations with NATO allies after three Russian MiG-31 fighter jets entered its airspace over the Gulf of Finland for 12 minutes on Friday without authorization. In response, Italy, Finland, and Sweden scrambled jets as part of NATO’s mission to strengthen its eastern flank. A NATO spokesperson condemned the incident as another display of “reckless Russian behaviour” and highlighted the alliance’s readiness to react. While Russia denied the violation, the event comes amid rising tensions, with Poland and Romania recently reporting incursions by Russian drones into their airspace. Estonian ambassador to France, Viljar Lubi, joins us for more, together with Alexandre Vautravers, Editor-in-chief of the Revue militaire Suisse, from Geneva.",
+      "url": "https://www.france24.com/en/video/20250920-estonia-seeks-nato-consultation-after-russian-jets-violate-airspace",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T18:13:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "cb1c9ec2ef810936",
+      "title_orig": "Collins Aerospace ‘cyber attack’ latest in series of incidents at UK airports",
+      "summary_orig": "Several international airports are experiencing disruption on Saurday after an alleged cyber attack on a technical partner.",
+      "lang": "en",
+      "title_en": "Collins Aerospace ‘cyber attack’ latest in series of incidents at UK airports",
+      "summary_en": "Several international airports are experiencing disruption on Saurday after an alleged cyber attack on a technical partner.",
+      "title": "Collins Aerospace ‘cyber attack’ latest in series of incidents at UK airports",
+      "summary": "Several international airports are experiencing disruption on Saurday after an alleged cyber attack on a technical partner.",
+      "url": "https://www.standard.co.uk/news/tech/london-heathrow-airport-nats-berlin-stansted-airport-brussels-airport-b1248814.html",
+      "source": "The Standard News",
+      "published_at": "2025-09-20T17:59:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6ef8753c8974eb50",
+      "title_orig": "Pentagon imposes new restrictions on US media",
+      "summary_orig": "The Pentagon has unveiled new restrictions on United States’s media covering American military, requiring them to pledge not to disclose anything not formally authorised for publication and limiting their movements within the Department of War. The new guidelines, laid out in a lengthy memo distributed to reporters on Friday, require them to sign an affidavit promising to comply, or risk losing their media credentials. The move is the latest by the administration of President Donald Trump to control media coverage of his policies, after he suggested that negative stories could be “illegal.” The Pentagon “remains committed to transparency to promote accountability and public trust,” the memo says. But it adds: “Information must be approved for public release by an appropriate authorising official before it is released, even if it is unclassified”, effectively barring material sourced to unnamed officials. This new restriction would apply to both classified and “controlled unclassified information.” The memo also details sweeping new restrictions on where Pentagon reporters can actually go without official escorts within the military’s vast headquarters just outside Washington. “The ‘press’ does not run the Pentagon — the people do,” Defence Secretary Pete Hegseth wrote on X. “The press is no longer allowed to roam the halls of a secure facility. Wear a badge and follow the rules — or go home.” The new rules come months after Hegseth faced stark criticism for revealing timings of US air strikes on Yemen’s Houthis in a Signal group chat that inadvertently included a reporter. Hegseth, a former Fox News co-host and Army National Guard veteran, was also reported to have shared those details in a separate Signal group chain that included his wife. A spokesperson for The New York Times — a frequent target of Trump’s ire — called the new rules “yet another step in a concerning pattern of reducing access to what the US military is undertaking at taxpayer expense.” National Press Club President Mike Balsamo hit out at the new rules, and called on the Pentagon to quickly rescind them. “If the news about our military must first be approved by the government, then the public is no longer getting independent reporting,” Balsamo said in a statement. “It is getting only what officials want them to see. That should alarm every American.” Trump terms his negative media coverage ‘illegal’ A day prior, Trump bashed US media coverage that he claimed was unduly negative and therefore “illegal,” stoking a debate over free speech following the suspension of comedian Jimmy Kimmel’s TV show by ABC . “They’ll take a great story and they’ll make it bad. See, I think it’s really illegal, personally,” Trump, who has sued multiple major news organisations this year, told reporters gathered in the Oval Office. The 79-year-old Republican, an avid television watcher, chiefly focused his diatribe on US television networks, reiterating a claim that coverage of him and his administration is “97 per cent bad”. He also defended the head of the Federal Communications Commission (FCC), Brendan Carr, whose threats against broadcasters have sparked a national debate over free speech and caused some unease even among Republicans. Carr on Wednesday criticised Kimmel’s remarks on the assassination of conservative activist Charlie Kirk and threatened broadcasters who carry his show with possible sanctions. Hours later, ABC announced Kimmel’s show was suspended indefinitely. On Friday, Trump called Carr “an incredible American patriot with courage.” Texas Senator Ted Cruz, a close Trump ally, meanwhile, said he believes it’s dangerous for a government to put itself in a position to say what speech it may or may not like. Commenting on Carr’s threat to fine broadcasters or pull their licenses over the content of their shows, Cruz referenced a Martin Scorsese gangster movie. “I got to say that’s right out of Goodfellas ,” Cruz said. “That’s right out of a mafioso coming into a bar, going, ‘Nice bar you have here. It would be a shame if something happened to it.’” Trump himself faced a setback in his personal anti-media crusade, with a federal judge issuing a scathing ruling and tossing out his $15 billion defamation lawsuit against The New York Times.",
+      "lang": "en",
+      "title_en": "Pentagon imposes new restrictions on US media",
+      "summary_en": "The Pentagon has unveiled new restrictions on United States’s media covering American military, requiring them to pledge not to disclose anything not formally authorised for publication and limiting their movements within the Department of War. The new guidelines, laid out in a lengthy memo distributed to reporters on Friday, require them to sign an affidavit promising to comply, or risk losing their media credentials. The move is the latest by the administration of President Donald Trump to control media coverage of his policies, after he suggested that negative stories could be “illegal.” The Pentagon “remains committed to transparency to promote accountability and public trust,” the memo says. But it adds: “Information must be approved for public release by an appropriate authorising official before it is released, even if it is unclassified”, effectively barring material sourced to unnamed officials. This new restriction would apply to both classified and “controlled unclassified information.” The memo also details sweeping new restrictions on where Pentagon reporters can actually go without official escorts within the military’s vast headquarters just outside Washington. “The ‘press’ does not run the Pentagon — the people do,” Defence Secretary Pete Hegseth wrote on X. “The press is no longer allowed to roam the halls of a secure facility. Wear a badge and follow the rules — or go home.” The new rules come months after Hegseth faced stark criticism for revealing timings of US air strikes on Yemen’s Houthis in a Signal group chat that inadvertently included a reporter. Hegseth, a former Fox News co-host and Army National Guard veteran, was also reported to have shared those details in a separate Signal group chain that included his wife. A spokesperson for The New York Times — a frequent target of Trump’s ire — called the new rules “yet another step in a concerning pattern of reducing access to what the US military is undertaking at taxpayer expense.” National Press Club President Mike Balsamo hit out at the new rules, and called on the Pentagon to quickly rescind them. “If the news about our military must first be approved by the government, then the public is no longer getting independent reporting,” Balsamo said in a statement. “It is getting only what officials want them to see. That should alarm every American.” Trump terms his negative media coverage ‘illegal’ A day prior, Trump bashed US media coverage that he claimed was unduly negative and therefore “illegal,” stoking a debate over free speech following the suspension of comedian Jimmy Kimmel’s TV show by ABC . “They’ll take a great story and they’ll make it bad. See, I think it’s really illegal, personally,” Trump, who has sued multiple major news organisations this year, told reporters gathered in the Oval Office. The 79-year-old Republican, an avid television watcher, chiefly focused his diatribe on US television networks, reiterating a claim that coverage of him and his administration is “97 per cent bad”. He also defended the head of the Federal Communications Commission (FCC), Brendan Carr, whose threats against broadcasters have sparked a national debate over free speech and caused some unease even among Republicans. Carr on Wednesday criticised Kimmel’s remarks on the assassination of conservative activist Charlie Kirk and threatened broadcasters who carry his show with possible sanctions. Hours later, ABC announced Kimmel’s show was suspended indefinitely. On Friday, Trump called Carr “an incredible American patriot with courage.” Texas Senator Ted Cruz, a close Trump ally, meanwhile, said he believes it’s dangerous for a government to put itself in a position to say what speech it may or may not like. Commenting on Carr’s threat to fine broadcasters or pull their licenses over the content of their shows, Cruz referenced a Martin Scorsese gangster movie. “I got to say that’s right out of Goodfellas ,” Cruz said. “That’s right out of a mafioso coming into a bar, going, ‘Nice bar you have here. It would be a shame if something happened to it.’” Trump himself faced a setback in his personal anti-media crusade, with a federal judge issuing a scathing ruling and tossing out his $15 billion defamation lawsuit against The New York Times.",
+      "title": "Pentagon imposes new restrictions on US media",
+      "summary": "The Pentagon has unveiled new restrictions on United States’s media covering American military, requiring them to pledge not to disclose anything not formally authorised for publication and limiting their movements within the Department of War. The new guidelines, laid out in a lengthy memo distributed to reporters on Friday, require them to sign an affidavit promising to comply, or risk losing their media credentials. The move is the latest by the administration of President Donald Trump to control media coverage of his policies, after he suggested that negative stories could be “illegal.” The Pentagon “remains committed to transparency to promote accountability and public trust,” the memo says. But it adds: “Information must be approved for public release by an appropriate authorising official before it is released, even if it is unclassified”, effectively barring material sourced to unnamed officials. This new restriction would apply to both classified and “controlled unclassified information.” The memo also details sweeping new restrictions on where Pentagon reporters can actually go without official escorts within the military’s vast headquarters just outside Washington. “The ‘press’ does not run the Pentagon — the people do,” Defence Secretary Pete Hegseth wrote on X. “The press is no longer allowed to roam the halls of a secure facility. Wear a badge and follow the rules — or go home.” The new rules come months after Hegseth faced stark criticism for revealing timings of US air strikes on Yemen’s Houthis in a Signal group chat that inadvertently included a reporter. Hegseth, a former Fox News co-host and Army National Guard veteran, was also reported to have shared those details in a separate Signal group chain that included his wife. A spokesperson for The New York Times — a frequent target of Trump’s ire — called the new rules “yet another step in a concerning pattern of reducing access to what the US military is undertaking at taxpayer expense.” National Press Club President Mike Balsamo hit out at the new rules, and called on the Pentagon to quickly rescind them. “If the news about our military must first be approved by the government, then the public is no longer getting independent reporting,” Balsamo said in a statement. “It is getting only what officials want them to see. That should alarm every American.” Trump terms his negative media coverage ‘illegal’ A day prior, Trump bashed US media coverage that he claimed was unduly negative and therefore “illegal,” stoking a debate over free speech following the suspension of comedian Jimmy Kimmel’s TV show by ABC . “They’ll take a great story and they’ll make it bad. See, I think it’s really illegal, personally,” Trump, who has sued multiple major news organisations this year, told reporters gathered in the Oval Office. The 79-year-old Republican, an avid television watcher, chiefly focused his diatribe on US television networks, reiterating a claim that coverage of him and his administration is “97 per cent bad”. He also defended the head of the Federal Communications Commission (FCC), Brendan Carr, whose threats against broadcasters have sparked a national debate over free speech and caused some unease even among Republicans. Carr on Wednesday criticised Kimmel’s remarks on the assassination of conservative activist Charlie Kirk and threatened broadcasters who carry his show with possible sanctions. Hours later, ABC announced Kimmel’s show was suspended indefinitely. On Friday, Trump called Carr “an incredible American patriot with courage.” Texas Senator Ted Cruz, a close Trump ally, meanwhile, said he believes it’s dangerous for a government to put itself in a position to say what speech it may or may not like. Commenting on Carr’s threat to fine broadcasters or pull their licenses over the content of their shows, Cruz referenced a Martin Scorsese gangster movie. “I got to say that’s right out of Goodfellas ,” Cruz said. “That’s right out of a mafioso coming into a bar, going, ‘Nice bar you have here. It would be a shame if something happened to it.’” Trump himself faced a setback in his personal anti-media crusade, with a federal judge issuing a scathing ruling and tossing out his $15 billion defamation lawsuit against The New York Times.",
+      "url": "https://www.dawn.com/news/1943443/pentagon-imposes-new-restrictions-on-us-media",
+      "source": "Dawn - Home",
+      "published_at": "2025-09-20T17:45:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e7ac3fb819f2ccae",
+      "title_orig": "Cyberattack Causes Delays at Heathrow and Other Airports in Europe",
+      "summary_orig": "A disruption to check-in and boarding systems used by multiple airports had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
+      "lang": "en",
+      "title_en": "Cyberattack Causes Delays at Heathrow and Other Airports in Europe",
+      "summary_en": "A disruption to check-in and boarding systems used by multiple airports had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
+      "title": "Cyberattack Causes Delays at Heathrow and Other Airports in Europe",
+      "summary": "A disruption to check-in and boarding systems used by multiple airports had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
+      "url": "https://www.nytimes.com/2025/09/20/world/europe/europe-airports-delays-brussels-london-berlin.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-20T17:36:39+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "fdc79277e1336887",
+      "title_orig": "The Encampments: Inside the US student protests for Gaza",
+      "summary_orig": "When students at Columbia University in the United States protest against the war on Gaza, they spark a global movement.",
+      "lang": "en",
+      "title_en": "The Encampments: Inside the US student protests for Gaza",
+      "summary_en": "When students at Columbia University in the United States protest against the war on Gaza, they spark a global movement.",
+      "title": "The Encampments: Inside the US student protests for Gaza",
+      "summary": "When students at Columbia University in the United States protest against the war on Gaza, they spark a global movement.",
+      "url": "https://www.aljazeera.com/video/witness/2025/9/20/the-encampments-inside-the-us-student-protests-for-gaza?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-20T17:30:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
     },
     {
       "id": "53c9ee22caaf3dde",
@@ -173,24 +299,6 @@
       "geo": {}
     },
     {
-      "id": "35976aa17ed78dc7",
-      "title_orig": "Mbappé and Militão strike from distance as Real Madrid deals Espanyol first loss",
-      "summary_orig": "BARCELONA, Spain (AP) — Kylian Mbappé and Éder Militão scored from well outside the area to help Real Madrid ease…",
-      "lang": "en",
-      "title_en": "Mbappé and Militão strike from distance as Real Madrid deals Espanyol first loss",
-      "summary_en": "BARCELONA, Spain (AP) — Kylian Mbappé and Éder Militão scored from well outside the area to help Real Madrid ease…",
-      "title": "Mbappé and Militão strike from distance as Real Madrid deals Espanyol first loss",
-      "summary": "BARCELONA, Spain (AP) — Kylian Mbappé and Éder Militão scored from well outside the area to help Real Madrid ease…",
-      "url": "https://wtop.com/sports/2025/09/mbappe-and-militao-strike-from-distance-as-real-madrid-deals-espanyol-first-loss/",
-      "source": "WTOP News",
-      "published_at": "2025-09-20T17:02:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "66d9f07f9b74ac07",
       "title_orig": "Dutch police clash with anti-immigration protesters in The Hague",
       "summary_orig": "Police use teargas and water cannon to disperse violent demonstrators who block highway and smash windows at centre-left D66 party’s HQ Dutch police have used teargas and a water cannon to disperse violent anti-immigration protesters in The Hague on Saturday, a local government spokesperson has said. Thousands of people joined a protest organised by a rightwing activist demanding stricter immigration policies and a clampdown on asylum seekers, just over a month before a national election. Continue reading...",
@@ -206,6 +314,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "c68fc39ca3eeaa40",
+      "title_orig": "Ukraine’s drones target refineries, pumping stations in Russia",
+      "summary_orig": "Ukrainian military forces since August have intensified drone attacks on Russian energy infrastructure.",
+      "lang": "en",
+      "title_en": "Ukraine’s drones target refineries, pumping stations in Russia",
+      "summary_en": "Ukrainian military forces since August have intensified drone attacks on Russian energy infrastructure.",
+      "title": "Ukraine’s drones target refineries, pumping stations in Russia",
+      "summary": "Ukrainian military forces since August have intensified drone attacks on Russian energy infrastructure.",
+      "url": "https://www.straitstimes.com/world/europe/ukraines-drones-target-refineries-pumping-stations-in-russia",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-20T16:50:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -233,33 +359,6 @@
         "iata": "LHR",
         "lat": 51.47,
         "lon": -0.4543
-      }
-    },
-    {
-      "id": "c65f2da2475735bb",
-      "title_orig": "'Knock-on delays' at Dublin Airport after evacuation",
-      "summary_orig": "The terminal reopened at 1:30pm, with flights expected to resume at around 2pm.",
-      "lang": "en",
-      "title_en": "'Knock-on delays' at Dublin Airport after evacuation",
-      "summary_en": "The terminal reopened at 1:30pm, with flights expected to resume at around 2pm.",
-      "title": "'Knock-on delays' at Dublin Airport after evacuation",
-      "summary": "The terminal reopened at 1:30pm, with flights expected to resume at around 2pm.",
-      "url": "https://www.thejournal.ie/dublin-airport-delays-5-6822572-Sep2025/",
-      "source": "TheJournal.ie",
-      "published_at": "2025-09-20T16:28:10+00:00",
-      "tags": [
-        "DUB",
-        "Ireland",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Dublin",
-        "city": "Dublin",
-        "country": "Ireland",
-        "iata": "DUB",
-        "lat": 53.4213,
-        "lon": -6.2701
       }
     },
     {
@@ -589,24 +688,6 @@
       "url": "https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-09-20T15:30:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6ef8753c8974eb50",
-      "title_orig": "Pentagon imposes new restrictions on US media",
-      "summary_orig": "The Pentagon has unveiled new restrictions on United States’s media covering American military, requiring them to pledge not to disclose anything not formally authorised for publication and limiting their movements within the Department of War. The new guidelines, laid out in a lengthy memo distributed to reporters on Friday, require them to sign an affidavit promising to comply, or risk losing their media credentials. The move is the latest by the administration of President Donald Trump to control media coverage of his policies, after he suggested that negative stories could be “illegal.” The Pentagon “remains committed to transparency to promote accountability and public trust,” the memo says. But it adds: “Information must be approved for public release by an appropriate authorising official before it is released, even if it is unclassified”, effectively barring material sourced to unnamed officials. This new restriction would apply to both classified and “controlled unclassified information.” The memo also details sweeping new restrictions on where Pentagon reporters can actually go without official escorts within the military’s vast headquarters just outside Washington. “The ‘press’ does not run the Pentagon — the people do,” Defence Secretary Pete Hegseth wrote on X. “The press is no longer allowed to roam the halls of a secure facility. Wear a badge and follow the rules — or go home.” The new rules come months after Hegseth faced stark criticism for revealing timings of US air strikes on Yemen’s Houthis in a Signal group chat that inadvertently included a reporter. Hegseth, a former Fox News co-host and Army National Guard veteran, was also reported to have shared those details in a separate Signal group chain that included his wife. A spokesperson for The New York Times — a frequent target of Trump’s ire — called the new rules “yet another step in a concerning pattern of reducing access to what the US military is undertaking at taxpayer expense.” National Press Club President Mike Balsamo hit out at the new rules, and called on the Pentagon to quickly rescind them. “If the news about our military must first be approved by the government, then the public is no longer getting independent reporting,” Balsamo said in a statement. “It is getting only what officials want them to see. That should alarm every American.”",
-      "lang": "en",
-      "title_en": "Pentagon imposes new restrictions on US media",
-      "summary_en": "The Pentagon has unveiled new restrictions on United States’s media covering American military, requiring them to pledge not to disclose anything not formally authorised for publication and limiting their movements within the Department of War. The new guidelines, laid out in a lengthy memo distributed to reporters on Friday, require them to sign an affidavit promising to comply, or risk losing their media credentials. The move is the latest by the administration of President Donald Trump to control media coverage of his policies, after he suggested that negative stories could be “illegal.” The Pentagon “remains committed to transparency to promote accountability and public trust,” the memo says. But it adds: “Information must be approved for public release by an appropriate authorising official before it is released, even if it is unclassified”, effectively barring material sourced to unnamed officials. This new restriction would apply to both classified and “controlled unclassified information.” The memo also details sweeping new restrictions on where Pentagon reporters can actually go without official escorts within the military’s vast headquarters just outside Washington. “The ‘press’ does not run the Pentagon — the people do,” Defence Secretary Pete Hegseth wrote on X. “The press is no longer allowed to roam the halls of a secure facility. Wear a badge and follow the rules — or go home.” The new rules come months after Hegseth faced stark criticism for revealing timings of US air strikes on Yemen’s Houthis in a Signal group chat that inadvertently included a reporter. Hegseth, a former Fox News co-host and Army National Guard veteran, was also reported to have shared those details in a separate Signal group chain that included his wife. A spokesperson for The New York Times — a frequent target of Trump’s ire — called the new rules “yet another step in a concerning pattern of reducing access to what the US military is undertaking at taxpayer expense.” National Press Club President Mike Balsamo hit out at the new rules, and called on the Pentagon to quickly rescind them. “If the news about our military must first be approved by the government, then the public is no longer getting independent reporting,” Balsamo said in a statement. “It is getting only what officials want them to see. That should alarm every American.”",
-      "title": "Pentagon imposes new restrictions on US media",
-      "summary": "The Pentagon has unveiled new restrictions on United States’s media covering American military, requiring them to pledge not to disclose anything not formally authorised for publication and limiting their movements within the Department of War. The new guidelines, laid out in a lengthy memo distributed to reporters on Friday, require them to sign an affidavit promising to comply, or risk losing their media credentials. The move is the latest by the administration of President Donald Trump to control media coverage of his policies, after he suggested that negative stories could be “illegal.” The Pentagon “remains committed to transparency to promote accountability and public trust,” the memo says. But it adds: “Information must be approved for public release by an appropriate authorising official before it is released, even if it is unclassified”, effectively barring material sourced to unnamed officials. This new restriction would apply to both classified and “controlled unclassified information.” The memo also details sweeping new restrictions on where Pentagon reporters can actually go without official escorts within the military’s vast headquarters just outside Washington. “The ‘press’ does not run the Pentagon — the people do,” Defence Secretary Pete Hegseth wrote on X. “The press is no longer allowed to roam the halls of a secure facility. Wear a badge and follow the rules — or go home.” The new rules come months after Hegseth faced stark criticism for revealing timings of US air strikes on Yemen’s Houthis in a Signal group chat that inadvertently included a reporter. Hegseth, a former Fox News co-host and Army National Guard veteran, was also reported to have shared those details in a separate Signal group chain that included his wife. A spokesperson for The New York Times — a frequent target of Trump’s ire — called the new rules “yet another step in a concerning pattern of reducing access to what the US military is undertaking at taxpayer expense.” National Press Club President Mike Balsamo hit out at the new rules, and called on the Pentagon to quickly rescind them. “If the news about our military must first be approved by the government, then the public is no longer getting independent reporting,” Balsamo said in a statement. “It is getting only what officials want them to see. That should alarm every American.”",
-      "url": "https://www.dawn.com/news/1943443/pentagon-imposes-new-restrictions-on-us-media",
-      "source": "Dawn - Home",
-      "published_at": "2025-09-20T15:28:56+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1019,6 +1100,24 @@
       "geo": {}
     },
     {
+      "id": "f5f5ec3c62d870b4",
+      "title_orig": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
+      "summary_orig": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
+      "lang": "en",
+      "title_en": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
+      "summary_en": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
+      "title": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
+      "summary": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
+      "url": "https://wtop.com/russia-ukraine-war-news/2025/09/russia-launches-large-scale-attack-on-ukraine-killing-3-and-injuring-dozens/",
+      "source": "WTOP News",
+      "published_at": "2025-09-20T14:21:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "ca59fff4294bea4e",
       "title_orig": "Heathrow cyber attack LIVE: London travellers face three-hour queues as Europe-wide IT meltdown sparks chaos",
       "summary_orig": "Flights at Heathrow face major delays after cyber attack on Collins Aerospace, the firm behind global airline check-in and boarding systems",
@@ -1124,6 +1223,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "de76f487fa1b6784",
+      "title_orig": "Cyberattack at major European airports: \"Brussels airport is the worst affected\"",
+      "summary_orig": "\"Brussels airport is the worst affected by this outage\", said Dave Keating, FRANCE 24's Correspondent in Brussels, Belgium. \"There are lots of scenes of chaos at the airport with lots of flights cancelled and lots of flights delayed. The airport is telling people 'don't come, unless you have it confirmed that your flight is actually taking off'.\"",
+      "lang": "en",
+      "title_en": "Cyberattack at major European airports: \"Brussels airport is the worst affected\"",
+      "summary_en": "\"Brussels airport is the worst affected by this outage\", said Dave Keating, FRANCE 24's Correspondent in Brussels, Belgium. \"There are lots of scenes of chaos at the airport with lots of flights cancelled and lots of flights delayed. The airport is telling people 'don't come, unless you have it confirmed that your flight is actually taking off'.\"",
+      "title": "Cyberattack at major European airports: \"Brussels airport is the worst affected\"",
+      "summary": "\"Brussels airport is the worst affected by this outage\", said Dave Keating, FRANCE 24's Correspondent in Brussels, Belgium. \"There are lots of scenes of chaos at the airport with lots of flights cancelled and lots of flights delayed. The airport is telling people 'don't come, unless you have it confirmed that your flight is actually taking off'.\"",
+      "url": "https://www.france24.com/en/video/20250920-brussels-airport-is-the-worst-affected-by-this-outage",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T13:41:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1307,24 +1424,6 @@
       "geo": {}
     },
     {
-      "id": "2d3507860db47321",
-      "title_orig": "Russia launches attack on Ukraine, killing 3 and wounding dozens",
-      "summary_orig": "'The enemy’s target was our infrastructure, residential areas and civilian enterprises,' said Ukrainian President Volodymyr Zelenskyy.",
-      "lang": "en",
-      "title_en": "Russia launches attack on Ukraine, killing 3 and wounding dozens",
-      "summary_en": "'The enemy’s target was our infrastructure, residential areas and civilian enterprises,' said Ukrainian President Volodymyr Zelenskyy.",
-      "title": "Russia launches attack on Ukraine, killing 3 and wounding dozens",
-      "summary": "'The enemy’s target was our infrastructure, residential areas and civilian enterprises,' said Ukrainian President Volodymyr Zelenskyy.",
-      "url": "https://globalnews.ca/news/11438200/russia-launches-attack-ukraine-killing-3-wounding-dozens/",
-      "source": "globalnews.ca",
-      "published_at": "2025-09-20T13:00:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5460281a7c2e7494",
       "title_orig": "Busy road near East Midlands Airport to close for months in major Network Rail project",
       "summary_orig": "A road closure near the airport will be in force for around nine months",
@@ -1379,21 +1478,21 @@
       "geo": {}
     },
     {
-      "id": "2cbcdc96e84bc909",
-      "title_orig": "Planes grounded, flights cancelled and passengers stranded — everything we know about global travel chaos so far",
-      "summary_orig": "Airports around the world are in chaos this weekend, with planes grounded and passengers left facing delays and cancellations.",
+      "id": "47470730e304bde5",
+      "title_orig": "The Bright Side: 'KPop Demon Hunters' drone show delights fans in Seoul",
+      "summary_orig": "Fans of the hit animated musical \"KPop Demon Hunters\", Netflix’s most-watched movie ever, enjoyed a spectacular drone show over Seoul on Sunday, where 1,200 drones illuminated the night sky with images of beloved characters and iconic South Korean landmarks. FRANCE 24’s Tommy Walker, Chloé Borgnon and Constantin Simon report.",
       "lang": "en",
-      "title_en": "Planes grounded, flights cancelled and passengers stranded — everything we know about global travel chaos so far",
-      "summary_en": "Airports around the world are in chaos this weekend, with planes grounded and passengers left facing delays and cancellations.",
-      "title": "Planes grounded, flights cancelled and passengers stranded — everything we know about global travel chaos so far",
-      "summary": "Airports around the world are in chaos this weekend, with planes grounded and passengers left facing delays and cancellations.",
-      "url": "https://metro.co.uk/2025/09/20/cyber-attack-european-airports-heathrow-brussels-flights-cancelled-latest-24216627/",
-      "source": "Metro",
-      "published_at": "2025-09-20T12:49:04+00:00",
+      "title_en": "The Bright Side: 'KPop Demon Hunters' drone show delights fans in Seoul",
+      "summary_en": "Fans of the hit animated musical \"KPop Demon Hunters\", Netflix’s most-watched movie ever, enjoyed a spectacular drone show over Seoul on Sunday, where 1,200 drones illuminated the night sky with images of beloved characters and iconic South Korean landmarks. FRANCE 24’s Tommy Walker, Chloé Borgnon and Constantin Simon report.",
+      "title": "The Bright Side: 'KPop Demon Hunters' drone show delights fans in Seoul",
+      "summary": "Fans of the hit animated musical \"KPop Demon Hunters\", Netflix’s most-watched movie ever, enjoyed a spectacular drone show over Seoul on Sunday, where 1,200 drones illuminated the night sky with images of beloved characters and iconic South Korean landmarks. FRANCE 24’s Tommy Walker, Chloé Borgnon and Constantin Simon report.",
+      "url": "https://www.france24.com/en/asia-pacific/20250920-the-bright-side-kpop-demon-hunters-drone-show-delights-fans-in-seoul",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T12:47:21+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1433,6 +1532,33 @@
       "geo": {}
     },
     {
+      "id": "16eec0be99bb0403",
+      "title_orig": "Cyberattack disrupts major European airports, the latest from Brussels",
+      "summary_orig": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London. Dave Keating reports the latest from Brussels.",
+      "lang": "en",
+      "title_en": "Cyberattack disrupts major European airports, the latest from Brussels",
+      "summary_en": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London. Dave Keating reports the latest from Brussels.",
+      "title": "Cyberattack disrupts major European airports, the latest from Brussels",
+      "summary": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London. Dave Keating reports the latest from Brussels.",
+      "url": "https://www.france24.com/en/video/20250920-cyberattack-disrupts-major-european-airports-the-latest-from-brussels",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T12:36:49+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
       "id": "267c4292b033a21d",
       "title_orig": "‘May cause delay in…’: Air India to passengers as cyberattack hits Europe airport operations",
       "summary_orig": "The airline said that the disruption, affecting a third-party service provider Collins Aerospace, may cause delays in the check-in process",
@@ -1467,33 +1593,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "1f7ecb4c208b83b5",
-      "title_orig": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
-      "summary_orig": "Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected Flights have been delayed and cancelled at three major European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and boarding said it was hit by a cyber-attack. Airports in Brussels and Berlin are also experiencing delays and disruption after the issue affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
-      "lang": "en",
-      "title_en": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
-      "summary_en": "Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected Flights have been delayed and cancelled at three major European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and boarding said it was hit by a cyber-attack. Airports in Brussels and Berlin are also experiencing delays and disruption after the issue affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
-      "title": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
-      "summary": "Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected Flights have been delayed and cancelled at three major European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and boarding said it was hit by a cyber-attack. Airports in Brussels and Berlin are also experiencing delays and disruption after the issue affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-20T12:30:37+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
     },
     {
       "id": "969062ce261bfbc1",
@@ -1622,6 +1721,33 @@
       "geo": {}
     },
     {
+      "id": "65e263863272914b",
+      "title_orig": "Cyberattack causes flight delays, cancellations at major European airports",
+      "summary_orig": "At least three European air hubs including Brussels, Berlin and London’s busy Heathrow airport reported flight delays and cancellations because of a “cyber-related disruption” on Saturday, according to airport service provider Collins Aerospace.",
+      "lang": "en",
+      "title_en": "Cyberattack causes flight delays, cancellations at major European airports",
+      "summary_en": "At least three European air hubs including Brussels, Berlin and London’s busy Heathrow airport reported flight delays and cancellations because of a “cyber-related disruption” on Saturday, according to airport service provider Collins Aerospace.",
+      "title": "Cyberattack causes flight delays, cancellations at major European airports",
+      "summary": "At least three European air hubs including Brussels, Berlin and London’s busy Heathrow airport reported flight delays and cancellations because of a “cyber-related disruption” on Saturday, according to airport service provider Collins Aerospace.",
+      "url": "https://www.france24.com/en/europe/20250920-cyberattack-causes-flight-delays-cancellations-at-major-european-airports",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T11:52:29+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
       "id": "e3df754115d47df4",
       "title_orig": "Dublin Airport Terminal 2 reopens after passenfers evacuated due to \"safety concerns\" - recap",
       "summary_orig": "\"Flight operations may be temporarily impacted\"",
@@ -1730,6 +1856,24 @@
       "geo": {}
     },
     {
+      "id": "3031bd34c679e2ab",
+      "title_orig": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
+      "summary_orig": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defence”. Peter O'Brien reports.",
+      "lang": "en",
+      "title_en": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
+      "summary_en": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defence”. Peter O'Brien reports.",
+      "title": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
+      "summary": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defence”. Peter O'Brien reports.",
+      "url": "https://www.france24.com/en/video/20250920-venezuela-accuses-us-of-waging-undeclared-war-in-strikes-on-alleged-drug-traffickers",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T10:56:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "fb33e7dd322ba20f",
       "title_orig": "Cyberattack disrupts European airports including Heathrow, Brussels",
       "summary_orig": "A cyberattack on a provider of check-in and boarding systems has disrupted operations at several major European airports, including London’s Heathrow — the continent’s busiest — causing flight delays and cancellations on Saturday. Collins Aerospace, which provides systems for several airlines at airports globally, is experiencing a technical issue that may cause delays for departing passengers, Heathrow Airport said, having warned of delays. Brussels Airport and Berlin Airport were also affected by the attack, they said in separate statements. RTX, Collins Aerospace’s parent company, said it had become aware of a “cyber-related disruption” to its software at selected airports, without naming them. Electronic check-in affected “The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations,” RTX said in an e-mailed statement, adding that it was working to fix the issue as quickly as possible. The attack has rendered automated systems inoperable, allowing only manual check-in and boarding procedures, Brussels Airport said on its website, adding the incident had occurred on Friday night. “This has a large impact on the flight schedule and will unfortunately cause delays and cancellations of flights…The service provider is actively working on the issue and trying to resolve the problem as quickly as possible.” Passengers with a flight scheduled for Saturday were advised by the affected airports to confirm their travel with airlines before heading to the airport. Frankfurt Airport not impacted “Due to a technical issue at a system provider … there are longer waiting times at check-in. We are working on a quick solution,” Berlin Airport said in a banner on its website. Frankfurt Airport, Germany’s largest, was not affected, a spokesperson said. An official from the operations control centre at Zurich Airport also said it had not been impacted. EasyJet, among Europe’s biggest airlines, said it was currently operating as normal and did not expect the issue to impact its flights for the rest of the day.\nOther major airlines Ryanair and British Airways owner IAG did not immediately respond to Reuters’ requests for comment. There were no indications of threats to Polish airports, Deputy Prime Minister and Digital Affairs Minister Krzysztof Gawkowski said.",
@@ -1786,6 +1930,51 @@
       "url": "https://www.aljazeera.com/news/2025/9/20/cyberattack-hits-check-in-systems-at-some-of-europes-busiest-airports?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
       "published_at": "2025-09-20T10:45:50+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "55517d175354e1d5",
+      "title_orig": "More than 65,000 Palestinians killed in Gaza, troops press assault with tanks and drones",
+      "summary_orig": "Nearly half a million Palestinians have fled south from Gaza City since late August, the Israeli military said Friday as it pushes ahead with a deadly ground offensive into the famine-struck city. The UN estimated that around one million people were living in and around the city by late August. Simon Moritz reports.",
+      "lang": "en",
+      "title_en": "More than 65,000 Palestinians killed in Gaza, troops press assault with tanks and drones",
+      "summary_en": "Nearly half a million Palestinians have fled south from Gaza City since late August, the Israeli military said Friday as it pushes ahead with a deadly ground offensive into the famine-struck city. The UN estimated that around one million people were living in and around the city by late August. Simon Moritz reports.",
+      "title": "More than 65,000 Palestinians killed in Gaza, troops press assault with tanks and drones",
+      "summary": "Nearly half a million Palestinians have fled south from Gaza City since late August, the Israeli military said Friday as it pushes ahead with a deadly ground offensive into the famine-struck city. The UN estimated that around one million people were living in and around the city by late August. Simon Moritz reports.",
+      "url": "https://www.france24.com/en/video/20250920-over-65-000-palestinians-killed-in-gaza-troops-press-assault-with-tanks-and-drones",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T10:45:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "9dfb95e3715c8556",
+      "title_orig": "Cyberattack disrupts European airports: Brussels, Berlin, Heathrow among affected",
+      "summary_orig": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London.",
+      "lang": "en",
+      "title_en": "Cyberattack disrupts European airports: Brussels, Berlin, Heathrow among affected",
+      "summary_en": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London.",
+      "title": "Cyberattack disrupts European airports: Brussels, Berlin, Heathrow among affected",
+      "summary": "Airports across Europe, including London’s Heathrow, are warning of delays after a “technical issue” disrupted check-in and boarding systems. Brussels Airport attributed the problem to a cyberattack, reporting 10 flight cancellations and delays of over an hour for 17 additional flights. France24 Benedicte Paviot reports from London.",
+      "url": "https://www.france24.com/en/video/20250920-cyberattack-disrupts-european-airports-brussels-berlin-heathrow-among-affected",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T10:44:29+00:00",
       "tags": [
         "LHR",
         "United Kingdom",
@@ -1917,24 +2106,6 @@
         "lat": 51.47,
         "lon": -0.4543
       }
-    },
-    {
-      "id": "114e59dc49b748d7",
-      "title_orig": "Foreign Office UK issues warning to anyone travelling to Portugal",
-      "summary_orig": "You could face last-minute delays at airports with travellers being warned to check one website before packing their suitcase",
-      "lang": "en",
-      "title_en": "Foreign Office UK issues warning to anyone travelling to Portugal",
-      "summary_en": "You could face last-minute delays at airports with travellers being warned to check one website before packing their suitcase",
-      "title": "Foreign Office UK issues warning to anyone travelling to Portugal",
-      "summary": "You could face last-minute delays at airports with travellers being warned to check one website before packing their suitcase",
-      "url": "https://www.bristolpost.co.uk/news/uk-world-news/foreign-office-uk-issues-warning-10514831",
-      "source": "Bristol Post - News",
-      "published_at": "2025-09-20T09:40:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "8baa8b7384488b3b",
@@ -2288,6 +2459,24 @@
       }
     },
     {
+      "id": "a472189a74c62b2f",
+      "title_orig": "Ukraine develops its drone industry as it seeks to triple production",
+      "summary_orig": "Ukrainian troops are pressing on with the counteroffensive in the east. President Zelensky says they have managed to push back some Russian drones. Ukraine continues to rely on weapons from its Western allies but is also investing in its own defense industry, particularly in the production of drones. Solange Mougin  and Axelle Simon report.",
+      "lang": "en",
+      "title_en": "Ukraine develops its drone industry as it seeks to triple production",
+      "summary_en": "Ukrainian troops are pressing on with the counteroffensive in the east. President Zelensky says they have managed to push back some Russian drones. Ukraine continues to rely on weapons from its Western allies but is also investing in its own defense industry, particularly in the production of drones. Solange Mougin  and Axelle Simon report.",
+      "title": "Ukraine develops its drone industry as it seeks to triple production",
+      "summary": "Ukrainian troops are pressing on with the counteroffensive in the east. President Zelensky says they have managed to push back some Russian drones. Ukraine continues to rely on weapons from its Western allies but is also investing in its own defense industry, particularly in the production of drones. Solange Mougin  and Axelle Simon report.",
+      "url": "https://www.france24.com/en/video/20250920-ukraine-develops-its-drone-industry-as-it-seeks-to-triple-production",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T08:58:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "eb056bfcbe1dbce9",
       "title_orig": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
       "summary_orig": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
@@ -2299,6 +2488,42 @@
       "url": "https://www.theguardian.com/politics/2025/sep/20/zarah-sultana-consults-defamation-lawyers-after-spat-with-jeremy-corbyn-over-party-funds",
       "source": "UK news | The Guardian",
       "published_at": "2025-09-20T08:57:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f0c1b64c77e3c458",
+      "title_orig": "US: Fallout continues after Charlie Kirk's assassination",
+      "summary_orig": "The fallout continues after the assassination of conservative activist Charlie Kirk. In recent days, there have also been freedom of speech protests following the removal of Jimmy Kimmel Live from ABC’s schedule over Kirk’s comments. Kirk’s funeral is scheduled for Sunday in Arizona, with President Trump expected to attend. Peter O’Brian has the latest.",
+      "lang": "en",
+      "title_en": "US: Fallout continues after Charlie Kirk's assassination",
+      "summary_en": "The fallout continues after the assassination of conservative activist Charlie Kirk. In recent days, there have also been freedom of speech protests following the removal of Jimmy Kimmel Live from ABC’s schedule over Kirk’s comments. Kirk’s funeral is scheduled for Sunday in Arizona, with President Trump expected to attend. Peter O’Brian has the latest.",
+      "title": "US: Fallout continues after Charlie Kirk's assassination",
+      "summary": "The fallout continues after the assassination of conservative activist Charlie Kirk. In recent days, there have also been freedom of speech protests following the removal of Jimmy Kimmel Live from ABC’s schedule over Kirk’s comments. Kirk’s funeral is scheduled for Sunday in Arizona, with President Trump expected to attend. Peter O’Brian has the latest.",
+      "url": "https://www.france24.com/en/video/20250920-us-fallout-continues-after-charlie-kirk-s-assassination",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T08:55:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "eb58b4bd61e421fb",
+      "title_orig": "US forces strike third alleged drug vessel killing three, Trump says",
+      "summary_orig": "President Donald Trump announced that US forces conducted a “lethal kinetic strike” on a vessel allegedly trafficking drugs, killing three “male narcoterrorists” on board. He said he authorized the operation, carried out within the US Southern Command’s jurisdiction, after intelligence confirmed the boat’s involvement in drug smuggling. This marks the third such strike on suspected narcotics vessels in recent weeks. Postdoctoral researcher Emilia Ziosi from the University of Oxford’s Department of Sociology joins us for more.",
+      "lang": "en",
+      "title_en": "US forces strike third alleged drug vessel killing three, Trump says",
+      "summary_en": "President Donald Trump announced that US forces conducted a “lethal kinetic strike” on a vessel allegedly trafficking drugs, killing three “male narcoterrorists” on board. He said he authorized the operation, carried out within the US Southern Command’s jurisdiction, after intelligence confirmed the boat’s involvement in drug smuggling. This marks the third such strike on suspected narcotics vessels in recent weeks. Postdoctoral researcher Emilia Ziosi from the University of Oxford’s Department of Sociology joins us for more.",
+      "title": "US forces strike third alleged drug vessel killing three, Trump says",
+      "summary": "President Donald Trump announced that US forces conducted a “lethal kinetic strike” on a vessel allegedly trafficking drugs, killing three “male narcoterrorists” on board. He said he authorized the operation, carried out within the US Southern Command’s jurisdiction, after intelligence confirmed the boat’s involvement in drug smuggling. This marks the third such strike on suspected narcotics vessels in recent weeks. Postdoctoral researcher Emilia Ziosi from the University of Oxford’s Department of Sociology joins us for more.",
+      "url": "https://www.france24.com/en/video/20250920-us-forces-strike-third-alleged-drug-vessel-killing-three-trump-says",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T08:53:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2955,24 +3180,6 @@
       "geo": {}
     },
     {
-      "id": "31a245a2950a909c",
-      "title_orig": "Trump vows to ‘stop’ Portland protesters, calling them ‘out of control’ and ‘crazy’",
-      "summary_orig": "This is the second time in two weeks Trump has called out Portland.",
-      "lang": "en",
-      "title_en": "Trump vows to ‘stop’ Portland protesters, calling them ‘out of control’ and ‘crazy’",
-      "summary_en": "This is the second time in two weeks Trump has called out Portland.",
-      "title": "Trump vows to ‘stop’ Portland protesters, calling them ‘out of control’ and ‘crazy’",
-      "summary": "This is the second time in two weeks Trump has called out Portland.",
-      "url": "https://www.oregonlive.com/portland/2025/09/trump-vows-to-stop-portland-protesters-calling-them-out-of-control-and-crazy.html",
-      "source": "oregonlive.com",
-      "published_at": "2025-09-20T00:45:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "028a575229b204f4",
       "title_orig": "More than 1,800 flights disrupted at Dallas airport due to telecoms outage",
       "summary_orig": "More than 1,800 flight were delayed and hundreds were cancelled at the two Dallas-area airports on Sept 19.",
@@ -3394,24 +3601,6 @@
         "lat": 53.4213,
         "lon": -6.2701
       }
-    },
-    {
-      "id": "c2f1c63a4f70c3dc",
-      "title_orig": "Celtic's accounts laid bare as Peter Lawwell addresses fans amid protests and significant profit",
-      "summary_orig": "Cash reserves remain high as Parkhead chief lays out figures",
-      "lang": "en",
-      "title_en": "Celtic's accounts laid bare as Peter Lawwell addresses fans amid protests and significant profit",
-      "summary_en": "Cash reserves remain high as Parkhead chief lays out figures",
-      "title": "Celtic's accounts laid bare as Peter Lawwell addresses fans amid protests and significant profit",
-      "summary": "Cash reserves remain high as Parkhead chief lays out figures",
-      "url": "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/celtics-accounts-laid-bare-as-peter-lawwell-addresses-fans-amid-protests-and-significant-profit-5326586",
-      "source": "The Scotsman",
-      "published_at": "2025-09-19T18:18:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "1bbeb5c22b87e6b4",
@@ -4620,42 +4809,6 @@
       "geo": {}
     },
     {
-      "id": "2fc44d32f8bb4ddf",
-      "title_orig": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
-      "summary_orig": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
-      "lang": "en",
-      "title_en": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
-      "summary_en": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
-      "title": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
-      "summary": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
-      "url": "https://www.arabnews.com/node/2614110/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T22:09:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "21fb050645000980",
-      "title_orig": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
-      "summary_orig": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
-      "lang": "en",
-      "title_en": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
-      "summary_en": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
-      "title": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
-      "summary": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
-      "url": "https://www.arabnews.com/node/2614106/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T22:09:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "90c398b149ff9954",
       "title_orig": "U.S., Mexico pledge deeper ties as Trump defends strike on alleged cartel boat",
       "summary_orig": "U.S. and Mexico agreed to boost security cooperation as Secretary of State Marco Rubio defended President Trump's decision to strike a boat in the Caribbean.",
@@ -4667,6 +4820,78 @@
       "url": "https://www.latimes.com/world-nation/story/2025-09-03/rubio-sheinbaum-to-meet-in-mexico-city",
       "source": "World & Nation",
       "published_at": "2025-09-03T21:40:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "db72bbbfad2eca33",
+      "title_orig": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
+      "summary_orig": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
+      "lang": "en",
+      "title_en": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
+      "summary_en": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
+      "title": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
+      "summary": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
+      "url": "https://www.arabnews.com/node/2613998/world",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T00:09:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f2552cabb7885e4a",
+      "title_orig": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
+      "summary_orig": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
+      "lang": "en",
+      "title_en": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
+      "summary_en": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
+      "title": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
+      "summary": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
+      "url": "https://www.arabnews.com/node/2613992/saudi-arabia",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T00:09:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b40ed7a60e99a3e1",
+      "title_orig": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
+      "summary_orig": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
+      "lang": "en",
+      "title_en": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
+      "summary_en": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
+      "title": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
+      "summary": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
+      "url": "https://www.arabnews.com/node/2613994/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T00:09:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9da019f59337430b",
+      "title_orig": "Israeli forces seize seven people from Syria: state media",
+      "summary_orig": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
+      "lang": "en",
+      "title_en": "Israeli forces seize seven people from Syria: state media",
+      "summary_en": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
+      "title": "Israeli forces seize seven people from Syria: state media",
+      "summary": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
+      "url": "https://www.arabnews.com/node/2614000/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T00:09:01+00:00",
       "tags": [
         "airport/security"
       ],
