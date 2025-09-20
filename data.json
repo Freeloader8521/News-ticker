@@ -1,6 +1,69 @@
 {
-  "generated_at": "2025-09-20T19:26:45.577270+00:00",
+  "generated_at": "2025-09-20T19:43:56.948374+00:00",
   "items": [
+    {
+      "id": "09ace0fb176534b7",
+      "title_orig": "Zelenskyy to meet Trump at UN General Assembly as Russian attacks intensify",
+      "summary_orig": "The Ukrainian president says he will hold \"a meeting with the President of the United States\" to discuss security guarantees for Ukraine and sanctions on Russia.",
+      "lang": "en",
+      "title_en": "Zelenskyy to meet Trump at UN General Assembly as Russian attacks intensify",
+      "summary_en": "The Ukrainian president says he will hold \"a meeting with the President of the United States\" to discuss security guarantees for Ukraine and sanctions on Russia.",
+      "title": "Zelenskyy to meet Trump at UN General Assembly as Russian attacks intensify",
+      "summary": "The Ukrainian president says he will hold \"a meeting with the President of the United States\" to discuss security guarantees for Ukraine and sanctions on Russia.",
+      "url": "https://www.abc.net.au/news/2025-09-21/zelenskyy-to-meet-trump-at-un-general-assembly/105798222",
+      "source": "Just In",
+      "published_at": "2025-09-20T19:35:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d51b667e70fc2e47",
+      "title_orig": "Young stars shine bright in this camp for Sri Lankan Tamil refugees near city",
+      "summary_orig": "An exposure visit by industry leaders to the camp, organised by SICCI and the United Nations High Commissioner for Refugees, highlighted the success stories scripted by its young residents",
+      "lang": "en",
+      "title_en": "Young stars shine bright in this camp for Sri Lankan Tamil refugees near city",
+      "summary_en": "An exposure visit by industry leaders to the camp, organised by SICCI and the United Nations High Commissioner for Refugees, highlighted the success stories scripted by its young residents",
+      "title": "Young stars shine bright in this camp for Sri Lankan Tamil refugees near city",
+      "summary": "An exposure visit by industry leaders to the camp, organised by SICCI and the United Nations High Commissioner for Refugees, highlighted the success stories scripted by its young residents",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/young-stars-shine-bright-in-this-camp-for-sri-lankan-tamil-refugees-near-city/article70073459.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-09-20T19:23:05+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "450e3a2e3362c165",
+      "title_orig": "‘Very clever’ cyberattack causes chaos at major European airports",
+      "summary_orig": "London Heathrow Airport, Europe’s busiest, said “a technical issue” affected a service provider for check-in and boarding systems.",
+      "lang": "en",
+      "title_en": "‘Very clever’ cyberattack causes chaos at major European airports",
+      "summary_en": "London Heathrow Airport, Europe’s busiest, said “a technical issue” affected a service provider for check-in and boarding systems.",
+      "title": "‘Very clever’ cyberattack causes chaos at major European airports",
+      "summary": "London Heathrow Airport, Europe’s busiest, said “a technical issue” affected a service provider for check-in and boarding systems.",
+      "url": "https://www.stuff.co.nz/travel/360830441/cyberattack-disrupts-check-systems-major-european-airports",
+      "source": "Stuff - /",
+      "published_at": "2025-09-20T19:21:25+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
     {
       "id": "4752d4dba50c2c31",
       "title_orig": "Anti-immigration demonstration in The Hague turns violent, weeks before general election",
@@ -3666,24 +3729,6 @@
       "geo": {}
     },
     {
-      "id": "5c0eeb7225eac816",
-      "title_orig": "Estonia says Russian fighter jets breached its airspace in ‘brazen’ incursion",
-      "summary_orig": "Three Russian military aircraft violated Nato member Estonia’s airspace on Friday for 12 minutes in an “unprecedentedly brazen” incursion, its government said, amid rising tensions on the alliance’s eastern flank.\nThe incident comes just over a week after more than 20 Russian drones entered Polish airspace on the night of September 9-10, prompting Nato aircraft to shoot down some of them and Western officials to say Russia was testing the alliance’s readiness and resolve.\nIt also comes three...",
-      "lang": "en",
-      "title_en": "Estonia says Russian fighter jets breached its airspace in ‘brazen’ incursion",
-      "summary_en": "Three Russian military aircraft violated Nato member Estonia’s airspace on Friday for 12 minutes in an “unprecedentedly brazen” incursion, its government said, amid rising tensions on the alliance’s eastern flank.\nThe incident comes just over a week after more than 20 Russian drones entered Polish airspace on the night of September 9-10, prompting Nato aircraft to shoot down some of them and Western officials to say Russia was testing the alliance’s readiness and resolve.\nIt also comes three...",
-      "title": "Estonia says Russian fighter jets breached its airspace in ‘brazen’ incursion",
-      "summary": "Three Russian military aircraft violated Nato member Estonia’s airspace on Friday for 12 minutes in an “unprecedentedly brazen” incursion, its government said, amid rising tensions on the alliance’s eastern flank.\nThe incident comes just over a week after more than 20 Russian drones entered Polish airspace on the night of September 9-10, prompting Nato aircraft to shoot down some of them and Western officials to say Russia was testing the alliance’s readiness and resolve.\nIt also comes three...",
-      "url": "https://www.scmp.com/news/world/europe/article/3326219/estonia-says-russian-fighter-planes-breached-its-airspace-brazen-incursion?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-09-19T16:55:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "fa3e6db1381b918e",
       "title_orig": "PM Viktor Orbán follows Trump and says Hungary will designate antifa a terrorist organisation",
       "summary_orig": "Antifa, short for \"anti-fascist,\" is an umbrella term for loosely affiliated far-left activists and groups that resist fascism, fascists and neo-Nazis, especially at demonstrations.",
@@ -4811,42 +4856,6 @@
       "url": "https://www.latimes.com/business/story/2025-09-04/indonesias-protests-over-the-economy-turn-to-police-brutality",
       "source": "World & Nation",
       "published_at": "2025-09-04T20:15:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2fc44d32f8bb4ddf",
-      "title_orig": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
-      "summary_orig": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
-      "lang": "en",
-      "title_en": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
-      "summary_en": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
-      "title": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
-      "summary": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
-      "url": "https://www.arabnews.com/node/2614110/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T22:09:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "21fb050645000980",
-      "title_orig": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
-      "summary_orig": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
-      "lang": "en",
-      "title_en": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
-      "summary_en": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
-      "title": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
-      "summary": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
-      "url": "https://www.arabnews.com/node/2614106/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T22:09:41+00:00",
       "tags": [
         "airport/security"
       ],
