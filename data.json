@@ -1,6 +1,312 @@
 {
-  "generated_at": "2025-09-20T09:47:38.808304+00:00",
+  "generated_at": "2025-09-20T10:41:17.448749+00:00",
   "items": [
+    {
+      "id": "da9aed7d9fc1d9b9",
+      "title_orig": "Israeli strikes on Gaza City kill at least 14 as some countries move to recognize Palestinian state",
+      "summary_orig": "CAIRO, Egypt (AP) — Israeli strikes killed at least 14 people overnight in Gaza City, said health officials, as Israel…",
+      "lang": "en",
+      "title_en": "Israeli strikes on Gaza City kill at least 14 as some countries move to recognize Palestinian state",
+      "summary_en": "CAIRO, Egypt (AP) — Israeli strikes killed at least 14 people overnight in Gaza City, said health officials, as Israel…",
+      "title": "Israeli strikes on Gaza City kill at least 14 as some countries move to recognize Palestinian state",
+      "summary": "CAIRO, Egypt (AP) — Israeli strikes killed at least 14 people overnight in Gaza City, said health officials, as Israel…",
+      "url": "https://wtop.com/world/2025/09/israeli-strikes-on-gaza-city-kill-at-least-14-as-some-countries-move-to-recognize-palestinian-state/",
+      "source": "WTOP News",
+      "published_at": "2025-09-20T10:29:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "790427b0b9022095",
+      "title_orig": "BJP workers ‘attack’ journalists covering municipal councillor’s death in Kerala",
+      "summary_orig": "K. Anil Kumar’s death puts BJP’s Thiruvananthapuram district unit on the defensive after some quarters close to him attempted to link it to ‘debt caused by financial mismanagement’ at a cooperative society headed by the councillor",
+      "lang": "en",
+      "title_en": "BJP workers ‘attack’ journalists covering municipal councillor’s death in Kerala",
+      "summary_en": "K. Anil Kumar’s death puts BJP’s Thiruvananthapuram district unit on the defensive after some quarters close to him attempted to link it to ‘debt caused by financial mismanagement’ at a cooperative society headed by the councillor",
+      "title": "BJP workers ‘attack’ journalists covering municipal councillor’s death in Kerala",
+      "summary": "K. Anil Kumar’s death puts BJP’s Thiruvananthapuram district unit on the defensive after some quarters close to him attempted to link it to ‘debt caused by financial mismanagement’ at a cooperative society headed by the councillor",
+      "url": "https://www.thehindu.com/news/national/kerala/bjp-workers-attack-journalists-covering-municipal-councillors-death-in-kerala/article70073360.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-09-20T10:29:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4808275af78d6c7e",
+      "title_orig": "Heathrow Airport passengers given 3-hour warning as cyberattack causes delays",
+      "summary_orig": "Travellers have been warned they may experience delays due a cyberattack on third-party supplier providing check-in and boarding systems for several airlines",
+      "lang": "en",
+      "title_en": "Heathrow Airport passengers given 3-hour warning as cyberattack causes delays",
+      "summary_en": "Travellers have been warned they may experience delays due a cyberattack on third-party supplier providing check-in and boarding systems for several airlines",
+      "title": "Heathrow Airport passengers given 3-hour warning as cyberattack causes delays",
+      "summary": "Travellers have been warned they may experience delays due a cyberattack on third-party supplier providing check-in and boarding systems for several airlines",
+      "url": "https://www.birminghammail.co.uk/news/uk-news/heathrow-airport-passengers-given-3-32517254",
+      "source": "Birmingham Live - News",
+      "published_at": "2025-09-20T10:27:01+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "2f9ae88ae29a0d37",
+      "title_orig": "Birmingham bin strike protest live as hundreds take to city centre",
+      "summary_orig": "Union Unite has organised the rally and says it will include community groups and Unite general secretary Sharon Graham.",
+      "lang": "en",
+      "title_en": "Birmingham bin strike protest live as hundreds take to city centre",
+      "summary_en": "Union Unite has organised the rally and says it will include community groups and Unite general secretary Sharon Graham.",
+      "title": "Birmingham bin strike protest live as hundreds take to city centre",
+      "summary": "Union Unite has organised the rally and says it will include community groups and Unite general secretary Sharon Graham.",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/birmingham-bin-strike-protest-live-32517292",
+      "source": "Birmingham Live - News",
+      "published_at": "2025-09-20T10:25:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9ab18008177bf7fe",
+      "title_orig": "Heathrow delays after cyber-attack on check-in system",
+      "summary_orig": "Travellers report multi-hour delays for some airlines as disruption also hits Brussels and Berlin.",
+      "lang": "en",
+      "title_en": "Heathrow delays after cyber-attack on check-in system",
+      "summary_en": "Travellers report multi-hour delays for some airlines as disruption also hits Brussels and Berlin.",
+      "title": "Heathrow delays after cyber-attack on check-in system",
+      "summary": "Travellers report multi-hour delays for some airlines as disruption also hits Brussels and Berlin.",
+      "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-20T10:25:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "49c77895d2cdbf4d",
+      "title_orig": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
+      "summary_orig": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles At least 10 flights were cancelled out of Brussels airport and another 17 delayed by over an hour after the system was hit by a “cyber-attack” overnight on Friday, the airport said. EasyJet, among Europe’s biggest airlines, said it was currently operating as normal and did not expect the problem to impact its flights for the rest of the day, Reuters reports. Information on the situation is being continuously gathered, and Polish authorities are in contact with authorities in other countries. Continue reading...",
+      "lang": "en",
+      "title_en": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
+      "summary_en": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles At least 10 flights were cancelled out of Brussels airport and another 17 delayed by over an hour after the system was hit by a “cyber-attack” overnight on Friday, the airport said. EasyJet, among Europe’s biggest airlines, said it was currently operating as normal and did not expect the problem to impact its flights for the rest of the day, Reuters reports. Information on the situation is being continuously gathered, and Polish authorities are in contact with authorities in other countries. Continue reading...",
+      "title": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
+      "summary": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles At least 10 flights were cancelled out of Brussels airport and another 17 delayed by over an hour after the system was hit by a “cyber-attack” overnight on Friday, the airport said. EasyJet, among Europe’s biggest airlines, said it was currently operating as normal and did not expect the problem to impact its flights for the rest of the day, Reuters reports. Information on the situation is being continuously gathered, and Polish authorities are in contact with authorities in other countries. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-20T10:22:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6fc25be9aeeeb0da",
+      "title_orig": "Live: Possible 'cyber attack' hits UK flights",
+      "summary_orig": "Airports around Europe have been impacted",
+      "lang": "en",
+      "title_en": "Live: Possible 'cyber attack' hits UK flights",
+      "summary_en": "Airports around Europe have been impacted",
+      "title": "Live: Possible 'cyber attack' hits UK flights",
+      "summary": "Airports around Europe have been impacted",
+      "url": "https://www.bristolpost.co.uk/news/bristol-news/live-possible-cyber-attack-hits-10514909",
+      "source": "Bristol Post - News",
+      "published_at": "2025-09-20T10:19:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bb92d3c315760688",
+      "title_orig": "Ukraine President Zelensky says will meet Trump next week as Russia intensifies attacks",
+      "summary_orig": "Ukrainian President Volodymyr Zelensky said he would meet US counterpart Donald Trump on the sidelines of the United Nations General Assembly next week as Russia intensified attacks across his country. Russia carried out one of its largest aerial attacks overnight, firing 40 missiles and some 580 drones at Ukraine in a barrage that killed at least three people and wounded dozens, Zelensky said on Saturday. Zelensky said he would hold “a meeting with the President of the United States”, adding he would discuss security guarantees for Ukraine and sanctions on Russia during the talks with Trump. Ukraine has insisted on Western-backed security guarantees to prevent future Russian attacks. Russian President Vladimir Putin has meanwhile warned that any Western troops in Ukraine would be unacceptable and legitimate targets. A US-led push for a quick end to the war has stalled and Russia effectively ruled out a meeting between Putin and Zelensky — something that Kyiv says is the only way towards peace. “We expect sanctions if there is no meeting between the leaders or, for example, no ceasefire,” Zelensky said in comments released by the Ukrainian presidency on Saturday. “We are ready for a meeting with Putin. I have spoken about this. Both bilateral and trilateral. He is not ready,” Zelensky added. In Russia’s latest aerial assault of Ukraine, “a missile with cluster munitions directly struck an apartment building” in the central city of Dnipro, Zelensky said earlier on social media. He posted pictures of cars and a building on fire and rescuers carrying a person to safety amid rubble scattered nearby. In the Dnipropetrovsk region, the strikes killed one person and wounded 26, with one man in a serious condition, Sergiy Lysak, the head of regional military administration, said. ‘Intense’ fighting The strikes come a day after three Russian fighter jets violated the airspace of Estonia — a Nato member on the alliance’s eastern flank — an allegation Moscow denied. But it triggered fears in the West of a dangerous new provocation from Moscow after Poland last week complained that around 20 Russian drones overflew its territory. Zelensky repeated the call for “joint solutions” to shoot down drones over Ukraine “together with other countries”. Russia, which has been chipping away at Ukrainian territory for months, announced on Saturday its troops had captured the village of Berezove in the Dnipropetrovsk region. In the northeastern Kharkiv region, “intense actions” were ongoing in the key area of Kupiansk, Zelensky said, referring to a rail hub Ukraine recaptured in its 2022 offensive. Russian officials meanwhile said their forces had repelled “massive” Ukrainian attacks in the Volgograd and Rostov regions, while one person was wounded in the nearby region of Saratov. The governor of Russia’s Samara region said “fuel and energy facilities” were targeted, without specifying the damage. The Russian defence ministry said on Saturday its air defence alert systems “intercepted and destroyed” 149 Ukrainian drones overnight, including 27 over the Saratov region and 15 over the Samara region. Three rounds of direct peace talks between Russia and Ukraine in Istanbul have failed to yield anything more than large-scale prisoner exchanges.\nRussia has maintained a series of hardline demands, including that Ukraine fully cedes the eastern Donbas region — parts of which it still controls. Kyiv has rejected territorial concessions and wants European troops to be deployed to Ukraine as a peacekeeping force, something Moscow sees as unacceptable.",
+      "lang": "en",
+      "title_en": "Ukraine President Zelensky says will meet Trump next week as Russia intensifies attacks",
+      "summary_en": "Ukrainian President Volodymyr Zelensky said he would meet US counterpart Donald Trump on the sidelines of the United Nations General Assembly next week as Russia intensified attacks across his country. Russia carried out one of its largest aerial attacks overnight, firing 40 missiles and some 580 drones at Ukraine in a barrage that killed at least three people and wounded dozens, Zelensky said on Saturday. Zelensky said he would hold “a meeting with the President of the United States”, adding he would discuss security guarantees for Ukraine and sanctions on Russia during the talks with Trump. Ukraine has insisted on Western-backed security guarantees to prevent future Russian attacks. Russian President Vladimir Putin has meanwhile warned that any Western troops in Ukraine would be unacceptable and legitimate targets. A US-led push for a quick end to the war has stalled and Russia effectively ruled out a meeting between Putin and Zelensky — something that Kyiv says is the only way towards peace. “We expect sanctions if there is no meeting between the leaders or, for example, no ceasefire,” Zelensky said in comments released by the Ukrainian presidency on Saturday. “We are ready for a meeting with Putin. I have spoken about this. Both bilateral and trilateral. He is not ready,” Zelensky added. In Russia’s latest aerial assault of Ukraine, “a missile with cluster munitions directly struck an apartment building” in the central city of Dnipro, Zelensky said earlier on social media. He posted pictures of cars and a building on fire and rescuers carrying a person to safety amid rubble scattered nearby. In the Dnipropetrovsk region, the strikes killed one person and wounded 26, with one man in a serious condition, Sergiy Lysak, the head of regional military administration, said. ‘Intense’ fighting The strikes come a day after three Russian fighter jets violated the airspace of Estonia — a Nato member on the alliance’s eastern flank — an allegation Moscow denied. But it triggered fears in the West of a dangerous new provocation from Moscow after Poland last week complained that around 20 Russian drones overflew its territory. Zelensky repeated the call for “joint solutions” to shoot down drones over Ukraine “together with other countries”. Russia, which has been chipping away at Ukrainian territory for months, announced on Saturday its troops had captured the village of Berezove in the Dnipropetrovsk region. In the northeastern Kharkiv region, “intense actions” were ongoing in the key area of Kupiansk, Zelensky said, referring to a rail hub Ukraine recaptured in its 2022 offensive. Russian officials meanwhile said their forces had repelled “massive” Ukrainian attacks in the Volgograd and Rostov regions, while one person was wounded in the nearby region of Saratov. The governor of Russia’s Samara region said “fuel and energy facilities” were targeted, without specifying the damage. The Russian defence ministry said on Saturday its air defence alert systems “intercepted and destroyed” 149 Ukrainian drones overnight, including 27 over the Saratov region and 15 over the Samara region. Three rounds of direct peace talks between Russia and Ukraine in Istanbul have failed to yield anything more than large-scale prisoner exchanges.\nRussia has maintained a series of hardline demands, including that Ukraine fully cedes the eastern Donbas region — parts of which it still controls. Kyiv has rejected territorial concessions and wants European troops to be deployed to Ukraine as a peacekeeping force, something Moscow sees as unacceptable.",
+      "title": "Ukraine President Zelensky says will meet Trump next week as Russia intensifies attacks",
+      "summary": "Ukrainian President Volodymyr Zelensky said he would meet US counterpart Donald Trump on the sidelines of the United Nations General Assembly next week as Russia intensified attacks across his country. Russia carried out one of its largest aerial attacks overnight, firing 40 missiles and some 580 drones at Ukraine in a barrage that killed at least three people and wounded dozens, Zelensky said on Saturday. Zelensky said he would hold “a meeting with the President of the United States”, adding he would discuss security guarantees for Ukraine and sanctions on Russia during the talks with Trump. Ukraine has insisted on Western-backed security guarantees to prevent future Russian attacks. Russian President Vladimir Putin has meanwhile warned that any Western troops in Ukraine would be unacceptable and legitimate targets. A US-led push for a quick end to the war has stalled and Russia effectively ruled out a meeting between Putin and Zelensky — something that Kyiv says is the only way towards peace. “We expect sanctions if there is no meeting between the leaders or, for example, no ceasefire,” Zelensky said in comments released by the Ukrainian presidency on Saturday. “We are ready for a meeting with Putin. I have spoken about this. Both bilateral and trilateral. He is not ready,” Zelensky added. In Russia’s latest aerial assault of Ukraine, “a missile with cluster munitions directly struck an apartment building” in the central city of Dnipro, Zelensky said earlier on social media. He posted pictures of cars and a building on fire and rescuers carrying a person to safety amid rubble scattered nearby. In the Dnipropetrovsk region, the strikes killed one person and wounded 26, with one man in a serious condition, Sergiy Lysak, the head of regional military administration, said. ‘Intense’ fighting The strikes come a day after three Russian fighter jets violated the airspace of Estonia — a Nato member on the alliance’s eastern flank — an allegation Moscow denied. But it triggered fears in the West of a dangerous new provocation from Moscow after Poland last week complained that around 20 Russian drones overflew its territory. Zelensky repeated the call for “joint solutions” to shoot down drones over Ukraine “together with other countries”. Russia, which has been chipping away at Ukrainian territory for months, announced on Saturday its troops had captured the village of Berezove in the Dnipropetrovsk region. In the northeastern Kharkiv region, “intense actions” were ongoing in the key area of Kupiansk, Zelensky said, referring to a rail hub Ukraine recaptured in its 2022 offensive. Russian officials meanwhile said their forces had repelled “massive” Ukrainian attacks in the Volgograd and Rostov regions, while one person was wounded in the nearby region of Saratov. The governor of Russia’s Samara region said “fuel and energy facilities” were targeted, without specifying the damage. The Russian defence ministry said on Saturday its air defence alert systems “intercepted and destroyed” 149 Ukrainian drones overnight, including 27 over the Saratov region and 15 over the Samara region. Three rounds of direct peace talks between Russia and Ukraine in Istanbul have failed to yield anything more than large-scale prisoner exchanges.\nRussia has maintained a series of hardline demands, including that Ukraine fully cedes the eastern Donbas region — parts of which it still controls. Kyiv has rejected territorial concessions and wants European troops to be deployed to Ukraine as a peacekeeping force, something Moscow sees as unacceptable.",
+      "url": "https://www.dawn.com/news/1943423/ukraine-president-zelensky-says-will-meet-trump-next-week-as-russia-intensifies-attacks",
+      "source": "Dawn - Home",
+      "published_at": "2025-09-20T10:19:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ca59fff4294bea4e",
+      "title_orig": "Heathrow cyber attack LIVE: London travellers face major disruption after Europe-wide IT meltdown",
+      "summary_orig": "Flights at Heathrow face major delays after cyber attack on Collins Aerospace, the firm behind global airline check-in and boarding systems",
+      "lang": "en",
+      "title_en": "Heathrow cyber attack LIVE: London travellers face major disruption after Europe-wide IT meltdown",
+      "summary_en": "Flights at Heathrow face major delays after cyber attack on Collins Aerospace, the firm behind global airline check-in and boarding systems",
+      "title": "Heathrow cyber attack LIVE: London travellers face major disruption after Europe-wide IT meltdown",
+      "summary": "Flights at Heathrow face major delays after cyber attack on Collins Aerospace, the firm behind global airline check-in and boarding systems",
+      "url": "https://www.standard.co.uk/news/london/london-heathrow-delays-cyber-attack-check-in-systems-b1248765.html",
+      "source": "The Standard News",
+      "published_at": "2025-09-20T10:16:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "76506bc449f24c42",
+      "title_orig": "Cornwall bus workers to be balloted on possible strike action",
+      "summary_orig": "Strike action has been going on for several weeks across country",
+      "lang": "en",
+      "title_en": "Cornwall bus workers to be balloted on possible strike action",
+      "summary_en": "Strike action has been going on for several weeks across country",
+      "title": "Cornwall bus workers to be balloted on possible strike action",
+      "summary": "Strike action has been going on for several weeks across country",
+      "url": "https://www.cornwalllive.com/news/cornwall-news/cornwall-bus-workers-balloted-possible-10514928",
+      "source": "Cornwall Live - frontpage",
+      "published_at": "2025-09-20T10:15:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c53eb45a544a991e",
+      "title_orig": "The new £175,000,000 airport with one flight a week",
+      "summary_orig": "It's the country's newest and most expensive airport.",
+      "lang": "en",
+      "title_en": "The new £175,000,000 airport with one flight a week",
+      "summary_en": "It's the country's newest and most expensive airport.",
+      "title": "The new £175,000,000 airport with one flight a week",
+      "summary": "It's the country's newest and most expensive airport.",
+      "url": "https://metro.co.uk/2025/09/20/new-175-000-000-airport-one-flight-a-week-24189496/",
+      "source": "Metro",
+      "published_at": "2025-09-20T10:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8d1198367eba3346",
+      "title_orig": "Celtic, Rangers and rivals ranked by xG as worrying stat proves why Russell Martin is under pressure",
+      "summary_orig": "How do Celtic, Rangers, Hibs and Hearts’ attacking threat compare to their rivals across the Scottish Premiership?",
+      "lang": "en",
+      "title_en": "Celtic, Rangers and rivals ranked by xG as worrying stat proves why Russell Martin is under pressure",
+      "summary_en": "How do Celtic, Rangers, Hibs and Hearts’ attacking threat compare to their rivals across the Scottish Premiership?",
+      "title": "Celtic, Rangers and rivals ranked by xG as worrying stat proves why Russell Martin is under pressure",
+      "summary": "How do Celtic, Rangers, Hibs and Hearts’ attacking threat compare to their rivals across the Scottish Premiership?",
+      "url": "https://www.scotsman.com/sport/football/scottish-premiership/latest-premiership-news/celtic-rangers-and-rivals-ranked-by-xg-as-worrying-stat-proves-why-russell-martin-is-under-pressure-5325728",
+      "source": "The Scotsman",
+      "published_at": "2025-09-20T09:56:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bc173b3821fe94cb",
+      "title_orig": "Will soon reveal ‘hydrogen bomb’ to prove ‘vote theft’ by Modi, says Rahul Gandhi in Wayanad",
+      "summary_orig": "Rahul Gandhi says a Criminal Investigation Department probe is on in Karnataka into ‘vote theft’ allegations in Aland Assembly constituency",
+      "lang": "en",
+      "title_en": "Will soon reveal ‘hydrogen bomb’ to prove ‘vote theft’ by Modi, says Rahul Gandhi in Wayanad",
+      "summary_en": "Rahul Gandhi says a Criminal Investigation Department probe is on in Karnataka into ‘vote theft’ allegations in Aland Assembly constituency",
+      "title": "Will soon reveal ‘hydrogen bomb’ to prove ‘vote theft’ by Modi, says Rahul Gandhi in Wayanad",
+      "summary": "Rahul Gandhi says a Criminal Investigation Department probe is on in Karnataka into ‘vote theft’ allegations in Aland Assembly constituency",
+      "url": "https://www.thehindu.com/news/national/will-soon-reveal-hydrogen-bomb-to-prove-vote-theft-by-modi-says-rahul-gandhi-in-wayanad/article70073278.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-09-20T09:52:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f33d04183aa3e3e4",
+      "title_orig": "Cyberattack disrupts European airports including Heathrow, Berlin",
+      "summary_orig": "A cyberattack on a provider of check-in and boarding systems has disrupted operations at several major European airports, including London’s Heathrow, the continent’s busiest, causing flight delays and cancellations on Saturday.\nCollins Aerospace, which provides systems for several airlines at airports globally, is experiencing a technical issue that may cause delays for departing passengers, Heathrow Airport said, having warned of delays.\nBrussels Airport and Berlin Airport were also affected...",
+      "lang": "en",
+      "title_en": "Cyberattack disrupts European airports including Heathrow, Berlin",
+      "summary_en": "A cyberattack on a provider of check-in and boarding systems has disrupted operations at several major European airports, including London’s Heathrow, the continent’s busiest, causing flight delays and cancellations on Saturday.\nCollins Aerospace, which provides systems for several airlines at airports globally, is experiencing a technical issue that may cause delays for departing passengers, Heathrow Airport said, having warned of delays.\nBrussels Airport and Berlin Airport were also affected...",
+      "title": "Cyberattack disrupts European airports including Heathrow, Berlin",
+      "summary": "A cyberattack on a provider of check-in and boarding systems has disrupted operations at several major European airports, including London’s Heathrow, the continent’s busiest, causing flight delays and cancellations on Saturday.\nCollins Aerospace, which provides systems for several airlines at airports globally, is experiencing a technical issue that may cause delays for departing passengers, Heathrow Airport said, having warned of delays.\nBrussels Airport and Berlin Airport were also affected...",
+      "url": "https://www.scmp.com/news/world/europe/article/3326254/cyberattack-disrupts-european-airports-including-heathrow-berlin?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2025-09-20T09:48:14+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "114e59dc49b748d7",
+      "title_orig": "Foreign Office UK issues warning to anyone travelling to Portugal",
+      "summary_orig": "You could face last-minute delays at airports with travellers being warned to check one website before packing their suitcase",
+      "lang": "en",
+      "title_en": "Foreign Office UK issues warning to anyone travelling to Portugal",
+      "summary_en": "You could face last-minute delays at airports with travellers being warned to check one website before packing their suitcase",
+      "title": "Foreign Office UK issues warning to anyone travelling to Portugal",
+      "summary": "You could face last-minute delays at airports with travellers being warned to check one website before packing their suitcase",
+      "url": "https://www.bristolpost.co.uk/news/uk-world-news/foreign-office-uk-issues-warning-10514831",
+      "source": "Bristol Post - News",
+      "published_at": "2025-09-20T09:40:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "231fe14f375659fc",
+      "title_orig": "Foreign Office UK issues warning to anyone travelling to Portugal",
+      "summary_orig": "You could face last-minute delays at airports with travellers being warned to check one website before packing their suitcase",
+      "lang": "en",
+      "title_en": "Foreign Office UK issues warning to anyone travelling to Portugal",
+      "summary_en": "You could face last-minute delays at airports with travellers being warned to check one website before packing their suitcase",
+      "title": "Foreign Office UK issues warning to anyone travelling to Portugal",
+      "summary": "You could face last-minute delays at airports with travellers being warned to check one website before packing their suitcase",
+      "url": "https://www.liverpoolecho.co.uk/travel/foreign-office-uk-issues-warning-32516821",
+      "source": "Liverpool Echo - Home",
+      "published_at": "2025-09-20T09:39:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "8baa8b7384488b3b",
       "title_orig": "Thousands gather in Swat for peace",
@@ -13,6 +319,24 @@
       "url": "https://www.dawn.com/news/1943377/thousands-gather-in-swat-for-peace",
       "source": "Dawn - Home",
       "published_at": "2025-09-20T09:35:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f5f5ec3c62d870b4",
+      "title_orig": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
+      "summary_orig": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
+      "lang": "en",
+      "title_en": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
+      "summary_en": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
+      "title": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
+      "summary": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
+      "url": "https://wtop.com/russia-ukraine-war-news/2025/09/russia-launches-large-scale-attack-on-ukraine-killing-3-and-injuring-dozens/",
+      "source": "WTOP News",
+      "published_at": "2025-09-20T09:34:17+00:00",
       "tags": [
         "airport/security"
       ],
@@ -74,21 +398,21 @@
       "geo": {}
     },
     {
-      "id": "49c77895d2cdbf4d",
-      "title_orig": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
-      "summary_orig": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Below are some of the latest pictures of Ukraine coming through from the wires. Collins Aerospace owner RTX said on Saturday that it had become aware of a cyber- related disruption to its MUSE software in selected airports, after major European flight hubs flagged delays due to a cyber-attack, Reuters reports. We are actively working to resolve the issue and restore full functionality to our customers as quickly as possible. The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations. Continue reading...",
+      "id": "f585bcef5fd9a737",
+      "title_orig": "More bus workers to be balloted on potential strike action",
+      "summary_orig": "RMT members at First South West in Somerset and Cornwall will vote in the coming weeks on whether to launch a campaign of industrial action.",
       "lang": "en",
-      "title_en": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
-      "summary_en": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Below are some of the latest pictures of Ukraine coming through from the wires. Collins Aerospace owner RTX said on Saturday that it had become aware of a cyber- related disruption to its MUSE software in selected airports, after major European flight hubs flagged delays due to a cyber-attack, Reuters reports. We are actively working to resolve the issue and restore full functionality to our customers as quickly as possible. The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations. Continue reading...",
-      "title": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
-      "summary": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Below are some of the latest pictures of Ukraine coming through from the wires. Collins Aerospace owner RTX said on Saturday that it had become aware of a cyber- related disruption to its MUSE software in selected airports, after major European flight hubs flagged delays due to a cyber-attack, Reuters reports. We are actively working to resolve the issue and restore full functionality to our customers as quickly as possible. The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-20T09:21:05+00:00",
+      "title_en": "More bus workers to be balloted on potential strike action",
+      "summary_en": "RMT members at First South West in Somerset and Cornwall will vote in the coming weeks on whether to launch a campaign of industrial action.",
+      "title": "More bus workers to be balloted on potential strike action",
+      "summary": "RMT members at First South West in Somerset and Cornwall will vote in the coming weeks on whether to launch a campaign of industrial action.",
+      "url": "https://www.standard.co.uk/news/uk/rmt-cornwall-somerset-unite-b1248771.html",
+      "source": "The Standard News",
+      "published_at": "2025-09-20T09:25:03+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -290,42 +614,6 @@
       "geo": {}
     },
     {
-      "id": "f5f5ec3c62d870b4",
-      "title_orig": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
-      "summary_orig": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
-      "lang": "en",
-      "title_en": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
-      "summary_en": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
-      "title": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens",
-      "summary": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at…",
-      "url": "https://wtop.com/russia-ukraine-war-news/2025/09/russia-launches-large-scale-attack-on-ukraine-killing-3-and-injuring-dozens/",
-      "source": "WTOP News",
-      "published_at": "2025-09-20T09:13:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ca59fff4294bea4e",
-      "title_orig": "Heathrow cyber attack LIVE: London travellers face major disruption after Europe-wide IT meltdown",
-      "summary_orig": "Flights at Heathrow face major delays after cyber attack on Collins Aerospace, the firm behind global airline check-in and boarding systems",
-      "lang": "en",
-      "title_en": "Heathrow cyber attack LIVE: London travellers face major disruption after Europe-wide IT meltdown",
-      "summary_en": "Flights at Heathrow face major delays after cyber attack on Collins Aerospace, the firm behind global airline check-in and boarding systems",
-      "title": "Heathrow cyber attack LIVE: London travellers face major disruption after Europe-wide IT meltdown",
-      "summary": "Flights at Heathrow face major delays after cyber attack on Collins Aerospace, the firm behind global airline check-in and boarding systems",
-      "url": "https://www.standard.co.uk/news/london/london-heathrow-delays-cyber-attack-check-in-systems-b1248765.html",
-      "source": "The Standard News",
-      "published_at": "2025-09-20T09:10:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2d76c1c9b5d0ae8c",
       "title_orig": "Manchester Airport 'not affected' amid Heathrow cyber attack with flights cancelled",
       "summary_orig": "Holidaymakers are being told to check their flight status",
@@ -434,33 +722,6 @@
       "geo": {}
     },
     {
-      "id": "9ab18008177bf7fe",
-      "title_orig": "Heathrow among airports hit by cyber-attack on check-in system",
-      "summary_orig": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
-      "lang": "en",
-      "title_en": "Heathrow among airports hit by cyber-attack on check-in system",
-      "summary_en": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
-      "title": "Heathrow among airports hit by cyber-attack on check-in system",
-      "summary": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
-      "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-09-20T09:04:36+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
       "id": "8c7e2bab47ab8074",
       "title_orig": "Thousands evacuated in Hong Kong after bomb unearthed at construction site",
       "summary_orig": "Bombs left over from the Second World War are often discovered in Hong Kong",
@@ -524,89 +785,17 @@
       }
     },
     {
-      "id": "a472189a74c62b2f",
-      "title_orig": "Ukraine develops its drone industry as it seeks to triple production",
-      "summary_orig": "Ukrainian troops are pressing on with the counteroffensive in the east. President Zelensky says they have managed to push back some Russian drones. Ukraine continues to rely on weapons from its Western allies but is also investing in its own defense industry, particularly in the production of drones. Solange Mougin  and Axelle Simon report.",
-      "lang": "en",
-      "title_en": "Ukraine develops its drone industry as it seeks to triple production",
-      "summary_en": "Ukrainian troops are pressing on with the counteroffensive in the east. President Zelensky says they have managed to push back some Russian drones. Ukraine continues to rely on weapons from its Western allies but is also investing in its own defense industry, particularly in the production of drones. Solange Mougin  and Axelle Simon report.",
-      "title": "Ukraine develops its drone industry as it seeks to triple production",
-      "summary": "Ukrainian troops are pressing on with the counteroffensive in the east. President Zelensky says they have managed to push back some Russian drones. Ukraine continues to rely on weapons from its Western allies but is also investing in its own defense industry, particularly in the production of drones. Solange Mougin  and Axelle Simon report.",
-      "url": "https://www.france24.com/en/video/20250920-ukraine-develops-its-drone-industry-as-it-seeks-to-triple-production",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T08:58:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "eb056bfcbe1dbce9",
       "title_orig": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
-      "summary_orig": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your Party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
+      "summary_orig": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
       "lang": "en",
       "title_en": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
-      "summary_en": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your Party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
+      "summary_en": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
       "title": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
-      "summary": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your Party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
+      "summary": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
       "url": "https://www.theguardian.com/politics/2025/sep/20/zarah-sultana-consults-defamation-lawyers-after-spat-with-jeremy-corbyn-over-party-funds",
       "source": "World news | The Guardian",
       "published_at": "2025-09-20T08:57:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f0c1b64c77e3c458",
-      "title_orig": "US: Fallout continues after Charlie Kirk's assassination",
-      "summary_orig": "The fallout continues after the assassination of conservative activist Charlie Kirk. In recent days, there have also been freedom of speech protests following the removal of Jimmy Kimmel Live from ABC’s schedule over Kirk’s comments. Kirk’s funeral is scheduled for Sunday in Arizona, with President Trump expected to attend. Peter O’Brian has the latest.",
-      "lang": "en",
-      "title_en": "US: Fallout continues after Charlie Kirk's assassination",
-      "summary_en": "The fallout continues after the assassination of conservative activist Charlie Kirk. In recent days, there have also been freedom of speech protests following the removal of Jimmy Kimmel Live from ABC’s schedule over Kirk’s comments. Kirk’s funeral is scheduled for Sunday in Arizona, with President Trump expected to attend. Peter O’Brian has the latest.",
-      "title": "US: Fallout continues after Charlie Kirk's assassination",
-      "summary": "The fallout continues after the assassination of conservative activist Charlie Kirk. In recent days, there have also been freedom of speech protests following the removal of Jimmy Kimmel Live from ABC’s schedule over Kirk’s comments. Kirk’s funeral is scheduled for Sunday in Arizona, with President Trump expected to attend. Peter O’Brian has the latest.",
-      "url": "https://www.france24.com/en/video/20250920-us-fallout-continues-after-charlie-kirk-s-assassination",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T08:55:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "eb58b4bd61e421fb",
-      "title_orig": "US forces strike third alleged drug vessel killing three, Trump says",
-      "summary_orig": "President Donald Trump announced that US forces conducted a “lethal kinetic strike” on a vessel allegedly trafficking drugs, killing three “male narcoterrorists” on board. He said he authorized the operation, carried out within the US Southern Command’s jurisdiction, after intelligence confirmed the boat’s involvement in drug smuggling. This marks the third such strike on suspected narcotics vessels in recent weeks. Postdoctoral researcher Emilia Ziosi from the University of Oxford’s Department of Sociology joins us for more.",
-      "lang": "en",
-      "title_en": "US forces strike third alleged drug vessel killing three, Trump says",
-      "summary_en": "President Donald Trump announced that US forces conducted a “lethal kinetic strike” on a vessel allegedly trafficking drugs, killing three “male narcoterrorists” on board. He said he authorized the operation, carried out within the US Southern Command’s jurisdiction, after intelligence confirmed the boat’s involvement in drug smuggling. This marks the third such strike on suspected narcotics vessels in recent weeks. Postdoctoral researcher Emilia Ziosi from the University of Oxford’s Department of Sociology joins us for more.",
-      "title": "US forces strike third alleged drug vessel killing three, Trump says",
-      "summary": "President Donald Trump announced that US forces conducted a “lethal kinetic strike” on a vessel allegedly trafficking drugs, killing three “male narcoterrorists” on board. He said he authorized the operation, carried out within the US Southern Command’s jurisdiction, after intelligence confirmed the boat’s involvement in drug smuggling. This marks the third such strike on suspected narcotics vessels in recent weeks. Postdoctoral researcher Emilia Ziosi from the University of Oxford’s Department of Sociology joins us for more.",
-      "url": "https://www.france24.com/en/video/20250920-us-forces-strike-third-alleged-drug-vessel-killing-three-trump-says",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T08:53:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "2dc5c6eed316f955",
-      "title_orig": "KPop Demon Hunters drone show wovs fans in South Korea",
-      "summary_orig": "Fans of the hit animated musical KPop Demon Hunters, Netflix’s most-watched film, enjoyed a spectacular drone show over Seoul on Sunday, where 1,200 drones illuminated the night sky with images of beloved characters and iconic South Korean landmarks. According to The Korea Herald, the display featured fan-favorite character Rumi towering over the city, leaving the crowd in awe at the free event. France24’s Tommy Walker, Chloé Borgnon and Constantin Simon report.",
-      "lang": "en",
-      "title_en": "KPop Demon Hunters drone show wovs fans in South Korea",
-      "summary_en": "Fans of the hit animated musical KPop Demon Hunters, Netflix’s most-watched film, enjoyed a spectacular drone show over Seoul on Sunday, where 1,200 drones illuminated the night sky with images of beloved characters and iconic South Korean landmarks. According to The Korea Herald, the display featured fan-favorite character Rumi towering over the city, leaving the crowd in awe at the free event. France24’s Tommy Walker, Chloé Borgnon and Constantin Simon report.",
-      "title": "KPop Demon Hunters drone show wovs fans in South Korea",
-      "summary": "Fans of the hit animated musical KPop Demon Hunters, Netflix’s most-watched film, enjoyed a spectacular drone show over Seoul on Sunday, where 1,200 drones illuminated the night sky with images of beloved characters and iconic South Korean landmarks. According to The Korea Herald, the display featured fan-favorite character Rumi towering over the city, leaving the crowd in awe at the free event. France24’s Tommy Walker, Chloé Borgnon and Constantin Simon report.",
-      "url": "https://www.france24.com/en/video/20250920-kpop-demon-hunters-drone-show-wovs-fans-in-south-korea",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T08:47:13+00:00",
       "tags": [
         "airport/security"
       ],
@@ -830,24 +1019,6 @@
       "geo": {}
     },
     {
-      "id": "f5126e12029fceea",
-      "title_orig": "Heathrow passengers warned of delays amid 'cyber-attacks' rocking major airports",
-      "summary_orig": "Technical issues have been reported across the UK's biggest travel hub this morning with passengers warned it \"may cause delays\".",
-      "lang": "en",
-      "title_en": "Heathrow passengers warned of delays amid 'cyber-attacks' rocking major airports",
-      "summary_en": "Technical issues have been reported across the UK's biggest travel hub this morning with passengers warned it \"may cause delays\".",
-      "title": "Heathrow passengers warned of delays amid 'cyber-attacks' rocking major airports",
-      "summary": "Technical issues have been reported across the UK's biggest travel hub this morning with passengers warned it \"may cause delays\".",
-      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/heathrow-passengers-warned-delays-amid-35935330",
-      "source": "Daily Record - Home",
-      "published_at": "2025-09-20T08:03:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "0e001617e340da7c",
       "title_orig": "Inside France: Revolution as theatre, celeriac and the secret French football stars",
       "summary_orig": "From massive street protests and widespread strike action to Emmanuel Macron's popularity contest with celeriac salad, via some top-flight French sport, Inside France looks at what we have been talking about in France this week.",
@@ -949,12 +1120,12 @@
     {
       "id": "753991081b81e769",
       "title_orig": "Russia launches 'massive attack' on Ukraine, killing three and wounding dozens",
-      "summary_orig": "Ukraine issued a nationwide air alert, with officials reporting other strikes in the region around the capital Kyiv.",
+      "summary_orig": "Volodymyr Zeenskyy said he would meet Donald Trump at the UN next week.",
       "lang": "en",
       "title_en": "Russia launches 'massive attack' on Ukraine, killing three and wounding dozens",
-      "summary_en": "Ukraine issued a nationwide air alert, with officials reporting other strikes in the region around the capital Kyiv.",
+      "summary_en": "Volodymyr Zeenskyy said he would meet Donald Trump at the UN next week.",
       "title": "Russia launches 'massive attack' on Ukraine, killing three and wounding dozens",
-      "summary": "Ukraine issued a nationwide air alert, with officials reporting other strikes in the region around the capital Kyiv.",
+      "summary": "Volodymyr Zeenskyy said he would meet Donald Trump at the UN next week.",
       "url": "https://www.thejournal.ie/russia-launches-massive-attack-on-ukraine-killing-three-and-wounding-dozens-6822287-Sep2025/",
       "source": "TheJournal.ie",
       "published_at": "2025-09-20T07:40:56+00:00",
@@ -1043,24 +1214,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "06e35e395c497ef5",
-      "title_orig": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
-      "summary_orig": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
-      "lang": "en",
-      "title_en": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
-      "summary_en": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
-      "title": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
-      "summary": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
-      "url": "https://www.france24.com/en/video/20250920-many-of-us-knew-that-the-second-term-of-donald-trump-would-be-much-more-dangerous-than-the-first",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T07:27:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1343,21 +1496,21 @@
       "geo": {}
     },
     {
-      "id": "0b6b53504c20cc0e",
-      "title_orig": "Live: Zelensky slams large-scale Russian strikes on Ukraine, Poland deploys air defences",
-      "summary_orig": "President Volodymyr Zelensky on Saturday denounced a major Russian drone and missile attack overnight that killed three people and injured dozens. Early Saturday, Polish and allied aircraft were deployed to ensure the safety of Polish airspace as Russia’s attack also targeted the west of Ukraine near the border with Poland. Follow our liveblog for all the latest on the war in Ukraine.",
+      "id": "aa29d9bd4373f2c6",
+      "title_orig": "Mumbai-Phuket flight diverted to Chennai airport after bomb threat message found in toilet",
+      "summary_orig": "Thorough checks were conducted by the Bomb Detection and Disposal Squad (BDDS), and they found that the message was a hoax. The flight was rescheduled.",
       "lang": "en",
-      "title_en": "Live: Zelensky slams large-scale Russian strikes on Ukraine, Poland deploys air defences",
-      "summary_en": "President Volodymyr Zelensky on Saturday denounced a major Russian drone and missile attack overnight that killed three people and injured dozens. Early Saturday, Polish and allied aircraft were deployed to ensure the safety of Polish airspace as Russia’s attack also targeted the west of Ukraine near the border with Poland. Follow our liveblog for all the latest on the war in Ukraine.",
-      "title": "Live: Zelensky slams large-scale Russian strikes on Ukraine, Poland deploys air defences",
-      "summary": "President Volodymyr Zelensky on Saturday denounced a major Russian drone and missile attack overnight that killed three people and injured dozens. Early Saturday, Polish and allied aircraft were deployed to ensure the safety of Polish airspace as Russia’s attack also targeted the west of Ukraine near the border with Poland. Follow our liveblog for all the latest on the war in Ukraine.",
-      "url": "https://www.france24.com/en/europe/20250920-poland-scrambles-aircraft-in-response-to-russian-strikes-on-western-ukraine",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-20T05:24:02+00:00",
+      "title_en": "Mumbai-Phuket flight diverted to Chennai airport after bomb threat message found in toilet",
+      "summary_en": "Thorough checks were conducted by the Bomb Detection and Disposal Squad (BDDS), and they found that the message was a hoax. The flight was rescheduled.",
+      "title": "Mumbai-Phuket flight diverted to Chennai airport after bomb threat message found in toilet",
+      "summary": "Thorough checks were conducted by the Bomb Detection and Disposal Squad (BDDS), and they found that the message was a hoax. The flight was rescheduled.",
+      "url": "https://www.thehindu.com/news/cities/chennai/mumbai-phuket-flight-diverted-to-chennai-airport-after-bomb-threat-found-in-washroom/article70071447.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-09-20T05:10:00+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -1597,12 +1750,12 @@
     {
       "id": "8d6e49b89187e5e5",
       "title_orig": "WWII bomb in Hong Kong’s Quarry Bay successfully disposed of after 9-hour effort",
-      "summary_orig": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of after a nine-hour effort at around noon on Saturday.\nThe defusing process, which started at 2am after evacuating some 6,000 residents from 18 buildings near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong had been hit by heavy rain from Friday night until Saturday noon due to tropical depression...",
+      "summary_orig": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of at around noon on Saturday after a nine-hour effort.\nThe defusing, which started at 2am after evacuating about 6,000 residents from 18 buildings near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong was hit by heavy rain from Friday night until Saturday noon due to Tropical Depression Mitag.\n“The...",
       "lang": "en",
       "title_en": "WWII bomb in Hong Kong’s Quarry Bay successfully disposed of after 9-hour effort",
-      "summary_en": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of after a nine-hour effort at around noon on Saturday.\nThe defusing process, which started at 2am after evacuating some 6,000 residents from 18 buildings near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong had been hit by heavy rain from Friday night until Saturday noon due to tropical depression...",
+      "summary_en": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of at around noon on Saturday after a nine-hour effort.\nThe defusing, which started at 2am after evacuating about 6,000 residents from 18 buildings near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong was hit by heavy rain from Friday night until Saturday noon due to Tropical Depression Mitag.\n“The...",
       "title": "WWII bomb in Hong Kong’s Quarry Bay successfully disposed of after 9-hour effort",
-      "summary": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of after a nine-hour effort at around noon on Saturday.\nThe defusing process, which started at 2am after evacuating some 6,000 residents from 18 buildings near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong had been hit by heavy rain from Friday night until Saturday noon due to tropical depression...",
+      "summary": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of at around noon on Saturday after a nine-hour effort.\nThe defusing, which started at 2am after evacuating about 6,000 residents from 18 buildings near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong was hit by heavy rain from Friday night until Saturday noon due to Tropical Depression Mitag.\n“The...",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3326230/hong-kong-authorities-clear-highly-dangerous-wartime-bomb-2pm-saturday?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2025-09-20T02:28:23+00:00",
@@ -1697,24 +1850,6 @@
       "url": "https://www.japantimes.co.jp/news/2025/09/20/world/politics/trump-us-drug-vessel-attack/",
       "source": "Latest articles - The Japan Times",
       "published_at": "2025-09-20T01:26:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b09799dfe19b0feb",
-      "title_orig": "Trump says three 'narcoterrorists' killed in US strike on alleged drug boat",
-      "summary_orig": "This is the third fatal strike the US military has carried out this month on a vessel allegedly carrying drugs.",
-      "lang": "en",
-      "title_en": "Trump says three 'narcoterrorists' killed in US strike on alleged drug boat",
-      "summary_en": "This is the third fatal strike the US military has carried out this month on a vessel allegedly carrying drugs.",
-      "title": "Trump says three 'narcoterrorists' killed in US strike on alleged drug boat",
-      "summary": "This is the third fatal strike the US military has carried out this month on a vessel allegedly carrying drugs.",
-      "url": "https://www.abc.net.au/news/2025-09-20/us-military-carries-out-another-strike-on-alleged-drug-boat/105797450",
-      "source": "Just In",
-      "published_at": "2025-09-20T01:14:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2082,60 +2217,6 @@
       "geo": {}
     },
     {
-      "id": "34ee5ef7c95dc432",
-      "title_orig": "Brett James, Grammy-winning songwriter, dies in plane crash",
-      "summary_orig": "James’ wife and stepdaughter were also killed when the Cirrus SR22T crashed in Franklin, North Carolina Brett James, a Grammy-winning songwriter whose credits include the Carrie Underwood hit Jesus, Take the Wheel, died alongside his wife and stepdaughter in a plane crash on Thursday, according to authorities and reports. James, 57, had been flying with his wife and stepdaughter when the plane, a Cirrus SR22T, crashed “under unknown circumstances” in a wooded area of Franklin, North Carolina, said officials and media reports. The plane had taken off from John C Tune airport in Nashville, Tennessee, as reported by the Associated Press. Continue reading...",
-      "lang": "en",
-      "title_en": "Brett James, Grammy-winning songwriter, dies in plane crash",
-      "summary_en": "James’ wife and stepdaughter were also killed when the Cirrus SR22T crashed in Franklin, North Carolina Brett James, a Grammy-winning songwriter whose credits include the Carrie Underwood hit Jesus, Take the Wheel, died alongside his wife and stepdaughter in a plane crash on Thursday, according to authorities and reports. James, 57, had been flying with his wife and stepdaughter when the plane, a Cirrus SR22T, crashed “under unknown circumstances” in a wooded area of Franklin, North Carolina, said officials and media reports. The plane had taken off from John C Tune airport in Nashville, Tennessee, as reported by the Associated Press. Continue reading...",
-      "title": "Brett James, Grammy-winning songwriter, dies in plane crash",
-      "summary": "James’ wife and stepdaughter were also killed when the Cirrus SR22T crashed in Franklin, North Carolina Brett James, a Grammy-winning songwriter whose credits include the Carrie Underwood hit Jesus, Take the Wheel, died alongside his wife and stepdaughter in a plane crash on Thursday, according to authorities and reports. James, 57, had been flying with his wife and stepdaughter when the plane, a Cirrus SR22T, crashed “under unknown circumstances” in a wooded area of Franklin, North Carolina, said officials and media reports. The plane had taken off from John C Tune airport in Nashville, Tennessee, as reported by the Associated Press. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2025/sep/19/brett-james-grammy-songwriter-plane-crash",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-19T21:19:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "d7282a2f33c6754f",
-      "title_orig": "Pa. union activists hone in on healthcare cuts ahead of 2026 election",
-      "summary_orig": "Trump's healthcare cuts, as well as the largesse of conservative mega-donors like Jeff Yass, have become the major lines of attack against lawmakers like Scott Perry.",
-      "lang": "en",
-      "title_en": "Pa. union activists hone in on healthcare cuts ahead of 2026 election",
-      "summary_en": "Trump's healthcare cuts, as well as the largesse of conservative mega-donors like Jeff Yass, have become the major lines of attack against lawmakers like Scott Perry.",
-      "title": "Pa. union activists hone in on healthcare cuts ahead of 2026 election",
-      "summary": "Trump's healthcare cuts, as well as the largesse of conservative mega-donors like Jeff Yass, have become the major lines of attack against lawmakers like Scott Perry.",
-      "url": "https://www.pennlive.com/news/2025/09/pa-union-activists-hone-in-on-healthcare-cuts-ahead-of-2026-election.html",
-      "source": "pennlive.com",
-      "published_at": "2025-09-19T21:17:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8337e2ec2e4d91fb",
-      "title_orig": "Hospital provides update on conditions of officers shot in York County ambush",
-      "summary_orig": "A spokesman for Wellspan Health provided the update at 4:39 p.m. Friday, two days after the attack which killed three detectives.",
-      "lang": "en",
-      "title_en": "Hospital provides update on conditions of officers shot in York County ambush",
-      "summary_en": "A spokesman for Wellspan Health provided the update at 4:39 p.m. Friday, two days after the attack which killed three detectives.",
-      "title": "Hospital provides update on conditions of officers shot in York County ambush",
-      "summary": "A spokesman for Wellspan Health provided the update at 4:39 p.m. Friday, two days after the attack which killed three detectives.",
-      "url": "https://www.pennlive.com/crime/2025/09/hospital-provides-update-on-conditions-of-officers-shot-in-york-county-ambush.html",
-      "source": "pennlive.com",
-      "published_at": "2025-09-19T21:08:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4ff6662ee50fa302",
       "title_orig": "Ukraine to start exporting weapons to help pay for war against Russia",
       "summary_orig": "Ukrainian President Volodymyr Zelensky said on Friday that Kyiv plans to begin exporting certain types of weapons, such as naval drones, to finance its domestic military production.\nUkraine has been heavily dependent on Western funding and arms deliveries since Russia invaded in 2022 but, despite the war raging on, has also developed its own domestic manufacturing, notably of drones.\n“We already have certain types of weapons in much larger quantities than we actually need today in Ukraine,”...",
@@ -2415,24 +2496,6 @@
       "geo": {}
     },
     {
-      "id": "9a10e2783b77d6ae",
-      "title_orig": "Trump Vs The TV Networks, A right royal knees up, A Gaza ‘Genocide’",
-      "summary_orig": "This week has seen major upheavals on the global stage: Trump’s lavish and unprecedented UK state visit offered a boost to embattled Prime Minister Keir Starmer, while the U.S. grappled with political fallout and free speech debates following activist Charlie Kirk’s assassination. Meanwhile, Israel faced a damning UN report accusing it of genocide in Gaza, charges it strongly rejected, and France was rocked by mass strikes against austerity as President Macron contended with both political unrest and a bizarre defamation case targeting his wife.",
-      "lang": "en",
-      "title_en": "Trump Vs The TV Networks, A right royal knees up, A Gaza ‘Genocide’",
-      "summary_en": "This week has seen major upheavals on the global stage: Trump’s lavish and unprecedented UK state visit offered a boost to embattled Prime Minister Keir Starmer, while the U.S. grappled with political fallout and free speech debates following activist Charlie Kirk’s assassination. Meanwhile, Israel faced a damning UN report accusing it of genocide in Gaza, charges it strongly rejected, and France was rocked by mass strikes against austerity as President Macron contended with both political unrest and a bizarre defamation case targeting his wife.",
-      "title": "Trump Vs The TV Networks, A right royal knees up, A Gaza ‘Genocide’",
-      "summary": "This week has seen major upheavals on the global stage: Trump’s lavish and unprecedented UK state visit offered a boost to embattled Prime Minister Keir Starmer, while the U.S. grappled with political fallout and free speech debates following activist Charlie Kirk’s assassination. Meanwhile, Israel faced a damning UN report accusing it of genocide in Gaza, charges it strongly rejected, and France was rocked by mass strikes against austerity as President Macron contended with both political unrest and a bizarre defamation case targeting his wife.",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20250919-trump-vs-the-tv-networks-a-right-royal-knees-up-a-gaza-genocide",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-19T19:05:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "70b89ce4e13ef77a",
       "title_orig": "Press Release: Emirates welcomes its first retrofitted Boeing 777 in Africa",
       "summary_orig": "Following the advanced deployment of the retrofitted Boeing 777 aircraft to both Cape Town and Johannesburg last month, Emirates, the world’s largest international airline, hosted a guided tour of the fully refreshed aircraft. The airline showcased its next-generation cabins, featuring the latest sophisticated design and South Africa’s debut of the highly acclaimed Premium Economy Cabin.... The post Press Release: Emirates welcomes its first retrofitted Boeing 777 in Africa appeared first on Runway Girl .",
@@ -2613,24 +2676,6 @@
       "geo": {}
     },
     {
-      "id": "c5ba599ac52e94da",
-      "title_orig": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
-      "summary_orig": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defense”.",
-      "lang": "en",
-      "title_en": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
-      "summary_en": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defense”.",
-      "title": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
-      "summary": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defense”.",
-      "url": "https://www.france24.com/en/live-news/20250919-venezuela-accuses-us-of-waging-undeclared-war",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-19T18:01:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "5220f6566e8b03c4",
       "title_orig": "Trump administration plans $8b in weapons sales to Israel, sources say",
       "summary_orig": "The package is said to include attack helicopters and troop carriers.",
@@ -2732,42 +2777,6 @@
       "url": "https://www.hindustantimes.com/india-news/watch-expected-6-got-only-4-golgappas-vadodara-woman-stages-bizarre-protest-on-road-101758283677017.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2025-09-19T17:08:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c21ccb9c5bb58c4f",
-      "title_orig": "Kerala Police Officers’ Association flags attacks on cops, rising protests",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Kerala Police Officers’ Association flags attacks on cops, rising protests",
-      "summary_en": "",
-      "title": "Kerala Police Officers’ Association flags attacks on cops, rising protests",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-police-officers-association-flags-attacks-on-cops-rising-protests/article70071291.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-09-19T17:05:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7f0fd2e73271c841",
-      "title_orig": "Batla House encounter anniversary: Jamia students detained during protest; AISA alleges abduction",
-      "summary_orig": "It claimed that among those detained were AISA Delhi State President Saiyed Ishfaq, AISA Jamia Secretary Saurabh, and two other student leaders.",
-      "lang": "en",
-      "title_en": "Batla House encounter anniversary: Jamia students detained during protest; AISA alleges abduction",
-      "summary_en": "It claimed that among those detained were AISA Delhi State President Saiyed Ishfaq, AISA Jamia Secretary Saurabh, and two other student leaders.",
-      "title": "Batla House encounter anniversary: Jamia students detained during protest; AISA alleges abduction",
-      "summary": "It claimed that among those detained were AISA Delhi State President Saiyed Ishfaq, AISA Jamia Secretary Saurabh, and two other student leaders.",
-      "url": "https://www.hindustantimes.com/india-news/batla-house-encounter-anniversary-jamia-students-detained-during-protest-aisa-alleges-abduction-101758301186884.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-09-19T17:02:35+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2894,24 +2903,6 @@
       "url": "https://runwaygirlnetwork.com/2025/09/boeing-cautiously-optimistic-about-42-max-per-month/",
       "source": "Runway Girl",
       "published_at": "2025-09-19T16:15:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8d6b695134882636",
-      "title_orig": "Phuket-bound IndiGo flight diverted to Chennai over security threat onboard",
-      "summary_orig": "The flight was forced to divert to Chennai after a bomb threat, which turned out to be a hoax. The flight will resume journey after all checks are over.",
-      "lang": "en",
-      "title_en": "Phuket-bound IndiGo flight diverted to Chennai over security threat onboard",
-      "summary_en": "The flight was forced to divert to Chennai after a bomb threat, which turned out to be a hoax. The flight will resume journey after all checks are over.",
-      "title": "Phuket-bound IndiGo flight diverted to Chennai over security threat onboard",
-      "summary": "The flight was forced to divert to Chennai after a bomb threat, which turned out to be a hoax. The flight will resume journey after all checks are over.",
-      "url": "https://www.hindustantimes.com/india-news/mumbai-phuket-indigo-flight-diverted-to-chennai-over-security-threat-onboard-101758297549974.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-09-19T16:14:55+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3092,24 +3083,6 @@
       "url": "https://www.scmp.com/news/china/military/article/3326177/china-reveals-more-its-drone-power-air-show-2-weeks-after-victory-parade?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2025-09-19T15:00:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "fd6cfc23e136cf00",
-      "title_orig": "Central NY man threatens to blow up hospital, hurt staff, officers, police say",
-      "summary_orig": "He was charged with two counts of making a terroristic threat.",
-      "lang": "en",
-      "title_en": "Central NY man threatens to blow up hospital, hurt staff, officers, police say",
-      "summary_en": "He was charged with two counts of making a terroristic threat.",
-      "title": "Central NY man threatens to blow up hospital, hurt staff, officers, police say",
-      "summary": "He was charged with two counts of making a terroristic threat.",
-      "url": "https://www.syracuse.com/crime/2025/09/central-ny-man-threatens-to-blow-up-hospital-hurt-staff-officers-police-say.html",
-      "source": "syracuse.com",
-      "published_at": "2025-09-19T14:59:30+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3324,24 +3297,6 @@
       }
     },
     {
-      "id": "5df148837b8a0a3c",
-      "title_orig": "Drug mule caught at Belfast City Airport with suitcases of cannabis worth £800,000 avoids jail",
-      "summary_orig": "She alleged that she was told the suit cases contained counterfeit fake designer clothing and shoes as a present for his family members",
-      "lang": "en",
-      "title_en": "Drug mule caught at Belfast City Airport with suitcases of cannabis worth £800,000 avoids jail",
-      "summary_en": "She alleged that she was told the suit cases contained counterfeit fake designer clothing and shoes as a present for his family members",
-      "title": "Drug mule caught at Belfast City Airport with suitcases of cannabis worth £800,000 avoids jail",
-      "summary": "She alleged that she was told the suit cases contained counterfeit fake designer clothing and shoes as a present for his family members",
-      "url": "https://www.belfastlive.co.uk/news/belfast-news/drug-mule-caught-belfast-city-32512857",
-      "source": "BelfastLive - Home",
-      "published_at": "2025-09-19T13:44:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1b2c10135bf2202c",
       "title_orig": "France suspends counterterrorism efforts with Mali over arrest",
       "summary_orig": "PARIS/DAKAR - France has suspended counterterrorism cooperation with Mali and ordered two staff members of the Malian embassy and consulate to leave, the French foreign ministry said on Friday, while a source with knowledge of the matter said the move came after Bamako's arrest of a French intelligence agent in August.",
@@ -3371,24 +3326,6 @@
       "url": "https://www.standard.co.uk/news/crime/thalha-jubair-tower-hamlets-cyber-attack-tfl-b1248660.html",
       "source": "The Standard News",
       "published_at": "2025-09-19T13:02:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "61637a32128e8f06",
-      "title_orig": "Split council votes for split leisure services in Ards and North Down",
-      "summary_orig": "There was a protest against privatisation outside Bangor Castle during the debate",
-      "lang": "en",
-      "title_en": "Split council votes for split leisure services in Ards and North Down",
-      "summary_en": "There was a protest against privatisation outside Bangor Castle during the debate",
-      "title": "Split council votes for split leisure services in Ards and North Down",
-      "summary": "There was a protest against privatisation outside Bangor Castle during the debate",
-      "url": "https://www.belfastlive.co.uk/news/split-council-votes-split-leisure-32510879",
-      "source": "BelfastLive - Home",
-      "published_at": "2025-09-19T13:00:51+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4586,6 +4523,42 @@
       "url": "https://www.latimes.com/business/story/2025-09-04/indonesias-protests-over-the-economy-turn-to-police-brutality",
       "source": "World & Nation",
       "published_at": "2025-09-04T20:15:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2fc44d32f8bb4ddf",
+      "title_orig": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary_orig": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "lang": "en",
+      "title_en": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary_en": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "title": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "url": "https://www.arabnews.com/node/2614110/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T22:09:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "21fb050645000980",
+      "title_orig": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary_orig": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "lang": "en",
+      "title_en": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary_en": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "title": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "url": "https://www.arabnews.com/node/2614106/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T22:09:41+00:00",
       "tags": [
         "airport/security"
       ],
