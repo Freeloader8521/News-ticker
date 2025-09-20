@@ -1,14 +1,365 @@
 {
-  "generated_at": "2025-09-20T07:44:42.719264+00:00",
+  "generated_at": "2025-09-20T08:47:33.207865+00:00",
   "items": [
     {
+      "id": "952ea907679ebbc9",
+      "title_orig": "BREAKING A cyber attack is causing disruption at several major European airports",
+      "summary_orig": "A cyberattack has crippled automated check-in and boarding systems at major European airports including Heathrow, Brussels, and Berlin. A cyberattack targeting a service provider for check-in and boarding systems has disrupted operations at several major European airports including London’s Heathrow, Brussels and Berlin, causing flight delays and cancellations, according to airport operators who confirmed the […] The post BREAKING A cyber attack is causing disruption at several major European airports appeared first on AIRLIVE .",
+      "lang": "en",
+      "title_en": "BREAKING A cyber attack is causing disruption at several major European airports",
+      "summary_en": "A cyberattack has crippled automated check-in and boarding systems at major European airports including Heathrow, Brussels, and Berlin. A cyberattack targeting a service provider for check-in and boarding systems has disrupted operations at several major European airports including London’s Heathrow, Brussels and Berlin, causing flight delays and cancellations, according to airport operators who confirmed the […] The post BREAKING A cyber attack is causing disruption at several major European airports appeared first on AIRLIVE .",
+      "title": "BREAKING A cyber attack is causing disruption at several major European airports",
+      "summary": "A cyberattack has crippled automated check-in and boarding systems at major European airports including Heathrow, Brussels, and Berlin. A cyberattack targeting a service provider for check-in and boarding systems has disrupted operations at several major European airports including London’s Heathrow, Brussels and Berlin, causing flight delays and cancellations, according to airport operators who confirmed the […] The post BREAKING A cyber attack is causing disruption at several major European airports appeared first on AIRLIVE .",
+      "url": "https://airlive.net/news/2025/09/20/breaking-a-cyber-attack-is-causing-disruption-at-several-major-european-airports/",
+      "source": "AIRLIVE",
+      "published_at": "2025-09-20T08:28:39+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "4e50882c57d6c1de",
+      "title_orig": "UK airport passengers told 'check flights' after technical issue hits check-ins across Europe",
+      "summary_orig": "Flights have been delayed and cancelled at airports including Heathrow after an alleged cyber attack targeted a service provider for check-in and boarding systems.",
+      "lang": "en",
+      "title_en": "UK airport passengers told 'check flights' after technical issue hits check-ins across Europe",
+      "summary_en": "Flights have been delayed and cancelled at airports including Heathrow after an alleged cyber attack targeted a service provider for check-in and boarding systems.",
+      "title": "UK airport passengers told 'check flights' after technical issue hits check-ins across Europe",
+      "summary": "Flights have been delayed and cancelled at airports including Heathrow after an alleged cyber attack targeted a service provider for check-in and boarding systems.",
+      "url": "https://www.bristolpost.co.uk/news/uk-world-news/uk-airport-passengers-told-check-10514799",
+      "source": "Bristol Post - News",
+      "published_at": "2025-09-20T08:28:01+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "720a02e5000e16b2",
+      "title_orig": "UK airport passengers told 'check flights' after technical issue hits check-ins across Europe",
+      "summary_orig": "Airports including Heathrow, Berlin and Brussels said they had been impacts with many others said to be hit by delays",
+      "lang": "en",
+      "title_en": "UK airport passengers told 'check flights' after technical issue hits check-ins across Europe",
+      "summary_en": "Airports including Heathrow, Berlin and Brussels said they had been impacts with many others said to be hit by delays",
+      "title": "UK airport passengers told 'check flights' after technical issue hits check-ins across Europe",
+      "summary": "Airports including Heathrow, Berlin and Brussels said they had been impacts with many others said to be hit by delays",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/uk-airport-passengers-check-airlines-32516754",
+      "source": "Liverpool Echo - News",
+      "published_at": "2025-09-20T08:26:14+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "ca59fff4294bea4e",
+      "title_orig": "Heathrow warns of flight delays after cyber attack hits check-in systems across Europe",
+      "summary_orig": "Heathrow said it was working with partners to minimise the impact",
+      "lang": "en",
+      "title_en": "Heathrow warns of flight delays after cyber attack hits check-in systems across Europe",
+      "summary_en": "Heathrow said it was working with partners to minimise the impact",
+      "title": "Heathrow warns of flight delays after cyber attack hits check-in systems across Europe",
+      "summary": "Heathrow said it was working with partners to minimise the impact",
+      "url": "https://www.standard.co.uk/news/london/london-heathrow-delays-cyber-attack-check-in-systems-b1248765.html",
+      "source": "The Standard News",
+      "published_at": "2025-09-20T08:23:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e25dab96e1295870",
+      "title_orig": "Live updates as major UK and European airports warn of delays caused by cyber attack",
+      "summary_orig": "Heathrow is one of a number of airports reporting problems with check-in and boarding systems following a cyber attack",
+      "lang": "en",
+      "title_en": "Live updates as major UK and European airports warn of delays caused by cyber attack",
+      "summary_en": "Heathrow is one of a number of airports reporting problems with check-in and boarding systems following a cyber attack",
+      "title": "Live updates as major UK and European airports warn of delays caused by cyber attack",
+      "summary": "Heathrow is one of a number of airports reporting problems with check-in and boarding systems following a cyber attack",
+      "url": "https://www.walesonline.co.uk/news/uk-news/live-updates-major-uk-european-32516749",
+      "source": "WalesOnline - Home",
+      "published_at": "2025-09-20T08:23:08+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "49c77895d2cdbf4d",
+      "title_orig": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
+      "summary_orig": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Polish and allied aircraft were deployed early on Saturday to ensure the safety of Polish airspace after Russia launched airstrikes targeting western Ukraine near the border with Poland, armed forces of the Nato-member country said. “Polish and allied aircraft are operating in our airspace, while ground-based air defence and radar reconnaissance systems have been brought to the highest state of readiness,” the operational command said in a post on X. Continue reading...",
+      "lang": "en",
+      "title_en": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
+      "summary_en": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Polish and allied aircraft were deployed early on Saturday to ensure the safety of Polish airspace after Russia launched airstrikes targeting western Ukraine near the border with Poland, armed forces of the Nato-member country said. “Polish and allied aircraft are operating in our airspace, while ground-based air defence and radar reconnaissance systems have been brought to the highest state of readiness,” the operational command said in a post on X. Continue reading...",
+      "title": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
+      "summary": "Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles Polish and allied aircraft were deployed early on Saturday to ensure the safety of Polish airspace after Russia launched airstrikes targeting western Ukraine near the border with Poland, armed forces of the Nato-member country said. “Polish and allied aircraft are operating in our airspace, while ground-based air defence and radar reconnaissance systems have been brought to the highest state of readiness,” the operational command said in a post on X. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-20T08:19:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "36c531230ce7c98a",
+      "title_orig": "Thousands evacuated in Hong Kong after discovery of large WWII-era bomb",
+      "summary_orig": "HONG KONG (AP) — Thousands of people were evacuated from their homes in Hong Kong overnight so experts could defuse…",
+      "lang": "en",
+      "title_en": "Thousands evacuated in Hong Kong after discovery of large WWII-era bomb",
+      "summary_en": "HONG KONG (AP) — Thousands of people were evacuated from their homes in Hong Kong overnight so experts could defuse…",
+      "title": "Thousands evacuated in Hong Kong after discovery of large WWII-era bomb",
+      "summary": "HONG KONG (AP) — Thousands of people were evacuated from their homes in Hong Kong overnight so experts could defuse…",
+      "url": "https://wtop.com/world/2025/09/thousands-evacuated-in-hong-kong-after-discovery-of-large-wwii-era-bomb/",
+      "source": "WTOP News",
+      "published_at": "2025-09-20T08:06:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e72e43424d68a452",
+      "title_orig": "Inside Spain: How €13 billion will make travel easier for UK tourists",
+      "summary_orig": "In this week’s Inside Spain, we look at how Spain’s airport operator has named British tourists as one of the reasons it is investing billions in e-gates at many more airports, and in one city even building a new satellite terminal primarily for them.",
+      "lang": "en",
+      "title_en": "Inside Spain: How €13 billion will make travel easier for UK tourists",
+      "summary_en": "In this week’s Inside Spain, we look at how Spain’s airport operator has named British tourists as one of the reasons it is investing billions in e-gates at many more airports, and in one city even building a new satellite terminal primarily for them.",
+      "title": "Inside Spain: How €13 billion will make travel easier for UK tourists",
+      "summary": "In this week’s Inside Spain, we look at how Spain’s airport operator has named British tourists as one of the reasons it is investing billions in e-gates at many more airports, and in one city even building a new satellite terminal primarily for them.",
+      "url": "https://www.thelocal.es/20250920/inside-spain-how-e13-billion-will-make-travel-easier-for-uk-tourists",
+      "source": "The Local Spain",
+      "published_at": "2025-09-20T08:05:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "56df0de884ae0724",
+      "title_orig": "The 9 at 9: Saturday",
+      "summary_orig": "Pedestrian and cyclist deaths, ‘massive’ Russian attack and Putin’s answer to Eurovision…",
+      "lang": "en",
+      "title_en": "The 9 at 9: Saturday",
+      "summary_en": "Pedestrian and cyclist deaths, ‘massive’ Russian attack and Putin’s answer to Eurovision…",
+      "title": "The 9 at 9: Saturday",
+      "summary": "Pedestrian and cyclist deaths, ‘massive’ Russian attack and Putin’s answer to Eurovision…",
+      "url": "https://www.thejournal.ie/saturday-news-headlines-6822296-Sep2025/",
+      "source": "TheJournal.ie",
+      "published_at": "2025-09-20T08:03:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f5126e12029fceea",
+      "title_orig": "Heathrow passengers warned of delays amid 'cyber-attacks' rocking major airports",
+      "summary_orig": "Technical issues have been reported across the UK's biggest travel hub this morning with passengers warned it \"may cause delays\".",
+      "lang": "en",
+      "title_en": "Heathrow passengers warned of delays amid 'cyber-attacks' rocking major airports",
+      "summary_en": "Technical issues have been reported across the UK's biggest travel hub this morning with passengers warned it \"may cause delays\".",
+      "title": "Heathrow passengers warned of delays amid 'cyber-attacks' rocking major airports",
+      "summary": "Technical issues have been reported across the UK's biggest travel hub this morning with passengers warned it \"may cause delays\".",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/heathrow-passengers-warned-delays-amid-35935330",
+      "source": "Daily Record - Home",
+      "published_at": "2025-09-20T08:03:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0e001617e340da7c",
+      "title_orig": "Inside France: Revolution as theatre, celeriac and the secret French football stars",
+      "summary_orig": "From massive street protests and widespread strike action to Emmanuel Macron's popularity contest with celeriac salad, via some top-flight French sport, Inside France looks at what we have been talking about in France this week.",
+      "lang": "en",
+      "title_en": "Inside France: Revolution as theatre, celeriac and the secret French football stars",
+      "summary_en": "From massive street protests and widespread strike action to Emmanuel Macron's popularity contest with celeriac salad, via some top-flight French sport, Inside France looks at what we have been talking about in France this week.",
+      "title": "Inside France: Revolution as theatre, celeriac and the secret French football stars",
+      "summary": "From massive street protests and widespread strike action to Emmanuel Macron's popularity contest with celeriac salad, via some top-flight French sport, Inside France looks at what we have been talking about in France this week.",
+      "url": "https://www.thelocal.fr/20250920/inside-france-revolution-as-theatre-celeriac-and-the-secret-french-football-stars",
+      "source": "The Local France",
+      "published_at": "2025-09-20T08:02:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b5d06d73413e0958",
+      "title_orig": "Conradh na Gaeilge: Today's protest is about achieving equality for our language and its speakers",
+      "summary_orig": "Irish speakers and Gaeltacht supporters believe that government policies north and south are short-changing their community.",
+      "lang": "en",
+      "title_en": "Conradh na Gaeilge: Today's protest is about achieving equality for our language and its speakers",
+      "summary_en": "Irish speakers and Gaeltacht supporters believe that government policies north and south are short-changing their community.",
+      "title": "Conradh na Gaeilge: Today's protest is about achieving equality for our language and its speakers",
+      "summary": "Irish speakers and Gaeltacht supporters believe that government policies north and south are short-changing their community.",
+      "url": "https://www.thejournal.ie/readme/conradh-na-gaeilge-march-irish-language-rights-6820573-Sep2025/",
+      "source": "TheJournal.ie",
+      "published_at": "2025-09-20T08:00:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "09edeb9cc8642edc",
+      "title_orig": "K-drama angers mainland viewers for ‘insulting’ China, saying it ‘favours war’",
+      "summary_orig": "The K-drama Tempest, featuring the acclaimed actress Jun Ji-hyun, has sparked considerable outrage among Chinese netizens, who accused the series of “insulting China” by depicting the country as “favouring war” and “uglifying” one of its major cities.\nDirected by Kim Hee-won, Tempest premiered on September 10 and follows skilled diplomat Seo Mun-ju, portrayed by Jun, as she investigates the truth behind a deadly attack that threatens the stability of the Korean peninsula.\nJun is recognised as a...",
+      "lang": "en",
+      "title_en": "K-drama angers mainland viewers for ‘insulting’ China, saying it ‘favours war’",
+      "summary_en": "The K-drama Tempest, featuring the acclaimed actress Jun Ji-hyun, has sparked considerable outrage among Chinese netizens, who accused the series of “insulting China” by depicting the country as “favouring war” and “uglifying” one of its major cities.\nDirected by Kim Hee-won, Tempest premiered on September 10 and follows skilled diplomat Seo Mun-ju, portrayed by Jun, as she investigates the truth behind a deadly attack that threatens the stability of the Korean peninsula.\nJun is recognised as a...",
+      "title": "K-drama angers mainland viewers for ‘insulting’ China, saying it ‘favours war’",
+      "summary": "The K-drama Tempest, featuring the acclaimed actress Jun Ji-hyun, has sparked considerable outrage among Chinese netizens, who accused the series of “insulting China” by depicting the country as “favouring war” and “uglifying” one of its major cities.\nDirected by Kim Hee-won, Tempest premiered on September 10 and follows skilled diplomat Seo Mun-ju, portrayed by Jun, as she investigates the truth behind a deadly attack that threatens the stability of the Korean peninsula.\nJun is recognised as a...",
+      "url": "https://www.scmp.com/news/people-culture/article/3326199/k-drama-tempest-angers-mainland-viewers-insulting-china-saying-it-favours-war?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2025-09-20T08:00:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c8e51c9e70733adf",
+      "title_orig": "Karachi man gets 24 years in prison for throwing acid on estranged wife",
+      "summary_orig": "KARACHI: A sessions court has sentenced a man to a total of 24 years of rigorous imprisonment for throwing acid on his wife. Additional District and Sessions Judge (South) Muhammad Yousuf Malik found Muhammad Sajid guilty of the offence and sentenced him to 14 years in prison for throwing acid on his wife, Saima Bibi, who had suffered 22 per cent burn injuries, and an additional 10 years for trying to kill her. “It has been established that the accused committed offence of throwing acid upon an innocent lady without any justification,” the court remarked. According to state prosecutor Ayesha Saeed, the couple had been married for 12 years, but the woman had been living with her parents along with her three children for the past two-and-a-half years as her husband, who was a drug addict, used to beat her. In her testimony before the court, the acid attack survivor stated that on the day of the incident, she was at her parents’ house when, at around 8pm, her husband arrived, suddenly threw acid on her and fled. Subsequently, her brother and mother shifted her to a hospital, where she recorded her statement and nominated her husband for the offence. During the trial, the defence counsel contended that the accused was falsely implicated in the case. Claiming that the brother of the woman had thrown acid, he also argued that the prosecution failed to produce independent witnesses in the case. But the court rejected the defence plea and noted that the accused failed to produce substantial evidence in support of his claim. It added that the incident had taken place inside the house; therefore, the family members who were present and saw the incident came forward and recorded their statements in support of the victim. A case was registered at the Defence police station under Section 324 (attempted murder) and 336-B (punishment for hurt by corrosive substance) of the Pakistan Penal Code. Published in Dawn, September 20th, 2025",
+      "lang": "en",
+      "title_en": "Karachi man gets 24 years in prison for throwing acid on estranged wife",
+      "summary_en": "KARACHI: A sessions court has sentenced a man to a total of 24 years of rigorous imprisonment for throwing acid on his wife. Additional District and Sessions Judge (South) Muhammad Yousuf Malik found Muhammad Sajid guilty of the offence and sentenced him to 14 years in prison for throwing acid on his wife, Saima Bibi, who had suffered 22 per cent burn injuries, and an additional 10 years for trying to kill her. “It has been established that the accused committed offence of throwing acid upon an innocent lady without any justification,” the court remarked. According to state prosecutor Ayesha Saeed, the couple had been married for 12 years, but the woman had been living with her parents along with her three children for the past two-and-a-half years as her husband, who was a drug addict, used to beat her. In her testimony before the court, the acid attack survivor stated that on the day of the incident, she was at her parents’ house when, at around 8pm, her husband arrived, suddenly threw acid on her and fled. Subsequently, her brother and mother shifted her to a hospital, where she recorded her statement and nominated her husband for the offence. During the trial, the defence counsel contended that the accused was falsely implicated in the case. Claiming that the brother of the woman had thrown acid, he also argued that the prosecution failed to produce independent witnesses in the case. But the court rejected the defence plea and noted that the accused failed to produce substantial evidence in support of his claim. It added that the incident had taken place inside the house; therefore, the family members who were present and saw the incident came forward and recorded their statements in support of the victim. A case was registered at the Defence police station under Section 324 (attempted murder) and 336-B (punishment for hurt by corrosive substance) of the Pakistan Penal Code. Published in Dawn, September 20th, 2025",
+      "title": "Karachi man gets 24 years in prison for throwing acid on estranged wife",
+      "summary": "KARACHI: A sessions court has sentenced a man to a total of 24 years of rigorous imprisonment for throwing acid on his wife. Additional District and Sessions Judge (South) Muhammad Yousuf Malik found Muhammad Sajid guilty of the offence and sentenced him to 14 years in prison for throwing acid on his wife, Saima Bibi, who had suffered 22 per cent burn injuries, and an additional 10 years for trying to kill her. “It has been established that the accused committed offence of throwing acid upon an innocent lady without any justification,” the court remarked. According to state prosecutor Ayesha Saeed, the couple had been married for 12 years, but the woman had been living with her parents along with her three children for the past two-and-a-half years as her husband, who was a drug addict, used to beat her. In her testimony before the court, the acid attack survivor stated that on the day of the incident, she was at her parents’ house when, at around 8pm, her husband arrived, suddenly threw acid on her and fled. Subsequently, her brother and mother shifted her to a hospital, where she recorded her statement and nominated her husband for the offence. During the trial, the defence counsel contended that the accused was falsely implicated in the case. Claiming that the brother of the woman had thrown acid, he also argued that the prosecution failed to produce independent witnesses in the case. But the court rejected the defence plea and noted that the accused failed to produce substantial evidence in support of his claim. It added that the incident had taken place inside the house; therefore, the family members who were present and saw the incident came forward and recorded their statements in support of the victim. A case was registered at the Defence police station under Section 324 (attempted murder) and 336-B (punishment for hurt by corrosive substance) of the Pakistan Penal Code. Published in Dawn, September 20th, 2025",
+      "url": "https://www.dawn.com/news/1943307/karachi-man-gets-24-years-in-prison-for-throwing-acid-on-estranged-wife",
+      "source": "Dawn - Home",
+      "published_at": "2025-09-20T08:00:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ff7b55adfc7ce67b",
+      "title_orig": "Flights cancelled after cyber attack hits European airports including London Heathrow",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Flights cancelled after cyber attack hits European airports including London Heathrow",
+      "summary_en": "",
+      "title": "Flights cancelled after cyber attack hits European airports including London Heathrow",
+      "summary": "",
+      "url": "https://metro.co.uk/2025/09/20/london-heathrow-hit-cyberattack-targeting-airports-europe-24215217/",
+      "source": "Metro",
+      "published_at": "2025-09-20T07:53:36+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "f5f5ec3c62d870b4",
+      "title_orig": "Russia launches large-scale attack on Ukraine, killing 3 and injuring dozens",
+      "summary_orig": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early on Saturday, killing…",
+      "lang": "en",
+      "title_en": "Russia launches large-scale attack on Ukraine, killing 3 and injuring dozens",
+      "summary_en": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early on Saturday, killing…",
+      "title": "Russia launches large-scale attack on Ukraine, killing 3 and injuring dozens",
+      "summary": "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early on Saturday, killing…",
+      "url": "https://wtop.com/russia-ukraine-war-news/2025/09/russia-launches-large-scale-attack-on-ukraine-killing-3-and-injuring-dozens/",
+      "source": "WTOP News",
+      "published_at": "2025-09-20T07:52:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "753991081b81e769",
+      "title_orig": "Russia launches 'massive attack' on Ukraine, killing three and wounding dozens",
+      "summary_orig": "Ukraine issued a nationwide air alert, with officials reporting other strikes in the region around the capital Kyiv.",
+      "lang": "en",
+      "title_en": "Russia launches 'massive attack' on Ukraine, killing three and wounding dozens",
+      "summary_en": "Ukraine issued a nationwide air alert, with officials reporting other strikes in the region around the capital Kyiv.",
+      "title": "Russia launches 'massive attack' on Ukraine, killing three and wounding dozens",
+      "summary": "Ukraine issued a nationwide air alert, with officials reporting other strikes in the region around the capital Kyiv.",
+      "url": "https://www.thejournal.ie/russia-launches-massive-attack-on-ukraine-killing-three-and-wounding-dozens-6822287-Sep2025/",
+      "source": "TheJournal.ie",
+      "published_at": "2025-09-20T07:40:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "2ab9a3919db1b8ff",
-      "title_orig": "Cyberattack causes disruption at European airports including Heathrow, Brussels",
+      "title_orig": "Cyber attack causes disruption at European airports including Heathrow, Brussels",
       "summary_orig": "Passengers with a flight scheduled for Sept 20 were advised to confirm their travel with airlines.",
       "lang": "en",
-      "title_en": "Cyberattack causes disruption at European airports including Heathrow, Brussels",
+      "title_en": "Cyber attack causes disruption at European airports including Heathrow, Brussels",
       "summary_en": "Passengers with a flight scheduled for Sept 20 were advised to confirm their travel with airlines.",
-      "title": "Cyberattack causes disruption at European airports including Heathrow, Brussels",
+      "title": "Cyber attack causes disruption at European airports including Heathrow, Brussels",
       "summary": "Passengers with a flight scheduled for Sept 20 were advised to confirm their travel with airlines.",
       "url": "https://www.straitstimes.com/world/europe/cyberattack-causes-disruption-at-airports-in-brussels-berlin",
       "source": "The Straits Times World News",
@@ -29,42 +380,15 @@
       }
     },
     {
-      "id": "ad0557a784793527",
-      "title_orig": "Cyberattack causes disruption at European airports including Heathrow, Brussels",
-      "summary_orig": "BRUSSELS - A cyberattack targeting a service provider for check-in and boarding systems has disrupted operations at several major European airports including London's Heathrow, Brussels and Berlin, causing flight delays and cancellations, the operators said.",
-      "lang": "en",
-      "title_en": "Cyberattack causes disruption at European airports including Heathrow, Brussels",
-      "summary_en": "BRUSSELS - A cyberattack targeting a service provider for check-in and boarding systems has disrupted operations at several major European airports including London's Heathrow, Brussels and Berlin, causing flight delays and cancellations, the operators said.",
-      "title": "Cyberattack causes disruption at European airports including Heathrow, Brussels",
-      "summary": "BRUSSELS - A cyberattack targeting a service provider for check-in and boarding systems has disrupted operations at several major European airports including London's Heathrow, Brussels and Berlin, causing flight delays and cancellations, the operators said.",
-      "url": "https://www.straitstimes.com/world/europe/Cyberattack-causes-disruption-at-European-airports-including-Heathrow-Brussels",
-      "source": "The Straits Times World News",
-      "published_at": "2025-09-20T07:36:23+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
-      "id": "1ac1b88352562d39",
+      "id": "490dda3e2233b010",
       "title_orig": "Russia hits Ukraine with barrage of drones, missiles, kills 3, Kyiv says",
-      "summary_orig": "KYIV - Russia launched a major drone and missile attack on Ukraine overnight, killing three people and injuring dozens, President Volodymyr Zelenskiy said on Saturday.",
+      "summary_orig": "Ukrainian air defence shot down 552 drones and 31 missiles.",
       "lang": "en",
       "title_en": "Russia hits Ukraine with barrage of drones, missiles, kills 3, Kyiv says",
-      "summary_en": "KYIV - Russia launched a major drone and missile attack on Ukraine overnight, killing three people and injuring dozens, President Volodymyr Zelenskiy said on Saturday.",
+      "summary_en": "Ukrainian air defence shot down 552 drones and 31 missiles.",
       "title": "Russia hits Ukraine with barrage of drones, missiles, kills 3, Kyiv says",
-      "summary": "KYIV - Russia launched a major drone and missile attack on Ukraine overnight, killing three people and injuring dozens, President Volodymyr Zelenskiy said on Saturday.",
-      "url": "https://www.straitstimes.com/world/europe/Russia-hits-Ukraine-with-barrage-of-drones-missiles-kills-3-Kyiv-says",
+      "summary": "Ukrainian air defence shot down 552 drones and 31 missiles.",
+      "url": "https://www.straitstimes.com/world/europe/russia-hits-ukraine-with-barrage-of-drones-missiles-kills-3-kyiv-says",
       "source": "The Straits Times World News",
       "published_at": "2025-09-20T07:36:14+00:00",
       "tags": [
@@ -107,6 +431,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "06e35e395c497ef5",
+      "title_orig": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
+      "summary_orig": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
+      "lang": "en",
+      "title_en": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
+      "summary_en": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
+      "title": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
+      "summary": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
+      "url": "https://www.france24.com/en/video/20250920-many-of-us-knew-that-the-second-term-of-donald-trump-would-be-much-more-dangerous-than-the-first",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-20T07:27:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -182,24 +524,6 @@
       }
     },
     {
-      "id": "ced82782bef9577e",
-      "title_orig": "'I'm an ex-Premier League striker but ended up in prison – I spent 23 hours a day in my cell'",
-      "summary_orig": "Nile Ranger was once a highly-rated prospect at Newcastle United, but his career spiralled out of control due to a number of off-field incidents, and he now plays for Kettering Town",
-      "lang": "en",
-      "title_en": "'I'm an ex-Premier League striker but ended up in prison – I spent 23 hours a day in my cell'",
-      "summary_en": "Nile Ranger was once a highly-rated prospect at Newcastle United, but his career spiralled out of control due to a number of off-field incidents, and he now plays for Kettering Town",
-      "title": "'I'm an ex-Premier League striker but ended up in prison – I spent 23 hours a day in my cell'",
-      "summary": "Nile Ranger was once a highly-rated prospect at Newcastle United, but his career spiralled out of control due to a number of off-field incidents, and he now plays for Kettering Town",
-      "url": "https://www.birminghammail.co.uk/sport/football/football-news/nile-ranger-newcastle-prison-kettering-32511230",
-      "source": "Birmingham Live - Home",
-      "published_at": "2025-09-20T07:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "679c77c834d8cbfd",
       "title_orig": "Former Minister, 400 YSRCP activists booked for organising ‘Chalo Medical Colleges’ protest",
       "summary_orig": "“The party activists violated police orders, behaved rudely with the officers and disrupted traffic,” say police",
@@ -236,24 +560,6 @@
       "geo": {}
     },
     {
-      "id": "bc97ef38e4190ead",
-      "title_orig": "West Midlands Police issue murder probe statement over suspected arson attack",
-      "summary_orig": "West Midlands Police said officers, as well as fire and ambulance service colleagues, were called to the property on Saxons Way, Highters Heath, shortly before 1.10am on Friday",
-      "lang": "en",
-      "title_en": "West Midlands Police issue murder probe statement over suspected arson attack",
-      "summary_en": "West Midlands Police said officers, as well as fire and ambulance service colleagues, were called to the property on Saxons Way, Highters Heath, shortly before 1.10am on Friday",
-      "title": "West Midlands Police issue murder probe statement over suspected arson attack",
-      "summary": "West Midlands Police said officers, as well as fire and ambulance service colleagues, were called to the property on Saxons Way, Highters Heath, shortly before 1.10am on Friday",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/west-midlands-police-issue-murder-32516331",
-      "source": "Birmingham Live - News",
-      "published_at": "2025-09-20T06:37:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "85877be8c0893c96",
       "title_orig": "Horror as man ‘jumps’ from hot air balloon before body found hours later in Sussex",
       "summary_orig": "Police, drones, search teams and dogs launched an urgent search of the area",
@@ -283,24 +589,6 @@
       "url": "https://www.dawn.com/news/1943402/shireen-mazari-says-islamabad-police-surrounded-her-house-enquired-about-daughter-imaan-and-son-in-law-hadi",
       "source": "Dawn - Home",
       "published_at": "2025-09-20T06:32:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7b2a1ba1e35c8d0e",
-      "title_orig": "PM Modi to inaugurate multiple development projects worth over ₹34,200 crore at Bhavnagar",
-      "summary_orig": "As part of it, he will virtually inaugurate the Mumbai International Cruise Terminal at Indira Dock",
-      "lang": "en",
-      "title_en": "PM Modi to inaugurate multiple development projects worth over ₹34,200 crore at Bhavnagar",
-      "summary_en": "As part of it, he will virtually inaugurate the Mumbai International Cruise Terminal at Indira Dock",
-      "title": "PM Modi to inaugurate multiple development projects worth over ₹34,200 crore at Bhavnagar",
-      "summary": "As part of it, he will virtually inaugurate the Mumbai International Cruise Terminal at Indira Dock",
-      "url": "https://www.thehindu.com/news/national/pm-modi-to-inaugurate-multiple-development-projects-at-bhavnagar-september-20-2025/article70070679.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-09-20T06:23:40+00:00",
       "tags": [
         "airport/security"
       ],
@@ -479,24 +767,6 @@
       "geo": {}
     },
     {
-      "id": "83b17bb38ad6c799",
-      "title_orig": "On the front line of Congo’s conflict, a trauma center tells a story of horror and survival",
-      "summary_orig": "In eastern Congo, Jerome Jean Claude Amani stands on a prosthetic leg and talks of a new future after being badly wounded in a rebel attack.",
-      "lang": "en",
-      "title_en": "On the front line of Congo’s conflict, a trauma center tells a story of horror and survival",
-      "summary_en": "In eastern Congo, Jerome Jean Claude Amani stands on a prosthetic leg and talks of a new future after being badly wounded in a rebel attack.",
-      "title": "On the front line of Congo’s conflict, a trauma center tells a story of horror and survival",
-      "summary": "In eastern Congo, Jerome Jean Claude Amani stands on a prosthetic leg and talks of a new future after being badly wounded in a rebel attack.",
-      "url": "https://www.seattletimes.com/seattle-news/health/on-the-front-line-of-congos-conflict-a-trauma-center-tells-a-story-of-horror-and-survival/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-09-20T05:05:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ca88f551f9da4360",
       "title_orig": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
       "summary_orig": "Israeli forces continue to carry out attacks on Gaza's main urban centre, with two children killed in a strike on tent.",
@@ -570,12 +840,12 @@
     },
     {
       "id": "ff7bb5cf986c788c",
-      "title_orig": "Public convention in Siuri protests against the Deocha Pachami mining project of the West Bengal government",
+      "title_orig": "Public convention in Suri protests against the Deocha Pachami mining project of the West Bengal government",
       "summary_orig": "Local residents and activists allege illegal land acquisition and fear displacement as the coal mining project progresses",
       "lang": "en",
-      "title_en": "Public convention in Siuri protests against the Deocha Pachami mining project of the West Bengal government",
+      "title_en": "Public convention in Suri protests against the Deocha Pachami mining project of the West Bengal government",
       "summary_en": "Local residents and activists allege illegal land acquisition and fear displacement as the coal mining project progresses",
-      "title": "Public convention in Siuri protests against the Deocha Pachami mining project of the West Bengal government",
+      "title": "Public convention in Suri protests against the Deocha Pachami mining project of the West Bengal government",
       "summary": "Local residents and activists allege illegal land acquisition and fear displacement as the coal mining project progresses",
       "url": "https://www.thehindu.com/news/national/west-bengal/public-convention-in-siuri-protests-against-the-deocha-pachami-mining-project-of-the-west-bengal-government/article70072675.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
@@ -634,60 +904,6 @@
       "url": "https://www.independent.co.uk/news/world/americas/human-remains-luggage-tampa-airport-b2830279.html",
       "source": "The Independent World",
       "published_at": "2025-09-20T03:32:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5b9d7a1210a0beaf",
-      "title_orig": "Former sex worker claims police victim blamed her when she reported sex attack",
-      "summary_orig": "The woman has claimed police blamed her when she reported being the victim of a sex attack",
-      "lang": "en",
-      "title_en": "Former sex worker claims police victim blamed her when she reported sex attack",
-      "summary_en": "The woman has claimed police blamed her when she reported being the victim of a sex attack",
-      "title": "Former sex worker claims police victim blamed her when she reported sex attack",
-      "summary": "The woman has claimed police blamed her when she reported being the victim of a sex attack",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/former-sex-worker-claims-police-35898854",
-      "source": "Daily Record - Home",
-      "published_at": "2025-09-20T03:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4c8f14c7250e075a",
-      "title_orig": "Woman who reported Iain Packer assault claims cops failed to identify him as attacker",
-      "summary_orig": "The woman told officers that she had been attacked in 2006 by a man who had put his hands around her neck and tried to kill her but Packer, who was known to police, was never questioned.",
-      "lang": "en",
-      "title_en": "Woman who reported Iain Packer assault claims cops failed to identify him as attacker",
-      "summary_en": "The woman told officers that she had been attacked in 2006 by a man who had put his hands around her neck and tried to kill her but Packer, who was known to police, was never questioned.",
-      "title": "Woman who reported Iain Packer assault claims cops failed to identify him as attacker",
-      "summary": "The woman told officers that she had been attacked in 2006 by a man who had put his hands around her neck and tried to kill her but Packer, who was known to police, was never questioned.",
-      "url": "https://www.dailyrecord.co.uk/news/woman-who-reported-iain-packer-35898827",
-      "source": "Daily Record - Home",
-      "published_at": "2025-09-20T03:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "388ce21eb04623fc",
-      "title_orig": "Young fascist filmed using Charlie Kirk's death to incite hate against asylum seekers",
-      "summary_orig": "John Carr, who was probed by counter-terror police over alleged neo-Nazi links earlier this year, was on the steps on Farmers Hall in Aberdeen on Thursday night leading an anti immigration protest.",
-      "lang": "en",
-      "title_en": "Young fascist filmed using Charlie Kirk's death to incite hate against asylum seekers",
-      "summary_en": "John Carr, who was probed by counter-terror police over alleged neo-Nazi links earlier this year, was on the steps on Farmers Hall in Aberdeen on Thursday night leading an anti immigration protest.",
-      "title": "Young fascist filmed using Charlie Kirk's death to incite hate against asylum seekers",
-      "summary": "John Carr, who was probed by counter-terror police over alleged neo-Nazi links earlier this year, was on the steps on Farmers Hall in Aberdeen on Thursday night leading an anti immigration protest.",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/young-fascist-filmed-using-charlie-35931462",
-      "source": "Daily Record - Home",
-      "published_at": "2025-09-20T03:30:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -823,12 +1039,12 @@
     {
       "id": "8d6e49b89187e5e5",
       "title_orig": "WWII bomb in Hong Kong’s Quarry Bay successfully disposed of after 9-hour effort",
-      "summary_orig": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of after a nine-hour effort at around noon on Saturday.\nThe defusing process, which started at 2am after evacuating some 6,000 residents near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong had been hit by heavy rain from Friday night until Saturday noon due to tropical depression Mitag.\n“Explosive...",
+      "summary_orig": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of after a nine-hour effort at around noon on Saturday.\nThe defusing process, which started at 2am after evacuating some 6,000 residents from 18 buildings near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong had been hit by heavy rain from Friday night until Saturday noon due to tropical depression...",
       "lang": "en",
       "title_en": "WWII bomb in Hong Kong’s Quarry Bay successfully disposed of after 9-hour effort",
-      "summary_en": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of after a nine-hour effort at around noon on Saturday.\nThe defusing process, which started at 2am after evacuating some 6,000 residents near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong had been hit by heavy rain from Friday night until Saturday noon due to tropical depression Mitag.\n“Explosive...",
+      "summary_en": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of after a nine-hour effort at around noon on Saturday.\nThe defusing process, which started at 2am after evacuating some 6,000 residents from 18 buildings near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong had been hit by heavy rain from Friday night until Saturday noon due to tropical depression...",
       "title": "WWII bomb in Hong Kong’s Quarry Bay successfully disposed of after 9-hour effort",
-      "summary": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of after a nine-hour effort at around noon on Saturday.\nThe defusing process, which started at 2am after evacuating some 6,000 residents near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong had been hit by heavy rain from Friday night until Saturday noon due to tropical depression Mitag.\n“Explosive...",
+      "summary": "A “highly dangerous” wartime bomb discovered in Hong Kong’s Quarry Bay on Friday was successfully disposed of after a nine-hour effort at around noon on Saturday.\nThe defusing process, which started at 2am after evacuating some 6,000 residents from 18 buildings near the Pan Hoi Street construction site where the bomb was found, took longer than expected due to the heavy rain, police said.\nHong Kong had been hit by heavy rain from Friday night until Saturday noon due to tropical depression...",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3326230/hong-kong-authorities-clear-highly-dangerous-wartime-bomb-2pm-saturday?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2025-09-20T02:28:23+00:00",
@@ -930,24 +1146,6 @@
       "geo": {}
     },
     {
-      "id": "52fbe32641d46e30",
-      "title_orig": "Alcalde de un pueblo al oeste de Chicago afirma que agentes federales le lanzaron gas lacrimógeno durante protesta contra ICE",
-      "summary_orig": "Un alcalde demócrata que se postulaba al Congreso por Illinois fue rociado con gas lacrimógeno la mañana de este viernes…",
-      "lang": "es",
-      "title_en": "Mayor of a town west Chicago states that federal agents launched tear gas during protest against ICE",
-      "summary_en": "A Democratic Mayor who was running for Congress by Illinois was sprayed with tear gas on Friday morning ...",
-      "title": "Mayor of a town west Chicago states that federal agents launched tear gas during protest against ICE",
-      "summary": "A Democratic Mayor who was running for Congress by Illinois was sprayed with tear gas on Friday morning ...",
-      "url": "https://wtop.com/news/2025/09/alcalde-de-un-pueblo-al-oeste-de-chicago-afirma-que-agentes-federales-le-lanzaron-gas-lacrimogeno-durante-protesta-contra-ice/",
-      "source": "WTOP News",
-      "published_at": "2025-09-20T01:25:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b09799dfe19b0feb",
       "title_orig": "Trump says three 'narcoterrorists' killed in US strike on alleged drug boat",
       "summary_orig": "This is the third fatal strike the US military has carried out this month on a vessel allegedly carrying drugs.",
@@ -959,24 +1157,6 @@
       "url": "https://www.abc.net.au/news/2025-09-20/us-military-carries-out-another-strike-on-alleged-drug-boat/105797450",
       "source": "Just In",
       "published_at": "2025-09-20T01:14:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "48223cd3c26f4939",
-      "title_orig": "Trump nears deal for road through Alaskan wildlife refuge",
-      "summary_orig": "Proponents say the road would connect a remote town with an airport used for medical evacuations. Opponents say it would cause irreparable harm to wildlife and Alaska Native tribes.",
-      "lang": "en",
-      "title_en": "Trump nears deal for road through Alaskan wildlife refuge",
-      "summary_en": "Proponents say the road would connect a remote town with an airport used for medical evacuations. Opponents say it would cause irreparable harm to wildlife and Alaska Native tribes.",
-      "title": "Trump nears deal for road through Alaskan wildlife refuge",
-      "summary": "Proponents say the road would connect a remote town with an airport used for medical evacuations. Opponents say it would cause irreparable harm to wildlife and Alaska Native tribes.",
-      "url": "https://www.seattletimes.com/nation-world/nation/trump-nears-deal-for-road-through-alaskan-wildlife-refuge/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-09-20T01:03:23+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1110,17 +1290,17 @@
       "geo": {}
     },
     {
-      "id": "dabc8f208feaf94b",
-      "title_orig": "Trump says US has carried out another fatal strike targeting alleged drug-smuggling boat",
-      "summary_orig": "President Donald Trump says the U.S. military has carried out its third fatal strike against an alleged drug smuggling vessel this month.",
+      "id": "7b2a1ba1e35c8d0e",
+      "title_orig": "PM Modi to inaugurate multiple development projects worth over ₹34,200 crore at Bhavnagar",
+      "summary_orig": "As part of it, he will virtually inaugurate the Mumbai International Cruise Terminal at Indira Dock",
       "lang": "en",
-      "title_en": "Trump says US has carried out another fatal strike targeting alleged drug-smuggling boat",
-      "summary_en": "President Donald Trump says the U.S. military has carried out its third fatal strike against an alleged drug smuggling vessel this month.",
-      "title": "Trump says US has carried out another fatal strike targeting alleged drug-smuggling boat",
-      "summary": "President Donald Trump says the U.S. military has carried out its third fatal strike against an alleged drug smuggling vessel this month.",
-      "url": "https://www.seattletimes.com/nation-world/nation/trump-says-us-has-carried-out-another-fatal-strike-targeting-alleged-drug-smuggling-boat/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-09-19T23:46:13+00:00",
+      "title_en": "PM Modi to inaugurate multiple development projects worth over ₹34,200 crore at Bhavnagar",
+      "summary_en": "As part of it, he will virtually inaugurate the Mumbai International Cruise Terminal at Indira Dock",
+      "title": "PM Modi to inaugurate multiple development projects worth over ₹34,200 crore at Bhavnagar",
+      "summary": "As part of it, he will virtually inaugurate the Mumbai International Cruise Terminal at Indira Dock",
+      "url": "https://www.thehindu.com/news/national/pm-modi-to-inaugurate-multiple-development-projects-at-bhavnagar-september-20-2025/article70070679.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-09-19T23:35:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1251,24 +1431,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "8a4bf279d2b2d787",
-      "title_orig": "Boy, 16, who attacked pupil and teacher with knife he hid in bag is locked up",
-      "summary_orig": "The then 16-year-old, who cannot be named for legal reasons, arrived at a secondary school in Bedfordshire at around 1.40pm on May 2 armed with a kitchen knife hidden in a bag.",
-      "lang": "en",
-      "title_en": "Boy, 16, who attacked pupil and teacher with knife he hid in bag is locked up",
-      "summary_en": "The then 16-year-old, who cannot be named for legal reasons, arrived at a secondary school in Bedfordshire at around 1.40pm on May 2 armed with a kitchen knife hidden in a bag.",
-      "title": "Boy, 16, who attacked pupil and teacher with knife he hid in bag is locked up",
-      "summary": "The then 16-year-old, who cannot be named for legal reasons, arrived at a secondary school in Bedfordshire at around 1.40pm on May 2 armed with a kitchen knife hidden in a bag.",
-      "url": "https://metro.co.uk/2025/09/19/boy-16-attacked-pupil-teacher-knife-hid-bag-locked-24213140/",
-      "source": "Metro",
-      "published_at": "2025-09-19T22:19:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1641,24 +1803,6 @@
       }
     },
     {
-      "id": "cf482d55ddf5ae59",
-      "title_orig": "Man dies after falling from hot air balloon in West Sussex",
-      "summary_orig": "Body found in field hours after search near Wisborough Green as police rule out foul play A man has died after falling from a hot air balloon in West Sussex. Emergency services carried out an extensive search for the man involving police drones and dogs after receiving reports of the incident near Newpound Common, in Wisborough Green, shortly after 9am on Friday. Continue reading...",
-      "lang": "en",
-      "title_en": "Man dies after falling from hot air balloon in West Sussex",
-      "summary_en": "Body found in field hours after search near Wisborough Green as police rule out foul play A man has died after falling from a hot air balloon in West Sussex. Emergency services carried out an extensive search for the man involving police drones and dogs after receiving reports of the incident near Newpound Common, in Wisborough Green, shortly after 9am on Friday. Continue reading...",
-      "title": "Man dies after falling from hot air balloon in West Sussex",
-      "summary": "Body found in field hours after search near Wisborough Green as police rule out foul play A man has died after falling from a hot air balloon in West Sussex. Emergency services carried out an extensive search for the man involving police drones and dogs after receiving reports of the incident near Newpound Common, in Wisborough Green, shortly after 9am on Friday. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2025/sep/19/man-dies-after-falling-from-hot-air-balloon-in-west-sussex",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-09-19T19:57:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "11d824fa7cdc383f",
       "title_orig": "Protester with Captain America shield bundled into ICE facility in Chicago after throwing back tear gas canister",
       "summary_orig": "This is the moment that an ICE protester wielding a Captain America shield was forced into an immigration facility after he threw a tear gas canister at enforcement agents.",
@@ -1728,24 +1872,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "682b7ebe107458dd",
-      "title_orig": "Afghan national among 3 ‘terrorists’ killed by CTD in KP’s Khyber",
-      "summary_orig": "The Khyber Pakhtunkhwa Counter Terrorism Department (CTD) gunned down three “terrorists”, including an Afghan national, during an intelligence-based operation (IBO) carried out in Khyber district late on Friday night. Two among the three militants killed during the IBO, were involved in a suicide bombing in Peshawar which led to the deaths of a sub-inspector and a constable. A statement issued by the CTD said that the department conducted an IBO based on the reported presence of Fazal Noor, a commander of the banned militant Islamic State Khorasan Province (ISKP) and his group members in Ali Masjid area of the district. It added that as soon as the SWAT reached the spot, the militants opened fire which was retaliated and the exchange of fire continued for around 30 minutes. The CTD said a search operation was launched after the firing stopped  and the SWAT team found three dead bodies who were later identified as Muhammad Naeem, Muhammad Karim, residents of Karak, and Noor Nabi, a resident of Nangarhar in Afghanistan, affiliated with the ISKP. It added that Fazal Noor along with other group members escaped during the exchange of fire. “The militant group had been under continuous technical surveillance, with investigators tracing their movements and confirming their identity through technical footprints,” the statement read, adding that the CTD traced their movement for the execution of a militant activity in the Lala Chena Dosarky Ali Masjid in Khyber district. The statement said the SWAT team recovered three SMGs, 135 rounds, 12 magazines and three bundle wear, adding that the technical investigation linked the group to at least three militant attacks. “Preliminary intelligence confirms that two militants who fled away from the scene were identified as a local commander of ISKP namely Fazal Noor and Hakim Nisar operating under foreign-based, foreign-funded handlers with active plans to conduct major terrorist activities in Peshawar and Khyber,” the statement read.",
-      "lang": "en",
-      "title_en": "Afghan national among 3 ‘terrorists’ killed by CTD in KP’s Khyber",
-      "summary_en": "The Khyber Pakhtunkhwa Counter Terrorism Department (CTD) gunned down three “terrorists”, including an Afghan national, during an intelligence-based operation (IBO) carried out in Khyber district late on Friday night. Two among the three militants killed during the IBO, were involved in a suicide bombing in Peshawar which led to the deaths of a sub-inspector and a constable. A statement issued by the CTD said that the department conducted an IBO based on the reported presence of Fazal Noor, a commander of the banned militant Islamic State Khorasan Province (ISKP) and his group members in Ali Masjid area of the district. It added that as soon as the SWAT reached the spot, the militants opened fire which was retaliated and the exchange of fire continued for around 30 minutes. The CTD said a search operation was launched after the firing stopped  and the SWAT team found three dead bodies who were later identified as Muhammad Naeem, Muhammad Karim, residents of Karak, and Noor Nabi, a resident of Nangarhar in Afghanistan, affiliated with the ISKP. It added that Fazal Noor along with other group members escaped during the exchange of fire. “The militant group had been under continuous technical surveillance, with investigators tracing their movements and confirming their identity through technical footprints,” the statement read, adding that the CTD traced their movement for the execution of a militant activity in the Lala Chena Dosarky Ali Masjid in Khyber district. The statement said the SWAT team recovered three SMGs, 135 rounds, 12 magazines and three bundle wear, adding that the technical investigation linked the group to at least three militant attacks. “Preliminary intelligence confirms that two militants who fled away from the scene were identified as a local commander of ISKP namely Fazal Noor and Hakim Nisar operating under foreign-based, foreign-funded handlers with active plans to conduct major terrorist activities in Peshawar and Khyber,” the statement read.",
-      "title": "Afghan national among 3 ‘terrorists’ killed by CTD in KP’s Khyber",
-      "summary": "The Khyber Pakhtunkhwa Counter Terrorism Department (CTD) gunned down three “terrorists”, including an Afghan national, during an intelligence-based operation (IBO) carried out in Khyber district late on Friday night. Two among the three militants killed during the IBO, were involved in a suicide bombing in Peshawar which led to the deaths of a sub-inspector and a constable. A statement issued by the CTD said that the department conducted an IBO based on the reported presence of Fazal Noor, a commander of the banned militant Islamic State Khorasan Province (ISKP) and his group members in Ali Masjid area of the district. It added that as soon as the SWAT reached the spot, the militants opened fire which was retaliated and the exchange of fire continued for around 30 minutes. The CTD said a search operation was launched after the firing stopped  and the SWAT team found three dead bodies who were later identified as Muhammad Naeem, Muhammad Karim, residents of Karak, and Noor Nabi, a resident of Nangarhar in Afghanistan, affiliated with the ISKP. It added that Fazal Noor along with other group members escaped during the exchange of fire. “The militant group had been under continuous technical surveillance, with investigators tracing their movements and confirming their identity through technical footprints,” the statement read, adding that the CTD traced their movement for the execution of a militant activity in the Lala Chena Dosarky Ali Masjid in Khyber district. The statement said the SWAT team recovered three SMGs, 135 rounds, 12 magazines and three bundle wear, adding that the technical investigation linked the group to at least three militant attacks. “Preliminary intelligence confirms that two militants who fled away from the scene were identified as a local commander of ISKP namely Fazal Noor and Hakim Nisar operating under foreign-based, foreign-funded handlers with active plans to conduct major terrorist activities in Peshawar and Khyber,” the statement read.",
-      "url": "https://www.dawn.com/news/1943249/afghan-national-among-3-terrorists-killed-by-ctd-in-kps-khyber",
-      "source": "Dawn - Home",
-      "published_at": "2025-09-19T19:01:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1944,6 +2070,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c5ba599ac52e94da",
+      "title_orig": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
+      "summary_orig": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defense”.",
+      "lang": "en",
+      "title_en": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
+      "summary_en": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defense”.",
+      "title": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
+      "summary": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defense”.",
+      "url": "https://www.france24.com/en/live-news/20250919-venezuela-accuses-us-of-waging-undeclared-war",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-09-19T18:01:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2271,24 +2415,6 @@
       "geo": {}
     },
     {
-      "id": "60bea435c06360e0",
-      "title_orig": "Pakistan extends Indian aircraft airspace ban for another month: PAA",
-      "summary_orig": "Pakistan on Friday extended the airspace ban for Indian aircraft till October 24, according to a statement by the Pakistan Aviation Authority (PAA). Last month, the government extended the closure of its airspace to Indian aircr­aft for another month, until September 25, according to a NOTAM (notice to airmen) issued on August 22. New Delhi had accused Islamabad, without evidence, of orchestrating April’s deadly attack in occupied Kashmir’s Pahalgam. Pakistan had strongly denied the allegations and called for a neutral probe. As the situation turned into a military confrontation between the nuclear powers, it took American intervention for both sides to agree to a ceasefire. On April 24, Pakistan’s top brass had announced a series of measures, including the closure of its airspace to all India-owned or Indian-operated airlines with immediate effect, as it retaliated against New Delhi’s slew of aggressive measures against the country. PAA spokesperson Saifullah Khan confirmed to Dawn.com that the airspace closure for Indian aircraft had been extended till October 24. A copy of the NOTAM, available with Dawn.com , also confirmed the closure. “Pakistan’s airspace will remain closed to Indian registered aircraft. This ban applies to all aircraft owned, operated or leased by Indian airlines or operators. This includes military flights,” the statement by the PAA spokesperson said. “The ban will come into effect from 1:00 PM (PKT) on 19 September 2025 and will end at 4:59 AM (PKT) on October 24 2025 (end time is approximate). The ban will be effective from ground level to unlimited altitude,” the PAA said. The two neighbouring nations closed their airspaces multiple times during the hostilities last month. Pakis­tan reopened its airspace for all types of flig­hts on May 10 after the ceasefire was announced.",
-      "lang": "en",
-      "title_en": "Pakistan extends Indian aircraft airspace ban for another month: PAA",
-      "summary_en": "Pakistan on Friday extended the airspace ban for Indian aircraft till October 24, according to a statement by the Pakistan Aviation Authority (PAA). Last month, the government extended the closure of its airspace to Indian aircr­aft for another month, until September 25, according to a NOTAM (notice to airmen) issued on August 22. New Delhi had accused Islamabad, without evidence, of orchestrating April’s deadly attack in occupied Kashmir’s Pahalgam. Pakistan had strongly denied the allegations and called for a neutral probe. As the situation turned into a military confrontation between the nuclear powers, it took American intervention for both sides to agree to a ceasefire. On April 24, Pakistan’s top brass had announced a series of measures, including the closure of its airspace to all India-owned or Indian-operated airlines with immediate effect, as it retaliated against New Delhi’s slew of aggressive measures against the country. PAA spokesperson Saifullah Khan confirmed to Dawn.com that the airspace closure for Indian aircraft had been extended till October 24. A copy of the NOTAM, available with Dawn.com , also confirmed the closure. “Pakistan’s airspace will remain closed to Indian registered aircraft. This ban applies to all aircraft owned, operated or leased by Indian airlines or operators. This includes military flights,” the statement by the PAA spokesperson said. “The ban will come into effect from 1:00 PM (PKT) on 19 September 2025 and will end at 4:59 AM (PKT) on October 24 2025 (end time is approximate). The ban will be effective from ground level to unlimited altitude,” the PAA said. The two neighbouring nations closed their airspaces multiple times during the hostilities last month. Pakis­tan reopened its airspace for all types of flig­hts on May 10 after the ceasefire was announced.",
-      "title": "Pakistan extends Indian aircraft airspace ban for another month: PAA",
-      "summary": "Pakistan on Friday extended the airspace ban for Indian aircraft till October 24, according to a statement by the Pakistan Aviation Authority (PAA). Last month, the government extended the closure of its airspace to Indian aircr­aft for another month, until September 25, according to a NOTAM (notice to airmen) issued on August 22. New Delhi had accused Islamabad, without evidence, of orchestrating April’s deadly attack in occupied Kashmir’s Pahalgam. Pakistan had strongly denied the allegations and called for a neutral probe. As the situation turned into a military confrontation between the nuclear powers, it took American intervention for both sides to agree to a ceasefire. On April 24, Pakistan’s top brass had announced a series of measures, including the closure of its airspace to all India-owned or Indian-operated airlines with immediate effect, as it retaliated against New Delhi’s slew of aggressive measures against the country. PAA spokesperson Saifullah Khan confirmed to Dawn.com that the airspace closure for Indian aircraft had been extended till October 24. A copy of the NOTAM, available with Dawn.com , also confirmed the closure. “Pakistan’s airspace will remain closed to Indian registered aircraft. This ban applies to all aircraft owned, operated or leased by Indian airlines or operators. This includes military flights,” the statement by the PAA spokesperson said. “The ban will come into effect from 1:00 PM (PKT) on 19 September 2025 and will end at 4:59 AM (PKT) on October 24 2025 (end time is approximate). The ban will be effective from ground level to unlimited altitude,” the PAA said. The two neighbouring nations closed their airspaces multiple times during the hostilities last month. Pakis­tan reopened its airspace for all types of flig­hts on May 10 after the ceasefire was announced.",
-      "url": "https://www.dawn.com/news/1943232/pakistan-extends-indian-aircraft-airspace-ban-for-another-month-paa",
-      "source": "Dawn - Home",
-      "published_at": "2025-09-19T16:01:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7e82370c86b6c2a8",
       "title_orig": "I left my phone at the airport during transit. Things got worse from there",
       "summary_orig": "If you’re travelling solo, it turns out it’s not an easy situation to remedy. For better or for worse, we’re now tied to tech when we travel.",
@@ -2354,24 +2480,6 @@
       "url": "https://airlive.net/emergency/2025/09/19/southwest-flight-wn2906-is-declaring-an-emergency-and-returning-to-atlanta/",
       "source": "AIRLIVE",
       "published_at": "2025-09-19T15:39:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8c4ad49d5b02fba3",
-      "title_orig": "FO clarifies that Pak-Saudi defence agreement ‘not directed against any third country’",
-      "summary_orig": "The Foreign Office (FO) said on Friday that the Strategic Mutual Defence Agreement signed between Pakistan and Saudi Arabia earlier this week would not be used to threaten any other country. Pakis­tan and Saudi Arabia entered into a landmark mutual defence agreement, under which any aggression against one state will be considered an attack on both. The pact was signed by Prime Minister Shehbaz Sharif and Saudi Crown Prince Mohammad Bin Salman at the Al-Yamamah Palace in Riyadh on Wednesday. On Thursday, Defence Minister Khawaja Asif stated in an interview that the pact was defensive in nature. During a weekly press briefing today, FO spokesperson Shafqat Ali Khan called the agreement “an important milestone for promoting peace and security in the region and the world” and noted that since the 1960s, a key pillar of the ties between Islamabad and Riyadh has been defence cooperation. “The Strategic Mutual Defence Agreement formalises this decades-old and robust defence partnership,” the spokesperson said. “It is defensive in nature and not directed against any third country. It will contribute to regional peace, security and stability.” Khan added that Foreign Minister Ishaq Dar received a telephone call from the Egyptian Foreign Minister Badr Abdelatty on Thursday night, congratulating him on the landmark agreement. “The strategic defence agreement is a milestone in promoting partnership and trust,” the spokesperson said, quoting the Egyptian FM. “Both foreign ministers discussed regional and global issues and emphasised the importance of peace, stability and economic development.” According to the spokesperson, Pakistan and Saudi Arabia enjoy a “long and distinguished history of brotherhood and cooperation”. “[The] Pakistan-Saudi Arabia bilateral relationship is unique, enduring and multifaceted,” Khan outlined. “The leadership of the two countries share the common vision to take it to new heights. “The relationship lives in the hearts of the people of [the] two countries. [The] people of Pakistan have special sentiments for Saudi Arabia, the land of Mecca and Madinah, and they hold the Royal family in high esteem for being the custodian of the holy sites.",
-      "lang": "en",
-      "title_en": "FO clarifies that Pak-Saudi defence agreement ‘not directed against any third country’",
-      "summary_en": "The Foreign Office (FO) said on Friday that the Strategic Mutual Defence Agreement signed between Pakistan and Saudi Arabia earlier this week would not be used to threaten any other country. Pakis­tan and Saudi Arabia entered into a landmark mutual defence agreement, under which any aggression against one state will be considered an attack on both. The pact was signed by Prime Minister Shehbaz Sharif and Saudi Crown Prince Mohammad Bin Salman at the Al-Yamamah Palace in Riyadh on Wednesday. On Thursday, Defence Minister Khawaja Asif stated in an interview that the pact was defensive in nature. During a weekly press briefing today, FO spokesperson Shafqat Ali Khan called the agreement “an important milestone for promoting peace and security in the region and the world” and noted that since the 1960s, a key pillar of the ties between Islamabad and Riyadh has been defence cooperation. “The Strategic Mutual Defence Agreement formalises this decades-old and robust defence partnership,” the spokesperson said. “It is defensive in nature and not directed against any third country. It will contribute to regional peace, security and stability.” Khan added that Foreign Minister Ishaq Dar received a telephone call from the Egyptian Foreign Minister Badr Abdelatty on Thursday night, congratulating him on the landmark agreement. “The strategic defence agreement is a milestone in promoting partnership and trust,” the spokesperson said, quoting the Egyptian FM. “Both foreign ministers discussed regional and global issues and emphasised the importance of peace, stability and economic development.” According to the spokesperson, Pakistan and Saudi Arabia enjoy a “long and distinguished history of brotherhood and cooperation”. “[The] Pakistan-Saudi Arabia bilateral relationship is unique, enduring and multifaceted,” Khan outlined. “The leadership of the two countries share the common vision to take it to new heights. “The relationship lives in the hearts of the people of [the] two countries. [The] people of Pakistan have special sentiments for Saudi Arabia, the land of Mecca and Madinah, and they hold the Royal family in high esteem for being the custodian of the holy sites.",
-      "title": "FO clarifies that Pak-Saudi defence agreement ‘not directed against any third country’",
-      "summary": "The Foreign Office (FO) said on Friday that the Strategic Mutual Defence Agreement signed between Pakistan and Saudi Arabia earlier this week would not be used to threaten any other country. Pakis­tan and Saudi Arabia entered into a landmark mutual defence agreement, under which any aggression against one state will be considered an attack on both. The pact was signed by Prime Minister Shehbaz Sharif and Saudi Crown Prince Mohammad Bin Salman at the Al-Yamamah Palace in Riyadh on Wednesday. On Thursday, Defence Minister Khawaja Asif stated in an interview that the pact was defensive in nature. During a weekly press briefing today, FO spokesperson Shafqat Ali Khan called the agreement “an important milestone for promoting peace and security in the region and the world” and noted that since the 1960s, a key pillar of the ties between Islamabad and Riyadh has been defence cooperation. “The Strategic Mutual Defence Agreement formalises this decades-old and robust defence partnership,” the spokesperson said. “It is defensive in nature and not directed against any third country. It will contribute to regional peace, security and stability.” Khan added that Foreign Minister Ishaq Dar received a telephone call from the Egyptian Foreign Minister Badr Abdelatty on Thursday night, congratulating him on the landmark agreement. “The strategic defence agreement is a milestone in promoting partnership and trust,” the spokesperson said, quoting the Egyptian FM. “Both foreign ministers discussed regional and global issues and emphasised the importance of peace, stability and economic development.” According to the spokesperson, Pakistan and Saudi Arabia enjoy a “long and distinguished history of brotherhood and cooperation”. “[The] Pakistan-Saudi Arabia bilateral relationship is unique, enduring and multifaceted,” Khan outlined. “The leadership of the two countries share the common vision to take it to new heights. “The relationship lives in the hearts of the people of [the] two countries. [The] people of Pakistan have special sentiments for Saudi Arabia, the land of Mecca and Madinah, and they hold the Royal family in high esteem for being the custodian of the holy sites.",
-      "url": "https://www.dawn.com/news/1943199/fo-clarifies-that-pak-saudi-defence-agreement-not-directed-against-any-third-country",
-      "source": "Dawn - Home",
-      "published_at": "2025-09-19T15:38:45+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2631,24 +2739,6 @@
       "geo": {}
     },
     {
-      "id": "858d5dfbdec06839",
-      "title_orig": "PM Modi to inaugurate India’s largest cruise terminal in Mumbai: Top points",
-      "summary_orig": "The Mumbai International Cruise Terminal, covering more than 415,000 square feet, has been designed to accommodate up to 1 million passengers a year.",
-      "lang": "en",
-      "title_en": "PM Modi to inaugurate India’s largest cruise terminal in Mumbai: Top points",
-      "summary_en": "The Mumbai International Cruise Terminal, covering more than 415,000 square feet, has been designed to accommodate up to 1 million passengers a year.",
-      "title": "PM Modi to inaugurate India’s largest cruise terminal in Mumbai: Top points",
-      "summary": "The Mumbai International Cruise Terminal, covering more than 415,000 square feet, has been designed to accommodate up to 1 million passengers a year.",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-to-inaugurate-india-s-largest-cruise-terminal-in-mumbai-top-points-101758291223445.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-09-19T14:24:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5f9ad2f7690b039f",
       "title_orig": "Leeds born RAF Pilot honoured in a French commemoration",
       "summary_orig": "Norman EASBY, aged 25, from Wensley View, Chapel Allerton, Leeds was the Pilot of a Lancaster bomber that was shot down over the village of Bransles in France on June 28, 1944. All seven crew members died in the crash and are buried in the village cemetery.",
@@ -2766,24 +2856,6 @@
       }
     },
     {
-      "id": "c0c6b8125ffc57d8",
-      "title_orig": "Gunmen ambush Assam Rifles vehicle in Manipur, 2 jawans killed, 5 injured",
-      "summary_orig": "The Assam Rifles personnel were travelling in a 407 Tata vehicle when the attack occurred at around 6 PM on Friday.",
-      "lang": "en",
-      "title_en": "Gunmen ambush Assam Rifles vehicle in Manipur, 2 jawans killed, 5 injured",
-      "summary_en": "The Assam Rifles personnel were travelling in a 407 Tata vehicle when the attack occurred at around 6 PM on Friday.",
-      "title": "Gunmen ambush Assam Rifles vehicle in Manipur, 2 jawans killed, 5 injured",
-      "summary": "The Assam Rifles personnel were travelling in a 407 Tata vehicle when the attack occurred at around 6 PM on Friday.",
-      "url": "https://www.hindustantimes.com/india-news/unidentified-gunmen-open-fire-at-assam-rifles-vehicle-in-manipur-jawan-killed-injured-101758289393793.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-09-19T13:48:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5df148837b8a0a3c",
       "title_orig": "Drug mule caught at Belfast City Airport with suitcases of cannabis worth £800,000 avoids jail",
       "summary_orig": "She alleged that she was told the suit cases contained counterfeit fake designer clothing and shoes as a present for his family members",
@@ -2797,24 +2869,6 @@
       "published_at": "2025-09-19T13:44:15+00:00",
       "tags": [
         "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "da231d520785aa8d",
-      "title_orig": "Indian, Canadian NSAs meet for bilateral security consultations",
-      "summary_orig": "NSA Doval met his Canadian counterpart Nathalie Drouin on Thursday three weeks after India and Canada appointed new high commissioners in each other’s capitals",
-      "lang": "en",
-      "title_en": "Indian, Canadian NSAs meet for bilateral security consultations",
-      "summary_en": "NSA Doval met his Canadian counterpart Nathalie Drouin on Thursday three weeks after India and Canada appointed new high commissioners in each other’s capitals",
-      "title": "Indian, Canadian NSAs meet for bilateral security consultations",
-      "summary": "NSA Doval met his Canadian counterpart Nathalie Drouin on Thursday three weeks after India and Canada appointed new high commissioners in each other’s capitals",
-      "url": "https://www.hindustantimes.com/india-news/indian-canadian-nsas-meet-for-bilateral-security-consultations-101758289169758.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-09-19T13:39:29+00:00",
-      "tags": [
-        "diplomatic"
       ],
       "type": "local news",
       "geo": {}
@@ -3011,42 +3065,6 @@
       "url": "https://www.straitstimes.com/world/Washingtons-immigrant-neighborhoods-push-back-against-ICE-arrests-with-protests-recordings",
       "source": "The Straits Times World News",
       "published_at": "2025-09-19T12:15:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3dbf206665b31c18",
-      "title_orig": "Drug user who murdered ex-soldier in ‘cruel’ attack jailed for at least 11 years",
-      "summary_orig": "Gregory Twigg, who was ‘raging’ after taking cocaine, was said in court to be remorseful at the ‘dreadful and tragic’ outcome of his actions.",
-      "lang": "en",
-      "title_en": "Drug user who murdered ex-soldier in ‘cruel’ attack jailed for at least 11 years",
-      "summary_en": "Gregory Twigg, who was ‘raging’ after taking cocaine, was said in court to be remorseful at the ‘dreadful and tragic’ outcome of his actions.",
-      "title": "Drug user who murdered ex-soldier in ‘cruel’ attack jailed for at least 11 years",
-      "summary": "Gregory Twigg, who was ‘raging’ after taking cocaine, was said in court to be remorseful at the ‘dreadful and tragic’ outcome of his actions.",
-      "url": "https://www.standard.co.uk/news/crime/stokeontrent-british-army-defence-staffordshire-police-newcastle-b1248647.html",
-      "source": "The Standard News",
-      "published_at": "2025-09-19T12:06:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8d7d7e7d1c27a208",
-      "title_orig": "China’s plan for a naval ‘Great Wall’ to fend off thousand-drone swarm attack",
-      "summary_orig": "Chinese naval researchers have detailed plans to construct a multilayered defence architecture designed to protect warships from saturation attacks by up to thousands of low-cost drones, responding to what they call an existential threat amplified by accessible commercial technology.\nThe proposed “counter-swarm system”, likened by some experts to a digital-age Great Wall, would integrate satellites, AI-powered sensors and radical new weapons – including hypersonic missiles, lasers and microwave...",
-      "lang": "en",
-      "title_en": "China’s plan for a naval ‘Great Wall’ to fend off thousand-drone swarm attack",
-      "summary_en": "Chinese naval researchers have detailed plans to construct a multilayered defence architecture designed to protect warships from saturation attacks by up to thousands of low-cost drones, responding to what they call an existential threat amplified by accessible commercial technology.\nThe proposed “counter-swarm system”, likened by some experts to a digital-age Great Wall, would integrate satellites, AI-powered sensors and radical new weapons – including hypersonic missiles, lasers and microwave...",
-      "title": "China’s plan for a naval ‘Great Wall’ to fend off thousand-drone swarm attack",
-      "summary": "Chinese naval researchers have detailed plans to construct a multilayered defence architecture designed to protect warships from saturation attacks by up to thousands of low-cost drones, responding to what they call an existential threat amplified by accessible commercial technology.\nThe proposed “counter-swarm system”, likened by some experts to a digital-age Great Wall, would integrate satellites, AI-powered sensors and radical new weapons – including hypersonic missiles, lasers and microwave...",
-      "url": "https://www.scmp.com/news/china/science/article/3325299/china-plans-build-naval-great-wall-fend-thousand-drone-swarm-attack?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-09-19T12:00:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3360,24 +3378,6 @@
       "geo": {}
     },
     {
-      "id": "795ad53442f5f624",
-      "title_orig": "Unite the Union: A9 road set for disruption as maintenance workers back strike action over pay",
-      "summary_orig": "The dispute centres on low pay for dozens of Bear Scotland workers based in Inverness.",
-      "lang": "en",
-      "title_en": "Unite the Union: A9 road set for disruption as maintenance workers back strike action over pay",
-      "summary_en": "The dispute centres on low pay for dozens of Bear Scotland workers based in Inverness.",
-      "title": "Unite the Union: A9 road set for disruption as maintenance workers back strike action over pay",
-      "summary": "The dispute centres on low pay for dozens of Bear Scotland workers based in Inverness.",
-      "url": "https://www.scotsman.com/news/transport/unite-the-union-a9-road-disruption-strike-5324758",
-      "source": "The Scotsman",
-      "published_at": "2025-09-19T07:38:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "985de41955b26c67",
       "title_orig": "Hundreds of protestors rally in Edinburgh Meadows during Donald Trump visit",
       "summary_orig": "Around 200 demonstrators gathered on the Meadows on Thursday evening, many carrying placards and banners with anti-Trump slogans.",
@@ -3501,6 +3501,78 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "dc01305b524020cb",
+      "title_orig": "Hong Kong to evacuate 6,000 after WWII-era bomb found",
+      "summary_orig": "HONG KONG: Hong Kong planned to evacuate thousands of residents on Friday as a bomb left over from World War II was discovered at a construction site.\n\tPolice said that the bomb measured approximately 1.5 meters (4.9 feet) in length and weighed about 450 kilograms (1,000 pounds), adding that they believed it remained “fully functional.”\n\t“Due to the extremely high risks involved in dismantling and disposing of the bomb, we must activate the emergency evacuation plan,” said Hong Kong Police’s district commander Andy Chan.",
+      "lang": "en",
+      "title_en": "Hong Kong to evacuate 6,000 after WWII-era bomb found",
+      "summary_en": "HONG KONG: Hong Kong planned to evacuate thousands of residents on Friday as a bomb left over from World War II was discovered at a construction site.\n\tPolice said that the bomb measured approximately 1.5 meters (4.9 feet) in length and weighed about 450 kilograms (1,000 pounds), adding that they believed it remained “fully functional.”\n\t“Due to the extremely high risks involved in dismantling and disposing of the bomb, we must activate the emergency evacuation plan,” said Hong Kong Police’s district commander Andy Chan.",
+      "title": "Hong Kong to evacuate 6,000 after WWII-era bomb found",
+      "summary": "HONG KONG: Hong Kong planned to evacuate thousands of residents on Friday as a bomb left over from World War II was discovered at a construction site.\n\tPolice said that the bomb measured approximately 1.5 meters (4.9 feet) in length and weighed about 450 kilograms (1,000 pounds), adding that they believed it remained “fully functional.”\n\t“Due to the extremely high risks involved in dismantling and disposing of the bomb, we must activate the emergency evacuation plan,” said Hong Kong Police’s district commander Andy Chan.",
+      "url": "https://www.arabnews.com/node/2615949/world",
+      "source": "ArabNews",
+      "published_at": "2025-09-19T01:09:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bb8a292b817a68a4",
+      "title_orig": "Massive Attack join Israel boycott campaign",
+      "summary_orig": "PARIS: British trip-hop group Massive Attack announced they are joining a new music industry initiative to block their music in Israel and have also asked for their songs to be removed from Spotify.\n\tThe Bristol natives said they had joined “No Music for Genocide,” a collective of musicians modelled on the “Film Workers for Palestine” group, which has also called for a cultural boycott of Israel over the war in Gaza.",
+      "lang": "en",
+      "title_en": "Massive Attack join Israel boycott campaign",
+      "summary_en": "PARIS: British trip-hop group Massive Attack announced they are joining a new music industry initiative to block their music in Israel and have also asked for their songs to be removed from Spotify.\n\tThe Bristol natives said they had joined “No Music for Genocide,” a collective of musicians modelled on the “Film Workers for Palestine” group, which has also called for a cultural boycott of Israel over the war in Gaza.",
+      "title": "Massive Attack join Israel boycott campaign",
+      "summary": "PARIS: British trip-hop group Massive Attack announced they are joining a new music industry initiative to block their music in Israel and have also asked for their songs to be removed from Spotify.\n\tThe Bristol natives said they had joined “No Music for Genocide,” a collective of musicians modelled on the “Film Workers for Palestine” group, which has also called for a cultural boycott of Israel over the war in Gaza.",
+      "url": "https://www.arabnews.com/node/2615951/world",
+      "source": "ArabNews",
+      "published_at": "2025-09-19T01:09:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3b897d33fc777d8a",
+      "title_orig": "Israeli strike on south Lebanon kills one: ministry",
+      "summary_orig": "BEIRUT: An Israeli strike on southern Lebanon killed one person and wounded three others on Friday, Lebanon’s health ministry said, in the latest attack despite a ceasefire between Israel and Hezbollah.\n\tIn a statement, the ministry said that an “Israeli airstrike on a vehicle” in Tibnin, southern Lebanon killed one person and wounded three, describing it as a preliminary toll.\n\tThe Israeli army did not immediately comment on the incident.\n\tThe attack comes a day after Israel bombed several southern Lebanese towns it had warned residents to evacuate.",
+      "lang": "en",
+      "title_en": "Israeli strike on south Lebanon kills one: ministry",
+      "summary_en": "BEIRUT: An Israeli strike on southern Lebanon killed one person and wounded three others on Friday, Lebanon’s health ministry said, in the latest attack despite a ceasefire between Israel and Hezbollah.\n\tIn a statement, the ministry said that an “Israeli airstrike on a vehicle” in Tibnin, southern Lebanon killed one person and wounded three, describing it as a preliminary toll.\n\tThe Israeli army did not immediately comment on the incident.\n\tThe attack comes a day after Israel bombed several southern Lebanese towns it had warned residents to evacuate.",
+      "title": "Israeli strike on south Lebanon kills one: ministry",
+      "summary": "BEIRUT: An Israeli strike on southern Lebanon killed one person and wounded three others on Friday, Lebanon’s health ministry said, in the latest attack despite a ceasefire between Israel and Hezbollah.\n\tIn a statement, the ministry said that an “Israeli airstrike on a vehicle” in Tibnin, southern Lebanon killed one person and wounded three, describing it as a preliminary toll.\n\tThe Israeli army did not immediately comment on the incident.\n\tThe attack comes a day after Israel bombed several southern Lebanese towns it had warned residents to evacuate.",
+      "url": "https://www.arabnews.com/node/2615946/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-19T00:09:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b805f482083b251c",
+      "title_orig": "World Court says Mali drone case can’t proceed without Algeria accepting jurisdiction",
+      "summary_orig": "THE HAGUE: The International Court of Justice said on Friday that Mali’s application for a case against neighboring Algeria over the shooting down of a Malian military drone could only proceed if Algeria accepts the court’s jurisdiction.\n\tMali’s accusation that Algeria deliberately shot down the drone along their shared desert border during the night of March 31 to April 1 led to a diplomatic crisis.",
+      "lang": "en",
+      "title_en": "World Court says Mali drone case can’t proceed without Algeria accepting jurisdiction",
+      "summary_en": "THE HAGUE: The International Court of Justice said on Friday that Mali’s application for a case against neighboring Algeria over the shooting down of a Malian military drone could only proceed if Algeria accepts the court’s jurisdiction.\n\tMali’s accusation that Algeria deliberately shot down the drone along their shared desert border during the night of March 31 to April 1 led to a diplomatic crisis.",
+      "title": "World Court says Mali drone case can’t proceed without Algeria accepting jurisdiction",
+      "summary": "THE HAGUE: The International Court of Justice said on Friday that Mali’s application for a case against neighboring Algeria over the shooting down of a Malian military drone could only proceed if Algeria accepts the court’s jurisdiction.\n\tMali’s accusation that Algeria deliberately shot down the drone along their shared desert border during the night of March 31 to April 1 led to a diplomatic crisis.",
+      "url": "https://www.arabnews.com/node/2615942/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-19T00:09:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -3675,24 +3747,6 @@
       "geo": {}
     },
     {
-      "id": "80a17a45130be765",
-      "title_orig": "MP fears protests outside asylum hotel will 'turn community into battleground'",
-      "summary_orig": "Toby Perkins thinks they could 'turn a quiet community into a battleground'",
-      "lang": "en",
-      "title_en": "MP fears protests outside asylum hotel will 'turn community into battleground'",
-      "summary_en": "Toby Perkins thinks they could 'turn a quiet community into a battleground'",
-      "title": "MP fears protests outside asylum hotel will 'turn community into battleground'",
-      "summary": "Toby Perkins thinks they could 'turn a quiet community into a battleground'",
-      "url": "https://www.derbytelegraph.co.uk/news/local-news/mp-fears-protests-outside-asylum-10510730",
-      "source": "Derbyshire Live - frontpage",
-      "published_at": "2025-09-18T16:21:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "738fca4d7665dfdc",
       "title_orig": "Daniel Farke orders Leeds strikers to stay behind after training to work on one thing",
       "summary_orig": "Leeds have yet to score in open play this season",
@@ -3816,24 +3870,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "d2c665dec182f58e",
-      "title_orig": "Hundreds of thousands join anti-government protests across France",
-      "summary_orig": "France saw massive anti-government protests on Thursday, with widespread strike action and hundreds of marches and demos across the country - one union has estimated that 1 million people took part, although the official estimate is 500,000.",
-      "lang": "en",
-      "title_en": "Hundreds of thousands join anti-government protests across France",
-      "summary_en": "France saw massive anti-government protests on Thursday, with widespread strike action and hundreds of marches and demos across the country - one union has estimated that 1 million people took part, although the official estimate is 500,000.",
-      "title": "Hundreds of thousands join anti-government protests across France",
-      "summary": "France saw massive anti-government protests on Thursday, with widespread strike action and hundreds of marches and demos across the country - one union has estimated that 1 million people took part, although the official estimate is 500,000.",
-      "url": "https://www.thelocal.fr/20250918/latest-france-braces-for-mass-strikes-and-huge-protests",
-      "source": "The Local France",
-      "published_at": "2025-09-18T05:29:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -4298,78 +4334,6 @@
       "url": "https://www.latimes.com/world-nation/story/2025-09-03/rubio-sheinbaum-to-meet-in-mexico-city",
       "source": "World & Nation",
       "published_at": "2025-09-03T21:40:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "db72bbbfad2eca33",
-      "title_orig": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
-      "summary_orig": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
-      "lang": "en",
-      "title_en": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
-      "summary_en": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
-      "title": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
-      "summary": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
-      "url": "https://www.arabnews.com/node/2613998/world",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T00:09:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f2552cabb7885e4a",
-      "title_orig": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
-      "summary_orig": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
-      "lang": "en",
-      "title_en": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
-      "summary_en": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
-      "title": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
-      "summary": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
-      "url": "https://www.arabnews.com/node/2613992/saudi-arabia",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T00:09:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b40ed7a60e99a3e1",
-      "title_orig": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
-      "summary_orig": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
-      "lang": "en",
-      "title_en": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
-      "summary_en": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
-      "title": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
-      "summary": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
-      "url": "https://www.arabnews.com/node/2613994/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T00:09:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9da019f59337430b",
-      "title_orig": "Israeli forces seize seven people from Syria: state media",
-      "summary_orig": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
-      "lang": "en",
-      "title_en": "Israeli forces seize seven people from Syria: state media",
-      "summary_en": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
-      "title": "Israeli forces seize seven people from Syria: state media",
-      "summary": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
-      "url": "https://www.arabnews.com/node/2614000/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T00:09:01+00:00",
       "tags": [
         "airport/security"
       ],
