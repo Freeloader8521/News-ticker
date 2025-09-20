@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-20T23:33:14.020141+00:00",
+  "generated_at": "2025-09-20T23:44:28.957024+00:00",
   "items": [
     {
       "id": "4ed71c5c4f039ebc",
@@ -71,6 +71,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9dd539a9f0b0c215",
+      "title_orig": "Zelenskyy plans to meet Trump on sidelines of UN as Russia steps up attacks",
+      "summary_orig": "Kyiv in sanctions push as NATO states on Europe’s eastern flank take preventive action after Moscow's air incursions.",
+      "lang": "en",
+      "title_en": "Zelenskyy plans to meet Trump on sidelines of UN as Russia steps up attacks",
+      "summary_en": "Kyiv in sanctions push as NATO states on Europe’s eastern flank take preventive action after Moscow's air incursions.",
+      "title": "Zelenskyy plans to meet Trump on sidelines of UN as Russia steps up attacks",
+      "summary": "Kyiv in sanctions push as NATO states on Europe’s eastern flank take preventive action after Moscow's air incursions.",
+      "url": "https://www.aljazeera.com/news/2025/9/20/zelenskyy-plans-to-meet-trump-on-sidelines-of-un-as-russia-steps-up-attacks?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-20T23:01:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -211,6 +229,24 @@
       "url": "https://www.stuff.co.nz/world-news/360830524/thousands-evacuated-hong-kong-after-discovery-large-wwii-era-bomb",
       "source": "Stuff - /",
       "published_at": "2025-09-20T21:19:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4868ae22e7b374da",
+      "title_orig": "Photos show activists targeting billionaires in a street protest on the eve of New York Climate Week",
+      "summary_orig": "NEW YORK (AP) — Thousands of activists marched through Manhattan as part of a global wave of protests demanding urgent climate action on the eve of New York Climate Week. Protesters targeted Billionaires’ Row and Trump Tower with chants of “Make Billionaires Pay,” linking climate justice with broader calls for democracy, gender equality, free speech, […]",
+      "lang": "en",
+      "title_en": "Photos show activists targeting billionaires in a street protest on the eve of New York Climate Week",
+      "summary_en": "NEW YORK (AP) — Thousands of activists marched through Manhattan as part of a global wave of protests demanding urgent climate action on the eve of New York Climate Week. Protesters targeted Billionaires’ Row and Trump Tower with chants of “Make Billionaires Pay,” linking climate justice with broader calls for democracy, gender equality, free speech, […]",
+      "title": "Photos show activists targeting billionaires in a street protest on the eve of New York Climate Week",
+      "summary": "NEW YORK (AP) — Thousands of activists marched through Manhattan as part of a global wave of protests demanding urgent climate action on the eve of New York Climate Week. Protesters targeted Billionaires’ Row and Trump Tower with chants of “Make Billionaires Pay,” linking climate justice with broader calls for democracy, gender equality, free speech, […]",
+      "url": "https://www.seattletimes.com/nation-world/nation/photos-show-activists-targeting-billionaires-in-a-street-protest-on-the-eve-of-new-york-climate-week/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-09-20T21:13:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -686,24 +722,6 @@
       "geo": {}
     },
     {
-      "id": "09ace0fb176534b7",
-      "title_orig": "Zelenskyy to meet Trump at UN General Assembly as Russian attacks intensify",
-      "summary_orig": "The Ukrainian president says he will hold \"a meeting with the President of the United States\" to discuss security guarantees for Ukraine and sanctions on Russia.",
-      "lang": "en",
-      "title_en": "Zelenskyy to meet Trump at UN General Assembly as Russian attacks intensify",
-      "summary_en": "The Ukrainian president says he will hold \"a meeting with the President of the United States\" to discuss security guarantees for Ukraine and sanctions on Russia.",
-      "title": "Zelenskyy to meet Trump at UN General Assembly as Russian attacks intensify",
-      "summary": "The Ukrainian president says he will hold \"a meeting with the President of the United States\" to discuss security guarantees for Ukraine and sanctions on Russia.",
-      "url": "https://www.abc.net.au/news/2025-09-21/zelenskyy-to-meet-trump-at-un-general-assembly/105798222",
-      "source": "Just In",
-      "published_at": "2025-09-20T19:35:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2a28832bd3dbdbd3",
       "title_orig": "Police fire tear gas at anti-immigration protesters in The Hague",
       "summary_orig": "Dutch police deployed water cannons and tear gas to disperse anti-immigration protests in The Hague.",
@@ -785,33 +803,6 @@
       "geo": {}
     },
     {
-      "id": "9d69ee0cce313346",
-      "title_orig": "Cyber attack causes mass disruption at major European airports",
-      "summary_orig": "The attack on a provider of check-in and boarding systems causes mass disruption at several major European airports, including London's Heathrow.",
-      "lang": "en",
-      "title_en": "Cyber attack causes mass disruption at major European airports",
-      "summary_en": "The attack on a provider of check-in and boarding systems causes mass disruption at several major European airports, including London's Heathrow.",
-      "title": "Cyber attack causes mass disruption at major European airports",
-      "summary": "The attack on a provider of check-in and boarding systems causes mass disruption at several major European airports, including London's Heathrow.",
-      "url": "https://www.abc.net.au/news/2025-09-21/cyber-attack-collins-aerospace-disrupts-europe-airports/105798264",
-      "source": "Just In",
-      "published_at": "2025-09-20T19:16:25+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
       "id": "92839fb1a20ef631",
       "title_orig": "Hungary urges EU to designate antifa as a ‘terrorist’ group",
       "summary_orig": "Foreign Minister Peter Szijjarto urges EU alignment with the US calling the anti-fascist group a 'grave threat'.",
@@ -827,6 +818,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e30e29d4ba1530a5",
+      "title_orig": "Marchers gather in worldwide protest of financial institutions ‘profiting off the climate crisis’",
+      "summary_orig": "On the eve of New York Climate Week, activists and members of the public have gathered to protest the financial institutions that are “making our lives more expensive while profiting off the climate crisis, war and genocide,” the organizers say.",
+      "lang": "en",
+      "title_en": "Marchers gather in worldwide protest of financial institutions ‘profiting off the climate crisis’",
+      "summary_en": "On the eve of New York Climate Week, activists and members of the public have gathered to protest the financial institutions that are “making our lives more expensive while profiting off the climate crisis, war and genocide,” the organizers say.",
+      "title": "Marchers gather in worldwide protest of financial institutions ‘profiting off the climate crisis’",
+      "summary": "On the eve of New York Climate Week, activists and members of the public have gathered to protest the financial institutions that are “making our lives more expensive while profiting off the climate crisis, war and genocide,” the organizers say.",
+      "url": "https://www.seattletimes.com/nation-world/nation/marchers-gather-in-worldwide-to-protest-financial-institutions-profiting-off-the-climate-crisis/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-09-20T19:08:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -1316,24 +1325,6 @@
       "geo": {}
     },
     {
-      "id": "d481b1ae972262b3",
-      "title_orig": "Enzo reunited with his Langley family, 1.5 years after he was seized",
-      "summary_orig": "A Langley, B.C., dog named Enzo was returned to his family following his seizure in a now-settled dispute over whether he attacked a contractor working in his family's backyard.",
-      "lang": "en",
-      "title_en": "Enzo reunited with his Langley family, 1.5 years after he was seized",
-      "summary_en": "A Langley, B.C., dog named Enzo was returned to his family following his seizure in a now-settled dispute over whether he attacked a contractor working in his family's backyard.",
-      "title": "Enzo reunited with his Langley family, 1.5 years after he was seized",
-      "summary": "A Langley, B.C., dog named Enzo was returned to his family following his seizure in a now-settled dispute over whether he attacked a contractor working in his family's backyard.",
-      "url": "https://globalnews.ca/news/11437951/seized-dog-enzo-reunited-langley-family-following/",
-      "source": "globalnews.ca",
-      "published_at": "2025-09-20T16:06:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "fa74a58b04787b37",
       "title_orig": "Jetstar denies fault as passengers cry foul over scales",
       "summary_orig": "Passengers at Wellington Airport say they were stung with $65 fees after portable gate scales gave heavier readings than terminal scales.",
@@ -1727,24 +1718,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "c34a0eb2ad1b0078",
-      "title_orig": "Dame Prue's parachute dress and Romeo Beckham's runway debut - London Fashion week in pictures",
-      "summary_orig": "Fifteen of the most striking looks from the event's opening shows.",
-      "lang": "en",
-      "title_en": "Dame Prue's parachute dress and Romeo Beckham's runway debut - London Fashion week in pictures",
-      "summary_en": "Fifteen of the most striking looks from the event's opening shows.",
-      "title": "Dame Prue's parachute dress and Romeo Beckham's runway debut - London Fashion week in pictures",
-      "summary": "Fifteen of the most striking looks from the event's opening shows.",
-      "url": "https://www.bbc.com/news/articles/cd63n1wv8nlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-09-20T14:27:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -5027,6 +5000,78 @@
       "url": "https://www.latimes.com/world-nation/story/2025-09-03/rubio-sheinbaum-to-meet-in-mexico-city",
       "source": "World & Nation",
       "published_at": "2025-09-03T21:40:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "db72bbbfad2eca33",
+      "title_orig": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
+      "summary_orig": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
+      "lang": "en",
+      "title_en": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
+      "summary_en": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
+      "title": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
+      "summary": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
+      "url": "https://www.arabnews.com/node/2613998/world",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T00:09:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f2552cabb7885e4a",
+      "title_orig": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
+      "summary_orig": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
+      "lang": "en",
+      "title_en": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
+      "summary_en": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
+      "title": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
+      "summary": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
+      "url": "https://www.arabnews.com/node/2613992/saudi-arabia",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T00:09:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b40ed7a60e99a3e1",
+      "title_orig": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
+      "summary_orig": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
+      "lang": "en",
+      "title_en": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
+      "summary_en": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
+      "title": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
+      "summary": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
+      "url": "https://www.arabnews.com/node/2613994/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T00:09:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9da019f59337430b",
+      "title_orig": "Israeli forces seize seven people from Syria: state media",
+      "summary_orig": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
+      "lang": "en",
+      "title_en": "Israeli forces seize seven people from Syria: state media",
+      "summary_en": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
+      "title": "Israeli forces seize seven people from Syria: state media",
+      "summary": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
+      "url": "https://www.arabnews.com/node/2614000/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T00:09:01+00:00",
       "tags": [
         "airport/security"
       ],
