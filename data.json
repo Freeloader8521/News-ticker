@@ -1,6 +1,24 @@
 {
-  "generated_at": "2025-09-21T21:33:31.501716+00:00",
+  "generated_at": "2025-09-21T21:44:20.607563+00:00",
   "items": [
+    {
+      "id": "6779eaba147b81fe",
+      "title_orig": "Using drone, Oceanside PD locates car thought to be stolen",
+      "summary_orig": "A couple in Oceanside, celebrating their 20th anniversary, had a scare when they thought their car had been stolen, but a drone search quickly located the vehicle in a nearby lot.",
+      "lang": "en",
+      "title_en": "Using drone, Oceanside PD locates car thought to be stolen",
+      "summary_en": "A couple in Oceanside, celebrating their 20th anniversary, had a scare when they thought their car had been stolen, but a drone search quickly located the vehicle in a nearby lot.",
+      "title": "Using drone, Oceanside PD locates car thought to be stolen",
+      "summary": "A couple in Oceanside, celebrating their 20th anniversary, had a scare when they thought their car had been stolen, but a drone search quickly located the vehicle in a nearby lot.",
+      "url": "https://fox5sandiego.com/news/local-news/north-county/drone-locates-missing-vehicle/",
+      "source": "FOX 5 San Diego & KUSI News",
+      "published_at": "2025-09-21T21:36:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "8d72f0de8e197ac4",
       "title_orig": "Asia Cup: Five key takeaways from Pakistan’s rematch against India",
@@ -13,24 +31,6 @@
       "url": "https://www.dawn.com/news/1943715/asia-cup-five-key-takeaways-from-pakistans-rematch-against-india",
       "source": "Dawn - Home",
       "published_at": "2025-09-21T21:28:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3a4747495c4dc413",
-      "title_orig": "Israeli drone strike kills 5, including 3 children, in southern Lebanon",
-      "summary_orig": "BEIRUT (AP) — An Israeli drone strike in southern Lebanon killed five people Sunday, including three children, Lebanon’s Health Ministry…",
-      "lang": "en",
-      "title_en": "Israeli drone strike kills 5, including 3 children, in southern Lebanon",
-      "summary_en": "BEIRUT (AP) — An Israeli drone strike in southern Lebanon killed five people Sunday, including three children, Lebanon’s Health Ministry…",
-      "title": "Israeli drone strike kills 5, including 3 children, in southern Lebanon",
-      "summary": "BEIRUT (AP) — An Israeli drone strike in southern Lebanon killed five people Sunday, including three children, Lebanon’s Health Ministry…",
-      "url": "https://wtop.com/world/2025/09/israeli-drone-strike-kills-5-including-3-children-in-southern-lebanon/",
-      "source": "WTOP News",
-      "published_at": "2025-09-21T21:07:32+00:00",
       "tags": [
         "airport/security"
       ],
@@ -225,6 +225,33 @@
       ],
       "type": "major news",
       "geo": {}
+    },
+    {
+      "id": "5fab41feeaa69477",
+      "title_orig": "Gatwick Airport’s £2,200,000,000 second runway expansion given go-ahead",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Gatwick Airport’s £2,200,000,000 second runway expansion given go-ahead",
+      "summary_en": "",
+      "title": "Gatwick Airport’s £2,200,000,000 second runway expansion given go-ahead",
+      "summary": "",
+      "url": "https://metro.co.uk/2025/09/21/gatwick-airports-2-200-000-000-second-runway-expansion-given-go-ahead-24225069/",
+      "source": "Metro",
+      "published_at": "2025-09-21T19:46:27+00:00",
+      "tags": [
+        "LGW",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Gatwick",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LGW",
+        "lat": 51.1537,
+        "lon": -0.1821
+      }
     },
     {
       "id": "877badbdb857521d",
@@ -1424,24 +1451,6 @@
       "geo": {}
     },
     {
-      "id": "37916fa24dc2271d",
-      "title_orig": "Rome’s airport opens luxurious dog hotel with pampering services",
-      "summary_orig": "Italy’s aviation authority recently changed rules to allow large dogs to fly in plane cabins for domestic flights. The first flight with these new rules is set for Sept. 23.",
-      "lang": "en",
-      "title_en": "Rome’s airport opens luxurious dog hotel with pampering services",
-      "summary_en": "Italy’s aviation authority recently changed rules to allow large dogs to fly in plane cabins for domestic flights. The first flight with these new rules is set for Sept. 23.",
-      "title": "Rome’s airport opens luxurious dog hotel with pampering services",
-      "summary": "Italy’s aviation authority recently changed rules to allow large dogs to fly in plane cabins for domestic flights. The first flight with these new rules is set for Sept. 23.",
-      "url": "https://www.pennlive.com/nation-world/2025/09/romes-airport-opens-luxurious-dog-hotel-with-pampering-services.html",
-      "source": "pennlive.com",
-      "published_at": "2025-09-21T13:07:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a5a0d10cc8befe6c",
       "title_orig": "Israel Keeps Border Crossing to Jordan Closed After Attack",
       "summary_orig": "The Allenby Bridge border crossing is the main gateway for Palestinians to leave the Israeli-occupied West Bank.",
@@ -1658,24 +1667,6 @@
       "geo": {}
     },
     {
-      "id": "04fcd4fbb846b321",
-      "title_orig": "I attended a protest against violence – then I was stabbed",
-      "summary_orig": "I was caught in my thoughts and I didn’t realise a man had got close to me. The next thing I knew, I felt something sharp in my back.",
-      "lang": "en",
-      "title_en": "I attended a protest against violence – then I was stabbed",
-      "summary_en": "I was caught in my thoughts and I didn’t realise a man had got close to me. The next thing I knew, I felt something sharp in my back.",
-      "title": "I attended a protest against violence – then I was stabbed",
-      "summary": "I was caught in my thoughts and I didn’t realise a man had got close to me. The next thing I knew, I felt something sharp in my back.",
-      "url": "https://metro.co.uk/2025/09/21/attended-a-protest-violence-stabbed-24149003/",
-      "source": "Metro",
-      "published_at": "2025-09-21T11:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "228d2d290ec08033",
       "title_orig": "Protesters in Manila Accuse Government of Misusing Environmental Funds",
       "summary_orig": "Demonstrations were set off by accusations that flood relief money was embezzled. They are part of a wave of discontent about economic inequality in several countries in Asia.",
@@ -1781,24 +1772,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "d3747b072d4a3e2f",
-      "title_orig": "I kissed a cute guy – then he mugged and attacked me",
-      "summary_orig": "I’ve found strength in family, friends and queer community and it’s what I’ve needed to keep going and hold my head high with pride.",
-      "lang": "en",
-      "title_en": "I kissed a cute guy – then he mugged and attacked me",
-      "summary_en": "I’ve found strength in family, friends and queer community and it’s what I’ve needed to keep going and hold my head high with pride.",
-      "title": "I kissed a cute guy – then he mugged and attacked me",
-      "summary": "I’ve found strength in family, friends and queer community and it’s what I’ve needed to keep going and hold my head high with pride.",
-      "url": "https://metro.co.uk/2025/09/21/kissed-a-cute-guy-mugged-attacked-24180845/",
-      "source": "Metro",
-      "published_at": "2025-09-21T10:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1961,24 +1934,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "481d4caa8cdca8c1",
-      "title_orig": "UK fighter jets fly over Poland as Czech president warns Europe ‘teeters on edge’",
-      "summary_orig": "The RAF jets patrolled the skies above Poland where Russian drones were shot down.",
-      "lang": "en",
-      "title_en": "UK fighter jets fly over Poland as Czech president warns Europe ‘teeters on edge’",
-      "summary_en": "The RAF jets patrolled the skies above Poland where Russian drones were shot down.",
-      "title": "UK fighter jets fly over Poland as Czech president warns Europe ‘teeters on edge’",
-      "summary": "The RAF jets patrolled the skies above Poland where Russian drones were shot down.",
-      "url": "https://metro.co.uk/2025/09/21/british-fighter-jets-fly-over-poland-as-a-clear-signal-nato-airspace-will-be-defended-24221328/",
-      "source": "Metro",
-      "published_at": "2025-09-21T08:18:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2888,24 +2843,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9e0ecbdce198b585",
-      "title_orig": "Inside the Jaguar Land Rover hack: stalled smart factories, outsourced cybersecurity and supply chain woes",
-      "summary_orig": "Being a carmaker where ‘everything is connected’ has left JLR unable to isolate its plants or functions, forcing a shutdown of most systems The first external signs of the chaos about to hit JLR, Britain’s largest automotive employer, came on the quiet last Sunday of August. Managers at a factory in Halewood, Merseyside, told industry contacts there might have been a hack – although it was not clear then just how bad the situation was. That changed quickly on the Monday morning. JLR, the maker of the Jaguar and Land Rover brands, quickly shut down systems after realising the severity of the cyber-attack . Three weeks later, the carmaker is still incapacitated, unable to produce at any of its factories across the UK, Slovakia, Brazil and India (although a Chinese joint venture is thought to be operating). Continue reading...",
-      "lang": "en",
-      "title_en": "Inside the Jaguar Land Rover hack: stalled smart factories, outsourced cybersecurity and supply chain woes",
-      "summary_en": "Being a carmaker where ‘everything is connected’ has left JLR unable to isolate its plants or functions, forcing a shutdown of most systems The first external signs of the chaos about to hit JLR, Britain’s largest automotive employer, came on the quiet last Sunday of August. Managers at a factory in Halewood, Merseyside, told industry contacts there might have been a hack – although it was not clear then just how bad the situation was. That changed quickly on the Monday morning. JLR, the maker of the Jaguar and Land Rover brands, quickly shut down systems after realising the severity of the cyber-attack . Three weeks later, the carmaker is still incapacitated, unable to produce at any of its factories across the UK, Slovakia, Brazil and India (although a Chinese joint venture is thought to be operating). Continue reading...",
-      "title": "Inside the Jaguar Land Rover hack: stalled smart factories, outsourced cybersecurity and supply chain woes",
-      "summary": "Being a carmaker where ‘everything is connected’ has left JLR unable to isolate its plants or functions, forcing a shutdown of most systems The first external signs of the chaos about to hit JLR, Britain’s largest automotive employer, came on the quiet last Sunday of August. Managers at a factory in Halewood, Merseyside, told industry contacts there might have been a hack – although it was not clear then just how bad the situation was. That changed quickly on the Monday morning. JLR, the maker of the Jaguar and Land Rover brands, quickly shut down systems after realising the severity of the cyber-attack . Three weeks later, the carmaker is still incapacitated, unable to produce at any of its factories across the UK, Slovakia, Brazil and India (although a Chinese joint venture is thought to be operating). Continue reading...",
-      "url": "https://www.theguardian.com/business/2025/sep/20/jaguar-land-rover-hack-factories-cybersecurity-jlr",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-09-20T06:00:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3946,78 +3883,6 @@
       "url": "https://www.latimes.com/world-nation/story/2025-09-03/rubio-sheinbaum-to-meet-in-mexico-city",
       "source": "World & Nation",
       "published_at": "2025-09-03T21:40:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "db72bbbfad2eca33",
-      "title_orig": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
-      "summary_orig": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
-      "lang": "en",
-      "title_en": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
-      "summary_en": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
-      "title": "With brooms, Indonesian women protest for sweeping police reforms after deadly crackdown",
-      "summary": "JAKARTA: Hundreds of Indonesian women, dressed in symbolic pink and black, and carrying brooms, rallied in Jakarta on Wednesday to demand sweeping reforms in the country’s security forces after a violent crackdown on nationwide protests.\n\n\tAt least 10 people have been killed, over a thousand injured, more than 3,300 arrested, and 20 remain missing, rights groups say, after a wave of demonstrations that started in Jakarta last week.",
-      "url": "https://www.arabnews.com/node/2613998/world",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T00:09:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f2552cabb7885e4a",
-      "title_orig": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
-      "summary_orig": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
-      "lang": "en",
-      "title_en": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
-      "summary_en": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
-      "title": "UAE President Sheikh Mohamed bin Zayed arrives in Riyadh",
-      "summary": "RIYADH: UAE President Sheikh Mohamed bin Zayed Al Nahyan arrived in Riyadh on Wednesday, where he was received at King Khalid International Airport by Saudi Crown Prince Mohammed bin Salman.\n\n\tThe visit highlights the close ties between the United Arab Emirates and Saudi Arabia, Saudi Press Agency reported.\n\n\tBoth leaders expected to discuss regional developments and ways to strengthening bilateral cooperation.",
-      "url": "https://www.arabnews.com/node/2613992/saudi-arabia",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T00:09:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b40ed7a60e99a3e1",
-      "title_orig": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
-      "summary_orig": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
-      "lang": "en",
-      "title_en": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
-      "summary_en": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
-      "title": "Israelis stage a ‘day of disruption’ as more strikes hit Gaza City",
-      "summary": "DEIR AL-BALAH, Gaza Strip: Protesters took to Israel’s streets for what they called a “day of disruption” on Wednesday, denouncing the call-up of tens of thousands of reservists for an offensive that has drawn global condemnation and fueled fears in Israel it could endanger hostages still held in Gaza.",
-      "url": "https://www.arabnews.com/node/2613994/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T00:09:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9da019f59337430b",
-      "title_orig": "Israeli forces seize seven people from Syria: state media",
-      "summary_orig": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
-      "lang": "en",
-      "title_en": "Israeli forces seize seven people from Syria: state media",
-      "summary_en": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
-      "title": "Israeli forces seize seven people from Syria: state media",
-      "summary": "DAMASCUS: Israeli forces seized seven people during an incursion into Syria on Wednesday, Syrian state media reported, with the Israeli military saying it “apprehended” individuals “suspected of terrorist activity.”\n\tSince the fall of longtime Syrian ruler Bashar Assad in December, Israel has carried out hundreds of strikes on Syria and occupied much of a UN-patrolled demilitarised zone on the formerly Syria-controlled side of the armistice line between the two states, technically at war since 1948.\n\tIt has also opened talks with the interim authorities in Damascus.",
-      "url": "https://www.arabnews.com/node/2614000/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-09-03T00:09:01+00:00",
       "tags": [
         "airport/security"
       ],
