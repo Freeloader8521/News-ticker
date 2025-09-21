@@ -1,6 +1,24 @@
 {
-  "generated_at": "2025-09-21T18:49:35.657339+00:00",
+  "generated_at": "2025-09-21T19:28:56.472601+00:00",
   "items": [
+    {
+      "id": "4bb48f6465347f4c",
+      "title_orig": "Government approves Gatwick second runway plan",
+      "summary_orig": "The West Sussex airport will bring its emergency runway into routine use under the expansion scheme.",
+      "lang": "en",
+      "title_en": "Government approves Gatwick second runway plan",
+      "summary_en": "The West Sussex airport will bring its emergency runway into routine use under the expansion scheme.",
+      "title": "Government approves Gatwick second runway plan",
+      "summary": "The West Sussex airport will bring its emergency runway into routine use under the expansion scheme.",
+      "url": "https://www.standard.co.uk/news/politics/gatwick-west-sussex-boeing-government-planning-inspectorate-b1248925.html",
+      "source": "The Standard News",
+      "published_at": "2025-09-21T19:11:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "8db2131c5134b251",
       "title_orig": "Gatwick second runway plan approved by transport secretary",
@@ -12,12 +30,120 @@
       "summary": "There has been strong opposition against the airport wanting to use its northern runway.",
       "url": "https://www.bbc.com/news/articles/c9v7rz24z23o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2025-09-21T18:38:30+00:00",
+      "published_at": "2025-09-21T19:11:40+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "local news",
       "geo": {}
+    },
+    {
+      "id": "c94b4af2ddfd9ff8",
+      "title_orig": "Here's What Happened Today: Sunday",
+      "summary_orig": "Delays continue at Dublin Airport, Tánaiste to meet parents of Harvey Sherratt, and three more nations formally recognise Palestine.",
+      "lang": "en",
+      "title_en": "Here's What Happened Today: Sunday",
+      "summary_en": "Delays continue at Dublin Airport, Tánaiste to meet parents of Harvey Sherratt, and three more nations formally recognise Palestine.",
+      "title": "Here's What Happened Today: Sunday",
+      "summary": "Delays continue at Dublin Airport, Tánaiste to meet parents of Harvey Sherratt, and three more nations formally recognise Palestine.",
+      "url": "https://www.thejournal.ie/news-fix-21-09-25-6823104-Sep2025/",
+      "source": "TheJournal.ie",
+      "published_at": "2025-09-21T19:00:52+00:00",
+      "tags": [
+        "DUB",
+        "Ireland",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dublin",
+        "city": "Dublin",
+        "country": "Ireland",
+        "iata": "DUB",
+        "lat": 53.4213,
+        "lon": -6.2701
+      }
+    },
+    {
+      "id": "5d4ea9e0a0a4c7a3",
+      "title_orig": "Brazilians protest against bill that could lead to a pardon for Bolsonaro.",
+      "summary_orig": "Brazilians held protests in all 26 states and the Federal District on Sunday against a possible pardon for former president Jair Bolsonaro and his allies, who were convicted of attempting a coup.\nCalls for demonstrations grew after the lower house on Tuesday passed a constitutional amendment that would make it harder to arrest or launch criminal proceedings against lawmakers. The measure now heads to the Senate.\nThe following day the lower house voted to fast track a bill backed by right-wing...",
+      "lang": "en",
+      "title_en": "Brazilians protest against bill that could lead to a pardon for Bolsonaro.",
+      "summary_en": "Brazilians held protests in all 26 states and the Federal District on Sunday against a possible pardon for former president Jair Bolsonaro and his allies, who were convicted of attempting a coup.\nCalls for demonstrations grew after the lower house on Tuesday passed a constitutional amendment that would make it harder to arrest or launch criminal proceedings against lawmakers. The measure now heads to the Senate.\nThe following day the lower house voted to fast track a bill backed by right-wing...",
+      "title": "Brazilians protest against bill that could lead to a pardon for Bolsonaro.",
+      "summary": "Brazilians held protests in all 26 states and the Federal District on Sunday against a possible pardon for former president Jair Bolsonaro and his allies, who were convicted of attempting a coup.\nCalls for demonstrations grew after the lower house on Tuesday passed a constitutional amendment that would make it harder to arrest or launch criminal proceedings against lawmakers. The measure now heads to the Senate.\nThe following day the lower house voted to fast track a bill backed by right-wing...",
+      "url": "https://www.scmp.com/news/world/americas/article/3326319/brazilians-protest-against-bill-could-lead-pardon-bolsonaro-and-allies?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2025-09-21T19:00:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3a4747495c4dc413",
+      "title_orig": "Israeli drone strike kills 5, including 3 children, in southern Lebanon",
+      "summary_orig": "BEIRUT (AP) — An Israeli drone strike in southern Lebanon killed five people Sunday, including three children, Lebanon’s Health Ministry…",
+      "lang": "en",
+      "title_en": "Israeli drone strike kills 5, including 3 children, in southern Lebanon",
+      "summary_en": "BEIRUT (AP) — An Israeli drone strike in southern Lebanon killed five people Sunday, including three children, Lebanon’s Health Ministry…",
+      "title": "Israeli drone strike kills 5, including 3 children, in southern Lebanon",
+      "summary": "BEIRUT (AP) — An Israeli drone strike in southern Lebanon killed five people Sunday, including three children, Lebanon’s Health Ministry…",
+      "url": "https://wtop.com/world/2025/09/israeli-drone-strike-kills-5-including-3-children-in-southern-lebanon/",
+      "source": "WTOP News",
+      "published_at": "2025-09-21T18:58:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d28008df0061c4ce",
+      "title_orig": "Nepal to Investigate Killings and Arson in Student Protests",
+      "summary_orig": "It is a first effort by the country’s new government to understand the sequence of violent events that led to the abrupt downfall of the old one.",
+      "lang": "en",
+      "title_en": "Nepal to Investigate Killings and Arson in Student Protests",
+      "summary_en": "It is a first effort by the country’s new government to understand the sequence of violent events that led to the abrupt downfall of the old one.",
+      "title": "Nepal to Investigate Killings and Arson in Student Protests",
+      "summary": "It is a first effort by the country’s new government to understand the sequence of violent events that led to the abrupt downfall of the old one.",
+      "url": "https://www.nytimes.com/2025/09/21/world/asia/nepal-commission-violence-protests.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-21T18:57:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "dd4e007adadaaefc",
+      "title_orig": "Gatwick given green light for £2.2bn second runway plan",
+      "summary_orig": "Transport secretary Heidi Alexander approves expansion to allow 100,000 more flights a year Gatwick Airport’s £2.2bn second runway plan has been given the go-ahead by the transport secretary, Heidi Alexander. In the privately financed project, the West Sussex airport will move its emergency runway 12 metres north, enabling it to be used for departures of narrow-bodied planes such as Airbus A320s and Boeing 737s. Continue reading...",
+      "lang": "en",
+      "title_en": "Gatwick given green light for £2.2bn second runway plan",
+      "summary_en": "Transport secretary Heidi Alexander approves expansion to allow 100,000 more flights a year Gatwick Airport’s £2.2bn second runway plan has been given the go-ahead by the transport secretary, Heidi Alexander. In the privately financed project, the West Sussex airport will move its emergency runway 12 metres north, enabling it to be used for departures of narrow-bodied planes such as Airbus A320s and Boeing 737s. Continue reading...",
+      "title": "Gatwick given green light for £2.2bn second runway plan",
+      "summary": "Transport secretary Heidi Alexander approves expansion to allow 100,000 more flights a year Gatwick Airport’s £2.2bn second runway plan has been given the go-ahead by the transport secretary, Heidi Alexander. In the privately financed project, the West Sussex airport will move its emergency runway 12 metres north, enabling it to be used for departures of narrow-bodied planes such as Airbus A320s and Boeing 737s. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2025/sep/21/gatwick-given-green-light-for-22bn-second-runway-plan",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-21T18:54:42+00:00",
+      "tags": [
+        "LGW",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Gatwick",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LGW",
+        "lat": 51.1537,
+        "lon": -0.1821
+      }
     },
     {
       "id": "1adbee8c55780a7c",
@@ -31,24 +157,6 @@
       "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/truth-asylum-seeker-hotels-32462772",
       "source": "MEN - News",
       "published_at": "2025-09-21T18:09:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f0f968d41675912d",
-      "title_orig": "Israeli strikes kill more than 40 people in Gaza, say health officials, ahead of UN meeting",
-      "summary_orig": "CAIRO (AP) — Israeli strikes in Gaza City and at a refugee camp killed more than 40 people, including 19…",
-      "lang": "en",
-      "title_en": "Israeli strikes kill more than 40 people in Gaza, say health officials, ahead of UN meeting",
-      "summary_en": "CAIRO (AP) — Israeli strikes in Gaza City and at a refugee camp killed more than 40 people, including 19…",
-      "title": "Israeli strikes kill more than 40 people in Gaza, say health officials, ahead of UN meeting",
-      "summary": "CAIRO (AP) — Israeli strikes in Gaza City and at a refugee camp killed more than 40 people, including 19…",
-      "url": "https://wtop.com/world/2025/09/israel-kills-34-people-in-gaza-ahead-of-un-meeting-where-countries-will-recognize-palestinian-state/",
-      "source": "WTOP News",
-      "published_at": "2025-09-21T18:08:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -632,51 +740,6 @@
       "geo": {}
     },
     {
-      "id": "aaf8c0f46d05ef3a",
-      "title_orig": "Everton strikers will frustrate but they will get the goals David Moyes needs",
-      "summary_orig": "Everton FC correspondent Joe Thomas looks at the disappointment at how Beto and Thierno Barry fared at Liverpool while looking at what he believes is important context for judging their success",
-      "lang": "en",
-      "title_en": "Everton strikers will frustrate but they will get the goals David Moyes needs",
-      "summary_en": "Everton FC correspondent Joe Thomas looks at the disappointment at how Beto and Thierno Barry fared at Liverpool while looking at what he believes is important context for judging their success",
-      "title": "Everton strikers will frustrate but they will get the goals David Moyes needs",
-      "summary": "Everton FC correspondent Joe Thomas looks at the disappointment at how Beto and Thierno Barry fared at Liverpool while looking at what he believes is important context for judging their success",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-strikers-frustrate-goals-david-32521215",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2025-09-21T14:36:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "eedff7090d46bccb",
-      "title_orig": "European airports scramble to get back online after cyberattack on check-in systems",
-      "summary_orig": "Several of Europe's biggest airports including London Heathrow raced to restore normal operations on Sunday after hackersdisrupted automatic check-in systems, causing a second day of delays and cancellations and forcing Brussels airport to scrap half of Monday's scheduled departing flights.",
-      "lang": "en",
-      "title_en": "European airports scramble to get back online after cyberattack on check-in systems",
-      "summary_en": "Several of Europe's biggest airports including London Heathrow raced to restore normal operations on Sunday after hackersdisrupted automatic check-in systems, causing a second day of delays and cancellations and forcing Brussels airport to scrap half of Monday's scheduled departing flights.",
-      "title": "European airports scramble to get back online after cyberattack on check-in systems",
-      "summary": "Several of Europe's biggest airports including London Heathrow raced to restore normal operations on Sunday after hackersdisrupted automatic check-in systems, causing a second day of delays and cancellations and forcing Brussels airport to scrap half of Monday's scheduled departing flights.",
-      "url": "https://www.france24.com/en/europe/20250921-european-airports-scramble-to-get-back-online-after-cyberattack-on-check-in-systems",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-21T14:28:50+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
       "id": "1e0933cc5eae43a9",
       "title_orig": "York County tragedy shows why “a good guy with a gun” isn’t enough | Opinion",
       "summary_orig": "The ambush in York County is a dark reminder that dangerous individuals can strike anywhere when firearms are easily accessible, even in small towns.",
@@ -728,24 +791,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "121f957eaea8651b",
-      "title_orig": "The week in pictures: French strikes, Gaza City ground assault and Trump's UK state visit",
-      "summary_orig": "Protests against a budget proposal bring much of France to a halt, Israel launches a ground assault on Gaza City, and giant images of disgraced financier Jeffrey Epstein greet US President Donald Trump upon his arrival for a state visit to Britain: here’s a look at the week’s most striking images.",
-      "lang": "en",
-      "title_en": "The week in pictures: French strikes, Gaza City ground assault and Trump's UK state visit",
-      "summary_en": "Protests against a budget proposal bring much of France to a halt, Israel launches a ground assault on Gaza City, and giant images of disgraced financier Jeffrey Epstein greet US President Donald Trump upon his arrival for a state visit to Britain: here’s a look at the week’s most striking images.",
-      "title": "The week in pictures: French strikes, Gaza City ground assault and Trump's UK state visit",
-      "summary": "Protests against a budget proposal bring much of France to a halt, Israel launches a ground assault on Gaza City, and giant images of disgraced financier Jeffrey Epstein greet US President Donald Trump upon his arrival for a state visit to Britain: here’s a look at the week’s most striking images.",
-      "url": "https://www.france24.com/en/culture/20250921-week-in-pictures-france-september-18-strike-trump-king-charles-gaza-ground-war-picasso",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-21T14:18:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -971,24 +1016,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7398d4ba23be57e2",
-      "title_orig": "France's richest man attacks 'far-left', 'pseudo-academic' behind billionaire tax plan",
-      "summary_orig": "Bernard Arnault, the boss of luxury goods group LVMH and France's richest man, has sparked anger on the French political left by branding the economist behind a hotly debated plan to tax billionaires a \"far-left activist\" and \"pseudo-academic\" bent on destroying the French economy. Hitting back at Arnault, Gabriel Zucman mocked the \"caricatural nature\" of his attack.",
-      "lang": "en",
-      "title_en": "France's richest man attacks 'far-left', 'pseudo-academic' behind billionaire tax plan",
-      "summary_en": "Bernard Arnault, the boss of luxury goods group LVMH and France's richest man, has sparked anger on the French political left by branding the economist behind a hotly debated plan to tax billionaires a \"far-left activist\" and \"pseudo-academic\" bent on destroying the French economy. Hitting back at Arnault, Gabriel Zucman mocked the \"caricatural nature\" of his attack.",
-      "title": "France's richest man attacks 'far-left', 'pseudo-academic' behind billionaire tax plan",
-      "summary": "Bernard Arnault, the boss of luxury goods group LVMH and France's richest man, has sparked anger on the French political left by branding the economist behind a hotly debated plan to tax billionaires a \"far-left activist\" and \"pseudo-academic\" bent on destroying the French economy. Hitting back at Arnault, Gabriel Zucman mocked the \"caricatural nature\" of his attack.",
-      "url": "https://www.france24.com/en/live-news/20250921-france-s-richest-man-riles-left-with-attack-on-pseudo-academic-behind-tax-plan",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-21T13:47:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1262,24 +1289,6 @@
       "geo": {}
     },
     {
-      "id": "eb7bb9f58a44562b",
-      "title_orig": "Philippines: Thousands march in Manila protesting corruption, clashing with authorities",
-      "summary_orig": "Tens of thousands of people took to the streets of Manila to protest a corruption scandal involving flood control projects worth billions of dollars, leading to scattered clashes with police. With organizers aiming for one of the largest anti-corruption turnouts, authorities deployed police and soldiers on Sunday to prevent potential violence. Florent Marchais has this story.",
-      "lang": "en",
-      "title_en": "Philippines: Thousands march in Manila protesting corruption, clashing with authorities",
-      "summary_en": "Tens of thousands of people took to the streets of Manila to protest a corruption scandal involving flood control projects worth billions of dollars, leading to scattered clashes with police. With organizers aiming for one of the largest anti-corruption turnouts, authorities deployed police and soldiers on Sunday to prevent potential violence. Florent Marchais has this story.",
-      "title": "Philippines: Thousands march in Manila protesting corruption, clashing with authorities",
-      "summary": "Tens of thousands of people took to the streets of Manila to protest a corruption scandal involving flood control projects worth billions of dollars, leading to scattered clashes with police. With organizers aiming for one of the largest anti-corruption turnouts, authorities deployed police and soldiers on Sunday to prevent potential violence. Florent Marchais has this story.",
-      "url": "https://www.france24.com/en/video/20250921-philippines-thousands-march-in-manila-protesting-corruption-clashing-with-authorities",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-21T12:07:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "514d4ba4837c5655",
       "title_orig": "House of Commons nursery provider criticised for article praising Reform conference",
       "summary_orig": "Piece on website of LEYF, which runs nurseries across London, talked of party’s ‘growing appeal to mothers’ The company running the House of Commons nursery and others across London has been criticised for publishing an article on its website praising Reform UK’s conference and claiming anti-immigration protests were “driven by a sense of injustice”. The article, which was taken down by LEYF nurseries after an approach by the Guardian, was written by its chief executive, June O’Sullivan, after her visit to the party’s conference. Continue reading...",
@@ -1352,24 +1361,6 @@
       "geo": {}
     },
     {
-      "id": "ea115e7713b8424f",
-      "title_orig": "‘Scary’ and ‘I loved it’: readers share polarised views about ‘unite the kingdom’ rally",
-      "summary_orig": "‘We are sleepwalking to fascism’– views about Tommy Robinson’s London rally reveal fears of a new era of division British artists reclaim the St George’s flag Though Tommy Robinson’s march in London was called “unite the kingdom” (UTK), it was a gathering that has raised fears of a new era of division. The Guardian asked readers for their reflections on the event, which attracted an estimated 110,00 protesters and 5,000 counter-protesters. The hundreds of responses we received told their own story of polarisation. Continue reading...",
-      "lang": "en",
-      "title_en": "‘Scary’ and ‘I loved it’: readers share polarised views about ‘unite the kingdom’ rally",
-      "summary_en": "‘We are sleepwalking to fascism’– views about Tommy Robinson’s London rally reveal fears of a new era of division British artists reclaim the St George’s flag Though Tommy Robinson’s march in London was called “unite the kingdom” (UTK), it was a gathering that has raised fears of a new era of division. The Guardian asked readers for their reflections on the event, which attracted an estimated 110,00 protesters and 5,000 counter-protesters. The hundreds of responses we received told their own story of polarisation. Continue reading...",
-      "title": "‘Scary’ and ‘I loved it’: readers share polarised views about ‘unite the kingdom’ rally",
-      "summary": "‘We are sleepwalking to fascism’– views about Tommy Robinson’s London rally reveal fears of a new era of division British artists reclaim the St George’s flag Though Tommy Robinson’s march in London was called “unite the kingdom” (UTK), it was a gathering that has raised fears of a new era of division. The Guardian asked readers for their reflections on the event, which attracted an estimated 110,00 protesters and 5,000 counter-protesters. The hundreds of responses we received told their own story of polarisation. Continue reading...",
-      "url": "https://www.theguardian.com/world/2025/sep/21/readers-polarised-unite-the-kingdom-rally",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-09-21T10:53:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "228d2d290ec08033",
       "title_orig": "Protesters in Manila Accuse Government of Misusing Environmental Funds",
       "summary_orig": "Demonstrations were set off by accusations that flood relief money was embezzled. They are part of a wave of discontent about economic inequality in several countries in Asia.",
@@ -1381,24 +1372,6 @@
       "url": "https://www.nytimes.com/2025/09/21/world/asia/manila-philippines-rally-protest.html",
       "source": "NYT > World News",
       "published_at": "2025-09-21T10:43:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "0f9528d08ae57d33",
-      "title_orig": "Peru: Hundreds clash with police in Lima during protests over corruption and pension reforms",
-      "summary_orig": "Hundreds of young demonstrators clashed with police in Lima on Saturday, September 21, as protests against President Dina Boluarte’s government turned violent. Daniel Quinlan reports.",
-      "lang": "en",
-      "title_en": "Peru: Hundreds clash with police in Lima during protests over corruption and pension reforms",
-      "summary_en": "Hundreds of young demonstrators clashed with police in Lima on Saturday, September 21, as protests against President Dina Boluarte’s government turned violent. Daniel Quinlan reports.",
-      "title": "Peru: Hundreds clash with police in Lima during protests over corruption and pension reforms",
-      "summary": "Hundreds of young demonstrators clashed with police in Lima on Saturday, September 21, as protests against President Dina Boluarte’s government turned violent. Daniel Quinlan reports.",
-      "url": "https://www.france24.com/en/video/20250921-peru-hundreds-clash-with-police-in-lima-during-protests-over-corruption-and-pension-reforms",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-21T10:25:37+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1523,33 +1496,6 @@
       }
     },
     {
-      "id": "343546dc7f9c6814",
-      "title_orig": "Cyberattack bring chaos to airports: Who is behind this outage?",
-      "summary_orig": "Major international airports across Europe, including London’s Heathrow and Berlin’s Brandenburg, are still experiencing operational disruptions after a suspected cyberattack hit their check-in systems, leading to cancellations and delays for thousands of passengers. Anita Mendiratta, strategic advisor in tourism and aviation, provides further insight.",
-      "lang": "en",
-      "title_en": "Cyberattack bring chaos to airports: Who is behind this outage?",
-      "summary_en": "Major international airports across Europe, including London’s Heathrow and Berlin’s Brandenburg, are still experiencing operational disruptions after a suspected cyberattack hit their check-in systems, leading to cancellations and delays for thousands of passengers. Anita Mendiratta, strategic advisor in tourism and aviation, provides further insight.",
-      "title": "Cyberattack bring chaos to airports: Who is behind this outage?",
-      "summary": "Major international airports across Europe, including London’s Heathrow and Berlin’s Brandenburg, are still experiencing operational disruptions after a suspected cyberattack hit their check-in systems, leading to cancellations and delays for thousands of passengers. Anita Mendiratta, strategic advisor in tourism and aviation, provides further insight.",
-      "url": "https://www.france24.com/en/video/20250921-cyberattack-bring-chaos-to-airports-who-is-behind-this-outage",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-21T09:41:37+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
       "id": "4360be445aa79706",
       "title_orig": "Ukraine Counterattacks, Scoring Rare, if Modest, Success in Northeast",
       "summary_orig": "The gains could help counter Moscow’s narrative that Russian advances are unstoppable and that Kyiv should settle for a peace deal, even if it means giving up territory.",
@@ -1561,24 +1507,6 @@
       "url": "https://www.nytimes.com/2025/09/21/world/europe/ukraine-sumy-advances.html",
       "source": "NYT > World News",
       "published_at": "2025-09-21T09:31:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "4dcc3e66e2636203",
-      "title_orig": "Week in Pictures: From forced displacement in Gaza to protests in Peru",
-      "summary_orig": "A global roundup of some of last week’s events.",
-      "lang": "en",
-      "title_en": "Week in Pictures: From forced displacement in Gaza to protests in Peru",
-      "summary_en": "A global roundup of some of last week’s events.",
-      "title": "Week in Pictures: From forced displacement in Gaza to protests in Peru",
-      "summary": "A global roundup of some of last week’s events.",
-      "url": "https://www.aljazeera.com/gallery/2025/9/21/week-in-pictures-from-forced-displacement-in-gaza-to-protests-in-peru?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-09-21T09:30:17+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2333,42 +2261,6 @@
       }
     },
     {
-      "id": "8eb9986931e13232",
-      "title_orig": "Hibs fall flat at Ibrox - ratings, report and video from Cup quarter-final loss to embattled Rangers",
-      "summary_orig": "Boyle ‘opener’ disallowed after VAR handball check on day of protests",
-      "lang": "en",
-      "title_en": "Hibs fall flat at Ibrox - ratings, report and video from Cup quarter-final loss to embattled Rangers",
-      "summary_en": "Boyle ‘opener’ disallowed after VAR handball check on day of protests",
-      "title": "Hibs fall flat at Ibrox - ratings, report and video from Cup quarter-final loss to embattled Rangers",
-      "summary": "Boyle ‘opener’ disallowed after VAR handball check on day of protests",
-      "url": "https://www.edinburghnews.scotsman.com/sport/football/hibs/hibs-rangers-ratings-premier-sports-cup-ibrox-5326778",
-      "source": "Edinburgh News",
-      "published_at": "2025-09-20T18:47:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7af26300c3072bb5",
-      "title_orig": "Rangers v Hibs cup tie halted at Ibrox as fans throw bouncy balls on to pitch",
-      "summary_orig": "Disruption was planned as protest against head coach Martin",
-      "lang": "en",
-      "title_en": "Rangers v Hibs cup tie halted at Ibrox as fans throw bouncy balls on to pitch",
-      "summary_en": "Disruption was planned as protest against head coach Martin",
-      "title": "Rangers v Hibs cup tie halted at Ibrox as fans throw bouncy balls on to pitch",
-      "summary": "Disruption was planned as protest against head coach Martin",
-      "url": "https://www.scotsman.com/sport/football/rangers/latest-rangers-news/rangers-v-hibs-cup-tie-halted-at-ibrox-as-fans-throw-bouncy-balls-on-to-pitch-5326987",
-      "source": "The Scotsman",
-      "published_at": "2025-09-20T18:41:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c65f2da2475735bb",
       "title_orig": "'Knock-on delays' at Dublin Airport after evacuation",
       "summary_orig": "The terminal reopened at 1:30pm, with flights expected to resume at around 2pm.",
@@ -2461,24 +2353,6 @@
       "url": "https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-09-20T15:30:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0fb976d79a036012",
-      "title_orig": "Thousands evacuated in Hong Kong after Second World War bomb discovered",
-      "summary_orig": "Police said the bomb was 1.5 metres in length and weighed about 450kg.",
-      "lang": "en",
-      "title_en": "Thousands evacuated in Hong Kong after Second World War bomb discovered",
-      "summary_en": "Police said the bomb was 1.5 metres in length and weighed about 450kg.",
-      "title": "Thousands evacuated in Hong Kong after Second World War bomb discovered",
-      "summary": "Police said the bomb was 1.5 metres in length and weighed about 450kg.",
-      "url": "https://www.thejournal.ie/hong-kong-bomb-found-wwii-6822539-Sep2025/",
-      "source": "TheJournal.ie",
-      "published_at": "2025-09-20T15:20:39+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2789,6 +2663,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9e0ecbdce198b585",
+      "title_orig": "Inside the Jaguar Land Rover hack: stalled smart factories, outsourced cybersecurity and supply chain woes",
+      "summary_orig": "Being a carmaker where ‘everything is connected’ has left JLR unable to isolate its plants or functions, forcing a shutdown of most systems The first external signs of the chaos about to hit JLR, Britain’s largest automotive employer, came on the quiet last Sunday of August. Managers at a factory in Halewood, Merseyside, told industry contacts there might have been a hack – although it was not clear then just how bad the situation was. That changed quickly on the Monday morning. JLR, the maker of the Jaguar and Land Rover brands, quickly shut down systems after realising the severity of the cyber-attack . Three weeks later, the carmaker is still incapacitated, unable to produce at any of its factories across the UK, Slovakia, Brazil and India (although a Chinese joint venture is thought to be operating). Continue reading...",
+      "lang": "en",
+      "title_en": "Inside the Jaguar Land Rover hack: stalled smart factories, outsourced cybersecurity and supply chain woes",
+      "summary_en": "Being a carmaker where ‘everything is connected’ has left JLR unable to isolate its plants or functions, forcing a shutdown of most systems The first external signs of the chaos about to hit JLR, Britain’s largest automotive employer, came on the quiet last Sunday of August. Managers at a factory in Halewood, Merseyside, told industry contacts there might have been a hack – although it was not clear then just how bad the situation was. That changed quickly on the Monday morning. JLR, the maker of the Jaguar and Land Rover brands, quickly shut down systems after realising the severity of the cyber-attack . Three weeks later, the carmaker is still incapacitated, unable to produce at any of its factories across the UK, Slovakia, Brazil and India (although a Chinese joint venture is thought to be operating). Continue reading...",
+      "title": "Inside the Jaguar Land Rover hack: stalled smart factories, outsourced cybersecurity and supply chain woes",
+      "summary": "Being a carmaker where ‘everything is connected’ has left JLR unable to isolate its plants or functions, forcing a shutdown of most systems The first external signs of the chaos about to hit JLR, Britain’s largest automotive employer, came on the quiet last Sunday of August. Managers at a factory in Halewood, Merseyside, told industry contacts there might have been a hack – although it was not clear then just how bad the situation was. That changed quickly on the Monday morning. JLR, the maker of the Jaguar and Land Rover brands, quickly shut down systems after realising the severity of the cyber-attack . Three weeks later, the carmaker is still incapacitated, unable to produce at any of its factories across the UK, Slovakia, Brazil and India (although a Chinese joint venture is thought to be operating). Continue reading...",
+      "url": "https://www.theguardian.com/business/2025/sep/20/jaguar-land-rover-hack-factories-cybersecurity-jlr",
+      "source": "UK news | The Guardian",
+      "published_at": "2025-09-20T06:00:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -3829,6 +3721,42 @@
       "url": "https://www.latimes.com/business/story/2025-09-04/indonesias-protests-over-the-economy-turn-to-police-brutality",
       "source": "World & Nation",
       "published_at": "2025-09-04T20:15:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2fc44d32f8bb4ddf",
+      "title_orig": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary_orig": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "lang": "en",
+      "title_en": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary_en": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "title": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "url": "https://www.arabnews.com/node/2614110/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T22:09:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "21fb050645000980",
+      "title_orig": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary_orig": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "lang": "en",
+      "title_en": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary_en": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "title": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "url": "https://www.arabnews.com/node/2614106/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T22:09:41+00:00",
       "tags": [
         "airport/security"
       ],
