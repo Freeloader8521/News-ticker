@@ -1,22 +1,76 @@
 {
-  "generated_at": "2025-09-23T17:47:45.280401+00:00",
+  "generated_at": "2025-09-23T18:56:01.042173+00:00",
   "items": [
     {
       "id": "08893ea6fdca5676",
-      "title_orig": "Live Updates: Trump Attacks U.N. and Lectures Nations in Address to General Assembly",
-      "summary_orig": "President Trump’s speech, filled with familiar grievances and false claims, criticized the U.N. as ineffective. Speaking before him, the U.N.’s secretary general warned that the organization’s principles “are under siege.”",
+      "title_orig": "Live Updates: Trump Says NATO Should Shoot Down Russian Military Aircraft in Its Airspace",
+      "summary_orig": "President Trump’s remark came after Russian drones and planes recently crossed into Poland, Romania and Estonia. Earlier, Mr. Trump delivered a speech in which he questioned the purpose of the U.N. and criticized its members.",
       "lang": "en",
-      "title_en": "Live Updates: Trump Attacks U.N. and Lectures Nations in Address to General Assembly",
-      "summary_en": "President Trump’s speech, filled with familiar grievances and false claims, criticized the U.N. as ineffective. Speaking before him, the U.N.’s secretary general warned that the organization’s principles “are under siege.”",
-      "title": "Live Updates: Trump Attacks U.N. and Lectures Nations in Address to General Assembly",
-      "summary": "President Trump’s speech, filled with familiar grievances and false claims, criticized the U.N. as ineffective. Speaking before him, the U.N.’s secretary general warned that the organization’s principles “are under siege.”",
+      "title_en": "Live Updates: Trump Says NATO Should Shoot Down Russian Military Aircraft in Its Airspace",
+      "summary_en": "President Trump’s remark came after Russian drones and planes recently crossed into Poland, Romania and Estonia. Earlier, Mr. Trump delivered a speech in which he questioned the purpose of the U.N. and criticized its members.",
+      "title": "Live Updates: Trump Says NATO Should Shoot Down Russian Military Aircraft in Its Airspace",
+      "summary": "President Trump’s remark came after Russian drones and planes recently crossed into Poland, Romania and Estonia. Earlier, Mr. Trump delivered a speech in which he questioned the purpose of the U.N. and criticized its members.",
       "url": "https://www.nytimes.com/live/2025/09/23/world/un-general-assembly-trump",
       "source": "NYT > World News",
-      "published_at": "2025-09-23T17:37:33+00:00",
+      "published_at": "2025-09-23T18:42:17+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "78324cfc2d869c72",
+      "title_orig": "Drone attack kills at least 8 children at Haiti birthday party, media reports",
+      "summary_orig": "PORT-AU-PRINCE - A kamikaze drone strike has reportedly killed at least eight children and several adults in an attack on an alleged Haitian gang leader's birthday party in the capital Port-au-Prince, where he was distributing gifts, local media reported on Tuesday.",
+      "lang": "en",
+      "title_en": "Drone attack kills at least 8 children at Haiti birthday party, media reports",
+      "summary_en": "PORT-AU-PRINCE - A kamikaze drone strike has reportedly killed at least eight children and several adults in an attack on an alleged Haitian gang leader's birthday party in the capital Port-au-Prince, where he was distributing gifts, local media reported on Tuesday.",
+      "title": "Drone attack kills at least 8 children at Haiti birthday party, media reports",
+      "summary": "PORT-AU-PRINCE - A kamikaze drone strike has reportedly killed at least eight children and several adults in an attack on an alleged Haitian gang leader's birthday party in the capital Port-au-Prince, where he was distributing gifts, local media reported on Tuesday.",
+      "url": "https://www.straitstimes.com/world/Drone-attack-kills-at-least-8-children-at-Haiti-birthday-party-media-reports",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-23T18:37:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "17aa210f76480b11",
+      "title_orig": "Trump administration designates Barrio 18 gang as foreign terrorist organization",
+      "summary_orig": "MEXICO CITY (AP) — The Trump administration Tuesday designated the Barrio 18 gang as a foreign terrorist organization, joining other…",
+      "lang": "en",
+      "title_en": "Trump administration designates Barrio 18 gang as foreign terrorist organization",
+      "summary_en": "MEXICO CITY (AP) — The Trump administration Tuesday designated the Barrio 18 gang as a foreign terrorist organization, joining other…",
+      "title": "Trump administration designates Barrio 18 gang as foreign terrorist organization",
+      "summary": "MEXICO CITY (AP) — The Trump administration Tuesday designated the Barrio 18 gang as a foreign terrorist organization, joining other…",
+      "url": "https://wtop.com/world/2025/09/trump-administration-designates-barrio-18-gang-as-foreign-terrorist-organization/",
+      "source": "WTOP News",
+      "published_at": "2025-09-23T18:31:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5765079bfc054f3b",
+      "title_orig": "Slovaks hold nationwide protests against economic policies of populist PM Robert Fico",
+      "summary_orig": "BRATISLAVA, Slovakia (AP) — Thousands of protesters gathered across Slovakia on Tuesday as nationwide protests intensified against the economic policies…",
+      "lang": "en",
+      "title_en": "Slovaks hold nationwide protests against economic policies of populist PM Robert Fico",
+      "summary_en": "BRATISLAVA, Slovakia (AP) — Thousands of protesters gathered across Slovakia on Tuesday as nationwide protests intensified against the economic policies…",
+      "title": "Slovaks hold nationwide protests against economic policies of populist PM Robert Fico",
+      "summary": "BRATISLAVA, Slovakia (AP) — Thousands of protesters gathered across Slovakia on Tuesday as nationwide protests intensified against the economic policies…",
+      "url": "https://wtop.com/world/2025/09/slovaks-hold-nationwide-protests-against-economic-policies-of-populist-pm-robert-fico/",
+      "source": "WTOP News",
+      "published_at": "2025-09-23T18:31:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -30,11 +84,263 @@
       "summary": "The US president criticised Putin after the Danish prime minister considered the possibility of Russian involvement in recent drone activity at Copenhagen airport",
       "url": "https://www.independent.co.uk/news/world/europe/trump-putin-russia-us-denmark-drone-copenhagen-b2832146.html",
       "source": "The Independent World",
-      "published_at": "2025-09-23T17:34:40+00:00",
+      "published_at": "2025-09-23T18:30:23+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "82b092478c6f0faf",
+      "title_orig": "‘Your countries are going to hell’: Trump attacks European leaders and United Nations in fiery general assembly speech – live",
+      "summary_orig": "US president lambasts UN for lack of help in peace deals; Trump also scolds European migration and US allies that are supporting Palestinian statehood Trump calls for nations to close borders and expel foreigners in UN speech: ‘Your countries are being ruined’ Fact-check: Trump’s false and misleading claims during his UN address While the Secret Service hasn’t confirmed that the telecommunications threat was targeting the United Nations general assembly, the agency said that the devices were “concentrated within 35 miles of the global meeting” and the investigation is ongoing. The Secret Service added that early forensic analysis of the deviced indicates “cellular communications between nation-state threat actors and individuals that are known to federal law enforcement”. Continue reading...",
+      "lang": "en",
+      "title_en": "‘Your countries are going to hell’: Trump attacks European leaders and United Nations in fiery general assembly speech – live",
+      "summary_en": "US president lambasts UN for lack of help in peace deals; Trump also scolds European migration and US allies that are supporting Palestinian statehood Trump calls for nations to close borders and expel foreigners in UN speech: ‘Your countries are being ruined’ Fact-check: Trump’s false and misleading claims during his UN address While the Secret Service hasn’t confirmed that the telecommunications threat was targeting the United Nations general assembly, the agency said that the devices were “concentrated within 35 miles of the global meeting” and the investigation is ongoing. The Secret Service added that early forensic analysis of the deviced indicates “cellular communications between nation-state threat actors and individuals that are known to federal law enforcement”. Continue reading...",
+      "title": "‘Your countries are going to hell’: Trump attacks European leaders and United Nations in fiery general assembly speech – live",
+      "summary": "US president lambasts UN for lack of help in peace deals; Trump also scolds European migration and US allies that are supporting Palestinian statehood Trump calls for nations to close borders and expel foreigners in UN speech: ‘Your countries are being ruined’ Fact-check: Trump’s false and misleading claims during his UN address While the Secret Service hasn’t confirmed that the telecommunications threat was targeting the United Nations general assembly, the agency said that the devices were “concentrated within 35 miles of the global meeting” and the investigation is ongoing. The Secret Service added that early forensic analysis of the deviced indicates “cellular communications between nation-state threat actors and individuals that are known to federal law enforcement”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/23/donald-trump-unga-autism-tylenol-us-politics-live-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-23T18:28:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "0bcf86075d35332c",
+      "title_orig": "Alright BABS - Birmingham Airport announces new bot service to help passengers fly away with ease",
+      "summary_orig": "The new feature will be rolled out across the terminal",
+      "lang": "en",
+      "title_en": "Alright BABS - Birmingham Airport announces new bot service to help passengers fly away with ease",
+      "summary_en": "The new feature will be rolled out across the terminal",
+      "title": "Alright BABS - Birmingham Airport announces new bot service to help passengers fly away with ease",
+      "summary": "The new feature will be rolled out across the terminal",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/alright-babs-birmingham-airport-announces-32535166",
+      "source": "Birmingham Live - News",
+      "published_at": "2025-09-23T18:23:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bd0a0968c52758b1",
+      "title_orig": "At U.N., Trump Says Green Energy Is a Scam and Attacks Climate Science",
+      "summary_orig": "In a remarkable United Nations address, the president lashed out at wind turbines, environmentalists and allies around the world while dismissing the dangers of climate change.",
+      "lang": "en",
+      "title_en": "At U.N., Trump Says Green Energy Is a Scam and Attacks Climate Science",
+      "summary_en": "In a remarkable United Nations address, the president lashed out at wind turbines, environmentalists and allies around the world while dismissing the dangers of climate change.",
+      "title": "At U.N., Trump Says Green Energy Is a Scam and Attacks Climate Science",
+      "summary": "In a remarkable United Nations address, the president lashed out at wind turbines, environmentalists and allies around the world while dismissing the dangers of climate change.",
+      "url": "https://www.nytimes.com/2025/09/23/climate/trump-climate-energy-united-nations-unga.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-23T18:14:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f8b15978b4e81753",
+      "title_orig": "Qatari Emir slams Israel in UN General Assembly address",
+      "summary_orig": "Qatari Emir Sheikh Tamim bin Hamad Al Thani slammed Israel’s attack on Doha in his speech to the UN General Assembly.",
+      "lang": "en",
+      "title_en": "Qatari Emir slams Israel in UN General Assembly address",
+      "summary_en": "Qatari Emir Sheikh Tamim bin Hamad Al Thani slammed Israel’s attack on Doha in his speech to the UN General Assembly.",
+      "title": "Qatari Emir slams Israel in UN General Assembly address",
+      "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani slammed Israel’s attack on Doha in his speech to the UN General Assembly.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/qatari-emir-slams-israel-in-un-general-assembly-address?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-09-23T18:13:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "7151f7f1a086264b",
+      "title_orig": "JNU administration forced to postpone hostel body meeting after protests: JNUSU",
+      "summary_orig": "JNU administration forced to postpone hostel body meeting after protests: JNUSU",
+      "lang": "en",
+      "title_en": "JNU administration forced to postpone hostel body meeting after protests: JNUSU",
+      "summary_en": "JNU administration forced to postpone hostel body meeting after protests: JNUSU",
+      "title": "JNU administration forced to postpone hostel body meeting after protests: JNUSU",
+      "summary": "JNU administration forced to postpone hostel body meeting after protests: JNUSU",
+      "url": "https://www.hindustantimes.com/india-news/jnu-administration-forced-to-postpone-hostel-body-meeting-after-protests-jnusu-101758651173375.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-09-23T18:12:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8d57a8183cd670d3",
+      "title_orig": "HRF demands Collector-led probe into Kaikaluru Dalit attack case",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "HRF demands Collector-led probe into Kaikaluru Dalit attack case",
+      "summary_en": "",
+      "title": "HRF demands Collector-led probe into Kaikaluru Dalit attack case",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/hrf-demands-collector-led-probe-into-kaikaluru-dalit-attack-case/article70085734.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-09-23T18:07:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c0f8fd3b4ed5da49",
+      "title_orig": "MLB to implement automated ball-strike challenge system in 2026",
+      "summary_orig": "Automated strike zone with a challenge system will be part of spring training, the regular season and the postseason in 2026.",
+      "lang": "en",
+      "title_en": "MLB to implement automated ball-strike challenge system in 2026",
+      "summary_en": "Automated strike zone with a challenge system will be part of spring training, the regular season and the postseason in 2026.",
+      "title": "MLB to implement automated ball-strike challenge system in 2026",
+      "summary": "Automated strike zone with a challenge system will be part of spring training, the regular season and the postseason in 2026.",
+      "url": "https://www.cleveland.com/guardians/2025/09/mlb-to-implement-automated-ball-strike-challenge-system-in-2026.html",
+      "source": "cleveland.com",
+      "published_at": "2025-09-23T18:06:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2a8f9a1373f6f387",
+      "title_orig": "Debate sparks over flying, Farage, Fergie and flags",
+      "summary_orig": "In MetroTalk: readers debate Government's approval of new Gatwick runway, Farage's comments on legal migrants are called into question and it tuns out that 'patriots' have been flying the flag the wrong way",
+      "lang": "en",
+      "title_en": "Debate sparks over flying, Farage, Fergie and flags",
+      "summary_en": "In MetroTalk: readers debate Government's approval of new Gatwick runway, Farage's comments on legal migrants are called into question and it tuns out that 'patriots' have been flying the flag the wrong way",
+      "title": "Debate sparks over flying, Farage, Fergie and flags",
+      "summary": "In MetroTalk: readers debate Government's approval of new Gatwick runway, Farage's comments on legal migrants are called into question and it tuns out that 'patriots' have been flying the flag the wrong way",
+      "url": "https://metro.co.uk/2025/09/23/debate-sparks-flying-farage-fergie-flags-24241592/",
+      "source": "Metro",
+      "published_at": "2025-09-23T18:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c999018f4dc7f6cb",
+      "title_orig": "BCGEU strike escalates to B.C. alcohol and cannabis distribution centres",
+      "summary_orig": "It is expected that liquor and cannabis stores won't see much of an impact for a few weeks, but the hospitality industry is expected to see an impact almost immediately.",
+      "lang": "en",
+      "title_en": "BCGEU strike escalates to B.C. alcohol and cannabis distribution centres",
+      "summary_en": "It is expected that liquor and cannabis stores won't see much of an impact for a few weeks, but the hospitality industry is expected to see an impact almost immediately.",
+      "title": "BCGEU strike escalates to B.C. alcohol and cannabis distribution centres",
+      "summary": "It is expected that liquor and cannabis stores won't see much of an impact for a few weeks, but the hospitality industry is expected to see an impact almost immediately.",
+      "url": "https://globalnews.ca/news/11446582/bcgeu-strike-escalates-bc-alcohol-cannabis-distribution-centres/",
+      "source": "globalnews.ca",
+      "published_at": "2025-09-23T17:51:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e5b52e63d5af5d28",
+      "title_orig": "Dozens of Protesters Are Arrested Near the U.N. Before Trump’s Speech",
+      "summary_orig": "About 50 anti-Trump protesters were arrested before the president’s address to diplomats and world leaders on Tuesday morning, according to an organizer of the demonstration.",
+      "lang": "en",
+      "title_en": "Dozens of Protesters Are Arrested Near the U.N. Before Trump’s Speech",
+      "summary_en": "About 50 anti-Trump protesters were arrested before the president’s address to diplomats and world leaders on Tuesday morning, according to an organizer of the demonstration.",
+      "title": "Dozens of Protesters Are Arrested Near the U.N. Before Trump’s Speech",
+      "summary": "About 50 anti-Trump protesters were arrested before the president’s address to diplomats and world leaders on Tuesday morning, according to an organizer of the demonstration.",
+      "url": "https://www.nytimes.com/2025/09/23/nyregion/united-nations-protest-trump.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-23T17:46:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "3db16370be9b6f2c",
+      "title_orig": "Iran says talks with E3 over return of UN sanctions will continue",
+      "summary_orig": "UNITED NATIONS - Iran and European powers have agreed to continue talks about Tehran's disputed nuclear programme, the Iranian foreign ministry said on Tuesday, after a meeting to try to strike a last-ditch deal to avert the reimposition of U.N. sanctions.",
+      "lang": "en",
+      "title_en": "Iran says talks with E3 over return of UN sanctions will continue",
+      "summary_en": "UNITED NATIONS - Iran and European powers have agreed to continue talks about Tehran's disputed nuclear programme, the Iranian foreign ministry said on Tuesday, after a meeting to try to strike a last-ditch deal to avert the reimposition of U.N. sanctions.",
+      "title": "Iran says talks with E3 over return of UN sanctions will continue",
+      "summary": "UNITED NATIONS - Iran and European powers have agreed to continue talks about Tehran's disputed nuclear programme, the Iranian foreign ministry said on Tuesday, after a meeting to try to strike a last-ditch deal to avert the reimposition of U.N. sanctions.",
+      "url": "https://www.straitstimes.com/world/europe/Iran-says-talks-with-E3-over-return-of-UN-sanctions-will-continue",
+      "source": "The Straits Times World News",
+      "published_at": "2025-09-23T17:42:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a3a96e2821c44252",
+      "title_orig": "‘Loud and proud’: UK summit kicks off new conversation for working dads",
+      "summary_orig": "Organisers of event urge fathers to push for more equal parental rights in face of Britain’s current poor offering “Who’s in your team?” asked Elliott Rae, pumping up the crowd in central London at what he billed as the world’s first Working Dads’ summit. “Who’s your goalkeeper, your defender, your striker? Do you have a full 11? Do you have subs on the bench?”. Football analogies are generally rare at events about parenting, particularly those that seek to tackle gender equality. But then, so are men. At the UK’s Working Dads’ summit – almost certainly the first in the UK – both were in plentiful supply, as dads were urged to “create a new idea of masculinity”. Continue reading...",
+      "lang": "en",
+      "title_en": "‘Loud and proud’: UK summit kicks off new conversation for working dads",
+      "summary_en": "Organisers of event urge fathers to push for more equal parental rights in face of Britain’s current poor offering “Who’s in your team?” asked Elliott Rae, pumping up the crowd in central London at what he billed as the world’s first Working Dads’ summit. “Who’s your goalkeeper, your defender, your striker? Do you have a full 11? Do you have subs on the bench?”. Football analogies are generally rare at events about parenting, particularly those that seek to tackle gender equality. But then, so are men. At the UK’s Working Dads’ summit – almost certainly the first in the UK – both were in plentiful supply, as dads were urged to “create a new idea of masculinity”. Continue reading...",
+      "title": "‘Loud and proud’: UK summit kicks off new conversation for working dads",
+      "summary": "Organisers of event urge fathers to push for more equal parental rights in face of Britain’s current poor offering “Who’s in your team?” asked Elliott Rae, pumping up the crowd in central London at what he billed as the world’s first Working Dads’ summit. “Who’s your goalkeeper, your defender, your striker? Do you have a full 11? Do you have subs on the bench?”. Football analogies are generally rare at events about parenting, particularly those that seek to tackle gender equality. But then, so are men. At the UK’s Working Dads’ summit – almost certainly the first in the UK – both were in plentiful supply, as dads were urged to “create a new idea of masculinity”. Continue reading...",
+      "url": "https://www.theguardian.com/society/2025/sep/23/uk-summit-kicks-off-new-conversation-for-working-dads",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-23T17:39:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "8d03cd6fa3752dbc",
+      "title_orig": "Donald Trump’s sharia law attack on Sadiq Khan outrages Labour MPs",
+      "summary_orig": "Keir Starmer urged to take action over US president’s inflammatory speech to the UN Keir Starmer is facing demands from Labour MPs to reprimand Donald Trump’s administration after the US president falsely claimed London wanted to “go to sharia law” under its “terrible mayor”, Sadiq Khan. In an address to the UN general assembly, Trump said: “I look at London, where you have a terrible mayor, terrible, terrible mayor, and it’s been changed, it’s been so changed. Now they want to go to sharia law. But you are in a different country, you can’t do that.” Continue reading...",
+      "lang": "en",
+      "title_en": "Donald Trump’s sharia law attack on Sadiq Khan outrages Labour MPs",
+      "summary_en": "Keir Starmer urged to take action over US president’s inflammatory speech to the UN Keir Starmer is facing demands from Labour MPs to reprimand Donald Trump’s administration after the US president falsely claimed London wanted to “go to sharia law” under its “terrible mayor”, Sadiq Khan. In an address to the UN general assembly, Trump said: “I look at London, where you have a terrible mayor, terrible, terrible mayor, and it’s been changed, it’s been so changed. Now they want to go to sharia law. But you are in a different country, you can’t do that.” Continue reading...",
+      "title": "Donald Trump’s sharia law attack on Sadiq Khan outrages Labour MPs",
+      "summary": "Keir Starmer urged to take action over US president’s inflammatory speech to the UN Keir Starmer is facing demands from Labour MPs to reprimand Donald Trump’s administration after the US president falsely claimed London wanted to “go to sharia law” under its “terrible mayor”, Sadiq Khan. In an address to the UN general assembly, Trump said: “I look at London, where you have a terrible mayor, terrible, terrible mayor, and it’s been changed, it’s been so changed. Now they want to go to sharia law. But you are in a different country, you can’t do that.” Continue reading...",
+      "url": "https://www.theguardian.com/politics/2025/sep/23/donald-trump-sharia-law-attack-sadiq-khan-outrages-labour",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-23T17:36:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "9b54f3c45fb1d7df",
+      "title_orig": "Drone Strike in Haiti Kills 8 Children at a Birthday Party",
+      "summary_orig": "A drone meant to strike a gang leader hit a celebration where children had gathered. Haiti is using drones to repel gangs that control much of the capital.",
+      "lang": "en",
+      "title_en": "Drone Strike in Haiti Kills 8 Children at a Birthday Party",
+      "summary_en": "A drone meant to strike a gang leader hit a celebration where children had gathered. Haiti is using drones to repel gangs that control much of the capital.",
+      "title": "Drone Strike in Haiti Kills 8 Children at a Birthday Party",
+      "summary": "A drone meant to strike a gang leader hit a celebration where children had gathered. Haiti is using drones to repel gangs that control much of the capital.",
+      "url": "https://www.nytimes.com/2025/09/23/us/haiti-drone-attack-kills-children.html",
+      "source": "NYT > World News",
+      "published_at": "2025-09-23T17:31:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -67,42 +373,6 @@
       "url": "https://www.nytimes.com/2025/09/22/world/europe/copenhagen-oslo-airport-closed-drone.html",
       "source": "NYT > World News",
       "published_at": "2025-09-23T17:27:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "67772ebb0af11711",
-      "title_orig": "Girl shot in the head in Minneapolis church attack is making ‘miraculous’ progress, family says",
-      "summary_orig": "MINNEAPOLIS (AP) — A 12-year-old girl shot in the head during the deadly attack at a Catholic church in Minneapolis…",
-      "lang": "en",
-      "title_en": "Girl shot in the head in Minneapolis church attack is making ‘miraculous’ progress, family says",
-      "summary_en": "MINNEAPOLIS (AP) — A 12-year-old girl shot in the head during the deadly attack at a Catholic church in Minneapolis…",
-      "title": "Girl shot in the head in Minneapolis church attack is making ‘miraculous’ progress, family says",
-      "summary": "MINNEAPOLIS (AP) — A 12-year-old girl shot in the head during the deadly attack at a Catholic church in Minneapolis…",
-      "url": "https://wtop.com/national/2025/09/girl-shot-in-the-head-in-minneapolis-church-attack-is-making-miraculous-progress-family-says/",
-      "source": "WTOP News",
-      "published_at": "2025-09-23T17:26:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "82b092478c6f0faf",
-      "title_orig": "‘Your countries are going to hell’: Trump attacks European leaders and United Nations in fiery general assembly speech – live",
-      "summary_orig": "US president lambasts UN for lack of help in peace deals; Trump also scolds European migration and US allies that are supporting Palestinian statehood Trump calls for nations to close borders and expel foreigners in UN speech: ‘Your countries are being ruined’ Secret Service takes down network that could’ve crippled New York cell service While the Secret Service hasn’t confirmed that the telecommunications threat was targeting the United Nations general assembly, the agency said that the devices were “concentrated within 35 miles of the global meeting” and the investigation is ongoing. The Secret Service added that early forensic analysis of the deviced indicates “cellular communications between nation-state threat actors and individuals that are known to federal law enforcement”. Continue reading...",
-      "lang": "en",
-      "title_en": "‘Your countries are going to hell’: Trump attacks European leaders and United Nations in fiery general assembly speech – live",
-      "summary_en": "US president lambasts UN for lack of help in peace deals; Trump also scolds European migration and US allies that are supporting Palestinian statehood Trump calls for nations to close borders and expel foreigners in UN speech: ‘Your countries are being ruined’ Secret Service takes down network that could’ve crippled New York cell service While the Secret Service hasn’t confirmed that the telecommunications threat was targeting the United Nations general assembly, the agency said that the devices were “concentrated within 35 miles of the global meeting” and the investigation is ongoing. The Secret Service added that early forensic analysis of the deviced indicates “cellular communications between nation-state threat actors and individuals that are known to federal law enforcement”. Continue reading...",
-      "title": "‘Your countries are going to hell’: Trump attacks European leaders and United Nations in fiery general assembly speech – live",
-      "summary": "US president lambasts UN for lack of help in peace deals; Trump also scolds European migration and US allies that are supporting Palestinian statehood Trump calls for nations to close borders and expel foreigners in UN speech: ‘Your countries are being ruined’ Secret Service takes down network that could’ve crippled New York cell service While the Secret Service hasn’t confirmed that the telecommunications threat was targeting the United Nations general assembly, the agency said that the devices were “concentrated within 35 miles of the global meeting” and the investigation is ongoing. The Secret Service added that early forensic analysis of the deviced indicates “cellular communications between nation-state threat actors and individuals that are known to federal law enforcement”. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/23/donald-trump-unga-autism-tylenol-us-politics-live-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-23T17:13:03+00:00",
       "tags": [
         "airport/security"
       ],
@@ -191,12 +461,30 @@
       "title": "Asylum seeker at centre of Essex hotel protests jailed for 12 months",
       "summary": "Hadush Gerberslasie Kebatu, 38, was convicted last month of assaulting a 14-year-old girl and a woman An asylum seeker staying at a hotel in Essex that became the focus of protests has been jailed for 12 months for the assault of a 14-year-old girl and a woman. Hadush Gerberslasie Kebatu, 38, from Ethiopia, who had been living in the Bell hotel in Epping, was found guilty last month of two counts of sexual assault and one of attempted sexual assault, committed days after arriving in the UK on a small boat. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2025/sep/23/asylum-seeker-at-centre-of-essex-hotel-protests-jailed-for-12-months",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2025-09-23T16:49:40+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "902812a4170ea52d",
+      "title_orig": "Trump attacks UN in fiery General Assembly speech, slams global institutions",
+      "summary_orig": "US President Donald Trump offered up a litany of grievances in a combative speech at the UN that called on the global community to end “failed approaches”, stop supporting renewable energy and recognise that “I have ended seven unendable wars”.\nAddressing the world’s foremost diplomatic body with his typically undiplomatic rhetoric, Trump touted his record of revitalising US fortunes and said his nation has the “greatest weapons on earth” that it would rather not deploy.\n“Not only is the UN not...",
+      "lang": "en",
+      "title_en": "Trump attacks UN in fiery General Assembly speech, slams global institutions",
+      "summary_en": "US President Donald Trump offered up a litany of grievances in a combative speech at the UN that called on the global community to end “failed approaches”, stop supporting renewable energy and recognise that “I have ended seven unendable wars”.\nAddressing the world’s foremost diplomatic body with his typically undiplomatic rhetoric, Trump touted his record of revitalising US fortunes and said his nation has the “greatest weapons on earth” that it would rather not deploy.\n“Not only is the UN not...",
+      "title": "Trump attacks UN in fiery General Assembly speech, slams global institutions",
+      "summary": "US President Donald Trump offered up a litany of grievances in a combative speech at the UN that called on the global community to end “failed approaches”, stop supporting renewable energy and recognise that “I have ended seven unendable wars”.\nAddressing the world’s foremost diplomatic body with his typically undiplomatic rhetoric, Trump touted his record of revitalising US fortunes and said his nation has the “greatest weapons on earth” that it would rather not deploy.\n“Not only is the UN not...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3326596/trump-attacks-un-fiery-general-assembly-speech-slams-global-institutions-and-aid?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2025-09-23T16:47:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -209,7 +497,7 @@
       "title": "Civil servants may feel ‘under attack’ after new rules briefed to media, UK ministers told",
       "summary": "Guidance that meetings should be held outside working hours was published in Telegraph with quote about ‘nonsense’ events UK politics live – latest updates Ministers have been warned that they risk civil servants feeling attacked after new guidance was published banning staff network meetings in working hours. The document said civil servants should make sure cross-government networks remained impartial, and brought in a requirement for senior managers to sign off events. Continue reading...",
       "url": "https://www.theguardian.com/politics/2025/sep/23/uk-civil-servants-staff-network-meeting-rules",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2025-09-23T16:44:34+00:00",
       "tags": [
         "airport/security"
@@ -269,24 +557,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "49351a67523238cd",
-      "title_orig": "West Bank’s Route 60: The ‘road of death’ many Palestinians cannot avoid",
-      "summary_orig": "In the occupied West Bank, Route 60 links key Palestinian cities with one another – as well as a series of Israeli settlements. It is the only road connecting Ramallah with Nablus, and for many Palestinians, travelling it has become a journey fraught with fear amid the surge in settler violence following the Hamas-led October 7, 2023, attacks.",
-      "lang": "en",
-      "title_en": "West Bank’s Route 60: The ‘road of death’ many Palestinians cannot avoid",
-      "summary_en": "In the occupied West Bank, Route 60 links key Palestinian cities with one another – as well as a series of Israeli settlements. It is the only road connecting Ramallah with Nablus, and for many Palestinians, travelling it has become a journey fraught with fear amid the surge in settler violence following the Hamas-led October 7, 2023, attacks.",
-      "title": "West Bank’s Route 60: The ‘road of death’ many Palestinians cannot avoid",
-      "summary": "In the occupied West Bank, Route 60 links key Palestinian cities with one another – as well as a series of Israeli settlements. It is the only road connecting Ramallah with Nablus, and for many Palestinians, travelling it has become a journey fraught with fear amid the surge in settler violence following the Hamas-led October 7, 2023, attacks.",
-      "url": "https://www.france24.com/en/middle-east/20250923-west-bank-s-route-60-the-road-of-death-many-palestinians-cannot-avoid",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-23T16:35:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -364,42 +634,6 @@
       "url": "https://www.derbytelegraph.co.uk/news/derby-news/communities-bit-safer-after-attempted-10522006",
       "source": "Derbyshire Live - frontpage",
       "published_at": "2025-09-23T16:23:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "273428a42dddc74f",
-      "title_orig": "Girl shot in the head in Minneapolis church attack is making ‘miraculous’ progress, family says",
-      "summary_orig": "The family of a 12-year-old girl critically wounded during the deadly shooting at a Minneapolis Catholic church says she is making remarkable progress.",
-      "lang": "en",
-      "title_en": "Girl shot in the head in Minneapolis church attack is making ‘miraculous’ progress, family says",
-      "summary_en": "The family of a 12-year-old girl critically wounded during the deadly shooting at a Minneapolis Catholic church says she is making remarkable progress.",
-      "title": "Girl shot in the head in Minneapolis church attack is making ‘miraculous’ progress, family says",
-      "summary": "The family of a 12-year-old girl critically wounded during the deadly shooting at a Minneapolis Catholic church says she is making remarkable progress.",
-      "url": "https://www.seattletimes.com/nation-world/nation/girl-shot-in-the-head-in-minneapolis-church-attack-is-making-miraculous-progress-family-says/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-09-23T16:21:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "78324cfc2d869c72",
-      "title_orig": "Drone attack kills at least 8 children at Haiti birthday party, media reports",
-      "summary_orig": "PORT-AU-PRINCE - A kamikaze drone strike has reportedly killed at least eight children and several adults in an attack on an alleged Haitian gang leader's birthday party in the capital Port-au-Prince, where he was distributing gifts, local media reported on Tuesday.",
-      "lang": "en",
-      "title_en": "Drone attack kills at least 8 children at Haiti birthday party, media reports",
-      "summary_en": "PORT-AU-PRINCE - A kamikaze drone strike has reportedly killed at least eight children and several adults in an attack on an alleged Haitian gang leader's birthday party in the capital Port-au-Prince, where he was distributing gifts, local media reported on Tuesday.",
-      "title": "Drone attack kills at least 8 children at Haiti birthday party, media reports",
-      "summary": "PORT-AU-PRINCE - A kamikaze drone strike has reportedly killed at least eight children and several adults in an attack on an alleged Haitian gang leader's birthday party in the capital Port-au-Prince, where he was distributing gifts, local media reported on Tuesday.",
-      "url": "https://www.straitstimes.com/world/Drone-attack-kills-at-least-8-children-at-Haiti-birthday-party-media-reports",
-      "source": "The Straits Times World News",
-      "published_at": "2025-09-23T16:16:56+00:00",
       "tags": [
         "airport/security"
       ],
@@ -668,24 +902,6 @@
       "geo": {}
     },
     {
-      "id": "fcc839273f656888",
-      "title_orig": "US President Donald slams UN, Europe, climate change in UNGA adress",
-      "summary_orig": "In a wide-ranging and provocative address to the UN General Assembly, Donald Trump criticized the United Nations as ineffective, dismissed climate change as \"the greatest con job ever,\" and praised fossil fuels while attacking green energy. He warned European countries were \"going to hell\" due to immigration, demanded they stop buying Russian oil, and accused China and India of funding the Ukraine war. Trump condemned recent recognitions of a Palestinian state as a “reward for Hamas” and called for the release of hostages in Gaza. He also vowed to destroy drug smuggling operations, announced a planned meeting with Brazil’s President Lula. France24 International Affairs Kethevane Gorjestani provides more insights on this nearly one-hour speech.",
-      "lang": "en",
-      "title_en": "US President Donald slams UN, Europe, climate change in UNGA adress",
-      "summary_en": "In a wide-ranging and provocative address to the UN General Assembly, Donald Trump criticized the United Nations as ineffective, dismissed climate change as \"the greatest con job ever,\" and praised fossil fuels while attacking green energy. He warned European countries were \"going to hell\" due to immigration, demanded they stop buying Russian oil, and accused China and India of funding the Ukraine war. Trump condemned recent recognitions of a Palestinian state as a “reward for Hamas” and called for the release of hostages in Gaza. He also vowed to destroy drug smuggling operations, announced a planned meeting with Brazil’s President Lula. France24 International Affairs Kethevane Gorjestani provides more insights on this nearly one-hour speech.",
-      "title": "US President Donald slams UN, Europe, climate change in UNGA adress",
-      "summary": "In a wide-ranging and provocative address to the UN General Assembly, Donald Trump criticized the United Nations as ineffective, dismissed climate change as \"the greatest con job ever,\" and praised fossil fuels while attacking green energy. He warned European countries were \"going to hell\" due to immigration, demanded they stop buying Russian oil, and accused China and India of funding the Ukraine war. Trump condemned recent recognitions of a Palestinian state as a “reward for Hamas” and called for the release of hostages in Gaza. He also vowed to destroy drug smuggling operations, announced a planned meeting with Brazil’s President Lula. France24 International Affairs Kethevane Gorjestani provides more insights on this nearly one-hour speech.",
-      "url": "https://www.france24.com/en/video/20250923-us-president-donald-slams-un-europe-climate-change-in-unga-adress",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-23T16:01:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "cb0c275a22bff5d1",
       "title_orig": "Epping hotel asylum seeker jailed for 12 months over sex assaults that sparked protests",
       "summary_orig": "Hadush Kebatu assaulted a girl eight days after he arrived in the UK by small boat.",
@@ -697,24 +913,6 @@
       "url": "https://www.bbc.com/news/articles/cp8j5vp7413o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-09-23T16:00:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "79aecff666c5ab0f",
-      "title_orig": "Photo highlights from the 80th UN General Assembly in New York",
-      "summary_orig": "NEW YORK (AP) — World leaders are convening in New York this week for the 80th United Nations General Assembly. President Donald Trump addressed the General Assembly on Tuesday amid protests against his policies outside U.N. headquarters. ___ This is a photo gallery curated by AP photo editors.",
-      "lang": "en",
-      "title_en": "Photo highlights from the 80th UN General Assembly in New York",
-      "summary_en": "NEW YORK (AP) — World leaders are convening in New York this week for the 80th United Nations General Assembly. President Donald Trump addressed the General Assembly on Tuesday amid protests against his policies outside U.N. headquarters. ___ This is a photo gallery curated by AP photo editors.",
-      "title": "Photo highlights from the 80th UN General Assembly in New York",
-      "summary": "NEW YORK (AP) — World leaders are convening in New York this week for the 80th United Nations General Assembly. President Donald Trump addressed the General Assembly on Tuesday amid protests against his policies outside U.N. headquarters. ___ This is a photo gallery curated by AP photo editors.",
-      "url": "https://www.seattletimes.com/nation-world/nation/photo-highlights-from-the-80th-un-general-assembly-in-new-york/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-09-23T16:00:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -776,24 +974,6 @@
       "geo": {}
     },
     {
-      "id": "978e4873f8a686e5",
-      "title_orig": "Arne Slot could be forced into Alexander Isak decision as a fresh Liverpool headache emerges",
-      "summary_orig": "Liverpool have an embarrassment of riches in attacking areas following the summer arrival of Alexander Isak and Hugo Ekitike, it has been claimed that Ekitike could lead the line forcing Arne Slot to deploy Isak in wide areas",
-      "lang": "en",
-      "title_en": "Arne Slot could be forced into Alexander Isak decision as a fresh Liverpool headache emerges",
-      "summary_en": "Liverpool have an embarrassment of riches in attacking areas following the summer arrival of Alexander Isak and Hugo Ekitike, it has been claimed that Ekitike could lead the line forcing Arne Slot to deploy Isak in wide areas",
-      "title": "Arne Slot could be forced into Alexander Isak decision as a fresh Liverpool headache emerges",
-      "summary": "Liverpool have an embarrassment of riches in attacking areas following the summer arrival of Alexander Isak and Hugo Ekitike, it has been claimed that Ekitike could lead the line forcing Arne Slot to deploy Isak in wide areas",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/arne-slot-could-forced-alexander-32533920",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2025-09-23T15:53:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "58b53f62e5307cce",
       "title_orig": "China criticises Japan’s laser weapon plans as threat to regional stability",
       "summary_orig": "The Chinese military has warned against Japan’s laser weapon plans, accusing Tokyo of undermining regional security.\nJapan has made progress in road-mobile laser weapons and will begin a ship-mounted laser weapon programme that can intercept incoming small unmanned aerial vehicles (UAVs), a commentary in the PLA Daily on Tuesday noted.\n“These trends should be watched with high caution,” it said.\nLaser weapons are an effective measure against the fast-developing drone warfare, with the advantages...",
@@ -805,24 +985,6 @@
       "url": "https://www.scmp.com/news/china/military/article/3326595/china-criticises-japans-laser-weapon-plans-threat-regional-stability?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2025-09-23T15:51:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "61c05d14ff241a80",
-      "title_orig": "Stirling man tells donor's family 'he gave me the gift of continuing with my life' after transplant",
-      "summary_orig": "Kevin Brogan, from Stirling, suffered a heart attack out of the blue back in early 2023 and required a heart transplant.",
-      "lang": "en",
-      "title_en": "Stirling man tells donor's family 'he gave me the gift of continuing with my life' after transplant",
-      "summary_en": "Kevin Brogan, from Stirling, suffered a heart attack out of the blue back in early 2023 and required a heart transplant.",
-      "title": "Stirling man tells donor's family 'he gave me the gift of continuing with my life' after transplant",
-      "summary": "Kevin Brogan, from Stirling, suffered a heart attack out of the blue back in early 2023 and required a heart transplant.",
-      "url": "https://www.dailyrecord.co.uk/news/local-news/stirling-man-tells-donors-family-35951854",
-      "source": "Daily Record - Home",
-      "published_at": "2025-09-23T15:50:54+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1001,24 +1163,6 @@
       "geo": {}
     },
     {
-      "id": "e5b52e63d5af5d28",
-      "title_orig": "A Dozen Protesters Are Arrested Outside the U.N. Before Trump’s Speech",
-      "summary_orig": "The police swarmed a cluster of anti-Trump protesters ahead of the president’s address to diplomats and world leaders on Tuesday morning.",
-      "lang": "en",
-      "title_en": "A Dozen Protesters Are Arrested Outside the U.N. Before Trump’s Speech",
-      "summary_en": "The police swarmed a cluster of anti-Trump protesters ahead of the president’s address to diplomats and world leaders on Tuesday morning.",
-      "title": "A Dozen Protesters Are Arrested Outside the U.N. Before Trump’s Speech",
-      "summary": "The police swarmed a cluster of anti-Trump protesters ahead of the president’s address to diplomats and world leaders on Tuesday morning.",
-      "url": "https://www.nytimes.com/2025/09/23/nyregion/united-nations-protest-trump.html",
-      "source": "NYT > World News",
-      "published_at": "2025-09-23T15:20:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "d99e02c8e4cfb167",
       "title_orig": "Fisherfolk stage protest over  threat to marine ecosystems by pharma units, block road",
       "summary_orig": "",
@@ -1145,24 +1289,6 @@
       "geo": {}
     },
     {
-      "id": "87c1545548944b5e",
-      "title_orig": "Israel destroys evacuated health center in Gaza City, medics say",
-      "summary_orig": "A Palestinian medical charity says Israel destroyed its main center in Gaza City after ordering its evacuation.",
-      "lang": "en",
-      "title_en": "Israel destroys evacuated health center in Gaza City, medics say",
-      "summary_en": "A Palestinian medical charity says Israel destroyed its main center in Gaza City after ordering its evacuation.",
-      "title": "Israel destroys evacuated health center in Gaza City, medics say",
-      "summary": "A Palestinian medical charity says Israel destroyed its main center in Gaza City after ordering its evacuation.",
-      "url": "https://www.seattletimes.com/nation-world/israel-destroys-evacuated-health-center-in-gaza-city-medics-say/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-09-23T15:00:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1fb4f70154ee1dd0",
       "title_orig": "Six women arrested after protesters target Leicestershire drone factory",
       "summary_orig": "Road closures remain in place",
@@ -1174,24 +1300,6 @@
       "url": "https://www.leicestermercury.co.uk/news/local-news/six-women-arrested-after-protesters-10521595",
       "source": "Leicestershire Live - frontpage",
       "published_at": "2025-09-23T14:59:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "88e0dd9baf675ea4",
-      "title_orig": "VCK holds protest in Marakkanam over delay in release of funds under MGNREGS to Tamil Nadu",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "VCK holds protest in Marakkanam over delay in release of funds under MGNREGS to Tamil Nadu",
-      "summary_en": "",
-      "title": "VCK holds protest in Marakkanam over delay in release of funds under MGNREGS to Tamil Nadu",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/vck-holds-protest-over-delay-in-release-of-funds-under-mgnregs/article70084580.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-09-23T14:58:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1217,24 +1325,6 @@
       "geo": {}
     },
     {
-      "id": "59e2e7fe65d5c585",
-      "title_orig": "High-security drill conducted ahead of Vice-President, CM visit to Tirumala",
-      "summary_orig": "Police secure entire route from Renigunta airport to Tirumala hilltop; anti-sabotage, bomb disposal, and special squads deployed to ensure safe passage for VVIPs",
-      "lang": "en",
-      "title_en": "High-security drill conducted ahead of Vice-President, CM visit to Tirumala",
-      "summary_en": "Police secure entire route from Renigunta airport to Tirumala hilltop; anti-sabotage, bomb disposal, and special squads deployed to ensure safe passage for VVIPs",
-      "title": "High-security drill conducted ahead of Vice-President, CM visit to Tirumala",
-      "summary": "Police secure entire route from Renigunta airport to Tirumala hilltop; anti-sabotage, bomb disposal, and special squads deployed to ensure safe passage for VVIPs",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/high-security-drill-conducted-ahead-of-vice-president-cm-visit-to-tirumala/article70085318.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-09-23T14:50:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "0e4c3a2ef09e4bc4",
       "title_orig": "Nato member Lithuania authorises army to shoot down drones violating its airspace",
       "summary_orig": "The move comes amid recent violations of Nato member states’ airspace by Russia.",
@@ -1246,24 +1336,6 @@
       "url": "https://www.straitstimes.com/world/europe/nato-member-lithuania-authorises-army-to-shoot-down-drones-violating-its-airspace",
       "source": "The Straits Times World News",
       "published_at": "2025-09-23T14:37:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e126e9a5988999f5",
-      "title_orig": "Lebanese village mourns children and father killed in Israeli strike",
-      "summary_orig": "A village in southern Lebanon has buried five people, including three children and their father, killed in an Israeli strike over the weekend.",
-      "lang": "en",
-      "title_en": "Lebanese village mourns children and father killed in Israeli strike",
-      "summary_en": "A village in southern Lebanon has buried five people, including three children and their father, killed in an Israeli strike over the weekend.",
-      "title": "Lebanese village mourns children and father killed in Israeli strike",
-      "summary": "A village in southern Lebanon has buried five people, including three children and their father, killed in an Israeli strike over the weekend.",
-      "url": "https://www.seattletimes.com/nation-world/lebanese-village-mourns-children-and-father-killed-in-israeli-strike/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-09-23T14:36:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1343,24 +1415,6 @@
       "geo": {}
     },
     {
-      "id": "73b8e0c20742a891",
-      "title_orig": "EU Commission should cut Libya ties after migrant rescue ship attack, groups warn",
-      "summary_orig": "Human rights bodies argue the assault exposes nearly a decade of failed EU policy in the volatile North African country.",
-      "lang": "en",
-      "title_en": "EU Commission should cut Libya ties after migrant rescue ship attack, groups warn",
-      "summary_en": "Human rights bodies argue the assault exposes nearly a decade of failed EU policy in the volatile North African country.",
-      "title": "EU Commission should cut Libya ties after migrant rescue ship attack, groups warn",
-      "summary": "Human rights bodies argue the assault exposes nearly a decade of failed EU policy in the volatile North African country.",
-      "url": "https://www.politico.eu/article/eu-commission-libya-migrant-rescue-ship-attack-ocean-viking-sos-mediterranee/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "source": "POLITICO",
-      "published_at": "2025-09-23T14:22:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4d339a96699e713f",
       "title_orig": "Nazi terrorist who planted bombs in British mosques found dead in high security prison",
       "summary_orig": "Pavlo Lapshyn is confirmed to have died in a Category A jail.",
@@ -1372,24 +1426,6 @@
       "url": "https://metro.co.uk/2025/09/23/nazi-terrorist-planted-bombs-british-mosques-found-dead-high-security-prison-24241496/",
       "source": "Metro",
       "published_at": "2025-09-23T14:19:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2ac23e1dac34a9b1",
-      "title_orig": "Popular Ryanair route returns to Liverpool John Lennon Airport",
-      "summary_orig": "Flights are now available online for 2026",
-      "lang": "en",
-      "title_en": "Popular Ryanair route returns to Liverpool John Lennon Airport",
-      "summary_en": "Flights are now available online for 2026",
-      "title": "Popular Ryanair route returns to Liverpool John Lennon Airport",
-      "summary": "Flights are now available online for 2026",
-      "url": "https://www.liverpoolecho.co.uk/travel/popular-ryanair-route-returns-liverpool-32533425",
-      "source": "Liverpool Echo - News",
-      "published_at": "2025-09-23T14:14:49+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1426,24 +1462,6 @@
       "url": "https://www.syracuse.com/news/2025/09/upstate-ny-woman-arrested-for-pepper-spray-attack-at-longhorn-steakhouse.html",
       "source": "syracuse.com",
       "published_at": "2025-09-23T14:13:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b802f0728e2f825b",
-      "title_orig": "Jaguar Land Rover could face £120 million hit due to cyber attack closure",
-      "summary_orig": "The car manufacturer was struck by a cyber attack at the end of last month",
-      "lang": "en",
-      "title_en": "Jaguar Land Rover could face £120 million hit due to cyber attack closure",
-      "summary_en": "The car manufacturer was struck by a cyber attack at the end of last month",
-      "title": "Jaguar Land Rover could face £120 million hit due to cyber attack closure",
-      "summary": "The car manufacturer was struck by a cyber attack at the end of last month",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/jaguar-land-rover-could-face-32534481",
-      "source": "Birmingham Live - Home",
-      "published_at": "2025-09-23T14:07:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1574,6 +1592,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d12d50a0871be93e",
+      "title_orig": "UK manufacturing sector falters amid Jaguar Land Rover cyber-attack",
+      "summary_orig": "Business secretary meets  employees from JLR and its suppliers as pause in JLR car production is extended The UK manufacturing sector posted a sharp decline in output this month as Britain’s biggest carmaker, Jaguar Land Rover, suffered a cyber-attack and paused production, a shutdown that will drag on into October. The business secretary, Peter Kyle, and the industry minister Chris McDonald met employees from JLR and its suppliers on Tuesday as the government assessed the fallout from the cyber-attack, amid calls for financial support for affected businesses. Continue reading...",
+      "lang": "en",
+      "title_en": "UK manufacturing sector falters amid Jaguar Land Rover cyber-attack",
+      "summary_en": "Business secretary meets  employees from JLR and its suppliers as pause in JLR car production is extended The UK manufacturing sector posted a sharp decline in output this month as Britain’s biggest carmaker, Jaguar Land Rover, suffered a cyber-attack and paused production, a shutdown that will drag on into October. The business secretary, Peter Kyle, and the industry minister Chris McDonald met employees from JLR and its suppliers on Tuesday as the government assessed the fallout from the cyber-attack, amid calls for financial support for affected businesses. Continue reading...",
+      "title": "UK manufacturing sector falters amid Jaguar Land Rover cyber-attack",
+      "summary": "Business secretary meets  employees from JLR and its suppliers as pause in JLR car production is extended The UK manufacturing sector posted a sharp decline in output this month as Britain’s biggest carmaker, Jaguar Land Rover, suffered a cyber-attack and paused production, a shutdown that will drag on into October. The business secretary, Peter Kyle, and the industry minister Chris McDonald met employees from JLR and its suppliers on Tuesday as the government assessed the fallout from the cyber-attack, amid calls for financial support for affected businesses. Continue reading...",
+      "url": "https://www.theguardian.com/business/2025/sep/23/peter-kyle-jaguar-land-rover-shutdown-car-production-jlr-cyber-attack",
+      "source": "UK news | The Guardian",
+      "published_at": "2025-09-23T13:32:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2072,24 +2108,6 @@
       "geo": {}
     },
     {
-      "id": "450a02c112ec50cd",
-      "title_orig": "‘Killed us twice’: Families of US drone victims seek reparations in Somalia",
-      "summary_orig": "In letters seen by Al Jazeera, US AFRICOM admits to killing civilians in air raids, but refuses 'condolence payment'.",
-      "lang": "en",
-      "title_en": "‘Killed us twice’: Families of US drone victims seek reparations in Somalia",
-      "summary_en": "In letters seen by Al Jazeera, US AFRICOM admits to killing civilians in air raids, but refuses 'condolence payment'.",
-      "title": "‘Killed us twice’: Families of US drone victims seek reparations in Somalia",
-      "summary": "In letters seen by Al Jazeera, US AFRICOM admits to killing civilians in air raids, but refuses 'condolence payment'.",
-      "url": "https://www.aljazeera.com/features/2025/9/23/killed-us-twice-families-of-us-drone-victims-seek-reparations-in-somalia?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-09-23T11:17:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "78e6a7c60a0ad645",
       "title_orig": "Russia's involvement in drone sightings cannot be ruled out, Danish PM says",
       "summary_orig": "On Monday night Kastrup airport in Copenhagen was forced to shut down for several hours following several drone sightings.",
@@ -2177,24 +2195,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "90d5e240421b77f0",
-      "title_orig": "Copenhagen and Oslo airports temporary shut down after drone sightings",
-      "summary_orig": "Drone activity prompted authorities in Denmark and Norway to shut down the main airports in Copenhagen and Oslo for several hours overnight, leading to widespread flight disruptions expected to continue into Tuesday. Both airports resumed operations in the early hours of the day. The origin of the drones remains unclear, but militaries across Eastern Europe are on high alert following reports from Estonia and Poland of airspace breaches by Russian drones. Oliver Farry and Marc Paupé report.",
-      "lang": "en",
-      "title_en": "Copenhagen and Oslo airports temporary shut down after drone sightings",
-      "summary_en": "Drone activity prompted authorities in Denmark and Norway to shut down the main airports in Copenhagen and Oslo for several hours overnight, leading to widespread flight disruptions expected to continue into Tuesday. Both airports resumed operations in the early hours of the day. The origin of the drones remains unclear, but militaries across Eastern Europe are on high alert following reports from Estonia and Poland of airspace breaches by Russian drones. Oliver Farry and Marc Paupé report.",
-      "title": "Copenhagen and Oslo airports temporary shut down after drone sightings",
-      "summary": "Drone activity prompted authorities in Denmark and Norway to shut down the main airports in Copenhagen and Oslo for several hours overnight, leading to widespread flight disruptions expected to continue into Tuesday. Both airports resumed operations in the early hours of the day. The origin of the drones remains unclear, but militaries across Eastern Europe are on high alert following reports from Estonia and Poland of airspace breaches by Russian drones. Oliver Farry and Marc Paupé report.",
-      "url": "https://www.france24.com/en/video/20250923-copenhagen-and-oslo-airports-temporary-shut-down-after-drone-sightings",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-23T10:44:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2819,42 +2819,6 @@
       "geo": {}
     },
     {
-      "id": "0c2457f0c9036a23",
-      "title_orig": "Drone sightings close Copenhagen and Oslo airports as police blame 'capable operator'",
-      "summary_orig": "Copenhagen and Oslo airports were shut for hours after drones were observed in their airspace",
-      "lang": "en",
-      "title_en": "Drone sightings close Copenhagen and Oslo airports as police blame 'capable operator'",
-      "summary_en": "Copenhagen and Oslo airports were shut for hours after drones were observed in their airspace",
-      "title": "Drone sightings close Copenhagen and Oslo airports as police blame 'capable operator'",
-      "summary": "Copenhagen and Oslo airports were shut for hours after drones were observed in their airspace",
-      "url": "https://www.standard.co.uk/news/world/copenhagen-airport-drones-oslo-airport-b1249141.html",
-      "source": "The Standard News",
-      "published_at": "2025-09-23T06:46:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "56b5129d615d0f4c",
-      "title_orig": "Lime bikes chief executive reveals huge expansion vision: 'We want to be in every borough in London'",
-      "summary_orig": "E-bikes currently available for hire in 17 boroughs - but firm has sights set on all 33 after ridership soars during Tube strike",
-      "lang": "en",
-      "title_en": "Lime bikes chief executive reveals huge expansion vision: 'We want to be in every borough in London'",
-      "summary_en": "E-bikes currently available for hire in 17 boroughs - but firm has sights set on all 33 after ridership soars during Tube strike",
-      "title": "Lime bikes chief executive reveals huge expansion vision: 'We want to be in every borough in London'",
-      "summary": "E-bikes currently available for hire in 17 boroughs - but firm has sights set on all 33 after ridership soars during Tube strike",
-      "url": "https://www.standard.co.uk/news/transport/lime-bike-hire-london-expansion-wayne-ting-33-boroughs-b1248995.html",
-      "source": "The Standard News",
-      "published_at": "2025-09-23T06:44:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "54d9748e6c691abd",
       "title_orig": "Russian anti-aircraft units down drones in Moscow, other regions",
       "summary_orig": "Flights were delayed and cancelled at Moscow’s Sheremetyevo airport.",
@@ -3197,24 +3161,6 @@
       "geo": {}
     },
     {
-      "id": "98a87224ebc76c6d",
-      "title_orig": "Trump signs order targeting Antifa as a terrorist organisation",
-      "summary_orig": "It could be signed as soon as Sept 22.",
-      "lang": "en",
-      "title_en": "Trump signs order targeting Antifa as a terrorist organisation",
-      "summary_en": "It could be signed as soon as Sept 22.",
-      "title": "Trump signs order targeting Antifa as a terrorist organisation",
-      "summary": "It could be signed as soon as Sept 22.",
-      "url": "https://www.straitstimes.com/world/united-states/trump-to-sign-order-designating-antifa-a-terrorist-organisation",
-      "source": "The Straits Times World News",
-      "published_at": "2025-09-22T23:11:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ed8e75e6dc6b39d5",
       "title_orig": "Trump's move against antifa: When does political violence constitute terrorism?",
       "summary_orig": "Trump plans to classify the left-wing, anti-fascist movement as a terrorist organization, raising legal and ethical questions about how the U.S. can prosecute a movement.",
@@ -3226,24 +3172,6 @@
       "url": "https://www.latimes.com/world-nation/story/2025-09-22/trump-declares-war-on-antifa-is-it-a-terrorist-organization",
       "source": "World & Nation",
       "published_at": "2025-09-22T23:10:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "fbadb4cb5979c8d8",
-      "title_orig": "What is Antifa and why is Trump targeting it?",
-      "summary_orig": "WASHINGTON - U.S. President Donald Trump says he will soon declare the anti-fascist antifa movement a domestic “terrorist organization” as part of a crackdown on what he claims is left-wing sponsored political violence.",
-      "lang": "en",
-      "title_en": "What is Antifa and why is Trump targeting it?",
-      "summary_en": "WASHINGTON - U.S. President Donald Trump says he will soon declare the anti-fascist antifa movement a domestic “terrorist organization” as part of a crackdown on what he claims is left-wing sponsored political violence.",
-      "title": "What is Antifa and why is Trump targeting it?",
-      "summary": "WASHINGTON - U.S. President Donald Trump says he will soon declare the anti-fascist antifa movement a domestic “terrorist organization” as part of a crackdown on what he claims is left-wing sponsored political violence.",
-      "url": "https://www.straitstimes.com/world/united-states/what-is-antifa-and-why-is-trump-targeting-it",
-      "source": "The Straits Times World News",
-      "published_at": "2025-09-22T22:21:49+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4459,6 +4387,42 @@
       "url": "https://www.latimes.com/world-nation/story/2025-09-09/gaza-daily",
       "source": "World & Nation",
       "published_at": "2025-09-09T15:01:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2fc44d32f8bb4ddf",
+      "title_orig": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary_orig": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "lang": "en",
+      "title_en": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary_en": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "title": "Suspected attack by Yemen’s Houthis targets ship in Red Sea after missiles fire on Israel",
+      "summary": "DUBAI: A suspected attack by Yemen’s Houthis targeted a ship in the Red Sea on Thursday, officials said, as the group increased its missile fire targeting Israel.",
+      "url": "https://www.arabnews.com/node/2614110/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T22:09:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "21fb050645000980",
+      "title_orig": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary_orig": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "lang": "en",
+      "title_en": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary_en": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "title": "Israeli bombardment pushes more Palestinians out of homes in Gaza City",
+      "summary": "CAIRO: Israeli bombardment pushed more Palestinians out of their homes in Gaza City on Thursday, while thousands of residents defied Israeli orders to leave, remaining behind in the ruins in the path of Israel’s latest advance.\n\tGaza health authorities said Israeli fire across the enclave had killed at least 28 people on Thursday, most of them in Gaza City, where Israeli forces have advanced through the outer suburbs and are now a few km (miles) from the city center.",
+      "url": "https://www.arabnews.com/node/2614106/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-09-03T22:09:41+00:00",
       "tags": [
         "airport/security"
       ],
