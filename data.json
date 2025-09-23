@@ -1,6 +1,150 @@
 {
-  "generated_at": "2025-09-23T04:46:52.841300+00:00",
+  "generated_at": "2025-09-23T05:41:57.897979+00:00",
   "items": [
+    {
+      "id": "105b44281732ce9d",
+      "title_orig": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
+      "summary_orig": "Both airports have been reopened, with Danish police unable to confirm origin of drones.",
+      "lang": "en",
+      "title_en": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
+      "summary_en": "Both airports have been reopened, with Danish police unable to confirm origin of drones.",
+      "title": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
+      "summary": "Both airports have been reopened, with Danish police unable to confirm origin of drones.",
+      "url": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-09-23T05:31:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6284c27ba906f341",
+      "title_orig": "Today in Denmark: A roundup of the news on Tuesday",
+      "summary_orig": "Copenhagen Airport disrupted by drones, fund created for Greenland forced contraception victims, Løkke makes new statement on Palestinian statehood and more news from Denmark this Tuesday.",
+      "lang": "en",
+      "title_en": "Today in Denmark: A roundup of the news on Tuesday",
+      "summary_en": "Copenhagen Airport disrupted by drones, fund created for Greenland forced contraception victims, Løkke makes new statement on Palestinian statehood and more news from Denmark this Tuesday.",
+      "title": "Today in Denmark: A roundup of the news on Tuesday",
+      "summary": "Copenhagen Airport disrupted by drones, fund created for Greenland forced contraception victims, Løkke makes new statement on Palestinian statehood and more news from Denmark this Tuesday.",
+      "url": "https://www.thelocal.dk/20250923/today-in-denmark-a-roundup-of-the-news-on-tuesday-186",
+      "source": "The Local Denmark",
+      "published_at": "2025-09-23T05:21:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "231672716b95a90b",
+      "title_orig": "Sydney’s Night Stalker rapist pleads guilty to 13 charges over attacks against women in 1990s",
+      "summary_orig": "Glenn Gary Cameron’s identity had remained secret after he was arrested in early 2024 at Sydney airport after a breakthrough in forensic technology Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man accused of terrorising women in the early 1990s across Sydney, who was dubbed the Night Stalker, has pleaded guilty to 13 charges. The man appeared before Downing Centre local court on Thursday, weeks after the serial rapist was unmasked as Glenn Gary Cameron. His identity had remained a secret since he was arrested more than 18 months ago due to suppression orders. Continue reading...",
+      "lang": "en",
+      "title_en": "Sydney’s Night Stalker rapist pleads guilty to 13 charges over attacks against women in 1990s",
+      "summary_en": "Glenn Gary Cameron’s identity had remained secret after he was arrested in early 2024 at Sydney airport after a breakthrough in forensic technology Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man accused of terrorising women in the early 1990s across Sydney, who was dubbed the Night Stalker, has pleaded guilty to 13 charges. The man appeared before Downing Centre local court on Thursday, weeks after the serial rapist was unmasked as Glenn Gary Cameron. His identity had remained a secret since he was arrested more than 18 months ago due to suppression orders. Continue reading...",
+      "title": "Sydney’s Night Stalker rapist pleads guilty to 13 charges over attacks against women in 1990s",
+      "summary": "Glenn Gary Cameron’s identity had remained secret after he was arrested in early 2024 at Sydney airport after a breakthrough in forensic technology Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man accused of terrorising women in the early 1990s across Sydney, who was dubbed the Night Stalker, has pleaded guilty to 13 charges. The man appeared before Downing Centre local court on Thursday, weeks after the serial rapist was unmasked as Glenn Gary Cameron. His identity had remained a secret since he was arrested more than 18 months ago due to suppression orders. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2025/sep/23/sydney-night-stalker-rapist-pleads-guilty-13-charges-over-1990s-attacks-against-women-ntwnfb",
+      "source": "World news | The Guardian",
+      "published_at": "2025-09-23T05:13:14+00:00",
+      "tags": [
+        "Australia",
+        "SYD",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Sydney",
+        "city": "Sydney",
+        "country": "Australia",
+        "iata": "SYD",
+        "lat": -33.9399,
+        "lon": 151.1753
+      }
+    },
+    {
+      "id": "2b85cdba79e29b26",
+      "title_orig": "‘Curiosity’: Bizarre story of Afghan boy who 'wheel-well stowaway'-ed to Delhi in plane's landing gear",
+      "summary_orig": "A 13-year-old boy from Afghanistan left airport authorities stunned on Sunday when he arrived at Delhi airport hiding inside a plane's landing gear compartment.",
+      "lang": "en",
+      "title_en": "‘Curiosity’: Bizarre story of Afghan boy who 'wheel-well stowaway'-ed to Delhi in plane's landing gear",
+      "summary_en": "A 13-year-old boy from Afghanistan left airport authorities stunned on Sunday when he arrived at Delhi airport hiding inside a plane's landing gear compartment.",
+      "title": "‘Curiosity’: Bizarre story of Afghan boy who 'wheel-well stowaway'-ed to Delhi in plane's landing gear",
+      "summary": "A 13-year-old boy from Afghanistan left airport authorities stunned on Sunday when he arrived at Delhi airport hiding inside a plane's landing gear compartment.",
+      "url": "https://www.hindustantimes.com/india-news/curiosity-bizarre-story-afghan-boy-wheel-well-stowaway-delhi-plane-landing-gear-kam-air-flight-101758602349639.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-09-23T05:13:14+00:00",
+      "tags": [
+        "DEL",
+        "India",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Indira Gandhi",
+        "city": "Delhi",
+        "country": "India",
+        "iata": "DEL",
+        "lat": 28.5562,
+        "lon": 77.1
+      }
+    },
+    {
+      "id": "3756b73a624d2eea",
+      "title_orig": "Hero bystanders tackle 'knifeman' in Leicester Square as four injured in horror late-night attack",
+      "summary_orig": "Brave passers-by help detain suspect before hero security guard steps in to disarm him",
+      "lang": "en",
+      "title_en": "Hero bystanders tackle 'knifeman' in Leicester Square as four injured in horror late-night attack",
+      "summary_en": "Brave passers-by help detain suspect before hero security guard steps in to disarm him",
+      "title": "Hero bystanders tackle 'knifeman' in Leicester Square as four injured in horror late-night attack",
+      "summary": "Brave passers-by help detain suspect before hero security guard steps in to disarm him",
+      "url": "https://www.standard.co.uk/news/crime/leicester-square-knifeman-public-security-guard-b1249056.html",
+      "source": "The Standard News",
+      "published_at": "2025-09-23T05:09:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d5a88d2014296e4b",
+      "title_orig": "Spanish city with '3000 hours of sunshine' you can fly to from Liverpool John Lennon Airport",
+      "summary_orig": "It's a destination that \"won't disappoint\"",
+      "lang": "en",
+      "title_en": "Spanish city with '3000 hours of sunshine' you can fly to from Liverpool John Lennon Airport",
+      "summary_en": "It's a destination that \"won't disappoint\"",
+      "title": "Spanish city with '3000 hours of sunshine' you can fly to from Liverpool John Lennon Airport",
+      "summary": "It's a destination that \"won't disappoint\"",
+      "url": "https://www.liverpoolecho.co.uk/travel/spanish-city-3000-hours-sunshine-32441243",
+      "source": "Liverpool Echo - News",
+      "published_at": "2025-09-23T05:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9be008bfd0ab7de1",
+      "title_orig": "Copenhagen Airport temporarily halts flights after drone sightings",
+      "summary_orig": "Flights at Copenhagen Airport have resumed after being suspended or diverted overnight because of drone sightings.",
+      "lang": "en",
+      "title_en": "Copenhagen Airport temporarily halts flights after drone sightings",
+      "summary_en": "Flights at Copenhagen Airport have resumed after being suspended or diverted overnight because of drone sightings.",
+      "title": "Copenhagen Airport temporarily halts flights after drone sightings",
+      "summary": "Flights at Copenhagen Airport have resumed after being suspended or diverted overnight because of drone sightings.",
+      "url": "https://www.seattletimes.com/business/copenhagen-airport-temporarily-halts-flights-after-drone-sightings/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-09-23T04:41:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "6c31998b3534730d",
       "title_orig": "Indomie carcinogen scare, Philippine flood scandal protests: 7 Asia highlights",
@@ -90,33 +234,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "231672716b95a90b",
-      "title_orig": "Sydney’s Night Stalker rapist pleads guilty to 13 charges over attacks against women in 1990s",
-      "summary_orig": "Glenn Gary Cameron’s identity had remained secret after he was arrested in early 2024 at Sydney airport after a breakthrough in forensic technology Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man accused of terrorising women in the early 1990s across Sydney, who was dubbed the Night Stalker, has pleaded guilty to 13 charges. The man appeared before Downing Centre local court on Thursday, weeks after the serial rapist was unmasked as Glenn Gary Cameron. His identity had remained a secret since he was arrested more than 18 months ago due to suppression orders. Continue reading...",
-      "lang": "en",
-      "title_en": "Sydney’s Night Stalker rapist pleads guilty to 13 charges over attacks against women in 1990s",
-      "summary_en": "Glenn Gary Cameron’s identity had remained secret after he was arrested in early 2024 at Sydney airport after a breakthrough in forensic technology Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man accused of terrorising women in the early 1990s across Sydney, who was dubbed the Night Stalker, has pleaded guilty to 13 charges. The man appeared before Downing Centre local court on Thursday, weeks after the serial rapist was unmasked as Glenn Gary Cameron. His identity had remained a secret since he was arrested more than 18 months ago due to suppression orders. Continue reading...",
-      "title": "Sydney’s Night Stalker rapist pleads guilty to 13 charges over attacks against women in 1990s",
-      "summary": "Glenn Gary Cameron’s identity had remained secret after he was arrested in early 2024 at Sydney airport after a breakthrough in forensic technology Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man accused of terrorising women in the early 1990s across Sydney, who was dubbed the Night Stalker, has pleaded guilty to 13 charges. The man appeared before Downing Centre local court on Thursday, weeks after the serial rapist was unmasked as Glenn Gary Cameron. His identity had remained a secret since he was arrested more than 18 months ago due to suppression orders. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2025/sep/23/sydney-night-stalker-rapist-pleads-guilty-13-charges-over-1990s-attacks-against-women-ntwnfb",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-23T03:44:50+00:00",
-      "tags": [
-        "Australia",
-        "SYD",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Sydney",
-        "city": "Sydney",
-        "country": "Australia",
-        "iata": "SYD",
-        "lat": -33.9399,
-        "lon": 151.1753
-      }
     },
     {
       "id": "0652999c80ddfd05",
@@ -227,24 +344,6 @@
       "geo": {}
     },
     {
-      "id": "105b44281732ce9d",
-      "title_orig": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
-      "summary_orig": "Both airports have been reopened, with Danish police unable to confirm where the drones came from.",
-      "lang": "en",
-      "title_en": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
-      "summary_en": "Both airports have been reopened, with Danish police unable to confirm where the drones came from.",
-      "title": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
-      "summary": "Both airports have been reopened, with Danish police unable to confirm where the drones came from.",
-      "url": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-09-23T03:05:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5309ea46bb6c0ac4",
       "title_orig": "Elderly robbery victim bravely tried in vain to fight off cashpoint attacker",
       "summary_orig": "The victim 'now makes any excuse not to leave the house' after the attack in Lower Parliament Street",
@@ -256,24 +355,6 @@
       "url": "https://www.nottinghampost.com/news/nottingham-news/elderly-robbery-victim-bravely-tried-10518530",
       "source": "Nottinghamshire Live - frontpage",
       "published_at": "2025-09-23T03:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7d935af8a033b314",
-      "title_orig": "Israeli drone strike kills five, including three children, in southern Lebanon",
-      "summary_orig": "The Israeli military said it was targeting a Hezbollah militant, and that he “operated from within a civilian population”.",
-      "lang": "en",
-      "title_en": "Israeli drone strike kills five, including three children, in southern Lebanon",
-      "summary_en": "The Israeli military said it was targeting a Hezbollah militant, and that he “operated from within a civilian population”.",
-      "title": "Israeli drone strike kills five, including three children, in southern Lebanon",
-      "summary": "The Israeli military said it was targeting a Hezbollah militant, and that he “operated from within a civilian population”.",
-      "url": "https://www.stuff.co.nz/world-news/360832740/israeli-drone-strike-kills-5-including-3-children-southern-lebanon",
-      "source": "Stuff - /",
-      "published_at": "2025-09-23T02:56:37+00:00",
       "tags": [
         "airport/security"
       ],
@@ -389,24 +470,6 @@
       "geo": {}
     },
     {
-      "id": "95c4394a4207f10a",
-      "title_orig": "NSW Police officer charged with assault over arrest of former Greens candidate",
-      "summary_orig": "Hannah Thomas was among a group of pro-Palestinian protesters who demonstrated outside a manufacturing facility in June when she sustained a serious eye injury during her arrest for failing to comply with a move on direction.",
-      "lang": "en",
-      "title_en": "NSW Police officer charged with assault over arrest of former Greens candidate",
-      "summary_en": "Hannah Thomas was among a group of pro-Palestinian protesters who demonstrated outside a manufacturing facility in June when she sustained a serious eye injury during her arrest for failing to comply with a move on direction.",
-      "title": "NSW Police officer charged with assault over arrest of former Greens candidate",
-      "summary": "Hannah Thomas was among a group of pro-Palestinian protesters who demonstrated outside a manufacturing facility in June when she sustained a serious eye injury during her arrest for failing to comply with a move on direction.",
-      "url": "https://www.abc.net.au/news/2025-09-23/nsw-officer-charged-assault-hannah-thomas-greens-arrest/105805966",
-      "source": "Just In",
-      "published_at": "2025-09-23T01:13:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a07e493ab91357da",
       "title_orig": "Abbas says Hamas must ‘surrender their weapons’ – as it happened",
       "summary_orig": "This blog is now closed. See our full report here The Israeli military, which justifies its assault on Gaza City by saying it wants to “destroy Hamas military infrastructure” hasn’t given a timeline for the ground offensive, but there are indications it could take months. Amid this flurry of diplomatic activity, Israel is continuing to launch deadly attacks on Gaza, including on Gaza City , the biggest urban centre in the territory. Continue reading...",
@@ -440,24 +503,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "71de89db57840d2b",
-      "title_orig": "Police officer charged with assault after Hannah Thomas injured at pro-Palestine protest in Sydney",
-      "summary_orig": "Senior constable charged with assault occasioning actual bodily harm due to appear in court in mid-November Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A New South Wales police officer has been charged with assaulting Hannah Thomas, who sustained a serious eye injury after she was arrested at a protest in June. Thomas was arrested and charged alongside four others at a pro-Palestine protest in Sydney on 27 June that was attended by about 60 people at SEC Plating. Continue reading...",
-      "lang": "en",
-      "title_en": "Police officer charged with assault after Hannah Thomas injured at pro-Palestine protest in Sydney",
-      "summary_en": "Senior constable charged with assault occasioning actual bodily harm due to appear in court in mid-November Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A New South Wales police officer has been charged with assaulting Hannah Thomas, who sustained a serious eye injury after she was arrested at a protest in June. Thomas was arrested and charged alongside four others at a pro-Palestine protest in Sydney on 27 June that was attended by about 60 people at SEC Plating. Continue reading...",
-      "title": "Police officer charged with assault after Hannah Thomas injured at pro-Palestine protest in Sydney",
-      "summary": "Senior constable charged with assault occasioning actual bodily harm due to appear in court in mid-November Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A New South Wales police officer has been charged with assaulting Hannah Thomas, who sustained a serious eye injury after she was arrested at a protest in June. Thomas was arrested and charged alongside four others at a pro-Palestine protest in Sydney on 27 June that was attended by about 60 people at SEC Plating. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2025/sep/23/hannah-thomas-nsw-police-officer-charged-assault-eye-injury-sydney-pro-palestine-protest-ntwnfb",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-23T00:53:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -893,24 +938,6 @@
       "geo": {}
     },
     {
-      "id": "3103c1af1772d69d",
-      "title_orig": "English GPs adopt ‘Jess’s rule’ to help ensure they do not miss serious illnesses",
-      "summary_orig": "‘Three strikes and rethink’ approach named after Jess Brady, who died after her cancer was misdiagnosed GPs across England are to adopt a “three strikes and rethink” approach to patients whose illnesses they cannot diagnose, under a safety initiative known as “Jess’s rule”. It is named after Jessica Brady, who died at the age of 27 of stage four cancer in December 2020 after experiencing abdominal pain, coughing, vomiting and weight loss for six months. Continue reading...",
-      "lang": "en",
-      "title_en": "English GPs adopt ‘Jess’s rule’ to help ensure they do not miss serious illnesses",
-      "summary_en": "‘Three strikes and rethink’ approach named after Jess Brady, who died after her cancer was misdiagnosed GPs across England are to adopt a “three strikes and rethink” approach to patients whose illnesses they cannot diagnose, under a safety initiative known as “Jess’s rule”. It is named after Jessica Brady, who died at the age of 27 of stage four cancer in December 2020 after experiencing abdominal pain, coughing, vomiting and weight loss for six months. Continue reading...",
-      "title": "English GPs adopt ‘Jess’s rule’ to help ensure they do not miss serious illnesses",
-      "summary": "‘Three strikes and rethink’ approach named after Jess Brady, who died after her cancer was misdiagnosed GPs across England are to adopt a “three strikes and rethink” approach to patients whose illnesses they cannot diagnose, under a safety initiative known as “Jess’s rule”. It is named after Jessica Brady, who died at the age of 27 of stage four cancer in December 2020 after experiencing abdominal pain, coughing, vomiting and weight loss for six months. Continue reading...",
-      "url": "https://www.theguardian.com/society/2025/sep/22/english-gps-adopt-jesss-rule-to-help-ensure-they-do-not-miss-serious-illnesses",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-09-22T21:30:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "bbd8775ff6be4697",
       "title_orig": "Protests can’t paper over rich countries’ need for foreign workers",
       "summary_orig": "Earlier this month, the UK witnessed protests calling for tighter immigration laws. The protest, which took place in central London, featured polarising figures such as convicted criminal Stephen Yaxley-Lennon, better known as Tommy Robinson, as well as French far-right politician Eric Zemmour and Elon Musk, who addressed the crowd virtually.\nThe crowd demanded that Britain be protected from immigrants – in particular those seen as Muslim – and their impact on rising prices.\nSuch...",
@@ -1119,12 +1146,12 @@
     },
     {
       "id": "c44822d4564b5e4c",
-      "title_orig": "Dozens of flights at major European airport grounded after ‘large drones’ spotted",
+      "title_orig": "‘Capable actor’ unleashes large drones on major European airport",
       "summary_orig": "There is a 'massive' police presence.",
       "lang": "en",
-      "title_en": "Dozens of flights at major European airport grounded after ‘large drones’ spotted",
+      "title_en": "‘Capable actor’ unleashes large drones on major European airport",
       "summary_en": "There is a 'massive' police presence.",
-      "title": "Dozens of flights at major European airport grounded after ‘large drones’ spotted",
+      "title": "‘Capable actor’ unleashes large drones on major European airport",
       "summary": "There is a 'massive' police presence.",
       "url": "https://metro.co.uk/2025/09/22/flights-copenhagen-airport-grounded-large-drones-spotted-24234930/",
       "source": "Metro",
@@ -1505,24 +1532,6 @@
       "geo": {}
     },
     {
-      "id": "47321fb72bf68b10",
-      "title_orig": "Search for gunman continues after man, 22, shot in the foot",
-      "summary_orig": "An investigation is ongoing after the gun attack in Gorton",
-      "lang": "en",
-      "title_en": "Search for gunman continues after man, 22, shot in the foot",
-      "summary_en": "An investigation is ongoing after the gun attack in Gorton",
-      "title": "Search for gunman continues after man, 22, shot in the foot",
-      "summary": "An investigation is ongoing after the gun attack in Gorton",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/search-gunman-continues-after-man-32529490",
-      "source": "MEN - News",
-      "published_at": "2025-09-22T17:34:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "fc14368ba4952657",
       "title_orig": "India, Morocco sign defence cooperation MoU to boost strategic partnership",
       "summary_orig": "Defence Minister Rajnath Singh also announces opening of a new Defence Wing at the Embassy of India in Rabat, Morocco’s capital; the MoU establishes a robust institutional framework for expanding ties, paving the way for collaboration in defence industry, joint exercises, military training, and capacity building",
@@ -1538,24 +1547,6 @@
         "diplomatic"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e78ba3ddbb3bfbab",
-      "title_orig": "‘A surreal journey’: Palestinian students evacuated from Gaza arrive in UK",
-      "summary_orig": "First 34 students, who have full scholarships, welcomed after months of campaigning by academics and others Middle East crisis – live updates A group of Palestinian scholars who have been awaiting evacuation from Gaza to take up their places at universities across the UK finally arrived on Monday after “a surreal journey from devastation to opportunity”. The 34 students, who all have fully funded scholarships, arrived in London and Manchester onboard three flights from Queen Alia international airport in Jordan. A number took onward flights to Northern Ireland and Scotland where they will purse their studies. Continue reading...",
-      "lang": "en",
-      "title_en": "‘A surreal journey’: Palestinian students evacuated from Gaza arrive in UK",
-      "summary_en": "First 34 students, who have full scholarships, welcomed after months of campaigning by academics and others Middle East crisis – live updates A group of Palestinian scholars who have been awaiting evacuation from Gaza to take up their places at universities across the UK finally arrived on Monday after “a surreal journey from devastation to opportunity”. The 34 students, who all have fully funded scholarships, arrived in London and Manchester onboard three flights from Queen Alia international airport in Jordan. A number took onward flights to Northern Ireland and Scotland where they will purse their studies. Continue reading...",
-      "title": "‘A surreal journey’: Palestinian students evacuated from Gaza arrive in UK",
-      "summary": "First 34 students, who have full scholarships, welcomed after months of campaigning by academics and others Middle East crisis – live updates A group of Palestinian scholars who have been awaiting evacuation from Gaza to take up their places at universities across the UK finally arrived on Monday after “a surreal journey from devastation to opportunity”. The 34 students, who all have fully funded scholarships, arrived in London and Manchester onboard three flights from Queen Alia international airport in Jordan. A number took onward flights to Northern Ireland and Scotland where they will purse their studies. Continue reading...",
-      "url": "https://www.theguardian.com/education/2025/sep/22/palestinian-students-evacuated-from-gaza-arrive-in-the-uk",
-      "source": "World news | The Guardian",
-      "published_at": "2025-09-22T17:31:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1847,24 +1838,6 @@
       "geo": {}
     },
     {
-      "id": "df7237ca3f9b40c4",
-      "title_orig": "Italy cautious on Palestinian recognition as protests grow",
-      "summary_orig": "On Monday, cities across Italy witnessed pro-Palestinian protests, strikes, and blockades, following union calls to “denounce the genocide in Gaza” and push for diplomatic and economic sanctions against Israel. Meanwhile, while neighbouring countries such as the UK and France move to recognise Palestinian statehood, the Italian government has opted for a more cautious approach.",
-      "lang": "en",
-      "title_en": "Italy cautious on Palestinian recognition as protests grow",
-      "summary_en": "On Monday, cities across Italy witnessed pro-Palestinian protests, strikes, and blockades, following union calls to “denounce the genocide in Gaza” and push for diplomatic and economic sanctions against Israel. Meanwhile, while neighbouring countries such as the UK and France move to recognise Palestinian statehood, the Italian government has opted for a more cautious approach.",
-      "title": "Italy cautious on Palestinian recognition as protests grow",
-      "summary": "On Monday, cities across Italy witnessed pro-Palestinian protests, strikes, and blockades, following union calls to “denounce the genocide in Gaza” and push for diplomatic and economic sanctions against Israel. Meanwhile, while neighbouring countries such as the UK and France move to recognise Palestinian statehood, the Italian government has opted for a more cautious approach.",
-      "url": "https://www.france24.com/en/video/20250922-italy-cautious-on-palestinian-recognition-as-protests-grow",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-09-22T15:49:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "9b97b2839e68687b",
       "title_orig": "Robber drives car at brave shop worker in terrifying Leeds shop attack",
       "summary_orig": "James Thrush has been sentenced to four years and seven months in jail",
@@ -1912,24 +1885,6 @@
       "url": "https://www.nottinghampost.com/news/local-news/gallery/greenpeace-activists-climb-75m-tall-10518176",
       "source": "Nottinghamshire Live - frontpage",
       "published_at": "2025-09-22T15:39:34+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4776e6e7605b5cc4",
-      "title_orig": "Exeter school under siege as vandals attack",
-      "summary_orig": "A school for vulnerable children has suffered a spate of vandalism, leaving staff disheartened",
-      "lang": "en",
-      "title_en": "Exeter school under siege as vandals attack",
-      "summary_en": "A school for vulnerable children has suffered a spate of vandalism, leaving staff disheartened",
-      "title": "Exeter school under siege as vandals attack",
-      "summary": "A school for vulnerable children has suffered a spate of vandalism, leaving staff disheartened",
-      "url": "https://www.devonlive.com/news/devon-news/exeter-school-under-siege-vandals-10518551",
-      "source": "Devon Live - frontpage",
-      "published_at": "2025-09-22T14:53:59+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2027,24 +1982,6 @@
       "geo": {}
     },
     {
-      "id": "3756b73a624d2eea",
-      "title_orig": "Hero bystanders tackle 'knifeman' in Leicester Square as four injured in horror late-night attack",
-      "summary_orig": "Brave passers-by help detain suspect before hero security guard steps in to disarm him",
-      "lang": "en",
-      "title_en": "Hero bystanders tackle 'knifeman' in Leicester Square as four injured in horror late-night attack",
-      "summary_en": "Brave passers-by help detain suspect before hero security guard steps in to disarm him",
-      "title": "Hero bystanders tackle 'knifeman' in Leicester Square as four injured in horror late-night attack",
-      "summary": "Brave passers-by help detain suspect before hero security guard steps in to disarm him",
-      "url": "https://www.standard.co.uk/news/crime/leicester-square-knifeman-public-security-guard-b1249056.html",
-      "source": "The Standard News",
-      "published_at": "2025-09-22T14:19:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "0debeca0d7051b34",
       "title_orig": "The PLA turned a Soviet-era fighter jet into a drone that could swarm Taiwan",
       "summary_orig": "The People’s Liberation Army has revealed a combat drone – converted from a retired 1950s J-6 fighter jet – that could be used for a swarm attack in a potential conflict across the Taiwan Strait.\nThe drone was unveiled at the Changchun air show in northeast China, which opened on Friday and finishes on Tuesday.\nIts appearance has confirmed years of speculation that the PLA was trying to repurpose its legacy fleet of J-6s.\nChina built thousands of the warplanes – based on the Soviet MiG-19 – from...",
@@ -2092,24 +2029,6 @@
       "url": "https://www.standard.co.uk/news/crime/axel-rudakubana-southport-poland-lancashire-banks-b1249053.html",
       "source": "The Standard News",
       "published_at": "2025-09-22T13:46:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "63eab389c8d9ef9c",
-      "title_orig": "Can the UK expand airports and still hit climate targets?",
-      "summary_orig": "Plans for the expansion of Gatwick, Heathrow and Luton could mean hundreds of thousands of additional flights a year.",
-      "lang": "en",
-      "title_en": "Can the UK expand airports and still hit climate targets?",
-      "summary_en": "Plans for the expansion of Gatwick, Heathrow and Luton could mean hundreds of thousands of additional flights a year.",
-      "title": "Can the UK expand airports and still hit climate targets?",
-      "summary": "Plans for the expansion of Gatwick, Heathrow and Luton could mean hundreds of thousands of additional flights a year.",
-      "url": "https://www.bbc.com/news/articles/cx2jpn881w0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-09-22T13:36:31+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2182,24 +2101,6 @@
       "url": "https://www.dawn.com/news/1943908/unidentified-suspects-booked-for-murder-of-three-transgender-people-in-karachi",
       "source": "Dawn - Home",
       "published_at": "2025-09-22T13:17:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0c44a188ebeb8fac",
-      "title_orig": "Woman dragged to the floor and punched by group of youths in terrifying Nottingham tram stop attack",
-      "summary_orig": "Three of the victim's friends were also assaulted by the large group at the Wilford Lane tram stop",
-      "lang": "en",
-      "title_en": "Woman dragged to the floor and punched by group of youths in terrifying Nottingham tram stop attack",
-      "summary_en": "Three of the victim's friends were also assaulted by the large group at the Wilford Lane tram stop",
-      "title": "Woman dragged to the floor and punched by group of youths in terrifying Nottingham tram stop attack",
-      "summary": "Three of the victim's friends were also assaulted by the large group at the Wilford Lane tram stop",
-      "url": "https://www.nottinghampost.com/news/nottingham-news/woman-dragged-floor-punched-group-10518197",
-      "source": "Nottinghamshire Live - frontpage",
-      "published_at": "2025-09-22T13:15:12+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2793,24 +2694,6 @@
       "geo": {}
     },
     {
-      "id": "e939fe3d8291e9b3",
-      "title_orig": "Russian attack on Zaporizhzhia kills three, governor says",
-      "summary_orig": "KYIV - A Russian morning attack on Ukraine's southeastern city of Zaporizhzhia killed three people and injured two more, officials said on Monday.",
-      "lang": "en",
-      "title_en": "Russian attack on Zaporizhzhia kills three, governor says",
-      "summary_en": "KYIV - A Russian morning attack on Ukraine's southeastern city of Zaporizhzhia killed three people and injured two more, officials said on Monday.",
-      "title": "Russian attack on Zaporizhzhia kills three, governor says",
-      "summary": "KYIV - A Russian morning attack on Ukraine's southeastern city of Zaporizhzhia killed three people and injured two more, officials said on Monday.",
-      "url": "https://www.straitstimes.com/world/europe/Russian-attack-on-Zaporizhzhia-kills-three-governor-says",
-      "source": "The Straits Times World News",
-      "published_at": "2025-09-22T09:21:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "efa6c6ae870c4416",
       "title_orig": "Watch Typhoon Ragasa live as ‘world’s strongest storm this year’ forces evacuations and flight disruptions",
       "summary_orig": "Watch live as Typhoon Ragasa, the most powerful storm recorded this year, passes through the Phillipines whilst China , Hong Kong and Taiwan go on high alert.",
@@ -2997,24 +2880,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "9613f470a4c4b37d",
-      "title_orig": "Israeli drone strikes kill five, including children, in southern Lebanon",
-      "summary_orig": "BEIRUT - An Israeli drone strike killed five people, including three children, in the southern Lebanese town of Bint Jbeil on Sunday, Lebanon's health ministry said.",
-      "lang": "en",
-      "title_en": "Israeli drone strikes kill five, including children, in southern Lebanon",
-      "summary_en": "BEIRUT - An Israeli drone strike killed five people, including three children, in the southern Lebanese town of Bint Jbeil on Sunday, Lebanon's health ministry said.",
-      "title": "Israeli drone strikes kill five, including children, in southern Lebanon",
-      "summary": "BEIRUT - An Israeli drone strike killed five people, including three children, in the southern Lebanese town of Bint Jbeil on Sunday, Lebanon's health ministry said.",
-      "url": "https://www.straitstimes.com/world/middle-east/Israeli-drone-strikes-kill-five-including-children-in-southern-Lebanon",
-      "source": "The Straits Times World News",
-      "published_at": "2025-09-22T04:21:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
