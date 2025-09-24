@@ -1,7 +1,4 @@
 import os
-import re
-import io
-import csv
 import json
 from textwrap import shorten
 from datetime import datetime
@@ -21,7 +18,7 @@ STATUS_JSON_URL = os.environ.get(
     "https://raw.githubusercontent.com/Freeloader8521/News-ticker/main/status.json",
 )
 
-# OpenAI
+# OpenAI (optional – for AI risk summary)
 OPENAI_API_KEY = st.secrets.get("OPENAI_API_KEY", "")
 DEFAULT_MODEL = st.secrets.get("OPENAI_MODEL", "gpt-4o-mini")
 
@@ -46,6 +43,22 @@ def fetch_json(url: str) -> Dict:
 def clamp_txt(s: str, limit: int) -> str:
     return shorten(s or "", width=limit, placeholder="…")
 
+def first_paragraph(s: str, max_chars: int = 500) -> str:
+    """
+    Return only the first paragraph (or first line if no blank line),
+    trimmed to max_chars with a clean word boundary and ellipsis.
+    """
+    if not s:
+        return ""
+    # Paragraph = split on blank line first, else first line
+    p = s.split("\n\n")[0].strip()
+    if not p:
+        p = s.split("\n")[0].strip()
+    # Trim overly long paragraphs
+    if len(p) > max_chars:
+        p = p[:max_chars].rsplit(" ", 1)[0] + "…"
+    return p
+
 def pick_language_text(it: Dict, translate_on: bool) -> (str, str):
     if translate_on:
         return it.get("title_en") or it.get("title") or it.get("title_orig") or "", \
@@ -54,17 +67,12 @@ def pick_language_text(it: Dict, translate_on: bool) -> (str, str):
         return it.get("title_orig") or it.get("title") or it.get("title_en") or "", \
                it.get("summary_orig") or it.get("summary") or it.get("summary_en") or ""
 
-# ---------------- OpenAI: risk summary ----------------
+# ---------------- OpenAI: risk summary (optional) ----------------
 @st.cache_data(ttl=300, show_spinner=False)
 def ai_risk_summary(cache_key: str, items: List[Dict], model: str, translate_on: bool) -> str:
-    """
-    cache_key is usually data['generated_at'] so we re-summarize only when new data arrives.
-    We keep the prompt small for cost—top ~80 relevant entries, each truncated.
-    """
     if not OPENAI_API_KEY:
         return "Set OPENAI_API_KEY in your Streamlit secrets to enable the AI summary."
 
-    # Select the most relevant items: keep airport/security & diplomatic first
     def is_risk(it):
         tags = it.get("tags", [])
         return ("airport/security" in tags) or ("diplomatic" in tags)
@@ -86,19 +94,19 @@ def ai_risk_summary(cache_key: str, items: List[Dict], model: str, translate_on:
         line = f"- {clamp_txt(title, 160)} | {typ} | {src} | {when}"
         if loc:
             line += f" | {loc}"
-        if summary:
-            line += f"\n  {clamp_txt(summary, 280)}"
+        fp = first_paragraph(summary, max_chars=280)
+        if fp:
+            line += f"\n  {fp}"
         lines.append(line)
 
     sys = (
         "You are an analyst for an aviation/physical security dashboard. "
-        "Given recent items, extract concrete, near-term risks to PHYSICAL well-being: "
-        "e.g., attacks near airports/transport, airspace closures, strikes causing safety gaps, "
-        "severe weather disrupting operations, evacuations, diplomatic incidents likely to spark protests. "
-        "Ignore finance/celebrity/politics unless it implies physical security or operations impact. "
-        "Be concise. Group by theme. Use bullet points. For each bullet add: "
-        "[Severity: low|moderate|high] and a crisp 3–7 word title, then one line detail "
-        "with where/when if present. Do NOT hallucinate. If uncertain, mark Severity: low."
+        "Given recent items, extract concrete, near-term risks to PHYSICAL well-being "
+        "and operations (airports/transport, airspace closures, strikes creating safety gaps, "
+        "severe weather, evacuations, protests with security impact). "
+        "Be concise and specific. Group by theme. Use bullet points. "
+        "Each bullet: [Severity: low|moderate|high] + short title + one-line detail with where/when. "
+        "Do NOT invent facts; if uncertain, mark Severity: low."
     )
     user = "Recent items:\n" + "\n".join(lines)
 
@@ -107,10 +115,7 @@ def ai_risk_summary(cache_key: str, items: List[Dict], model: str, translate_on:
         client = OpenAI(api_key=OPENAI_API_KEY)
         resp = client.chat.completions.create(
             model=model,
-            messages=[
-                {"role": "system", "content": sys},
-                {"role": "user", "content": user},
-            ],
+            messages=[{"role": "system", "content": sys}, {"role": "user", "content": user}],
             temperature=0.2,
             max_tokens=800,
         )
@@ -118,58 +123,9 @@ def ai_risk_summary(cache_key: str, items: List[Dict], model: str, translate_on:
     except Exception as ex:
         return f"⚠️ OpenAI error: {ex}"
 
-# -------- Parse AI bullets → rows for CSV export
-BULLET_RE = re.compile(r"^\s*[-•]\s+(.*)$")
-SEV_RE = re.compile(r"\[?\s*Severity\s*:\s*(low|moderate|high)\s*\]?", re.I)
-
-def parse_ai_summary_to_rows(text: str) -> List[Dict[str,str]]:
-    """
-    Very tolerant parser:
-    - takes lines starting with '-' or '•'
-    - tries to extract [Severity: X]
-    - splits 'Title — detail' or 'Title: detail' if present
-    """
-    rows = []
-    if not text:
-        return rows
-
-    for raw in text.splitlines():
-        m = BULLET_RE.match(raw)
-        if not m:
-            continue
-        line = m.group(1).strip()
-
-        # Severity
-        sev_match = SEV_RE.search(line)
-        sev = sev_match.group(1).lower() if sev_match else ""
-        line_wo_sev = SEV_RE.sub("", line).strip(" -–—:|")
-
-        # Title / detail split
-        # try em dash, colon, or pipe
-        parts = re.split(r"\s+[-–—:|]\s+", line_wo_sev, maxsplit=1)
-        if len(parts) == 2:
-            title, detail = parts[0].strip(), parts[1].strip()
-        else:
-            title, detail = line_wo_sev, ""
-
-        rows.append({"severity": sev, "title": title, "detail": detail})
-    return rows
-
-def rows_to_csv_bytes(rows: List[Dict[str,str]]) -> bytes:
-    buf = io.StringIO()
-    writer = csv.DictWriter(buf, fieldnames=["severity", "title", "detail"])
-    writer.writeheader()
-    for r in rows:
-        writer.writerow(r)
-    return buf.getvalue().encode("utf-8")
-
-def text_to_md_bytes(text: str) -> bytes:
-    return text.encode("utf-8")
-
 # ---------------- Layout ----------------
 st.set_page_config(page_title="Global Situational Awareness Dashboard", layout="wide")
 
-# CSS – force light mode, outlines on buttons, tidy headings
 st.markdown(
     """
     <style>
@@ -191,7 +147,7 @@ generated_at = data.get("generated_at")
 last = pretty_dt(generated_at) if generated_at else "n/a"
 
 # -------- Header Row
-st.title("Situational Awareness Dashboard")
+st.title("Global Situational Awareness Dashboard")
 headA, headB = st.columns([6, 1])
 with headA:
     st.markdown(f"**Last update:** {last}")
@@ -201,19 +157,19 @@ with headB:
             st.cache_data.clear()
             st.rerun()
 
-# -------- Translate ON/OFF pill
+# -------- Translate pill
 pill_col1, pill_col2 = st.columns([1, 5])
 with pill_col1:
     translate = st.toggle("Translate", value=True, help="Switch between original and English.")
 with pill_col2:
-    st.write("")  # spacer
+    st.write("")
 
-# -------- Status / progress (from status.json if available)
+# -------- Status / progress
 status = fetch_json(STATUS_JSON_URL)
 if status:
+    cur = status.get("current", "")
     done = int(status.get("done", 0))
     tot = max(1, int(status.get("total", 0)) or 1)
-    cur = status.get("current", "")
     finished = status.get("finished_at")
     state_line = f"Processed {done}/{tot}"
     if not finished and cur:
@@ -224,46 +180,21 @@ if status:
     with progB:
         st.caption(state_line)
 
-# -------- Risk summary (AI) + EXPORTS
+# -------- Risk summary (AI)
 with st.container(border=True):
-    topL, topR = st.columns([0.65, 0.35])
+    topL, topR = st.columns([0.7, 0.3])
     with topL:
         st.subheader("Risk summary (AI)")
-        st.caption("Auto-extracted, near-term physical safety/operations risks from the latest items.")
+        st.caption("Auto-extracted physical safety/operations risks from the latest items.")
     with topR:
         model = st.selectbox("Model", [DEFAULT_MODEL, "gpt-4o", "gpt-4.1-mini"], index=0)
-        gen_now = st.button("Generate summary", help="Uses your OpenAI key (set in Secrets).")
-
+        gen_now = st.button("Generate summary")
     memo_key = f"{generated_at}|{model}|{int(bool(translate))}"
     if gen_now:
         with st.spinner("Analyzing items with OpenAI…"):
-            summary = ai_risk_summary(memo_key, items, model, translate)
-            st.session_state["ai_summary"] = summary
-
+            st.session_state["ai_summary"] = ai_risk_summary(memo_key, items, model, translate)
     if "ai_summary" in st.session_state:
         st.markdown(st.session_state["ai_summary"])
-
-        # --- Export buttons
-        rows = parse_ai_summary_to_rows(st.session_state["ai_summary"])
-        colDL1, colDL2, _ = st.columns([0.22, 0.22, 0.56])
-        with colDL1:
-            st.download_button(
-                "Download CSV",
-                data=rows_to_csv_bytes(rows),
-                file_name="risk_summary.csv",
-                mime="text/csv",
-                help="CSV with severity, title, detail",
-                use_container_width=True,
-            )
-        with colDL2:
-            st.download_button(
-                "Download Markdown",
-                data=text_to_md_bytes(st.session_state["ai_summary"]),
-                file_name="risk_summary.md",
-                mime="text/markdown",
-                help="Markdown of the AI bullet list",
-                use_container_width=True,
-            )
     else:
         st.info("Click **Generate summary** to create an AI overview of key risks.")
 
@@ -300,10 +231,11 @@ with colFeed:
         st.markdown(f"### {title}")
         meta = f"{it.get('source') or ''} | {pretty_dt(it.get('published_at') or '')}"
         st.caption(meta)
-        if summary:
-            st.markdown(summary)
+        fp = first_paragraph(summary, max_chars=600)
+        if fp:
+            st.markdown(fp)
         if it.get("url"):
-            st.markdown(f"[Open source]({it['url']})")
+            st.markdown(f"[Read more →]({it['url']})")
         st.markdown("---")
 
 # Social media
@@ -316,8 +248,9 @@ with colSocial:
         st.markdown(f"### {title}")
         meta = f"{it.get('source') or ''} | {pretty_dt(it.get('published_at') or '')}"
         st.caption(meta)
-        if summary:
-            st.markdown(summary)
+        fp = first_paragraph(summary, max_chars=400)
+        if fp:
+            st.markdown(fp)
         if it.get("url"):
             st.markdown(f"[Open source]({it['url']})")
         st.markdown("---")
