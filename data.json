@@ -1,18 +1,153 @@
 {
-  "generated_at": "2025-09-28T19:28:06.040230+00:00",
+  "generated_at": "2025-09-28T19:44:58.445770+00:00",
   "items": [
     {
+      "id": "09d41c8d57d922a9",
+      "title_orig": "1 dead, 9 injured in Michigan church shooting; suspect also dead, police say",
+      "summary_orig": "The church, which is about 50 miles north of Detroit, appeared to be on fire after the attack.",
+      "lang": "en",
+      "title_en": "1 dead, 9 injured in Michigan church shooting; suspect also dead, police say",
+      "summary_en": "The church, which is about 50 miles north of Detroit, appeared to be on fire after the attack.",
+      "title": "1 dead, 9 injured in Michigan church shooting; suspect also dead, police say",
+      "summary": "The church, which is about 50 miles north of Detroit, appeared to be on fire after the attack.",
+      "url": "https://www.kgw.com/article/news/nation-world/multiple-people-shot-at-mormon-church-in-michigan/507-00c65d16-acbb-4d98-84a2-4ceeb888ba6f",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2025-09-28T19:33:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e1bbe8adea20c96f",
+      "title_orig": "Woman charged with murder over Matatā car attack",
+      "summary_orig": "One person died and another was hospitalised.",
+      "lang": "en",
+      "title_en": "Woman charged with murder over Matatā car attack",
+      "summary_en": "One person died and another was hospitalised.",
+      "title": "Woman charged with murder over Matatā car attack",
+      "summary": "One person died and another was hospitalised.",
+      "url": "https://www.stuff.co.nz/nz-news/360837732/woman-charged-murder-over-matata-car-attack",
+      "source": "Stuff - /",
+      "published_at": "2025-09-28T19:32:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a23bfd959d592be5",
+      "title_orig": "A list of notable shooting attacks on houses of worship in the US in the past 20 years",
+      "summary_orig": "A gunman opened fire inside a Michigan church during Sunday services, the latest of many shooting attacks on houses of worship in the U.S. over the past 20 years.",
+      "lang": "en",
+      "title_en": "A list of notable shooting attacks on houses of worship in the US in the past 20 years",
+      "summary_en": "A gunman opened fire inside a Michigan church during Sunday services, the latest of many shooting attacks on houses of worship in the U.S. over the past 20 years.",
+      "title": "A list of notable shooting attacks on houses of worship in the US in the past 20 years",
+      "summary": "A gunman opened fire inside a Michigan church during Sunday services, the latest of many shooting attacks on houses of worship in the U.S. over the past 20 years.",
+      "url": "https://www.kgw.com/article/news/nation-world/notable-shooting-attacks-on-houses-of-worship/507-29ba91a3-74ab-4545-9ed3-6cee1318b7bf",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2025-09-28T19:26:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c300658cd28b1af8",
+      "title_orig": "George Galloway detained at Gatwick Airport by counter-terrorism police and 'held for nine hours'",
+      "summary_orig": "British Workers Party leader George Galloway said he was held for nine hours at Gatwick Airport",
+      "lang": "en",
+      "title_en": "George Galloway detained at Gatwick Airport by counter-terrorism police and 'held for nine hours'",
+      "summary_en": "British Workers Party leader George Galloway said he was held for nine hours at Gatwick Airport",
+      "title": "George Galloway detained at Gatwick Airport by counter-terrorism police and 'held for nine hours'",
+      "summary": "British Workers Party leader George Galloway said he was held for nine hours at Gatwick Airport",
+      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/george-galloway-detained-gatwick-airport-32569033",
+      "source": "MEN - News",
+      "published_at": "2025-09-28T19:25:43+00:00",
+      "tags": [
+        "LGW",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Gatwick",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LGW",
+        "lat": 51.1537,
+        "lon": -0.1821
+      }
+    },
+    {
       "id": "e1fdf91918ecf191",
-      "title_orig": "At least one dead and nine injured in shooting at Mormon church in Michigan",
+      "title_orig": "At least two dead and several injured in shooting at Mormon church in Michigan",
       "summary_orig": "Police say \"hundreds\" of people were attending Sunday service when the attacker drove a vehicle into the church and opened fire.",
       "lang": "en",
-      "title_en": "At least one dead and nine injured in shooting at Mormon church in Michigan",
+      "title_en": "At least two dead and several injured in shooting at Mormon church in Michigan",
       "summary_en": "Police say \"hundreds\" of people were attending Sunday service when the attacker drove a vehicle into the church and opened fire.",
-      "title": "At least one dead and nine injured in shooting at Mormon church in Michigan",
+      "title": "At least two dead and several injured in shooting at Mormon church in Michigan",
       "summary": "Police say \"hundreds\" of people were attending Sunday service when the attacker drove a vehicle into the church and opened fire.",
       "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2025-09-28T19:17:06+00:00",
+      "published_at": "2025-09-28T19:23:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c525f7201bec8799",
+      "title_orig": "Palestine Action protesters arrested outside Labour conference in Liverpool – video",
+      "summary_orig": "Police made a number of arrests at a protest supporting the banned group Palestine Action outside the Labour party conference in Liverpool on Sunday Continue reading...",
+      "lang": "en",
+      "title_en": "Palestine Action protesters arrested outside Labour conference in Liverpool – video",
+      "summary_en": "Police made a number of arrests at a protest supporting the banned group Palestine Action outside the Labour party conference in Liverpool on Sunday Continue reading...",
+      "title": "Palestine Action protesters arrested outside Labour conference in Liverpool – video",
+      "summary": "Police made a number of arrests at a protest supporting the banned group Palestine Action outside the Labour party conference in Liverpool on Sunday Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/video/2025/sep/28/palestine-action-protesters-arrested-outside-labour-conference-in-liverpool-video",
+      "source": "UK news | The Guardian",
+      "published_at": "2025-09-28T19:17:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "67ea7088215b14bc",
+      "title_orig": "George Galloway ‘held for nine hours’ at airport by counter terror police",
+      "summary_orig": "Reports said he had returned to the UK from Moscow via Abu Dhabi.",
+      "lang": "en",
+      "title_en": "George Galloway ‘held for nine hours’ at airport by counter terror police",
+      "summary_en": "Reports said he had returned to the UK from Moscow via Abu Dhabi.",
+      "title": "George Galloway ‘held for nine hours’ at airport by counter terror police",
+      "summary": "Reports said he had returned to the UK from Moscow via Abu Dhabi.",
+      "url": "https://www.standard.co.uk/news/uk/george-galloway-moscow-abu-dhabi-talk-shows-police-b1250146.html",
+      "source": "The Standard News",
+      "published_at": "2025-09-28T19:16:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e1bab3cff19b3225",
+      "title_orig": "All quiet outside ICE building in S. Portland, but worries build there’s ‘going to be trouble’",
+      "summary_orig": "The street outside the ICE building has consistently seen a couple dozen protesters every day for the past two months, and the demonstrations have been loud but mostly peaceful.",
+      "lang": "en",
+      "title_en": "All quiet outside ICE building in S. Portland, but worries build there’s ‘going to be trouble’",
+      "summary_en": "The street outside the ICE building has consistently seen a couple dozen protesters every day for the past two months, and the demonstrations have been loud but mostly peaceful.",
+      "title": "All quiet outside ICE building in S. Portland, but worries build there’s ‘going to be trouble’",
+      "summary": "The street outside the ICE building has consistently seen a couple dozen protesters every day for the past two months, and the demonstrations have been loud but mostly peaceful.",
+      "url": "https://www.oregonlive.com/portland/2025/09/quiet-morning-outside-ice-building-in-s-portland-but-some-locals-worry-theres-going-to-be-trouble.html",
+      "source": "oregonlive.com",
+      "published_at": "2025-09-28T19:16:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -56,17 +191,17 @@
       "geo": {}
     },
     {
-      "id": "7b0242246216558d",
-      "title_orig": "Luxon: ‘You can’t recognise a state when terrorists play a significant role’",
-      "summary_orig": "Prime Minister Christopher Luxon says he’s pleased with the Government’s decision not to recognise Palestinian statehood.",
+      "id": "2180873a5e53d8a1",
+      "title_orig": "A list of notable shooting attacks on houses of worship in the US in the past 20 years",
+      "summary_orig": "A gunman opened fire inside a Michigan church during Sunday services, inflicting casualties after ramming his vehicle into the front door of The Church of Jesus Christ of Latter-day Saints in Grand Blanc Township.",
       "lang": "en",
-      "title_en": "Luxon: ‘You can’t recognise a state when terrorists play a significant role’",
-      "summary_en": "Prime Minister Christopher Luxon says he’s pleased with the Government’s decision not to recognise Palestinian statehood.",
-      "title": "Luxon: ‘You can’t recognise a state when terrorists play a significant role’",
-      "summary": "Prime Minister Christopher Luxon says he’s pleased with the Government’s decision not to recognise Palestinian statehood.",
-      "url": "https://www.stuff.co.nz/politics/360837691/luxon-you-cant-recognise-state-when-terrorists-play-significant-role",
-      "source": "Stuff - /",
-      "published_at": "2025-09-28T19:07:02+00:00",
+      "title_en": "A list of notable shooting attacks on houses of worship in the US in the past 20 years",
+      "summary_en": "A gunman opened fire inside a Michigan church during Sunday services, inflicting casualties after ramming his vehicle into the front door of The Church of Jesus Christ of Latter-day Saints in Grand Blanc Township.",
+      "title": "A list of notable shooting attacks on houses of worship in the US in the past 20 years",
+      "summary": "A gunman opened fire inside a Michigan church during Sunday services, inflicting casualties after ramming his vehicle into the front door of The Church of Jesus Christ of Latter-day Saints in Grand Blanc Township.",
+      "url": "https://www.seattletimes.com/nation-world/nation/a-list-of-notable-shooting-attacks-on-houses-of-worship-in-the-us-in-the-past-20-years/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-09-28T19:01:20+00:00",
       "tags": [
         "airport/security"
       ],
@@ -85,24 +220,6 @@
       "url": "https://www.abc.net.au/news/2025-09-29/fusion-energy-china-united-states-coal/105720436",
       "source": "Just In",
       "published_at": "2025-09-28T19:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "09d41c8d57d922a9",
-      "title_orig": "1 dead, 9 injured in Michigan church shooting; suspect also dead, police say",
-      "summary_orig": "The church, which is about 50 miles north of Detroit, appeared to be on fire after the attack.",
-      "lang": "en",
-      "title_en": "1 dead, 9 injured in Michigan church shooting; suspect also dead, police say",
-      "summary_en": "The church, which is about 50 miles north of Detroit, appeared to be on fire after the attack.",
-      "title": "1 dead, 9 injured in Michigan church shooting; suspect also dead, police say",
-      "summary": "The church, which is about 50 miles north of Detroit, appeared to be on fire after the attack.",
-      "url": "https://www.kgw.com/article/news/nation-world/multiple-people-shot-at-mormon-church-in-michigan/507-00c65d16-acbb-4d98-84a2-4ceeb888ba6f",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2025-09-28T18:59:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -362,6 +479,24 @@
       "geo": {}
     },
     {
+      "id": "591d1ce1bef70701",
+      "title_orig": "Two hikers injured fighting off bear attack on Alaska trail, troopers say",
+      "summary_orig": "A bear attack on a Kenai Fjords National Park trail injured two hikers who fought off the animal, Alaska State Troopers reported.",
+      "lang": "en",
+      "title_en": "Two hikers injured fighting off bear attack on Alaska trail, troopers say",
+      "summary_en": "A bear attack on a Kenai Fjords National Park trail injured two hikers who fought off the animal, Alaska State Troopers reported.",
+      "title": "Two hikers injured fighting off bear attack on Alaska trail, troopers say",
+      "summary": "A bear attack on a Kenai Fjords National Park trail injured two hikers who fought off the animal, Alaska State Troopers reported.",
+      "url": "https://www.seattletimes.com/nation-world/two-hikers-injured-fighting-off-bear-attack-on-alaska-trail-troopers-say/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-09-28T17:30:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "cb24502870f196f6",
       "title_orig": "Arrest after three sex attacks in Birmingham and Thames Valley",
       "summary_orig": "West Midlands Police said the alleged offences happened against one victim",
@@ -497,6 +632,24 @@
       }
     },
     {
+      "id": "9b0191b0b7fd75df",
+      "title_orig": "Things to know about federal law enforcement activity in Portland, Chicago, Memphis",
+      "summary_orig": "President Donald Trump's announcement that he will send troops to Portland, agents clashing with protesters near an immigration enforcement building in suburban Chicago, and the expected arrival of the National Guard in Memphis are the most recent examples of federal law enforcement crackdowns in U.S. cities.",
+      "lang": "en",
+      "title_en": "Things to know about federal law enforcement activity in Portland, Chicago, Memphis",
+      "summary_en": "President Donald Trump's announcement that he will send troops to Portland, agents clashing with protesters near an immigration enforcement building in suburban Chicago, and the expected arrival of the National Guard in Memphis are the most recent examples of federal law enforcement crackdowns in U.S. cities.",
+      "title": "Things to know about federal law enforcement activity in Portland, Chicago, Memphis",
+      "summary": "President Donald Trump's announcement that he will send troops to Portland, agents clashing with protesters near an immigration enforcement building in suburban Chicago, and the expected arrival of the National Guard in Memphis are the most recent examples of federal law enforcement crackdowns in U.S. cities.",
+      "url": "https://www.seattletimes.com/nation-world/nation/things-to-know-about-federal-law-enforcement-activity-in-portland-chicago-memphis/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-09-28T17:02:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "eb6e92ffcdb9b5ef",
       "title_orig": "State police bomb squad at scene of Mormon church shooting",
       "summary_orig": "An active shooter was reported at The Church of Jesus Christ of Latter-day Saints, 4285 McCandlish Road, in Grand Blanc, Sunday, Sept. 28.",
@@ -526,6 +679,24 @@
       "url": "https://www.manchestereveningnews.co.uk/news/uk-news/zakynthos-airport-chaos-sees-flights-32568656",
       "source": "MEN - News",
       "published_at": "2025-09-28T16:54:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2d6d1b65f0d33dfa",
+      "title_orig": "Young Moroccans clash with police while protesting stadium spending and health system decline",
+      "summary_orig": "Youth-led demonstrators have clashed with police in Morocco's largest anti-government protests in years.",
+      "lang": "en",
+      "title_en": "Young Moroccans clash with police while protesting stadium spending and health system decline",
+      "summary_en": "Youth-led demonstrators have clashed with police in Morocco's largest anti-government protests in years.",
+      "title": "Young Moroccans clash with police while protesting stadium spending and health system decline",
+      "summary": "Youth-led demonstrators have clashed with police in Morocco's largest anti-government protests in years.",
+      "url": "https://www.seattletimes.com/business/young-moroccans-clash-with-police-while-protesting-stadium-spending-and-health-system-decline/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-09-28T16:42:30+00:00",
       "tags": [
         "airport/security"
       ],
@@ -857,6 +1028,24 @@
       "geo": {}
     },
     {
+      "id": "4e859cf530202bac",
+      "title_orig": "Denmark reports new drone sightings at armed forces’ locations. NATO boosts Baltic Sea vigilance",
+      "summary_orig": "Denmark's defense ministry has reported again observing drones at several military locations overnight.",
+      "lang": "en",
+      "title_en": "Denmark reports new drone sightings at armed forces’ locations. NATO boosts Baltic Sea vigilance",
+      "summary_en": "Denmark's defense ministry has reported again observing drones at several military locations overnight.",
+      "title": "Denmark reports new drone sightings at armed forces’ locations. NATO boosts Baltic Sea vigilance",
+      "summary": "Denmark's defense ministry has reported again observing drones at several military locations overnight.",
+      "url": "https://www.seattletimes.com/nation-world/world/denmark-reports-new-drone-sightings-at-armed-forces-locations-nato-boosts-baltic-sea-vigilance/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-09-28T15:22:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "ceed18f717343d2f",
       "title_orig": "LDF backs NSS leadership that is under fire for endorsing government’s Sabarimala policy",
       "summary_orig": "Transport Minister K.B. Ganesh Kumar slams “scattered protests by a few disgruntled elements” and says Sukumaran Nair has not veered from NSS’s stated principle of political equi-distance",
@@ -886,6 +1075,24 @@
       "url": "https://www.belfastlive.co.uk/news/northern-ireland/derry-arson-sees-accelerant-poured-32567274",
       "source": "BelfastLive - Home",
       "published_at": "2025-09-28T15:17:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0bcf0b262c5b7597",
+      "title_orig": "50 years of Giorgio Armani celebrated with gala black-tie runway show of his last collection",
+      "summary_orig": "The final Giorgio Armani runway collection signed by the late designer is set to be shown in Milan.",
+      "lang": "en",
+      "title_en": "50 years of Giorgio Armani celebrated with gala black-tie runway show of his last collection",
+      "summary_en": "The final Giorgio Armani runway collection signed by the late designer is set to be shown in Milan.",
+      "title": "50 years of Giorgio Armani celebrated with gala black-tie runway show of his last collection",
+      "summary": "The final Giorgio Armani runway collection signed by the late designer is set to be shown in Milan.",
+      "url": "https://www.seattletimes.com/entertainment/50-years-of-giorgio-armani-celebrated-with-gala-black-runway-show-of-his-last-collection/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-09-28T15:17:27+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1192,6 +1399,24 @@
       "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/new-flights-edinburgh-take-passengers-32567879",
       "source": "Edinburgh Live - News",
       "published_at": "2025-09-28T14:07:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "64996af70ad50c07",
+      "title_orig": "Liberatore puts models on emergency escape, drawing attention to global chaos",
+      "summary_orig": "Francesca Liberatore wanted to address global turmoil during her Milan Fashion Week runway show but not through the collection.",
+      "lang": "en",
+      "title_en": "Liberatore puts models on emergency escape, drawing attention to global chaos",
+      "summary_en": "Francesca Liberatore wanted to address global turmoil during her Milan Fashion Week runway show but not through the collection.",
+      "title": "Liberatore puts models on emergency escape, drawing attention to global chaos",
+      "summary": "Francesca Liberatore wanted to address global turmoil during her Milan Fashion Week runway show but not through the collection.",
+      "url": "https://www.seattletimes.com/entertainment/liberatore-puts-models-on-emergency-escape-drawing-attention-to-global-chaos/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-09-28T14:02:15+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2759,24 +2984,6 @@
       "url": "https://www.kgw.com/article/news/local/oregon-leaders-response-trump-troops-portland/283-61eba668-211d-4351-8e46-cd9846723918",
       "source": "KGW RSS Feed: news",
       "published_at": "2025-09-28T01:53:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a5a5dad54f2e7f10",
-      "title_orig": "Police speaking to woman after attack in car that ran off the road, leaving one dead",
-      "summary_orig": "Police are continuing to investigate after a person died during a serious incident in Matatā yesterday.",
-      "lang": "en",
-      "title_en": "Police speaking to woman after attack in car that ran off the road, leaving one dead",
-      "summary_en": "Police are continuing to investigate after a person died during a serious incident in Matatā yesterday.",
-      "title": "Police speaking to woman after attack in car that ran off the road, leaving one dead",
-      "summary": "Police are continuing to investigate after a person died during a serious incident in Matatā yesterday.",
-      "url": "https://www.stuff.co.nz/nz-news/360837562/police-speaking-woman-after-attack-car-ran-road-leaving-one-dead",
-      "source": "Stuff - /",
-      "published_at": "2025-09-28T01:36:46+00:00",
       "tags": [
         "airport/security"
       ],
