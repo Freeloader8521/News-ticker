@@ -1,6 +1,42 @@
 {
-  "generated_at": "2025-09-29T22:34:37.745865+00:00",
+  "generated_at": "2025-09-29T22:45:19.874171+00:00",
   "items": [
+    {
+      "id": "aca16d483f2aa72c",
+      "title_orig": "Madagascan government dissolved after deadly protests killed 22 people",
+      "summary_orig": "Youth-led protests over water and power cuts in Madagascar lasted three days and were the largest the island had seen in years.",
+      "lang": "en",
+      "title_en": "Madagascan government dissolved after deadly protests killed 22 people",
+      "summary_en": "Youth-led protests over water and power cuts in Madagascar lasted three days and were the largest the island had seen in years.",
+      "title": "Madagascan government dissolved after deadly protests killed 22 people",
+      "summary": "Youth-led protests over water and power cuts in Madagascar lasted three days and were the largest the island had seen in years.",
+      "url": "https://www.abc.net.au/news/2025-09-30/madagascan-government-dissolved/105833316",
+      "source": "Just In",
+      "published_at": "2025-09-29T22:42:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "363c47a23b25f42a",
+      "title_orig": "Man who attacked Michigan church became ‘unhinged’ when talking about Mormon faith",
+      "summary_orig": "DETROIT (AP) — The man who shot up a Michigan church and set a fire that killed four people was…",
+      "lang": "en",
+      "title_en": "Man who attacked Michigan church became ‘unhinged’ when talking about Mormon faith",
+      "summary_en": "DETROIT (AP) — The man who shot up a Michigan church and set a fire that killed four people was…",
+      "title": "Man who attacked Michigan church became ‘unhinged’ when talking about Mormon faith",
+      "summary": "DETROIT (AP) — The man who shot up a Michigan church and set a fire that killed four people was…",
+      "url": "https://wtop.com/national/2025/09/man-who-attacked-michigan-church-became-unhinged-when-talking-about-mormon-faith/",
+      "source": "WTOP News",
+      "published_at": "2025-09-29T22:30:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "91330a2e1b65b9bf",
       "title_orig": "See drone footage of aftermath at Grand Blanc LDS Church",
@@ -56,24 +92,6 @@
       "geo": {}
     },
     {
-      "id": "0125c68582070052",
-      "title_orig": "Death toll from attack at Michigan church stays at 4 after police sweep charred ruins",
-      "summary_orig": "Investigators were focusing on what motivated a former Marine to ram a pickup truck into the sanctuary of a Church of Jesus Christ of Latter-day Saints in Michigan and open fire during a crowded service, killing at least four people while setting the building ablaze.",
-      "lang": "en",
-      "title_en": "Death toll from attack at Michigan church stays at 4 after police sweep charred ruins",
-      "summary_en": "Investigators were focusing on what motivated a former Marine to ram a pickup truck into the sanctuary of a Church of Jesus Christ of Latter-day Saints in Michigan and open fire during a crowded service, killing at least four people while setting the building ablaze.",
-      "title": "Death toll from attack at Michigan church stays at 4 after police sweep charred ruins",
-      "summary": "Investigators were focusing on what motivated a former Marine to ram a pickup truck into the sanctuary of a Church of Jesus Christ of Latter-day Saints in Michigan and open fire during a crowded service, killing at least four people while setting the building ablaze.",
-      "url": "https://wtop.com/national/2025/09/police-remain-on-scene-at-burned-out-michigan-church-after-shooting-and-fire-leave-4-dead-8-wounded/",
-      "source": "WTOP News",
-      "published_at": "2025-09-29T22:03:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "93475fe6fbcd98a4",
       "title_orig": "American Airlines Airbus A321 Slams On Brakes During Takeoff As AeroLogic Boeing 777 Crosses Runway At LAX",
       "summary_orig": "A disaster was narrowly avoided at LAX thanks to the sharpness and quick thinking of pilots and the controller. Here's what happened and why.",
@@ -85,24 +103,6 @@
       "url": "https://simpleflying.com/american-airlines-airbus-a321-slams-brakes-takeoff-aerologic-boeing-777-crosses-runway-lax/",
       "source": "Simple Flying",
       "published_at": "2025-09-29T22:03:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2ca22fd038af4c08",
-      "title_orig": "Colombia’s foreign minister ‘renounces’ her US visa as tensions between both nations escalate",
-      "summary_orig": "BOGOTA, Colombia (AP) — Colombia’s foreign minister has “renounced” her U.S. visa to protest a decision by the U.S. State…",
-      "lang": "en",
-      "title_en": "Colombia’s foreign minister ‘renounces’ her US visa as tensions between both nations escalate",
-      "summary_en": "BOGOTA, Colombia (AP) — Colombia’s foreign minister has “renounced” her U.S. visa to protest a decision by the U.S. State…",
-      "title": "Colombia’s foreign minister ‘renounces’ her US visa as tensions between both nations escalate",
-      "summary": "BOGOTA, Colombia (AP) — Colombia’s foreign minister has “renounced” her U.S. visa to protest a decision by the U.S. State…",
-      "url": "https://wtop.com/world/2025/09/colombias-foreign-minister-renounces-her-us-visa-as-tensions-between-both-nations-escalate/",
-      "source": "WTOP News",
-      "published_at": "2025-09-29T22:03:32+00:00",
       "tags": [
         "airport/security"
       ],
@@ -418,12 +418,12 @@
     {
       "id": "54e831a964100ea3",
       "title_orig": "‘Suspicious’ box strapped to tree near City Hall is a state noise monitor for I-81 project",
-      "summary_orig": "Syracuse City Hall and neighboring business were evacuated and streets closed Monday after the box was spotted. Police brought in drone, robot.",
+      "summary_orig": "Syracuse City Hall and neighboring business were evacuated and streets closed Monday after the box was spotted. Police brought in a drone, robot.",
       "lang": "en",
       "title_en": "‘Suspicious’ box strapped to tree near City Hall is a state noise monitor for I-81 project",
-      "summary_en": "Syracuse City Hall and neighboring business were evacuated and streets closed Monday after the box was spotted. Police brought in drone, robot.",
+      "summary_en": "Syracuse City Hall and neighboring business were evacuated and streets closed Monday after the box was spotted. Police brought in a drone, robot.",
       "title": "‘Suspicious’ box strapped to tree near City Hall is a state noise monitor for I-81 project",
-      "summary": "Syracuse City Hall and neighboring business were evacuated and streets closed Monday after the box was spotted. Police brought in drone, robot.",
+      "summary": "Syracuse City Hall and neighboring business were evacuated and streets closed Monday after the box was spotted. Police brought in a drone, robot.",
       "url": "https://www.syracuse.com/news/2025/09/suspicious-box-strapped-to-tree-near-city-hall-is-a-state-noise-monitor-for-i-81-project.html",
       "source": "syracuse.com",
       "published_at": "2025-09-29T20:13:47+00:00",
@@ -1073,24 +1073,6 @@
       "title": "New Report Uncovers Nashville’s Alarming Safety Risks Due To Ongoing ATC Shortage",
       "summary": "The airport is in the news for a concerning reason.",
       "url": "https://simpleflying.com/new-report-nashville-safety-risks-atc-shortage/",
-      "source": "Simple Flying",
-      "published_at": "2025-09-29T18:00:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "11148e26e4c704da",
-      "title_orig": "Pilot Insights: The Hardest Airports In The World To Land At",
-      "summary_orig": "A look at some of the most challenging approaches in the world, and what makes them so difficult for pilots?",
-      "lang": "en",
-      "title_en": "Pilot Insights: The Hardest Airports In The World To Land At",
-      "summary_en": "A look at some of the most challenging approaches in the world, and what makes them so difficult for pilots?",
-      "title": "Pilot Insights: The Hardest Airports In The World To Land At",
-      "summary": "A look at some of the most challenging approaches in the world, and what makes them so difficult for pilots?",
-      "url": "https://simpleflying.com/hardest-airports-world/",
       "source": "Simple Flying",
       "published_at": "2025-09-29T18:00:17+00:00",
       "tags": [
