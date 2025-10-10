@@ -1,6 +1,24 @@
 {
-  "generated_at": "2025-10-10T23:33:51.146965+00:00",
+  "generated_at": "2025-10-10T23:45:11.341975+00:00",
   "items": [
+    {
+      "id": "059119d577f0eccc",
+      "title_orig": "San Diego company creates 'Coyote Vest' to help protect pets after recent attacks",
+      "summary_orig": "After a terrifying coyote attack in Solana Beach that left one woman injured and her dog killed earlier this week, many San Diegans are asking what can be done to keep their pets safe.",
+      "lang": "en",
+      "title_en": "San Diego company creates 'Coyote Vest' to help protect pets after recent attacks",
+      "summary_en": "After a terrifying coyote attack in Solana Beach that left one woman injured and her dog killed earlier this week, many San Diegans are asking what can be done to keep their pets safe.",
+      "title": "San Diego company creates 'Coyote Vest' to help protect pets after recent attacks",
+      "summary": "After a terrifying coyote attack in Solana Beach that left one woman injured and her dog killed earlier this week, many San Diegans are asking what can be done to keep their pets safe.",
+      "url": "https://fox5sandiego.com/news/local-news/san-diego-company-creates-coyote-vest-to-help-protect-pets-after-recent-attacks/",
+      "source": "FOX 5 San Diego & KUSI News",
+      "published_at": "2025-10-10T23:28:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "a25610b8e24ae7db",
       "title_orig": "Canada Post, teacher strikes a double-whammy for some Alberta businesses",
@@ -18,6 +36,51 @@
       ],
       "type": "local news",
       "geo": {}
+    },
+    {
+      "id": "67389978181073e2",
+      "title_orig": "FBI renews call for public's help solving deadly bombing of Arab American activist in Orange County",
+      "summary_orig": "The FBI on Friday renewed its call for the public's help to solve the case of a 40-year-old assassination of a prominent Arab American activist and organizer in Orange County. Alexander Michel Odeh was killed in a \"targeted bombing\" on Oct. 11, 1985, involving a booby-trapped explosive device that detonated when he unlocked the door [...]",
+      "lang": "en",
+      "title_en": "FBI renews call for public's help solving deadly bombing of Arab American activist in Orange County",
+      "summary_en": "The FBI on Friday renewed its call for the public's help to solve the case of a 40-year-old assassination of a prominent Arab American activist and organizer in Orange County. Alexander Michel Odeh was killed in a \"targeted bombing\" on Oct. 11, 1985, involving a booby-trapped explosive device that detonated when he unlocked the door [...]",
+      "title": "FBI renews call for public's help solving deadly bombing of Arab American activist in Orange County",
+      "summary": "The FBI on Friday renewed its call for the public's help to solve the case of a 40-year-old assassination of a prominent Arab American activist and organizer in Orange County. Alexander Michel Odeh was killed in a \"targeted bombing\" on Oct. 11, 1985, involving a booby-trapped explosive device that detonated when he unlocked the door [...]",
+      "url": "https://ktla.com/news/california/alex-odeh-orange-county-assassination/",
+      "source": "KTLA",
+      "published_at": "2025-10-10T23:22:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "28c679d68e007bd8",
+      "title_orig": "Surge in Chagos arrivals prompts row over housing costs",
+      "summary_orig": "Dozens of Chagossians have flown in to Heathrow Airport this week, putting pressure on housing services.",
+      "lang": "en",
+      "title_en": "Surge in Chagos arrivals prompts row over housing costs",
+      "summary_en": "Dozens of Chagossians have flown in to Heathrow Airport this week, putting pressure on housing services.",
+      "title": "Surge in Chagos arrivals prompts row over housing costs",
+      "summary": "Dozens of Chagossians have flown in to Heathrow Airport this week, putting pressure on housing services.",
+      "url": "https://www.bbc.com/news/articles/cd721j8390zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-10-10T23:11:35+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
     },
     {
       "id": "41d94d5aad334a90",
@@ -233,24 +296,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f1377b0f8ab302f1",
-      "title_orig": "How Bill Pulte learned the art of the attack, from his own family to Letitia James",
-      "summary_orig": "WASHINGTON (AP) — Before Bill Pulte started targeting President Donald Trump’s political enemies, he practiced on his own family. He…",
-      "lang": "en",
-      "title_en": "How Bill Pulte learned the art of the attack, from his own family to Letitia James",
-      "summary_en": "WASHINGTON (AP) — Before Bill Pulte started targeting President Donald Trump’s political enemies, he practiced on his own family. He…",
-      "title": "How Bill Pulte learned the art of the attack, from his own family to Letitia James",
-      "summary": "WASHINGTON (AP) — Before Bill Pulte started targeting President Donald Trump’s political enemies, he practiced on his own family. He…",
-      "url": "https://wtop.com/news/2025/10/how-bill-pulte-learned-the-art-of-the-attack-from-his-own-family-to-letitia-james/",
-      "source": "WTOP News",
-      "published_at": "2025-10-10T20:40:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2403,24 +2448,6 @@
       "tags": [
         "airport/security",
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "721398aaf599866e",
-      "title_orig": "Paragliders - the lethal new weapon being used in Myanmar's civil war",
-      "summary_orig": "More than two dozen civilians were killed on Monday after a motorised army paraglider dropped bombs from above.",
-      "lang": "en",
-      "title_en": "Paragliders - the lethal new weapon being used in Myanmar's civil war",
-      "summary_en": "More than two dozen civilians were killed on Monday after a motorised army paraglider dropped bombs from above.",
-      "title": "Paragliders - the lethal new weapon being used in Myanmar's civil war",
-      "summary": "More than two dozen civilians were killed on Monday after a motorised army paraglider dropped bombs from above.",
-      "url": "https://www.bbc.com/news/articles/c20zvqe3qd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-10-09T22:12:49+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
