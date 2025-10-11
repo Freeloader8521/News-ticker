@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-11T17:33:59.213591+00:00",
+  "generated_at": "2025-10-11T17:44:26.118943+00:00",
   "items": [
     {
       "id": "3b48f7308f1ea778",
@@ -39,12 +39,12 @@
     },
     {
       "id": "424c38dc5757d0b5",
-      "title_orig": "Vegetation fire prompts Evacuation Warning in Santee",
+      "title_orig": "Vegetation fire prompts temporary Evacuation Warning in Santee",
       "summary_orig": "Crews are responding to a vegetation fire in Santee, which has prompted an Evacuation Warning for nearby residents and has a slow rate of spread.",
       "lang": "en",
-      "title_en": "Vegetation fire prompts Evacuation Warning in Santee",
+      "title_en": "Vegetation fire prompts temporary Evacuation Warning in Santee",
       "summary_en": "Crews are responding to a vegetation fire in Santee, which has prompted an Evacuation Warning for nearby residents and has a slow rate of spread.",
-      "title": "Vegetation fire prompts Evacuation Warning in Santee",
+      "title": "Vegetation fire prompts temporary Evacuation Warning in Santee",
       "summary": "Crews are responding to a vegetation fire in Santee, which has prompted an Evacuation Warning for nearby residents and has a slow rate of spread.",
       "url": "https://fox5sandiego.com/news/local-news/east-county/santee-fire-evacuation-warning/",
       "source": "FOX 5 San Diego & KUSI News",
@@ -74,6 +74,24 @@
       "geo": {}
     },
     {
+      "id": "8d95da9801b01408",
+      "title_orig": "Former Lostprophets singer Ian Watkins dead after being attacked in Wakefield prison",
+      "summary_orig": "The convicted paedophile was attacked while serving a 29-year sentence, according to sources",
+      "lang": "en",
+      "title_en": "Former Lostprophets singer Ian Watkins dead after being attacked in Wakefield prison",
+      "summary_en": "The convicted paedophile was attacked while serving a 29-year sentence, according to sources",
+      "title": "Former Lostprophets singer Ian Watkins dead after being attacked in Wakefield prison",
+      "summary": "The convicted paedophile was attacked while serving a 29-year sentence, according to sources",
+      "url": "https://www.standard.co.uk/news/uk/lostprophets-ian-watkins-dies-prison-attack-b1252444.html",
+      "source": "The Standard News",
+      "published_at": "2025-10-11T17:18:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "393f84cfc7f795b5",
       "title_orig": "Nova festival survivor found dead two years after losing girlfriend in Hamas attack",
       "summary_orig": "Roei Shalev was found dead just days after the second anniversary of the murder of his girlfriend by Hamas terrorists at the music festival on October 7, 2023.",
@@ -94,12 +112,12 @@
     {
       "id": "92808cda1cc8db34",
       "title_orig": "Paedophile singer Ian Watkins dies after prison attack",
-      "summary_orig": "Ian Watkins was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
+      "summary_orig": "Watkins was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
       "lang": "en",
       "title_en": "Paedophile singer Ian Watkins dies after prison attack",
-      "summary_en": "Ian Watkins was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
+      "summary_en": "Watkins was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
       "title": "Paedophile singer Ian Watkins dies after prison attack",
-      "summary": "Ian Watkins was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
+      "summary": "Watkins was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
       "url": "https://www.bbc.com/news/articles/cm2d2me0eljo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-10-11T17:16:47+00:00",
@@ -139,24 +157,6 @@
       "url": "https://www.devonlive.com/news/celebs-tv/paedo-ian-watkins-dead-after-10567003",
       "source": "Devon Live - frontpage",
       "published_at": "2025-10-11T17:10:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8d95da9801b01408",
-      "title_orig": "Former Lostprophets singer Ian Watkins dead after being attacked in Wakefield prison",
-      "summary_orig": "The convicted paedophile was attacked while serving a 29-year sentence, according to sources",
-      "lang": "en",
-      "title_en": "Former Lostprophets singer Ian Watkins dead after being attacked in Wakefield prison",
-      "summary_en": "The convicted paedophile was attacked while serving a 29-year sentence, according to sources",
-      "title": "Former Lostprophets singer Ian Watkins dead after being attacked in Wakefield prison",
-      "summary": "The convicted paedophile was attacked while serving a 29-year sentence, according to sources",
-      "url": "https://www.standard.co.uk/news/uk/lostprophets-ian-watkins-dies-prison-attack-b1252444.html",
-      "source": "The Standard News",
-      "published_at": "2025-10-11T17:03:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -342,24 +342,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "5cc09fb7c6b33e42",
-      "title_orig": "Ivory Coast arrests 237 protesters amid rising tensions before presidential election",
-      "summary_orig": "ABIDJAN, Ivory Coast (AP) — At least 237 people were arrested Saturday in Ivory Coast during a protest against what…",
-      "lang": "en",
-      "title_en": "Ivory Coast arrests 237 protesters amid rising tensions before presidential election",
-      "summary_en": "ABIDJAN, Ivory Coast (AP) — At least 237 people were arrested Saturday in Ivory Coast during a protest against what…",
-      "title": "Ivory Coast arrests 237 protesters amid rising tensions before presidential election",
-      "summary": "ABIDJAN, Ivory Coast (AP) — At least 237 people were arrested Saturday in Ivory Coast during a protest against what…",
-      "url": "https://wtop.com/national/2025/10/ivory-coast-arrests-237-protesters-amid-rising-tensions-before-presidential-election/",
-      "source": "WTOP News",
-      "published_at": "2025-10-11T16:23:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -561,24 +543,6 @@
       "geo": {}
     },
     {
-      "id": "62d0d5d616f32b8c",
-      "title_orig": "Arrests at pro-Palestinian protest after violence flares in Pakistan’s eastern city of Lahore",
-      "summary_orig": "Pakistani police say they have arrested more than 100 people following violence in Lahore.",
-      "lang": "en",
-      "title_en": "Arrests at pro-Palestinian protest after violence flares in Pakistan’s eastern city of Lahore",
-      "summary_en": "Pakistani police say they have arrested more than 100 people following violence in Lahore.",
-      "title": "Arrests at pro-Palestinian protest after violence flares in Pakistan’s eastern city of Lahore",
-      "summary": "Pakistani police say they have arrested more than 100 people following violence in Lahore.",
-      "url": "https://www.seattletimes.com/nation-world/arrests-at-pro-palestinian-protest-after-violence-flares-in-pakistans-eastern-city-of-lahore/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-11T15:30:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3e4f659de3260f39",
       "title_orig": "Drone strike in besieged Sudan city kills dozens",
       "summary_orig": "El-Fasher has been surrounded by the RSF for 17 months, as residents face hunger and starvation.",
@@ -644,24 +608,6 @@
       "url": "https://www.thehindu.com/news/cities/Hyderabad/man-critical-after-being-attacked-over-land-dispute-in-moinabad/article70152269.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2025-10-11T15:11:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bfdcf2efcc895e1b",
-      "title_orig": "Drone footage above Gaza City shows the toll of 2 years of war",
-      "summary_orig": "New drone footage shows what remains of Gaza City after two years of war as a ceasefire holds in its second day.",
-      "lang": "en",
-      "title_en": "Drone footage above Gaza City shows the toll of 2 years of war",
-      "summary_en": "New drone footage shows what remains of Gaza City after two years of war as a ceasefire holds in its second day.",
-      "title": "Drone footage above Gaza City shows the toll of 2 years of war",
-      "summary": "New drone footage shows what remains of Gaza City after two years of war as a ceasefire holds in its second day.",
-      "url": "https://www.seattletimes.com/nation-world/drone-footage-above-gaza-city-shows-the-toll-of-2-years-of-war/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-11T15:00:11+00:00",
       "tags": [
         "airport/security"
       ],
@@ -822,24 +768,6 @@
       "geo": {}
     },
     {
-      "id": "30ddbf99c45b7c04",
-      "title_orig": "Ivory Coast arrests 237 protesters amid rising tensions before presidential election",
-      "summary_orig": "Authorities in the Ivory Coast have arrested at least 237 people during a protest against what activists call the country's authoritarian drift.",
-      "lang": "en",
-      "title_en": "Ivory Coast arrests 237 protesters amid rising tensions before presidential election",
-      "summary_en": "Authorities in the Ivory Coast have arrested at least 237 people during a protest against what activists call the country's authoritarian drift.",
-      "title": "Ivory Coast arrests 237 protesters amid rising tensions before presidential election",
-      "summary": "Authorities in the Ivory Coast have arrested at least 237 people during a protest against what activists call the country's authoritarian drift.",
-      "url": "https://www.seattletimes.com/nation-world/ivory-coast-arrests-237-protesters-amid-rising-tensions-before-presidential-election/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-11T14:21:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "98452dd35df7714a",
       "title_orig": "Power restored to Kyiv homes after Russian bombardment on Ukraine’s energy grid",
       "summary_orig": "Russia’s Defence Ministry stated its strikes had targeted energy facilities supplying Ukraine’s military",
@@ -851,24 +779,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/ukraine-kyiv-power-russia-attack-b2843619.html",
       "source": "The Independent World",
       "published_at": "2025-10-11T14:17:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a769a1e1ad37060e",
-      "title_orig": "Samiti stages protest in Kalaburagi against attempted attack on CJI",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Samiti stages protest in Kalaburagi against attempted attack on CJI",
-      "summary_en": "",
-      "title": "Samiti stages protest in Kalaburagi against attempted attack on CJI",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/karnataka/samiti-stages-protest-in-kalaburagi-against-attempted-attack-on-cji/article70152318.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-10-11T14:17:02+00:00",
       "tags": [
         "airport/security"
       ],
@@ -966,24 +876,6 @@
       "geo": {}
     },
     {
-      "id": "bb77bef9c131733c",
-      "title_orig": "It’s my duty to protest troops in cities",
-      "summary_orig": "Re: “Legal battles brew as states move to block deployments,” Oct. 7, Page A1: Years ago when I joined Facebook, the nasty angry trolls were a shock. They were always declaring that a war was coming, and I did not believe them. I do now. This president of chaos is creating war within our cities. […]",
-      "lang": "en",
-      "title_en": "It’s my duty to protest troops in cities",
-      "summary_en": "Re: “Legal battles brew as states move to block deployments,” Oct. 7, Page A1: Years ago when I joined Facebook, the nasty angry trolls were a shock. They were always declaring that a war was coming, and I did not believe them. I do now. This president of chaos is creating war within our cities. […]",
-      "title": "It’s my duty to protest troops in cities",
-      "summary": "Re: “Legal battles brew as states move to block deployments,” Oct. 7, Page A1: Years ago when I joined Facebook, the nasty angry trolls were a shock. They were always declaring that a war was coming, and I did not believe them. I do now. This president of chaos is creating war within our cities. […]",
-      "url": "https://www.seattletimes.com/opinion/letters-to-the-editor/its-my-duty-to-protest-troops-in-cities/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-11T14:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c050ccc32c3e6d16",
       "title_orig": "Tens of thousands of pro-Palestinian protesters gather in central London",
       "summary_orig": "The mass rally came the day after Gaza  ceasefire came into effect, with organisers claiming  they would “never stop” supporting a “Free Palestine”.",
@@ -1002,24 +894,6 @@
       "geo": {}
     },
     {
-      "id": "e88ce51a2e9aee1a",
-      "title_orig": "A Sudanese paramilitary attack kills at least 53 people in Darfur, an aid group says",
-      "summary_orig": "A doctors' group says that Sudanese paramilitary forces have attacked a shelter in a besieged Darfur city, killing at least 53 people.",
-      "lang": "en",
-      "title_en": "A Sudanese paramilitary attack kills at least 53 people in Darfur, an aid group says",
-      "summary_en": "A doctors' group says that Sudanese paramilitary forces have attacked a shelter in a besieged Darfur city, killing at least 53 people.",
-      "title": "A Sudanese paramilitary attack kills at least 53 people in Darfur, an aid group says",
-      "summary": "A doctors' group says that Sudanese paramilitary forces have attacked a shelter in a besieged Darfur city, killing at least 53 people.",
-      "url": "https://www.seattletimes.com/nation-world/group-says-attack-by-sudanese-paramilitaries-in-darfur-kills-at-least-53/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-11T13:58:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "28032674a86c8902",
       "title_orig": "Large garda presence at far-right protest in Cork city",
       "summary_orig": "Gardaí deployed large numbers in response to online comments during the week.",
@@ -1031,24 +905,6 @@
       "url": "https://www.thejournal.ie/far-right-protest-cork-city-6841788-Oct2025/",
       "source": "TheJournal.ie",
       "published_at": "2025-10-11T13:36:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "472ec59d1de81f26",
-      "title_orig": "At least 53 people were killed in an attack by Sudanese paramilitaries in a besieged Darfur city, doctors say",
-      "summary_orig": "At least 53 people were killed in an attack by Sudanese paramilitaries in a besieged Darfur city, doctors say.",
-      "lang": "en",
-      "title_en": "At least 53 people were killed in an attack by Sudanese paramilitaries in a besieged Darfur city, doctors say",
-      "summary_en": "At least 53 people were killed in an attack by Sudanese paramilitaries in a besieged Darfur city, doctors say.",
-      "title": "At least 53 people were killed in an attack by Sudanese paramilitaries in a besieged Darfur city, doctors say",
-      "summary": "At least 53 people were killed in an attack by Sudanese paramilitaries in a besieged Darfur city, doctors say.",
-      "url": "https://www.seattletimes.com/nation-world/at-least-53-people-were-killed-in-an-attack-by-sudanese-paramilitaries-in-a-besieged-darfur-city-doctors-say/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-11T13:34:02+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1139,24 +995,6 @@
       "url": "https://www.standard.co.uk/news/london/israel-hostage-ribbon-mossad-nadia-yahlom-husband-muswell-hill-london-b1252426.html",
       "source": "The Standard News",
       "published_at": "2025-10-11T12:57:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6710efb5509442d5",
-      "title_orig": "Thousands of protesters hit London one day after Gaza ceasefire begins",
-      "summary_orig": "Thousands of protesters gathered in London to mark two years since the start of the conflict between Israel and Hamas.",
-      "lang": "en",
-      "title_en": "Thousands of protesters hit London one day after Gaza ceasefire begins",
-      "summary_en": "Thousands of protesters gathered in London to mark two years since the start of the conflict between Israel and Hamas.",
-      "title": "Thousands of protesters hit London one day after Gaza ceasefire begins",
-      "summary": "Thousands of protesters gathered in London to mark two years since the start of the conflict between Israel and Hamas.",
-      "url": "https://metro.co.uk/2025/10/11/thousands-pro-palestine-protesters-gather-london-mark-two-years-since-gaza-war-24399720/",
-      "source": "Metro",
-      "published_at": "2025-10-11T12:49:51+00:00",
       "tags": [
         "airport/security"
       ],
