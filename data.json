@@ -1,24 +1,6 @@
 {
-  "generated_at": "2025-10-21T09:21:42.717979+00:00",
+  "generated_at": "2025-10-21T09:47:57.551096+00:00",
   "items": [
-    {
-      "id": "42ac3a8a3016ae5f",
-      "title_orig": "EES in Spain: Border checks to be rolled out on Mallorca in November",
-      "summary_orig": "In less than a month, Palma de Mallorca Airport will be the fifth airport in Spain to start using the EU’s new Entry/Exit System for third-country travellers.",
-      "lang": "en",
-      "title_en": "EES in Spain: Border checks to be rolled out on Mallorca in November",
-      "summary_en": "In less than a month, Palma de Mallorca Airport will be the fifth airport in Spain to start using the EU’s new Entry/Exit System for third-country travellers.",
-      "title": "EES in Spain: Border checks to be rolled out on Mallorca in November",
-      "summary": "In less than a month, Palma de Mallorca Airport will be the fifth airport in Spain to start using the EU’s new Entry/Exit System for third-country travellers.",
-      "url": "https://www.thelocal.es/20251021/ees-in-spain-border-checks-to-be-rolled-out-on-mallorca-in-november",
-      "source": "The Local Spain",
-      "published_at": "2025-10-21T09:19:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
     {
       "id": "fb124ee7ca44ab20",
       "title_orig": "Foreign ministry holds consular meeting on Cambodia scam crisis",
@@ -30,7 +12,7 @@
       "summary": "The foreign ministry said Tuesday it held a meeting with the Korean Embassy in Cambodia to check the situation concerning Korean nationals in Cambodia's online job scams. The meeting, led by Second Vice Foreign Minister Kim Jina, came as Seoul has stepped up to tackle the crime targeting Koreans in the Southeast Asian country, amid growing concerns over cases in which many Koreans have either participated or fallen victim. Kim instructed the Korean embassy in Cambodia to continue consultations with Cambodian authorities on operational procedures for a bilateral joint task force, agreed upon between the two countries last week. She also stressed the need to provide swift and proactive consular assistance to protect Korean citizens in Cambodia, while pledging support to ease the embassy's workload through temporary personnel increases and an additional budget. Park Il, leading the embassy in Phnom Penh as the de facto head of the mission, said he will work to establish a system to provide consistent support for Korean victims and to boost prevention and response efforts for Koreans in the",
       "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20251021/foreign-ministry-holds-consular-meeting-on-cambodia-scam-crisis?utm_source=rss",
       "source": "Korea Times News",
-      "published_at": "2025-10-21T09:17:03+00:00",
+      "published_at": "2025-10-21T09:42:03+00:00",
       "tags": [
         "diplomatic"
       ],
@@ -48,7 +30,7 @@
       "summary": "Police have launched an investigation after an online post threatening to bomb Samsung Electronics’ headquarters was uploaded on a government emergency portal, just days after a similar threat targeted Incheon International Airport. According to police, the message appeared on the 119 web report center at around 7:20 p.m. on Monday, reading, “I will bomb the Samsung Electronics headquarters.” The poster included a name and other personal information, but no specific location was mentioned. Samsung’s main offices and facilities are spread across Seoul and Gyeonggi Province. Authorities shared the threat with local police precincts in areas where Samsung operates and are conducting searches around its business sites. Investigators are also tracing the suspect through a virtual private network (VPN) and working to verify the authenticity of the post. This article from the Hankook Ilbo, the sister publication of The Korea Times, is translated by generative AI and edited by The Korea Times.",
       "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20251021/police-investigating-online-threat-to-bomb-samsung-electronics-headquarters?utm_source=rss",
       "source": "Korea Times News",
-      "published_at": "2025-10-21T09:17:03+00:00",
+      "published_at": "2025-10-21T09:42:03+00:00",
       "tags": [
         "ICN",
         "South Korea",
@@ -75,7 +57,151 @@
       "summary": "SEOUL — The defense ministry has summoned a Vietnamese defense attache stationed in South Korea over alleged sexual misconduct by Vietnam's deputy defense minister during his visit to Seoul last month, military officials said Monday. According to the officials, Senior Lt. Gen. Hoang Xuan Chien inappropriately touched a South Korean public servant during a banquet with high-ranking military officials on Sept. 11. The Vietnamese vice defense minister was visiting Seoul on the occasion of the Seoul Defense Dialogue on Sept. 8-10. Given the gravity of the case, the ministry summoned the Vietnamese defense attache eight days later to lodge a protest over the deputy minister's behavior. The ministry also called for measures to prevent a recurrence, while the Vietnamese side reportedly expressed its commitment to ensuring a similar incident does not happen again. \"The ministry has taken appropriate measures in accordance with established principles regarding the case,\" a ministry official said, adding he could not disclose details out of respect for the victim's wishes.",
       "url": "https://www.koreatimes.co.kr/southkorea/20251021/vietnamese-deputy-defense-minister-accused-of-sexual-misconduct?utm_source=rss",
       "source": "Korea Times News",
-      "published_at": "2025-10-21T09:17:03+00:00",
+      "published_at": "2025-10-21T09:42:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "73d6c19361d1cd0e",
+      "title_orig": "easyJet passengers flying from Manchester Airport in November issued update",
+      "summary_orig": "Passengers are urged to allow extra time for their journey",
+      "lang": "en",
+      "title_en": "easyJet passengers flying from Manchester Airport in November issued update",
+      "summary_en": "Passengers are urged to allow extra time for their journey",
+      "title": "easyJet passengers flying from Manchester Airport in November issued update",
+      "summary": "Passengers are urged to allow extra time for their journey",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/easyjet-passengers-flying-manchester-airport-32717688",
+      "source": "MEN - News",
+      "published_at": "2025-10-21T09:33:03+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "380a6db15a31ea52",
+      "title_orig": "Slain Nepali hostage's body repatriated after release by Hamas",
+      "summary_orig": "The body of Nepali student Bipin Joshi, one of the hostages taken by Hamas who died in captivity, was returned to his home country October 20, 2025. Joshi was among 17 Nepali students studying agriculture in southern Israel during the October 7 attack that ignited the war in Gaza.",
+      "lang": "en",
+      "title_en": "Slain Nepali hostage's body repatriated after release by Hamas",
+      "summary_en": "The body of Nepali student Bipin Joshi, one of the hostages taken by Hamas who died in captivity, was returned to his home country October 20, 2025. Joshi was among 17 Nepali students studying agriculture in southern Israel during the October 7 attack that ignited the war in Gaza.",
+      "title": "Slain Nepali hostage's body repatriated after release by Hamas",
+      "summary": "The body of Nepali student Bipin Joshi, one of the hostages taken by Hamas who died in captivity, was returned to his home country October 20, 2025. Joshi was among 17 Nepali students studying agriculture in southern Israel during the October 7 attack that ignited the war in Gaza.",
+      "url": "https://www.france24.com/en/video/20251021-slain-nepali-hostage-s-body-repatriated-after-release-by-hamas",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-10-21T09:29:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "55374cc5fa02dc4a",
+      "title_orig": "Manchester Airport says big things are coming as update issued",
+      "summary_orig": "Manchester Airport shared a \"sneak peak\" of the ongoing work",
+      "lang": "en",
+      "title_en": "Manchester Airport says big things are coming as update issued",
+      "summary_en": "Manchester Airport shared a \"sneak peak\" of the ongoing work",
+      "title": "Manchester Airport says big things are coming as update issued",
+      "summary": "Manchester Airport shared a \"sneak peak\" of the ongoing work",
+      "url": "https://www.liverpoolecho.co.uk/travel/manchester-airport-says-big-things-32717407",
+      "source": "Liverpool Echo - Home",
+      "published_at": "2025-10-21T09:25:30+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "bfb8b32a26fab999",
+      "title_orig": "Oasis replaces guitarist Bonehead on tour after cancer diagnosis",
+      "summary_orig": "His replacement was spotted at the airport.",
+      "lang": "en",
+      "title_en": "Oasis replaces guitarist Bonehead on tour after cancer diagnosis",
+      "summary_en": "His replacement was spotted at the airport.",
+      "title": "Oasis replaces guitarist Bonehead on tour after cancer diagnosis",
+      "summary": "His replacement was spotted at the airport.",
+      "url": "https://metro.co.uk/2025/10/21/oasis-replaces-guitarist-bonehead-tour-cancer-diagnosis-24482731/",
+      "source": "Metro",
+      "published_at": "2025-10-21T09:24:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "42ac3a8a3016ae5f",
+      "title_orig": "EES in Spain: Border checks to be rolled out on Mallorca in November",
+      "summary_orig": "In less than a month, Palma de Mallorca Airport will be the fifth airport in Spain to start using the EU’s Entry/Exit System for third-country travellers, a real test for the new border checks given the millions of British tourists that visit the island every year.",
+      "lang": "en",
+      "title_en": "EES in Spain: Border checks to be rolled out on Mallorca in November",
+      "summary_en": "In less than a month, Palma de Mallorca Airport will be the fifth airport in Spain to start using the EU’s Entry/Exit System for third-country travellers, a real test for the new border checks given the millions of British tourists that visit the island every year.",
+      "title": "EES in Spain: Border checks to be rolled out on Mallorca in November",
+      "summary": "In less than a month, Palma de Mallorca Airport will be the fifth airport in Spain to start using the EU’s Entry/Exit System for third-country travellers, a real test for the new border checks given the millions of British tourists that visit the island every year.",
+      "url": "https://www.thelocal.es/20251021/ees-in-spain-border-checks-to-be-rolled-out-on-mallorca-in-november",
+      "source": "The Local Spain",
+      "published_at": "2025-10-21T09:19:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e799a31fc765937a",
+      "title_orig": "Heart 80s DJ rushed to hospital in ambulance after suffering 'paralysing pain'",
+      "summary_orig": "Heart 80s DJ Simon Beale has shared that he was rushed to hospital for emergency surgery after suffering a heart attack",
+      "lang": "en",
+      "title_en": "Heart 80s DJ rushed to hospital in ambulance after suffering 'paralysing pain'",
+      "summary_en": "Heart 80s DJ Simon Beale has shared that he was rushed to hospital for emergency surgery after suffering a heart attack",
+      "title": "Heart 80s DJ rushed to hospital in ambulance after suffering 'paralysing pain'",
+      "summary": "Heart 80s DJ Simon Beale has shared that he was rushed to hospital for emergency surgery after suffering a heart attack",
+      "url": "https://www.nottinghampost.com/news/uk-world-news/heart-80s-dj-rushed-hospital-10587398",
+      "source": "Nottinghamshire Live - frontpage",
+      "published_at": "2025-10-21T09:12:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e3ba9894e7797b3a",
+      "title_orig": "Stelson attacks Rep. Perry after he claims Democrats’ military service ‘only a credential’",
+      "summary_orig": "Perry is being criticized for saying his Democratic opponents \"join the military, they serve a little bit, they get the credential and then they run for office and wear the uniform and say, ‘look at me, I support America.’\"",
+      "lang": "en",
+      "title_en": "Stelson attacks Rep. Perry after he claims Democrats’ military service ‘only a credential’",
+      "summary_en": "Perry is being criticized for saying his Democratic opponents \"join the military, they serve a little bit, they get the credential and then they run for office and wear the uniform and say, ‘look at me, I support America.’\"",
+      "title": "Stelson attacks Rep. Perry after he claims Democrats’ military service ‘only a credential’",
+      "summary": "Perry is being criticized for saying his Democratic opponents \"join the military, they serve a little bit, they get the credential and then they run for office and wear the uniform and say, ‘look at me, I support America.’\"",
+      "url": "https://www.pennlive.com/politics/2025/10/stelson-attacks-rep-perry-after-he-claims-democrats-military-service-only-a-credential.html",
+      "source": "pennlive.com",
+      "published_at": "2025-10-21T09:10:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -488,24 +614,6 @@
       "geo": {}
     },
     {
-      "id": "8ce8728f0b708869",
-      "title_orig": "The unanswered Birmingham Pub Bombings questions 50 years on",
-      "summary_orig": "The annual Birmingham Pub Bombings Memorial will take place in a month’s time with so many questions about that dreadful night and subsequent investigations still unanswered, says Christopher Stanley",
-      "lang": "en",
-      "title_en": "The unanswered Birmingham Pub Bombings questions 50 years on",
-      "summary_en": "The annual Birmingham Pub Bombings Memorial will take place in a month’s time with so many questions about that dreadful night and subsequent investigations still unanswered, says Christopher Stanley",
-      "title": "The unanswered Birmingham Pub Bombings questions 50 years on",
-      "summary": "The annual Birmingham Pub Bombings Memorial will take place in a month’s time with so many questions about that dreadful night and subsequent investigations still unanswered, says Christopher Stanley",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/unanswered-birmingham-pub-bombings-questions-32716690",
-      "source": "Birmingham Live - News",
-      "published_at": "2025-10-21T06:57:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4f6be5de618881cb",
       "title_orig": "Today in Italy: A roundup of the latest news on Tuesday",
       "summary_orig": "Three arrested after coach driver killed by basketball fans, Italian railway maintenance workers go on strike, and more news from Italy on Tuesday.",
@@ -749,24 +857,6 @@
       "geo": {}
     },
     {
-      "id": "770b79c9928593fb",
-      "title_orig": "Liverpool latest: Jurgen Klopp drops return bombshell as Arne Slot blasted for Man Utd loss",
-      "summary_orig": "All the latest news from Anfield as the fallout from Liverpool's home defeat to arch rivals Manchester United continues",
-      "lang": "en",
-      "title_en": "Liverpool latest: Jurgen Klopp drops return bombshell as Arne Slot blasted for Man Utd loss",
-      "summary_en": "All the latest news from Anfield as the fallout from Liverpool's home defeat to arch rivals Manchester United continues",
-      "title": "Liverpool latest: Jurgen Klopp drops return bombshell as Arne Slot blasted for Man Utd loss",
-      "summary": "All the latest news from Anfield as the fallout from Liverpool's home defeat to arch rivals Manchester United continues",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-news-arne-slot-klopp-32714200",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2025-10-21T05:45:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8ffefa6c3a627aed",
       "title_orig": "Suspect arrested in firebomb attack on Minneapolis ice cream shop",
       "summary_orig": "Windows were broken and chairs caught fire, the owner said.",
@@ -814,24 +904,6 @@
       "url": "https://www.bristolpost.co.uk/news/uk-world-news/women-should-start-hrt-10-10586934",
       "source": "Bristol Post - News",
       "published_at": "2025-10-21T05:17:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2ec35b389d57a91b",
-      "title_orig": "Hong Kong runway set for reopening after crash but won’t be used regularly for now",
-      "summary_orig": "HONG KONG (AP) — Hong Kong authorities on Tuesday were preparing to reopen the runway where a cargo aircraft crashed…",
-      "lang": "en",
-      "title_en": "Hong Kong runway set for reopening after crash but won’t be used regularly for now",
-      "summary_en": "HONG KONG (AP) — Hong Kong authorities on Tuesday were preparing to reopen the runway where a cargo aircraft crashed…",
-      "title": "Hong Kong runway set for reopening after crash but won’t be used regularly for now",
-      "summary": "HONG KONG (AP) — Hong Kong authorities on Tuesday were preparing to reopen the runway where a cargo aircraft crashed…",
-      "url": "https://wtop.com/world/2025/10/hong-kong-runway-set-for-reopening-after-crash-but-wont-be-used-regularly-for-now/",
-      "source": "WTOP News",
-      "published_at": "2025-10-21T05:04:41+00:00",
       "tags": [
         "airport/security"
       ],
@@ -949,24 +1021,6 @@
       "url": "https://www.japantimes.co.jp/news/2025/10/21/world/politics/peru-gen-z-movement/",
       "source": "Latest articles - The Japan Times",
       "published_at": "2025-10-21T03:24:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "19f95aed8b916e92",
-      "title_orig": "Doha truce",
-      "summary_orig": "AFTER over a week of hostilities during which some of the fiercest exchanges took place between Pakistan and Afghanistan since the Taliban returned to power in 2021, a fragile calm between the two countries has been established. A long-term ceasefire was reached in Doha early on Sunday, where both sides pledged to continue the diplomatic process and find a permanent solution to the prevailing problem — cross-border incursions by Afghanistan-based terrorist groups. Qatar and Turkiye have played a key role in bringing about the truce, and representatives of both Islamabad and Kabul will meet in Istanbul on Saturday to take the process forward. Though the Pakistani state and the Afghan Taliban once maintained cordial relations, matters have nosedived during the hard-line group’s second innings. At the heart of the matter is the sanctuary provided by the Afghan Taliban to the banned TTP and other militant groups that have staged bloody attacks in Pakistan. Though the Taliban deny this, there is overwhelming evidence that suggests that terrorist groups indeed have havens in Afghanistan. Over the last few months, the attacks have increased significantly — over 600 attacks over the past year, according to one report — causing heavy casualties amongst Pakistani security men. It is because earlier attempts at dialogue failed to stop such attacks that the state took action, hitting militant targets across the border. But while this may have sent a strong message to Kabul, if the hostilities continue, it will bode ill for peace in South Asia, as Pakistan will have to face adversaries on two hostile borders. Therefore, the state may have to combine deterrence through military means — in case of further attacks — with sustained diplomacy through common friends and regional allies to arrive at a long-term solution. After the Doha parleys, the Taliban spokesman said there would be no “hostile actions” against Pakistan. While such promises have been made during earlier diplomatic encounters as well, for example earlier this year under Chinese auspices, it is hoped this time the Kabul regime is serious about stopping cross-border militant activity. As Foreign Minister Ishaq Dar noted, a “verifiable monitoring mechanism” is needed to implement the broad details agreed to in Doha, which should be the goal during the next meeting in Turkiye. Though the Taliban may remain in denial, the international community agrees that they continue to host terrorist groups. Therefore, as the de facto government in Afghanistan, it is their duty to prevent these outfits from harming neighbouring states. While some militant groups — the TTP, Al Qaeda — may respond to the Taliban ‘requests’, others, such as IS-K, are unlikely to oblige. However, it is the Taliban’s job as the governing entity in Afghanistan to ensure the security of regional states is not harmed by groups based on its soil. Published in Dawn, October 21st, 2025",
-      "lang": "en",
-      "title_en": "Doha truce",
-      "summary_en": "AFTER over a week of hostilities during which some of the fiercest exchanges took place between Pakistan and Afghanistan since the Taliban returned to power in 2021, a fragile calm between the two countries has been established. A long-term ceasefire was reached in Doha early on Sunday, where both sides pledged to continue the diplomatic process and find a permanent solution to the prevailing problem — cross-border incursions by Afghanistan-based terrorist groups. Qatar and Turkiye have played a key role in bringing about the truce, and representatives of both Islamabad and Kabul will meet in Istanbul on Saturday to take the process forward. Though the Pakistani state and the Afghan Taliban once maintained cordial relations, matters have nosedived during the hard-line group’s second innings. At the heart of the matter is the sanctuary provided by the Afghan Taliban to the banned TTP and other militant groups that have staged bloody attacks in Pakistan. Though the Taliban deny this, there is overwhelming evidence that suggests that terrorist groups indeed have havens in Afghanistan. Over the last few months, the attacks have increased significantly — over 600 attacks over the past year, according to one report — causing heavy casualties amongst Pakistani security men. It is because earlier attempts at dialogue failed to stop such attacks that the state took action, hitting militant targets across the border. But while this may have sent a strong message to Kabul, if the hostilities continue, it will bode ill for peace in South Asia, as Pakistan will have to face adversaries on two hostile borders. Therefore, the state may have to combine deterrence through military means — in case of further attacks — with sustained diplomacy through common friends and regional allies to arrive at a long-term solution. After the Doha parleys, the Taliban spokesman said there would be no “hostile actions” against Pakistan. While such promises have been made during earlier diplomatic encounters as well, for example earlier this year under Chinese auspices, it is hoped this time the Kabul regime is serious about stopping cross-border militant activity. As Foreign Minister Ishaq Dar noted, a “verifiable monitoring mechanism” is needed to implement the broad details agreed to in Doha, which should be the goal during the next meeting in Turkiye. Though the Taliban may remain in denial, the international community agrees that they continue to host terrorist groups. Therefore, as the de facto government in Afghanistan, it is their duty to prevent these outfits from harming neighbouring states. While some militant groups — the TTP, Al Qaeda — may respond to the Taliban ‘requests’, others, such as IS-K, are unlikely to oblige. However, it is the Taliban’s job as the governing entity in Afghanistan to ensure the security of regional states is not harmed by groups based on its soil. Published in Dawn, October 21st, 2025",
-      "title": "Doha truce",
-      "summary": "AFTER over a week of hostilities during which some of the fiercest exchanges took place between Pakistan and Afghanistan since the Taliban returned to power in 2021, a fragile calm between the two countries has been established. A long-term ceasefire was reached in Doha early on Sunday, where both sides pledged to continue the diplomatic process and find a permanent solution to the prevailing problem — cross-border incursions by Afghanistan-based terrorist groups. Qatar and Turkiye have played a key role in bringing about the truce, and representatives of both Islamabad and Kabul will meet in Istanbul on Saturday to take the process forward. Though the Pakistani state and the Afghan Taliban once maintained cordial relations, matters have nosedived during the hard-line group’s second innings. At the heart of the matter is the sanctuary provided by the Afghan Taliban to the banned TTP and other militant groups that have staged bloody attacks in Pakistan. Though the Taliban deny this, there is overwhelming evidence that suggests that terrorist groups indeed have havens in Afghanistan. Over the last few months, the attacks have increased significantly — over 600 attacks over the past year, according to one report — causing heavy casualties amongst Pakistani security men. It is because earlier attempts at dialogue failed to stop such attacks that the state took action, hitting militant targets across the border. But while this may have sent a strong message to Kabul, if the hostilities continue, it will bode ill for peace in South Asia, as Pakistan will have to face adversaries on two hostile borders. Therefore, the state may have to combine deterrence through military means — in case of further attacks — with sustained diplomacy through common friends and regional allies to arrive at a long-term solution. After the Doha parleys, the Taliban spokesman said there would be no “hostile actions” against Pakistan. While such promises have been made during earlier diplomatic encounters as well, for example earlier this year under Chinese auspices, it is hoped this time the Kabul regime is serious about stopping cross-border militant activity. As Foreign Minister Ishaq Dar noted, a “verifiable monitoring mechanism” is needed to implement the broad details agreed to in Doha, which should be the goal during the next meeting in Turkiye. Though the Taliban may remain in denial, the international community agrees that they continue to host terrorist groups. Therefore, as the de facto government in Afghanistan, it is their duty to prevent these outfits from harming neighbouring states. While some militant groups — the TTP, Al Qaeda — may respond to the Taliban ‘requests’, others, such as IS-K, are unlikely to oblige. However, it is the Taliban’s job as the governing entity in Afghanistan to ensure the security of regional states is not harmed by groups based on its soil. Published in Dawn, October 21st, 2025",
-      "url": "https://www.dawn.com/news/1950299/doha-truce",
-      "source": "Dawn - Home",
-      "published_at": "2025-10-21T03:17:56+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1622,24 +1676,6 @@
       "geo": {}
     },
     {
-      "id": "da00cd5243fc78a5",
-      "title_orig": "Shohei Ohtani breaking baseball logic: Is his $700M contract actually a bargain?",
-      "summary_orig": "Dodgers superstar defies description with historic three-homer, 10-strikeout playoff performance that has observers questioning if we'll ever see anyone like him again.",
-      "lang": "en",
-      "title_en": "Shohei Ohtani breaking baseball logic: Is his $700M contract actually a bargain?",
-      "summary_en": "Dodgers superstar defies description with historic three-homer, 10-strikeout playoff performance that has observers questioning if we'll ever see anyone like him again.",
-      "title": "Shohei Ohtani breaking baseball logic: Is his $700M contract actually a bargain?",
-      "summary": "Dodgers superstar defies description with historic three-homer, 10-strikeout playoff performance that has observers questioning if we'll ever see anyone like him again.",
-      "url": "https://www.cleveland.com/guardians/2025/10/shohei-ohtani-breaking-baseball-logic-is-his-700m-contract-actually-a-bargain.html",
-      "source": "cleveland.com",
-      "published_at": "2025-10-20T19:12:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4bac248ea57f4eed",
       "title_orig": "After AI Trump drops poop on Americans in No Kings flyover video Mike Johnson makes bold claim about his prowess",
       "summary_orig": "House speaker says Trump was employing ‘satire’ when he posted a meme of himself wearing a crown and dumping a payload of apparent feces on protesters at the ‘No Kings’ rally",
@@ -1973,24 +2009,6 @@
       "geo": {}
     },
     {
-      "id": "f04ca2c4c0523d23",
-      "title_orig": "Love Island's Toni Laites shares huge update after 'hell of a process'",
-      "summary_orig": "Toni and Cach were crowned the winners of Love Island 2025, but things have not been easy for the American bombshell",
-      "lang": "en",
-      "title_en": "Love Island's Toni Laites shares huge update after 'hell of a process'",
-      "summary_en": "Toni and Cach were crowned the winners of Love Island 2025, but things have not been easy for the American bombshell",
-      "title": "Love Island's Toni Laites shares huge update after 'hell of a process'",
-      "summary": "Toni and Cach were crowned the winners of Love Island 2025, but things have not been easy for the American bombshell",
-      "url": "https://www.bristolpost.co.uk/news/celebs-tv/love-islands-toni-laites-shares-10586260",
-      "source": "Bristol Post - News",
-      "published_at": "2025-10-20T15:42:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "335fb064ef3e66ae",
       "title_orig": "Graham Linehan ‘anti-trans’ tweets investigation dropped by Metropolitan Police after airport arrest fury",
       "summary_orig": "The Father Ted and IT Crowd creator was detained on suspicion of inciting violence after flying in from Arizona",
@@ -2006,24 +2024,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "71d6b734d10def69",
-      "title_orig": "New road linking Baltic states to Poland opens at time of tensions with Russia",
-      "summary_orig": "Poland and its Baltic neighbours have been on high alert since multiple alleged Russian drones entered Polish territory and Russian fighter jets crossed into Estonian air space in September.",
-      "lang": "en",
-      "title_en": "New road linking Baltic states to Poland opens at time of tensions with Russia",
-      "summary_en": "Poland and its Baltic neighbours have been on high alert since multiple alleged Russian drones entered Polish territory and Russian fighter jets crossed into Estonian air space in September.",
-      "title": "New road linking Baltic states to Poland opens at time of tensions with Russia",
-      "summary": "Poland and its Baltic neighbours have been on high alert since multiple alleged Russian drones entered Polish territory and Russian fighter jets crossed into Estonian air space in September.",
-      "url": "http://www.euronews.com/2025/10/20/new-road-linking-baltic-states-to-poland-opens-at-time-of-tensions-with-russia",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-10-20T15:14:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2110,24 +2110,6 @@
       "url": "https://www.theguardian.com/world/2025/oct/20/i-was-doing-nothing-at-home-the-chinese-nationals-fighting-for-ukraine",
       "source": "World news | The Guardian",
       "published_at": "2025-10-20T14:50:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "2b5cdba508956bab",
-      "title_orig": "Cargo plane skids off Hong Kong runway, killing two airport workers",
-      "summary_orig": "A cargo plane operated by Turkey-based ACT Airlines skidded off a runway at Hong Kong International Airport and crashed into a security patrol car early Monday, killing two airport security workers.",
-      "lang": "en",
-      "title_en": "Cargo plane skids off Hong Kong runway, killing two airport workers",
-      "summary_en": "A cargo plane operated by Turkey-based ACT Airlines skidded off a runway at Hong Kong International Airport and crashed into a security patrol car early Monday, killing two airport security workers.",
-      "title": "Cargo plane skids off Hong Kong runway, killing two airport workers",
-      "summary": "A cargo plane operated by Turkey-based ACT Airlines skidded off a runway at Hong Kong International Airport and crashed into a security patrol car early Monday, killing two airport security workers.",
-      "url": "http://www.euronews.com/video/2025/10/20/cargo-plane-skids-off-hong-kong-runway-killing-two-airport-workers",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-10-20T14:50:29+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2405,24 +2387,6 @@
       "geo": {}
     },
     {
-      "id": "7d098d5606538b0f",
-      "title_orig": "New airstrip built on island off Yemen to counter Houthi activities in Red Sea",
-      "summary_orig": "Satellite photos from Planet Labs PBC show the construction of a nearly 2,000-metre runway on Zuqar Island, some 90 kilometres southeast of the Houthi-held port city of Hodeida.",
-      "lang": "en",
-      "title_en": "New airstrip built on island off Yemen to counter Houthi activities in Red Sea",
-      "summary_en": "Satellite photos from Planet Labs PBC show the construction of a nearly 2,000-metre runway on Zuqar Island, some 90 kilometres southeast of the Houthi-held port city of Hodeida.",
-      "title": "New airstrip built on island off Yemen to counter Houthi activities in Red Sea",
-      "summary": "Satellite photos from Planet Labs PBC show the construction of a nearly 2,000-metre runway on Zuqar Island, some 90 kilometres southeast of the Houthi-held port city of Hodeida.",
-      "url": "http://www.euronews.com/2025/10/20/new-airstrip-built-on-island-off-yemen-to-counter-houthi-activities-in-red-sea",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-10-20T11:46:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "e3d8e769c505f305",
       "title_orig": "'Gradual rollout' - How French airports are dealing with EES biometric passport checks",
       "summary_orig": "The EU's new biometric passport checks known as EES are now officially in force - but not all passengers at French airports will be asked to use the new procedure.",
@@ -2434,24 +2398,6 @@
       "url": "https://www.thelocal.fr/20251020/gradual-rollout-how-french-airports-are-dealing-with-ees-biometric-passport-checks",
       "source": "The Local France",
       "published_at": "2025-10-20T11:39:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3d065c533fcd33d9",
-      "title_orig": "Australia protests after Chinese fighter jet releases ‘unsafe’ flares near its aircraft in South China Sea",
-      "summary_orig": "Australia lodges diplomatic protest after Chinese fighter jet releases flares near Australian surveillance aircraft",
-      "lang": "en",
-      "title_en": "Australia protests after Chinese fighter jet releases ‘unsafe’ flares near its aircraft in South China Sea",
-      "summary_en": "Australia lodges diplomatic protest after Chinese fighter jet releases flares near Australian surveillance aircraft",
-      "title": "Australia protests after Chinese fighter jet releases ‘unsafe’ flares near its aircraft in South China Sea",
-      "summary": "Australia lodges diplomatic protest after Chinese fighter jet releases flares near Australian surveillance aircraft",
-      "url": "https://www.independent.co.uk/news/world/australasia/chinese-fighter-jet-raaf-flares-south-china-sea-b2848477.html",
-      "source": "The Independent World",
-      "published_at": "2025-10-20T11:31:36+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2747,33 +2693,6 @@
       "geo": {}
     },
     {
-      "id": "50083da4bce76b5a",
-      "title_orig": "Two killed as cargo plane skids off runway and crashes into sea at Hong Kong airport",
-      "summary_orig": "Two people have been killed in a cargo plane crash, after it skidded off Hong Kong's airport runway into the sea.",
-      "lang": "en",
-      "title_en": "Two killed as cargo plane skids off runway and crashes into sea at Hong Kong airport",
-      "summary_en": "Two people have been killed in a cargo plane crash, after it skidded off Hong Kong's airport runway into the sea.",
-      "title": "Two killed as cargo plane skids off runway and crashes into sea at Hong Kong airport",
-      "summary": "Two people have been killed in a cargo plane crash, after it skidded off Hong Kong's airport runway into the sea.",
-      "url": "http://www.euronews.com/2025/10/20/two-killed-as-cargo-plane-skids-off-runway-and-crashes-into-sea-at-hong-kong-airport",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-10-20T04:14:51+00:00",
-      "tags": [
-        "HKG",
-        "Hong Kong",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Hong Kong",
-        "city": "Hong Kong",
-        "country": "Hong Kong",
-        "iata": "HKG",
-        "lat": 22.308,
-        "lon": 113.9185
-      }
-    },
-    {
       "id": "9d81002287740d44",
       "title_orig": "A Boeing 747 cargo operating Emirates flight from Dubai plunged into the sea during landing at Hong Kong",
       "summary_orig": "A Boeing 747-481 freighter operating as Emirates SkyCargo flight EK9788 from Dubai veered off the runway at Hong Kong International Airport killing two ground workers. A catastrophic runway excursion occurred around 4 a.m. local time (1953Z) on runway 07L at one of Asia’s busiest cargo hubs, with the Air ACT-operated aircraft, declared a total loss […] The post A Boeing 747 cargo operating Emirates flight from Dubai plunged into the sea during landing at Hong Kong appeared first on AIRLIVE .",
@@ -3008,60 +2927,6 @@
       "geo": {}
     },
     {
-      "id": "b020e382a17e6c71",
-      "title_orig": "Trump calls Colombian president 'illegal drug dealer' in dispute over US strikes",
-      "summary_orig": "Trump's comments come after Petro accused the US government of assassination and demanded answers after the latest American strike in Caribbean waters.",
-      "lang": "en",
-      "title_en": "Trump calls Colombian president 'illegal drug dealer' in dispute over US strikes",
-      "summary_en": "Trump's comments come after Petro accused the US government of assassination and demanded answers after the latest American strike in Caribbean waters.",
-      "title": "Trump calls Colombian president 'illegal drug dealer' in dispute over US strikes",
-      "summary": "Trump's comments come after Petro accused the US government of assassination and demanded answers after the latest American strike in Caribbean waters.",
-      "url": "http://www.euronews.com/2025/10/19/watch-video-shows-us-military-strike-on-suspected-drug-carrying-submarine-in-caribbean",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-10-19T11:11:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "0c3eb6ec5c5b5903",
-      "title_orig": "Trump says ceasefire to hold after Israel airstrikes on Hamas in Rafah",
-      "summary_orig": "Trump says the ceasefire is still in place after Israel conducted airstrikes in Rafah, stating Hamas was violating the truce.",
-      "lang": "en",
-      "title_en": "Trump says ceasefire to hold after Israel airstrikes on Hamas in Rafah",
-      "summary_en": "Trump says the ceasefire is still in place after Israel conducted airstrikes in Rafah, stating Hamas was violating the truce.",
-      "title": "Trump says ceasefire to hold after Israel airstrikes on Hamas in Rafah",
-      "summary": "Trump says the ceasefire is still in place after Israel conducted airstrikes in Rafah, stating Hamas was violating the truce.",
-      "url": "http://www.euronews.com/2025/10/19/israeli-media-report-idf-strikes-in-southern-gazas-city-of-rafah-as-tensions-rise-in-fragi",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-10-19T10:38:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "23dfec2f24d4b526",
-      "title_orig": "Tens of thousands of people take to the streets in nationwide anti-Trump 'No Kings' protests",
-      "summary_orig": "Tens of thousands of protesters flooded the streets of major US cities nationwide to demand an end to President Donald Trump’s “authoritarian” rule. Hundreds of concerned Americans abroad also staged protests in several European metropolitans.",
-      "lang": "en",
-      "title_en": "Tens of thousands of people take to the streets in nationwide anti-Trump 'No Kings' protests",
-      "summary_en": "Tens of thousands of protesters flooded the streets of major US cities nationwide to demand an end to President Donald Trump’s “authoritarian” rule. Hundreds of concerned Americans abroad also staged protests in several European metropolitans.",
-      "title": "Tens of thousands of people take to the streets in nationwide anti-Trump 'No Kings' protests",
-      "summary": "Tens of thousands of protesters flooded the streets of major US cities nationwide to demand an end to President Donald Trump’s “authoritarian” rule. Hundreds of concerned Americans abroad also staged protests in several European metropolitans.",
-      "url": "http://www.euronews.com/2025/10/19/tens-of-thousands-of-people-take-to-the-streets-in-nationwide-anti-trump-no-kings-protests",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-10-19T07:40:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "a141b6396b0779e5",
       "title_orig": "Israeli Military Fires on Vehicle, Saying It Crossed Gaza Cease-Fire Line",
       "summary_orig": "Gaza’s rescue service said at least nine people, including several children, were killed in the strike in northern Gaza on Friday, underscoring the fragility of the week-old cease-fire.",
@@ -3095,24 +2960,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b2b7fb9fb350e6ba",
-      "title_orig": "Huge crowds gather in cities across United States for 'No Kings' protests against Trump",
-      "summary_orig": "More than 2,600 rallies were organised on Saturday across the country, attracting thousands of protesters in cities like Washington and New York.",
-      "lang": "en",
-      "title_en": "Huge crowds gather in cities across United States for 'No Kings' protests against Trump",
-      "summary_en": "More than 2,600 rallies were organised on Saturday across the country, attracting thousands of protesters in cities like Washington and New York.",
-      "title": "Huge crowds gather in cities across United States for 'No Kings' protests against Trump",
-      "summary": "More than 2,600 rallies were organised on Saturday across the country, attracting thousands of protesters in cities like Washington and New York.",
-      "url": "http://www.euronews.com/2025/10/18/no-kings-protests-against-trump-held-across-europe-in-solidarity-with-us-citizens",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-10-18T19:51:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3167,24 +3014,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a5c31ce167a687f0",
-      "title_orig": "Overnight barrage of Russian drones leaves thousands without power across Ukraine",
-      "summary_orig": "At least one person has been killed and thousands were without power on Saturday, after a barrage of Russian drones targeted energy facilities across Ukraine overnight.",
-      "lang": "en",
-      "title_en": "Overnight barrage of Russian drones leaves thousands without power across Ukraine",
-      "summary_en": "At least one person has been killed and thousands were without power on Saturday, after a barrage of Russian drones targeted energy facilities across Ukraine overnight.",
-      "title": "Overnight barrage of Russian drones leaves thousands without power across Ukraine",
-      "summary": "At least one person has been killed and thousands were without power on Saturday, after a barrage of Russian drones targeted energy facilities across Ukraine overnight.",
-      "url": "http://www.euronews.com/2025/10/18/overnight-barrage-of-russian-drones-leaves-thousands-without-power-across-ukraine",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-10-18T10:55:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3503,24 +3332,6 @@
       "geo": {}
     },
     {
-      "id": "93379530adad9be9",
-      "title_orig": "Dozens killed in fresh clashes along Afghanistan-Pakistan border",
-      "summary_orig": "Two sides declare ceasefire after Islamabad carries out retaliatory strikes on Kabul and Kandahar province Dozens of soldiers and civilians have been killed after fresh clashes broke out along the Afghanistan-Pakistan border and Islamabad carried out retaliatory airstrikes on the Afghan capital, Kabul, and Kandahar province. The two sides declared a ceasefire by Wednesday night after the latest outbreak of violence, which came after the deadliest cross-border clashes in years over the weekend. Continue reading...",
-      "lang": "en",
-      "title_en": "Dozens killed in fresh clashes along Afghanistan-Pakistan border",
-      "summary_en": "Two sides declare ceasefire after Islamabad carries out retaliatory strikes on Kabul and Kandahar province Dozens of soldiers and civilians have been killed after fresh clashes broke out along the Afghanistan-Pakistan border and Islamabad carried out retaliatory airstrikes on the Afghan capital, Kabul, and Kandahar province. The two sides declared a ceasefire by Wednesday night after the latest outbreak of violence, which came after the deadliest cross-border clashes in years over the weekend. Continue reading...",
-      "title": "Dozens killed in fresh clashes along Afghanistan-Pakistan border",
-      "summary": "Two sides declare ceasefire after Islamabad carries out retaliatory strikes on Kabul and Kandahar province Dozens of soldiers and civilians have been killed after fresh clashes broke out along the Afghanistan-Pakistan border and Islamabad carried out retaliatory airstrikes on the Afghan capital, Kabul, and Kandahar province. The two sides declared a ceasefire by Wednesday night after the latest outbreak of violence, which came after the deadliest cross-border clashes in years over the weekend. Continue reading...",
-      "url": "https://www.theguardian.com/world/2025/oct/15/dozens-killed-afghanistan-pakistan-border-taliban-kurram-chaman-spin-boldak-kandahar-kabul",
-      "source": "World news | The Guardian",
-      "published_at": "2025-10-15T14:51:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "43fcebcd72cbd10a",
       "title_orig": "LATEST: Copenhagen hospital porters return to work after strike",
       "summary_orig": "Porters at Copenhagen’s Rigshospitalet resumed work on Thursday following a strike which lasted two days.",
@@ -3712,78 +3523,6 @@
       "url": "https://www.latimes.com/world-nation/story/2025-10-04/israelis-rally-to-celebrate-gaza-peace-deal",
       "source": "World & Nation",
       "published_at": "2025-10-04T22:00:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5a6a0defc8e245f8",
-      "title_orig": "Israeli army ‘dropped grenades’ near Lebanon UN peacekeepers",
-      "summary_orig": "BEIRUT: The United Nations Interim Force in Lebanon said Friday that the Israeli military had dropped grenades near its peacekeepers in south Lebanon the day before, urging the army to stop such attacks.\n\tUNIFIL peacekeepers have been working with the Lebanese army to support a November ceasefire that sought to end more than a year of hostilities between Israel and militant group Hezbollah that culminated in two months of open war.",
-      "lang": "en",
-      "title_en": "Israeli army ‘dropped grenades’ near Lebanon UN peacekeepers",
-      "summary_en": "BEIRUT: The United Nations Interim Force in Lebanon said Friday that the Israeli military had dropped grenades near its peacekeepers in south Lebanon the day before, urging the army to stop such attacks.\n\tUNIFIL peacekeepers have been working with the Lebanese army to support a November ceasefire that sought to end more than a year of hostilities between Israel and militant group Hezbollah that culminated in two months of open war.",
-      "title": "Israeli army ‘dropped grenades’ near Lebanon UN peacekeepers",
-      "summary": "BEIRUT: The United Nations Interim Force in Lebanon said Friday that the Israeli military had dropped grenades near its peacekeepers in south Lebanon the day before, urging the army to stop such attacks.\n\tUNIFIL peacekeepers have been working with the Lebanese army to support a November ceasefire that sought to end more than a year of hostilities between Israel and militant group Hezbollah that culminated in two months of open war.",
-      "url": "https://www.arabnews.com/node/2617689/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-10-03T04:10:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "978738902a686713",
-      "title_orig": "Munich Airport reopens after drones reported",
-      "summary_orig": "MUNICH: Authorities temporarily shut down Munich Airport overnight after several drones were seen in the area, in the latest mysterious drone overflights in the airspace of European Union member countries.\n\tGermany’s air traffic control restricted flights at the airport shortly after 10 p.m. (2000 GMT) on Thursday and then halted them altogether, the airport said in a statement. Seventeen flights were unable to take off, affecting almost 3,000 passengers, while 15 arriving flights were diverted to three other airports in Germany and one in Vienna, Austria.",
-      "lang": "en",
-      "title_en": "Munich Airport reopens after drones reported",
-      "summary_en": "MUNICH: Authorities temporarily shut down Munich Airport overnight after several drones were seen in the area, in the latest mysterious drone overflights in the airspace of European Union member countries.\n\tGermany’s air traffic control restricted flights at the airport shortly after 10 p.m. (2000 GMT) on Thursday and then halted them altogether, the airport said in a statement. Seventeen flights were unable to take off, affecting almost 3,000 passengers, while 15 arriving flights were diverted to three other airports in Germany and one in Vienna, Austria.",
-      "title": "Munich Airport reopens after drones reported",
-      "summary": "MUNICH: Authorities temporarily shut down Munich Airport overnight after several drones were seen in the area, in the latest mysterious drone overflights in the airspace of European Union member countries.\n\tGermany’s air traffic control restricted flights at the airport shortly after 10 p.m. (2000 GMT) on Thursday and then halted them altogether, the airport said in a statement. Seventeen flights were unable to take off, affecting almost 3,000 passengers, while 15 arriving flights were diverted to three other airports in Germany and one in Vienna, Austria.",
-      "url": "https://www.arabnews.com/node/2617686/world",
-      "source": "ArabNews",
-      "published_at": "2025-10-03T04:10:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2e4a3ded1506dcfe",
-      "title_orig": "Trump sets Hamas Sunday deadline to agree peace deal",
-      "summary_orig": "DEIR AL-BALAH, Gaza Strip: US President Donald Trump said Friday that Hamas must agree to a proposed peace deal by Sunday evening, threatening an even greater military onslaught nearly two years into the war sparked by the Oct. 7 attack into Israel.",
-      "lang": "en",
-      "title_en": "Trump sets Hamas Sunday deadline to agree peace deal",
-      "summary_en": "DEIR AL-BALAH, Gaza Strip: US President Donald Trump said Friday that Hamas must agree to a proposed peace deal by Sunday evening, threatening an even greater military onslaught nearly two years into the war sparked by the Oct. 7 attack into Israel.",
-      "title": "Trump sets Hamas Sunday deadline to agree peace deal",
-      "summary": "DEIR AL-BALAH, Gaza Strip: US President Donald Trump said Friday that Hamas must agree to a proposed peace deal by Sunday evening, threatening an even greater military onslaught nearly two years into the war sparked by the Oct. 7 attack into Israel.",
-      "url": "https://www.arabnews.com/node/2617684/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-10-03T04:10:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "46db5f0775fafae2",
-      "title_orig": "Russia targets Ukraine’s natural gas facilities in biggest attack of the war",
-      "summary_orig": "KYIV, Ukraine: Russia launched its biggest attack of the war overnight against natural gas facilities run by Ukraine’s state-owned Naftogaz Group, officials said Friday.\n\tRussia fired a total of 381 drones and 35 missiles at Ukraine, according to Ukraine’s air force in what officials said was an attempt to wreck the Ukrainian power grid ahead of winter and wear down public appetite for the 3-year-old conflict.",
-      "lang": "en",
-      "title_en": "Russia targets Ukraine’s natural gas facilities in biggest attack of the war",
-      "summary_en": "KYIV, Ukraine: Russia launched its biggest attack of the war overnight against natural gas facilities run by Ukraine’s state-owned Naftogaz Group, officials said Friday.\n\tRussia fired a total of 381 drones and 35 missiles at Ukraine, according to Ukraine’s air force in what officials said was an attempt to wreck the Ukrainian power grid ahead of winter and wear down public appetite for the 3-year-old conflict.",
-      "title": "Russia targets Ukraine’s natural gas facilities in biggest attack of the war",
-      "summary": "KYIV, Ukraine: Russia launched its biggest attack of the war overnight against natural gas facilities run by Ukraine’s state-owned Naftogaz Group, officials said Friday.\n\tRussia fired a total of 381 drones and 35 missiles at Ukraine, according to Ukraine’s air force in what officials said was an attempt to wreck the Ukrainian power grid ahead of winter and wear down public appetite for the 3-year-old conflict.",
-      "url": "https://www.arabnews.com/node/2617676/world",
-      "source": "ArabNews",
-      "published_at": "2025-10-03T00:10:17+00:00",
       "tags": [
         "airport/security"
       ],
