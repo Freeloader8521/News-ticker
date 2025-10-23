@@ -1,6 +1,87 @@
 {
-  "generated_at": "2025-10-23T20:46:06.761424+00:00",
+  "generated_at": "2025-10-23T21:18:36.760740+00:00",
   "items": [
+    {
+      "id": "8ef9aff8843d1fc7",
+      "title_orig": "Man detained after playing Star Wars 'Imperial March' as National Guard members walked by, lawsuit states",
+      "summary_orig": "Sam O'Hara is suing D.C. for allegedly detaining him during a peaceful protest as he played the Imperial March song for National Guard members.",
+      "lang": "en",
+      "title_en": "Man detained after playing Star Wars 'Imperial March' as National Guard members walked by, lawsuit states",
+      "summary_en": "Sam O'Hara is suing D.C. for allegedly detaining him during a peaceful protest as he played the Imperial March song for National Guard members.",
+      "title": "Man detained after playing Star Wars 'Imperial March' as National Guard members walked by, lawsuit states",
+      "summary": "Sam O'Hara is suing D.C. for allegedly detaining him during a peaceful protest as he played the Imperial March song for National Guard members.",
+      "url": "https://www.kgw.com/article/news/nation-world/man-detained-after-playing-star-wars-imperial-march-as-national-guard-members-walked-by-lawsuit-states/507-186e99da-c89e-4e42-a3be-b155f2043f00",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2025-10-23T21:09:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e5107f5944fc5768",
+      "title_orig": "Island Hopping: Air Canada's Major Expansion At Billy Bishop Toronto City Airport",
+      "summary_orig": "The new routes will put Air Canada in direct competition with Porter Airlines.",
+      "lang": "en",
+      "title_en": "Island Hopping: Air Canada's Major Expansion At Billy Bishop Toronto City Airport",
+      "summary_en": "The new routes will put Air Canada in direct competition with Porter Airlines.",
+      "title": "Island Hopping: Air Canada's Major Expansion At Billy Bishop Toronto City Airport",
+      "summary": "The new routes will put Air Canada in direct competition with Porter Airlines.",
+      "url": "https://simpleflying.com/island-hopping-air-canada-expansion/",
+      "source": "Simple Flying",
+      "published_at": "2025-10-23T21:05:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f523e0ebf4528e5e",
+      "title_orig": "Trump insiste en que puede atacar a presuntos narcotraficantes sin que el Congreso declare la guerra",
+      "summary_orig": "El presidente de Estados Unidos, Donald Trump, insistió este jueves en que podía continuar lanzando ataques contra presuntos narcotraficantes sin…",
+      "lang": "es",
+      "title_en": "Trump insists he can attack suspected drug traffickers without Congress declaring war",
+      "summary_en": "The president of the United States, Donald Trump, insisted this Thursday that he could continue launching attacks against suspected drug traffickers without…",
+      "title": "Trump insists he can attack suspected drug traffickers without Congress declaring war",
+      "summary": "The president of the United States, Donald Trump, insisted this Thursday that he could continue launching attacks against suspected drug traffickers without…",
+      "url": "https://wtop.com/news/2025/10/trump-insiste-en-que-puede-atacar-a-presuntos-narcotraficantes-sin-que-el-congreso-declare-la-guerra/",
+      "source": "WTOP News",
+      "published_at": "2025-10-23T21:05:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "157aed1abc59f5c1",
+      "title_orig": "Pilots of Air France flight AF6732 to Chicago declared an emergency shortly after takeoff from Paris",
+      "summary_orig": "A Boeing 777 cargo returned to Paris Charles de Gaulle Airport after pilots declared an emergency. Air France flight AF6732 departed Paris Charles de Gaulle Airport tonight at 20:17 CEST to Chicago O’Hare International Airport. The Boeing 777 cargo version (registration F-GUOB) climbed from runway 26R until 10,000 feet then pilots contacted the tower about […] The post Pilots of Air France flight AF6732 to Chicago declared an emergency shortly after takeoff from Paris appeared first on AIRLIVE .",
+      "lang": "en",
+      "title_en": "Pilots of Air France flight AF6732 to Chicago declared an emergency shortly after takeoff from Paris",
+      "summary_en": "A Boeing 777 cargo returned to Paris Charles de Gaulle Airport after pilots declared an emergency. Air France flight AF6732 departed Paris Charles de Gaulle Airport tonight at 20:17 CEST to Chicago O’Hare International Airport. The Boeing 777 cargo version (registration F-GUOB) climbed from runway 26R until 10,000 feet then pilots contacted the tower about […] The post Pilots of Air France flight AF6732 to Chicago declared an emergency shortly after takeoff from Paris appeared first on AIRLIVE .",
+      "title": "Pilots of Air France flight AF6732 to Chicago declared an emergency shortly after takeoff from Paris",
+      "summary": "A Boeing 777 cargo returned to Paris Charles de Gaulle Airport after pilots declared an emergency. Air France flight AF6732 departed Paris Charles de Gaulle Airport tonight at 20:17 CEST to Chicago O’Hare International Airport. The Boeing 777 cargo version (registration F-GUOB) climbed from runway 26R until 10,000 feet then pilots contacted the tower about […] The post Pilots of Air France flight AF6732 to Chicago declared an emergency shortly after takeoff from Paris appeared first on AIRLIVE .",
+      "url": "https://airlive.net/emergency/2025/10/23/pilots-of-air-france-flight-af6732-to-chicago-declared-an-emergency-shortly-after-takeoff-from-paris/",
+      "source": "AIRLIVE",
+      "published_at": "2025-10-23T21:00:06+00:00",
+      "tags": [
+        "CDG",
+        "France",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Charles de Gaulle",
+        "city": "Paris",
+        "country": "France",
+        "iata": "CDG",
+        "lat": 49.0097,
+        "lon": 2.5479
+      }
+    },
     {
       "id": "9865564562352ef2",
       "title_orig": "Owner charged after dog attacks unsuspecting neighbor in Cumberland County",
@@ -38,6 +119,24 @@
       "geo": {}
     },
     {
+      "id": "5e7c8f42751f47df",
+      "title_orig": "Trump cancels plans to send federal troops to San Francisco for immigration crackdown",
+      "summary_orig": "President confirmed he spoke with mayor Daniel Lurie and Silicon Valley leaders about calling off deployment Donald Trump has cancelled plans for a deployment of federal troops to San Francisco that had sparked widespread condemnation from California leaders and sent protesters flooding into the streets. The Bay Area region had been on edge after reports emerged on Wednesday that the Trump administration was poised to send more than 100 Customs and Border Protection (CBP) and other federal agents to the US Coast Guard base in Alameda, a city in the East Bay, as part of a large-scale immigration enforcement plan. Continue reading...",
+      "lang": "en",
+      "title_en": "Trump cancels plans to send federal troops to San Francisco for immigration crackdown",
+      "summary_en": "President confirmed he spoke with mayor Daniel Lurie and Silicon Valley leaders about calling off deployment Donald Trump has cancelled plans for a deployment of federal troops to San Francisco that had sparked widespread condemnation from California leaders and sent protesters flooding into the streets. The Bay Area region had been on edge after reports emerged on Wednesday that the Trump administration was poised to send more than 100 Customs and Border Protection (CBP) and other federal agents to the US Coast Guard base in Alameda, a city in the East Bay, as part of a large-scale immigration enforcement plan. Continue reading...",
+      "title": "Trump cancels plans to send federal troops to San Francisco for immigration crackdown",
+      "summary": "President confirmed he spoke with mayor Daniel Lurie and Silicon Valley leaders about calling off deployment Donald Trump has cancelled plans for a deployment of federal troops to San Francisco that had sparked widespread condemnation from California leaders and sent protesters flooding into the streets. The Bay Area region had been on edge after reports emerged on Wednesday that the Trump administration was poised to send more than 100 Customs and Border Protection (CBP) and other federal agents to the US Coast Guard base in Alameda, a city in the East Bay, as part of a large-scale immigration enforcement plan. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2025/oct/23/san-francisco-federal-immigration-operation",
+      "source": "World news | The Guardian",
+      "published_at": "2025-10-23T20:29:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "4f5f50089ea74cfa",
       "title_orig": "DC man who followed troops around playing Darth Vader theme sues over his arrest",
       "summary_orig": "Sam O’Hara posted his Star Wars –themed protests of Trump’s DC troop deployment on TikTok, racking up 1 million likes",
@@ -71,6 +170,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c2df195749f1cbf5",
+      "title_orig": "Trump halts San Francisco deployment amid Bay Area protests",
+      "summary_orig": "US President Donald Trump said he will not deploy federal agents to San Francisco after a call with Mayor Daniel Lurie",
+      "lang": "en",
+      "title_en": "Trump halts San Francisco deployment amid Bay Area protests",
+      "summary_en": "US President Donald Trump said he will not deploy federal agents to San Francisco after a call with Mayor Daniel Lurie",
+      "title": "Trump halts San Francisco deployment amid Bay Area protests",
+      "summary": "US President Donald Trump said he will not deploy federal agents to San Francisco after a call with Mayor Daniel Lurie",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-halts-san-francisco-deployment-amid-bay-area-protests?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-10-23T20:16:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -182,24 +299,6 @@
       "geo": {}
     },
     {
-      "id": "4c976759436b752d",
-      "title_orig": "Trial of 3 Trail firefighters, charged with off-duty assault, set to go ahead",
-      "summary_orig": "Firefighters Richard Morris and Gregory Ferraby, along with Wesley Parsons, face one count of assault each. The alleged 2023 attack took place while they were off duty.",
-      "lang": "en",
-      "title_en": "Trial of 3 Trail firefighters, charged with off-duty assault, set to go ahead",
-      "summary_en": "Firefighters Richard Morris and Gregory Ferraby, along with Wesley Parsons, face one count of assault each. The alleged 2023 attack took place while they were off duty.",
-      "title": "Trial of 3 Trail firefighters, charged with off-duty assault, set to go ahead",
-      "summary": "Firefighters Richard Morris and Gregory Ferraby, along with Wesley Parsons, face one count of assault each. The alleged 2023 attack took place while they were off duty.",
-      "url": "https://globalnews.ca/news/11491685/trial-3-trail-firefighters-charged-assault-off-duty/",
-      "source": "globalnews.ca",
-      "published_at": "2025-10-23T19:36:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d5e32dc84f56ee66",
       "title_orig": "Two Russian planes make hurried incursion into Lithuanian airspace",
       "summary_orig": "Lithuania summoned a Russian diplomat in protest after two Russian planes entered its airspace on Thursday, the Lithuanian foreign ministry said.\nA Sukhoi SU-30 fighter and an IL-78 tanker from the Russian exclave of Kaliningrad passed through Lithuanian airspace for 700 metres (2,300ft) before leaving it 18 seconds later, probably during aerial refuelling training, according to a short statement from the Nato member country’s military.\nLater on Thursday, the Lithuanian foreign ministry said it...",
@@ -211,24 +310,6 @@
       "url": "https://www.scmp.com/news/world/europe/article/3330127/lithuania-summons-russian-diplomat-after-airspace-incursion?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2025-10-23T19:34:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9344d62aeb3a90e9",
-      "title_orig": "Winnipeg Blue Bombers set record with 14 consecutive home sell-outs",
-      "summary_orig": "The club announced Thursday that it has officially sold out every regular-season home game of 2025 — recording a total of 14 consecutive sell-outs since August 2024.",
-      "lang": "en",
-      "title_en": "Winnipeg Blue Bombers set record with 14 consecutive home sell-outs",
-      "summary_en": "The club announced Thursday that it has officially sold out every regular-season home game of 2025 — recording a total of 14 consecutive sell-outs since August 2024.",
-      "title": "Winnipeg Blue Bombers set record with 14 consecutive home sell-outs",
-      "summary": "The club announced Thursday that it has officially sold out every regular-season home game of 2025 — recording a total of 14 consecutive sell-outs since August 2024.",
-      "url": "https://globalnews.ca/news/11491698/winnipeg-blue-bombers-home-sell-outs-record/",
-      "source": "globalnews.ca",
-      "published_at": "2025-10-23T19:32:36+00:00",
       "tags": [
         "airport/security"
       ],
@@ -344,24 +425,6 @@
       "geo": {}
     },
     {
-      "id": "8ef9aff8843d1fc7",
-      "title_orig": "Man detained after playing Star Wars 'Imperial March' as National Guard members walked by, lawsuit states",
-      "summary_orig": "Sam O'Hara is suing D.C. for allegedly detaining him during a peaceful protest as he played the Imperial March song for National Guard members.",
-      "lang": "en",
-      "title_en": "Man detained after playing Star Wars 'Imperial March' as National Guard members walked by, lawsuit states",
-      "summary_en": "Sam O'Hara is suing D.C. for allegedly detaining him during a peaceful protest as he played the Imperial March song for National Guard members.",
-      "title": "Man detained after playing Star Wars 'Imperial March' as National Guard members walked by, lawsuit states",
-      "summary": "Sam O'Hara is suing D.C. for allegedly detaining him during a peaceful protest as he played the Imperial March song for National Guard members.",
-      "url": "https://www.kgw.com/article/news/nation-world/man-detained-after-playing-star-wars-imperial-march-as-national-guard-members-walked-by-lawsuit-states/507-186e99da-c89e-4e42-a3be-b155f2043f00",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2025-10-23T18:52:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5cb7c0a017c99039",
       "title_orig": "Soldier F case should serve as a caution for future Troubles prosecutions",
       "summary_orig": "In finding F not guilty of murder on Bloody Sunday, judge said evidence fell well short of the standard required It is undisputed that members of the Parachute regiment shot dead 13 unarmed civil rights protesters in Derry on Bloody Sunday. But, more than 53 years later, it is not surprising that Soldier F, the only man put on trial for murder, was found not guilty . Though four of the Paras who entered Glenfada Park North had “lost all sense of military discipline”, according to Mr Justice Lynch, direct evidence against Soldier F fell well short of “the high standard of proof required in a criminal case”. Continue reading...",
@@ -452,24 +515,6 @@
       "geo": {}
     },
     {
-      "id": "aa810c32b461dfcb",
-      "title_orig": "High-speed video captures how venomous snakes attack their prey",
-      "summary_orig": "Dozens of species of snakes have been captured on high-speed cameras, with researchers finding vipers were the fastest, but an Australian snake was not far behind.",
-      "lang": "en",
-      "title_en": "High-speed video captures how venomous snakes attack their prey",
-      "summary_en": "Dozens of species of snakes have been captured on high-speed cameras, with researchers finding vipers were the fastest, but an Australian snake was not far behind.",
-      "title": "High-speed video captures how venomous snakes attack their prey",
-      "summary": "Dozens of species of snakes have been captured on high-speed cameras, with researchers finding vipers were the fastest, but an Australian snake was not far behind.",
-      "url": "https://www.abc.net.au/news/science/2025-10-24/high-speed-camera-capture-how-venomous-snakes-bite/105913424",
-      "source": "Just In",
-      "published_at": "2025-10-23T18:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "64f4fd1516a1d529",
       "title_orig": "Russia launches barrage of drone strikes across Ukraine",
       "summary_orig": "Russia launched dozens of drones and decoy drones across Ukrainian territory, including one that hit a school building.",
@@ -521,24 +566,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5e7c8f42751f47df",
-      "title_orig": "Trump cancels plans to send federal troops to San Francisco for immigration crackdown",
-      "summary_orig": "President confirmed he spoke with mayor Daniel Lurie and Silicon Valley leaders about calling off deployment Donald Trump has cancelled plans for a deployment of federal troops to the San Francisco Bay Area that had sparked widespread condemnation from California leaders and sent protesters flooding into the streets. The region had been on edge after reports emerged on Wednesday that the Trump administration was poised to send more than 100 Customs and Border Protection (CBP) and other federal agents to the US Coast Guard base in Alameda, across the Bay from San Francisco, as part of a large-scale immigration enforcement plan. Continue reading...",
-      "lang": "en",
-      "title_en": "Trump cancels plans to send federal troops to San Francisco for immigration crackdown",
-      "summary_en": "President confirmed he spoke with mayor Daniel Lurie and Silicon Valley leaders about calling off deployment Donald Trump has cancelled plans for a deployment of federal troops to the San Francisco Bay Area that had sparked widespread condemnation from California leaders and sent protesters flooding into the streets. The region had been on edge after reports emerged on Wednesday that the Trump administration was poised to send more than 100 Customs and Border Protection (CBP) and other federal agents to the US Coast Guard base in Alameda, across the Bay from San Francisco, as part of a large-scale immigration enforcement plan. Continue reading...",
-      "title": "Trump cancels plans to send federal troops to San Francisco for immigration crackdown",
-      "summary": "President confirmed he spoke with mayor Daniel Lurie and Silicon Valley leaders about calling off deployment Donald Trump has cancelled plans for a deployment of federal troops to the San Francisco Bay Area that had sparked widespread condemnation from California leaders and sent protesters flooding into the streets. The region had been on edge after reports emerged on Wednesday that the Trump administration was poised to send more than 100 Customs and Border Protection (CBP) and other federal agents to the US Coast Guard base in Alameda, across the Bay from San Francisco, as part of a large-scale immigration enforcement plan. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2025/oct/23/san-francisco-federal-immigration-operation",
-      "source": "World news | The Guardian",
-      "published_at": "2025-10-23T18:19:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -652,12 +679,12 @@
     },
     {
       "id": "8fad3b67a4ac949c",
-      "title_orig": "Bihar voters must choose between NDA’s vikas and INDIA’s bloc vinaash: BJP chief J.P. Nadda",
+      "title_orig": "Bihar voters must choose between NDA’s vikas and INDIA bloc’s vinaash: Nadda",
       "summary_orig": "BJP chief launches sharp attack against alleged corruption by RJD leader Tejashwi Yadav, the CM face of the Opposition alliance; mocks RJD’s employment promises given land-for-jobs scam case against Mr. Yadav",
       "lang": "en",
-      "title_en": "Bihar voters must choose between NDA’s vikas and INDIA’s bloc vinaash: BJP chief J.P. Nadda",
+      "title_en": "Bihar voters must choose between NDA’s vikas and INDIA bloc’s vinaash: Nadda",
       "summary_en": "BJP chief launches sharp attack against alleged corruption by RJD leader Tejashwi Yadav, the CM face of the Opposition alliance; mocks RJD’s employment promises given land-for-jobs scam case against Mr. Yadav",
-      "title": "Bihar voters must choose between NDA’s vikas and INDIA’s bloc vinaash: BJP chief J.P. Nadda",
+      "title": "Bihar voters must choose between NDA’s vikas and INDIA bloc’s vinaash: Nadda",
       "summary": "BJP chief launches sharp attack against alleged corruption by RJD leader Tejashwi Yadav, the CM face of the Opposition alliance; mocks RJD’s employment promises given land-for-jobs scam case against Mr. Yadav",
       "url": "https://www.thehindu.com/elections/bihar-assembly/bihar-voters-must-choose-between-ndas-vikas-and-indias-bloc-vinaash-bjp-chief-jp-nadda/article70194784.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
@@ -1499,12 +1526,12 @@
     {
       "id": "d16c17b55b2b9b7a",
       "title_orig": "Labor needs to bow to Liberals or Greens or its environment law revamp is dead",
-      "summary_orig": "Albanese government will need to make major concessions to pass promised federal nature laws as Liberals attack ‘nature positive 2.0’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Albanese government will need to cough up major concessions to either the Coalition or the Greens to have any hope of overhauling federal nature laws after the two parties ruled out supporting the current plan. The environment minister, Murray Watt, said he was open to working with either side, but wouldn’t speculate about possible changes, leaving the fate of the promised re-write of the Environment Protection and Biodiversity Conservation (EPBC) Act unknown ahead of its introduction to parliament in the upcoming sitting fortnight. Continue reading...",
+      "summary_orig": "Albanese government will need to make major concessions to pass promised federal nature laws as Liberals attack ‘nature positive 2.0’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Albanese government will need to cough up major concessions to either the Coalition or the Greens to have any hope of overhauling federal nature laws after the two parties ruled out supporting the current plan. The environment minister, Murray Watt, said he was open to working with either side but would not speculate about possible changes, leaving the fate of the promised re-write of the Environment Protection and Biodiversity Conservation (EPBC) Act unknown before its introduction to parliament in the upcoming sitting fortnight. Continue reading...",
       "lang": "en",
       "title_en": "Labor needs to bow to Liberals or Greens or its environment law revamp is dead",
-      "summary_en": "Albanese government will need to make major concessions to pass promised federal nature laws as Liberals attack ‘nature positive 2.0’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Albanese government will need to cough up major concessions to either the Coalition or the Greens to have any hope of overhauling federal nature laws after the two parties ruled out supporting the current plan. The environment minister, Murray Watt, said he was open to working with either side, but wouldn’t speculate about possible changes, leaving the fate of the promised re-write of the Environment Protection and Biodiversity Conservation (EPBC) Act unknown ahead of its introduction to parliament in the upcoming sitting fortnight. Continue reading...",
+      "summary_en": "Albanese government will need to make major concessions to pass promised federal nature laws as Liberals attack ‘nature positive 2.0’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Albanese government will need to cough up major concessions to either the Coalition or the Greens to have any hope of overhauling federal nature laws after the two parties ruled out supporting the current plan. The environment minister, Murray Watt, said he was open to working with either side but would not speculate about possible changes, leaving the fate of the promised re-write of the Environment Protection and Biodiversity Conservation (EPBC) Act unknown before its introduction to parliament in the upcoming sitting fortnight. Continue reading...",
       "title": "Labor needs to bow to Liberals or Greens or its environment law revamp is dead",
-      "summary": "Albanese government will need to make major concessions to pass promised federal nature laws as Liberals attack ‘nature positive 2.0’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Albanese government will need to cough up major concessions to either the Coalition or the Greens to have any hope of overhauling federal nature laws after the two parties ruled out supporting the current plan. The environment minister, Murray Watt, said he was open to working with either side, but wouldn’t speculate about possible changes, leaving the fate of the promised re-write of the Environment Protection and Biodiversity Conservation (EPBC) Act unknown ahead of its introduction to parliament in the upcoming sitting fortnight. Continue reading...",
+      "summary": "Albanese government will need to make major concessions to pass promised federal nature laws as Liberals attack ‘nature positive 2.0’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Albanese government will need to cough up major concessions to either the Coalition or the Greens to have any hope of overhauling federal nature laws after the two parties ruled out supporting the current plan. The environment minister, Murray Watt, said he was open to working with either side but would not speculate about possible changes, leaving the fate of the promised re-write of the Environment Protection and Biodiversity Conservation (EPBC) Act unknown before its introduction to parliament in the upcoming sitting fortnight. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2025/oct/24/labor-needs-to-bow-to-liberals-or-greens-or-its-environment-law-revamp-is-dead",
       "source": "World news | The Guardian",
       "published_at": "2025-10-23T14:00:22+00:00",
@@ -3515,24 +3542,6 @@
       "url": "https://airlive.net/incident/2025/10/18/all-flights-suspended-at-dhaka-shahjalal-international-airports-cargo-area-in-dhaka/",
       "source": "AIRLIVE",
       "published_at": "2025-10-18T14:47:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8397d44b0c2c0c79",
-      "title_orig": "Two United Airlines Boeing aircraft were involved in a ground collision at Chicago",
-      "summary_orig": "Two United Airlines aircraft collided on the apron of Chicago O’Hare International Airport on Friday afternoon. Flight UA2652 was carrying 113 customers and five crew members at the time of the incident, bringing the total number of people involved to 118. The Boeing 737-700 (registration N21723) had apparently completed its flight and was maneuvering through […] The post Two United Airlines Boeing aircraft were involved in a ground collision at Chicago appeared first on AIRLIVE .",
-      "lang": "en",
-      "title_en": "Two United Airlines Boeing aircraft were involved in a ground collision at Chicago",
-      "summary_en": "Two United Airlines aircraft collided on the apron of Chicago O’Hare International Airport on Friday afternoon. Flight UA2652 was carrying 113 customers and five crew members at the time of the incident, bringing the total number of people involved to 118. The Boeing 737-700 (registration N21723) had apparently completed its flight and was maneuvering through […] The post Two United Airlines Boeing aircraft were involved in a ground collision at Chicago appeared first on AIRLIVE .",
-      "title": "Two United Airlines Boeing aircraft were involved in a ground collision at Chicago",
-      "summary": "Two United Airlines aircraft collided on the apron of Chicago O’Hare International Airport on Friday afternoon. Flight UA2652 was carrying 113 customers and five crew members at the time of the incident, bringing the total number of people involved to 118. The Boeing 737-700 (registration N21723) had apparently completed its flight and was maneuvering through […] The post Two United Airlines Boeing aircraft were involved in a ground collision at Chicago appeared first on AIRLIVE .",
-      "url": "https://airlive.net/incident/2025/10/18/two-united-airlines-boeing-aircraft-were-involved-in-a-ground-collision-at-chicago/",
-      "source": "AIRLIVE",
-      "published_at": "2025-10-18T11:22:50+00:00",
       "tags": [
         "airport/security"
       ],
