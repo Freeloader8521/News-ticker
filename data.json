@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T22:19:18.837865+00:00",
+  "generated_at": "2025-10-24T22:45:50.694516+00:00",
   "items": [
     {
       "id": "114b0403395acf42",
@@ -12,7 +12,7 @@
       "summary": "The Trump administration has acknowledged 10 strikes on suspected drug-smuggling boats from South America, which have killed 43 people.",
       "url": "https://www.nytimes.com/2025/10/24/us/politics/caribbean-sea-boat-strike-us-venezuela.html",
       "source": "NYT > World News",
-      "published_at": "2025-10-24T22:05:03+00:00",
+      "published_at": "2025-10-24T22:34:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -20,21 +20,93 @@
       "geo": {}
     },
     {
-      "id": "56cbcd8a491cde25",
-      "title_orig": "In emotional speech, Zohran Mamdani defends Muslim identity against ‘racist and baseless’ attacks",
-      "summary_orig": "NEW YORK (AP) — Zohran Mamdani, the Democratic nominee for New York City mayor, pledged Friday to further embrace his…",
+      "id": "25c983bf9a773321",
+      "title_orig": "2,000 mink released from Iowa farm in what trade group calls ‘terrorist act’",
+      "summary_orig": "One or more intruders broke into an Iowa mink farm and released 2,000 of the furbearing animals in what a…",
       "lang": "en",
-      "title_en": "In emotional speech, Zohran Mamdani defends Muslim identity against ‘racist and baseless’ attacks",
-      "summary_en": "NEW YORK (AP) — Zohran Mamdani, the Democratic nominee for New York City mayor, pledged Friday to further embrace his…",
-      "title": "In emotional speech, Zohran Mamdani defends Muslim identity against ‘racist and baseless’ attacks",
-      "summary": "NEW YORK (AP) — Zohran Mamdani, the Democratic nominee for New York City mayor, pledged Friday to further embrace his…",
-      "url": "https://wtop.com/national/2025/10/in-emotional-speech-zohran-mamdani-defends-muslim-identity-against-racist-and-baseless-attacks/",
+      "title_en": "2,000 mink released from Iowa farm in what trade group calls ‘terrorist act’",
+      "summary_en": "One or more intruders broke into an Iowa mink farm and released 2,000 of the furbearing animals in what a…",
+      "title": "2,000 mink released from Iowa farm in what trade group calls ‘terrorist act’",
+      "summary": "One or more intruders broke into an Iowa mink farm and released 2,000 of the furbearing animals in what a…",
+      "url": "https://wtop.com/lifestyle/2025/10/2000-mink-released-from-iowa-farm-in-what-trade-group-calls-terrorist-act/",
       "source": "WTOP News",
-      "published_at": "2025-10-24T21:54:17+00:00",
+      "published_at": "2025-10-24T22:27:25+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c23a7002a6db0414",
+      "title_orig": "Weather balloon incursion forces Lithuania’s biggest airports to close",
+      "summary_orig": "Vilnius and Kaunas airports close after balloons drift into country’s airspace for third time this month Lithuania closed its two biggest airports on Friday and shut crossings on its border with Belarus after helium weather balloons drifted into its territory, the third such occurrence in the Baltic state this month. European aviation has repeatedly been thrown into chaos in recent weeks by drone sightings and other air incursions, including at airports in Copenhagen, Munich and the Baltic region . Continue reading...",
+      "lang": "en",
+      "title_en": "Weather balloon incursion forces Lithuania’s biggest airports to close",
+      "summary_en": "Vilnius and Kaunas airports close after balloons drift into country’s airspace for third time this month Lithuania closed its two biggest airports on Friday and shut crossings on its border with Belarus after helium weather balloons drifted into its territory, the third such occurrence in the Baltic state this month. European aviation has repeatedly been thrown into chaos in recent weeks by drone sightings and other air incursions, including at airports in Copenhagen, Munich and the Baltic region . Continue reading...",
+      "title": "Weather balloon incursion forces Lithuania’s biggest airports to close",
+      "summary": "Vilnius and Kaunas airports close after balloons drift into country’s airspace for third time this month Lithuania closed its two biggest airports on Friday and shut crossings on its border with Belarus after helium weather balloons drifted into its territory, the third such occurrence in the Baltic state this month. European aviation has repeatedly been thrown into chaos in recent weeks by drone sightings and other air incursions, including at airports in Copenhagen, Munich and the Baltic region . Continue reading...",
+      "url": "https://www.theguardian.com/world/2025/oct/24/weather-balloon-incursion-forces-lithuanias-biggest-airports-to-close",
+      "source": "World news | The Guardian",
+      "published_at": "2025-10-24T22:23:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f0a3cd9601ca5644",
+      "title_orig": "Leeds Bradford Airport closes overnight amid runway issue",
+      "summary_orig": "Leeds Bradford is a 24-hour airport.",
+      "lang": "en",
+      "title_en": "Leeds Bradford Airport closes overnight amid runway issue",
+      "summary_en": "Leeds Bradford is a 24-hour airport.",
+      "title": "Leeds Bradford Airport closes overnight amid runway issue",
+      "summary": "Leeds Bradford is a 24-hour airport.",
+      "url": "https://www.standard.co.uk/news/uk/leeds-bradford-airport-closes-overnight-amid-runway-issue-b1254857.html",
+      "source": "The Standard News",
+      "published_at": "2025-10-24T22:13:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "84ccf55dda12b4c6",
+      "title_orig": "Shots fired, driver hurt and held after truck rams into Coast Guard base in San Francisco",
+      "summary_orig": "A truck driver who backed into a U.S. Coast Guard base in the San Francisco Bay Area — the site of earlier protests against federal immigration agents — was shot by law enforcement officers and wounded, authorities said Friday. The driver was being held for a mental health evaluation after “attempting to weaponize the vehicle [...]",
+      "lang": "en",
+      "title_en": "Shots fired, driver hurt and held after truck rams into Coast Guard base in San Francisco",
+      "summary_en": "A truck driver who backed into a U.S. Coast Guard base in the San Francisco Bay Area — the site of earlier protests against federal immigration agents — was shot by law enforcement officers and wounded, authorities said Friday. The driver was being held for a mental health evaluation after “attempting to weaponize the vehicle [...]",
+      "title": "Shots fired, driver hurt and held after truck rams into Coast Guard base in San Francisco",
+      "summary": "A truck driver who backed into a U.S. Coast Guard base in the San Francisco Bay Area — the site of earlier protests against federal immigration agents — was shot by law enforcement officers and wounded, authorities said Friday. The driver was being held for a mental health evaluation after “attempting to weaponize the vehicle [...]",
+      "url": "https://fox5sandiego.com/news/ap-shots-fired-at-vehicle-after-it-backs-into-us-coast-guard-base-in-the-san-francisco-bay-area/",
+      "source": "FOX 5 San Diego & KUSI News",
+      "published_at": "2025-10-24T22:07:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4a57a10cd544d61a",
+      "title_orig": "Lithuania shuts airports, Belarus border crossings after balloon sightings",
+      "summary_orig": "Move to close Vilnius, Kaunas airports and border comes after helium balloons drifted into the country's territory.",
+      "lang": "en",
+      "title_en": "Lithuania shuts airports, Belarus border crossings after balloon sightings",
+      "summary_en": "Move to close Vilnius, Kaunas airports and border comes after helium balloons drifted into the country's territory.",
+      "title": "Lithuania shuts airports, Belarus border crossings after balloon sightings",
+      "summary": "Move to close Vilnius, Kaunas airports and border comes after helium balloons drifted into the country's territory.",
+      "url": "https://www.aljazeera.com/news/2025/10/24/lithuania-shuts-airports-belarus-border-crossings-after-balloon-sightings?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-10-24T21:53:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -290,42 +362,6 @@
       "geo": {}
     },
     {
-      "id": "63849b0321901cc8",
-      "title_orig": "D.C. man sues after detainment for following National Guard playing ‘Star Wars’ song",
-      "summary_orig": "A D.C. man filed a lawsuit stating that 'The Imperial March' is used in his peaceful protests against U.S. President Donald Trump's deployment of National Guard members.",
-      "lang": "en",
-      "title_en": "D.C. man sues after detainment for following National Guard playing ‘Star Wars’ song",
-      "summary_en": "A D.C. man filed a lawsuit stating that 'The Imperial March' is used in his peaceful protests against U.S. President Donald Trump's deployment of National Guard members.",
-      "title": "D.C. man sues after detainment for following National Guard playing ‘Star Wars’ song",
-      "summary": "A D.C. man filed a lawsuit stating that 'The Imperial March' is used in his peaceful protests against U.S. President Donald Trump's deployment of National Guard members.",
-      "url": "https://globalnews.ca/news/11493465/sam-ohara-sues-national-guard-star-wars-song/",
-      "source": "globalnews.ca",
-      "published_at": "2025-10-24T19:53:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "36bb9c7c1fbf9bee",
-      "title_orig": "In emotional speech, Zohran Mamdani defends Muslim identity against ‘racist and baseless’ attacks",
-      "summary_orig": "Zohran Mamdani, the Democratic nominee for New York City mayor, is pledging to embrace his Muslim identity amid growing attacks in the final days of the campaign.",
-      "lang": "en",
-      "title_en": "In emotional speech, Zohran Mamdani defends Muslim identity against ‘racist and baseless’ attacks",
-      "summary_en": "Zohran Mamdani, the Democratic nominee for New York City mayor, is pledging to embrace his Muslim identity amid growing attacks in the final days of the campaign.",
-      "title": "In emotional speech, Zohran Mamdani defends Muslim identity against ‘racist and baseless’ attacks",
-      "summary": "Zohran Mamdani, the Democratic nominee for New York City mayor, is pledging to embrace his Muslim identity amid growing attacks in the final days of the campaign.",
-      "url": "https://www.seattletimes.com/nation-world/nation/in-emotional-speech-zohran-mamdani-defends-muslim-identity-against-racist-and-baseless-attacks/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-24T19:51:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "46128b91e92b3277",
       "title_orig": "4 people honored for saving Kentucky State Trooper's life after shooting",
       "summary_orig": "Trooper Jude Remilien was shot in the leg outside the Blue Grass Airport while attempting to conduct a traffic stop.",
@@ -377,42 +413,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "84ccf55dda12b4c6",
-      "title_orig": "Shots fired, driver hurt and held after truck rams into Coast Guard base in San Francisco",
-      "summary_orig": "A truck driver who backed into a U.S. Coast Guard base in the San Francisco Bay Area — the site of earlier protests against federal immigration agents — was shot at by law enforcement officers and wounded, authorities said Friday.",
-      "lang": "en",
-      "title_en": "Shots fired, driver hurt and held after truck rams into Coast Guard base in San Francisco",
-      "summary_en": "A truck driver who backed into a U.S. Coast Guard base in the San Francisco Bay Area — the site of earlier protests against federal immigration agents — was shot at by law enforcement officers and wounded, authorities said Friday.",
-      "title": "Shots fired, driver hurt and held after truck rams into Coast Guard base in San Francisco",
-      "summary": "A truck driver who backed into a U.S. Coast Guard base in the San Francisco Bay Area — the site of earlier protests against federal immigration agents — was shot at by law enforcement officers and wounded, authorities said Friday.",
-      "url": "https://fox5sandiego.com/news/ap-shots-fired-at-vehicle-after-it-backs-into-us-coast-guard-base-in-the-san-francisco-bay-area/",
-      "source": "FOX 5 San Diego & KUSI News",
-      "published_at": "2025-10-24T19:42:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e6a189738a01c980",
-      "title_orig": "2,000 mink released from Iowa farm in what trade group calls ‘terrorist act’",
-      "summary_orig": "An Iowa farmer is looking for hundreds of mink released in a break-in.",
-      "lang": "en",
-      "title_en": "2,000 mink released from Iowa farm in what trade group calls ‘terrorist act’",
-      "summary_en": "An Iowa farmer is looking for hundreds of mink released in a break-in.",
-      "title": "2,000 mink released from Iowa farm in what trade group calls ‘terrorist act’",
-      "summary": "An Iowa farmer is looking for hundreds of mink released in a break-in.",
-      "url": "https://www.seattletimes.com/business/2000-mink-released-from-iowa-farm-in-what-trade-group-calls-terrorist-act/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-24T19:35:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -611,24 +611,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "22b2beedaa62b211",
-      "title_orig": "Employee accused of stealing 47 vehicles from Avis Budget car rental site at New York airport",
-      "summary_orig": "Police in upstate New York say a car rental employee at the Syracuse airport stole 47 vehicles from the business and rented them out elsewhere around the region.",
-      "lang": "en",
-      "title_en": "Employee accused of stealing 47 vehicles from Avis Budget car rental site at New York airport",
-      "summary_en": "Police in upstate New York say a car rental employee at the Syracuse airport stole 47 vehicles from the business and rented them out elsewhere around the region.",
-      "title": "Employee accused of stealing 47 vehicles from Avis Budget car rental site at New York airport",
-      "summary": "Police in upstate New York say a car rental employee at the Syracuse airport stole 47 vehicles from the business and rented them out elsewhere around the region.",
-      "url": "https://www.seattletimes.com/nation-world/nation/employee-accused-of-stealing-47-vehicles-from-avis-budget-car-rental-site-at-new-york-airport/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-24T18:29:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1352,24 +1334,6 @@
       "geo": {}
     },
     {
-      "id": "8fc75ca3d2d80b07",
-      "title_orig": "Burbank launching first direct flight to Hawai’i in over 20 years",
-      "summary_orig": "The Hollywood Burbank Airport will soon offer its first direct flight to Hawai’i in more than two decades, officials announced Friday. Starting May 13, 2026, Alaska Airlines will launch a new daily seasonal route between Burbank (BUR) and Honolulu’s Daniel K. Inouye International Airport (HNL), giving Los Angeles-area travelers a new option to reach the [...]",
-      "lang": "en",
-      "title_en": "Burbank launching first direct flight to Hawai’i in over 20 years",
-      "summary_en": "The Hollywood Burbank Airport will soon offer its first direct flight to Hawai’i in more than two decades, officials announced Friday. Starting May 13, 2026, Alaska Airlines will launch a new daily seasonal route between Burbank (BUR) and Honolulu’s Daniel K. Inouye International Airport (HNL), giving Los Angeles-area travelers a new option to reach the [...]",
-      "title": "Burbank launching first direct flight to Hawai’i in over 20 years",
-      "summary": "The Hollywood Burbank Airport will soon offer its first direct flight to Hawai’i in more than two decades, officials announced Friday. Starting May 13, 2026, Alaska Airlines will launch a new daily seasonal route between Burbank (BUR) and Honolulu’s Daniel K. Inouye International Airport (HNL), giving Los Angeles-area travelers a new option to reach the [...]",
-      "url": "https://ktla.com/news/local-news/burbank-launching-first-direct-flight-to-hawaii-in-over-20-years/",
-      "source": "KTLA",
-      "published_at": "2025-10-24T15:32:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8616823dc5bbae2f",
       "title_orig": "US strikes on alleged drug traffickers are “positive” and “lawful” says ex Colombian President Ivan Duque",
       "summary_orig": "In an interview with FRANCE 24, former Colombian president Iván Duque defended US military strikes against alleged drug-trafficking boats, rejecting current president Gustavo Petro’s denunciation of the operations as “murder”. “If the US uses its capacity to carry out interdiction, I think it is lawful,” Duque said. Claiming that Venezuela is “run by a dictator who is now the head of the Cartel de los Soles,” the former Colombian president stated: “If the US wants to undertake precision operations against those cartels, I am in favour of that.”",
@@ -1388,24 +1352,6 @@
       "geo": {}
     },
     {
-      "id": "f38799a6b4b67949",
-      "title_orig": "Takeaways from AP’s investigation on anti-science legislation in US statehouses",
-      "summary_orig": "More than 420 anti-science bills attacking longstanding public health protections have been introduced in statehouses across the U.S. this year, part of an organized, politically savvy campaign to enshrine a conspiracy theory-driven agenda into law.",
-      "lang": "en",
-      "title_en": "Takeaways from AP’s investigation on anti-science legislation in US statehouses",
-      "summary_en": "More than 420 anti-science bills attacking longstanding public health protections have been introduced in statehouses across the U.S. this year, part of an organized, politically savvy campaign to enshrine a conspiracy theory-driven agenda into law.",
-      "title": "Takeaways from AP’s investigation on anti-science legislation in US statehouses",
-      "summary": "More than 420 anti-science bills attacking longstanding public health protections have been introduced in statehouses across the U.S. this year, part of an organized, politically savvy campaign to enshrine a conspiracy theory-driven agenda into law.",
-      "url": "https://www.cleveland.com/news/2025/10/takeaways-from-aps-investigation-on-anti-science-legislation-in-us-statehouses.html",
-      "source": "cleveland.com",
-      "published_at": "2025-10-24T15:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ef79463165e2e1e1",
       "title_orig": "Takeaways from AP’s investigation on anti-science legislation in US statehouses",
       "summary_orig": "More than 420 anti-science bills attacking longstanding public health protections have been introduced in statehouses across the U.S. this year, part of an organized, politically savvy campaign to enshrine a conspiracy theory-driven agenda into law.",
@@ -1416,24 +1362,6 @@
       "summary": "More than 420 anti-science bills attacking longstanding public health protections have been introduced in statehouses across the U.S. this year, part of an organized, politically savvy campaign to enshrine a conspiracy theory-driven agenda into law.",
       "url": "https://www.oregonlive.com/news/2025/10/takeaways-from-aps-investigation-on-anti-science-legislation-in-us-statehouses.html",
       "source": "oregonlive.com",
-      "published_at": "2025-10-24T15:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9e44716ff3a8ca13",
-      "title_orig": "Takeaways from AP’s investigation on anti-science legislation in US statehouses",
-      "summary_orig": "More than 420 anti-science bills attacking longstanding public health protections have been introduced in statehouses across the U.S. this year, part of an organized, politically savvy campaign to enshrine a conspiracy theory-driven agenda into law.",
-      "lang": "en",
-      "title_en": "Takeaways from AP’s investigation on anti-science legislation in US statehouses",
-      "summary_en": "More than 420 anti-science bills attacking longstanding public health protections have been introduced in statehouses across the U.S. this year, part of an organized, politically savvy campaign to enshrine a conspiracy theory-driven agenda into law.",
-      "title": "Takeaways from AP’s investigation on anti-science legislation in US statehouses",
-      "summary": "More than 420 anti-science bills attacking longstanding public health protections have been introduced in statehouses across the U.S. this year, part of an organized, politically savvy campaign to enshrine a conspiracy theory-driven agenda into law.",
-      "url": "https://www.pennlive.com/news/2025/10/takeaways-from-aps-investigation-on-anti-science-legislation-in-us-statehouses.html",
-      "source": "pennlive.com",
       "published_at": "2025-10-24T15:30:00+00:00",
       "tags": [
         "airport/security"
@@ -1547,24 +1475,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "68ba712db440f16c",
-      "title_orig": "US conducts 10th deadly boat strike as bombing campaign quickens",
-      "summary_orig": "The latest air strike took place in the Caribbean Sea, amid growing concerns about human rights violations under Trump.",
-      "lang": "en",
-      "title_en": "US conducts 10th deadly boat strike as bombing campaign quickens",
-      "summary_en": "The latest air strike took place in the Caribbean Sea, amid growing concerns about human rights violations under Trump.",
-      "title": "US conducts 10th deadly boat strike as bombing campaign quickens",
-      "summary": "The latest air strike took place in the Caribbean Sea, amid growing concerns about human rights violations under Trump.",
-      "url": "https://www.aljazeera.com/news/2025/10/24/us-conducts-10th-deadly-boat-strike-as-bombing-campaign-quickens?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-10-24T15:08:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2803,24 +2713,6 @@
       "url": "http://www.euronews.com/2025/10/23/ukraine-unveils-upgraded-sea-baby-drone-it-says-can-strike-anywhere-in-the-black-sea",
       "source": "News | Euronews RSS",
       "published_at": "2025-10-23T05:00:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "94cba6d49d2251f8",
-      "title_orig": "U.S. Strikes 2nd Boat in Pacific as Antidrug Operation Expands",
-      "summary_orig": "The Trump administration announced a second strike outside the Caribbean, in a campaign against what U.S. officials say are boats carrying drugs bound for the United States.",
-      "lang": "en",
-      "title_en": "U.S. Strikes 2nd Boat in Pacific as Antidrug Operation Expands",
-      "summary_en": "The Trump administration announced a second strike outside the Caribbean, in a campaign against what U.S. officials say are boats carrying drugs bound for the United States.",
-      "title": "U.S. Strikes 2nd Boat in Pacific as Antidrug Operation Expands",
-      "summary": "The Trump administration announced a second strike outside the Caribbean, in a campaign against what U.S. officials say are boats carrying drugs bound for the United States.",
-      "url": "https://www.nytimes.com/2025/10/22/us/politics/trump-drug-boat-strike-colombia.html",
-      "source": "NYT > World News",
-      "published_at": "2025-10-23T04:25:03+00:00",
       "tags": [
         "airport/security"
       ],
