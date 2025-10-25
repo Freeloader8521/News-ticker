@@ -1,6 +1,69 @@
 {
-  "generated_at": "2025-10-25T10:19:12.211439+00:00",
+  "generated_at": "2025-10-25T10:45:31.755364+00:00",
   "items": [
+    {
+      "id": "8523ea291f968620",
+      "title_orig": "3 held over knife attack on man mistakenly targeted at Hong Kong bus terminus",
+      "summary_orig": "Hong Kong police have arrested three men in connection with an attack on a 20-year-old man believed to have been mistakenly targeted in a monetary dispute.\nSenior Inspector Chan Pik-shan said on Saturday that police were also searching for two suspects believed to have been the masterminds of the attack at a bus terminus in Admiralty.\n“The police investigation has led us to believe that the victim was attacked as he was misidentified as someone else given he had a similar appearance and figure,”...",
+      "lang": "en",
+      "title_en": "3 held over knife attack on man mistakenly targeted at Hong Kong bus terminus",
+      "summary_en": "Hong Kong police have arrested three men in connection with an attack on a 20-year-old man believed to have been mistakenly targeted in a monetary dispute.\nSenior Inspector Chan Pik-shan said on Saturday that police were also searching for two suspects believed to have been the masterminds of the attack at a bus terminus in Admiralty.\n“The police investigation has led us to believe that the victim was attacked as he was misidentified as someone else given he had a similar appearance and figure,”...",
+      "title": "3 held over knife attack on man mistakenly targeted at Hong Kong bus terminus",
+      "summary": "Hong Kong police have arrested three men in connection with an attack on a 20-year-old man believed to have been mistakenly targeted in a monetary dispute.\nSenior Inspector Chan Pik-shan said on Saturday that police were also searching for two suspects believed to have been the masterminds of the attack at a bus terminus in Admiralty.\n“The police investigation has led us to believe that the victim was attacked as he was misidentified as someone else given he had a similar appearance and figure,”...",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3330315/3-held-over-knife-attack-man-mistakenly-targeted-hong-kong-bus-terminus?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2025-10-25T10:28:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "81dd51b42506aa76",
+      "title_orig": "London man who joined jihadist group in Syria jailed for nine years",
+      "summary_orig": "Isa Giga, 32, from Hounslow , was arrested at Heathrow Airport in May 2024 after flying back from Turkey",
+      "lang": "en",
+      "title_en": "London man who joined jihadist group in Syria jailed for nine years",
+      "summary_en": "Isa Giga, 32, from Hounslow , was arrested at Heathrow Airport in May 2024 after flying back from Turkey",
+      "title": "London man who joined jihadist group in Syria jailed for nine years",
+      "summary": "Isa Giga, 32, from Hounslow , was arrested at Heathrow Airport in May 2024 after flying back from Turkey",
+      "url": "https://www.standard.co.uk/news/london/london-man-who-joined-jihadist-group-in-syria-jailed-for-nine-years-b1254878.html",
+      "source": "The Standard News",
+      "published_at": "2025-10-25T10:25:43+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "7bb1814a33636318",
+      "title_orig": "She met him for two minutes and then tormented him for years",
+      "summary_orig": "Samantha Wall has been jailed after bombarding social media with false claims about a motivational speaker and businesswoman",
+      "lang": "en",
+      "title_en": "She met him for two minutes and then tormented him for years",
+      "summary_en": "Samantha Wall has been jailed after bombarding social media with false claims about a motivational speaker and businesswoman",
+      "title": "She met him for two minutes and then tormented him for years",
+      "summary": "Samantha Wall has been jailed after bombarding social media with false claims about a motivational speaker and businesswoman",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/met-him-two-minutes-tormented-32748522",
+      "source": "Liverpool Echo - News",
+      "published_at": "2025-10-25T10:18:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "4c8decbb418e2500",
       "title_orig": "Asif says govt committed to making PIA profitable as national carrier resumes flights to UK",
@@ -18,6 +81,24 @@
         "diplomatic"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "81f7124ad283ddb0",
+      "title_orig": "At least four killed in Ukraine after overnight missile and drone attack from Russia",
+      "summary_orig": "At least four people have been killed and 16 injured. The strikes come after Zelenskyy urged the United States to expand sanctions on Russia to force the Kremlin to peace talks.",
+      "lang": "en",
+      "title_en": "At least four killed in Ukraine after overnight missile and drone attack from Russia",
+      "summary_en": "At least four people have been killed and 16 injured. The strikes come after Zelenskyy urged the United States to expand sanctions on Russia to force the Kremlin to peace talks.",
+      "title": "At least four killed in Ukraine after overnight missile and drone attack from Russia",
+      "summary": "At least four people have been killed and 16 injured. The strikes come after Zelenskyy urged the United States to expand sanctions on Russia to force the Kremlin to peace talks.",
+      "url": "http://www.euronews.com/2025/10/25/at-least-four-killed-in-ukraine-after-overnight-missile-and-drone-attack-from-russia",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-10-25T10:12:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -266,24 +347,6 @@
       "url": "https://simpleflying.com/air-canada-job-cuts-unrelated-flight-attendant-strike/",
       "source": "Simple Flying",
       "published_at": "2025-10-25T08:32:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7b05cecd047f7904",
-      "title_orig": "London protests LIVE: Police brace as UKIP march rerouted to Kensington after Whitechapel ban",
-      "summary_orig": "A counter-demonstration organised by Stand Up To Racism (SUTR) and local groups is due to go ahead from noon in east London",
-      "lang": "en",
-      "title_en": "London protests LIVE: Police brace as UKIP march rerouted to Kensington after Whitechapel ban",
-      "summary_en": "A counter-demonstration organised by Stand Up To Racism (SUTR) and local groups is due to go ahead from noon in east London",
-      "title": "London protests LIVE: Police brace as UKIP march rerouted to Kensington after Whitechapel ban",
-      "summary": "A counter-demonstration organised by Stand Up To Racism (SUTR) and local groups is due to go ahead from noon in east London",
-      "url": "https://www.standard.co.uk/news/london/london-protests-ukip-march-police-brace-b1254868.html",
-      "source": "The Standard News",
-      "published_at": "2025-10-25T08:31:26+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1184,24 +1247,6 @@
       "url": "https://www.bbc.com/news/articles/cdx4g2pke12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-10-24T23:03:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8b34e91c8c534b74",
-      "title_orig": "Federal shutdown continues to add to stress on air traffic controllers, disrupts flights",
-      "summary_orig": "Many airports are critically short on controllers, who are working without pay, leading to disruptions.",
-      "lang": "en",
-      "title_en": "Federal shutdown continues to add to stress on air traffic controllers, disrupts flights",
-      "summary_en": "Many airports are critically short on controllers, who are working without pay, leading to disruptions.",
-      "title": "Federal shutdown continues to add to stress on air traffic controllers, disrupts flights",
-      "summary": "Many airports are critically short on controllers, who are working without pay, leading to disruptions.",
-      "url": "https://www.pennlive.com/politics/2025/10/federal-shutdown-continues-to-add-to-stress-on-air-traffic-controllers-disrupts-flights.html",
-      "source": "pennlive.com",
-      "published_at": "2025-10-24T23:01:56+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2174,24 +2219,6 @@
       "url": "https://www.cambridge-news.co.uk/news/local-news/robber-stabbed-man-13-times-32745316",
       "source": "Cambridgeshire Live - Home",
       "published_at": "2025-10-24T14:08:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7c953e4ca4bc8400",
-      "title_orig": "6 killed in US strike on alleged drug-running boat in Caribbean: Hegseth",
-      "summary_orig": "Defence Secretary Pete Hegseth announced on Friday that the US military conducted its 10th strike on a vessel suspected of carrying drugs overnight, killing six people and bringing the death toll of the campaign against drug cartels to at least 46 people.\nIn a post on social media, he said that the vessel was operated by the Tren de Aragua gang and the strike occurred in the Caribbean.\nThe pace of the strikes has quickened in recent days from one every few weeks in September when they first...",
-      "lang": "en",
-      "title_en": "6 killed in US strike on alleged drug-running boat in Caribbean: Hegseth",
-      "summary_en": "Defence Secretary Pete Hegseth announced on Friday that the US military conducted its 10th strike on a vessel suspected of carrying drugs overnight, killing six people and bringing the death toll of the campaign against drug cartels to at least 46 people.\nIn a post on social media, he said that the vessel was operated by the Tren de Aragua gang and the strike occurred in the Caribbean.\nThe pace of the strikes has quickened in recent days from one every few weeks in September when they first...",
-      "title": "6 killed in US strike on alleged drug-running boat in Caribbean: Hegseth",
-      "summary": "Defence Secretary Pete Hegseth announced on Friday that the US military conducted its 10th strike on a vessel suspected of carrying drugs overnight, killing six people and bringing the death toll of the campaign against drug cartels to at least 46 people.\nIn a post on social media, he said that the vessel was operated by the Tren de Aragua gang and the strike occurred in the Caribbean.\nThe pace of the strikes has quickened in recent days from one every few weeks in September when they first...",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3330271/6-killed-us-strike-alleged-drug-running-boat-hegseth?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-10-24T14:08:30+00:00",
       "tags": [
         "airport/security"
       ],
