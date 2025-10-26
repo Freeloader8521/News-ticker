@@ -1,6 +1,87 @@
 {
-  "generated_at": "2025-10-26T21:41:50.822138+00:00",
+  "generated_at": "2025-10-26T22:19:36.690424+00:00",
   "items": [
+    {
+      "id": "caa3f97f7f2b6d79",
+      "title_orig": "Violent protests flare in Cameroon as results due in contested election",
+      "summary_orig": "An opposition candidate is challenging the incumbent president's 43-year hold on power.",
+      "lang": "en",
+      "title_en": "Violent protests flare in Cameroon as results due in contested election",
+      "summary_en": "An opposition candidate is challenging the incumbent president's 43-year hold on power.",
+      "title": "Violent protests flare in Cameroon as results due in contested election",
+      "summary": "An opposition candidate is challenging the incumbent president's 43-year hold on power.",
+      "url": "https://www.bbc.com/news/articles/cly4x9n0yvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-10-26T21:45:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "cd86b580d6875ec7",
+      "title_orig": "Unexploded Israeli bombs threaten lives as Gaza clears debris, finds bodies",
+      "summary_orig": "Israel restricts heavy machinery but allows Red Cross and Egyptian teams to enter Gaza to search for captives' remains.",
+      "lang": "en",
+      "title_en": "Unexploded Israeli bombs threaten lives as Gaza clears debris, finds bodies",
+      "summary_en": "Israel restricts heavy machinery but allows Red Cross and Egyptian teams to enter Gaza to search for captives' remains.",
+      "title": "Unexploded Israeli bombs threaten lives as Gaza clears debris, finds bodies",
+      "summary": "Israel restricts heavy machinery but allows Red Cross and Egyptian teams to enter Gaza to search for captives' remains.",
+      "url": "https://www.aljazeera.com/news/2025/10/26/unexploded-israeli-bombs-threaten-lives-as-gaza-clears-debris-finds-bodies?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-10-26T21:44:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "b005c8fd0ed04db2",
+      "title_orig": "KLM flight KL1901 from Amsterdam diverted to Munich",
+      "summary_orig": "A Boeing 737-800 from The Netherlands to Austria was forced to divert to Germany. The KLM flight KL1901 departed Amsterdam Schiphol Airport one hour late at 10:41 CET for a 90-minute flight to Vienna. The Boeing 737-800 (registration PH-BCK) was cruising at 41,000 feet over Germany when the crew contacted ATC about a medical emergency […] The post KLM flight KL1901 from Amsterdam diverted to Munich appeared first on AIRLIVE .",
+      "lang": "en",
+      "title_en": "KLM flight KL1901 from Amsterdam diverted to Munich",
+      "summary_en": "A Boeing 737-800 from The Netherlands to Austria was forced to divert to Germany. The KLM flight KL1901 departed Amsterdam Schiphol Airport one hour late at 10:41 CET for a 90-minute flight to Vienna. The Boeing 737-800 (registration PH-BCK) was cruising at 41,000 feet over Germany when the crew contacted ATC about a medical emergency […] The post KLM flight KL1901 from Amsterdam diverted to Munich appeared first on AIRLIVE .",
+      "title": "KLM flight KL1901 from Amsterdam diverted to Munich",
+      "summary": "A Boeing 737-800 from The Netherlands to Austria was forced to divert to Germany. The KLM flight KL1901 departed Amsterdam Schiphol Airport one hour late at 10:41 CET for a 90-minute flight to Vienna. The Boeing 737-800 (registration PH-BCK) was cruising at 41,000 feet over Germany when the crew contacted ATC about a medical emergency […] The post KLM flight KL1901 from Amsterdam diverted to Munich appeared first on AIRLIVE .",
+      "url": "https://airlive.net/tracking/2025/10/26/klm-flight-kl1901-from-amsterdam-diverted-to-munich/",
+      "source": "AIRLIVE",
+      "published_at": "2025-10-26T21:41:38+00:00",
+      "tags": [
+        "AMS",
+        "Netherlands",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Schiphol",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "iata": "AMS",
+        "lat": 52.3105,
+        "lon": 4.7683
+      }
+    },
+    {
+      "id": "9a5ac221eabb2b14",
+      "title_orig": "Israeli strikes kill three in Lebanon before army targets UN patrol",
+      "summary_orig": "Israel claims attacks were on Hezbollah members, as it also struck a UNIFIL patrol with a drone and tank fire.",
+      "lang": "en",
+      "title_en": "Israeli strikes kill three in Lebanon before army targets UN patrol",
+      "summary_en": "Israel claims attacks were on Hezbollah members, as it also struck a UNIFIL patrol with a drone and tank fire.",
+      "title": "Israeli strikes kill three in Lebanon before army targets UN patrol",
+      "summary": "Israel claims attacks were on Hezbollah members, as it also struck a UNIFIL patrol with a drone and tank fire.",
+      "url": "https://www.aljazeera.com/news/2025/10/26/israeli-strikes-kill-three-in-lebanon-before-army-targets-un-patrol?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-10-26T21:29:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "ab04ac755afe0ca0",
       "title_orig": "ICE detains British journalist after criticism of Israel on US tour",
@@ -49,24 +130,6 @@
       "url": "https://www.bbc.com/news/articles/c77zvj267yko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-10-26T20:52:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "621378e3632aeb1c",
-      "title_orig": "Boeing defense workers on strike in the Midwest reject the company’s latest contract offer",
-      "summary_orig": "Boeing workers at three Midwest plants where military aircraft and weapons are developed voted Sunday to reject the company’s latest…",
-      "lang": "en",
-      "title_en": "Boeing defense workers on strike in the Midwest reject the company’s latest contract offer",
-      "summary_en": "Boeing workers at three Midwest plants where military aircraft and weapons are developed voted Sunday to reject the company’s latest…",
-      "title": "Boeing defense workers on strike in the Midwest reject the company’s latest contract offer",
-      "summary": "Boeing workers at three Midwest plants where military aircraft and weapons are developed voted Sunday to reject the company’s latest…",
-      "url": "https://wtop.com/national/2025/10/boeing-defense-workers-on-strike-in-the-midwest-reject-the-companys-latest-contract-offer/",
-      "source": "WTOP News",
-      "published_at": "2025-10-26T20:46:47+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1272,24 +1335,6 @@
       "geo": {}
     },
     {
-      "id": "d51ee7c01186712a",
-      "title_orig": "Michigan Walmart mass stabbing: Where the case stands 3 months after attack",
-      "summary_orig": "Three months after Bradford Gille allegedly stabbed 11 shoppers at the Traverse City Walmart, many unknowns remain.",
-      "lang": "en",
-      "title_en": "Michigan Walmart mass stabbing: Where the case stands 3 months after attack",
-      "summary_en": "Three months after Bradford Gille allegedly stabbed 11 shoppers at the Traverse City Walmart, many unknowns remain.",
-      "title": "Michigan Walmart mass stabbing: Where the case stands 3 months after attack",
-      "summary": "Three months after Bradford Gille allegedly stabbed 11 shoppers at the Traverse City Walmart, many unknowns remain.",
-      "url": "https://www.mlive.com/news/2025/10/michigan-walmart-mass-stabbing-where-the-case-stands-3-months-after-attack.html",
-      "source": "mlive.com",
-      "published_at": "2025-10-26T11:40:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "75ce2ac8503d7ffb",
       "title_orig": "Louvre heist suspects reportedly arrested in northern Paris suburb",
       "summary_orig": "Two suspects have been arrested in connection with the theft of crown jewels from Paris’ Louvre Museum, the Paris prosecutor said on Sunday, a week after the heist at the world’s most visited museum that stunned the world. Citing local media, FRANCE 24’s Ellen Gainsford reported that the arrests took place in Saint-Denis, a northern suburb of Paris, and that one of the men was attempting to travel to Algeria from Charles de Gaulle Airport.",
@@ -1967,24 +2012,6 @@
       "url": "https://www.bbc.com/news/articles/c9q1w9ypl8jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-10-25T23:21:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "03335920cc458935",
-      "title_orig": "Nato member’s main airport shuts again after Belarusian balloons disrupt airspace",
-      "summary_orig": "Flights to and from Vilnius Airport in Lithuania were suspended on Saturday night",
-      "lang": "en",
-      "title_en": "Nato member’s main airport shuts again after Belarusian balloons disrupt airspace",
-      "summary_en": "Flights to and from Vilnius Airport in Lithuania were suspended on Saturday night",
-      "title": "Nato member’s main airport shuts again after Belarusian balloons disrupt airspace",
-      "summary": "Flights to and from Vilnius Airport in Lithuania were suspended on Saturday night",
-      "url": "https://www.independent.co.uk/news/world/europe/vilnius-airport-shut-balloons-belarus-russia-nato-lithuania-b2852276.html",
-      "source": "The Independent World",
-      "published_at": "2025-10-25T21:03:42+00:00",
       "tags": [
         "airport/security"
       ],
