@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T23:42:15.190753+00:00",
+  "generated_at": "2025-10-27T01:10:04.647614+00:00",
   "items": [
     {
       "id": "dce38ffc20207e29",
@@ -12,7 +12,7 @@
       "summary": "A man in his 60s was apprehended after stabbing a married couple who run a restaurant in Seoul’s Gangbuk District, because they refused to give him a promotional lottery ticket. Police said Monday that they arrested the suspect, identified only as A, on charges of attempted murder around 2 p.m. Saturday. The victims, both in their 60s, were taken to a hospital and remain in critical condition. The restaurant, located at the entrance of a traditional market, has been offering 1,000-won ($0.73) lottery tickets to customers who pay in cash since reopening in July. Two days before the attack, the suspect had paid by card and did not receive a ticket. When he returned the next day and paid in cash, he was told that the event did not apply on Sundays — prompting him to lash out with a knife, according to police. A local bakery owner told Yonhap News Agency, “He was holding a knife on the street when someone kicked it away. He seemed drunk. The restaurant owner tried to help subdue him even while bleeding heavily.” Police said they plan to seek an arrest warrant for the suspect as early",
       "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20251027/man-stabs-restaurant-owners-over-lottery-tickets-in-northern-seoul?utm_source=rss",
       "source": "Korea Times News",
-      "published_at": "2025-10-26T23:37:02+00:00",
+      "published_at": "2025-10-27T01:07:03+00:00",
       "tags": [
         "airport/security"
       ],
@@ -20,17 +20,98 @@
       "geo": {}
     },
     {
-      "id": "3bd3b6177ce5cb74",
-      "title_orig": "Flights to Los Angeles International Airport halted due to air traffic controller shortage",
-      "summary_orig": "Flights departing for Los Angeles International Airport were halted briefly due to a staffing shortage at a Southern California air…",
+      "id": "e5e7e0984cb0f3f6",
+      "title_orig": "British journalist and Israel critic Sami Hamdi ‘abducted’ by ICE agents at San Francisco airport over past views",
+      "summary_orig": "Far-right activist Laura Loomer took credit for Hamdi’s arrest",
       "lang": "en",
-      "title_en": "Flights to Los Angeles International Airport halted due to air traffic controller shortage",
-      "summary_en": "Flights departing for Los Angeles International Airport were halted briefly due to a staffing shortage at a Southern California air…",
-      "title": "Flights to Los Angeles International Airport halted due to air traffic controller shortage",
-      "summary": "Flights departing for Los Angeles International Airport were halted briefly due to a staffing shortage at a Southern California air…",
-      "url": "https://wtop.com/national/2025/10/flights-to-los-angeles-international-airport-halted-due-to-air-traffic-controller-shortage/",
-      "source": "WTOP News",
-      "published_at": "2025-10-26T23:24:50+00:00",
+      "title_en": "British journalist and Israel critic Sami Hamdi ‘abducted’ by ICE agents at San Francisco airport over past views",
+      "summary_en": "Far-right activist Laura Loomer took credit for Hamdi’s arrest",
+      "title": "British journalist and Israel critic Sami Hamdi ‘abducted’ by ICE agents at San Francisco airport over past views",
+      "summary": "Far-right activist Laura Loomer took credit for Hamdi’s arrest",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/sami-hamdi-arrest-ice-san-francisco-b2852613.html",
+      "source": "The Independent World",
+      "published_at": "2025-10-27T00:10:08+00:00",
+      "tags": [
+        "SFO",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "San Francisco",
+        "city": "San Francisco",
+        "country": "United States",
+        "iata": "SFO",
+        "lat": 37.6213,
+        "lon": -122.379
+      }
+    },
+    {
+      "id": "047dd9f8bee57334",
+      "title_orig": "NHS leaders warn of longer waiting times if demand for extra £3bn not met",
+      "summary_orig": "Key Labour pledge under threat as health service faces costs from redundancies, strikes and rising drug prices NHS bosses are seeking an emergency injection of £3bn to cover unexpected costs and have warned ministers that without it patients will wait longer for treatment and hospitals will start rationing care. Their move presents a fresh problem for Rachel Reeves, the chancellor, as she tries to find ways to fill an estimated £30bn hole in the nation’s finances in her budget next month. Continue reading...",
+      "lang": "en",
+      "title_en": "NHS leaders warn of longer waiting times if demand for extra £3bn not met",
+      "summary_en": "Key Labour pledge under threat as health service faces costs from redundancies, strikes and rising drug prices NHS bosses are seeking an emergency injection of £3bn to cover unexpected costs and have warned ministers that without it patients will wait longer for treatment and hospitals will start rationing care. Their move presents a fresh problem for Rachel Reeves, the chancellor, as she tries to find ways to fill an estimated £30bn hole in the nation’s finances in her budget next month. Continue reading...",
+      "title": "NHS leaders warn of longer waiting times if demand for extra £3bn not met",
+      "summary": "Key Labour pledge under threat as health service faces costs from redundancies, strikes and rising drug prices NHS bosses are seeking an emergency injection of £3bn to cover unexpected costs and have warned ministers that without it patients will wait longer for treatment and hospitals will start rationing care. Their move presents a fresh problem for Rachel Reeves, the chancellor, as she tries to find ways to fill an estimated £30bn hole in the nation’s finances in her budget next month. Continue reading...",
+      "url": "https://www.theguardian.com/society/2025/oct/27/nhs-leaders-demand-extra-funding-waiting-times",
+      "source": "World news | The Guardian",
+      "published_at": "2025-10-27T00:01:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "08d6c8957c039d9b",
+      "title_orig": "Snow flurries fall as cold blast hits South, with more stormy weather to strike",
+      "summary_orig": "Heavy rain and strong winds are expected for many regions on Monday in what is expected to be a stormy end to Labour weekend.",
+      "lang": "en",
+      "title_en": "Snow flurries fall as cold blast hits South, with more stormy weather to strike",
+      "summary_en": "Heavy rain and strong winds are expected for many regions on Monday in what is expected to be a stormy end to Labour weekend.",
+      "title": "Snow flurries fall as cold blast hits South, with more stormy weather to strike",
+      "summary": "Heavy rain and strong winds are expected for many regions on Monday in what is expected to be a stormy end to Labour weekend.",
+      "url": "https://www.stuff.co.nz/nz-news/360866335/not-great-day-were-stormy-labour-day",
+      "source": "Stuff - /",
+      "published_at": "2025-10-27T00:01:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "aa8ae68066be0d05",
+      "title_orig": "Ukraine's drone attack forces airport closures around Moscow, Russia says",
+      "summary_orig": "Russian air defence systems were engaged overnight in repelling repeated attacks targeting Moscow that forced the closure of two of the city's four airports, Russia authorities said on Monday.",
+      "lang": "en",
+      "title_en": "Ukraine's drone attack forces airport closures around Moscow, Russia says",
+      "summary_en": "Russian air defence systems were engaged overnight in repelling repeated attacks targeting Moscow that forced the closure of two of the city's four airports, Russia authorities said on Monday.",
+      "title": "Ukraine's drone attack forces airport closures around Moscow, Russia says",
+      "summary": "Russian air defence systems were engaged overnight in repelling repeated attacks targeting Moscow that forced the closure of two of the city's four airports, Russia authorities said on Monday.",
+      "url": "https://www.straitstimes.com/world/europe/Ukraines-drone-attack-forces-airport-closures-around-Moscow-Russia-says",
+      "source": "The Straits Times World News",
+      "published_at": "2025-10-27T00:01:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "001f65752cd2e709",
+      "title_orig": "Crocodile mauls boy, 14, at Cape Tribulation beach",
+      "summary_orig": "Wildlife rangers investigate a crocodile attack on a teenage boy at a beach in far north Queensland.",
+      "lang": "en",
+      "title_en": "Crocodile mauls boy, 14, at Cape Tribulation beach",
+      "summary_en": "Wildlife rangers investigate a crocodile attack on a teenage boy at a beach in far north Queensland.",
+      "title": "Crocodile mauls boy, 14, at Cape Tribulation beach",
+      "summary": "Wildlife rangers investigate a crocodile attack on a teenage boy at a beach in far north Queensland.",
+      "url": "https://www.abc.net.au/news/2025-10-27/crocodile-attack-cape-tribulation-far-north-queensland/105937394",
+      "source": "Just In",
+      "published_at": "2025-10-26T23:42:01+00:00",
       "tags": [
         "airport/security"
       ],
@@ -49,24 +130,6 @@
       "url": "https://www.bbc.com/sport/football/articles/c803pvy4x53o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-10-26T23:15:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "08d6c8957c039d9b",
-      "title_orig": "Snow flurries fall as cold blast hits South, with more stormy weather to strike",
-      "summary_orig": "Heavy rain and strong winds are expected for many regions on Monday in what is expected to be a stormy end to Labour weekend.",
-      "lang": "en",
-      "title_en": "Snow flurries fall as cold blast hits South, with more stormy weather to strike",
-      "summary_en": "Heavy rain and strong winds are expected for many regions on Monday in what is expected to be a stormy end to Labour weekend.",
-      "title": "Snow flurries fall as cold blast hits South, with more stormy weather to strike",
-      "summary": "Heavy rain and strong winds are expected for many regions on Monday in what is expected to be a stormy end to Labour weekend.",
-      "url": "https://www.stuff.co.nz/nz-news/360866335/not-great-day-were-stormy-labour-day",
-      "source": "Stuff - /",
-      "published_at": "2025-10-26T23:02:23+00:00",
       "tags": [
         "airport/security"
       ],
@@ -209,24 +272,6 @@
       }
     },
     {
-      "id": "4304ecd90b73c21b",
-      "title_orig": "Photos from US President Donald Trump’s visit to Malaysia, South Korea and Japan",
-      "summary_orig": "KUALA LUMPUR, Malaysia (AP) — U.S. President Donald Trump visited Malaysia to oversee the signing of the Cambodia-Thailand peace pact. While he met with the leaders of all three countries — as well as Brazil’s — demonstrators took to the streets to protest his arrival. He’s also set to visit South Korea and Japan during […]",
-      "lang": "en",
-      "title_en": "Photos from US President Donald Trump’s visit to Malaysia, South Korea and Japan",
-      "summary_en": "KUALA LUMPUR, Malaysia (AP) — U.S. President Donald Trump visited Malaysia to oversee the signing of the Cambodia-Thailand peace pact. While he met with the leaders of all three countries — as well as Brazil’s — demonstrators took to the streets to protest his arrival. He’s also set to visit South Korea and Japan during […]",
-      "title": "Photos from US President Donald Trump’s visit to Malaysia, South Korea and Japan",
-      "summary": "KUALA LUMPUR, Malaysia (AP) — U.S. President Donald Trump visited Malaysia to oversee the signing of the Cambodia-Thailand peace pact. While he met with the leaders of all three countries — as well as Brazil’s — demonstrators took to the streets to protest his arrival. He’s also set to visit South Korea and Japan during […]",
-      "url": "https://www.seattletimes.com/nation-world/nation/photos-from-us-president-donald-trumps-visit-to-malaysia-south-korea-and-japan/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-26T21:36:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "9a5ac221eabb2b14",
       "title_orig": "Israeli strikes kill three in Lebanon before army targets UN patrol",
       "summary_orig": "Israel claims attacks were on Hezbollah members, as it also struck a UNIFIL patrol with a drone and tank fire.",
@@ -254,7 +299,7 @@
       "title": "ICE detains British journalist after criticism of Israel on US tour",
       "summary": "Trump ally Laura Loomer took credit for Sami Hamdi’s detainment in move denounced as ‘affront to free speech’ British journalist Sami Hamdi was reportedly detained on Sunday morning by federal immigration authorities at San Francisco international airport, and the Council on American-Islamic Relations (Cair) says that action is apparent retaliation for the Muslim political commentator ’s criticism of Israel while touring the US. A statement from Cair said it was “a blatant affront to free speech” to detain Hamdi for criticizing Israel’s ongoing military campaign in Gaza while he engaged on a speaking tour in the US. A Trump administration official added in a separate statement that Hamdi is facing deportation. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2025/oct/26/ice-detains-british-muslim-journalist-laura-loomer",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2025-10-26T21:16:41+00:00",
       "tags": [
         "airport/security"
@@ -274,24 +319,6 @@
       "url": "https://metro.co.uk/2025/10/26/police-hunt-white-man-30s-woman-raped-appalling-racist-attack-walsall-24531648/",
       "source": "Metro",
       "published_at": "2025-10-26T21:03:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "23b29a1f071ab566",
-      "title_orig": "Woman raped in racially aggravated attack, say police",
-      "summary_orig": "Police say the woman was attacked on Saturday night in Walsall and have appealed for information.",
-      "lang": "en",
-      "title_en": "Woman raped in racially aggravated attack, say police",
-      "summary_en": "Police say the woman was attacked on Saturday night in Walsall and have appealed for information.",
-      "title": "Woman raped in racially aggravated attack, say police",
-      "summary": "Police say the woman was attacked on Saturday night in Walsall and have appealed for information.",
-      "url": "https://www.bbc.com/news/articles/c77zvj267yko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-10-26T20:52:29+00:00",
       "tags": [
         "airport/security"
       ],
@@ -353,7 +380,7 @@
       "title": "Urgent appeal to identify suspect of racially aggravated rape in Walsall",
       "summary": "Police release CCTV footage after man described as white and in his 30s attacked woman in her 20s in Park Hall area An urgent police appeal has been launched to identify a man believed to have raped a woman in a racially aggravated attack. West Midlands police were called to the Park Hall area of Walsall just after 7.15pm on Saturday after a woman was reported to be distressed in the street. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2025/oct/26/urgent-appeal-to-identify-suspect-of-racially-aggravated-in-wallsall",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2025-10-26T20:37:44+00:00",
       "tags": [
         "airport/security"
@@ -467,24 +494,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "23d93e52bf2ab769",
-      "title_orig": "Boeing defense workers on strike in the Midwest reject the company’s latest contract offer",
-      "summary_orig": "Boeing workers at three Midwest plants where military aircraft and weapons are developed have voted to reject the company’s latest contract offer and to continue a strike that started almost three months ago.",
-      "lang": "en",
-      "title_en": "Boeing defense workers on strike in the Midwest reject the company’s latest contract offer",
-      "summary_en": "Boeing workers at three Midwest plants where military aircraft and weapons are developed have voted to reject the company’s latest contract offer and to continue a strike that started almost three months ago.",
-      "title": "Boeing defense workers on strike in the Midwest reject the company’s latest contract offer",
-      "summary": "Boeing workers at three Midwest plants where military aircraft and weapons are developed have voted to reject the company’s latest contract offer and to continue a strike that started almost three months ago.",
-      "url": "https://www.seattletimes.com/business/boeing-defense-workers-on-strike-in-the-midwest-reject-the-companys-latest-contract-offer/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-26T19:36:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -605,7 +614,7 @@
       "title": "NI parents caught in UK crackdown lose child benefit after travelling via Dublin",
       "summary": "Exclusive: new anti-fraud system fails to account for fact many return to country via airport in Irish capital Parents in Northern Ireland have had their child support payments stopped as part of the UK government’s crackdown on alleged benefit fraud simply because they flew into Dublin airport when returning to Northern Ireland from a holiday in England. So far 346 families have had their benefits frozen, an investigation by NI online newspaper, the Detail , shared with the Guardian, has discovered. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2025/oct/26/ni-parents-caught-in-uk-crackdown-lose-child-benefit-after-travelling-via-dublin",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2025-10-26T19:06:13+00:00",
       "tags": [
         "DUB",
@@ -778,24 +787,6 @@
       "url": "https://www.straitstimes.com/world/Cameroon-opposition-protests-intensify-ahead-of-presidential-results",
       "source": "The Straits Times World News",
       "published_at": "2025-10-26T18:00:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "16d7cea50ceb35a9",
-      "title_orig": "Flights to Los Angeles International Airport halted due to air traffic controller shortage",
-      "summary_orig": "The Federal Aviation Administration says flights departing for Los Angeles International Airport are being held due to a staffing shortage at an air traffic facility.",
-      "lang": "en",
-      "title_en": "Flights to Los Angeles International Airport halted due to air traffic controller shortage",
-      "summary_en": "The Federal Aviation Administration says flights departing for Los Angeles International Airport are being held due to a staffing shortage at an air traffic facility.",
-      "title": "Flights to Los Angeles International Airport halted due to air traffic controller shortage",
-      "summary": "The Federal Aviation Administration says flights departing for Los Angeles International Airport are being held due to a staffing shortage at an air traffic facility.",
-      "url": "https://www.seattletimes.com/business/flights-to-los-angeles-international-airport-halted-due-to-air-traffic-controller-shortage/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-26T17:41:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1070,24 +1061,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6bca4805781529bb",
-      "title_orig": "Epping sex offender back in custody after release from prison in error",
-      "summary_orig": "Hadush Gerberslasie Kebatu, whose case led to summer protests in Essex, detained again and faces deportation Timeline: From arrival in the UK to release in error and rearrest A former asylum seeker and convicted sex offender who was released from prison in error is back in custody and faces deportation. Hadush Gerberslasie Kebatu, an Ethiopian national, was jailed for 12 months in September for sexually assaulting a woman and a 14-year-old girl and was made the subject of a five-year sexual harm prevention order. Continue reading...",
-      "lang": "en",
-      "title_en": "Epping sex offender back in custody after release from prison in error",
-      "summary_en": "Hadush Gerberslasie Kebatu, whose case led to summer protests in Essex, detained again and faces deportation Timeline: From arrival in the UK to release in error and rearrest A former asylum seeker and convicted sex offender who was released from prison in error is back in custody and faces deportation. Hadush Gerberslasie Kebatu, an Ethiopian national, was jailed for 12 months in September for sexually assaulting a woman and a 14-year-old girl and was made the subject of a five-year sexual harm prevention order. Continue reading...",
-      "title": "Epping sex offender back in custody after release from prison in error",
-      "summary": "Hadush Gerberslasie Kebatu, whose case led to summer protests in Essex, detained again and faces deportation Timeline: From arrival in the UK to release in error and rearrest A former asylum seeker and convicted sex offender who was released from prison in error is back in custody and faces deportation. Hadush Gerberslasie Kebatu, an Ethiopian national, was jailed for 12 months in September for sexually assaulting a woman and a 14-year-old girl and was made the subject of a five-year sexual harm prevention order. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2025/oct/26/epping-sex-offender-back-in-custody-after-being-released-from-prison-in-error",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-10-26T16:03:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1875,6 +1848,24 @@
       "geo": {}
     },
     {
+      "id": "64e19fe183a1f574",
+      "title_orig": "16 TLP activists on nine-day remand",
+      "summary_orig": "LAHORE: An anti-terrorism court (ATC) on Saturday granted nine-day physical remand of 16 activists of the banned Tehreek-i-Labbaik Pakistan (TLP) to the police in multiple cases registered under terrorism charges. ATC Judge Manzer Ali Gill heard the police’s request when the suspects were produced before the court. The investigating officer sought a 27-day physical remand, arguing that the custody of the suspects was needed for interrogation in cases of violent protests and attacks on law enforcement officials. After examining the record, the judge allowed a nine-day remand and directed the police to produce the suspects again on November 3, along with a progress report on the investigation. The suspects are facing cases registered with the Nawab Town, Kahna and Shahdara police stations under different provisions of the Anti-Terrorism Act 1997. CONVICTION: An ATC on Saturday sentenced two members of a banned outfit to five-year rigorous imprisonment each after finding them guilty of possessing explosive material. Judge Arshad Javed announced the guilty verdict in the presence of convicts Habibullah and Muhammad Jawad. The judge also ordered the prosecution to confiscate the properties of the convicts as part of the punishment. The Counter Terrorism Department (CTD) registered the case against the convicts in 2024 under relevant sections of the Anti-Terrorism Act 1997. The CTD had recovered explosive material from the possession of the convicts, who were members of a banned organization. Published in Dawn, October 26th, 2025",
+      "lang": "en",
+      "title_en": "16 TLP activists on nine-day remand",
+      "summary_en": "LAHORE: An anti-terrorism court (ATC) on Saturday granted nine-day physical remand of 16 activists of the banned Tehreek-i-Labbaik Pakistan (TLP) to the police in multiple cases registered under terrorism charges. ATC Judge Manzer Ali Gill heard the police’s request when the suspects were produced before the court. The investigating officer sought a 27-day physical remand, arguing that the custody of the suspects was needed for interrogation in cases of violent protests and attacks on law enforcement officials. After examining the record, the judge allowed a nine-day remand and directed the police to produce the suspects again on November 3, along with a progress report on the investigation. The suspects are facing cases registered with the Nawab Town, Kahna and Shahdara police stations under different provisions of the Anti-Terrorism Act 1997. CONVICTION: An ATC on Saturday sentenced two members of a banned outfit to five-year rigorous imprisonment each after finding them guilty of possessing explosive material. Judge Arshad Javed announced the guilty verdict in the presence of convicts Habibullah and Muhammad Jawad. The judge also ordered the prosecution to confiscate the properties of the convicts as part of the punishment. The Counter Terrorism Department (CTD) registered the case against the convicts in 2024 under relevant sections of the Anti-Terrorism Act 1997. The CTD had recovered explosive material from the possession of the convicts, who were members of a banned organization. Published in Dawn, October 26th, 2025",
+      "title": "16 TLP activists on nine-day remand",
+      "summary": "LAHORE: An anti-terrorism court (ATC) on Saturday granted nine-day physical remand of 16 activists of the banned Tehreek-i-Labbaik Pakistan (TLP) to the police in multiple cases registered under terrorism charges. ATC Judge Manzer Ali Gill heard the police’s request when the suspects were produced before the court. The investigating officer sought a 27-day physical remand, arguing that the custody of the suspects was needed for interrogation in cases of violent protests and attacks on law enforcement officials. After examining the record, the judge allowed a nine-day remand and directed the police to produce the suspects again on November 3, along with a progress report on the investigation. The suspects are facing cases registered with the Nawab Town, Kahna and Shahdara police stations under different provisions of the Anti-Terrorism Act 1997. CONVICTION: An ATC on Saturday sentenced two members of a banned outfit to five-year rigorous imprisonment each after finding them guilty of possessing explosive material. Judge Arshad Javed announced the guilty verdict in the presence of convicts Habibullah and Muhammad Jawad. The judge also ordered the prosecution to confiscate the properties of the convicts as part of the punishment. The Counter Terrorism Department (CTD) registered the case against the convicts in 2024 under relevant sections of the Anti-Terrorism Act 1997. The CTD had recovered explosive material from the possession of the convicts, who were members of a banned organization. Published in Dawn, October 26th, 2025",
+      "url": "https://www.dawn.com/news/1951237/16-tlp-activists-on-nine-day-remand",
+      "source": "Dawn - Home",
+      "published_at": "2025-10-26T06:54:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "377f46515269942d",
       "title_orig": "Russian drone attack on Kyiv leaves three people dead and dozens wounded, mayor says",
       "summary_orig": "Vitali Klitschko says six children hurt in overnight attack that sparked fires in apartment buildings An overnight Russian drone attack on Kyiv killed three people and wounded dozens, the mayor of the Ukrainian capital has said. The head of Kyiv’s military administration said early on Sunday that “several” Russian drones were operating over the city, and warned people to “remain in shelters”. Continue reading...",
@@ -1940,24 +1931,6 @@
       "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/scared-edinburgh-carer-quit-job-32745902",
       "source": "Edinburgh Live - News",
       "published_at": "2025-10-26T06:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a6b3c111b5b42f17",
-      "title_orig": "PTI slams PPP govt for failing to curb street crimes, improve law, order in Karachi",
-      "summary_orig": "KARACHI: The Pakistan Tehreek-i-Insaf (PTI) laun­ched a strong verbal attack on the Pakistan Peoples Party (PPP)-led Sindh government on Saturday, accusing it of failing to curb street crimes in the metropolis, improve law and order, tackle corruption and address inflation and police excesses across the province. Addressing a press conference at the party’s city office, Insaf House, Karachi, Sindh chapter president Haleem Adil Sheikh said that state institutions in the province had “ceased to function effectively”. “Sindh is the land of Shah Abdul Latif Bhittai and hospitality, but today, oppression and lawlessness prevail,” he lame­nted, holding the PPP government responsible for the province’s deteriorating situation. Citing a recent case of “pol­ice brutality,” he referred to the case of a young labourer, Irfan Baloch, who had come from Uch Sharif, Punjab, to Karachi for work, and was allegedly abduc­ted and tortured to death by the CIA police. Haleem Adil says over 50 citizens killed by robbers this year “No FIR has been registered yet,” he said, warning that if jus­t­ice was denied, it would pro­ve that “the police institution itself is complicit in this brutality.” Accompanied by PTI Sindh leaders Jamal Siddiqui, Farukh Khan and others, the PTI provincial chief also highlighted the alarming rise in street crimes in the metropolis. “In September alone, 199 cars, 3,698 motorcycles, and 1,542 mobile phones were snatched, while 51 citizens were killed resisting robberies this year,” he said. Mr Sheikh questioned why the authorities had failed to take action against the patrons of 72 dacoits who recently surrendered in Shikarpur’s Katcha area, noting that “no hostages had been recovered”. “The Katcha areas have tur­ned into no-go zones. Law and order in Sindh has collapsed, and police excesses are rampant,” he said. Referring to the Auditor General of Pakistan’s 2024-25 report , the PTI provincial chief said that “financial irregularities worth Rs836 billion” had been unearthed in Sindh government departments. “Seventeen years of PPP rule have pushed Sindh to the brink of destruction. Corruption has infested every institution,” he said. He said the citizens were being “crushed under rising inflation” and that “corruption” had become routine. “Flour, sugar, vegetables, pulses, ghee, electricity, and gas have all become unaffordable. People must break their silence, as remaining quiet now means abetting crime,” he warned. Mr Sheikh also deplored the dismal state of education and healthcare in Sindh, saying that “more than six million children are out of school,” hospitals lack basic facilities, and dengue cases are surging. He criticised the provincial government for “denying” citizens access to the Sehat Card and “exploiting” farmers who were not getting fair prices for their crops. He further alleged large-scale corruption in the Sindh Solar Energy Programme, which is a Rs28 billion World Bank-funded project. “Fake import documents were used, and the actual price of solar fans was $23.4 per unit, but the Sindh government contracted them for $151 per unit. On top of that, Rs127 million in fake tax claims were filed,” he claimed. Published in Dawn, October 26th, 2025",
-      "lang": "en",
-      "title_en": "PTI slams PPP govt for failing to curb street crimes, improve law, order in Karachi",
-      "summary_en": "KARACHI: The Pakistan Tehreek-i-Insaf (PTI) laun­ched a strong verbal attack on the Pakistan Peoples Party (PPP)-led Sindh government on Saturday, accusing it of failing to curb street crimes in the metropolis, improve law and order, tackle corruption and address inflation and police excesses across the province. Addressing a press conference at the party’s city office, Insaf House, Karachi, Sindh chapter president Haleem Adil Sheikh said that state institutions in the province had “ceased to function effectively”. “Sindh is the land of Shah Abdul Latif Bhittai and hospitality, but today, oppression and lawlessness prevail,” he lame­nted, holding the PPP government responsible for the province’s deteriorating situation. Citing a recent case of “pol­ice brutality,” he referred to the case of a young labourer, Irfan Baloch, who had come from Uch Sharif, Punjab, to Karachi for work, and was allegedly abduc­ted and tortured to death by the CIA police. Haleem Adil says over 50 citizens killed by robbers this year “No FIR has been registered yet,” he said, warning that if jus­t­ice was denied, it would pro­ve that “the police institution itself is complicit in this brutality.” Accompanied by PTI Sindh leaders Jamal Siddiqui, Farukh Khan and others, the PTI provincial chief also highlighted the alarming rise in street crimes in the metropolis. “In September alone, 199 cars, 3,698 motorcycles, and 1,542 mobile phones were snatched, while 51 citizens were killed resisting robberies this year,” he said. Mr Sheikh questioned why the authorities had failed to take action against the patrons of 72 dacoits who recently surrendered in Shikarpur’s Katcha area, noting that “no hostages had been recovered”. “The Katcha areas have tur­ned into no-go zones. Law and order in Sindh has collapsed, and police excesses are rampant,” he said. Referring to the Auditor General of Pakistan’s 2024-25 report , the PTI provincial chief said that “financial irregularities worth Rs836 billion” had been unearthed in Sindh government departments. “Seventeen years of PPP rule have pushed Sindh to the brink of destruction. Corruption has infested every institution,” he said. He said the citizens were being “crushed under rising inflation” and that “corruption” had become routine. “Flour, sugar, vegetables, pulses, ghee, electricity, and gas have all become unaffordable. People must break their silence, as remaining quiet now means abetting crime,” he warned. Mr Sheikh also deplored the dismal state of education and healthcare in Sindh, saying that “more than six million children are out of school,” hospitals lack basic facilities, and dengue cases are surging. He criticised the provincial government for “denying” citizens access to the Sehat Card and “exploiting” farmers who were not getting fair prices for their crops. He further alleged large-scale corruption in the Sindh Solar Energy Programme, which is a Rs28 billion World Bank-funded project. “Fake import documents were used, and the actual price of solar fans was $23.4 per unit, but the Sindh government contracted them for $151 per unit. On top of that, Rs127 million in fake tax claims were filed,” he claimed. Published in Dawn, October 26th, 2025",
-      "title": "PTI slams PPP govt for failing to curb street crimes, improve law, order in Karachi",
-      "summary": "KARACHI: The Pakistan Tehreek-i-Insaf (PTI) laun­ched a strong verbal attack on the Pakistan Peoples Party (PPP)-led Sindh government on Saturday, accusing it of failing to curb street crimes in the metropolis, improve law and order, tackle corruption and address inflation and police excesses across the province. Addressing a press conference at the party’s city office, Insaf House, Karachi, Sindh chapter president Haleem Adil Sheikh said that state institutions in the province had “ceased to function effectively”. “Sindh is the land of Shah Abdul Latif Bhittai and hospitality, but today, oppression and lawlessness prevail,” he lame­nted, holding the PPP government responsible for the province’s deteriorating situation. Citing a recent case of “pol­ice brutality,” he referred to the case of a young labourer, Irfan Baloch, who had come from Uch Sharif, Punjab, to Karachi for work, and was allegedly abduc­ted and tortured to death by the CIA police. Haleem Adil says over 50 citizens killed by robbers this year “No FIR has been registered yet,” he said, warning that if jus­t­ice was denied, it would pro­ve that “the police institution itself is complicit in this brutality.” Accompanied by PTI Sindh leaders Jamal Siddiqui, Farukh Khan and others, the PTI provincial chief also highlighted the alarming rise in street crimes in the metropolis. “In September alone, 199 cars, 3,698 motorcycles, and 1,542 mobile phones were snatched, while 51 citizens were killed resisting robberies this year,” he said. Mr Sheikh questioned why the authorities had failed to take action against the patrons of 72 dacoits who recently surrendered in Shikarpur’s Katcha area, noting that “no hostages had been recovered”. “The Katcha areas have tur­ned into no-go zones. Law and order in Sindh has collapsed, and police excesses are rampant,” he said. Referring to the Auditor General of Pakistan’s 2024-25 report , the PTI provincial chief said that “financial irregularities worth Rs836 billion” had been unearthed in Sindh government departments. “Seventeen years of PPP rule have pushed Sindh to the brink of destruction. Corruption has infested every institution,” he said. He said the citizens were being “crushed under rising inflation” and that “corruption” had become routine. “Flour, sugar, vegetables, pulses, ghee, electricity, and gas have all become unaffordable. People must break their silence, as remaining quiet now means abetting crime,” he warned. Mr Sheikh also deplored the dismal state of education and healthcare in Sindh, saying that “more than six million children are out of school,” hospitals lack basic facilities, and dengue cases are surging. He criticised the provincial government for “denying” citizens access to the Sehat Card and “exploiting” farmers who were not getting fair prices for their crops. He further alleged large-scale corruption in the Sindh Solar Energy Programme, which is a Rs28 billion World Bank-funded project. “Fake import documents were used, and the actual price of solar fans was $23.4 per unit, but the Sindh government contracted them for $151 per unit. On top of that, Rs127 million in fake tax claims were filed,” he claimed. Published in Dawn, October 26th, 2025",
-      "url": "https://www.dawn.com/news/1951250/pti-slams-ppp-govt-for-failing-to-curb-street-crimes-improve-law-order-in-karachi",
-      "source": "Dawn - Home",
-      "published_at": "2025-10-26T05:53:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2226,24 +2199,6 @@
       "geo": {}
     },
     {
-      "id": "3b91ef4a3e7771fd",
-      "title_orig": "Hundreds protest in Tunisia’s capital over worsening state chemical plant pollution crisis",
-      "summary_orig": "Residents of Gabes have reported rising rates of respiratory illnesses, osteoporosis and cancer.",
-      "lang": "en",
-      "title_en": "Hundreds protest in Tunisia’s capital over worsening state chemical plant pollution crisis",
-      "summary_en": "Residents of Gabes have reported rising rates of respiratory illnesses, osteoporosis and cancer.",
-      "title": "Hundreds protest in Tunisia’s capital over worsening state chemical plant pollution crisis",
-      "summary": "Residents of Gabes have reported rising rates of respiratory illnesses, osteoporosis and cancer.",
-      "url": "https://www.straitstimes.com/world/hundreds-protest-in-tunisias-capital-over-worsening-chemical-plant-pollution-crisis",
-      "source": "The Straits Times World News",
-      "published_at": "2025-10-25T17:10:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "9ff69add6cf8203f",
       "title_orig": "United flight UA331 to Washington is declaring an emergency and returning to Paris",
       "summary_orig": "Pilots of a Boeing 767 outbound Paris declared an emergency and required an immediate return. United Airlines flight UA331 departed Paris Charles de Gaulle Airport today at 17:36 CEST for a 8-hour flight to Washington IAD. The Boeing 767-300ER (registration N651UA) stopped the climb at 28,000 feet over Normandy then turned around. The 33-year-old aircraft […] The post United flight UA331 to Washington is declaring an emergency and returning to Paris appeared first on AIRLIVE .",
@@ -2282,24 +2237,6 @@
       "url": "https://runwaygirlnetwork.com/2025/10/american-airlines-a321xlr-777/",
       "source": "Runway Girl",
       "published_at": "2025-10-25T15:25:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f5c96eb9477045a9",
-      "title_orig": "France’s used fishing nets find new purpose on Ukraine front lines",
-      "summary_orig": "The nets are used to protect the country’s roads and military infrastructure from Russian drone attacks.",
-      "lang": "en",
-      "title_en": "France’s used fishing nets find new purpose on Ukraine front lines",
-      "summary_en": "The nets are used to protect the country’s roads and military infrastructure from Russian drone attacks.",
-      "title": "France’s used fishing nets find new purpose on Ukraine front lines",
-      "summary": "The nets are used to protect the country’s roads and military infrastructure from Russian drone attacks.",
-      "url": "https://www.straitstimes.com/world/europe/french-fishing-nets-find-new-purpose-on-ukraines-front-lines",
-      "source": "The Straits Times World News",
-      "published_at": "2025-10-25T13:40:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2390,24 +2327,6 @@
       "url": "https://www.nytimes.com/2025/10/24/us/politics/caribbean-sea-boat-strike-us-venezuela.html",
       "source": "NYT > World News",
       "published_at": "2025-10-25T04:37:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "b9340c382c71604f",
-      "title_orig": "South Korea Tries to Curb Anti-China Protests Ahead of Xi Visit",
-      "summary_orig": "The recent surge in demonstrations by far-right groups presents a challenge for the South Korean government, as it prepares to host both Xi Jinping, the leader of China, and President Trump.",
-      "lang": "en",
-      "title_en": "South Korea Tries to Curb Anti-China Protests Ahead of Xi Visit",
-      "summary_en": "The recent surge in demonstrations by far-right groups presents a challenge for the South Korean government, as it prepares to host both Xi Jinping, the leader of China, and President Trump.",
-      "title": "South Korea Tries to Curb Anti-China Protests Ahead of Xi Visit",
-      "summary": "The recent surge in demonstrations by far-right groups presents a challenge for the South Korean government, as it prepares to host both Xi Jinping, the leader of China, and President Trump.",
-      "url": "https://www.nytimes.com/2025/10/24/world/asia/south-korea-china-protests.html",
-      "source": "NYT > World News",
-      "published_at": "2025-10-25T02:56:31+00:00",
       "tags": [
         "airport/security"
       ],
