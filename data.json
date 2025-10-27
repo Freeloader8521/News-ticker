@@ -1,42 +1,6 @@
 {
-  "generated_at": "2025-10-27T22:19:07.639858+00:00",
+  "generated_at": "2025-10-27T22:45:55.400850+00:00",
   "items": [
-    {
-      "id": "10917fc4d60b7bee",
-      "title_orig": "Alicante airport shut down as police descend and UK flights diverted",
-      "summary_orig": "Nine planes have been diverted so far",
-      "lang": "en",
-      "title_en": "Alicante airport shut down as police descend and UK flights diverted",
-      "summary_en": "Nine planes have been diverted so far",
-      "title": "Alicante airport shut down as police descend and UK flights diverted",
-      "summary": "Nine planes have been diverted so far",
-      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/alicante-airport-shut-down-police-32760624",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2025-10-27T22:07:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0e96550efc0ccd10",
-      "title_orig": "El Gobierno de Trump dice que entregó al Congreso 7 informes clasificados sobre ataques contra embarcaciones en el Caribe",
-      "summary_orig": "El Gobierno de Trump indicó este lunes que proporcionó siete sesiones informativas clasificadas separadas sobre ataques militares estadounidenses contra supuestas…",
-      "lang": "es",
-      "title_en": "The Trump Administration says it provided Congress with 7 classified reports on attacks on vessels in the Caribbean",
-      "summary_en": "The Trump Administration indicated Monday that it provided seven separate classified briefings on US military strikes against alleged...",
-      "title": "The Trump Administration says it provided Congress with 7 classified reports on attacks on vessels in the Caribbean",
-      "summary": "The Trump Administration indicated Monday that it provided seven separate classified briefings on US military strikes against alleged...",
-      "url": "https://wtop.com/news/2025/10/el-gobierno-de-trump-dice-que-entrego-al-congreso-7-informes-clasificados-sobre-ataques-contra-embarcaciones-en-el-caribe/",
-      "source": "WTOP News",
-      "published_at": "2025-10-27T21:56:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
     {
       "id": "2070144ec1b4730c",
       "title_orig": "Live Updates: Hurricane Melissa Turns Toward Jamaica, Bringing 175 M.P.H. Winds and Catastrophic Rains",
@@ -48,7 +12,7 @@
       "summary": "The prime minister ordered mandatory evacuations in low-lying areas as officials braced for tens of thousands of people to be displaced. Flooding and storm surges are expected across the Caribbean.",
       "url": "https://www.nytimes.com/live/2025/10/21/weather/tropical-storm-melissa-hurricane",
       "source": "NYT > World News",
-      "published_at": "2025-10-27T21:55:52+00:00",
+      "published_at": "2025-10-27T22:37:40+00:00",
       "tags": [
         "airport/security"
       ],
@@ -56,16 +20,97 @@
       "geo": {}
     },
     {
+      "id": "12e4a455ef37222a",
+      "title_orig": "Dermot Desmond savages Brendan Rodgers as Celtic supremo brands boss 'toxic' and 'divisive'",
+      "summary_orig": "The Irishman launched an incredible attack on his compatriot after he quit Parkhead",
+      "lang": "en",
+      "title_en": "Dermot Desmond savages Brendan Rodgers as Celtic supremo brands boss 'toxic' and 'divisive'",
+      "summary_en": "The Irishman launched an incredible attack on his compatriot after he quit Parkhead",
+      "title": "Dermot Desmond savages Brendan Rodgers as Celtic supremo brands boss 'toxic' and 'divisive'",
+      "summary": "The Irishman launched an incredible attack on his compatriot after he quit Parkhead",
+      "url": "https://www.dailyrecord.co.uk/sport/football/football-news/dermot-desmond-savages-brendan-rodgers-36142735",
+      "source": "Daily Record - Home",
+      "published_at": "2025-10-27T22:19:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6f35142480d515be",
+      "title_orig": "Flight delays soar past 4,300 as US government shutdown continues",
+      "summary_orig": "Air travel turmoil deepened with more than 4,300 flights delayed nationwide on Monday following more than 8,800 delays on Sunday, with air traffic controller absences surging as the federal government shutdown reached its 27th day.\nThe Federal Aviation Administration cited staffing shortages affecting flights across the Southeast and at Newark Airport in New Jersey, while the agency imposed a ground stop at Austin Airport in Texas and a ground delay programme at Dallas Fort Worth International...",
+      "lang": "en",
+      "title_en": "Flight delays soar past 4,300 as US government shutdown continues",
+      "summary_en": "Air travel turmoil deepened with more than 4,300 flights delayed nationwide on Monday following more than 8,800 delays on Sunday, with air traffic controller absences surging as the federal government shutdown reached its 27th day.\nThe Federal Aviation Administration cited staffing shortages affecting flights across the Southeast and at Newark Airport in New Jersey, while the agency imposed a ground stop at Austin Airport in Texas and a ground delay programme at Dallas Fort Worth International...",
+      "title": "Flight delays soar past 4,300 as US government shutdown continues",
+      "summary": "Air travel turmoil deepened with more than 4,300 flights delayed nationwide on Monday following more than 8,800 delays on Sunday, with air traffic controller absences surging as the federal government shutdown reached its 27th day.\nThe Federal Aviation Administration cited staffing shortages affecting flights across the Southeast and at Newark Airport in New Jersey, while the agency imposed a ground stop at Austin Airport in Texas and a ground delay programme at Dallas Fort Worth International...",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3330540/flight-delays-soar-past-4300-us-government-shutdown-continues?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2025-10-27T22:18:59+00:00",
+      "tags": [
+        "EWR",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Newark Liberty",
+        "city": "Newark",
+        "country": "United States",
+        "iata": "EWR",
+        "lat": 40.6895,
+        "lon": -74.1745
+      }
+    },
+    {
+      "id": "8dda5413b1eb9154",
+      "title_orig": "British political commentator Sami Hamdi detained by federal authorities at California airport",
+      "summary_orig": "LOS ANGELES (AP) — Sami Hamdi, a British political commentator, was being held Monday by U.S. Immigration and Customs Enforcement…",
+      "lang": "en",
+      "title_en": "British political commentator Sami Hamdi detained by federal authorities at California airport",
+      "summary_en": "LOS ANGELES (AP) — Sami Hamdi, a British political commentator, was being held Monday by U.S. Immigration and Customs Enforcement…",
+      "title": "British political commentator Sami Hamdi detained by federal authorities at California airport",
+      "summary": "LOS ANGELES (AP) — Sami Hamdi, a British political commentator, was being held Monday by U.S. Immigration and Customs Enforcement…",
+      "url": "https://wtop.com/national/2025/10/british-political-commentator-sami-hamdi-detained-by-federal-authorities-at-california-airport/",
+      "source": "WTOP News",
+      "published_at": "2025-10-27T22:15:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "10917fc4d60b7bee",
+      "title_orig": "Alicante airport shut down as police descend and UK flights diverted",
+      "summary_orig": "Nine planes have been diverted so far",
+      "lang": "en",
+      "title_en": "Alicante airport shut down as police descend and UK flights diverted",
+      "summary_en": "Nine planes have been diverted so far",
+      "title": "Alicante airport shut down as police descend and UK flights diverted",
+      "summary": "Nine planes have been diverted so far",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/alicante-airport-shut-down-police-32760624",
+      "source": "Liverpool Echo - News",
+      "published_at": "2025-10-27T22:07:39+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "e1e0ca171e85729b",
       "title_orig": "UK’s Eastern Airways suspends operations with all flights cancelled",
-      "summary_orig": "Customers urged not to go to domestic airline’s airports as customers and staff offered train travel on suitable routes The UK domestic airline Eastern Airways has suspended operations and all of its flights have been cancelled. Customers of the airline, which operated regional services from airports across the UK, are being urged not to go to the airport as flights will not be operating, the UK Civil Aviation Authority said. Continue reading...",
+      "summary_orig": "Customers urged not to go to domestic airline’s airports as customers and staff offered train travel on suitable routes The UK domestic airline Eastern Airways has suspended operations and all of its flights have been cancelled. Customers of the airline, which operated regional services from airports across the UK, are urged not to go to the airport as flights will not be operating, the UK Civil Aviation Authority said. Continue reading...",
       "lang": "en",
       "title_en": "UK’s Eastern Airways suspends operations with all flights cancelled",
-      "summary_en": "Customers urged not to go to domestic airline’s airports as customers and staff offered train travel on suitable routes The UK domestic airline Eastern Airways has suspended operations and all of its flights have been cancelled. Customers of the airline, which operated regional services from airports across the UK, are being urged not to go to the airport as flights will not be operating, the UK Civil Aviation Authority said. Continue reading...",
+      "summary_en": "Customers urged not to go to domestic airline’s airports as customers and staff offered train travel on suitable routes The UK domestic airline Eastern Airways has suspended operations and all of its flights have been cancelled. Customers of the airline, which operated regional services from airports across the UK, are urged not to go to the airport as flights will not be operating, the UK Civil Aviation Authority said. Continue reading...",
       "title": "UK’s Eastern Airways suspends operations with all flights cancelled",
-      "summary": "Customers urged not to go to domestic airline’s airports as customers and staff offered train travel on suitable routes The UK domestic airline Eastern Airways has suspended operations and all of its flights have been cancelled. Customers of the airline, which operated regional services from airports across the UK, are being urged not to go to the airport as flights will not be operating, the UK Civil Aviation Authority said. Continue reading...",
+      "summary": "Customers urged not to go to domestic airline’s airports as customers and staff offered train travel on suitable routes The UK domestic airline Eastern Airways has suspended operations and all of its flights have been cancelled. Customers of the airline, which operated regional services from airports across the UK, are urged not to go to the airport as flights will not be operating, the UK Civil Aviation Authority said. Continue reading...",
       "url": "https://www.theguardian.com/world/2025/oct/27/uks-eastern-airways-suspends-operations-with-all-flights-cancelled",
-      "source": "UK news | The Guardian",
+      "source": "World news | The Guardian",
       "published_at": "2025-10-27T21:55:45+00:00",
       "tags": [
         "airport/security"
@@ -74,17 +119,17 @@
       "geo": {}
     },
     {
-      "id": "394c1ea94a3e7e1e",
+      "id": "5f3592fc57871e58",
       "title_orig": "Flight disruptions continue as air traffic controllers brace for their first full missing paychecks",
-      "summary_orig": "A shortage of air traffic controllers caused more flight disruptions Monday at airports around the country, including briefly at Los…",
+      "summary_orig": "A shortage of air traffic controllers has caused more flight disruptions at airports across the country.",
       "lang": "en",
       "title_en": "Flight disruptions continue as air traffic controllers brace for their first full missing paychecks",
-      "summary_en": "A shortage of air traffic controllers caused more flight disruptions Monday at airports around the country, including briefly at Los…",
+      "summary_en": "A shortage of air traffic controllers has caused more flight disruptions at airports across the country.",
       "title": "Flight disruptions continue as air traffic controllers brace for their first full missing paychecks",
-      "summary": "A shortage of air traffic controllers caused more flight disruptions Monday at airports around the country, including briefly at Los…",
-      "url": "https://wtop.com/national/2025/10/flight-disruptions-continue-as-air-traffic-controllers-brace-for-their-first-full-missing-paychecks/",
-      "source": "WTOP News",
-      "published_at": "2025-10-27T21:50:31+00:00",
+      "summary": "A shortage of air traffic controllers has caused more flight disruptions at airports across the country.",
+      "url": "https://www.seattletimes.com/business/flight-disruptions-continue-as-air-traffic-controllers-brace-for-their-first-full-missing-paychecks/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-10-27T21:50:13+00:00",
       "tags": [
         "airport/security"
       ],
@@ -201,12 +246,12 @@
     },
     {
       "id": "7a420130bf894c4e",
-      "title_orig": "WA governor to apologise to traditional owners for Pinjarra Massacre",
+      "title_orig": "'Telling the truth': WA governor to apologise for Pinjarra Massacre",
       "summary_orig": "The descendants of people who were murdered in one of Western Australia's most brutal attacks on Aboriginal people — the Pinjarra Massacre — are set to hear an apology from the WA governor.",
       "lang": "en",
-      "title_en": "WA governor to apologise to traditional owners for Pinjarra Massacre",
+      "title_en": "'Telling the truth': WA governor to apologise for Pinjarra Massacre",
       "summary_en": "The descendants of people who were murdered in one of Western Australia's most brutal attacks on Aboriginal people — the Pinjarra Massacre — are set to hear an apology from the WA governor.",
-      "title": "WA governor to apologise to traditional owners for Pinjarra Massacre",
+      "title": "'Telling the truth': WA governor to apologise for Pinjarra Massacre",
       "summary": "The descendants of people who were murdered in one of Western Australia's most brutal attacks on Aboriginal people — the Pinjarra Massacre — are set to hear an apology from the WA governor.",
       "url": "https://www.abc.net.au/news/2025-10-28/pinjarra-massacre-wa-governor-chris-dawson-apologises/105939422",
       "source": "Just In",
@@ -346,15 +391,33 @@
     {
       "id": "d76d219044b74265",
       "title_orig": "King Charles heckled with 'how long have you known?' about Prince Andrew",
-      "summary_orig": "The protester outside the cathedral could also be heard saying \"have you asked the police to cover up for Andrew, sir?\"",
+      "summary_orig": "The protester outside the cathedral could also be heard saying, \"Have you asked the police to cover up for Andrew, sir?\"",
       "lang": "en",
       "title_en": "King Charles heckled with 'how long have you known?' about Prince Andrew",
-      "summary_en": "The protester outside the cathedral could also be heard saying \"have you asked the police to cover up for Andrew, sir?\"",
+      "summary_en": "The protester outside the cathedral could also be heard saying, \"Have you asked the police to cover up for Andrew, sir?\"",
       "title": "King Charles heckled with 'how long have you known?' about Prince Andrew",
-      "summary": "The protester outside the cathedral could also be heard saying \"have you asked the police to cover up for Andrew, sir?\"",
+      "summary": "The protester outside the cathedral could also be heard saying, \"Have you asked the police to cover up for Andrew, sir?\"",
       "url": "https://www.abc.net.au/news/2025-10-28/king-charles-heckled-over-prince-andrew/105941022",
       "source": "Just In",
       "published_at": "2025-10-27T20:39:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "73bb53762adf9179",
+      "title_orig": "Georgia officer kills a man who attacked a firefighter with a machete, police say",
+      "summary_orig": "A police officer shot and killed a man who authorities say began attacking a firefighter with a machete in rural east Georgia.",
+      "lang": "en",
+      "title_en": "Georgia officer kills a man who attacked a firefighter with a machete, police say",
+      "summary_en": "A police officer shot and killed a man who authorities say began attacking a firefighter with a machete in rural east Georgia.",
+      "title": "Georgia officer kills a man who attacked a firefighter with a machete, police say",
+      "summary": "A police officer shot and killed a man who authorities say began attacking a firefighter with a machete in rural east Georgia.",
+      "url": "https://www.seattletimes.com/nation-world/nation/georgia-officer-kills-a-man-who-attacked-a-firefighter-with-a-machete-police-say/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-10-27T20:36:13+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1632,42 +1695,6 @@
       "geo": {}
     },
     {
-      "id": "468a66a43e88f70e",
-      "title_orig": "Copenhagen Airport metro station to close for two days",
-      "summary_orig": "The Metro station which serves Copenhagen Airport will be closed on October 29th and 30th with buses connecting passengers to the airport.",
-      "lang": "en",
-      "title_en": "Copenhagen Airport metro station to close for two days",
-      "summary_en": "The Metro station which serves Copenhagen Airport will be closed on October 29th and 30th with buses connecting passengers to the airport.",
-      "title": "Copenhagen Airport metro station to close for two days",
-      "summary": "The Metro station which serves Copenhagen Airport will be closed on October 29th and 30th with buses connecting passengers to the airport.",
-      "url": "https://www.thelocal.dk/20251027/copenhagen-airport-metro-station-to-close-for-two-days",
-      "source": "The Local Denmark",
-      "published_at": "2025-10-27T12:51:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a7564348f81048b2",
-      "title_orig": "NGOs note 28 new ‘carbon bomb’ projects since 2021",
-      "summary_orig": "Potential CO2 emissions from new projects 11 times global \"carbon budget\" remaining to hit Paris Agreement targets.",
-      "lang": "en",
-      "title_en": "NGOs note 28 new ‘carbon bomb’ projects since 2021",
-      "summary_en": "Potential CO2 emissions from new projects 11 times global \"carbon budget\" remaining to hit Paris Agreement targets.",
-      "title": "NGOs note 28 new ‘carbon bomb’ projects since 2021",
-      "summary": "Potential CO2 emissions from new projects 11 times global \"carbon budget\" remaining to hit Paris Agreement targets.",
-      "url": "https://www.aljazeera.com/news/2025/10/27/ngos-note-28-new-carbon-bomb-projects-since-2021?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-10-27T12:50:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "161e5fc41efce882",
       "title_orig": "UN chief urges Myanmar junta to prioritise aid over holding election",
       "summary_orig": "United Nations Secretary General Antonio Guterres on Monday urged Myanmar’s junta to focus on increasing aid to its struggling people instead of holding an election, which he said would be neither free nor fair.\nMyanmar’s junta has been widely pilloried for pressing on with the election starting this December, while it continues to bomb civilians in a civil war that has killed thousands and displaced more than 3.5 million people.\nGuterres, who was in Kuala Lumpur for a summit between the UN and...",
@@ -1911,24 +1938,6 @@
       }
     },
     {
-      "id": "0cd7fc5ab2c5141d",
-      "title_orig": "How will Italy’s air transport strikes affect flights on Wednesday?",
-      "summary_orig": "Airline passengers flying to, from or across Italy could face delays or cancellations on Wednesday, October 29th, due to air transport strikes including walkouts by staff at Vueling and KLM.",
-      "lang": "en",
-      "title_en": "How will Italy’s air transport strikes affect flights on Wednesday?",
-      "summary_en": "Airline passengers flying to, from or across Italy could face delays or cancellations on Wednesday, October 29th, due to air transport strikes including walkouts by staff at Vueling and KLM.",
-      "title": "How will Italy’s air transport strikes affect flights on Wednesday?",
-      "summary": "Airline passengers flying to, from or across Italy could face delays or cancellations on Wednesday, October 29th, due to air transport strikes including walkouts by staff at Vueling and KLM.",
-      "url": "https://www.thelocal.it/20251027/how-will-italys-air-transport-strikes-affect-flights-on-wednesday",
-      "source": "The Local Italy",
-      "published_at": "2025-10-27T10:20:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "33b5882e7c26bc2a",
       "title_orig": "Mother of Kanpur law student, whose stomach was slit over meds, alleges police cover-up",
       "summary_orig": "The victim, Abhijeet Singh Chandel, was attacked after an argument with the shop owner.",
@@ -2073,24 +2082,6 @@
       "geo": {}
     },
     {
-      "id": "1e57de7785df87e6",
-      "title_orig": "Widespread rail disruption in southern France after arson attack",
-      "summary_orig": "French rail operator SNCF says vandalism is to blame for severe disruption in the south of the country, with dozens of trains cancelled and services not expected to return to normal before Tuesday.",
-      "lang": "en",
-      "title_en": "Widespread rail disruption in southern France after arson attack",
-      "summary_en": "French rail operator SNCF says vandalism is to blame for severe disruption in the south of the country, with dozens of trains cancelled and services not expected to return to normal before Tuesday.",
-      "title": "Widespread rail disruption in southern France after arson attack",
-      "summary": "French rail operator SNCF says vandalism is to blame for severe disruption in the south of the country, with dozens of trains cancelled and services not expected to return to normal before Tuesday.",
-      "url": "https://www.thelocal.fr/20251027/widespread-rail-disruption-in-southern-france-after-arson-attack",
-      "source": "The Local France",
-      "published_at": "2025-10-27T08:36:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e5e7e0984cb0f3f6",
       "title_orig": "British journalist and Israel critic Sami Hamdi ‘abducted’ by ICE agents at San Francisco airport over past views",
       "summary_orig": "Far-right activist Laura Loomer took credit for Hamdi’s arrest",
@@ -2116,42 +2107,6 @@
         "lat": 37.6213,
         "lon": -122.379
       }
-    },
-    {
-      "id": "73e40f04a06022c2",
-      "title_orig": "US Secretary of State Rubio says Israeli strike on Gaza didn’t violate ceasefire",
-      "summary_orig": "“They have the right if there’s an imminent threat to Israel, and all the mediators agree with that,” he said.",
-      "lang": "en",
-      "title_en": "US Secretary of State Rubio says Israeli strike on Gaza didn’t violate ceasefire",
-      "summary_en": "“They have the right if there’s an imminent threat to Israel, and all the mediators agree with that,” he said.",
-      "title": "US Secretary of State Rubio says Israeli strike on Gaza didn’t violate ceasefire",
-      "summary": "“They have the right if there’s an imminent threat to Israel, and all the mediators agree with that,” he said.",
-      "url": "https://www.straitstimes.com/world/middle-east/rubio-says-israeli-strike-on-gaza-didnt-violate-ceasefire",
-      "source": "The Straits Times World News",
-      "published_at": "2025-10-27T07:55:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "26353658fb8b0c77",
-      "title_orig": "Today in Italy: A roundup of the latest news on Monday",
-      "summary_orig": "Tourist dies after falling from wall at Rome’s Pantheon, Italy's Leonardo strikes deal to create EU satellite powerhouse, and more news this Monday.",
-      "lang": "en",
-      "title_en": "Today in Italy: A roundup of the latest news on Monday",
-      "summary_en": "Tourist dies after falling from wall at Rome’s Pantheon, Italy's Leonardo strikes deal to create EU satellite powerhouse, and more news this Monday.",
-      "title": "Today in Italy: A roundup of the latest news on Monday",
-      "summary": "Tourist dies after falling from wall at Rome’s Pantheon, Italy's Leonardo strikes deal to create EU satellite powerhouse, and more news this Monday.",
-      "url": "https://www.thelocal.it/20251027/today-in-italy-a-roundup-of-the-latest-news-on-monday-457-3",
-      "source": "The Local Italy",
-      "published_at": "2025-10-27T07:43:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "eb6e28b472d0092a",
@@ -2379,24 +2334,6 @@
       "geo": {}
     },
     {
-      "id": "95cf645eb0ddf4db",
-      "title_orig": "Thousands protest breast cancer screening scandal in Spain",
-      "summary_orig": "Protesters flooded Spain's southern city of Seville on Sunday as public outrage grows over failings that led to hundreds of women not receiving the results of breast cancer screenings.",
-      "lang": "en",
-      "title_en": "Thousands protest breast cancer screening scandal in Spain",
-      "summary_en": "Protesters flooded Spain's southern city of Seville on Sunday as public outrage grows over failings that led to hundreds of women not receiving the results of breast cancer screenings.",
-      "title": "Thousands protest breast cancer screening scandal in Spain",
-      "summary": "Protesters flooded Spain's southern city of Seville on Sunday as public outrage grows over failings that led to hundreds of women not receiving the results of breast cancer screenings.",
-      "url": "https://www.thelocal.es/20251026/thousands-protest-breast-cancer-screening-scandal-in-spain",
-      "source": "The Local Spain",
-      "published_at": "2025-10-26T18:38:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4740928611e005dd",
       "title_orig": "How Ukraine and Russia are playing out a deadly cat and mouse drone war from underground bunkers",
       "summary_orig": "Sam Kiley joins the Ukrainian infantry near Zaporizhzhia, southern Ukraine, as they bed down in a mud dugout for a night of lethal drone attacks against their Russian enemy – just a few kilometres away",
@@ -2466,42 +2403,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f7ff06afe96d2367",
-      "title_orig": "On the agenda: What's happening in Italy this week",
-      "summary_orig": "From air transport strikes to an important tax declaration deadline and new flight routes, here's what to expect in Italy this week.",
-      "lang": "en",
-      "title_en": "On the agenda: What's happening in Italy this week",
-      "summary_en": "From air transport strikes to an important tax declaration deadline and new flight routes, here's what to expect in Italy this week.",
-      "title": "On the agenda: What's happening in Italy this week",
-      "summary": "From air transport strikes to an important tax declaration deadline and new flight routes, here's what to expect in Italy this week.",
-      "url": "https://www.thelocal.it/20251026/on-the-agenda-whats-happening-in-italy-this-week-145",
-      "source": "The Local Italy",
-      "published_at": "2025-10-26T09:24:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8070a7455d95af74",
-      "title_orig": "Tens of thousands protest in Valencia on anniversary of deadly flood",
-      "summary_orig": "Tens of thousands of people took to the streets of Spain's eastern city of Valencia on Saturday to mark the first anniversary of floods that killed 229 people, and to denounce the handling of the disaster.",
-      "lang": "en",
-      "title_en": "Tens of thousands protest in Valencia on anniversary of deadly flood",
-      "summary_en": "Tens of thousands of people took to the streets of Spain's eastern city of Valencia on Saturday to mark the first anniversary of floods that killed 229 people, and to denounce the handling of the disaster.",
-      "title": "Tens of thousands protest in Valencia on anniversary of deadly flood",
-      "summary": "Tens of thousands of people took to the streets of Spain's eastern city of Valencia on Saturday to mark the first anniversary of floods that killed 229 people, and to denounce the handling of the disaster.",
-      "url": "https://www.thelocal.es/20251026/tens-of-thousands-protest-on-anniversary-of-deadly-spain-flood",
-      "source": "The Local Spain",
-      "published_at": "2025-10-26T08:23:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2606,24 +2507,6 @@
       "url": "https://runwaygirlnetwork.com/2025/10/american-airlines-a321xlr-777/",
       "source": "Runway Girl",
       "published_at": "2025-10-25T15:25:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4ca9812effe37d24",
-      "title_orig": "French fishing nets find new purpose on Ukraine's front lines",
-      "summary_orig": "Once used to scoop fish from the sea off the coast of France, recycled fishing nets are finding new life in Ukraine to protect the country's roads and military infrastructure from Russian drone attacks.",
-      "lang": "en",
-      "title_en": "French fishing nets find new purpose on Ukraine's front lines",
-      "summary_en": "Once used to scoop fish from the sea off the coast of France, recycled fishing nets are finding new life in Ukraine to protect the country's roads and military infrastructure from Russian drone attacks.",
-      "title": "French fishing nets find new purpose on Ukraine's front lines",
-      "summary": "Once used to scoop fish from the sea off the coast of France, recycled fishing nets are finding new life in Ukraine to protect the country's roads and military infrastructure from Russian drone attacks.",
-      "url": "https://www.thelocal.fr/20251025/french-fishing-nets-find-new-purpose-on-ukraines-front-lines",
-      "source": "The Local France",
-      "published_at": "2025-10-25T13:35:19+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2955,24 +2838,6 @@
       "geo": {}
     },
     {
-      "id": "a9ec46354b1b58ea",
-      "title_orig": "Everything that changes about life in Italy in November 2025",
-      "summary_orig": "From transport strikes to new flight routes and a series of holidays, here's what to expect in Italy next month.",
-      "lang": "en",
-      "title_en": "Everything that changes about life in Italy in November 2025",
-      "summary_en": "From transport strikes to new flight routes and a series of holidays, here's what to expect in Italy next month.",
-      "title": "Everything that changes about life in Italy in November 2025",
-      "summary": "From transport strikes to new flight routes and a series of holidays, here's what to expect in Italy next month.",
-      "url": "https://www.thelocal.it/20251023/everything-that-changes-about-life-in-italy-in-november-2025",
-      "source": "The Local Italy",
-      "published_at": "2025-10-23T06:49:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "958e971a3dd6b013",
       "title_orig": "U.S. widens war against suspected drug traffickers with strike off the Pacific coast of Colombia",
       "summary_orig": "The U.S. military carried out its eighth strike against a boat allegedly carrying drugs, killing two people, officials said Wednesday.",
@@ -3045,42 +2910,6 @@
       "geo": {}
     },
     {
-      "id": "82f1081e61efedc8",
-      "title_orig": "The transport strikes to expect in Italy in November 2025",
-      "summary_orig": "After major strikes hit Italian transport in October, more strike dates have been announced for November which could impact flights, trains and public transport.",
-      "lang": "en",
-      "title_en": "The transport strikes to expect in Italy in November 2025",
-      "summary_en": "After major strikes hit Italian transport in October, more strike dates have been announced for November which could impact flights, trains and public transport.",
-      "title": "The transport strikes to expect in Italy in November 2025",
-      "summary": "After major strikes hit Italian transport in October, more strike dates have been announced for November which could impact flights, trains and public transport.",
-      "url": "https://www.thelocal.it/20251022/the-transport-strikes-to-expect-in-italy-in-november-2025",
-      "source": "The Local Italy",
-      "published_at": "2025-10-22T13:01:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "194b566579a13c3d",
-      "title_orig": "EXPLAINED: What changes in Spain in November 2025",
-      "summary_orig": "More airports to start using Entry/Exit System, new flights, strikes, 50th anniversary of Franco's death, cheap cinema tickets, memorable festivals and more - here's what to expect from life in Spain in November 2025.",
-      "lang": "en",
-      "title_en": "EXPLAINED: What changes in Spain in November 2025",
-      "summary_en": "More airports to start using Entry/Exit System, new flights, strikes, 50th anniversary of Franco's death, cheap cinema tickets, memorable festivals and more - here's what to expect from life in Spain in November 2025.",
-      "title": "EXPLAINED: What changes in Spain in November 2025",
-      "summary": "More airports to start using Entry/Exit System, new flights, strikes, 50th anniversary of Franco's death, cheap cinema tickets, memorable festivals and more - here's what to expect from life in Spain in November 2025.",
-      "url": "https://www.thelocal.es/20251022/explained-what-changes-in-spain-in-november-2025",
-      "source": "The Local Spain",
-      "published_at": "2025-10-22T10:12:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b27a39d09c3d0ada",
       "title_orig": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
       "summary_orig": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
@@ -3094,24 +2923,6 @@
       "published_at": "2025-10-22T09:10:23+00:00",
       "tags": [
         "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "038e52e2f0f1b26e",
-      "title_orig": "EXCLUSIVE: Why getting Spain's Non-Lucrative Visa is now more difficult",
-      "summary_orig": "Interested in moving to Spain with the help of the Non-Lucrative Visa? The Local Spain spoke to a Spanish immigration lawyer about how consulates are now asking for more documentary proof from applicants, making the process considerably harder.",
-      "lang": "en",
-      "title_en": "EXCLUSIVE: Why getting Spain's Non-Lucrative Visa is now more difficult",
-      "summary_en": "Interested in moving to Spain with the help of the Non-Lucrative Visa? The Local Spain spoke to a Spanish immigration lawyer about how consulates are now asking for more documentary proof from applicants, making the process considerably harder.",
-      "title": "EXCLUSIVE: Why getting Spain's Non-Lucrative Visa is now more difficult",
-      "summary": "Interested in moving to Spain with the help of the Non-Lucrative Visa? The Local Spain spoke to a Spanish immigration lawyer about how consulates are now asking for more documentary proof from applicants, making the process considerably harder.",
-      "url": "https://www.thelocal.es/20251022/exclusive-why-getting-spains-non-lucrative-visa-is-now-more-difficult",
-      "source": "The Local Spain",
-      "published_at": "2025-10-22T07:45:13+00:00",
-      "tags": [
-        "diplomatic"
       ],
       "type": "local news",
       "geo": {}
@@ -3632,24 +3443,6 @@
       "url": "https://www.telegraph.co.uk/news/2024/08/16/friday-evening-news-briefing-border-force-to-strike-at-heat/",
       "source": "News",
       "published_at": "2024-08-16T16:21:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1f4f5f59d7b90e7e",
-      "title_orig": "GUIDE: Travelling through Copenhagen airport with kids",
-      "summary_orig": "Flying with children can be stressful at the best of times, so here are The Local’s best tips for departing from Copenhagen airport with your kids in tow.",
-      "lang": "en",
-      "title_en": "GUIDE: Travelling through Copenhagen airport with kids",
-      "summary_en": "Flying with children can be stressful at the best of times, so here are The Local’s best tips for departing from Copenhagen airport with your kids in tow.",
-      "title": "GUIDE: Travelling through Copenhagen airport with kids",
-      "summary": "Flying with children can be stressful at the best of times, so here are The Local’s best tips for departing from Copenhagen airport with your kids in tow.",
-      "url": "https://www.thelocal.dk/20230818/what-parents-need-to-know-about-travelling-through-copenhagen-airport-with-kids",
-      "source": "The Local Denmark",
-      "published_at": "2023-08-18T10:53:34+00:00",
       "tags": [
         "airport/security"
       ],
