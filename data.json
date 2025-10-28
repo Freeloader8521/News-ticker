@@ -1,6 +1,69 @@
 {
-  "generated_at": "2025-10-28T16:55:55.070842+00:00",
+  "generated_at": "2025-10-28T17:20:02.332087+00:00",
   "items": [
+    {
+      "id": "155183f307c69732",
+      "title_orig": "Netanyahu orders Israeli military to carry out strikes on Gaza immediately",
+      "summary_orig": "The Israeli PM made the announcement shortly after claiming Hamas opened fire at Israeli forces in southern Gaza",
+      "lang": "en",
+      "title_en": "Netanyahu orders Israeli military to carry out strikes on Gaza immediately",
+      "summary_en": "The Israeli PM made the announcement shortly after claiming Hamas opened fire at Israeli forces in southern Gaza",
+      "title": "Netanyahu orders Israeli military to carry out strikes on Gaza immediately",
+      "summary": "The Israeli PM made the announcement shortly after claiming Hamas opened fire at Israeli forces in southern Gaza",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-gaza-strikes-netanyahu-hamas-ceasefire-b2853910.html",
+      "source": "The Independent World",
+      "published_at": "2025-10-28T17:07:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c2a66ce325fef9cc",
+      "title_orig": "Breaking: Israeli PM Benjamin Netanyahu orders military to immediately strike Gaza",
+      "summary_orig": "Israeli Prime Minister Benjamin Netanyahu ordered the military on Tuesday to immediately carry out \"powerful\" attacks in Gaza.",
+      "lang": "en",
+      "title_en": "Breaking: Israeli PM Benjamin Netanyahu orders military to immediately strike Gaza",
+      "summary_en": "Israeli Prime Minister Benjamin Netanyahu ordered the military on Tuesday to immediately carry out \"powerful\" attacks in Gaza.",
+      "title": "Breaking: Israeli PM Benjamin Netanyahu orders military to immediately strike Gaza",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu ordered the military on Tuesday to immediately carry out \"powerful\" attacks in Gaza.",
+      "url": "https://www.abc.net.au/news/2025-10-29/benjamin-netanyahu-orders-powerful-attacks-in-gaza/105945526",
+      "source": "Just In",
+      "published_at": "2025-10-28T17:05:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b600c85680dea386",
+      "title_orig": "Barcelona becomes latest airport in Spain to have EES passport checks",
+      "summary_orig": "Barcelona-El Prat follows other major Spanish airports such as Madrid Barajas and Málaga in introducing the EU’s new Entry-Exit system.",
+      "lang": "en",
+      "title_en": "Barcelona becomes latest airport in Spain to have EES passport checks",
+      "summary_en": "Barcelona-El Prat follows other major Spanish airports such as Madrid Barajas and Málaga in introducing the EU’s new Entry-Exit system.",
+      "title": "Barcelona becomes latest airport in Spain to have EES passport checks",
+      "summary": "Barcelona-El Prat follows other major Spanish airports such as Madrid Barajas and Málaga in introducing the EU’s new Entry-Exit system.",
+      "url": "https://www.thelocal.es/20251028/barcelona-becomes-latest-airport-in-spain-to-have-ees-passport-checks",
+      "source": "The Local Spain",
+      "published_at": "2025-10-28T17:04:14+00:00",
+      "tags": [
+        "MAD",
+        "Spain",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Barajas",
+        "city": "Madrid",
+        "country": "Spain",
+        "iata": "MAD",
+        "lat": 40.4719,
+        "lon": -3.5626
+      }
+    },
     {
       "id": "d770147abfbdfe66",
       "title_orig": "New US strikes kill 14 alleged drug traffickers, Mexico leads rescue of survivor",
@@ -12,7 +75,187 @@
       "summary": "WASHINGTON - A series of U.S. strikes against suspected drug vessels in the eastern Pacific killed 14 alleged drug traffickers and left one survivor, U.S. Defense Secretary Pete Hegseth said on Tuesday, the latest operation in President Donald Trump's counter-drug campaign.",
       "url": "https://www.straitstimes.com/world/New-US-strikes-kill-14-alleged-drug-traffickers-Mexico-leads-rescue-of-survivor",
       "source": "The Straits Times World News",
-      "published_at": "2025-10-28T16:50:30+00:00",
+      "published_at": "2025-10-28T17:00:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "88b9135697dd8197",
+      "title_orig": "Cameroon opposition rejects Biya's win, alleges fraud amid violent protests",
+      "summary_orig": "DOUALA - Cameroon's opposition leaders rejected presidential election results that extended President Paul Biya's rule for another seven years, saying the outcome did not reflect the will of the people in a country already battling a separatist conflict.",
+      "lang": "en",
+      "title_en": "Cameroon opposition rejects Biya's win, alleges fraud amid violent protests",
+      "summary_en": "DOUALA - Cameroon's opposition leaders rejected presidential election results that extended President Paul Biya's rule for another seven years, saying the outcome did not reflect the will of the people in a country already battling a separatist conflict.",
+      "title": "Cameroon opposition rejects Biya's win, alleges fraud amid violent protests",
+      "summary": "DOUALA - Cameroon's opposition leaders rejected presidential election results that extended President Paul Biya's rule for another seven years, saying the outcome did not reflect the will of the people in a country already battling a separatist conflict.",
+      "url": "https://www.straitstimes.com/world/Cameroon-opposition-rejects-Biyas-win-alleges-fraud-amid-violent-protests",
+      "source": "The Straits Times World News",
+      "published_at": "2025-10-28T17:00:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "968c6695a759ad10",
+      "title_orig": "After Annunciation tragedy, soccer serves as outlet for Holy Angels player",
+      "summary_orig": "Soccer player Claire Meyer, whose younger siblings were in Annunciation Catholic Church when a shooter attacked, plans “to be a pillar.”",
+      "lang": "en",
+      "title_en": "After Annunciation tragedy, soccer serves as outlet for Holy Angels player",
+      "summary_en": "Soccer player Claire Meyer, whose younger siblings were in Annunciation Catholic Church when a shooter attacked, plans “to be a pillar.”",
+      "title": "After Annunciation tragedy, soccer serves as outlet for Holy Angels player",
+      "summary": "Soccer player Claire Meyer, whose younger siblings were in Annunciation Catholic Church when a shooter attacked, plans “to be a pillar.”",
+      "url": "https://www.startribune.com/holy-angels-high-school-girls-soccer-annunciation-shooting-claire-meyer/601499570",
+      "source": "Startribune News",
+      "published_at": "2025-10-28T17:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4037ae87f50723df",
+      "title_orig": "Alleged IS fanatic told undercover operative he wanted to 'cluster bomb' a pro-Israel march in Manchester, jury told",
+      "summary_orig": "Walid Saadaoui denies terror charges",
+      "lang": "en",
+      "title_en": "Alleged IS fanatic told undercover operative he wanted to 'cluster bomb' a pro-Israel march in Manchester, jury told",
+      "summary_en": "Walid Saadaoui denies terror charges",
+      "title": "Alleged IS fanatic told undercover operative he wanted to 'cluster bomb' a pro-Israel march in Manchester, jury told",
+      "summary": "Walid Saadaoui denies terror charges",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/alleged-fanatic-told-undercover-operative-32764252",
+      "source": "MEN - News",
+      "published_at": "2025-10-28T16:58:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d5a04cbfbcc9dffd",
+      "title_orig": "Sex attacker raped woman in his Ayrshire home",
+      "summary_orig": "Hugh Herman tried to force tablets down his victim's throat.",
+      "lang": "en",
+      "title_en": "Sex attacker raped woman in his Ayrshire home",
+      "summary_en": "Hugh Herman tried to force tablets down his victim's throat.",
+      "title": "Sex attacker raped woman in his Ayrshire home",
+      "summary": "Hugh Herman tried to force tablets down his victim's throat.",
+      "url": "https://www.dailyrecord.co.uk/ayrshire/sex-attacker-raped-woman-ayrshire-36147095",
+      "source": "Daily Record - Home",
+      "published_at": "2025-10-28T16:58:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3b0ed85a4569a001",
+      "title_orig": "Chris Brown allowed to return to US as bail conditions changed after alleged London attack",
+      "summary_orig": "He was at a London hearing today.",
+      "lang": "en",
+      "title_en": "Chris Brown allowed to return to US as bail conditions changed after alleged London attack",
+      "summary_en": "He was at a London hearing today.",
+      "title": "Chris Brown allowed to return to US as bail conditions changed after alleged London attack",
+      "summary": "He was at a London hearing today.",
+      "url": "https://metro.co.uk/2025/10/28/chris-brown-allowed-return-us-bail-conditions-changed-alleged-london-attack-24550788/",
+      "source": "Metro",
+      "published_at": "2025-10-28T16:55:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e3166f69e3082540",
+      "title_orig": "Netanyahu Orders New Strikes on Gaza",
+      "summary_orig": "Weeks into a tenuous cease-fire with Hamas, the office of the Israeli Prime Minister said on Tuesday evening that he had ordered “forceful strikes” in Gaza.",
+      "lang": "en",
+      "title_en": "Netanyahu Orders New Strikes on Gaza",
+      "summary_en": "Weeks into a tenuous cease-fire with Hamas, the office of the Israeli Prime Minister said on Tuesday evening that he had ordered “forceful strikes” in Gaza.",
+      "title": "Netanyahu Orders New Strikes on Gaza",
+      "summary": "Weeks into a tenuous cease-fire with Hamas, the office of the Israeli Prime Minister said on Tuesday evening that he had ordered “forceful strikes” in Gaza.",
+      "url": "https://www.nytimes.com/2025/10/28/world/middleeast/israel-gaza-netanyahu-strikes.html",
+      "source": "NYT > World News",
+      "published_at": "2025-10-28T16:51:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f9b18cb8b7ebfb46",
+      "title_orig": "Netanyahu orders Israeli army to carry out ‘powerful’ strikes in Gaza",
+      "summary_orig": "Earlier on Tuesday, military officials said troops came under fire in the southern city of Rafah and returned fire.",
+      "lang": "en",
+      "title_en": "Netanyahu orders Israeli army to carry out ‘powerful’ strikes in Gaza",
+      "summary_en": "Earlier on Tuesday, military officials said troops came under fire in the southern city of Rafah and returned fire.",
+      "title": "Netanyahu orders Israeli army to carry out ‘powerful’ strikes in Gaza",
+      "summary": "Earlier on Tuesday, military officials said troops came under fire in the southern city of Rafah and returned fire.",
+      "url": "https://www.pennlive.com/nation-world/2025/10/netanyahu-orders-israeli-army-to-carry-out-powerful-strikes-in-gaza.html",
+      "source": "pennlive.com",
+      "published_at": "2025-10-28T16:50:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d983ac8deb5dcd7f",
+      "title_orig": "Ballymun attack leaves man in serious condition as Gardaí urge public not to share video",
+      "summary_orig": "Extremely graphic footage of the attack has been circulated online.",
+      "lang": "en",
+      "title_en": "Ballymun attack leaves man in serious condition as Gardaí urge public not to share video",
+      "summary_en": "Extremely graphic footage of the attack has been circulated online.",
+      "title": "Ballymun attack leaves man in serious condition as Gardaí urge public not to share video",
+      "summary": "Extremely graphic footage of the attack has been circulated online.",
+      "url": "https://www.thejournal.ie/ballymun-6858332-Oct2025/",
+      "source": "TheJournal.ie",
+      "published_at": "2025-10-28T16:48:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fdcc1d09a4e5cb1c",
+      "title_orig": "Celtic fans launch fresh protest plans as Parkhead chiefs slaughtered for not 'standing up' to Dermot Desmond",
+      "summary_orig": "A leading supporters group have issued a fresh statement calling for action prior to kick-off against Falkirk on Wednesday night",
+      "lang": "en",
+      "title_en": "Celtic fans launch fresh protest plans as Parkhead chiefs slaughtered for not 'standing up' to Dermot Desmond",
+      "summary_en": "A leading supporters group have issued a fresh statement calling for action prior to kick-off against Falkirk on Wednesday night",
+      "title": "Celtic fans launch fresh protest plans as Parkhead chiefs slaughtered for not 'standing up' to Dermot Desmond",
+      "summary": "A leading supporters group have issued a fresh statement calling for action prior to kick-off against Falkirk on Wednesday night",
+      "url": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-fans-launch-fresh-protest-36146940",
+      "source": "Daily Record - Home",
+      "published_at": "2025-10-28T16:48:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "17cf0df4c0924ea6",
+      "title_orig": "Hamas says it will delay the handover of a hostage body after Israel announces plans to strike Gaza",
+      "summary_orig": "CAIRO (AP) — Hamas says it will delay the handover of a hostage body after Israel announces plans to strike…",
+      "lang": "en",
+      "title_en": "Hamas says it will delay the handover of a hostage body after Israel announces plans to strike Gaza",
+      "summary_en": "CAIRO (AP) — Hamas says it will delay the handover of a hostage body after Israel announces plans to strike…",
+      "title": "Hamas says it will delay the handover of a hostage body after Israel announces plans to strike Gaza",
+      "summary": "CAIRO (AP) — Hamas says it will delay the handover of a hostage body after Israel announces plans to strike…",
+      "url": "https://wtop.com/world/2025/10/hamas-says-it-will-delay-the-handover-of-a-hostage-body-after-israel-announces-plans-to-strike-gaza/",
+      "source": "WTOP News",
+      "published_at": "2025-10-28T16:46:56+00:00",
       "tags": [
         "airport/security"
       ],
@@ -53,6 +296,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "33e2041dd3d7eb11",
+      "title_orig": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
+      "summary_orig": "Israel has repeatedly bombed Lebanon, violating a November 2024 ceasefire agreement to end conflict with Hezbollah.",
+      "lang": "en",
+      "title_en": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
+      "summary_en": "Israel has repeatedly bombed Lebanon, violating a November 2024 ceasefire agreement to end conflict with Hezbollah.",
+      "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
+      "summary": "Israel has repeatedly bombed Lebanon, violating a November 2024 ceasefire agreement to end conflict with Hezbollah.",
+      "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-10-28T16:42:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -103,6 +364,24 @@
       "url": "https://www.thejournal.ie/israel-strikes-gaza-despite-ceasefire-6858306-Oct2025/",
       "source": "TheJournal.ie",
       "published_at": "2025-10-28T16:34:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bb4128bfabd6bdd9",
+      "title_orig": "Delap returns as Chelsea aim to solve striker issues",
+      "summary_orig": "Liam Delap returns from injury against Wolves in the EFL Cup on Wednesday to a  Chelsea attack struggling to find consistency.",
+      "lang": "en",
+      "title_en": "Delap returns as Chelsea aim to solve striker issues",
+      "summary_en": "Liam Delap returns from injury against Wolves in the EFL Cup on Wednesday to a  Chelsea attack struggling to find consistency.",
+      "title": "Delap returns as Chelsea aim to solve striker issues",
+      "summary": "Liam Delap returns from injury against Wolves in the EFL Cup on Wednesday to a  Chelsea attack struggling to find consistency.",
+      "url": "https://www.bbc.com/sport/football/articles/cglgn9p3615o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-10-28T16:32:57+00:00",
       "tags": [
         "airport/security"
       ],
@@ -164,21 +443,21 @@
       "geo": {}
     },
     {
-      "id": "155183f307c69732",
-      "title_orig": "Netanyahu orders Israeli military to carry out strikes on Gaza immediately",
-      "summary_orig": "The Israeli PM made the announcement shortly after claiming Hamas opened fire at Israeli forces in southern Gaza",
+      "id": "99f954b9aae9fb28",
+      "title_orig": "US kills 14 people in three strikes on alleged drug-smuggling boats",
+      "summary_orig": "The string of strikes in the Eastern Pacific Ocean brings the total known death toll from the US bombing campaign to 57.",
       "lang": "en",
-      "title_en": "Netanyahu orders Israeli military to carry out strikes on Gaza immediately",
-      "summary_en": "The Israeli PM made the announcement shortly after claiming Hamas opened fire at Israeli forces in southern Gaza",
-      "title": "Netanyahu orders Israeli military to carry out strikes on Gaza immediately",
-      "summary": "The Israeli PM made the announcement shortly after claiming Hamas opened fire at Israeli forces in southern Gaza",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-gaza-strikes-netanyahu-hamas-ceasefire-b2853910.html",
-      "source": "The Independent World",
-      "published_at": "2025-10-28T16:30:21+00:00",
+      "title_en": "US kills 14 people in three strikes on alleged drug-smuggling boats",
+      "summary_en": "The string of strikes in the Eastern Pacific Ocean brings the total known death toll from the US bombing campaign to 57.",
+      "title": "US kills 14 people in three strikes on alleged drug-smuggling boats",
+      "summary": "The string of strikes in the Eastern Pacific Ocean brings the total known death toll from the US bombing campaign to 57.",
+      "url": "https://www.aljazeera.com/news/2025/10/28/us-kills-14-people-in-three-strikes-on-alleged-drug-smuggling-boats?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-10-28T16:30:29+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -263,24 +542,6 @@
       }
     },
     {
-      "id": "91ec94cd445e61f2",
-      "title_orig": "Israeli Prime Minister Benjamin Netanyahu orders immediate ‘powerful’ strikes in Gaza",
-      "summary_orig": "JERUSALEM (AP) — Israeli Prime Minister Benjamin Netanyahu orders immediate ‘powerful’ strikes in Gaza.",
-      "lang": "en",
-      "title_en": "Israeli Prime Minister Benjamin Netanyahu orders immediate ‘powerful’ strikes in Gaza",
-      "summary_en": "JERUSALEM (AP) — Israeli Prime Minister Benjamin Netanyahu orders immediate ‘powerful’ strikes in Gaza.",
-      "title": "Israeli Prime Minister Benjamin Netanyahu orders immediate ‘powerful’ strikes in Gaza",
-      "summary": "JERUSALEM (AP) — Israeli Prime Minister Benjamin Netanyahu orders immediate ‘powerful’ strikes in Gaza.",
-      "url": "https://wtop.com/world/2025/10/israeli-prime-minister-benjamin-netanyahu-orders-immediate-powerful-strikes-in-gaza/",
-      "source": "WTOP News",
-      "published_at": "2025-10-28T16:20:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4f7402dc9da7523b",
       "title_orig": "Clashes in Douala as opposition claims election fraud, four killed",
       "summary_orig": "Violent protests in Douala over alleged election fraud led to four deaths and over a hundred arrests, with the nation questioning its future under current rule.",
@@ -319,12 +580,12 @@
     {
       "id": "cda40263c1efeb7d",
       "title_orig": "Israeli PM Netanyahu orders immediate 'powerful strikes' on Gaza",
-      "summary_orig": "Israeli Prime Minister Benjamin Netanyahu ordered his army on Tuesday to immediately carry out \"powerful strikes\" on Gaza, as Israel reported Hamas firing on its forces in southern Gaza and after Hamas returned a set of remains that Israel said belonged to a hostage recovered earlier in the war.",
+      "summary_orig": "Israeli Prime Minister Benjamin Netanyahu ordered his army on Tuesday to immediately carry out \"powerful strikes\" on Gaza. This comes as Tel Aviv reported that Hamas fired on its forces in the southern part of the enclave, and after Hamas returned a set of remains that Israel said belonged to a hostage recovered earlier in the war.",
       "lang": "en",
       "title_en": "Israeli PM Netanyahu orders immediate 'powerful strikes' on Gaza",
-      "summary_en": "Israeli Prime Minister Benjamin Netanyahu ordered his army on Tuesday to immediately carry out \"powerful strikes\" on Gaza, as Israel reported Hamas firing on its forces in southern Gaza and after Hamas returned a set of remains that Israel said belonged to a hostage recovered earlier in the war.",
+      "summary_en": "Israeli Prime Minister Benjamin Netanyahu ordered his army on Tuesday to immediately carry out \"powerful strikes\" on Gaza. This comes as Tel Aviv reported that Hamas fired on its forces in the southern part of the enclave, and after Hamas returned a set of remains that Israel said belonged to a hostage recovered earlier in the war.",
       "title": "Israeli PM Netanyahu orders immediate 'powerful strikes' on Gaza",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu ordered his army on Tuesday to immediately carry out \"powerful strikes\" on Gaza, as Israel reported Hamas firing on its forces in southern Gaza and after Hamas returned a set of remains that Israel said belonged to a hostage recovered earlier in the war.",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu ordered his army on Tuesday to immediately carry out \"powerful strikes\" on Gaza. This comes as Tel Aviv reported that Hamas fired on its forces in the southern part of the enclave, and after Hamas returned a set of remains that Israel said belonged to a hostage recovered earlier in the war.",
       "url": "https://www.france24.com/en/live-news/20251028-israeli-pm-netanyahu-orders-immediate-powerful-strikes-on-gaza",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2025-10-28T16:17:47+00:00",
@@ -332,60 +593,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "89d9f39be872e9f9",
-      "title_orig": "US launches 3 strikes on alleged drug-running boats off Colombia, killing 14",
-      "summary_orig": "WASHINGTON (AP) — Defense Secretary Pete Hegseth announced Tuesday that the U.S. military has carried out three strikes in the…",
-      "lang": "en",
-      "title_en": "US launches 3 strikes on alleged drug-running boats off Colombia, killing 14",
-      "summary_en": "WASHINGTON (AP) — Defense Secretary Pete Hegseth announced Tuesday that the U.S. military has carried out three strikes in the…",
-      "title": "US launches 3 strikes on alleged drug-running boats off Colombia, killing 14",
-      "summary": "WASHINGTON (AP) — Defense Secretary Pete Hegseth announced Tuesday that the U.S. military has carried out three strikes in the…",
-      "url": "https://wtop.com/government/2025/10/hegseth-says-us-carried-out-3-strikes-on-alleged-drug-running-boats-in-eastern-pacific-killing-14/",
-      "source": "WTOP News",
-      "published_at": "2025-10-28T16:17:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "84a90fc05218c278",
-      "title_orig": "US judge rebukes top border official over use of tear gas in Chicago",
-      "summary_orig": "CHICAGO - A federal judge on Tuesday chastised a top U.S. Border Patrol official leading President Donald Trump's immigration crackdown in Chicago after a video appeared to show him deploying tear gas potentially in violation of a court order limiting its use against protesters.",
-      "lang": "en",
-      "title_en": "US judge rebukes top border official over use of tear gas in Chicago",
-      "summary_en": "CHICAGO - A federal judge on Tuesday chastised a top U.S. Border Patrol official leading President Donald Trump's immigration crackdown in Chicago after a video appeared to show him deploying tear gas potentially in violation of a court order limiting its use against protesters.",
-      "title": "US judge rebukes top border official over use of tear gas in Chicago",
-      "summary": "CHICAGO - A federal judge on Tuesday chastised a top U.S. Border Patrol official leading President Donald Trump's immigration crackdown in Chicago after a video appeared to show him deploying tear gas potentially in violation of a court order limiting its use against protesters.",
-      "url": "https://www.straitstimes.com/world/US-judge-rebukes-top-border-official-over-use-of-tear-gas-in-Chicago",
-      "source": "The Straits Times World News",
-      "published_at": "2025-10-28T16:15:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3b182cd0daa83dab",
-      "title_orig": "The Latest: Air strikes, ICE crackdown and shutdown continue with Trump in Asia",
-      "summary_orig": "U.S. President Donald Trump has wrapped up one of the busiest days of his Asia trip, meeting with Japan’s new…",
-      "lang": "en",
-      "title_en": "The Latest: Air strikes, ICE crackdown and shutdown continue with Trump in Asia",
-      "summary_en": "U.S. President Donald Trump has wrapped up one of the busiest days of his Asia trip, meeting with Japan’s new…",
-      "title": "The Latest: Air strikes, ICE crackdown and shutdown continue with Trump in Asia",
-      "summary": "U.S. President Donald Trump has wrapped up one of the busiest days of his Asia trip, meeting with Japan’s new…",
-      "url": "https://wtop.com/asia/2025/10/the-latest-trump-meets-with-newly-elected-japanese-prime-minister-sanae-takaichi-in-tokyo/",
-      "source": "WTOP News",
-      "published_at": "2025-10-28T16:13:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -938,6 +1145,24 @@
       "geo": {}
     },
     {
+      "id": "6fac77d4ea57ae9a",
+      "title_orig": "Israel orders new Gaza strikes after claiming Hamas breach over captives",
+      "summary_orig": "Gunfire, shelling and explosions have been reported in Rafah and the eastern part of Khan Younis in southern Gaza.",
+      "lang": "en",
+      "title_en": "Israel orders new Gaza strikes after claiming Hamas breach over captives",
+      "summary_en": "Gunfire, shelling and explosions have been reported in Rafah and the eastern part of Khan Younis in southern Gaza.",
+      "title": "Israel orders new Gaza strikes after claiming Hamas breach over captives",
+      "summary": "Gunfire, shelling and explosions have been reported in Rafah and the eastern part of Khan Younis in southern Gaza.",
+      "url": "https://www.aljazeera.com/news/2025/10/28/israel-says-return-of-misidentified-body-breaches-gaza-deal-mulls-response?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-10-28T14:53:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "b205f3483d59fd71",
       "title_orig": "Anger over new hospital parking fees as staff set to protest",
       "summary_orig": "Under the proposals staff at Walsall Manor and New Cross Hospitals will have to pay to park while on shift",
@@ -971,24 +1196,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "3771c75be091d361",
-      "title_orig": "Danny Rohl sends no-nonsense Rangers goal celebration message to Youssef Chermiti",
-      "summary_orig": "The £8m former Everton striker let his emotions out after hitting his first goal for the Ibrox club",
-      "lang": "en",
-      "title_en": "Danny Rohl sends no-nonsense Rangers goal celebration message to Youssef Chermiti",
-      "summary_en": "The £8m former Everton striker let his emotions out after hitting his first goal for the Ibrox club",
-      "title": "Danny Rohl sends no-nonsense Rangers goal celebration message to Youssef Chermiti",
-      "summary": "The £8m former Everton striker let his emotions out after hitting his first goal for the Ibrox club",
-      "url": "https://www.dailyrecord.co.uk/sport/football/football-news/danny-rohl-rangers-celebration-chermiti-36146119",
-      "source": "Daily Record - Home",
-      "published_at": "2025-10-28T14:47:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1100,24 +1307,6 @@
       "geo": {}
     },
     {
-      "id": "88b9135697dd8197",
-      "title_orig": "Cameroon opposition rejects Biya's win, alleges fraud amid violent protests",
-      "summary_orig": "DOUALA - Cameroon's opposition leaders rejected presidential election results that extended President Paul Biya's rule for another seven years, saying the outcome did not reflect the will of the people in a country already battling a separatist conflict.",
-      "lang": "en",
-      "title_en": "Cameroon opposition rejects Biya's win, alleges fraud amid violent protests",
-      "summary_en": "DOUALA - Cameroon's opposition leaders rejected presidential election results that extended President Paul Biya's rule for another seven years, saying the outcome did not reflect the will of the people in a country already battling a separatist conflict.",
-      "title": "Cameroon opposition rejects Biya's win, alleges fraud amid violent protests",
-      "summary": "DOUALA - Cameroon's opposition leaders rejected presidential election results that extended President Paul Biya's rule for another seven years, saying the outcome did not reflect the will of the people in a country already battling a separatist conflict.",
-      "url": "https://www.straitstimes.com/world/Cameroon-opposition-rejects-Biyas-win-alleges-fraud-amid-violent-protests",
-      "source": "The Straits Times World News",
-      "published_at": "2025-10-28T14:10:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4adea8bd44c7acf2",
       "title_orig": "Riley Gaines and AOC’s feud grows with personal attacks, debate offers and calls to ‘get a real job’",
       "summary_orig": "Taking a page from other Republicans, the former collegiate swimmer accused Ocasio-Cortez and other progressive politicians of destroying the country",
@@ -1192,6 +1381,24 @@
       "url": "https://www.yorkshireeveningpost.co.uk/news/transport/leeds-bradford-airport-wizz-air-suspends-route-for-winter-season-from-leeds-with-flights-cancelled-5378738",
       "source": "Yorkshire Evening Post",
       "published_at": "2025-10-28T13:56:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f034b9e488b26cd4",
+      "title_orig": "US launches 3 strikes on alleged drug-running boats off Colombia, killing 14",
+      "summary_orig": "Defense Secretary Pete Hegseth has announced that the U.S. military carried out three strikes in the eastern Pacific Ocean against boats accused of carrying drugs, killing 14 and leaving one survivor.",
+      "lang": "en",
+      "title_en": "US launches 3 strikes on alleged drug-running boats off Colombia, killing 14",
+      "summary_en": "Defense Secretary Pete Hegseth has announced that the U.S. military carried out three strikes in the eastern Pacific Ocean against boats accused of carrying drugs, killing 14 and leaving one survivor.",
+      "title": "US launches 3 strikes on alleged drug-running boats off Colombia, killing 14",
+      "summary": "Defense Secretary Pete Hegseth has announced that the U.S. military carried out three strikes in the eastern Pacific Ocean against boats accused of carrying drugs, killing 14 and leaving one survivor.",
+      "url": "https://www.seattletimes.com/nation-world/hegseth-says-us-carried-out-3-strikes-on-alleged-drug-running-boats-in-eastern-pacific-killing-14/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-10-28T13:56:05+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1394,6 +1601,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c6b5bb5b7b35eda5",
+      "title_orig": "Netanyahu orders immediate ‘powerful strikes’ on Gaza in latest test of ceasefire",
+      "summary_orig": "Prime minister accuses Hamas of ‘clear violation’ of truce as far-right ministers clamour to resume war Israel’s prime minister, Benjamin Netanyahu, ordered the military to immediately carry out “powerful strikes” in Gaza, in the latest test for the increasingly shaky US-brokered ceasefire in the strip. Netanyahu ordered the strikes after an emergency meeting to discuss what he called Hamas violations of the ceasefire, amid clamour for a return to the war by far-right figures in the Israeli government. Continue reading...",
+      "lang": "en",
+      "title_en": "Netanyahu orders immediate ‘powerful strikes’ on Gaza in latest test of ceasefire",
+      "summary_en": "Prime minister accuses Hamas of ‘clear violation’ of truce as far-right ministers clamour to resume war Israel’s prime minister, Benjamin Netanyahu, ordered the military to immediately carry out “powerful strikes” in Gaza, in the latest test for the increasingly shaky US-brokered ceasefire in the strip. Netanyahu ordered the strikes after an emergency meeting to discuss what he called Hamas violations of the ceasefire, amid clamour for a return to the war by far-right figures in the Israeli government. Continue reading...",
+      "title": "Netanyahu orders immediate ‘powerful strikes’ on Gaza in latest test of ceasefire",
+      "summary": "Prime minister accuses Hamas of ‘clear violation’ of truce as far-right ministers clamour to resume war Israel’s prime minister, Benjamin Netanyahu, ordered the military to immediately carry out “powerful strikes” in Gaza, in the latest test for the increasingly shaky US-brokered ceasefire in the strip. Netanyahu ordered the strikes after an emergency meeting to discuss what he called Hamas violations of the ceasefire, amid clamour for a return to the war by far-right figures in the Israeli government. Continue reading...",
+      "url": "https://www.theguardian.com/world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says",
+      "source": "World news | The Guardian",
+      "published_at": "2025-10-28T13:10:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1660,42 +1885,6 @@
       "url": "https://runwaygirlnetwork.com/2025/10/viasat-heo-payloads-to-soon-support-airlines-with-legacy-gx-hardware/",
       "source": "Runway Girl",
       "published_at": "2025-10-28T11:31:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f53245720947ea78",
-      "title_orig": "When the passing attack didn’t work against the Spartans, Michigan pivoted",
-      "summary_orig": "Bryce Underwood threw for just 86 yards while Michigan ran for 276 yards and three touchdowns.",
-      "lang": "en",
-      "title_en": "When the passing attack didn’t work against the Spartans, Michigan pivoted",
-      "summary_en": "Bryce Underwood threw for just 86 yards while Michigan ran for 276 yards and three touchdowns.",
-      "title": "When the passing attack didn’t work against the Spartans, Michigan pivoted",
-      "summary": "Bryce Underwood threw for just 86 yards while Michigan ran for 276 yards and three touchdowns.",
-      "url": "https://www.mlive.com/wolverines/2025/10/when-the-passing-attack-didnt-work-against-the-spartans-michigan-pivoted.html",
-      "source": "mlive.com",
-      "published_at": "2025-10-28T11:30:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bf898c5d808e6d7c",
-      "title_orig": "Minneapolis teachers union votes to authorize strike",
-      "summary_orig": "The vote comes after the union and the district have yet to agree on a contract despite months of negotiations.",
-      "lang": "en",
-      "title_en": "Minneapolis teachers union votes to authorize strike",
-      "summary_en": "The vote comes after the union and the district have yet to agree on a contract despite months of negotiations.",
-      "title": "Minneapolis teachers union votes to authorize strike",
-      "summary": "The vote comes after the union and the district have yet to agree on a contract despite months of negotiations.",
-      "url": "https://www.startribune.com/minneapolis-teachers-union-votes-to-authorize-strike/601508016",
-      "source": "Startribune News",
-      "published_at": "2025-10-28T11:27:45+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2474,24 +2663,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "9e44c05631379c4e",
-      "title_orig": "Charles asked ‘How long have you known about Andrew and Epstein?’ by protester",
-      "summary_orig": "The monarchy is coming under increasing pressure to resolve the issue of Andrew.",
-      "lang": "en",
-      "title_en": "Charles asked ‘How long have you known about Andrew and Epstein?’ by protester",
-      "summary_en": "The monarchy is coming under increasing pressure to resolve the issue of Andrew.",
-      "title": "Charles asked ‘How long have you known about Andrew and Epstein?’ by protester",
-      "summary": "The monarchy is coming under increasing pressure to resolve the issue of Andrew.",
-      "url": "https://www.standard.co.uk/news/uk/charles-mps-sarah-ferguson-king-breaking-news-b1255146.html",
-      "source": "The Standard News",
-      "published_at": "2025-10-27T21:24:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
