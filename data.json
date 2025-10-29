@@ -1,6 +1,42 @@
 {
-  "generated_at": "2025-10-29T23:19:46.952881+00:00",
+  "generated_at": "2025-10-29T23:44:37.025782+00:00",
   "items": [
+    {
+      "id": "636a419a3acfb2c0",
+      "title_orig": "Microsoft outage live updates: Users report Azure, Starbucks app, Xbox and airport website down as recovery underway",
+      "summary_orig": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
+      "lang": "en",
+      "title_en": "Microsoft outage live updates: Users report Azure, Starbucks app, Xbox and airport website down as recovery underway",
+      "summary_en": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
+      "title": "Microsoft outage live updates: Users report Azure, Starbucks app, Xbox and airport website down as recovery underway",
+      "summary": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
+      "url": "https://www.independent.co.uk/news/world/americas/aws-outage-amazon-microsoft-down-live-updates-b2854714.html",
+      "source": "The Independent World",
+      "published_at": "2025-10-29T23:21:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bbcb51ebe9c9b926",
+      "title_orig": "Portland police say Trump's troop deployment inflamed protests",
+      "summary_orig": "Portland police testified on Wednesday that President Donald Trump's order to deploy National Guard troops in their city inflamed protests and increased violence, in a trial over whether the troop deployment was legal.",
+      "lang": "en",
+      "title_en": "Portland police say Trump's troop deployment inflamed protests",
+      "summary_en": "Portland police testified on Wednesday that President Donald Trump's order to deploy National Guard troops in their city inflamed protests and increased violence, in a trial over whether the troop deployment was legal.",
+      "title": "Portland police say Trump's troop deployment inflamed protests",
+      "summary": "Portland police testified on Wednesday that President Donald Trump's order to deploy National Guard troops in their city inflamed protests and increased violence, in a trial over whether the troop deployment was legal.",
+      "url": "https://www.straitstimes.com/world/Portland-police-say-Trumps-troop-deployment-inflamed-protests",
+      "source": "The Straits Times World News",
+      "published_at": "2025-10-29T23:20:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "21f15d4d86bf53ef",
       "title_orig": "Democrat running for Congress, 5 others indicted over Chicago immigration protest",
@@ -35,6 +71,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f11f3c831bf6ae4a",
+      "title_orig": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
+      "summary_orig": "UN secretary-general strongly condemns Israeli attacks in Gaza on Tuesday, which killed more than 100 Palestinians.",
+      "lang": "en",
+      "title_en": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
+      "summary_en": "UN secretary-general strongly condemns Israeli attacks in Gaza on Tuesday, which killed more than 100 Palestinians.",
+      "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
+      "summary": "UN secretary-general strongly condemns Israeli attacks in Gaza on Tuesday, which killed more than 100 Palestinians.",
+      "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-10-29T23:01:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -425,24 +479,6 @@
       "geo": {}
     },
     {
-      "id": "636a419a3acfb2c0",
-      "title_orig": "Microsoft outage live updates: Users report outages with Azure as Starbucks app, Xbox and airport website go dark",
-      "summary_orig": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
-      "lang": "en",
-      "title_en": "Microsoft outage live updates: Users report outages with Azure as Starbucks app, Xbox and airport website go dark",
-      "summary_en": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
-      "title": "Microsoft outage live updates: Users report outages with Azure as Starbucks app, Xbox and airport website go dark",
-      "summary": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
-      "url": "https://www.independent.co.uk/news/world/americas/aws-outage-amazon-microsoft-down-live-updates-b2854714.html",
-      "source": "The Independent World",
-      "published_at": "2025-10-29T20:36:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2d8d79a04e8a7eb0",
       "title_orig": "U.S. Middle East Envoy Presses Lebanon to Disarm Hezbollah",
       "summary_orig": "The visit by the envoy, Morgan Ortagus, coincided with a spike in Israeli attacks on Hezbollah in recent weeks that has stoked fears of a renewed conflict.",
@@ -621,42 +657,6 @@
         "lat": 51.47,
         "lon": -0.4543
       }
-    },
-    {
-      "id": "bbcb51ebe9c9b926",
-      "title_orig": "Portland police say Trump's troop deployment inflamed protests",
-      "summary_orig": "Portland police testified on Wednesday that President Donald Trump's order to deploy National Guard troops in their city inflamed protests and increased violence, as a court held a trial over whether the troop deployment was legal.",
-      "lang": "en",
-      "title_en": "Portland police say Trump's troop deployment inflamed protests",
-      "summary_en": "Portland police testified on Wednesday that President Donald Trump's order to deploy National Guard troops in their city inflamed protests and increased violence, as a court held a trial over whether the troop deployment was legal.",
-      "title": "Portland police say Trump's troop deployment inflamed protests",
-      "summary": "Portland police testified on Wednesday that President Donald Trump's order to deploy National Guard troops in their city inflamed protests and increased violence, as a court held a trial over whether the troop deployment was legal.",
-      "url": "https://www.straitstimes.com/world/Portland-police-say-Trumps-troop-deployment-inflamed-protests",
-      "source": "The Straits Times World News",
-      "published_at": "2025-10-29T19:55:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0c803e8d4ec9cb71",
-      "title_orig": "As Trump and Xi prepare to talk trade, China will enter the room with a strong hand",
-      "summary_orig": "The meeting with US President Donald Trump and his Chinese counterpart Xi Jinping is one of the most highly anticipated bilaterals of the year, as the leaders seek to strike a deal while also saving face.",
-      "lang": "en",
-      "title_en": "As Trump and Xi prepare to talk trade, China will enter the room with a strong hand",
-      "summary_en": "The meeting with US President Donald Trump and his Chinese counterpart Xi Jinping is one of the most highly anticipated bilaterals of the year, as the leaders seek to strike a deal while also saving face.",
-      "title": "As Trump and Xi prepare to talk trade, China will enter the room with a strong hand",
-      "summary": "The meeting with US President Donald Trump and his Chinese counterpart Xi Jinping is one of the most highly anticipated bilaterals of the year, as the leaders seek to strike a deal while also saving face.",
-      "url": "https://www.abc.net.au/news/2025-10-30/donald-trump-and-xi-jinping-prepare-for-us-china-trade-talks/105943374",
-      "source": "Just In",
-      "published_at": "2025-10-29T19:53:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "1a22785690f83855",
@@ -1390,24 +1390,6 @@
       "url": "https://www.straitstimes.com/world/Tanzania-police-order-curfew-in-main-city-after-election-marred-by-violence",
       "source": "The Straits Times World News",
       "published_at": "2025-10-29T15:41:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "75d33955bfcd3094",
-      "title_orig": "Man charged in jail killing attacked previous cellmate days earlier: Like he was ‘hearing voices or something’",
-      "summary_orig": "Clackamas County officials would not directly say why they moved the man into a cell with another person.",
-      "lang": "en",
-      "title_en": "Man charged in jail killing attacked previous cellmate days earlier: Like he was ‘hearing voices or something’",
-      "summary_en": "Clackamas County officials would not directly say why they moved the man into a cell with another person.",
-      "title": "Man charged in jail killing attacked previous cellmate days earlier: Like he was ‘hearing voices or something’",
-      "summary": "Clackamas County officials would not directly say why they moved the man into a cell with another person.",
-      "url": "https://www.oregonlive.com/clackamascounty/2025/10/man-charged-in-jail-killing-attacked-previous-cellmate-days-earlier-like-he-was-hearing-voices-or-something.html",
-      "source": "oregonlive.com",
-      "published_at": "2025-10-29T15:39:43+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2512,24 +2494,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f341aaf1df70556a",
-      "title_orig": "Sudan’s Military Withdraws From El Fasher in Darfur, Handing City to R.S.F.",
-      "summary_orig": "The Sudanese military withdrew from a key city in Darfur, where fleeing civilians were reported to be coming under attack from R.S.F. paramilitary forces.",
-      "lang": "en",
-      "title_en": "Sudan’s Military Withdraws From El Fasher in Darfur, Handing City to R.S.F.",
-      "summary_en": "The Sudanese military withdrew from a key city in Darfur, where fleeing civilians were reported to be coming under attack from R.S.F. paramilitary forces.",
-      "title": "Sudan’s Military Withdraws From El Fasher in Darfur, Handing City to R.S.F.",
-      "summary": "The Sudanese military withdrew from a key city in Darfur, where fleeing civilians were reported to be coming under attack from R.S.F. paramilitary forces.",
-      "url": "https://www.nytimes.com/2025/10/28/world/africa/sudan-el-fasher-burhan-rsf.html",
-      "source": "NYT > World News",
-      "published_at": "2025-10-29T10:19:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
