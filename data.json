@@ -1,6 +1,141 @@
 {
-  "generated_at": "2025-10-29T20:21:38.784742+00:00",
+  "generated_at": "2025-10-29T20:48:45.858096+00:00",
   "items": [
+    {
+      "id": "de121bc9db92745c",
+      "title_orig": "Legal battles mount over Trump’s National Guard deployments to U.S. cities",
+      "summary_orig": "In a rare use of the U.S. military for domestic purposes, President Donald Trump has deployed National Guard troops to Los Angeles and Washington, D.C., and announced plans to send them to Portland, Chicago and other cities in response to protests over his immigration policies.",
+      "lang": "en",
+      "title_en": "Legal battles mount over Trump’s National Guard deployments to U.S. cities",
+      "summary_en": "In a rare use of the U.S. military for domestic purposes, President Donald Trump has deployed National Guard troops to Los Angeles and Washington, D.C., and announced plans to send them to Portland, Chicago and other cities in response to protests over his immigration policies.",
+      "title": "Legal battles mount over Trump’s National Guard deployments to U.S. cities",
+      "summary": "In a rare use of the U.S. military for domestic purposes, President Donald Trump has deployed National Guard troops to Los Angeles and Washington, D.C., and announced plans to send them to Portland, Chicago and other cities in response to protests over his immigration policies.",
+      "url": "https://www.straitstimes.com/world/Legal-battles-mount-over-Trumps-National-Guard-deployments-to-US-cities",
+      "source": "The Straits Times World News",
+      "published_at": "2025-10-29T20:40:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "636a419a3acfb2c0",
+      "title_orig": "Microsoft outage live updates: Users report outages with Azure as Starbucks app, Xbox and airport website go dark",
+      "summary_orig": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
+      "lang": "en",
+      "title_en": "Microsoft outage live updates: Users report outages with Azure as Starbucks app, Xbox and airport website go dark",
+      "summary_en": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
+      "title": "Microsoft outage live updates: Users report outages with Azure as Starbucks app, Xbox and airport website go dark",
+      "summary": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
+      "url": "https://www.independent.co.uk/news/world/americas/aws-outage-amazon-microsoft-down-live-updates-b2854714.html",
+      "source": "The Independent World",
+      "published_at": "2025-10-29T20:36:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "74fa87c65ba2d25a",
+      "title_orig": "Trump live: Major airport forced to ground planes as federal shutdown causes huge staff shortage",
+      "summary_orig": "Shutdown-linked travel disruption comes as Trump prepares to meet Chinese counterpart Xi Jinping in South Korea for key talks to try and defuse trade war",
+      "lang": "en",
+      "title_en": "Trump live: Major airport forced to ground planes as federal shutdown causes huge staff shortage",
+      "summary_en": "Shutdown-linked travel disruption comes as Trump prepares to meet Chinese counterpart Xi Jinping in South Korea for key talks to try and defuse trade war",
+      "title": "Trump live: Major airport forced to ground planes as federal shutdown causes huge staff shortage",
+      "summary": "Shutdown-linked travel disruption comes as Trump prepares to meet Chinese counterpart Xi Jinping in South Korea for key talks to try and defuse trade war",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-live-news-today-b2854329.html",
+      "source": "The Independent World",
+      "published_at": "2025-10-29T20:35:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2459f01118ed1a34",
+      "title_orig": "Newark airport grounds planes as government shutdown staffing shortage leave FAA struggling",
+      "summary_orig": "The ground delay will remain in effect until 11 p.m. ET on Wednesday",
+      "lang": "en",
+      "title_en": "Newark airport grounds planes as government shutdown staffing shortage leave FAA struggling",
+      "summary_en": "The ground delay will remain in effect until 11 p.m. ET on Wednesday",
+      "title": "Newark airport grounds planes as government shutdown staffing shortage leave FAA struggling",
+      "summary": "The ground delay will remain in effect until 11 p.m. ET on Wednesday",
+      "url": "https://www.independent.co.uk/news/world/americas/newark-ground-stop-plane-delays-shutdown-b2854830.html",
+      "source": "The Independent World",
+      "published_at": "2025-10-29T20:34:12+00:00",
+      "tags": [
+        "EWR",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Newark Liberty",
+        "city": "Newark",
+        "country": "United States",
+        "iata": "EWR",
+        "lat": 40.6895,
+        "lon": -74.1745
+      }
+    },
+    {
+      "id": "2d8d79a04e8a7eb0",
+      "title_orig": "U.S. Middle East Envoy Presses Lebanon to Disarm Hezbollah",
+      "summary_orig": "The visit by the envoy, Morgan Ortagus, coincided with a spike in Israeli attacks on Hezbollah in recent weeks that has stoked fears of a renewed conflict.",
+      "lang": "en",
+      "title_en": "U.S. Middle East Envoy Presses Lebanon to Disarm Hezbollah",
+      "summary_en": "The visit by the envoy, Morgan Ortagus, coincided with a spike in Israeli attacks on Hezbollah in recent weeks that has stoked fears of a renewed conflict.",
+      "title": "U.S. Middle East Envoy Presses Lebanon to Disarm Hezbollah",
+      "summary": "The visit by the envoy, Morgan Ortagus, coincided with a spike in Israeli attacks on Hezbollah in recent weeks that has stoked fears of a renewed conflict.",
+      "url": "https://www.nytimes.com/2025/10/29/world/middleeast/us-middle-east-envoy-presses-lebanon-to-disarm-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2025-10-29T20:32:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "ce64433f7b251ced",
+      "title_orig": "Video Analysis Shows Staged Recovery of Israeli Hostage Remains",
+      "summary_orig": "Israel’s military released a drone video of the incident in Gaza, and The New York Times analyzed the footage.",
+      "lang": "en",
+      "title_en": "Video Analysis Shows Staged Recovery of Israeli Hostage Remains",
+      "summary_en": "Israel’s military released a drone video of the incident in Gaza, and The New York Times analyzed the footage.",
+      "title": "Video Analysis Shows Staged Recovery of Israeli Hostage Remains",
+      "summary": "Israel’s military released a drone video of the incident in Gaza, and The New York Times analyzed the footage.",
+      "url": "https://www.nytimes.com/2025/10/29/world/europe/gaza-hamas-israel-remains.html",
+      "source": "NYT > World News",
+      "published_at": "2025-10-29T20:26:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "8e10f55de569700e",
+      "title_orig": "NIA charge sheet in Pahalgam case likely soon; to name Lashkar-e-Taiba, 2 locals",
+      "summary_orig": "The NIA is set to file a charge sheet in the April 22 Pahalgam terror attack, linking Lashkar-e-Taiba and local accomplices to the incident.",
+      "lang": "en",
+      "title_en": "NIA charge sheet in Pahalgam case likely soon; to name Lashkar-e-Taiba, 2 locals",
+      "summary_en": "The NIA is set to file a charge sheet in the April 22 Pahalgam terror attack, linking Lashkar-e-Taiba and local accomplices to the incident.",
+      "title": "NIA charge sheet in Pahalgam case likely soon; to name Lashkar-e-Taiba, 2 locals",
+      "summary": "The NIA is set to file a charge sheet in the April 22 Pahalgam terror attack, linking Lashkar-e-Taiba and local accomplices to the incident.",
+      "url": "https://www.hindustantimes.com/india-news/nia-charge-sheet-in-pahalgam-case-likely-soon-may-name-let-locals-101761767039810.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-10-29T20:21:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "5b92842ec1c6b0fb",
       "title_orig": "Israel hits another Gaza target after deadliest night since truce",
@@ -18,6 +153,33 @@
       ],
       "type": "local news",
       "geo": {}
+    },
+    {
+      "id": "cd893ed205adada1",
+      "title_orig": "A KLM Boeing 787-10 is diverting to Vienna after more than 8 hours in the air",
+      "summary_orig": "A KLM flight from The Netherlands to Tanzania turned around over Egypt. The KLM flight KL569 departed Amsterdam Schiphol Airport from runway 24 at 12:45 CET for a 8-hour flight to Kilimanjaro Airport in Tanzania. The Boeing 787-10 (registration PH-BKF) turned around over Egypt while cruising at 38,000 feet due to a technical issue with […] The post A KLM Boeing 787-10 is diverting to Vienna after more than 8 hours in the air appeared first on AIRLIVE .",
+      "lang": "en",
+      "title_en": "A KLM Boeing 787-10 is diverting to Vienna after more than 8 hours in the air",
+      "summary_en": "A KLM flight from The Netherlands to Tanzania turned around over Egypt. The KLM flight KL569 departed Amsterdam Schiphol Airport from runway 24 at 12:45 CET for a 8-hour flight to Kilimanjaro Airport in Tanzania. The Boeing 787-10 (registration PH-BKF) turned around over Egypt while cruising at 38,000 feet due to a technical issue with […] The post A KLM Boeing 787-10 is diverting to Vienna after more than 8 hours in the air appeared first on AIRLIVE .",
+      "title": "A KLM Boeing 787-10 is diverting to Vienna after more than 8 hours in the air",
+      "summary": "A KLM flight from The Netherlands to Tanzania turned around over Egypt. The KLM flight KL569 departed Amsterdam Schiphol Airport from runway 24 at 12:45 CET for a 8-hour flight to Kilimanjaro Airport in Tanzania. The Boeing 787-10 (registration PH-BKF) turned around over Egypt while cruising at 38,000 feet due to a technical issue with […] The post A KLM Boeing 787-10 is diverting to Vienna after more than 8 hours in the air appeared first on AIRLIVE .",
+      "url": "https://airlive.net/tracking/2025/10/29/a-klm-boeing-787-10-is-diverting-to-vienna-after-more-than-8-hours-in-the-air/",
+      "source": "AIRLIVE",
+      "published_at": "2025-10-29T20:17:48+00:00",
+      "tags": [
+        "AMS",
+        "Netherlands",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Schiphol",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "iata": "AMS",
+        "lat": 52.3105,
+        "lon": 4.7683
+      }
     },
     {
       "id": "7ebd6f1730b66543",
@@ -38,17 +200,17 @@
       "geo": {}
     },
     {
-      "id": "a39304ec37cb0d65",
-      "title_orig": "Leverkusen strikes late to survive in German Cup as Bayern faces Cologne",
-      "summary_orig": "PADERBORN, Germany (AP) — Bayer Leverkusen scored twice in the final minutes of extra time to win a thrilling German…",
+      "id": "730a1b451202503d",
+      "title_orig": "MPs approve secret 16-year-old transcript be given to Omagh bombing inquiry",
+      "summary_orig": "It comes after Parliament’s rules watchdog recommended the unreported evidence be handed to the inquiry.",
       "lang": "en",
-      "title_en": "Leverkusen strikes late to survive in German Cup as Bayern faces Cologne",
-      "summary_en": "PADERBORN, Germany (AP) — Bayer Leverkusen scored twice in the final minutes of extra time to win a thrilling German…",
-      "title": "Leverkusen strikes late to survive in German Cup as Bayern faces Cologne",
-      "summary": "PADERBORN, Germany (AP) — Bayer Leverkusen scored twice in the final minutes of extra time to win a thrilling German…",
-      "url": "https://wtop.com/sports/2025/10/leverkusen-strikes-late-to-survive-in-german-cup-as-bayern-faces-cologne/",
-      "source": "WTOP News",
-      "published_at": "2025-10-29T20:10:47+00:00",
+      "title_en": "MPs approve secret 16-year-old transcript be given to Omagh bombing inquiry",
+      "summary_en": "It comes after Parliament’s rules watchdog recommended the unreported evidence be handed to the inquiry.",
+      "title": "MPs approve secret 16-year-old transcript be given to Omagh bombing inquiry",
+      "summary": "It comes after Parliament’s rules watchdog recommended the unreported evidence be handed to the inquiry.",
+      "url": "https://www.standard.co.uk/news/politics/omagh-mps-parliament-conservative-co-tyrone-b1255533.html",
+      "source": "The Standard News",
+      "published_at": "2025-10-29T20:14:34+00:00",
       "tags": [
         "airport/security"
       ],
@@ -67,60 +229,6 @@
       "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/police-scotland-under-fire-womens-32777358",
       "source": "Edinburgh Live - News",
       "published_at": "2025-10-29T20:06:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "636a419a3acfb2c0",
-      "title_orig": "Microsoft outage live updates: Users report outages with Azure and Amazon Web Services as airport website goes offline",
-      "summary_orig": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
-      "lang": "en",
-      "title_en": "Microsoft outage live updates: Users report outages with Azure and Amazon Web Services as airport website goes offline",
-      "summary_en": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
-      "title": "Microsoft outage live updates: Users report outages with Azure and Amazon Web Services as airport website goes offline",
-      "summary": "‘We are working to address an issue affecting Azure Front Door,’ Microsoft said in a statement",
-      "url": "https://www.independent.co.uk/news/world/americas/aws-outage-amazon-microsoft-down-live-updates-b2854714.html",
-      "source": "The Independent World",
-      "published_at": "2025-10-29T20:06:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "74fa87c65ba2d25a",
-      "title_orig": "Trump live: Major airport forced to ground planes as federal shutdown causes huge staff shortage",
-      "summary_orig": "Trump ‘has strengthened China’s hand while weakening America’s leverage,’ a new report from Senate Democrats states",
-      "lang": "en",
-      "title_en": "Trump live: Major airport forced to ground planes as federal shutdown causes huge staff shortage",
-      "summary_en": "Trump ‘has strengthened China’s hand while weakening America’s leverage,’ a new report from Senate Democrats states",
-      "title": "Trump live: Major airport forced to ground planes as federal shutdown causes huge staff shortage",
-      "summary": "Trump ‘has strengthened China’s hand while weakening America’s leverage,’ a new report from Senate Democrats states",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-live-news-today-b2854329.html",
-      "source": "The Independent World",
-      "published_at": "2025-10-29T20:05:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "730a1b451202503d",
-      "title_orig": "MPs approve secret 15-year-old transcript be given to Omagh bombing inquiry",
-      "summary_orig": "It comes after Parliament’s rules watchdog recommended the unreported evidence be handed to the inquiry.",
-      "lang": "en",
-      "title_en": "MPs approve secret 15-year-old transcript be given to Omagh bombing inquiry",
-      "summary_en": "It comes after Parliament’s rules watchdog recommended the unreported evidence be handed to the inquiry.",
-      "title": "MPs approve secret 15-year-old transcript be given to Omagh bombing inquiry",
-      "summary": "It comes after Parliament’s rules watchdog recommended the unreported evidence be handed to the inquiry.",
-      "url": "https://www.standard.co.uk/news/politics/omagh-mps-parliament-conservative-co-tyrone-b1255533.html",
-      "source": "The Standard News",
-      "published_at": "2025-10-29T20:03:16+00:00",
       "tags": [
         "airport/security"
       ],
@@ -335,6 +443,24 @@
       "geo": {}
     },
     {
+      "id": "61211a20fa58a65a",
+      "title_orig": "US determined to prevent the collapse of the Gaza ceasefire after overnight airstrikes",
+      "summary_orig": "Israel’s intense bombardment of the Gaza Strip this week marked the most serious challenge yet for a fragile, U.S.-brokered ceasefire.",
+      "lang": "en",
+      "title_en": "US determined to prevent the collapse of the Gaza ceasefire after overnight airstrikes",
+      "summary_en": "Israel’s intense bombardment of the Gaza Strip this week marked the most serious challenge yet for a fragile, U.S.-brokered ceasefire.",
+      "title": "US determined to prevent the collapse of the Gaza ceasefire after overnight airstrikes",
+      "summary": "Israel’s intense bombardment of the Gaza Strip this week marked the most serious challenge yet for a fragile, U.S.-brokered ceasefire.",
+      "url": "https://www.seattletimes.com/nation-world/us-determined-to-prevent-the-collapse-of-the-gaza-ceasefire-after-overnight-airstrikes/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-10-29T19:05:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "11e09ad37f04182e",
       "title_orig": "Afghan Taliban regime completely responsible for breakdown of Istanbul talks: Info Minister Tarar",
       "summary_orig": "Information Minister Attaullah Tarar said on Wednesday that the Afghan Taliban regime was to blame for the breakdown of talks between Islamabad and Kabul as the two countries engaged in a lengthy round of dialogue to try and achieve a permanent ceasefire and cessation of terrorist attacks originating from Afghan soil. Pakistan witnessed a rapid deterioration in ties with Afghanistan, with both sides engaging in recent border skirmishes , counter-statements and allegations . The hostilities began earlier this month when an attack was launched on Pakistan from Afghanistan on the night of October 11. The attack had followed an allegation from the Taliban of airstrikes by Pakistan into Afghanistan — an accusation which Islamabad has neither confirmed nor denied . For its part, Islamabad has long demanded that the Afghan Taliban stop terror groups from using its soil against Pakistan. Taliban, however, deny the allegation of allowing terrorists to operate from Afghan soil. Meanwhile, Pakistan continues to grapple with the issue of terrorism and has suffered multiple casualties among security forces in intelligence-based operations. After the initial skirmish on October 11, multiple others took place along the Pakistan-Afghanistan border. Meanwhile, strikes by Islamabad also targeted Gul Bahadur group camps in Afghanistan. Eventually, the two sides came together for dialogue in Doha, which resulted in a temporary ceasefire , as well as a commitment to reconvene in Istanbul to work on mechanisms for lasting peace and stability between the two countries. Last week, the second round of talks, which were being mediated by Turkiye and Qatar, between the two sides began in the Turkish capital. But earlier today, Tarar announced that the latest round of talks between Islamabad and Kabul in Istanbul “failed to bring about any workable solution”. Elaborating more on the matter in an interview on Geo News show ‘Aaj Shahzeb Khanzada Kay Sath’, the information minister said: “The Afghan Taliban regime is completely responsible for the breakdown of the talks. “When irrefutable evidence was given to them and their soil is being used against Pakistan’s sovereignty and for terrorist activities, and their people are involved with the TTP, then why are they resorting to evasion?” The information minister added that Pakistan was thankful to Qatar and Turkiye for facilitating the talks, but said the Afghan Taliban had failed to agree on a unified agenda to stop terror attacks and take action against the groups responsible. “How much more can we tolerate it?” When asked about whether a ceasefire still existed after the failure of the talks, Tarar said: “Hope always remains for diplomatic efforts and it should always be there. Hope always remains in global issues that some diplomatic sources and matters will go towards peace, but rest assured: if their soil is used and we give them evidence of that, then Pakistan always has the right to respond for its self-defence.” Questioned about the Taliban negotiators giving a verbal agreement but not a written undertaking to take action against the TTP, Tarar said that hesitating from signing the written agreement amounted to “hypocrisy” and asked if it was not evidence that “they want to support terrorists and are doing so”. He questioned what more proof did the world need that the Afghan Taliban were not willing to stop terrorist activities and had malicious intent. “Their word can’t be trusted, and their ill intent has come out openly. Why were they present in India when they conspired to attack Pakistan’s border?” He said only “time will tell” how matters progressed from here on and border trade would remain shut for the time being due to the deadlock. “A final decision will be made in the next few days on what will be the future of all this.” Conventional and proxy warfare advantage Reiterating Pakistan’s military and diplomatic performance in the conflict against India , the information minister said about Afghanistan: “What do they think? Can they damage Pakistan through such activities? Absolutely not!” He said there was no match between Pakistan and Afghanistan in terms of conventional warfare, adding that “we will defeat them in proxy war[fare] too”. When asked about the alleged threats made by the Taliban regime of striking Islamabad amid the current escalation, Tarar derided what he said was “propaganda warfare” and said Pakistan was not only effectively responding to it but would give a befitting response to it. He maintained that said that the “unholy alliance” of Fitna al-Khawarij and Fitna al-Hindustan would be snuffed out, while referring to the Afghan foreign minister’s remarks in India about occupied Kashmir during his visit to the country. “Rest assured, if they attack through the border, or their soil is used, and we will present evidence of it before the world, it will be befittingly responded to. There will always be a response to attacking Pakistan or harming it; enough is enough. How long will they take Pakistan for granted?” He added that, as per the UN Charter and international law, Pakistan had a right to respond if there was a direct or indirect attack on its territory and it could present evidence for it. The minister questioned whether any other country would exhibit such restraint and give such leeway to the Afghan Taliban in the face of such attacks. Tarar elaborated that the Pakistani state had a clear stance that Afghan soil should not be used for attacks on the former’s territory, nor should terrorists be facilitated by the latter; the movement of terrorists from the neighbouring country should also stop by respecting the integrity of international territorial borders and the interim Afghan authorities should take concrete action against terrorist elements. The minister said there was a consensus in Pakistan that the above activities should stop. “Since the Afghan Taliban regime came to power, it has completely supported the Tehreek-i-Taliban Pakistan and members of the Tehreek-i-Taliban Afghanistan join their formations.” “Whenever there is an attack or terrorist activity in Pakistan, we show the whole nation and the world on television that Afghan nationals are oftentimes involved in them.” He added that Pakistan had always desired peace and had played a constructive role, adding that the Taliban had violated the Doha agreement before as well and let down all parties to the deal. “I think the Taliban regime does not have the support of the Afghan nation or the people. They want a war economy, but can’t sustain it.”",
@@ -386,24 +512,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ce64433f7b251ced",
-      "title_orig": "Video Analysis Shows Staged Recovery of Israeli Hostage Remains",
-      "summary_orig": "Israel’s military released a drone video of the incident in Gaza, and The New York Times analyzed the footage.",
-      "lang": "en",
-      "title_en": "Video Analysis Shows Staged Recovery of Israeli Hostage Remains",
-      "summary_en": "Israel’s military released a drone video of the incident in Gaza, and The New York Times analyzed the footage.",
-      "title": "Video Analysis Shows Staged Recovery of Israeli Hostage Remains",
-      "summary": "Israel’s military released a drone video of the incident in Gaza, and The New York Times analyzed the footage.",
-      "url": "https://www.nytimes.com/2025/10/29/world/europe/gaza-hamas-israel-remains.html",
-      "source": "NYT > World News",
-      "published_at": "2025-10-29T18:43:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -472,6 +580,42 @@
       "url": "https://www.straitstimes.com/world/Protest-erupts-in-Cameroons-Douala-as-opposition-leader-rejects-Biya-victory",
       "source": "The Straits Times World News",
       "published_at": "2025-10-29T18:25:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9a96fb77ba846de6",
+      "title_orig": "Democratic congressional candidate Kat Abughazaleh indicted over ICE protests outside Chicago",
+      "summary_orig": "According to court documents, a Democratic congressional candidate in Illinois has been indicted along with five others accused of blocking vehicles during protests.",
+      "lang": "en",
+      "title_en": "Democratic congressional candidate Kat Abughazaleh indicted over ICE protests outside Chicago",
+      "summary_en": "According to court documents, a Democratic congressional candidate in Illinois has been indicted along with five others accused of blocking vehicles during protests.",
+      "title": "Democratic congressional candidate Kat Abughazaleh indicted over ICE protests outside Chicago",
+      "summary": "According to court documents, a Democratic congressional candidate in Illinois has been indicted along with five others accused of blocking vehicles during protests.",
+      "url": "https://www.seattletimes.com/nation-world/nation/democratic-congressional-candidate-indicted-over-ice-protests-in-the-chicago-area/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-10-29T18:23:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ff6af12c3941e93e",
+      "title_orig": "Morocco charges more than 2,400 people over Gen Z protests",
+      "summary_orig": "Morocco has charged more than 2,400 people over youth-led protests that turned violent earlier this month, a sweeping response to some of the country’s largest anti-government demonstrations in years.",
+      "lang": "en",
+      "title_en": "Morocco charges more than 2,400 people over Gen Z protests",
+      "summary_en": "Morocco has charged more than 2,400 people over youth-led protests that turned violent earlier this month, a sweeping response to some of the country’s largest anti-government demonstrations in years.",
+      "title": "Morocco charges more than 2,400 people over Gen Z protests",
+      "summary": "Morocco has charged more than 2,400 people over youth-led protests that turned violent earlier this month, a sweeping response to some of the country’s largest anti-government demonstrations in years.",
+      "url": "https://www.seattletimes.com/nation-world/morocco-charges-more-than-2400-people-over-gen-z-protests/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-10-29T18:16:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -605,6 +749,24 @@
       "geo": {}
     },
     {
+      "id": "ff4eeb9b25318add",
+      "title_orig": "Hibs vs Rangers LIVE as Danilo strike has the visitors in front",
+      "summary_orig": "It's a huge night in the capital as east meets west on a full midweek card of Premiership action",
+      "lang": "en",
+      "title_en": "Hibs vs Rangers LIVE as Danilo strike has the visitors in front",
+      "summary_en": "It's a huge night in the capital as east meets west on a full midweek card of Premiership action",
+      "title": "Hibs vs Rangers LIVE as Danilo strike has the visitors in front",
+      "summary": "It's a huge night in the capital as east meets west on a full midweek card of Premiership action",
+      "url": "https://www.dailyrecord.co.uk/sport/football/football-news/hibs-vs-rangers-live-score-36153503",
+      "source": "Daily Record - Home",
+      "published_at": "2025-10-29T17:45:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "5148ec44ab931987",
       "title_orig": "Greek police increase security after protests against Israeli cruise ship",
       "summary_orig": "Measures are being taken at the harbours of Patras and Katakolo after demonstrations earlier this week Greek authorities have stepped up security in two harbours in an attempt to keep protesters away from a cruise liner carrying Israeli tourists on an 11-day tour around the Mediterranean. The measures taken at Patras and Katakolo in the Peloponnese followed demonstrations when the MS Crown Iris docked at Kalamata earlier this week. In July passengers on the same ship were prevented from disembarking and it was forced to divert to Cyprus after local people staged a protest in support of Palestine on the Cycladic isle of Syros. Continue reading...",
@@ -641,21 +803,21 @@
       "geo": {}
     },
     {
-      "id": "b1a9067b457d76f4",
-      "title_orig": "Celtic vs Falkirk LIVE as Martin O'Neill stamps his mark and Dermot Desmond takes seat after rowdy protest",
-      "summary_orig": "Life without Brendan Rodgers begins for the faltering champions as O'Neill and Shaun Maloney make a stunning return",
+      "id": "e2c34abbc9bb1681",
+      "title_orig": "UK unveils ‘carbon budget delivery plan’ to get back on track for net zero targets",
+      "summary_orig": "Ed Miliband says pushing for renewable energy and lower emissions will reduce household bills and boost economy The UK government will go “all in” on clean energy and climate policy, the energy secretary has said, as he unveiled plans to put the UK back on track to reach its net zero commitments . In the face of intensifying attacks on climate policy from the poll-leading Reform UK party and the Conservatives, the government insists that pushing for renewable energy and lower carbon emissions will reduce household bills and boost the economy. Continue reading...",
       "lang": "en",
-      "title_en": "Celtic vs Falkirk LIVE as Martin O'Neill stamps his mark and Dermot Desmond takes seat after rowdy protest",
-      "summary_en": "Life without Brendan Rodgers begins for the faltering champions as O'Neill and Shaun Maloney make a stunning return",
-      "title": "Celtic vs Falkirk LIVE as Martin O'Neill stamps his mark and Dermot Desmond takes seat after rowdy protest",
-      "summary": "Life without Brendan Rodgers begins for the faltering champions as O'Neill and Shaun Maloney make a stunning return",
-      "url": "https://www.dailyrecord.co.uk/sport/football/football-news/celtic-vs-falkirk-live-score-36153348",
-      "source": "Daily Record - Home",
-      "published_at": "2025-10-29T17:29:35+00:00",
+      "title_en": "UK unveils ‘carbon budget delivery plan’ to get back on track for net zero targets",
+      "summary_en": "Ed Miliband says pushing for renewable energy and lower emissions will reduce household bills and boost economy The UK government will go “all in” on clean energy and climate policy, the energy secretary has said, as he unveiled plans to put the UK back on track to reach its net zero commitments . In the face of intensifying attacks on climate policy from the poll-leading Reform UK party and the Conservatives, the government insists that pushing for renewable energy and lower carbon emissions will reduce household bills and boost the economy. Continue reading...",
+      "title": "UK unveils ‘carbon budget delivery plan’ to get back on track for net zero targets",
+      "summary": "Ed Miliband says pushing for renewable energy and lower emissions will reduce household bills and boost economy The UK government will go “all in” on clean energy and climate policy, the energy secretary has said, as he unveiled plans to put the UK back on track to reach its net zero commitments . In the face of intensifying attacks on climate policy from the poll-leading Reform UK party and the Conservatives, the government insists that pushing for renewable energy and lower carbon emissions will reduce household bills and boost the economy. Continue reading...",
+      "url": "https://www.theguardian.com/environment/2025/oct/29/uk-unveils-carbon-budget-delivery-plan-to-get-back-on-track-for-net-zero-targets",
+      "source": "UK news | The Guardian",
+      "published_at": "2025-10-29T17:29:20+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -732,12 +894,12 @@
     },
     {
       "id": "a6f63ebeba5ba8fe",
-      "title_orig": "‘It’s now or never’: Murray Watt warns parties to back nature laws reforms or lose chance",
+      "title_orig": "‘It’s now or never’: Murray Watt warns parties to back nature laws or lose chance",
       "summary_orig": "Minister will use a speech on Thursday to rally support as Matt Kean tells Coalition to stop ‘playing politics’ and get behind legislation Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Matt Kean has scolded the federal Coalition for “playing politics rather than acting in the national interest” on new nature laws, adding to the political and industry pressure on Sussan Ley to strike a deal with Labor. The former New South Wales Liberal treasurer and Labor-appointed chair of the Climate Change Authority sent the message to his party colleagues ahead of Labor’s introduction on Thursday of a 1,400-page bill to overhaul the Environment Protection and Biodiversity Conservation (EPBC) Act. Continue reading...",
       "lang": "en",
-      "title_en": "‘It’s now or never’: Murray Watt warns parties to back nature laws reforms or lose chance",
+      "title_en": "‘It’s now or never’: Murray Watt warns parties to back nature laws or lose chance",
       "summary_en": "Minister will use a speech on Thursday to rally support as Matt Kean tells Coalition to stop ‘playing politics’ and get behind legislation Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Matt Kean has scolded the federal Coalition for “playing politics rather than acting in the national interest” on new nature laws, adding to the political and industry pressure on Sussan Ley to strike a deal with Labor. The former New South Wales Liberal treasurer and Labor-appointed chair of the Climate Change Authority sent the message to his party colleagues ahead of Labor’s introduction on Thursday of a 1,400-page bill to overhaul the Environment Protection and Biodiversity Conservation (EPBC) Act. Continue reading...",
-      "title": "‘It’s now or never’: Murray Watt warns parties to back nature laws reforms or lose chance",
+      "title": "‘It’s now or never’: Murray Watt warns parties to back nature laws or lose chance",
       "summary": "Minister will use a speech on Thursday to rally support as Matt Kean tells Coalition to stop ‘playing politics’ and get behind legislation Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Matt Kean has scolded the federal Coalition for “playing politics rather than acting in the national interest” on new nature laws, adding to the political and industry pressure on Sussan Ley to strike a deal with Labor. The former New South Wales Liberal treasurer and Labor-appointed chair of the Climate Change Authority sent the message to his party colleagues ahead of Labor’s introduction on Thursday of a 1,400-page bill to overhaul the Environment Protection and Biodiversity Conservation (EPBC) Act. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2025/oct/29/matt-kean-rebukes-coalition-environment-laws",
       "source": "World news | The Guardian",
@@ -746,6 +908,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "9116e9d1acca3812",
+      "title_orig": "Beta’s electric aircraft lands at Boeing Field, carrying a legacy of ‘firsts’",
+      "summary_orig": "Beta Technologies, a Vermont-based electric aircraft manufacturer, visited Seattle's Boeing Field as part of its tour to meet regional airports and officials.",
+      "lang": "en",
+      "title_en": "Beta’s electric aircraft lands at Boeing Field, carrying a legacy of ‘firsts’",
+      "summary_en": "Beta Technologies, a Vermont-based electric aircraft manufacturer, visited Seattle's Boeing Field as part of its tour to meet regional airports and officials.",
+      "title": "Beta’s electric aircraft lands at Boeing Field, carrying a legacy of ‘firsts’",
+      "summary": "Beta Technologies, a Vermont-based electric aircraft manufacturer, visited Seattle's Boeing Field as part of its tour to meet regional airports and officials.",
+      "url": "https://www.seattletimes.com/business/boeing-aerospace/betas-electric-aircraft-lands-at-boeing-field-carrying-a-legacy-of-firsts/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-10-29T17:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -821,24 +1001,6 @@
       "geo": {}
     },
     {
-      "id": "c8d4984deaf87205",
-      "title_orig": "Police Scotland under fire as women’s rights activist facing charges over trans 'brolly' spat",
-      "summary_orig": "Furious MSPs called on Chief Constable Jo Farrell to explain the decision to order Susan Smith, director of For Women Scotland, to face vandalism allegations made by a counter protester at a rally outside Holyrood last month.",
-      "lang": "en",
-      "title_en": "Police Scotland under fire as women’s rights activist facing charges over trans 'brolly' spat",
-      "summary_en": "Furious MSPs called on Chief Constable Jo Farrell to explain the decision to order Susan Smith, director of For Women Scotland, to face vandalism allegations made by a counter protester at a rally outside Holyrood last month.",
-      "title": "Police Scotland under fire as women’s rights activist facing charges over trans 'brolly' spat",
-      "summary": "Furious MSPs called on Chief Constable Jo Farrell to explain the decision to order Susan Smith, director of For Women Scotland, to face vandalism allegations made by a counter protester at a rally outside Holyrood last month.",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/police-scotland-under-fire-womens-36153358",
-      "source": "Daily Record - Home",
-      "published_at": "2025-10-29T16:40:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "96d7623231dad1a6",
       "title_orig": "Senate Democrats ask DOJ for justification of strikes on alleged drug boats",
       "summary_orig": "WASHINGTON - U.S. Senate Judiciary Committee Democrats on Wednesday asked the Justice Department to hand over all legal opinions its attorneys have produced to assess the legality of the military's 13 deadly strikes against suspected drug vessels that have killed about 57 people.",
@@ -850,24 +1012,6 @@
       "url": "https://www.straitstimes.com/world/Senate-Democrats-ask-DOJ-for-justification-of-strikes-on-alleged-drug-boats",
       "source": "The Straits Times World News",
       "published_at": "2025-10-29T16:30:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "926696405fcd6e13",
-      "title_orig": "Synagogue attack 'hero' killed by single shot from armed police as he held back terrorist",
-      "summary_orig": "Two men died from their injuries during attack on a Manchester synagogue earlier this month, with one suffering multiple knife wounds and another being shot",
-      "lang": "en",
-      "title_en": "Synagogue attack 'hero' killed by single shot from armed police as he held back terrorist",
-      "summary_en": "Two men died from their injuries during attack on a Manchester synagogue earlier this month, with one suffering multiple knife wounds and another being shot",
-      "title": "Synagogue attack 'hero' killed by single shot from armed police as he held back terrorist",
-      "summary": "Two men died from their injuries during attack on a Manchester synagogue earlier this month, with one suffering multiple knife wounds and another being shot",
-      "url": "https://www.walesonline.co.uk/news/uk-news/synagogue-attack-hero-killed-single-32775430",
-      "source": "WalesOnline - Home",
-      "published_at": "2025-10-29T16:20:38+00:00",
       "tags": [
         "airport/security"
       ],
@@ -922,24 +1066,6 @@
       "url": "https://www.straitstimes.com/world/europe/Serbia-protests-demand-accountability-one-year-after-deadly-roof-collapse",
       "source": "The Straits Times World News",
       "published_at": "2025-10-29T16:10:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "95b0f05583e982c5",
-      "title_orig": "Bomb squad descend on street after 'suspicious item' found",
-      "summary_orig": "Several road closures are in place",
-      "lang": "en",
-      "title_en": "Bomb squad descend on street after 'suspicious item' found",
-      "summary_en": "Several road closures are in place",
-      "title": "Bomb squad descend on street after 'suspicious item' found",
-      "summary": "Several road closures are in place",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/bomb-squad-descend-street-after-32775424",
-      "source": "Liverpool Echo - News",
-      "published_at": "2025-10-29T16:09:21+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1154,24 +1280,6 @@
       "geo": {}
     },
     {
-      "id": "2d8d79a04e8a7eb0",
-      "title_orig": "U.S. Middle East Envoy Presses Lebanon to Disarm Hezbollah",
-      "summary_orig": "The visit by the envoy, Morgan Ortagus, coincided with a spike in Israeli attacks on Hezbollah in recent weeks that has stoked fears of a renewed conflict.",
-      "lang": "en",
-      "title_en": "U.S. Middle East Envoy Presses Lebanon to Disarm Hezbollah",
-      "summary_en": "The visit by the envoy, Morgan Ortagus, coincided with a spike in Israeli attacks on Hezbollah in recent weeks that has stoked fears of a renewed conflict.",
-      "title": "U.S. Middle East Envoy Presses Lebanon to Disarm Hezbollah",
-      "summary": "The visit by the envoy, Morgan Ortagus, coincided with a spike in Israeli attacks on Hezbollah in recent weeks that has stoked fears of a renewed conflict.",
-      "url": "https://www.nytimes.com/2025/10/29/world/middleeast/us-middle-east-envoy-presses-lebanon-to-disarm-hezbollah.html",
-      "source": "NYT > World News",
-      "published_at": "2025-10-29T15:21:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "cef8ef3bb6548ee4",
       "title_orig": "Russia strikes children’s hospital in Ukraine as Kyiv hits energy sites",
       "summary_orig": "Ukrainian President Volodymyr Zelenskyy says hospital strike 'deliberate', shows Moscow does not want peace.",
@@ -1307,24 +1415,6 @@
       "geo": {}
     },
     {
-      "id": "e457a162d0044ad3",
-      "title_orig": "The big questions facing the All Blacks after coaching bombshell",
-      "summary_orig": "So much for a smooth build up to the All Blacks’ bid for a first Grand Slam since 2010.",
-      "lang": "en",
-      "title_en": "The big questions facing the All Blacks after coaching bombshell",
-      "summary_en": "So much for a smooth build up to the All Blacks’ bid for a first Grand Slam since 2010.",
-      "title": "The big questions facing the All Blacks after coaching bombshell",
-      "summary": "So much for a smooth build up to the All Blacks’ bid for a first Grand Slam since 2010.",
-      "url": "https://www.stuff.co.nz/sport/360869260/big-questions-hanging-over-all-blacks-ahead-their-bid-grand-slam",
-      "source": "Stuff - /",
-      "published_at": "2025-10-29T15:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e03850a604f6f13e",
       "title_orig": "NZ’s best large airport is being ‘reimagined’. Here are five things to expect",
       "summary_orig": "Queenstown Airport, famous for jaw-dropping landings, for precision and views over the Remarkables, is set for a major transformation.",
@@ -1334,6 +1424,24 @@
       "title": "NZ’s best large airport is being ‘reimagined’. Here are five things to expect",
       "summary": "Queenstown Airport, famous for jaw-dropping landings, for precision and views over the Remarkables, is set for a major transformation.",
       "url": "https://www.stuff.co.nz/travel/360868814/five-things-travellers-can-expect-queenstown-airports-upgrade",
+      "source": "Stuff - /",
+      "published_at": "2025-10-29T15:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e457a162d0044ad3",
+      "title_orig": "The big questions facing the All Blacks after coaching bombshell",
+      "summary_orig": "So much for a smooth build up to the All Blacks’ bid for a first Grand Slam since 2010.",
+      "lang": "en",
+      "title_en": "The big questions facing the All Blacks after coaching bombshell",
+      "summary_en": "So much for a smooth build up to the All Blacks’ bid for a first Grand Slam since 2010.",
+      "title": "The big questions facing the All Blacks after coaching bombshell",
+      "summary": "So much for a smooth build up to the All Blacks’ bid for a first Grand Slam since 2010.",
+      "url": "https://www.stuff.co.nz/sport/360869260/big-questions-hanging-over-all-blacks-ahead-their-bid-grand-slam",
       "source": "Stuff - /",
       "published_at": "2025-10-29T15:00:00+00:00",
       "tags": [
@@ -2479,24 +2587,6 @@
       "geo": {}
     },
     {
-      "id": "b792a466aab69555",
-      "title_orig": "The 9 at 9: Wednesday",
-      "summary_orig": "Readers tell us why they spoiled their vote, at least 50 killed in Israeli strikes on Gaza and Hurricane Melissa nears Cuba.",
-      "lang": "en",
-      "title_en": "The 9 at 9: Wednesday",
-      "summary_en": "Readers tell us why they spoiled their vote, at least 50 killed in Israeli strikes on Gaza and Hurricane Melissa nears Cuba.",
-      "title": "The 9 at 9: Wednesday",
-      "summary": "Readers tell us why they spoiled their vote, at least 50 killed in Israeli strikes on Gaza and Hurricane Melissa nears Cuba.",
-      "url": "https://www.thejournal.ie/8-at-8-wednesday-121-6858800-Oct2025/",
-      "source": "TheJournal.ie",
-      "published_at": "2025-10-29T08:55:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5bb3a4f6cf46cd51",
       "title_orig": "Supreme Court tells PHC to decide Shibli Faraz’s appeal against disqualification as senator",
       "summary_orig": "A constitutional bench of the Supreme Court on Wednesday ordered the Peshawar High Court (PHC) to decide PTI leader Shibli Faraz’s appeal against his disqualification as a senator. Faraz, along with former National Assembly opposition leader Omar Ayub, first approached the PHC. However, it had decided to adjourn sine die (for indefinite period) the pleas, directing the petitioners to first surrender before the competent court. Later, the PTI leaders challenged the high court’s decision before the SC. Headed by Justice Aminuddin Khan, a five-member CB resumed proceedings on Shibli’s appeal, after Ayub had withdrawn his during the last hearing on Monday. The bench also included Justices Jamal Khan Mandokhail, Muhammad Ali Mazhar, Syed Hasan Azhar Rizvi and Shakeel Ahmad. Faraz’s appeal challenges the PHC’s decision to indefinitely adjourn its hearings on his petition against the Election Commission of Pakistan’s (ECP) notification de-seating him as the Senate opposition leader. PTI Chairman Barrister Gohar Ali Khan appeared as the counsel for Faraz, while Additional Attorney General for Pakistan (AAG) Aamir Rehman represented the state. “We were removed by the election commission with great disgrace,” Gohar contended as the hearing began. He requested that a stay order be issued on the ECP notification removing his client as a member of the upper house of Parliament, thereby halting the by-election on the vacant seat. Responding to Justice Rizvi’s question, Gohar replied that a by-election on just one Senate seat was to be held tomorrow. Justice Rizvi also wondered why Faraz was seeking a stay order on the by-election when the PTI had also nominated candidates. Subsequently, the bench dismissed Gohar’s request, stating that it would not interfere in the by-election process. A by-election to fill the general seat of the Senate from Khyber Pakhtunkhwa has been scheduled for tomorrow (Thursday). PTI-backed Khurram Zeeshan and Irfan Saleem are contesting against PPP’s Nisar Khan and independent candidates Taj Mohammad Afridi and Abid Khan Yousafzai. During the hearing, the ECP lawyer contended that convicts needed to surrender before a court prior to seeking any relief. Justice Mazhar asked whether the PHC had decided on the maintainability of Faraz’s petition, to which Gohar replied that the court had not disposed of the case. “We cannot do anything in this case at this point,” Justice Mandokhail remarked. AAG Rehman also stated that the PHC should have decided the case. Here, the ECP lawyer said the PHC had observed that the petitioners were seeking to evade the law. At this, Justice Mandokhail asked, “Do the petitioners come to the PHC? If they do, then why are they not arrested there?” The AAG responded that the petitioners “should have also come to the Supreme Court but they did not”. Justice Mandokhail noted that the case before the bench only pertained to rights, to which AAG Rehman replied, “Rights are directly related to punishment. The petitioner was convicted by an anti-terrorism court.” Justice Rizvi remarked, “The Peshawar High Court wrote 31 pages instead of a short order. It should have simply written a paragraph.” After hearing the arguments of all the parties, the bench struck down the PHC order to adjourn its hearings for an indefinite period and ordered the high court to hear the respondents and decide Faraz’s petition. Subsequently, the bench disposed of the PTI leader’s appeal. PHC denies relief On July 31, Faraz, along with Ayub and other lawmakers, was sentenced to 10 years in jail by a Faisalabad anti-terrorism court (ATC) for his involvement in the riots. Subsequently, he was disqualified as the Senate opposition leader under Article 63(1h) (disqualification from parliament due to conviction) of the Constitution. On Aug 25, a Faisalabad ATC again sentenced Faraz and Ayub, among others, to 10 years in prison in a case involving an attack on PML-N leader Rana Sanaullah’s residence during the May 9 protests. The PTI leaders had challenged their disqualifications before the PHC, which initially allowed them interim relief by restraining the ECP from taking any action against them. However, the PHC earlier this month denied the duo, as well as then-MNA Abdul Latif Chitrali, any relief. It ordered them to first surrender before the relevant court and adjourned the petitions for an indefinite period, allowing the ECP to fill the vacant seats. The court recalled multiple stay orders issued earlier, wherein the ECP , the Senate chairman and the National Assembly speaker were directed not to proceed further on their impugned notifications. Ayub withdrew his appeal before the SC against his denotification as the NA opposition leader, on the grounds that Mehmood Khan Achakzai had been nominated for the role. Polling on the Haripur (NA-18) seat left vacant due to Ayub’s disqualification will be held on November 23, the ECP has said. According to Gohar, Ayub’s wife would contest the by-election for the seat vacated by her husband.",
@@ -3448,33 +3538,6 @@
         "iata": "AMS",
         "lat": 52.3105,
         "lon": 4.7683
-      }
-    },
-    {
-      "id": "9ff69add6cf8203f",
-      "title_orig": "United flight UA331 to Washington is declaring an emergency and returning to Paris",
-      "summary_orig": "Pilots of a Boeing 767 outbound Paris declared an emergency and required an immediate return. United Airlines flight UA331 departed Paris Charles de Gaulle Airport today at 17:36 CEST for a 8-hour flight to Washington IAD. The Boeing 767-300ER (registration N651UA) stopped the climb at 28,000 feet over Normandy then turned around. The 33-year-old aircraft […] The post United flight UA331 to Washington is declaring an emergency and returning to Paris appeared first on AIRLIVE .",
-      "lang": "en",
-      "title_en": "United flight UA331 to Washington is declaring an emergency and returning to Paris",
-      "summary_en": "Pilots of a Boeing 767 outbound Paris declared an emergency and required an immediate return. United Airlines flight UA331 departed Paris Charles de Gaulle Airport today at 17:36 CEST for a 8-hour flight to Washington IAD. The Boeing 767-300ER (registration N651UA) stopped the climb at 28,000 feet over Normandy then turned around. The 33-year-old aircraft […] The post United flight UA331 to Washington is declaring an emergency and returning to Paris appeared first on AIRLIVE .",
-      "title": "United flight UA331 to Washington is declaring an emergency and returning to Paris",
-      "summary": "Pilots of a Boeing 767 outbound Paris declared an emergency and required an immediate return. United Airlines flight UA331 departed Paris Charles de Gaulle Airport today at 17:36 CEST for a 8-hour flight to Washington IAD. The Boeing 767-300ER (registration N651UA) stopped the climb at 28,000 feet over Normandy then turned around. The 33-year-old aircraft […] The post United flight UA331 to Washington is declaring an emergency and returning to Paris appeared first on AIRLIVE .",
-      "url": "https://airlive.net/emergency/2025/10/25/united-flight-ua331-to-washington-is-declaring-an-emergency-and-returning-to-paris/",
-      "source": "AIRLIVE",
-      "published_at": "2025-10-25T16:45:33+00:00",
-      "tags": [
-        "CDG",
-        "France",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Charles de Gaulle",
-        "city": "Paris",
-        "country": "France",
-        "iata": "CDG",
-        "lat": 49.0097,
-        "lon": 2.5479
       }
     },
     {
