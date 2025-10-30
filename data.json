@@ -1,6 +1,60 @@
 {
-  "generated_at": "2025-10-30T22:45:02.519774+00:00",
+  "generated_at": "2025-10-30T23:19:51.010735+00:00",
   "items": [
+    {
+      "id": "f87ab327c052fa8f",
+      "title_orig": "Qantas just flew to NZ for the first time in over a decade from this airport",
+      "summary_orig": "The airline’s seasonal route took off on Friday to start the four-times-weekly flights, operating until early May 2026.",
+      "lang": "en",
+      "title_en": "Qantas just flew to NZ for the first time in over a decade from this airport",
+      "summary_en": "The airline’s seasonal route took off on Friday to start the four-times-weekly flights, operating until early May 2026.",
+      "title": "Qantas just flew to NZ for the first time in over a decade from this airport",
+      "summary": "The airline’s seasonal route took off on Friday to start the four-times-weekly flights, operating until early May 2026.",
+      "url": "https://www.stuff.co.nz/travel/360871752/qantas-just-flew-nz-first-time-over-decade-airport",
+      "source": "Stuff - /",
+      "published_at": "2025-10-30T23:05:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f12599409a8450ab",
+      "title_orig": "Israel confirms identities of latest Gaza hostage bodies returned by Hamas",
+      "summary_orig": "Israel said Thursday that it had identified the remains of hostages Amiram Kuper and Sahar Baruch, whose bodies were returned by Hamas earlier in the day.\nA statement from Prime Minister Benjamin Netanyahu’s office said the families of the deceased men had been informed after “completion of the identification process by the National Institute of Forensic Medicine”.\nMilitants took 251 people hostage during Hamas’s attack on Israel on October 7, 2023, which triggered the war in Gaza.\nSahar Baruch...",
+      "lang": "en",
+      "title_en": "Israel confirms identities of latest Gaza hostage bodies returned by Hamas",
+      "summary_en": "Israel said Thursday that it had identified the remains of hostages Amiram Kuper and Sahar Baruch, whose bodies were returned by Hamas earlier in the day.\nA statement from Prime Minister Benjamin Netanyahu’s office said the families of the deceased men had been informed after “completion of the identification process by the National Institute of Forensic Medicine”.\nMilitants took 251 people hostage during Hamas’s attack on Israel on October 7, 2023, which triggered the war in Gaza.\nSahar Baruch...",
+      "title": "Israel confirms identities of latest Gaza hostage bodies returned by Hamas",
+      "summary": "Israel said Thursday that it had identified the remains of hostages Amiram Kuper and Sahar Baruch, whose bodies were returned by Hamas earlier in the day.\nA statement from Prime Minister Benjamin Netanyahu’s office said the families of the deceased men had been informed after “completion of the identification process by the National Institute of Forensic Medicine”.\nMilitants took 251 people hostage during Hamas’s attack on Israel on October 7, 2023, which triggered the war in Gaza.\nSahar Baruch...",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3330974/israel-confirms-identities-latest-gaza-hostage-bodies-returned-hamas?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2025-10-30T22:57:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c1c5dd2dd2616c80",
+      "title_orig": "Israel’s Ultra-Orthodox Stage ‘March of the Million’ Against Military Draft",
+      "summary_orig": "Hundreds of thousands took to the streets of Jerusalem on Thursday to protest against efforts to end an exemption from military service for Israel’s Haredi religious students.",
+      "lang": "en",
+      "title_en": "Israel’s Ultra-Orthodox Stage ‘March of the Million’ Against Military Draft",
+      "summary_en": "Hundreds of thousands took to the streets of Jerusalem on Thursday to protest against efforts to end an exemption from military service for Israel’s Haredi religious students.",
+      "title": "Israel’s Ultra-Orthodox Stage ‘March of the Million’ Against Military Draft",
+      "summary": "Hundreds of thousands took to the streets of Jerusalem on Thursday to protest against efforts to end an exemption from military service for Israel’s Haredi religious students.",
+      "url": "https://www.nytimes.com/2025/10/30/world/middleeast/israel-ultra-orthodox-demonstration-military-draft.html",
+      "source": "NYT > World News",
+      "published_at": "2025-10-30T22:54:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "acec329cc385d23b",
       "title_orig": "Passengers injured after JetBlue flight makes emergency landing in Tampa with flight control issue",
@@ -12,7 +66,25 @@
       "summary": "The Airbus 320  was heading to Newark Liberty International Airport from Cancun International Airport Thursday when it was forced to divert to Tampa, Florida",
       "url": "https://www.independent.co.uk/news/world/americas/jetblue-flight-cancun-new-jersey-tampa-b2855731.html",
       "source": "The Independent World",
-      "published_at": "2025-10-30T22:33:39+00:00",
+      "published_at": "2025-10-30T22:43:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fcea6094b8dfcfc1",
+      "title_orig": "Lord Chancellor David Lammy to remove Duke of York from peerage roll",
+      "summary_orig": "The King is sending royal warrants to Mr Lammy to strike the dukedom of York from the peerage roll.",
+      "lang": "en",
+      "title_en": "Lord Chancellor David Lammy to remove Duke of York from peerage roll",
+      "summary_en": "The King is sending royal warrants to Mr Lammy to strike the dukedom of York from the peerage roll.",
+      "title": "Lord Chancellor David Lammy to remove Duke of York from peerage roll",
+      "summary": "The King is sending royal warrants to Mr Lammy to strike the dukedom of York from the peerage roll.",
+      "url": "https://www.standard.co.uk/news/politics/david-lammy-york-the-king-duke-of-york-charles-b1255798.html",
+      "source": "The Standard News",
+      "published_at": "2025-10-30T22:38:51+00:00",
       "tags": [
         "airport/security"
       ],
@@ -35,24 +107,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c1c5dd2dd2616c80",
-      "title_orig": "Israel’s Ultra-Orthodox Stage ‘March of the Million’ Against Military Draft",
-      "summary_orig": "Hundreds of thousands took to the streets of Jerusalem on Thursday to protest against efforts to end an exemption from military service for Israel’s Haredi religious students.",
-      "lang": "en",
-      "title_en": "Israel’s Ultra-Orthodox Stage ‘March of the Million’ Against Military Draft",
-      "summary_en": "Hundreds of thousands took to the streets of Jerusalem on Thursday to protest against efforts to end an exemption from military service for Israel’s Haredi religious students.",
-      "title": "Israel’s Ultra-Orthodox Stage ‘March of the Million’ Against Military Draft",
-      "summary": "Hundreds of thousands took to the streets of Jerusalem on Thursday to protest against efforts to end an exemption from military service for Israel’s Haredi religious students.",
-      "url": "https://www.nytimes.com/2025/10/30/world/middleeast/israel-ultra-orthodox-demonstration-military-draft.html",
-      "source": "NYT > World News",
-      "published_at": "2025-10-30T22:02:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -355,24 +409,6 @@
       "url": "https://www.independent.co.uk/news/world/americas/alaska-earthquake-anchorage-magnitude-b2855622.html",
       "source": "The Independent World",
       "published_at": "2025-10-30T19:51:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e1f83712cfc18432",
-      "title_orig": "'We're here to fight': Thousands of ultra-orthodox Israelis protest against military draft",
-      "summary_orig": "Hundreds of thousands of ultra-orthodox Jews have shut down one of the busiest junctions at the entrance to Jerusalem in protest against moves to force them to serve in the Israeli military.",
-      "lang": "en",
-      "title_en": "'We're here to fight': Thousands of ultra-orthodox Israelis protest against military draft",
-      "summary_en": "Hundreds of thousands of ultra-orthodox Jews have shut down one of the busiest junctions at the entrance to Jerusalem in protest against moves to force them to serve in the Israeli military.",
-      "title": "'We're here to fight': Thousands of ultra-orthodox Israelis protest against military draft",
-      "summary": "Hundreds of thousands of ultra-orthodox Jews have shut down one of the busiest junctions at the entrance to Jerusalem in protest against moves to force them to serve in the Israeli military.",
-      "url": "https://www.abc.net.au/news/2025-10-31/ultra-orthodox-israelis-protest-against-military-draft-jerusalem/105954936",
-      "source": "Just In",
-      "published_at": "2025-10-30T19:41:14+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1595,6 +1631,24 @@
       "geo": {}
     },
     {
+      "id": "883bb56679f0a546",
+      "title_orig": "Hundreds of thousands of ultra-Orthodox Israelis protest against conscription",
+      "summary_orig": "Demonstrators take to the streets over changes to an exemption from military service in one of the biggest protests of its kind for years.",
+      "lang": "en",
+      "title_en": "Hundreds of thousands of ultra-Orthodox Israelis protest against conscription",
+      "summary_en": "Demonstrators take to the streets over changes to an exemption from military service in one of the biggest protests of its kind for years.",
+      "title": "Hundreds of thousands of ultra-Orthodox Israelis protest against conscription",
+      "summary": "Demonstrators take to the streets over changes to an exemption from military service in one of the biggest protests of its kind for years.",
+      "url": "https://www.bbc.com/news/articles/c77zdvjrx0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-10-30T13:53:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "f839961ac4edf9d6",
       "title_orig": "Accused 'pulled tourist to ground and sat on him while sister kicked him', court told",
       "summary_orig": "All four were refused bail after appearing in court on Thursday in connection with the alleged attack on two tourists",
@@ -1614,12 +1668,12 @@
     },
     {
       "id": "15d4365af989128c",
-      "title_orig": "Russia attacks Ukraine energy grid with 700 drones and missiles, killing three, including a girl, 7",
+      "title_orig": "Russia strikes Ukraine energy grid, killing seven, including one child",
       "summary_orig": "Ukraine's prime minister said Moscow's aim was to plunge the country into cold and darkness as winter arrives.",
       "lang": "en",
-      "title_en": "Russia attacks Ukraine energy grid with 700 drones and missiles, killing three, including a girl, 7",
+      "title_en": "Russia strikes Ukraine energy grid, killing seven, including one child",
       "summary_en": "Ukraine's prime minister said Moscow's aim was to plunge the country into cold and darkness as winter arrives.",
-      "title": "Russia attacks Ukraine energy grid with 700 drones and missiles, killing three, including a girl, 7",
+      "title": "Russia strikes Ukraine energy grid, killing seven, including one child",
       "summary": "Ukraine's prime minister said Moscow's aim was to plunge the country into cold and darkness as winter arrives.",
       "url": "https://www.straitstimes.com/world/europe/russia-attacks-ukraine-energy-grid-with-700-drones-and-missiles-killing-three-including-a-girl-7",
       "source": "The Straits Times World News",
@@ -2252,42 +2306,6 @@
       "geo": {}
     },
     {
-      "id": "125ce8004fffd2e6",
-      "title_orig": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
-      "summary_orig": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
-      "lang": "en",
-      "title_en": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
-      "summary_en": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
-      "title": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
-      "summary": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
-      "url": "https://www.arabnews.com/node/2620840/world",
-      "source": "ArabNews",
-      "published_at": "2025-10-30T08:10:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "61fec27b84ec2d97",
-      "title_orig": "US and China strike deal on lowering tariffs and securing supply of rare earths",
-      "summary_orig": "Talks between Donald Trump and Xi Jinping yielded a deal on China’s supply of rare earths, materials that are essential for sophisticated electronic components.",
-      "lang": "en",
-      "title_en": "US and China strike deal on lowering tariffs and securing supply of rare earths",
-      "summary_en": "Talks between Donald Trump and Xi Jinping yielded a deal on China’s supply of rare earths, materials that are essential for sophisticated electronic components.",
-      "title": "US and China strike deal on lowering tariffs and securing supply of rare earths",
-      "summary": "Talks between Donald Trump and Xi Jinping yielded a deal on China’s supply of rare earths, materials that are essential for sophisticated electronic components.",
-      "url": "https://www.thejournal.ie/trump-orders-us-military-testing-nuclear-weapons-china-tariffs-6859883-Oct2025/",
-      "source": "TheJournal.ie",
-      "published_at": "2025-10-30T07:38:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d14167f5d02b9858",
       "title_orig": "Five Ks of jungle raj: PM Modi attacks RJD-Congress ahead of Bihar elections",
       "summary_orig": "In a sharp attack, PM Modi accused the opposition leaders of insulting Bihar’s faith by calling Chhath Puja a “drama.”",
@@ -2389,24 +2407,6 @@
       "url": "https://www.dawn.com/news/1952144/trump-says-strikes-deal-with-chinas-xi-on-tariffs-rare-earth-exports",
       "source": "Dawn - Home",
       "published_at": "2025-10-30T05:28:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "21f1d9254a9d77ad",
-      "title_orig": "WHO condemns reported 'horrific' mass killing in Sudanese hospital",
-      "summary_orig": "\"All attacks on health care must stop immediately and unconditionally,\" said the U.N. health agency's chief, Tedros Adhanom Ghebreyesus.",
-      "lang": "en",
-      "title_en": "WHO condemns reported 'horrific' mass killing in Sudanese hospital",
-      "summary_en": "\"All attacks on health care must stop immediately and unconditionally,\" said the U.N. health agency's chief, Tedros Adhanom Ghebreyesus.",
-      "title": "WHO condemns reported 'horrific' mass killing in Sudanese hospital",
-      "summary": "\"All attacks on health care must stop immediately and unconditionally,\" said the U.N. health agency's chief, Tedros Adhanom Ghebreyesus.",
-      "url": "https://www.japantimes.co.jp/news/2025/10/30/world/who-killing-sudan-hospital/",
-      "source": "Latest articles - The Japan Times",
-      "published_at": "2025-10-30T03:33:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3534,6 +3534,42 @@
       "url": "https://www.thelocal.es/20251022/explained-what-changes-in-spain-in-november-2025",
       "source": "The Local Spain",
       "published_at": "2025-10-22T10:12:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b27a39d09c3d0ada",
+      "title_orig": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
+      "summary_orig": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
+      "lang": "en",
+      "title_en": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
+      "summary_en": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
+      "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
+      "summary": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
+      "url": "https://www.arabnews.com/node/2619787/world",
+      "source": "ArabNews",
+      "published_at": "2025-10-22T09:10:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2023691e576df8b7",
+      "title_orig": "Nearly a year after truce, women in south Lebanon say war never ended",
+      "summary_orig": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
+      "lang": "en",
+      "title_en": "Nearly a year after truce, women in south Lebanon say war never ended",
+      "summary_en": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
+      "title": "Nearly a year after truce, women in south Lebanon say war never ended",
+      "summary": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
+      "url": "https://www.arabnews.com/node/2619795/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-10-21T22:10:29+00:00",
       "tags": [
         "airport/security"
       ],
