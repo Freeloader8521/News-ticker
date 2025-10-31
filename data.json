@@ -1,6 +1,159 @@
 {
-  "generated_at": "2025-10-31T20:21:46.542839+00:00",
+  "generated_at": "2025-10-31T20:46:19.722538+00:00",
   "items": [
+    {
+      "id": "f0fb3d32ac592b1d",
+      "title_orig": "Donald Trump responds to rumours US will airstrike in Venezuela",
+      "summary_orig": "The US president offered a one-word answer.",
+      "lang": "en",
+      "title_en": "Donald Trump responds to rumours US will airstrike in Venezuela",
+      "summary_en": "The US president offered a one-word answer.",
+      "title": "Donald Trump responds to rumours US will airstrike in Venezuela",
+      "summary": "The US president offered a one-word answer.",
+      "url": "https://metro.co.uk/2025/10/31/donald-trump-responds-rumours-us-will-airstrike-venezuela-24583992/",
+      "source": "Metro",
+      "published_at": "2025-10-31T20:39:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c1439e60209e6c30",
+      "title_orig": "FBI says it has made multiple arrests, disrupted attack plot in Michigan",
+      "summary_orig": "WASHINGTON - FBI Director Kash Patel said on Friday that officials had stopped a potential attack in Michigan, arresting multiple people, without providing further details.",
+      "lang": "en",
+      "title_en": "FBI says it has made multiple arrests, disrupted attack plot in Michigan",
+      "summary_en": "WASHINGTON - FBI Director Kash Patel said on Friday that officials had stopped a potential attack in Michigan, arresting multiple people, without providing further details.",
+      "title": "FBI says it has made multiple arrests, disrupted attack plot in Michigan",
+      "summary": "WASHINGTON - FBI Director Kash Patel said on Friday that officials had stopped a potential attack in Michigan, arresting multiple people, without providing further details.",
+      "url": "https://www.straitstimes.com/world/FBI-says-it-has-mademultiple-arrests-disruptedattack-plot-in-Michigan",
+      "source": "The Straits Times World News",
+      "published_at": "2025-10-31T20:36:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2c179d29d43de340",
+      "title_orig": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
+      "summary_orig": "New York City’s JFK Airport is under a ground stop until 7:30 p.m.",
+      "lang": "en",
+      "title_en": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
+      "summary_en": "New York City’s JFK Airport is under a ground stop until 7:30 p.m.",
+      "title": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
+      "summary": "New York City’s JFK Airport is under a ground stop until 7:30 p.m.",
+      "url": "https://www.independent.co.uk/news/world/americas/government-shutdown-airport-delays-nyc-ground-stop-b2856374.html",
+      "source": "The Independent World",
+      "published_at": "2025-10-31T20:29:47+00:00",
+      "tags": [
+        "JFK",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "John F. Kennedy",
+        "city": "New York",
+        "country": "United States",
+        "iata": "JFK",
+        "lat": 40.6413,
+        "lon": -73.7781
+      }
+    },
+    {
+      "id": "32ac653005ef38b4",
+      "title_orig": "Ukraine Gamifies the War: 40 Points to Destroy a Tank, 12 to Kill a Soldier",
+      "summary_orig": "Drone teams compete to ascend a scoreboard that rewards units for successful attacks. Ukrainian officials say the contest helps keep soldiers motivated.",
+      "lang": "en",
+      "title_en": "Ukraine Gamifies the War: 40 Points to Destroy a Tank, 12 to Kill a Soldier",
+      "summary_en": "Drone teams compete to ascend a scoreboard that rewards units for successful attacks. Ukrainian officials say the contest helps keep soldiers motivated.",
+      "title": "Ukraine Gamifies the War: 40 Points to Destroy a Tank, 12 to Kill a Soldier",
+      "summary": "Drone teams compete to ascend a scoreboard that rewards units for successful attacks. Ukrainian officials say the contest helps keep soldiers motivated.",
+      "url": "https://www.nytimes.com/2025/10/31/world/europe/ukraine-war-drone-game.html",
+      "source": "NYT > World News",
+      "published_at": "2025-10-31T20:22:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e306544c08c0a189",
+      "title_orig": "Gaza family forced to live around undetonated bomb lodged in their home",
+      "summary_orig": "The Al-Hatto family is living in fear that the unexploded bomb Israel dropped on their home will go off at any moment.",
+      "lang": "en",
+      "title_en": "Gaza family forced to live around undetonated bomb lodged in their home",
+      "summary_en": "The Al-Hatto family is living in fear that the unexploded bomb Israel dropped on their home will go off at any moment.",
+      "title": "Gaza family forced to live around undetonated bomb lodged in their home",
+      "summary": "The Al-Hatto family is living in fear that the unexploded bomb Israel dropped on their home will go off at any moment.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/31/gaza-family-forced-to-live-around-undetonated-bomb-lodged-in-their-home?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-10-31T20:15:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "03a90f92c7c823c1",
+      "title_orig": "Multiple people have been arrested in Michigan in a Halloween weekend attack plot, FBI director says",
+      "summary_orig": "DEARBORN, Mich. (AP) — Multiple people who had been allegedly plotting a violent attack over the Halloween weekend were arrested…",
+      "lang": "en",
+      "title_en": "Multiple people have been arrested in Michigan in a Halloween weekend attack plot, FBI director says",
+      "summary_en": "DEARBORN, Mich. (AP) — Multiple people who had been allegedly plotting a violent attack over the Halloween weekend were arrested…",
+      "title": "Multiple people have been arrested in Michigan in a Halloween weekend attack plot, FBI director says",
+      "summary": "DEARBORN, Mich. (AP) — Multiple people who had been allegedly plotting a violent attack over the Halloween weekend were arrested…",
+      "url": "https://wtop.com/national/2025/10/fbi-director-patel-says-multiple-people-were-arrested-in-michigan-in-a-halloween-weekend-attack-plot/",
+      "source": "WTOP News",
+      "published_at": "2025-10-31T20:09:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b9871d7376539c6f",
+      "title_orig": "Militia attack on hospital in Darfur came in waves, WHO says",
+      "summary_orig": "CAIRO (AP) — Groups of gunmen who reportedly killed at least 460 people at a hospital in Sudan attacked in…",
+      "lang": "en",
+      "title_en": "Militia attack on hospital in Darfur came in waves, WHO says",
+      "summary_en": "CAIRO (AP) — Groups of gunmen who reportedly killed at least 460 people at a hospital in Sudan attacked in…",
+      "title": "Militia attack on hospital in Darfur came in waves, WHO says",
+      "summary": "CAIRO (AP) — Groups of gunmen who reportedly killed at least 460 people at a hospital in Sudan attacked in…",
+      "url": "https://wtop.com/world/2025/10/militia-attack-on-hospital-in-darfur-came-in-waves-who-says/",
+      "source": "WTOP News",
+      "published_at": "2025-10-31T20:08:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1de943704e858e42",
+      "title_orig": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark",
+      "summary_orig": "Continued staffing shortages in air traffic control facilities around the country were again causing delays at airports on Friday as…",
+      "lang": "en",
+      "title_en": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark",
+      "summary_en": "Continued staffing shortages in air traffic control facilities around the country were again causing delays at airports on Friday as…",
+      "title": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark",
+      "summary": "Continued staffing shortages in air traffic control facilities around the country were again causing delays at airports on Friday as…",
+      "url": "https://wtop.com/national/2025/10/air-traffic-controller-shortages-lead-to-broader-us-flight-delays-as-shutdown-nears-one-month-mark/",
+      "source": "WTOP News",
+      "published_at": "2025-10-31T20:07:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "7b7271ed582f6d72",
       "title_orig": "Rio authorities identify bodies as protests denounce deadly police raids",
@@ -38,44 +191,17 @@
       "geo": {}
     },
     {
-      "id": "2c179d29d43de340",
-      "title_orig": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
-      "summary_orig": "New York City’s JFK Airport is under a ground stop until 7:30 p.m.",
+      "id": "7d4d5ee2d15a58eb",
+      "title_orig": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark",
+      "summary_orig": "Continued staffing shortages in air traffic control facilities are causing delays at airports as the government shutdown nears the one-month mark.",
       "lang": "en",
-      "title_en": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
-      "summary_en": "New York City’s JFK Airport is under a ground stop until 7:30 p.m.",
-      "title": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
-      "summary": "New York City’s JFK Airport is under a ground stop until 7:30 p.m.",
-      "url": "https://www.independent.co.uk/news/world/americas/government-shutdown-airport-delays-nyc-ground-stop-b2856374.html",
-      "source": "The Independent World",
-      "published_at": "2025-10-31T20:03:14+00:00",
-      "tags": [
-        "JFK",
-        "United States",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "John F. Kennedy",
-        "city": "New York",
-        "country": "United States",
-        "iata": "JFK",
-        "lat": 40.6413,
-        "lon": -73.7781
-      }
-    },
-    {
-      "id": "a29c302cace44705",
-      "title_orig": "DC photographer on protest art: ‘It comes from rage, but also determination’",
-      "summary_orig": "In any democracy, and especially in Washington, D.C., the act of protest is a way to get one's point across — and while a protest may be loud and rambunctious, moments often contain beauty.",
-      "lang": "en",
-      "title_en": "DC photographer on protest art: ‘It comes from rage, but also determination’",
-      "summary_en": "In any democracy, and especially in Washington, D.C., the act of protest is a way to get one's point across — and while a protest may be loud and rambunctious, moments often contain beauty.",
-      "title": "DC photographer on protest art: ‘It comes from rage, but also determination’",
-      "summary": "In any democracy, and especially in Washington, D.C., the act of protest is a way to get one's point across — and while a protest may be loud and rambunctious, moments often contain beauty.",
-      "url": "https://wtop.com/local/2025/10/dc-photographer-on-protest-art-it-comes-from-rage-but-also-determination/",
-      "source": "WTOP News",
-      "published_at": "2025-10-31T19:59:12+00:00",
+      "title_en": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark",
+      "summary_en": "Continued staffing shortages in air traffic control facilities are causing delays at airports as the government shutdown nears the one-month mark.",
+      "title": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark",
+      "summary": "Continued staffing shortages in air traffic control facilities are causing delays at airports as the government shutdown nears the one-month mark.",
+      "url": "https://www.seattletimes.com/business/air-traffic-controller-shortages-lead-to-broader-us-flight-delays-as-shutdown-nears-one-month-mark/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-10-31T20:04:35+00:00",
       "tags": [
         "airport/security"
       ],
@@ -98,6 +224,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "726f2aeeef4498c3",
+      "title_orig": "Israel returns 30 bodies of slain Palestinians as new strikes hit Gaza",
+      "summary_orig": "Bodies of prisoners returned by Israel show signs of torture, as 3 Palestinians killed in Israeli strikes despite truce.",
+      "lang": "en",
+      "title_en": "Israel returns 30 bodies of slain Palestinians as new strikes hit Gaza",
+      "summary_en": "Bodies of prisoners returned by Israel show signs of torture, as 3 Palestinians killed in Israeli strikes despite truce.",
+      "title": "Israel returns 30 bodies of slain Palestinians as new strikes hit Gaza",
+      "summary": "Bodies of prisoners returned by Israel show signs of torture, as 3 Palestinians killed in Israeli strikes despite truce.",
+      "url": "https://www.aljazeera.com/news/2025/10/31/israel-returns-30-bodies-of-slain-palestinians-as-new-strikes-hit-gaza?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-10-31T19:45:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -371,24 +515,6 @@
       "geo": {}
     },
     {
-      "id": "c1439e60209e6c30",
-      "title_orig": "FBI says it has made multiple arrests, disrupted attack plot in Michigan",
-      "summary_orig": "WASHINGTON - FBI Director Kash Patel said on Friday that officials had stopped a potential attack in Michigan, arresting multiple people, without providing further details.",
-      "lang": "en",
-      "title_en": "FBI says it has made multiple arrests, disrupted attack plot in Michigan",
-      "summary_en": "WASHINGTON - FBI Director Kash Patel said on Friday that officials had stopped a potential attack in Michigan, arresting multiple people, without providing further details.",
-      "title": "FBI says it has made multiple arrests, disrupted attack plot in Michigan",
-      "summary": "WASHINGTON - FBI Director Kash Patel said on Friday that officials had stopped a potential attack in Michigan, arresting multiple people, without providing further details.",
-      "url": "https://www.straitstimes.com/world/FBI-says-it-has-mademultiple-arrests-disruptedattack-plot-in-Michigan",
-      "source": "The Straits Times World News",
-      "published_at": "2025-10-31T18:06:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ffcf2618eefc8263",
       "title_orig": "10 free agent attacking options still available to Leeds United and their Premier League rivals",
       "summary_orig": "10 free agent attackers who could add depth to sides struggling for numbers in the Premier League.",
@@ -508,6 +634,24 @@
       "url": "https://www.scmp.com/news/world/americas/article/3331134/trump-says-not-considering-strikes-within-venezuela-contradicting-earlier-remarks?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2025-10-31T17:27:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "beae23e326adaa66",
+      "title_orig": "Militia attack on hospital in Darfur came in waves, WHO says",
+      "summary_orig": "The World Health Organization reports that gunmen who reportedly killed at least 460 people at a hospital in Sudan's Darfur region returned three times to the facility during their assault.",
+      "lang": "en",
+      "title_en": "Militia attack on hospital in Darfur came in waves, WHO says",
+      "summary_en": "The World Health Organization reports that gunmen who reportedly killed at least 460 people at a hospital in Sudan's Darfur region returned three times to the facility during their assault.",
+      "title": "Militia attack on hospital in Darfur came in waves, WHO says",
+      "summary": "The World Health Organization reports that gunmen who reportedly killed at least 460 people at a hospital in Sudan's Darfur region returned three times to the facility during their assault.",
+      "url": "https://www.seattletimes.com/nation-world/militia-attack-on-hospital-in-darfur-came-in-waves-who-says/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-10-31T17:26:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -876,24 +1020,6 @@
       "summary": "College protests test the limits of free speech. Can schools crack down — or does the First Amendment protect student voices?",
       "url": "https://www.syracuse.com/news/2025/10/test-your-constitutional-knowledge-what-campus-speech-is-protected-and-what-isnt.html",
       "source": "syracuse.com",
-      "published_at": "2025-10-31T16:34:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d99e081eed76d55e",
-      "title_orig": "Test your Constitutional knowledge: What campus speech is protected and what isn’t?",
-      "summary_orig": "College protests test the limits of free speech. Can schools crack down — or does the First Amendment protect student voices?",
-      "lang": "en",
-      "title_en": "Test your Constitutional knowledge: What campus speech is protected and what isn’t?",
-      "summary_en": "College protests test the limits of free speech. Can schools crack down — or does the First Amendment protect student voices?",
-      "title": "Test your Constitutional knowledge: What campus speech is protected and what isn’t?",
-      "summary": "College protests test the limits of free speech. Can schools crack down — or does the First Amendment protect student voices?",
-      "url": "https://www.mlive.com/news/2025/10/test-your-constitutional-knowledge-what-campus-speech-is-protected-and-what-isnt.html",
-      "source": "mlive.com",
       "published_at": "2025-10-31T16:34:03+00:00",
       "tags": [
         "airport/security"
@@ -1694,24 +1820,6 @@
       "geo": {}
     },
     {
-      "id": "7cac754ace20bac6",
-      "title_orig": "At least 700 dead in Tanzania's post-election protests, opposition says",
-      "summary_orig": "Hundreds of people have reportedly been killed in Tanzania after taking to the streets to protest this week’s presidential election, which saw the increasingly authoritarian incumbent, President Samia Suluhu Hassan, run unopposed for another term after her main challengers were jailed or barred from standing.",
-      "lang": "en",
-      "title_en": "At least 700 dead in Tanzania's post-election protests, opposition says",
-      "summary_en": "Hundreds of people have reportedly been killed in Tanzania after taking to the streets to protest this week’s presidential election, which saw the increasingly authoritarian incumbent, President Samia Suluhu Hassan, run unopposed for another term after her main challengers were jailed or barred from standing.",
-      "title": "At least 700 dead in Tanzania's post-election protests, opposition says",
-      "summary": "Hundreds of people have reportedly been killed in Tanzania after taking to the streets to protest this week’s presidential election, which saw the increasingly authoritarian incumbent, President Samia Suluhu Hassan, run unopposed for another term after her main challengers were jailed or barred from standing.",
-      "url": "https://www.france24.com/en/africa/20251031-at-least-700-dead-in-tanzania-s-post-election-protests-opposition-says",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-10-31T12:53:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "799fa124821f16a0",
       "title_orig": "Drones banned above Bideford crime scene due to 'significant risk'",
       "summary_orig": "Anyone who flies a drone in the area may be prosecuted",
@@ -1893,24 +2001,6 @@
       "geo": {}
     },
     {
-      "id": "38b9b92f1e082b8c",
-      "title_orig": "Two years in, Swedish union has no plans to stop Tesla strike",
-      "summary_orig": "After two years of striking in Sweden against electric car company Tesla over its refusal to sign a collective wage agreement, the union which launched the action has no plans to end it.",
-      "lang": "en",
-      "title_en": "Two years in, Swedish union has no plans to stop Tesla strike",
-      "summary_en": "After two years of striking in Sweden against electric car company Tesla over its refusal to sign a collective wage agreement, the union which launched the action has no plans to end it.",
-      "title": "Two years in, Swedish union has no plans to stop Tesla strike",
-      "summary": "After two years of striking in Sweden against electric car company Tesla over its refusal to sign a collective wage agreement, the union which launched the action has no plans to end it.",
-      "url": "https://www.thelocal.se/20251031/two-years-in-swedish-union-has-no-plans-to-stop-tesla-strike",
-      "source": "The Local Sweden",
-      "published_at": "2025-10-31T11:16:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "289f2a44d166df9b",
       "title_orig": "Water cannons fired as ultra-Orthodox Jews protest Israel military draft",
       "summary_orig": "Water cannons were fired at ultra-Orthodox Jews who took to the streets of Jerusalem on Thursday (30 October) to protest plans to draft them into the military.",
@@ -1983,24 +2073,6 @@
       "geo": {}
     },
     {
-      "id": "32ac653005ef38b4",
-      "title_orig": "Ukraine Gamifies the War: 40 Points to Destroy a Tank, 12 to Kill a Soldier",
-      "summary_orig": "Drone teams compete to ascend a scoreboard that rewards units for successful attacks. Ukrainian officials say the contest helps keep soldiers motivated.",
-      "lang": "en",
-      "title_en": "Ukraine Gamifies the War: 40 Points to Destroy a Tank, 12 to Kill a Soldier",
-      "summary_en": "Drone teams compete to ascend a scoreboard that rewards units for successful attacks. Ukrainian officials say the contest helps keep soldiers motivated.",
-      "title": "Ukraine Gamifies the War: 40 Points to Destroy a Tank, 12 to Kill a Soldier",
-      "summary": "Drone teams compete to ascend a scoreboard that rewards units for successful attacks. Ukrainian officials say the contest helps keep soldiers motivated.",
-      "url": "https://www.nytimes.com/2025/10/31/world/europe/ukraine-war-drone-game.html",
-      "source": "NYT > World News",
-      "published_at": "2025-10-31T09:21:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "8db028a3d365f659",
       "title_orig": "Homegrown Ukrainian drones take the war deep into Russia",
       "summary_orig": "The drones’ long-range missions target oil refineries and fuel depots",
@@ -2012,24 +2084,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-drones-zelensky-putin-b2855898.html",
       "source": "The Independent World",
       "published_at": "2025-10-31T09:10:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "855b44ba3d8b818a",
-      "title_orig": "Gran Canaria joins other airports in Spain in launching EES border checks",
-      "summary_orig": "Gran Canaria airport in Spain's Canary Islands is the latest to implement the new EES passport checks for travellers from outside of the EU.",
-      "lang": "en",
-      "title_en": "Gran Canaria joins other airports in Spain in launching EES border checks",
-      "summary_en": "Gran Canaria airport in Spain's Canary Islands is the latest to implement the new EES passport checks for travellers from outside of the EU.",
-      "title": "Gran Canaria joins other airports in Spain in launching EES border checks",
-      "summary": "Gran Canaria airport in Spain's Canary Islands is the latest to implement the new EES passport checks for travellers from outside of the EU.",
-      "url": "https://www.thelocal.es/20251031/gran-canaria-joins-other-airports-in-spain-in-launching-ees-border-checks",
-      "source": "The Local Spain",
-      "published_at": "2025-10-31T09:04:43+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2127,24 +2181,6 @@
       "geo": {}
     },
     {
-      "id": "fbfcaa52552c425d",
-      "title_orig": "Russian hacker group claims responsibility for Askul cyberattack",
-      "summary_orig": "The group claimed that it stole some 1.1 terabytes of data from Askul, and customer information and purchase histories are now downloadable.",
-      "lang": "en",
-      "title_en": "Russian hacker group claims responsibility for Askul cyberattack",
-      "summary_en": "The group claimed that it stole some 1.1 terabytes of data from Askul, and customer information and purchase histories are now downloadable.",
-      "title": "Russian hacker group claims responsibility for Askul cyberattack",
-      "summary": "The group claimed that it stole some 1.1 terabytes of data from Askul, and customer information and purchase histories are now downloadable.",
-      "url": "https://www.japantimes.co.jp/business/2025/10/31/companies/russia-hacker-askul/",
-      "source": "Latest articles - The Japan Times",
-      "published_at": "2025-10-31T08:23:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "05e274099f34d11f",
       "title_orig": "Hong Kong expands cross-border access to Guangdong motorists under new scheme",
       "summary_orig": "Motorists from four Guangdong cities will be able to apply to enter Hong Kong under a new travel scheme from Saturday, while applications to drive into urban areas will open on December 9, the government has announced.\nThe government said on Friday that applications for the “Park and Fly” car park at the airport would open at 9am on November 1, with operations commencing at midnight on November 15.\nBoth sides also agreed that eligible mainland Chinese applicants could submit applications from...",
@@ -2235,24 +2271,6 @@
       "geo": {}
     },
     {
-      "id": "cdf428d6ab60c212",
-      "title_orig": "Democrats excluded from briefing on U.S. military strikes off South America: senator",
-      "summary_orig": "Members of Congress, especially Democrats, have been demanding more information about the deadly strikes on boats off the South American coast, which have killed nearly 60 people.",
-      "lang": "en",
-      "title_en": "Democrats excluded from briefing on U.S. military strikes off South America: senator",
-      "summary_en": "Members of Congress, especially Democrats, have been demanding more information about the deadly strikes on boats off the South American coast, which have killed nearly 60 people.",
-      "title": "Democrats excluded from briefing on U.S. military strikes off South America: senator",
-      "summary": "Members of Congress, especially Democrats, have been demanding more information about the deadly strikes on boats off the South American coast, which have killed nearly 60 people.",
-      "url": "https://www.japantimes.co.jp/news/2025/10/31/world/politics/democrats-us-briefing/",
-      "source": "Latest articles - The Japan Times",
-      "published_at": "2025-10-31T07:12:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1e71a25c691811e2",
       "title_orig": "From airspace violations to drone incursions: How Putin is provoking Ukraine’s European allies over land, air and sea",
       "summary_orig": "Multiples countries in the alliance have reported incursions by drones into their airspace in recent months, James C. Reynolds reports",
@@ -2282,24 +2300,6 @@
       "url": "https://www.hindustantimes.com/india-news/do-you-know-who-i-am-karnataka-bjp-leader-s-son-caught-beating-toll-worker-in-viral-video-101761883611111.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2025-10-31T05:07:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "108e4c9fb408b4c3",
-      "title_orig": "Caught between Venezuela and U.S., Trinidad fishermen fear the sea",
-      "summary_orig": "Between Venezuelan military preparations in response to U.S. \"provocation\" and Trinidad-backed American strikes on alleged drug boats, fishermen are keeping a low profile.",
-      "lang": "en",
-      "title_en": "Caught between Venezuela and U.S., Trinidad fishermen fear the sea",
-      "summary_en": "Between Venezuelan military preparations in response to U.S. \"provocation\" and Trinidad-backed American strikes on alleged drug boats, fishermen are keeping a low profile.",
-      "title": "Caught between Venezuela and U.S., Trinidad fishermen fear the sea",
-      "summary": "Between Venezuelan military preparations in response to U.S. \"provocation\" and Trinidad-backed American strikes on alleged drug boats, fishermen are keeping a low profile.",
-      "url": "https://www.japantimes.co.jp/news/2025/10/31/world/us-venezuela-trinidad-fishermen/",
-      "source": "Latest articles - The Japan Times",
-      "published_at": "2025-10-31T02:40:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2372,24 +2372,6 @@
       "url": "https://www.stuff.co.nz/travel/360871752/qantas-just-flew-nz-first-time-over-decade-airport",
       "source": "Stuff - /",
       "published_at": "2025-10-30T23:05:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "acec329cc385d23b",
-      "title_orig": "Passengers injured after JetBlue flight makes emergency landing in Tampa with flight control issue",
-      "summary_orig": "The Airbus 320  was heading to Newark Liberty International Airport from Cancun International Airport Thursday when it was forced to divert to Tampa, Florida",
-      "lang": "en",
-      "title_en": "Passengers injured after JetBlue flight makes emergency landing in Tampa with flight control issue",
-      "summary_en": "The Airbus 320  was heading to Newark Liberty International Airport from Cancun International Airport Thursday when it was forced to divert to Tampa, Florida",
-      "title": "Passengers injured after JetBlue flight makes emergency landing in Tampa with flight control issue",
-      "summary": "The Airbus 320  was heading to Newark Liberty International Airport from Cancun International Airport Thursday when it was forced to divert to Tampa, Florida",
-      "url": "https://www.independent.co.uk/news/world/americas/jetblue-flight-cancun-new-jersey-tampa-b2855731.html",
-      "source": "The Independent World",
-      "published_at": "2025-10-30T23:05:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2874,44 +2856,6 @@
       "geo": {}
     },
     {
-      "id": "917d82d47917affd",
-      "title_orig": "Denmark charges two Swedes over Israeli embassy grenade attack",
-      "summary_orig": "Denmark's Prosecution Service said on Wednesday it had charged two Swedish citizens with terrorism for targeting the Israeli embassy with two hand grenades in Copenhagen last year.",
-      "lang": "en",
-      "title_en": "Denmark charges two Swedes over Israeli embassy grenade attack",
-      "summary_en": "Denmark's Prosecution Service said on Wednesday it had charged two Swedish citizens with terrorism for targeting the Israeli embassy with two hand grenades in Copenhagen last year.",
-      "title": "Denmark charges two Swedes over Israeli embassy grenade attack",
-      "summary": "Denmark's Prosecution Service said on Wednesday it had charged two Swedish citizens with terrorism for targeting the Israeli embassy with two hand grenades in Copenhagen last year.",
-      "url": "https://www.thelocal.se/20251029/denmark-charges-two-swedes-over-israeli-embassy-grenade-attack",
-      "source": "The Local Sweden",
-      "published_at": "2025-10-29T14:55:52+00:00",
-      "tags": [
-        "airport/security",
-        "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a297de231c86ec97",
-      "title_orig": "Denmark charges two Swedes over Israeli embassy grenade attack",
-      "summary_orig": "Denmark's Prosecution Service said on Wednesday it had charged two Swedish citizens with terrorism for targeting the Israeli embassy with two hand grenades in Copenhagen last year.",
-      "lang": "en",
-      "title_en": "Denmark charges two Swedes over Israeli embassy grenade attack",
-      "summary_en": "Denmark's Prosecution Service said on Wednesday it had charged two Swedish citizens with terrorism for targeting the Israeli embassy with two hand grenades in Copenhagen last year.",
-      "title": "Denmark charges two Swedes over Israeli embassy grenade attack",
-      "summary": "Denmark's Prosecution Service said on Wednesday it had charged two Swedish citizens with terrorism for targeting the Israeli embassy with two hand grenades in Copenhagen last year.",
-      "url": "https://www.thelocal.dk/20251029/denmark-charges-two-swedes-over-israeli-embassy-grenade-attack",
-      "source": "The Local Denmark",
-      "published_at": "2025-10-29T14:55:52+00:00",
-      "tags": [
-        "airport/security",
-        "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4df69e40319daa6f",
       "title_orig": "Safran still eyeing sale of some ex-Zodiac work pending recovery",
       "summary_orig": "Aircraft seats are core to Safran’s business, but the French aerospace giant continues to eye eventual divestment of certain non-core cabin interiors activities, management confirmed during a conference call to report earnings for the third quarter and the first nine months of 2025. Approximately 30% of the former activities of Zodiac Aerospace — which was... The post Safran still eyeing sale of some ex-Zodiac work pending recovery appeared first on Runway Girl .",
@@ -2923,24 +2867,6 @@
       "url": "https://runwaygirlnetwork.com/2025/10/safran-still-eyeing-divestiture-of-some-ex-zodiac-work-pending-recovery/",
       "source": "Runway Girl",
       "published_at": "2025-10-29T12:06:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0690a1e8ac92e78f",
-      "title_orig": "How Spaniards' views on tourism keep getting more negative",
-      "summary_orig": "Even though 2025 has not been marked by as many protests against overtourism in Spain as the previous year, new data indicates that dissatisfaction among locals with the current tourism model keeps increasing.",
-      "lang": "en",
-      "title_en": "How Spaniards' views on tourism keep getting more negative",
-      "summary_en": "Even though 2025 has not been marked by as many protests against overtourism in Spain as the previous year, new data indicates that dissatisfaction among locals with the current tourism model keeps increasing.",
-      "title": "How Spaniards' views on tourism keep getting more negative",
-      "summary": "Even though 2025 has not been marked by as many protests against overtourism in Spain as the previous year, new data indicates that dissatisfaction among locals with the current tourism model keeps increasing.",
-      "url": "https://www.thelocal.es/20251029/how-spaniards-views-on-tourism-keep-getting-more-negative",
-      "source": "The Local Spain",
-      "published_at": "2025-10-29T11:00:54+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3067,24 +2993,6 @@
       "url": "https://runwaygirlnetwork.com/2025/10/press-release-sdg-a-gogo-company-receives-federal-contract-to-supply-airborne-communications-for-us-agency/",
       "source": "Runway Girl",
       "published_at": "2025-10-27T13:00:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "468a66a43e88f70e",
-      "title_orig": "Copenhagen Airport metro station to close for two days",
-      "summary_orig": "The Metro station which serves Copenhagen Airport will be closed on October 29th and 30th with buses connecting passengers to the airport.",
-      "lang": "en",
-      "title_en": "Copenhagen Airport metro station to close for two days",
-      "summary_en": "The Metro station which serves Copenhagen Airport will be closed on October 29th and 30th with buses connecting passengers to the airport.",
-      "title": "Copenhagen Airport metro station to close for two days",
-      "summary": "The Metro station which serves Copenhagen Airport will be closed on October 29th and 30th with buses connecting passengers to the airport.",
-      "url": "https://www.thelocal.dk/20251027/copenhagen-airport-metro-station-to-close-for-two-days",
-      "source": "The Local Denmark",
-      "published_at": "2025-10-27T12:51:25+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3317,24 +3225,6 @@
       "geo": {}
     },
     {
-      "id": "a9ec46354b1b58ea",
-      "title_orig": "Everything that changes about life in Italy in November 2025",
-      "summary_orig": "From transport strikes to new flight routes and a series of holidays, here's what to expect in Italy next month.",
-      "lang": "en",
-      "title_en": "Everything that changes about life in Italy in November 2025",
-      "summary_en": "From transport strikes to new flight routes and a series of holidays, here's what to expect in Italy next month.",
-      "title": "Everything that changes about life in Italy in November 2025",
-      "summary": "From transport strikes to new flight routes and a series of holidays, here's what to expect in Italy next month.",
-      "url": "https://www.thelocal.it/20251023/everything-that-changes-about-life-in-italy-in-november-2025",
-      "source": "The Local Italy",
-      "published_at": "2025-10-23T06:49:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "958e971a3dd6b013",
       "title_orig": "U.S. widens war against suspected drug traffickers with strike off the Pacific coast of Colombia",
       "summary_orig": "The U.S. military carried out its eighth strike against a boat allegedly carrying drugs, killing two people, officials said Wednesday.",
@@ -3346,42 +3236,6 @@
       "url": "https://www.latimes.com/world-nation/story/2025-10-22/the-u-s-strikes-another-alleged-drug-boat-this-time-in-the-pacific",
       "source": "World & Nation",
       "published_at": "2025-10-22T18:49:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "82f1081e61efedc8",
-      "title_orig": "The transport strikes to expect in Italy in November 2025",
-      "summary_orig": "After major strikes hit Italian transport in October, more strike dates have been announced for November which could impact flights, trains and public transport.",
-      "lang": "en",
-      "title_en": "The transport strikes to expect in Italy in November 2025",
-      "summary_en": "After major strikes hit Italian transport in October, more strike dates have been announced for November which could impact flights, trains and public transport.",
-      "title": "The transport strikes to expect in Italy in November 2025",
-      "summary": "After major strikes hit Italian transport in October, more strike dates have been announced for November which could impact flights, trains and public transport.",
-      "url": "https://www.thelocal.it/20251022/the-transport-strikes-to-expect-in-italy-in-november-2025",
-      "source": "The Local Italy",
-      "published_at": "2025-10-22T13:01:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "194b566579a13c3d",
-      "title_orig": "EXPLAINED: What changes in Spain in November 2025",
-      "summary_orig": "More airports to start using Entry/Exit System, new flights, strikes, 50th anniversary of Franco's death, cheap cinema tickets, memorable festivals and more - here's what to expect from life in Spain in November 2025.",
-      "lang": "en",
-      "title_en": "EXPLAINED: What changes in Spain in November 2025",
-      "summary_en": "More airports to start using Entry/Exit System, new flights, strikes, 50th anniversary of Franco's death, cheap cinema tickets, memorable festivals and more - here's what to expect from life in Spain in November 2025.",
-      "title": "EXPLAINED: What changes in Spain in November 2025",
-      "summary": "More airports to start using Entry/Exit System, new flights, strikes, 50th anniversary of Franco's death, cheap cinema tickets, memorable festivals and more - here's what to expect from life in Spain in November 2025.",
-      "url": "https://www.thelocal.es/20251022/explained-what-changes-in-spain-in-november-2025",
-      "source": "The Local Spain",
-      "published_at": "2025-10-22T10:12:47+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3796,24 +3650,6 @@
       "url": "https://www.telegraph.co.uk/news/2024/08/16/friday-evening-news-briefing-border-force-to-strike-at-heat/",
       "source": "News",
       "published_at": "2024-08-16T16:21:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "fcf7310d017fdb14",
-      "title_orig": "Should you choose the ferry between Oslo and Copenhagen over flying?",
-      "summary_orig": "Many are put off by the thought of packed airports, swamped motorways and overcrowded trains. So, is the longer journey from Oslo to Copenhagen via ferry a better solution?",
-      "lang": "en",
-      "title_en": "Should you choose the ferry between Oslo and Copenhagen over flying?",
-      "summary_en": "Many are put off by the thought of packed airports, swamped motorways and overcrowded trains. So, is the longer journey from Oslo to Copenhagen via ferry a better solution?",
-      "title": "Should you choose the ferry between Oslo and Copenhagen over flying?",
-      "summary": "Many are put off by the thought of packed airports, swamped motorways and overcrowded trains. So, is the longer journey from Oslo to Copenhagen via ferry a better solution?",
-      "url": "https://www.thelocal.dk/20240321/should-you-choose-the-ferry-between-oslo-and-copenhagen-over-flying",
-      "source": "The Local Denmark",
-      "published_at": "2024-03-21T15:30:31+00:00",
       "tags": [
         "airport/security"
       ],
