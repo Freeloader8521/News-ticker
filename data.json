@@ -1,6 +1,231 @@
 {
-  "generated_at": "2025-10-31T23:40:27.655072+00:00",
+  "generated_at": "2025-11-01T01:08:57.231444+00:00",
   "items": [
+    {
+      "id": "bfd438ee73f19ebd",
+      "title_orig": "Flights resume at Berlin airport after drone scare",
+      "summary_orig": "Flights were suspended for almost two hours at Berlin Brandenburg Airport on Oct 31.",
+      "lang": "en",
+      "title_en": "Flights resume at Berlin airport after drone scare",
+      "summary_en": "Flights were suspended for almost two hours at Berlin Brandenburg Airport on Oct 31.",
+      "title": "Flights resume at Berlin airport after drone scare",
+      "summary": "Flights were suspended for almost two hours at Berlin Brandenburg Airport on Oct 31.",
+      "url": "https://www.straitstimes.com/world/europe/flights-resume-at-berlin-airport-after-drone-scare",
+      "source": "The Straits Times World News",
+      "published_at": "2025-11-01T00:40:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2c179d29d43de340",
+      "title_orig": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
+      "summary_orig": "New York City’s JFK Airport was under a ground stop for several hours on Friday",
+      "lang": "en",
+      "title_en": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
+      "summary_en": "New York City’s JFK Airport was under a ground stop for several hours on Friday",
+      "title": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
+      "summary": "New York City’s JFK Airport was under a ground stop for several hours on Friday",
+      "url": "https://www.independent.co.uk/news/world/americas/government-shutdown-airport-delays-nyc-ground-stop-b2856374.html",
+      "source": "The Independent World",
+      "published_at": "2025-11-01T00:25:07+00:00",
+      "tags": [
+        "JFK",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "John F. Kennedy",
+        "city": "New York",
+        "country": "United States",
+        "iata": "JFK",
+        "lat": 40.6413,
+        "lon": -73.7781
+      }
+    },
+    {
+      "id": "8981018a6c7448de",
+      "title_orig": "Republican Rep. Nancy Mace accused of directing expletive-ridden rant at ‘incompetent’ airport cops: police report",
+      "summary_orig": "The Republican congresswoman was ‘very irate’ and ‘talking loudly using profanity,’ the police report says",
+      "lang": "en",
+      "title_en": "Republican Rep. Nancy Mace accused of directing expletive-ridden rant at ‘incompetent’ airport cops: police report",
+      "summary_en": "The Republican congresswoman was ‘very irate’ and ‘talking loudly using profanity,’ the police report says",
+      "title": "Republican Rep. Nancy Mace accused of directing expletive-ridden rant at ‘incompetent’ airport cops: police report",
+      "summary": "The Republican congresswoman was ‘very irate’ and ‘talking loudly using profanity,’ the police report says",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/nancy-mace-charleston-airport-rant-tsa-b2856471.html",
+      "source": "The Independent World",
+      "published_at": "2025-11-01T00:12:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7216efc7707e0d92",
+      "title_orig": "US strikes on alleged drug boats 'unacceptable', says UN human rights chief",
+      "summary_orig": "US President Donald Trump has justified his attacks on boats in the Caribbean as a necessary anti-drug campaign.",
+      "lang": "en",
+      "title_en": "US strikes on alleged drug boats 'unacceptable', says UN human rights chief",
+      "summary_en": "US President Donald Trump has justified his attacks on boats in the Caribbean as a necessary anti-drug campaign.",
+      "title": "US strikes on alleged drug boats 'unacceptable', says UN human rights chief",
+      "summary": "US President Donald Trump has justified his attacks on boats in the Caribbean as a necessary anti-drug campaign.",
+      "url": "https://www.abc.net.au/news/2025-11-01/us-strikes-on-alleged-drug-boats-must-stop-human-rights-chief/105960644",
+      "source": "Just In",
+      "published_at": "2025-11-01T00:02:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d7ab29e08b057058",
+      "title_orig": "Motherwell v St Mirren: Friends reunited for Dan Nlundulu as Stephen Robinson penalty reaction revealed",
+      "summary_orig": "The former Bolton Wanderers striker is becoming a favourite with the black-and-white army after two goals in two games.",
+      "lang": "en",
+      "title_en": "Motherwell v St Mirren: Friends reunited for Dan Nlundulu as Stephen Robinson penalty reaction revealed",
+      "summary_en": "The former Bolton Wanderers striker is becoming a favourite with the black-and-white army after two goals in two games.",
+      "title": "Motherwell v St Mirren: Friends reunited for Dan Nlundulu as Stephen Robinson penalty reaction revealed",
+      "summary": "The former Bolton Wanderers striker is becoming a favourite with the black-and-white army after two goals in two games.",
+      "url": "https://www.dailyrecord.co.uk/in-your-area/renfrewshire/motherwell-v-st-mirren-friends-36171944",
+      "source": "Daily Record - Home",
+      "published_at": "2025-11-01T00:02:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f09f8f0b6d518399",
+      "title_orig": "Ukraine denounces attacks on power substations vital to nuclear plants",
+      "summary_orig": "Ukraine's Foreign Ministry denounced on Friday what it described as Russian attacks on substations critical to supplying external power for Ukraine's nuclear power stations.",
+      "lang": "en",
+      "title_en": "Ukraine denounces attacks on power substations vital to nuclear plants",
+      "summary_en": "Ukraine's Foreign Ministry denounced on Friday what it described as Russian attacks on substations critical to supplying external power for Ukraine's nuclear power stations.",
+      "title": "Ukraine denounces attacks on power substations vital to nuclear plants",
+      "summary": "Ukraine's Foreign Ministry denounced on Friday what it described as Russian attacks on substations critical to supplying external power for Ukraine's nuclear power stations.",
+      "url": "https://www.straitstimes.com/world/europe/Ukraine-denounces-attacks-on-power-substations-vital-to-nuclear-plants",
+      "source": "The Straits Times World News",
+      "published_at": "2025-11-01T00:01:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c8268f24fa3637a4",
+      "title_orig": "Emmerdale’s Robert fears the worst as Kev confirms plans to strike back at Aaron in new spoiler video",
+      "summary_orig": "Rob knows what Kev is capable of.",
+      "lang": "en",
+      "title_en": "Emmerdale’s Robert fears the worst as Kev confirms plans to strike back at Aaron in new spoiler video",
+      "summary_en": "Rob knows what Kev is capable of.",
+      "title": "Emmerdale’s Robert fears the worst as Kev confirms plans to strike back at Aaron in new spoiler video",
+      "summary": "Rob knows what Kev is capable of.",
+      "url": "https://metro.co.uk/2025/10/31/emmerdales-robert-fears-worst-kev-confirms-plans-strike-back-aaron-24579534/",
+      "source": "Metro",
+      "published_at": "2025-10-31T23:59:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "16a952d770948fc4",
+      "title_orig": "Alberta parents begin depositing ‘Parent Payment Program’ funds",
+      "summary_orig": "Thousands of Alberta parents woke up Friday to an Interac e-transfer notification from the provincial government, containing student support money from the teachers' strike.",
+      "lang": "en",
+      "title_en": "Alberta parents begin depositing ‘Parent Payment Program’ funds",
+      "summary_en": "Thousands of Alberta parents woke up Friday to an Interac e-transfer notification from the provincial government, containing student support money from the teachers' strike.",
+      "title": "Alberta parents begin depositing ‘Parent Payment Program’ funds",
+      "summary": "Thousands of Alberta parents woke up Friday to an Interac e-transfer notification from the provincial government, containing student support money from the teachers' strike.",
+      "url": "https://globalnews.ca/news/11505622/alberta-parent-payment-program-deposits/",
+      "source": "globalnews.ca",
+      "published_at": "2025-10-31T23:58:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9a400a42da4c6574",
+      "title_orig": "FBI makes arrests over possible terror attack plot on Halloween weekend",
+      "summary_orig": "Discussion in an online chatroom had mentioned “pumpkin day”, US investigators had reportedly said.",
+      "lang": "en",
+      "title_en": "FBI makes arrests over possible terror attack plot on Halloween weekend",
+      "summary_en": "Discussion in an online chatroom had mentioned “pumpkin day”, US investigators had reportedly said.",
+      "title": "FBI makes arrests over possible terror attack plot on Halloween weekend",
+      "summary": "Discussion in an online chatroom had mentioned “pumpkin day”, US investigators had reportedly said.",
+      "url": "https://www.stuff.co.nz/world-news/360872753/fbi-makes-arrests-over-possible-terror-attack-plot-halloween-weekend",
+      "source": "Stuff - /",
+      "published_at": "2025-10-31T23:48:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5d8a268002ab27b6",
+      "title_orig": "Tanzania Racked by Deadly Protests After Election",
+      "summary_orig": "The United Nations said at least 10 people had been killed. Opposition leaders claimed the death toll could be in the hundreds, and one official called for the military to step in.",
+      "lang": "en",
+      "title_en": "Tanzania Racked by Deadly Protests After Election",
+      "summary_en": "The United Nations said at least 10 people had been killed. Opposition leaders claimed the death toll could be in the hundreds, and one official called for the military to step in.",
+      "title": "Tanzania Racked by Deadly Protests After Election",
+      "summary": "The United Nations said at least 10 people had been killed. Opposition leaders claimed the death toll could be in the hundreds, and one official called for the military to step in.",
+      "url": "https://www.nytimes.com/2025/10/31/world/africa/tanzania-deadly-protests-election.html",
+      "source": "NYT > World News",
+      "published_at": "2025-10-31T23:34:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "4aebd59a6d03753e",
+      "title_orig": "Militia attack on hospital in Darfur came in waves, WHO says",
+      "summary_orig": "Many details of the hospital attack and other violence in the city have been slow to emerge, and the total death toll remains unknown.",
+      "lang": "en",
+      "title_en": "Militia attack on hospital in Darfur came in waves, WHO says",
+      "summary_en": "Many details of the hospital attack and other violence in the city have been slow to emerge, and the total death toll remains unknown.",
+      "title": "Militia attack on hospital in Darfur came in waves, WHO says",
+      "summary": "Many details of the hospital attack and other violence in the city have been slow to emerge, and the total death toll remains unknown.",
+      "url": "https://www.stuff.co.nz/world-news/360872785/militia-attack-hospital-darfur-came-waves-who-says",
+      "source": "Stuff - /",
+      "published_at": "2025-10-31T23:34:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1de943704e858e42",
+      "title_orig": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark",
+      "summary_orig": "Travel delays were adding up at airports across the U.S. on Friday as the government shutdown drags on, putting even…",
+      "lang": "en",
+      "title_en": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark",
+      "summary_en": "Travel delays were adding up at airports across the U.S. on Friday as the government shutdown drags on, putting even…",
+      "title": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark",
+      "summary": "Travel delays were adding up at airports across the U.S. on Friday as the government shutdown drags on, putting even…",
+      "url": "https://wtop.com/national/2025/10/air-traffic-controller-shortages-lead-to-broader-us-flight-delays-as-shutdown-nears-one-month-mark/",
+      "source": "WTOP News",
+      "published_at": "2025-10-31T23:31:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "18c34fcd915266de",
       "title_orig": "Hundreds feared dead in Tanzania's election protests, opposition party says",
@@ -38,42 +263,6 @@
       "geo": {}
     },
     {
-      "id": "03a90f92c7c823c1",
-      "title_orig": "Multiple people have been arrested in Michigan in a Halloween weekend attack plot, FBI director says",
-      "summary_orig": "Multiple people who had been allegedly plotting a violent attack over the Halloween weekend were arrested Friday in Michigan, FBI Director Kash Patel said in a social media post.",
-      "lang": "en",
-      "title_en": "Multiple people have been arrested in Michigan in a Halloween weekend attack plot, FBI director says",
-      "summary_en": "Multiple people who had been allegedly plotting a violent attack over the Halloween weekend were arrested Friday in Michigan, FBI Director Kash Patel said in a social media post.",
-      "title": "Multiple people have been arrested in Michigan in a Halloween weekend attack plot, FBI director says",
-      "summary": "Multiple people who had been allegedly plotting a violent attack over the Halloween weekend were arrested Friday in Michigan, FBI Director Kash Patel said in a social media post.",
-      "url": "https://wtop.com/national/2025/10/fbi-director-patel-says-multiple-people-were-arrested-in-michigan-in-a-halloween-weekend-attack-plot/",
-      "source": "WTOP News",
-      "published_at": "2025-10-31T23:05:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6cd5d19b5add3f75",
-      "title_orig": "FBI says shooter in deadly Michigan church attack was motivated by hatred toward the Mormon church",
-      "summary_orig": "LANSING, Mich. (AP) — The man who opened fire in a Michigan church and set it ablaze last month was…",
-      "lang": "en",
-      "title_en": "FBI says shooter in deadly Michigan church attack was motivated by hatred toward the Mormon church",
-      "summary_en": "LANSING, Mich. (AP) — The man who opened fire in a Michigan church and set it ablaze last month was…",
-      "title": "FBI says shooter in deadly Michigan church attack was motivated by hatred toward the Mormon church",
-      "summary": "LANSING, Mich. (AP) — The man who opened fire in a Michigan church and set it ablaze last month was…",
-      "url": "https://wtop.com/national/2025/10/fbi-confirms-shooter-in-deadly-michigan-church-attack-despised-mormons/",
-      "source": "WTOP News",
-      "published_at": "2025-10-31T23:01:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "87f5801ca22d4fbb",
       "title_orig": "Several hundred feared dead as Tanzania election protests continue",
       "summary_orig": "A diplomatic source tells the BBC there is credible evidence that at least 500 people have been killed.",
@@ -103,24 +292,6 @@
       "url": "https://www.stuff.co.nz/travel/360872792/least-15-injured-altitude-drop-incident-us-flight-forcing-emergency-landing",
       "source": "Stuff - /",
       "published_at": "2025-10-31T22:42:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "015d6b6a9bf61c90",
-      "title_orig": "Protesters call for governor’s resignation after Rio’s deadliest police raid",
-      "summary_orig": "Hundreds of protesters have marched through Vila Cruzeiro favela, demanding the resignation of Rio de Janeiro state Gov. Cláudio Castro.",
-      "lang": "en",
-      "title_en": "Protesters call for governor’s resignation after Rio’s deadliest police raid",
-      "summary_en": "Hundreds of protesters have marched through Vila Cruzeiro favela, demanding the resignation of Rio de Janeiro state Gov. Cláudio Castro.",
-      "title": "Protesters call for governor’s resignation after Rio’s deadliest police raid",
-      "summary": "Hundreds of protesters have marched through Vila Cruzeiro favela, demanding the resignation of Rio de Janeiro state Gov. Cláudio Castro.",
-      "url": "https://www.seattletimes.com/nation-world/world/protesters-call-for-governors-resignation-after-rios-deadliest-police-raid/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-31T22:31:17+00:00",
       "tags": [
         "airport/security"
       ],
@@ -209,24 +380,6 @@
       "geo": {}
     },
     {
-      "id": "929681d1a2a908e3",
-      "title_orig": "Sea-Tac normal for now, as government shutdown snarls air travel",
-      "summary_orig": "As airports around the country begin to feel the strain of the four-week government shutdown, here’s how it’s affected Sea-Tac.",
-      "lang": "en",
-      "title_en": "Sea-Tac normal for now, as government shutdown snarls air travel",
-      "summary_en": "As airports around the country begin to feel the strain of the four-week government shutdown, here’s how it’s affected Sea-Tac.",
-      "title": "Sea-Tac normal for now, as government shutdown snarls air travel",
-      "summary": "As airports around the country begin to feel the strain of the four-week government shutdown, here’s how it’s affected Sea-Tac.",
-      "url": "https://www.seattletimes.com/business/boeing-aerospace/sea-tac-normal-for-now-as-government-shutdown-snarls-air-travel/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-31T20:58:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2b2bdea17148a7c8",
       "title_orig": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark",
       "summary_orig": "Continued staffing shortages in air traffic control facilities are causing delays at airports as the government shutdown nears the one-month mark.",
@@ -245,33 +398,6 @@
       "geo": {}
     },
     {
-      "id": "2c179d29d43de340",
-      "title_orig": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
-      "summary_orig": "New York City’s JFK Airport is under a ground stop until 7:30 p.m.",
-      "lang": "en",
-      "title_en": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
-      "summary_en": "New York City’s JFK Airport is under a ground stop until 7:30 p.m.",
-      "title": "NYC airports all face restrictions as weather and FAA staffing shortages during shutdown leave fliers frustrated",
-      "summary": "New York City’s JFK Airport is under a ground stop until 7:30 p.m.",
-      "url": "https://www.independent.co.uk/news/world/americas/government-shutdown-airport-delays-nyc-ground-stop-b2856374.html",
-      "source": "The Independent World",
-      "published_at": "2025-10-31T20:51:54+00:00",
-      "tags": [
-        "JFK",
-        "United States",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "John F. Kennedy",
-        "city": "New York",
-        "country": "United States",
-        "iata": "JFK",
-        "lat": 40.6413,
-        "lon": -73.7781
-      }
-    },
-    {
       "id": "36771977c5fae789",
       "title_orig": "Ex-sergeant major jailed for sexually assaulting soldier months before her death",
       "summary_orig": "Warrant Officer Michael Webber attacked Gunner Jaysley Beck during a training exercise in Hampshire.",
@@ -283,24 +409,6 @@
       "url": "https://www.standard.co.uk/news/crime/hampshire-wiltshire-army-wiltshire-police-crown-prosecution-service-b1255894.html",
       "source": "The Standard News",
       "published_at": "2025-10-31T20:48:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2a93907c02cd1a96",
-      "title_orig": "FBI says shooter in deadly Michigan church attack was motivated by hatred toward the Mormon church",
-      "summary_orig": "The FBI has confirmed that the man who opened fire in a Michigan church and set it ablaze was motivated by “anti-religious beliefs” against The Church of Jesus Christ of Latter-day Saints.",
-      "lang": "en",
-      "title_en": "FBI says shooter in deadly Michigan church attack was motivated by hatred toward the Mormon church",
-      "summary_en": "The FBI has confirmed that the man who opened fire in a Michigan church and set it ablaze was motivated by “anti-religious beliefs” against The Church of Jesus Christ of Latter-day Saints.",
-      "title": "FBI says shooter in deadly Michigan church attack was motivated by hatred toward the Mormon church",
-      "summary": "The FBI has confirmed that the man who opened fire in a Michigan church and set it ablaze was motivated by “anti-religious beliefs” against The Church of Jesus Christ of Latter-day Saints.",
-      "url": "https://www.seattletimes.com/nation-world/nation/fbi-confirms-shooter-in-deadly-michigan-church-attack-despised-mormons/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-10-31T20:43:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -578,24 +686,6 @@
       "geo": {}
     },
     {
-      "id": "5d8a268002ab27b6",
-      "title_orig": "Tanzania Racked by Deadly Protests After Election",
-      "summary_orig": "As the violence continued for a third day, the United Nations said at least 10 people had been killed. Opposition leaders claimed the death toll could be in the hundreds.",
-      "lang": "en",
-      "title_en": "Tanzania Racked by Deadly Protests After Election",
-      "summary_en": "As the violence continued for a third day, the United Nations said at least 10 people had been killed. Opposition leaders claimed the death toll could be in the hundreds.",
-      "title": "Tanzania Racked by Deadly Protests After Election",
-      "summary": "As the violence continued for a third day, the United Nations said at least 10 people had been killed. Opposition leaders claimed the death toll could be in the hundreds.",
-      "url": "https://www.nytimes.com/2025/10/31/world/africa/tanzania-deadly-protests-election.html",
-      "source": "NYT > World News",
-      "published_at": "2025-10-31T19:07:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "67bea2b075b8c9fe",
       "title_orig": "Rapist jailed for more than 17 years after attacks on two vulnerable women",
       "summary_orig": "He was described as a 'monster' by one of his victims",
@@ -715,24 +805,6 @@
       "url": "https://www.scmp.com/news/world/africa/article/3331135/hundreds-dead-tanzania-post-election-violence-opposition-says?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2025-10-31T18:11:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "44da23c13073ba03",
-      "title_orig": "Teenage rapist told police 'I can't help that I'm a stud' after attacking two girls",
-      "summary_orig": "Sonny Boyes, 19, raped a teenager in bushes near a car park and then sexually assaulted a second victim as she walked to catch a train",
-      "lang": "en",
-      "title_en": "Teenage rapist told police 'I can't help that I'm a stud' after attacking two girls",
-      "summary_en": "Sonny Boyes, 19, raped a teenager in bushes near a car park and then sexually assaulted a second victim as she walked to catch a train",
-      "title": "Teenage rapist told police 'I can't help that I'm a stud' after attacking two girls",
-      "summary": "Sonny Boyes, 19, raped a teenager in bushes near a car park and then sexually assaulted a second victim as she walked to catch a train",
-      "url": "https://www.birminghammail.co.uk/news/uk-news/teenage-rapist-told-police-i-32792413",
-      "source": "Birmingham Live - News",
-      "published_at": "2025-10-31T18:09:50+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1163,24 +1235,6 @@
       "geo": {}
     },
     {
-      "id": "8d86ba2b87510d68",
-      "title_orig": "Chantelle Cameron gives up world boxing title in equality row over length of bouts",
-      "summary_orig": "Britain's Chantelle Cameron vacates her WBC light-welterweight world title in protest at not being able to compete under the same rules as male fighters.",
-      "lang": "en",
-      "title_en": "Chantelle Cameron gives up world boxing title in equality row over length of bouts",
-      "summary_en": "Britain's Chantelle Cameron vacates her WBC light-welterweight world title in protest at not being able to compete under the same rules as male fighters.",
-      "title": "Chantelle Cameron gives up world boxing title in equality row over length of bouts",
-      "summary": "Britain's Chantelle Cameron vacates her WBC light-welterweight world title in protest at not being able to compete under the same rules as male fighters.",
-      "url": "https://www.bbc.com/sport/boxing/articles/c0qppewpv52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-10-31T16:33:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "18ca76d6178ae751",
       "title_orig": "U.N. Says Strikes on Boats Trump Claims Are Smuggling Drugs Are Illegal",
       "summary_orig": "The U.N.’s human rights chief condemned deadly military attacks on vessels near South and Central America and called for an independent investigation.",
@@ -1250,24 +1304,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "02d84c482eaef8a9",
-      "title_orig": "Lebanon slams Israel for intensifying attacks despite calls to negotiate",
-      "summary_orig": "Lebanese President Joseph Aoun says ready to negotiate despite Israeli refusal, as new strikes kill one in the south.",
-      "lang": "en",
-      "title_en": "Lebanon slams Israel for intensifying attacks despite calls to negotiate",
-      "summary_en": "Lebanese President Joseph Aoun says ready to negotiate despite Israeli refusal, as new strikes kill one in the south.",
-      "title": "Lebanon slams Israel for intensifying attacks despite calls to negotiate",
-      "summary": "Lebanese President Joseph Aoun says ready to negotiate despite Israeli refusal, as new strikes kill one in the south.",
-      "url": "https://www.aljazeera.com/news/2025/10/31/lebanon-slams-israel-for-intensifying-attacks-despite-calls-to-negotiate?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-10-31T15:55:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1358,24 +1394,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d6311bb1776fd02a",
-      "title_orig": "Israeli army, settlers target Palestinian olive harvesters in West Bank",
-      "summary_orig": "Attacks on Palestinians have intensified during the harvesting season as Israel pushes measures to annex the territory.",
-      "lang": "en",
-      "title_en": "Israeli army, settlers target Palestinian olive harvesters in West Bank",
-      "summary_en": "Attacks on Palestinians have intensified during the harvesting season as Israel pushes measures to annex the territory.",
-      "title": "Israeli army, settlers target Palestinian olive harvesters in West Bank",
-      "summary": "Attacks on Palestinians have intensified during the harvesting season as Israel pushes measures to annex the territory.",
-      "url": "https://www.aljazeera.com/news/2025/10/31/israeli-army-settlers-target-palestinian-olive-harvesters-in-west?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-10-31T15:06:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1502,24 +1520,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f3c69f8c8ddf4580",
-      "title_orig": "Director says FBI thwarted a potentially violent attack planned for Halloween weekend",
-      "summary_orig": "Kash Patel announced the arrests in a social media post, saying the arrests took place Friday morning.",
-      "lang": "en",
-      "title_en": "Director says FBI thwarted a potentially violent attack planned for Halloween weekend",
-      "summary_en": "Kash Patel announced the arrests in a social media post, saying the arrests took place Friday morning.",
-      "title": "Director says FBI thwarted a potentially violent attack planned for Halloween weekend",
-      "summary": "Kash Patel announced the arrests in a social media post, saying the arrests took place Friday morning.",
-      "url": "https://www.pennlive.com/nation-world/2025/10/director-says-fbi-thwarted-a-potential-violent-attack-over-the-halloween-weekend.html",
-      "source": "pennlive.com",
-      "published_at": "2025-10-31T14:35:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1754,24 +1754,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "d49f4ad7e10e2096",
-      "title_orig": "Ukraine says hit Russian oil sites nearly 160 times in 2025",
-      "summary_orig": "Kyiv is developing new ways of attacking the facilities, said SBU security service chief Vasyl Malyuk.",
-      "lang": "en",
-      "title_en": "Ukraine says hit Russian oil sites nearly 160 times in 2025",
-      "summary_en": "Kyiv is developing new ways of attacking the facilities, said SBU security service chief Vasyl Malyuk.",
-      "title": "Ukraine says hit Russian oil sites nearly 160 times in 2025",
-      "summary": "Kyiv is developing new ways of attacking the facilities, said SBU security service chief Vasyl Malyuk.",
-      "url": "https://www.straitstimes.com/world/europe/ukraine-destroyed-one-oreshnik-missile-in-russia-in-summer-2023-sbu-says",
-      "source": "The Straits Times World News",
-      "published_at": "2025-10-31T13:26:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2100,24 +2082,6 @@
       "geo": {}
     },
     {
-      "id": "8db028a3d365f659",
-      "title_orig": "Homegrown Ukrainian drones take the war deep into Russia",
-      "summary_orig": "The drones’ long-range missions target oil refineries and fuel depots",
-      "lang": "en",
-      "title_en": "Homegrown Ukrainian drones take the war deep into Russia",
-      "summary_en": "The drones’ long-range missions target oil refineries and fuel depots",
-      "title": "Homegrown Ukrainian drones take the war deep into Russia",
-      "summary": "The drones’ long-range missions target oil refineries and fuel depots",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-drones-zelensky-putin-b2855898.html",
-      "source": "The Independent World",
-      "published_at": "2025-10-31T09:10:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "855b44ba3d8b818a",
       "title_orig": "Gran Canaria joins other airports in Spain in launching EES border checks",
       "summary_orig": "Gran Canaria airport in Spain's Canary Islands is the latest to implement the new EES passport checks for travellers from outside of the EU.",
@@ -2262,24 +2226,6 @@
       "geo": {}
     },
     {
-      "id": "6ee983c76ca2f7a4",
-      "title_orig": "PLA uses robot dogs and aerial drones in simulated landing drill aimed at Taiwan",
-      "summary_orig": "Robot dogs might not be able to survive a potential assault on Taiwan, based on the results of an amphibious landing exercise carried out by the People’s Liberation Army and aired in a documentary by state broadcaster CCTV.\nIn the exercise, the four-legged robots, loaded with explosives, were released by the first wave of landing forces. They ran across ditches, blocks and barricades on the beachhead in an attempt to clear a passage for the penetration of the enemy defensive line.\nAt the same...",
-      "lang": "en",
-      "title_en": "PLA uses robot dogs and aerial drones in simulated landing drill aimed at Taiwan",
-      "summary_en": "Robot dogs might not be able to survive a potential assault on Taiwan, based on the results of an amphibious landing exercise carried out by the People’s Liberation Army and aired in a documentary by state broadcaster CCTV.\nIn the exercise, the four-legged robots, loaded with explosives, were released by the first wave of landing forces. They ran across ditches, blocks and barricades on the beachhead in an attempt to clear a passage for the penetration of the enemy defensive line.\nAt the same...",
-      "title": "PLA uses robot dogs and aerial drones in simulated landing drill aimed at Taiwan",
-      "summary": "Robot dogs might not be able to survive a potential assault on Taiwan, based on the results of an amphibious landing exercise carried out by the People’s Liberation Army and aired in a documentary by state broadcaster CCTV.\nIn the exercise, the four-legged robots, loaded with explosives, were released by the first wave of landing forces. They ran across ditches, blocks and barricades on the beachhead in an attempt to clear a passage for the penetration of the enemy defensive line.\nAt the same...",
-      "url": "https://www.scmp.com/news/china/military/article/3331059/pla-uses-robot-dogs-and-aerial-drones-simulated-landing-drill-aimed-taiwan?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-10-31T08:03:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c0af4c8ee51da8b0",
       "title_orig": "Weather tracker: Hurricane Melissa leaves trail of destruction across Caribbean",
       "summary_orig": "Category 5 storm is most powerful to strike Jamaica and has caused death and destruction in Cuba and Haiti Hurricane Melissa has wreaked havoc across parts of the Caribbean in recent days, after first making landfall in Jamaica on Tuesday night as a category 5 storm – the highest strength. This was the most powerful storm to strike the island nation, packing winds of up to 185mph at its peak. Western parts of Jamaica were worst hit, with 90% of homes in the town of Black River losing their roof or being destroyed entirely. Roughly three-quarters of the country lost electricity, with at least 19 people known to have lost their lives at the time of publication. The cleanup operation was hampered by thunderstorms even after Melissa cleared to the north. The hurricane continued northwards, but was a slightly weakened category 3 storm by the time it made landfall in Cuba. Nonetheless, the storm continued to bring winds of up to 120mph and torrential rains. Continue reading...",
@@ -2334,42 +2280,6 @@
       "geo": {}
     },
     {
-      "id": "68723452bda58424",
-      "title_orig": "‘Do you know who I am?’: Karnataka BJP leader’s son caught beating toll worker in viral video",
-      "summary_orig": "A viral video shows Samarthgouda Patil, son of BJP leader Vijugouda Patil, and his friends attacking a toll booth employee after being asked to pay.",
-      "lang": "en",
-      "title_en": "‘Do you know who I am?’: Karnataka BJP leader’s son caught beating toll worker in viral video",
-      "summary_en": "A viral video shows Samarthgouda Patil, son of BJP leader Vijugouda Patil, and his friends attacking a toll booth employee after being asked to pay.",
-      "title": "‘Do you know who I am?’: Karnataka BJP leader’s son caught beating toll worker in viral video",
-      "summary": "A viral video shows Samarthgouda Patil, son of BJP leader Vijugouda Patil, and his friends attacking a toll booth employee after being asked to pay.",
-      "url": "https://www.hindustantimes.com/india-news/do-you-know-who-i-am-karnataka-bjp-leader-s-son-caught-beating-toll-worker-in-viral-video-101761883611111.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-10-31T05:07:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "108e4c9fb408b4c3",
-      "title_orig": "Caught between Venezuela and U.S., Trinidad fishermen fear the sea",
-      "summary_orig": "Between Venezuelan military preparations in response to U.S. \"provocation\" and Trinidad-backed American strikes on alleged drug boats, fishermen are keeping a low profile.",
-      "lang": "en",
-      "title_en": "Caught between Venezuela and U.S., Trinidad fishermen fear the sea",
-      "summary_en": "Between Venezuelan military preparations in response to U.S. \"provocation\" and Trinidad-backed American strikes on alleged drug boats, fishermen are keeping a low profile.",
-      "title": "Caught between Venezuela and U.S., Trinidad fishermen fear the sea",
-      "summary": "Between Venezuelan military preparations in response to U.S. \"provocation\" and Trinidad-backed American strikes on alleged drug boats, fishermen are keeping a low profile.",
-      "url": "https://www.japantimes.co.jp/news/2025/10/31/world/us-venezuela-trinidad-fishermen/",
-      "source": "Latest articles - The Japan Times",
-      "published_at": "2025-10-31T02:40:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "22940d2eaf1dc3dc",
       "title_orig": "Another public tiff over Punjab leadership rocks PTI",
       "summary_orig": "• Despite Imran’s instructions not to air dirty laundry in public, Salman Akram Raja and Aliya Hamza engage in ‘Twitter war’ over decision to remove party’s central Punjab president and secretary • Dispute between senior lawyers over list of who gets to meet Imran in Adiala leaves many within the party red-faced LAHORE: Mere weeks after incarcerated founder Imr­an Khan warned party leaders against airing their dirty laundry in public, ano­ther tiff — this time over the leadership of PTI in central Punjab — has erupted over the social media platform X, in full public view. In a telling series of tweets on Thursday, Secretary Gene­ral Salman Akram Raja railed against those who were “conspiring against him”, and recalled that Mr Khan had personally tasked him with conveying messages from Adiala jail. Although he didn’t explain the issue at hand, a cursory glance at his earlier tweets and messages posted by other PTI leaders laid bare the dispute. The controversy centres around the ouster of PTI Cen­tral Punjab President Ahmad Chattha and Gene­ral Secre­tary Bilal Ejaz, who were remo­ved on instructions supposedly conveyed by Imran Khan on Oct 16, when he met Barr­ister Gohar Ali Khan and Salman Akram Raja in Adiala jail. Mr Chattha was one of the men shot and injured in Wazirabad when Imran Khan’s container was fired upon during a rally in 2022. A notification, issued on the same day by PTI’s Punjab Chief Organiser Aliya Hamza, had announced Mr Chattha’s removal. He was to be replaced by Ali Imtiaz Warraich. Aliya Hamza Following the Oct 16 meeting, however, Mr Raja had tweeted that the party founder had not ordered any change in the Punjab hierarchy in his presence, adding that they would seek confirmation of this decision from Mr Khan at their next meeting. In a tweet on Wednesday, however, he clarified that he was told the ‘decision’ to remove both men was conveyed — ostensibly to Barrister Gohar — before he arrived at the prison. Speaking to the media on Thursday, Mr Raja disclosed that two lawyers, Ali Imran and Mubashir Maqsood Awan, had met Imran Khan in jail, and later claimed that he had instructed the appointment of Mr Warraich as central Punjab president. In a tweet, Mr Raja also claimed that he told the new president, Ali Imtiaz, to start working after being informed that the confusion stemming from the matter had brought the party’s affairs to a standstill in Punjab. But the decision to remove the two men was disputed by Imran’s sister Uzma during an interaction with reporters, as well as a tweet from Mr Khan’s official X account — which he doesn’t have access to while in prison. “I wish to make it clear that Ahmad Chattha and Bilal Ejaz are my long-standing and loyal companions. They have stood by me with unwavering loyalty and made tremendous sacrifices. I have not issued any orders for their removal,” said the tweet, published on Wednesday. Diving headfirst into the fray, PTI Punjab Chief Organiser Aliya Hamza tweeted that Imran Khan was the final authority on all decisions, and that she was simply implementing the instructions that had been passed to her. Ms Hamza had earlier appointed Ali Imran as the party’s Punjab spokesman. When approached, party insiders alleged that Ali Imran was a controversial person, being one of the men who ‘misguided’ Salman Akram Raja over Ahmad Chattha’s removal. Some went as far as to accuse Ms Hamza of ‘playing for the other team’, claiming that she was preoccupied by optics; holding meetings, visiting workers’ homes, holding cake-cutting ceremonies and protests on court premises, while silencing voices being raised from the party’s Punjab media cell. When approached for comment, Aliya Hamza denied any leadership crisis, saying that the PTI Punjab president’s portfolio was still with Dr Yasmin Rashid, adding that Mr Khan had instructed her to serve as acting president after Hammad Azhar stepped down from the role. List dispute Salman Akram Raja Another dispute that Mr Raja alluded to in his tweets on Thursday was the confusion about who would submit lists for access to Adiala jail. It may be recalled that the Supreme Court had recently specified that the party’s secretary general, i.e. Salman Akram Raja, should be the one to submit such lists. However, a tug-of-war over who has the authority to issue these lists erupted after two separate lists were sent to the Adiala Jail superintendent on Oct 29, one by secretary-general Salman Akram Raja and the other by Barrister Ali Zafar. In another thread of tweets on Thursday, Mr Raja explained that he had personally messaged Barrister Zafar, informing him that he would send the list. He then claimed to have forwarded the list to the superintendent through TCS, WhatsApp and in person through a lawyer. However, he wrote, “Senator Zafar still sent a separate list of meeting participants”. Party leaders Dawn spoke to on Thursday seemed embarrassed, saying that such a controversy erupting between such senior party members was tantamount to ‘party ka mazaaq’ (making a mockery of the party). Published in Dawn, October 31st, 2025",
@@ -2388,35 +2298,17 @@
       "geo": {}
     },
     {
-      "id": "ea29b4dc9ba2b4c2",
-      "title_orig": "Man posing as good Samaritan steals from Portland liquor store as employee suffers heart attack",
-      "summary_orig": "Jason Hay only worked at Bins & Barrels liquor store for a year before suffering a heart attack while on the job. A suspect took advantage of the situation.",
+      "id": "1a4e0380b0d932ee",
+      "title_orig": "First full Victoria’s Secret store is coming to NZ, but there is a catch",
+      "summary_orig": "Auckland International Airport’s duty-free upgrade snags another international retailer.",
       "lang": "en",
-      "title_en": "Man posing as good Samaritan steals from Portland liquor store as employee suffers heart attack",
-      "summary_en": "Jason Hay only worked at Bins & Barrels liquor store for a year before suffering a heart attack while on the job. A suspect took advantage of the situation.",
-      "title": "Man posing as good Samaritan steals from Portland liquor store as employee suffers heart attack",
-      "summary": "Jason Hay only worked at Bins & Barrels liquor store for a year before suffering a heart attack while on the job. A suspect took advantage of the situation.",
-      "url": "https://www.kgw.com/article/news/local/man-posing-as-good-samaritan-steals-portland-liquor-store-during-heart-attack/283-0ea5c2bc-3385-4c7b-948b-8ae0f1133e66",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2025-10-31T01:48:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6bffabef66d92399",
-      "title_orig": "Fresh appeal for information 24 years after ‘savage’ murder of Arthur Berryman",
-      "summary_orig": "Mr Berryman was attacked at his home in the Woodstock area of east Belfast on October 31 2001.",
-      "lang": "en",
-      "title_en": "Fresh appeal for information 24 years after ‘savage’ murder of Arthur Berryman",
-      "summary_en": "Mr Berryman was attacked at his home in the Woodstock area of east Belfast on October 31 2001.",
-      "title": "Fresh appeal for information 24 years after ‘savage’ murder of Arthur Berryman",
-      "summary": "Mr Berryman was attacked at his home in the Woodstock area of east Belfast on October 31 2001.",
-      "url": "https://www.standard.co.uk/news/uk/woodstock-belfast-arthur-b1255808.html",
-      "source": "The Standard News",
-      "published_at": "2025-10-31T00:01:00+00:00",
+      "title_en": "First full Victoria’s Secret store is coming to NZ, but there is a catch",
+      "summary_en": "Auckland International Airport’s duty-free upgrade snags another international retailer.",
+      "title": "First full Victoria’s Secret store is coming to NZ, but there is a catch",
+      "summary": "Auckland International Airport’s duty-free upgrade snags another international retailer.",
+      "url": "https://www.stuff.co.nz/travel/360871884/i-know-secret-and-its-coming-new-zealand",
+      "source": "Stuff - /",
+      "published_at": "2025-10-30T23:40:18+00:00",
       "tags": [
         "airport/security"
       ],
