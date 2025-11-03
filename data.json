@@ -1,6 +1,60 @@
 {
-  "generated_at": "2025-11-03T19:18:11.819485+00:00",
+  "generated_at": "2025-11-03T19:41:48.463627+00:00",
   "items": [
+    {
+      "id": "98c6b7c2f90ea924",
+      "title_orig": "London Bridge 'police incident' leads to evacuation of station",
+      "summary_orig": "London Bridge evacuated for ‘short period of time’ on Monday evening",
+      "lang": "en",
+      "title_en": "London Bridge 'police incident' leads to evacuation of station",
+      "summary_en": "London Bridge evacuated for ‘short period of time’ on Monday evening",
+      "title": "London Bridge 'police incident' leads to evacuation of station",
+      "summary": "London Bridge evacuated for ‘short period of time’ on Monday evening",
+      "url": "https://www.standard.co.uk/news/transport/london-bridge-police-incident-evacuation-station-b1256302.html",
+      "source": "The Standard News",
+      "published_at": "2025-11-03T19:25:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b0139b0eec22602c",
+      "title_orig": "Hero Exeter mum steps in to stop crowd 'crush' at packed airport",
+      "summary_orig": "Faye took matters into her own hands when huge queues started forming",
+      "lang": "en",
+      "title_en": "Hero Exeter mum steps in to stop crowd 'crush' at packed airport",
+      "summary_en": "Faye took matters into her own hands when huge queues started forming",
+      "title": "Hero Exeter mum steps in to stop crowd 'crush' at packed airport",
+      "summary": "Faye took matters into her own hands when huge queues started forming",
+      "url": "https://www.devonlive.com/news/devon-news/hero-exeter-mum-steps-stop-10619037",
+      "source": "Devon Live - frontpage",
+      "published_at": "2025-11-03T19:23:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1ef747be0b5f8954",
+      "title_orig": "`Do you want to die?’ Huntingdon knifeman asked train victim",
+      "summary_orig": "Football fan Stephen Crean was stabbed as he faced the alleged attacker on an LNER train",
+      "lang": "en",
+      "title_en": "`Do you want to die?’ Huntingdon knifeman asked train victim",
+      "summary_en": "Football fan Stephen Crean was stabbed as he faced the alleged attacker on an LNER train",
+      "title": "`Do you want to die?’ Huntingdon knifeman asked train victim",
+      "summary": "Football fan Stephen Crean was stabbed as he faced the alleged attacker on an LNER train",
+      "url": "https://www.standard.co.uk/news/crime/huntingdon-london-lner-shabana-mahmood-doncaster-b1256301.html",
+      "source": "The Standard News",
+      "published_at": "2025-11-03T19:14:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "1d6fa6947448a7b8",
       "title_orig": "Casa Bonita cliff divers, actors end strike to resume union negotiations",
@@ -20,21 +74,21 @@
       "geo": {}
     },
     {
-      "id": "1ef747be0b5f8954",
-      "title_orig": "`Do you want to die?’ Huntingdon knifeman asked train victim",
-      "summary_orig": "Football fan Stephen Crean was stabbed as he faced the alleged attacker on an LNER train",
+      "id": "b801b8265b8480fe",
+      "title_orig": "Scunthorpe United footballer injured in Cambridgeshire train stabbing",
+      "summary_orig": "Jonathan Gjoshe sustained non-life-threatening injuries in Saturday’s incident and remains in hospital, club says One of the people attacked during a mass stabbing on a busy train in Cambridgeshire has been named as the Scunthorpe United footballer Jonathan Gjoshe. Gjoshe sustained non-life-threatening injuries and remains in hospital, the club said. Continue reading...",
       "lang": "en",
-      "title_en": "`Do you want to die?’ Huntingdon knifeman asked train victim",
-      "summary_en": "Football fan Stephen Crean was stabbed as he faced the alleged attacker on an LNER train",
-      "title": "`Do you want to die?’ Huntingdon knifeman asked train victim",
-      "summary": "Football fan Stephen Crean was stabbed as he faced the alleged attacker on an LNER train",
-      "url": "https://www.standard.co.uk/news/crime/huntingdon-london-lner-shabana-mahmood-doncaster-b1256301.html",
-      "source": "The Standard News",
-      "published_at": "2025-11-03T19:01:53+00:00",
+      "title_en": "Scunthorpe United footballer injured in Cambridgeshire train stabbing",
+      "summary_en": "Jonathan Gjoshe sustained non-life-threatening injuries in Saturday’s incident and remains in hospital, club says One of the people attacked during a mass stabbing on a busy train in Cambridgeshire has been named as the Scunthorpe United footballer Jonathan Gjoshe. Gjoshe sustained non-life-threatening injuries and remains in hospital, the club said. Continue reading...",
+      "title": "Scunthorpe United footballer injured in Cambridgeshire train stabbing",
+      "summary": "Jonathan Gjoshe sustained non-life-threatening injuries in Saturday’s incident and remains in hospital, club says One of the people attacked during a mass stabbing on a busy train in Cambridgeshire has been named as the Scunthorpe United footballer Jonathan Gjoshe. Gjoshe sustained non-life-threatening injuries and remains in hospital, the club said. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2025/nov/03/scunthorpe-united-footballer-jonathan-gjoshe-injured-in-cambridgeshire-train-stabbing-huntingdon",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-03T19:04:00+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -58,12 +112,12 @@
     {
       "id": "d1dfa16c872c054f",
       "title_orig": "Terrified Scots passenger thought derailed Cumbria train was 'hit by terrorist attack'",
-      "summary_orig": "A major incident was declared after the 4.28am Avanti West Coast service from Glasgow to London came off the tracks at around 6.10am on Monday.",
+      "summary_orig": "John Topp, 33, was travelling to a meeting in London when he heard a \"loud bang\" before the train lost power.",
       "lang": "en",
       "title_en": "Terrified Scots passenger thought derailed Cumbria train was 'hit by terrorist attack'",
-      "summary_en": "A major incident was declared after the 4.28am Avanti West Coast service from Glasgow to London came off the tracks at around 6.10am on Monday.",
+      "summary_en": "John Topp, 33, was travelling to a meeting in London when he heard a \"loud bang\" before the train lost power.",
       "title": "Terrified Scots passenger thought derailed Cumbria train was 'hit by terrorist attack'",
-      "summary": "A major incident was declared after the 4.28am Avanti West Coast service from Glasgow to London came off the tracks at around 6.10am on Monday.",
+      "summary": "John Topp, 33, was travelling to a meeting in London when he heard a \"loud bang\" before the train lost power.",
       "url": "https://www.dailyrecord.co.uk/news/scottish-news/terrified-scots-passenger-thought-derailed-36184414",
       "source": "Daily Record - Home",
       "published_at": "2025-11-03T19:00:32+00:00",
@@ -71,6 +125,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4eddbdf4d81422b3",
+      "title_orig": "Police investigate four other knife incidents possibly linked to Cambridgeshire train attack",
+      "summary_orig": "Questions mount for officers as Anthony Williams, 32, appears in court on charges of attempted murder Police investigating the mass stabbing on a high-speed train in Cambridgeshire are examining four other knife incidents alleged to have taken place hours before passengers fled in terror on Saturday evening. Questions mounted for police as Anthony Williams, 32, appeared in court on Monday on a series of attempted murder charges related to two stabbing incidents. Continue reading...",
+      "lang": "en",
+      "title_en": "Police investigate four other knife incidents possibly linked to Cambridgeshire train attack",
+      "summary_en": "Questions mount for officers as Anthony Williams, 32, appears in court on charges of attempted murder Police investigating the mass stabbing on a high-speed train in Cambridgeshire are examining four other knife incidents alleged to have taken place hours before passengers fled in terror on Saturday evening. Questions mounted for police as Anthony Williams, 32, appeared in court on Monday on a series of attempted murder charges related to two stabbing incidents. Continue reading...",
+      "title": "Police investigate four other knife incidents possibly linked to Cambridgeshire train attack",
+      "summary": "Questions mount for officers as Anthony Williams, 32, appears in court on charges of attempted murder Police investigating the mass stabbing on a high-speed train in Cambridgeshire are examining four other knife incidents alleged to have taken place hours before passengers fled in terror on Saturday evening. Questions mounted for police as Anthony Williams, 32, appeared in court on Monday on a series of attempted murder charges related to two stabbing incidents. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2025/nov/03/boy-stabbiing-knifeman-barbers-cambridgeshire-train-attack-huntingdon",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-03T18:59:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -92,24 +164,6 @@
       "geo": {}
     },
     {
-      "id": "6901b7d08047ccdc",
-      "title_orig": "Two men accused of plotting terror attacks at LGBTQ+ bars in the Detroit area",
-      "summary_orig": "DETROIT (AP) — Two men who had acquired high-powered weapons and practiced at gun ranges were scouting LGBTQ+ bars in…",
-      "lang": "en",
-      "title_en": "Two men accused of plotting terror attacks at LGBTQ+ bars in the Detroit area",
-      "summary_en": "DETROIT (AP) — Two men who had acquired high-powered weapons and practiced at gun ranges were scouting LGBTQ+ bars in…",
-      "title": "Two men accused of plotting terror attacks at LGBTQ+ bars in the Detroit area",
-      "summary": "DETROIT (AP) — Two men who had acquired high-powered weapons and practiced at gun ranges were scouting LGBTQ+ bars in…",
-      "url": "https://wtop.com/national/2025/11/two-men-charged-in-detroit-area-terrorism-plot-after-halloween-arrests/",
-      "source": "WTOP News",
-      "published_at": "2025-11-03T18:56:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2ecc095ca30d6bb5",
       "title_orig": "David Moyes makes another Everton striker change as Sunderland team confirmed",
       "summary_orig": "David Moyes has named his XI for Everton's clash with Sunderland in the Premier League at the Stadium of Light on Monday",
@@ -121,24 +175,6 @@
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-makes-another-everton-32805314",
       "source": "Liverpool Echo - Home",
       "published_at": "2025-11-03T18:54:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9fec18fae9a0b213",
-      "title_orig": "Ukraine gets more Patriot air defense systems to counter deadly Russian attacks",
-      "summary_orig": "KYIV, Ukraine (AP) — Ukraine has received more U.S.-made Patriot air defense systems to help it counter Russia’s daily barrages,…",
-      "lang": "en",
-      "title_en": "Ukraine gets more Patriot air defense systems to counter deadly Russian attacks",
-      "summary_en": "KYIV, Ukraine (AP) — Ukraine has received more U.S.-made Patriot air defense systems to help it counter Russia’s daily barrages,…",
-      "title": "Ukraine gets more Patriot air defense systems to counter deadly Russian attacks",
-      "summary": "KYIV, Ukraine (AP) — Ukraine has received more U.S.-made Patriot air defense systems to help it counter Russia’s daily barrages,…",
-      "url": "https://wtop.com/russia-ukraine-war-news/2025/11/ukraine-gets-more-patriot-air-defense-systems-to-counter-deadly-russian-attacks/",
-      "source": "WTOP News",
-      "published_at": "2025-11-03T18:48:54+00:00",
       "tags": [
         "airport/security"
       ],
@@ -236,34 +272,16 @@
       "geo": {}
     },
     {
-      "id": "3fdb3774933271e5",
-      "title_orig": "David Gow, former Guardian Germany correspondent, dies aged 80",
-      "summary_orig": "‘Impressively professional journalist’ with a commitment to social justice was also European business editor David Gow obituary David Gow, a former Germany correspondent and European business editor of the Guardian whose strong commitment to social justice and to the EU project continued long after he left the paper, has died of a heart attack aged 80. Gow joined the Scotsman as a graduate trainee in 1969 before becoming the paper’s first Europe correspondent, then labour correspondent and finally its London editor. After nearly 20 years there Gow moved to the Guardian in 1989. Continue reading...",
-      "lang": "en",
-      "title_en": "David Gow, former Guardian Germany correspondent, dies aged 80",
-      "summary_en": "‘Impressively professional journalist’ with a commitment to social justice was also European business editor David Gow obituary David Gow, a former Germany correspondent and European business editor of the Guardian whose strong commitment to social justice and to the EU project continued long after he left the paper, has died of a heart attack aged 80. Gow joined the Scotsman as a graduate trainee in 1969 before becoming the paper’s first Europe correspondent, then labour correspondent and finally its London editor. After nearly 20 years there Gow moved to the Guardian in 1989. Continue reading...",
-      "title": "David Gow, former Guardian Germany correspondent, dies aged 80",
-      "summary": "‘Impressively professional journalist’ with a commitment to social justice was also European business editor David Gow obituary David Gow, a former Germany correspondent and European business editor of the Guardian whose strong commitment to social justice and to the EU project continued long after he left the paper, has died of a heart attack aged 80. Gow joined the Scotsman as a graduate trainee in 1969 before becoming the paper’s first Europe correspondent, then labour correspondent and finally its London editor. After nearly 20 years there Gow moved to the Guardian in 1989. Continue reading...",
-      "url": "https://www.theguardian.com/media/2025/nov/03/david-gow-former-guardian-germany-correspondent-dies",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-03T18:26:34+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "5b50d8b276ebc605",
-      "title_orig": "BBC accused of selectively editing Trump clip about Capitol attack",
-      "summary_orig": "Panorama spliced together clips to make it appear clearer US president encouraged January 6 attack, former external adviser says The BBC has been accused of selectively editing a Donald Trump speech to make it appear clearer that he encouraged the US Capitol attack, according to a former external adviser to the corporation. An edition of Panorama, broadcast a week before the US election, spliced together clips of a Trump speech made on January 6. The spliced clip suggested that Trump told the crowd: “We’re going to walk down to the Capitol and I’ll be there with you, and we fight. We fight like hell.” Continue reading...",
+      "title_orig": "BBC accused of selectively editing Trump clip from day of Capitol attack",
+      "summary_orig": "Panorama spliced together clips to make it appear clearer president encouraged attack, former external adviser says The BBC has been accused of selectively editing a Donald Trump speech to make it appear clearer that he encouraged the US Capitol attack, according to a former external adviser to the corporation. An edition of Panorama, broadcast a week before the US election, spliced together clips of a Trump speech made on 6 January 2021. The spliced clip suggested that Trump told the crowd: “We’re going to walk down to the Capitol and I’ll be there with you, and we fight. We fight like hell.” Continue reading...",
       "lang": "en",
-      "title_en": "BBC accused of selectively editing Trump clip about Capitol attack",
-      "summary_en": "Panorama spliced together clips to make it appear clearer US president encouraged January 6 attack, former external adviser says The BBC has been accused of selectively editing a Donald Trump speech to make it appear clearer that he encouraged the US Capitol attack, according to a former external adviser to the corporation. An edition of Panorama, broadcast a week before the US election, spliced together clips of a Trump speech made on January 6. The spliced clip suggested that Trump told the crowd: “We’re going to walk down to the Capitol and I’ll be there with you, and we fight. We fight like hell.” Continue reading...",
-      "title": "BBC accused of selectively editing Trump clip about Capitol attack",
-      "summary": "Panorama spliced together clips to make it appear clearer US president encouraged January 6 attack, former external adviser says The BBC has been accused of selectively editing a Donald Trump speech to make it appear clearer that he encouraged the US Capitol attack, according to a former external adviser to the corporation. An edition of Panorama, broadcast a week before the US election, spliced together clips of a Trump speech made on January 6. The spliced clip suggested that Trump told the crowd: “We’re going to walk down to the Capitol and I’ll be there with you, and we fight. We fight like hell.” Continue reading...",
+      "title_en": "BBC accused of selectively editing Trump clip from day of Capitol attack",
+      "summary_en": "Panorama spliced together clips to make it appear clearer president encouraged attack, former external adviser says The BBC has been accused of selectively editing a Donald Trump speech to make it appear clearer that he encouraged the US Capitol attack, according to a former external adviser to the corporation. An edition of Panorama, broadcast a week before the US election, spliced together clips of a Trump speech made on 6 January 2021. The spliced clip suggested that Trump told the crowd: “We’re going to walk down to the Capitol and I’ll be there with you, and we fight. We fight like hell.” Continue reading...",
+      "title": "BBC accused of selectively editing Trump clip from day of Capitol attack",
+      "summary": "Panorama spliced together clips to make it appear clearer president encouraged attack, former external adviser says The BBC has been accused of selectively editing a Donald Trump speech to make it appear clearer that he encouraged the US Capitol attack, according to a former external adviser to the corporation. An edition of Panorama, broadcast a week before the US election, spliced together clips of a Trump speech made on 6 January 2021. The spliced clip suggested that Trump told the crowd: “We’re going to walk down to the Capitol and I’ll be there with you, and we fight. We fight like hell.” Continue reading...",
       "url": "https://www.theguardian.com/media/2025/nov/03/bbc-accused-selectively-editing-trump-clip-capitol-attack",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2025-11-03T18:21:30+00:00",
       "tags": [
         "airport/security"
@@ -281,7 +299,7 @@
       "title": "15 minutes of horror in train mass stabbing – Today in Focus Extra",
       "summary": "Guardian senior reporter Ben Quinn on the shocking knife attack on a train from Doncaster to London On Saturday night, a train from Doncaster to London was packed with people heading out for the night when a horrifying mass stabbing attacked unfolded. Witnesses described “pure panic” as people tried to get away from the knifeman, with some hiding in the train’s toilets. Continue reading...",
       "url": "https://www.theguardian.com/news/audio/2025/nov/03/15-minutes-of-horror-in-train-mass-stabbing-today-in-focus-extra",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2025-11-03T18:13:54+00:00",
       "tags": [
         "airport/security"
@@ -378,24 +396,6 @@
         "diplomatic"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5e9a3e6fcca1bf68",
-      "title_orig": "UK politics: MPs spar over response to Cambridgeshire train attack – as it happened",
-      "summary_orig": "Lib Dem spokesperson says Reform ‘trying to exploit incident for political gain’ and shadow home secretary’s remarks are ‘beneath contempt’ Farage is speaking now. He says another “depressing budget hoves into view”. It will be a budget that “doesn’t have the guts to cut public spending”. He says Britain has been living under an illusion. I think for some years we’ve actually been living under an illusion. We’ve not been prepared to face up to just how much of an economic mess we genuinely in. As we slipped down the global league tables, we kid ourselves that it’s OK, we’ve got GDP growth. Continue reading...",
-      "lang": "en",
-      "title_en": "UK politics: MPs spar over response to Cambridgeshire train attack – as it happened",
-      "summary_en": "Lib Dem spokesperson says Reform ‘trying to exploit incident for political gain’ and shadow home secretary’s remarks are ‘beneath contempt’ Farage is speaking now. He says another “depressing budget hoves into view”. It will be a budget that “doesn’t have the guts to cut public spending”. He says Britain has been living under an illusion. I think for some years we’ve actually been living under an illusion. We’ve not been prepared to face up to just how much of an economic mess we genuinely in. As we slipped down the global league tables, we kid ourselves that it’s OK, we’ve got GDP growth. Continue reading...",
-      "title": "UK politics: MPs spar over response to Cambridgeshire train attack – as it happened",
-      "summary": "Lib Dem spokesperson says Reform ‘trying to exploit incident for political gain’ and shadow home secretary’s remarks are ‘beneath contempt’ Farage is speaking now. He says another “depressing budget hoves into view”. It will be a budget that “doesn’t have the guts to cut public spending”. He says Britain has been living under an illusion. I think for some years we’ve actually been living under an illusion. We’ve not been prepared to face up to just how much of an economic mess we genuinely in. As we slipped down the global league tables, we kid ourselves that it’s OK, we’ve got GDP growth. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2025/nov/03/nigel-farage-reform-speech-labour-conservatives-politics-live-latest-updates",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-11-03T17:54:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -612,24 +612,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b801b8265b8480fe",
-      "title_orig": "Scunthorpe United footballer injured in Cambridgeshire train stabbing",
-      "summary_orig": "Jonathan Gjoshe sustained non-life-threatening injuries in Saturday’s incident and remains in hospital, club says One of the people attacked during a mass stabbing on a busy train in Cambridgeshire has been named as the Scunthorpe United footballer Jonathan Gjoshe. Gjoshe sustained non-life-threatening injuries and remains in hospital, the club said. Continue reading...",
-      "lang": "en",
-      "title_en": "Scunthorpe United footballer injured in Cambridgeshire train stabbing",
-      "summary_en": "Jonathan Gjoshe sustained non-life-threatening injuries in Saturday’s incident and remains in hospital, club says One of the people attacked during a mass stabbing on a busy train in Cambridgeshire has been named as the Scunthorpe United footballer Jonathan Gjoshe. Gjoshe sustained non-life-threatening injuries and remains in hospital, the club said. Continue reading...",
-      "title": "Scunthorpe United footballer injured in Cambridgeshire train stabbing",
-      "summary": "Jonathan Gjoshe sustained non-life-threatening injuries in Saturday’s incident and remains in hospital, club says One of the people attacked during a mass stabbing on a busy train in Cambridgeshire has been named as the Scunthorpe United footballer Jonathan Gjoshe. Gjoshe sustained non-life-threatening injuries and remains in hospital, the club said. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2025/nov/03/scunthorpe-united-footballer-jonathan-gjoshe-injured-in-cambridgeshire-train-stabbing-huntingdon",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-11-03T17:29:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1166,24 +1148,6 @@
       "url": "https://www.straitstimes.com/world/middle-east/Tunisian-bank-staff-strike-over-wages-halting-transactions",
       "source": "The Straits Times World News",
       "published_at": "2025-11-03T16:07:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c4a550925d3b9ae7",
-      "title_orig": "Two men accused of plotting terror attacks at LGBTQ+ bars in the Detroit area",
-      "summary_orig": "Two men have been charged with terrorism-related crimes in the Detroit area after federal authorities made arrests and seized a cache of weapons.",
-      "lang": "en",
-      "title_en": "Two men accused of plotting terror attacks at LGBTQ+ bars in the Detroit area",
-      "summary_en": "Two men have been charged with terrorism-related crimes in the Detroit area after federal authorities made arrests and seized a cache of weapons.",
-      "title": "Two men accused of plotting terror attacks at LGBTQ+ bars in the Detroit area",
-      "summary": "Two men have been charged with terrorism-related crimes in the Detroit area after federal authorities made arrests and seized a cache of weapons.",
-      "url": "https://www.seattletimes.com/nation-world/nation/two-men-charged-in-detroit-area-terrorism-plot-after-halloween-arrests/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-11-03T16:06:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2829,32 +2793,14 @@
       "geo": {}
     },
     {
-      "id": "b95ac6ae4b187e6b",
-      "title_orig": "Peterborough train driver's humble words after saving lives in Huntingdon stabbing",
-      "summary_orig": "Andrew Johnson, from Peterborough, diverted the Peterborough to London Kings Cross train to Huntingdon as soon as he was alerted of a knifeman attacking passengers",
-      "lang": "en",
-      "title_en": "Peterborough train driver's humble words after saving lives in Huntingdon stabbing",
-      "summary_en": "Andrew Johnson, from Peterborough, diverted the Peterborough to London Kings Cross train to Huntingdon as soon as he was alerted of a knifeman attacking passengers",
-      "title": "Peterborough train driver's humble words after saving lives in Huntingdon stabbing",
-      "summary": "Andrew Johnson, from Peterborough, diverted the Peterborough to London Kings Cross train to Huntingdon as soon as he was alerted of a knifeman attacking passengers",
-      "url": "https://www.cambridge-news.co.uk/news/local-news/peterborough-train-drivers-humble-words-32799493",
-      "source": "Cambridgeshire Live - Home",
-      "published_at": "2025-11-03T07:58:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7f84b71aac242125",
-      "title_orig": "Man charged with 10 counts of attempted murder after knife attack on British train",
-      "summary_orig": "The attack left 11 people injured.",
+      "title_orig": "Man accused of UK train attack charged with 11 counts of attempted murder",
+      "summary_orig": "Eleven people were injured in the mass stabbing on a London-bound train.",
       "lang": "en",
-      "title_en": "Man charged with 10 counts of attempted murder after knife attack on British train",
-      "summary_en": "The attack left 11 people injured.",
-      "title": "Man charged with 10 counts of attempted murder after knife attack on British train",
-      "summary": "The attack left 11 people injured.",
+      "title_en": "Man accused of UK train attack charged with 11 counts of attempted murder",
+      "summary_en": "Eleven people were injured in the mass stabbing on a London-bound train.",
+      "title": "Man accused of UK train attack charged with 11 counts of attempted murder",
+      "summary": "Eleven people were injured in the mass stabbing on a London-bound train.",
       "url": "https://www.straitstimes.com/world/europe/british-train-stabbing-suspect-not-known-to-counter-terrorism-police-minister-says",
       "source": "The Straits Times World News",
       "published_at": "2025-11-03T07:37:11+00:00",
@@ -3666,24 +3612,6 @@
       "geo": {}
     },
     {
-      "id": "bf063d03422a5a3f",
-      "title_orig": "Hurricane Melissa: drone footage captures widespread destruction across the Caribbean",
-      "summary_orig": "Days of torrential rain and flooding from Hurricane Melissa have devastated parts of the Caribbean, displacing families and disrupting essential services across Jamaica, Cuba, Haiti and the Dominican Republic.",
-      "lang": "en",
-      "title_en": "Hurricane Melissa: drone footage captures widespread destruction across the Caribbean",
-      "summary_en": "Days of torrential rain and flooding from Hurricane Melissa have devastated parts of the Caribbean, displacing families and disrupting essential services across Jamaica, Cuba, Haiti and the Dominican Republic.",
-      "title": "Hurricane Melissa: drone footage captures widespread destruction across the Caribbean",
-      "summary": "Days of torrential rain and flooding from Hurricane Melissa have devastated parts of the Caribbean, displacing families and disrupting essential services across Jamaica, Cuba, Haiti and the Dominican Republic.",
-      "url": "http://www.euronews.com/video/2025/11/01/hurricane-melissa-drone-footage-captures-widespread-destruction-across-the-caribbean",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-11-01T07:32:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "962794e41eae80f9",
       "title_orig": "Flights resume at Berlin airport after drone scare",
       "summary_orig": "Flights were suspended for almost two hours at Berlin Brandenburg Airport on Friday due to sightings of unidentified drones, the latest in a series of similar scares across Europe, an airport spokesman told AFP.",
@@ -3974,6 +3902,42 @@
       "url": "https://runwaygirlnetwork.com/2025/10/fort-worth-economic-development-soars-including-in-aerospace/",
       "source": "Runway Girl",
       "published_at": "2025-10-30T11:58:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "74d96c3cee04f084",
+      "title_orig": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
+      "summary_orig": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
+      "lang": "en",
+      "title_en": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
+      "summary_en": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
+      "title": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
+      "summary": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
+      "url": "https://www.arabnews.com/node/2620879/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-10-30T01:10:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "898f45ccb36c14f8",
+      "title_orig": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
+      "summary_orig": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
+      "lang": "en",
+      "title_en": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
+      "summary_en": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
+      "title": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
+      "summary": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
+      "url": "https://www.arabnews.com/node/2620881/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-10-30T01:10:04+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4296,24 +4260,6 @@
       "geo": {}
     },
     {
-      "id": "b27a39d09c3d0ada",
-      "title_orig": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary_orig": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "lang": "en",
-      "title_en": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary_en": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "url": "https://www.arabnews.com/node/2619787/world",
-      "source": "ArabNews",
-      "published_at": "2025-10-22T09:10:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "038e52e2f0f1b26e",
       "title_orig": "EXCLUSIVE: Why getting Spain's Non-Lucrative Visa is now more difficult",
       "summary_orig": "Interested in moving to Spain with the help of the Non-Lucrative Visa? The Local Spain spoke to a Spanish immigration lawyer about how consulates are now asking for more documentary proof from applicants, making the process considerably harder.",
@@ -4327,24 +4273,6 @@
       "published_at": "2025-10-22T07:45:13+00:00",
       "tags": [
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2023691e576df8b7",
-      "title_orig": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary_orig": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "lang": "en",
-      "title_en": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary_en": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "title": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "url": "https://www.arabnews.com/node/2619795/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-10-21T22:10:29+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
