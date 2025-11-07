@@ -1,18 +1,81 @@
 {
-  "generated_at": "2025-11-07T04:50:16.237153+00:00",
+  "generated_at": "2025-11-07T05:21:03.926907+00:00",
   "items": [
     {
-      "id": "dc211a7dee49cd0f",
+      "id": "b101169ff78d4db1",
+      "title_orig": "Major flight cancellations hit airports as Trump administration cuts services over government shutdown",
+      "summary_orig": "By midnight Thursday over 800 flights within and in and out of the U.S. had already been canceled for Friday",
+      "lang": "en",
+      "title_en": "Major flight cancellations hit airports as Trump administration cuts services over government shutdown",
+      "summary_en": "By midnight Thursday over 800 flights within and in and out of the U.S. had already been canceled for Friday",
+      "title": "Major flight cancellations hit airports as Trump administration cuts services over government shutdown",
+      "summary": "By midnight Thursday over 800 flights within and in and out of the U.S. had already been canceled for Friday",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/government-shutdown-flights-airports-faa-b2860408.html",
+      "source": "The Independent World",
+      "published_at": "2025-11-07T05:05:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9b2ee0a69da0bbf2",
+      "title_orig": "Delhi airport ops hit: What Air India, IndiGo and SpiceJet advised passengers amid multiple flight delays",
+      "summary_orig": "The Delhi airport has urged passengers to contact their respective airlines for latest updates, and airlines have also issued advisories for the passengers.",
+      "lang": "en",
+      "title_en": "Delhi airport ops hit: What Air India, IndiGo and SpiceJet advised passengers amid multiple flight delays",
+      "summary_en": "The Delhi airport has urged passengers to contact their respective airlines for latest updates, and airlines have also issued advisories for the passengers.",
+      "title": "Delhi airport ops hit: What Air India, IndiGo and SpiceJet advised passengers amid multiple flight delays",
+      "summary": "The Delhi airport has urged passengers to contact their respective airlines for latest updates, and airlines have also issued advisories for the passengers.",
+      "url": "https://www.hindustantimes.com/india-news/flight-operations-hit-at-delhi-airport-what-air-india-indigo-spicejet-told-passengers-amid-multiple-flight-delays-101762490439928.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-11-07T04:57:44+00:00",
+      "tags": [
+        "DEL",
+        "India",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Indira Gandhi",
+        "city": "Delhi",
+        "country": "India",
+        "iata": "DEL",
+        "lat": 28.5562,
+        "lon": 77.1
+      }
+    },
+    {
+      "id": "7f5f7d1a45d26266",
       "title_orig": "Multiple people at US military base fall ill after suspicious package delivered, CNN reports",
-      "summary_orig": "A suspicious package was delivered to a U.S. military base in Maryland, which caused multiple people to fall ill and led to several being taken to hospital, CNN reported on Thursday.",
+      "summary_orig": "Several people were reportedly transported to a medical centre on the base.",
       "lang": "en",
       "title_en": "Multiple people at US military base fall ill after suspicious package delivered, CNN reports",
-      "summary_en": "A suspicious package was delivered to a U.S. military base in Maryland, which caused multiple people to fall ill and led to several being taken to hospital, CNN reported on Thursday.",
+      "summary_en": "Several people were reportedly transported to a medical centre on the base.",
       "title": "Multiple people at US military base fall ill after suspicious package delivered, CNN reports",
-      "summary": "A suspicious package was delivered to a U.S. military base in Maryland, which caused multiple people to fall ill and led to several being taken to hospital, CNN reported on Thursday.",
-      "url": "https://www.straitstimes.com/world/multiple-people-at-us-military-base-fall-ill-after-suspicious-package-delivered-cnn-reports",
+      "summary": "Several people were reportedly transported to a medical centre on the base.",
+      "url": "https://www.straitstimes.com/world/united-states/multiple-people-at-us-military-base-fall-ill-after-suspicious-package-delivered-cnn-reports",
       "source": "The Straits Times World News",
-      "published_at": "2025-11-07T04:45:45+00:00",
+      "published_at": "2025-11-07T04:45:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3f481f067106ab10",
+      "title_orig": "Departamento de Guerra realiza nuevo ataque contra buque en el Pacífico",
+      "summary_orig": "El Departamento de Guerra, por orden del presidente Donald Trump, llevó a cabo este jueves el ataque número 17 contra…",
+      "lang": "es",
+      "title_en": "War Department carries out new attack against ship in the Pacific",
+      "summary_en": "The War Department, by order of President Donald Trump, carried out the 17th attack on…",
+      "title": "War Department carries out new attack against ship in the Pacific",
+      "summary": "The War Department, by order of President Donald Trump, carried out the 17th attack on…",
+      "url": "https://www.telemundowashingtondc.com/noticias/local/departamento-guerra-realiza-otro-ataque-buque-pacifico/2353291/",
+      "source": "WTOP News",
+      "published_at": "2025-11-07T04:29:58+00:00",
       "tags": [
         "airport/security"
       ],
@@ -164,17 +227,17 @@
       "geo": {}
     },
     {
-      "id": "b101169ff78d4db1",
-      "title_orig": "Flight cancellations start to soar as airports comply with cuts over government shutdown",
-      "summary_orig": "By Thursday evening there had already been around 200 cancellations within and in and out of the U.S.",
+      "id": "6e2bed155ba804d0",
+      "title_orig": "Trump administration announces 17th deadly strike on an alleged drug boat",
+      "summary_orig": "Defense Secretary Pete Hegseth has announced another deadly U.S. strike on a boat he said was trafficking narcotics in the Caribbean Sea.",
       "lang": "en",
-      "title_en": "Flight cancellations start to soar as airports comply with cuts over government shutdown",
-      "summary_en": "By Thursday evening there had already been around 200 cancellations within and in and out of the U.S.",
-      "title": "Flight cancellations start to soar as airports comply with cuts over government shutdown",
-      "summary": "By Thursday evening there had already been around 200 cancellations within and in and out of the U.S.",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/government-shutdown-flights-airports-faa-b2860408.html",
-      "source": "The Independent World",
-      "published_at": "2025-11-07T03:50:56+00:00",
+      "title_en": "Trump administration announces 17th deadly strike on an alleged drug boat",
+      "summary_en": "Defense Secretary Pete Hegseth has announced another deadly U.S. strike on a boat he said was trafficking narcotics in the Caribbean Sea.",
+      "title": "Trump administration announces 17th deadly strike on an alleged drug boat",
+      "summary": "Defense Secretary Pete Hegseth has announced another deadly U.S. strike on a boat he said was trafficking narcotics in the Caribbean Sea.",
+      "url": "https://www.seattletimes.com/nation-world/nation/trump-administration-announces-17th-deadly-strike-on-an-alleged-drug-boat/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-11-07T03:57:04+00:00",
       "tags": [
         "airport/security"
       ],
@@ -219,12 +282,12 @@
     },
     {
       "id": "ea0d0a929d620725",
-      "title_orig": "Delhi airport ops hit over air traffic control glitch, over 150 flights hit",
+      "title_orig": "Delhi airport ops hit over air traffic control glitch, over 150 flights delayed",
       "summary_orig": "The disruption stemmed from a malfunction in the Automatic Message Switching System (AMSS), which feeds crucial flight plan data to the Auto Track System (ATS).",
       "lang": "en",
-      "title_en": "Delhi airport ops hit over air traffic control glitch, over 150 flights hit",
+      "title_en": "Delhi airport ops hit over air traffic control glitch, over 150 flights delayed",
       "summary_en": "The disruption stemmed from a malfunction in the Automatic Message Switching System (AMSS), which feeds crucial flight plan data to the Auto Track System (ATS).",
-      "title": "Delhi airport ops hit over air traffic control glitch, over 150 flights hit",
+      "title": "Delhi airport ops hit over air traffic control glitch, over 150 flights delayed",
       "summary": "The disruption stemmed from a malfunction in the Automatic Message Switching System (AMSS), which feeds crucial flight plan data to the Auto Track System (ATS).",
       "url": "https://www.hindustantimes.com/india-news/delhi-airport-operations-flight-delays-air-traffic-control-glitch-passengers-advisory-updates-101762486571152.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
@@ -245,24 +308,6 @@
       }
     },
     {
-      "id": "34cf335105023f9a",
-      "title_orig": "Fuerzas Armadas de EE.UU. atacan otro barco en el Caribe, dejando 3 personas muertas",
-      "summary_orig": "Las Fuerzas Armadas de Estados Unidos llevaron a cabo un ataque contra una embarcación en el Caribe este jueves, matando…",
-      "lang": "es",
-      "title_en": "US Armed Forces attack another ship in the Caribbean, leaving 3 people dead",
-      "summary_en": "The United States Armed Forces carried out an attack against a vessel in the Caribbean this Thursday, killing…",
-      "title": "US Armed Forces attack another ship in the Caribbean, leaving 3 people dead",
-      "summary": "The United States Armed Forces carried out an attack against a vessel in the Caribbean this Thursday, killing…",
-      "url": "https://wtop.com/news/2025/11/fuerzas-armadas-de-ee-uu-atacan-otro-barco-en-el-caribe-dejando-3-personas-muertas/",
-      "source": "WTOP News",
-      "published_at": "2025-11-07T03:39:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8df93a0204587066",
       "title_orig": "Mediators propose deal to get Hamas fighters out of Rafah",
       "summary_orig": "• The Egyptian proposal envisages ‘safe passage’ for the fighters still in Gaza’s ‘Israeli zone’ • Israeli forces kill teenager in occupied West Bank CAIRO: Hamas fighters holed up in the Israeli-held Rafah area of Gaza would surrender their arms in exchange for passage to other areas of the enclave under a proposal to resolve an issue seen as a risk to the month-old truce, according to sources familiar with the talks. Since the US-brokered ceasefire took effect in Gaza on Oct 10, the Rafah area has been the scene of two attacks on Israeli forces. Hamas has denied responsibility. Egyptian mediators have proposed that, in exchange for safe passage, fighters still in Rafah surrender their arms to Egypt and give “details of tunnels” there so they can be destroyed, an Egyptian security official said. Israel and Hamas have yet to accept mediators’ proposals, the sources said. They confirmed that talks on the issue were underway. The Israeli prime minister’s office did not immediately respond to a request for comment on the accounts; Hazem Qassem, a Hamas spokesperson in Gaza, declined to comment. The attacks in Rafah left three Israeli soldiers dead. Subsequent Israeli strikes killed an unspecified number of Palestinians. ‘Unaware’ of ceasefire The sources said the Hamas fighters in Rafah, which the group’s armed wing has said have been out of contact since March, might be unaware that a ceasefire was in place. The ceasefire is the first part of President Donald Trump’s plan to end the Gaza conflict. Hamas has released the last 20 living Israeli prisoners seized in the Oct 7, 2023, raid in exchange for nearly 2,000 Palestinian prisoners; Israeli troops have withdrawn from western areas of Gaza, where Hamas remains in control. Details of the next phase of Trump’s plan, which requires Hamas to disarm and give up control of Gaza, have yet to be agreed. The plan foresees Gaza being governed by a technocratic Palestinian committee with international supervision, and the deployment of an international force. Since the ceasefire, Hamas has handed over the bodies of 22 of 28 deceased prisoners. Hamas has said the devastation in Gaza has made locating the bodies difficult. Israel has released to Gaza the bodies of 285 Palestinians. Israeli forces kill teenager The Palestinian health ministry said on Thursday that Israeli troops shot dead a teenager in the occupied West Bank. The Ramallah-based ministry identified the 15-year-old as Murad Saifin, who had been killed late on Wednesday. The ministry said the incident took place in the town of Al Yamun, west of Jenin. Late on Wednesday the Israeli military said its troops had killed a militant in the area of Al Yamun. In a separate incident, the Palestinian Authority reported the death of an elderly woman from a heart attack when Israeli forces raided her home on Thursday. The PA’s media office identified the woman as Haniya Hanoun, and said she was pushed around by soldiers who had come to arrest her grandson in their home near Ramallah. Violence in the West Bank, which Israel has occupied since 1967, has soared since the conflict in Gaza broke out in Oct 2023. One thousand Palestinians have been killed in the occupied territory by Israeli forces or settlers over the last two years. During the same period, 43 Israelis have been killed in occupied West Bank. Published in Dawn, November 7th, 2025",
@@ -274,42 +319,6 @@
       "url": "https://www.dawn.com/news/1953626/mediators-propose-deal-to-get-hamas-fighters-out-of-rafah",
       "source": "Dawn - Home",
       "published_at": "2025-11-07T03:36:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6fc8ce05a38b65a3",
-      "title_orig": "These are the airports that will reduce flights during the government shutdown",
-      "summary_orig": "The Federal Aviation Administration is forcing airlines to cut 10% of their flights at 40 of the busiest airports across the nation. Here they are.",
-      "lang": "en",
-      "title_en": "These are the airports that will reduce flights during the government shutdown",
-      "summary_en": "The Federal Aviation Administration is forcing airlines to cut 10% of their flights at 40 of the busiest airports across the nation. Here they are.",
-      "title": "These are the airports that will reduce flights during the government shutdown",
-      "summary": "The Federal Aviation Administration is forcing airlines to cut 10% of their flights at 40 of the busiest airports across the nation. Here they are.",
-      "url": "https://wtop.com/national/2025/11/these-are-the-airports-that-will-reduce-flights-during-the-government-shutdown/",
-      "source": "WTOP News",
-      "published_at": "2025-11-07T03:36:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5b6d347aa0aba897",
-      "title_orig": "US flight cancellations accelerate as airlines comply with government shutdown order",
-      "summary_orig": "U.S. airlines began canceling hundreds of flights Thursday due to the Federal Aviation Administration’s order to reduce traffic at the country’s busiest airports starting Friday because of the government shutdown.",
-      "lang": "en",
-      "title_en": "US flight cancellations accelerate as airlines comply with government shutdown order",
-      "summary_en": "U.S. airlines began canceling hundreds of flights Thursday due to the Federal Aviation Administration’s order to reduce traffic at the country’s busiest airports starting Friday because of the government shutdown.",
-      "title": "US flight cancellations accelerate as airlines comply with government shutdown order",
-      "summary": "U.S. airlines began canceling hundreds of flights Thursday due to the Federal Aviation Administration’s order to reduce traffic at the country’s busiest airports starting Friday because of the government shutdown.",
-      "url": "https://wtop.com/national/2025/11/faa-readies-to-list-airports-getting-reduced-flights-during-the-government-shutdown/",
-      "source": "WTOP News",
-      "published_at": "2025-11-07T03:32:35+00:00",
       "tags": [
         "airport/security"
       ],
@@ -364,24 +373,6 @@
       "url": "https://www.cambridge-news.co.uk/news/local-news/airline-refuses-refund-huntingdon-train-32826714",
       "source": "Cambridgeshire Live - Home",
       "published_at": "2025-11-07T03:09:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e092cc2c3afb0a79",
-      "title_orig": "Flight cancellations hit airports as Trump administration cuts services over government shutdown: Live updates",
-      "summary_orig": "More than 650 flights within, into or out of the U.S. have been canceled for Friday",
-      "lang": "en",
-      "title_en": "Flight cancellations hit airports as Trump administration cuts services over government shutdown: Live updates",
-      "summary_en": "More than 650 flights within, into or out of the U.S. have been canceled for Friday",
-      "title": "Flight cancellations hit airports as Trump administration cuts services over government shutdown: Live updates",
-      "summary": "More than 650 flights within, into or out of the U.S. have been canceled for Friday",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-live-updates-press-conference-b2860234.html",
-      "source": "The Independent World",
-      "published_at": "2025-11-07T03:04:39+00:00",
       "tags": [
         "airport/security"
       ],
@@ -731,6 +722,24 @@
       "geo": {}
     },
     {
+      "id": "bb5c09d36686087e",
+      "title_orig": "As Republicans retire Pelosi from attack ads, they eye a new villain | Analysis",
+      "summary_orig": "Nancy Pelosi is out, and Zohran Mamdani is in. Or so Republicans hope.",
+      "lang": "en",
+      "title_en": "As Republicans retire Pelosi from attack ads, they eye a new villain | Analysis",
+      "summary_en": "Nancy Pelosi is out, and Zohran Mamdani is in. Or so Republicans hope.",
+      "title": "As Republicans retire Pelosi from attack ads, they eye a new villain | Analysis",
+      "summary": "Nancy Pelosi is out, and Zohran Mamdani is in. Or so Republicans hope.",
+      "url": "https://www.seattletimes.com/nation-world/as-republicans-retire-pelosi-from-attack-ads-they-eye-a-new-villain-analysis/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-11-07T00:38:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "00ae841afb2b5e35",
       "title_orig": "UPS identifies pilots on plane that crashed in Louisville",
       "summary_orig": "At least 13 people were killed after a UPS cargo plane crashed after departing Louisville's international airport Tuesday.",
@@ -814,24 +823,6 @@
       "url": "https://www.oregonlive.com/portland/2025/11/will-your-portland-flight-be-canceled-due-to-the-government-shutdown.html",
       "source": "oregonlive.com",
       "published_at": "2025-11-06T23:17:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d05d249f986d538a",
-      "title_orig": "Moose attacks woman walking dog in Boulder County",
-      "summary_orig": "A woman was taken to the hospital after she was attacked by a moose while she was walking her dog west of Jamestown on Wednesday afternoon.",
-      "lang": "en",
-      "title_en": "Moose attacks woman walking dog in Boulder County",
-      "summary_en": "A woman was taken to the hospital after she was attacked by a moose while she was walking her dog west of Jamestown on Wednesday afternoon.",
-      "title": "Moose attacks woman walking dog in Boulder County",
-      "summary": "A woman was taken to the hospital after she was attacked by a moose while she was walking her dog west of Jamestown on Wednesday afternoon.",
-      "url": "https://www.denverpost.com/2025/11/06/moose-attack-boulder-county/",
-      "source": "The Denver Post",
-      "published_at": "2025-11-06T23:15:50+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1955,24 +1946,6 @@
       "geo": {}
     },
     {
-      "id": "7905e80d4fedda4f",
-      "title_orig": "American Airlines sends message to Trump over flight cuts at 40 US airports",
-      "summary_orig": "The Trump administration is planning to cut 10% of air travel capacity at 40 of the country's busiest airports— a move that analysts say will force airlines to cancel thousands of flights, affecting hundreds of thousands of passengers.",
-      "lang": "en",
-      "title_en": "American Airlines sends message to Trump over flight cuts at 40 US airports",
-      "summary_en": "The Trump administration is planning to cut 10% of air travel capacity at 40 of the country's busiest airports— a move that analysts say will force airlines to cancel thousands of flights, affecting hundreds of thousands of passengers.",
-      "title": "American Airlines sends message to Trump over flight cuts at 40 US airports",
-      "summary": "The Trump administration is planning to cut 10% of air travel capacity at 40 of the country's busiest airports— a move that analysts say will force airlines to cancel thousands of flights, affecting hundreds of thousands of passengers.",
-      "url": "https://metro.co.uk/2025/11/06/american-airlines-sends-message-trump-flight-cuts-40-major-us-airports-24636297/",
-      "source": "Metro",
-      "published_at": "2025-11-06T16:23:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c5b34df1de1faee6",
       "title_orig": "Ukrainians ‘live with danger every day, but refuse to give in’, Angelina Jolie says in Kherson visit",
       "summary_orig": "Angelina Jolie visited Mykolaiv and Kherson — some of Ukraine’s most dangerous southern frontline regions, where civilians describe daily Russian drone attacks as \"human safari\".",
@@ -2504,24 +2477,6 @@
       "geo": {}
     },
     {
-      "id": "c030f2feefb65d39",
-      "title_orig": "‘Drone wall’: how Nato is plugging the Russian airspace gap",
-      "summary_orig": "Poland and Romania are deploying a new weapons system to defend against Russian drones, following a spate of incursions into Nato airspace in recent months that exposed the alliance’s vulnerabilities and put Europe on edge.\nThe American Merops system, which is small enough to fit in the back of a midsize pickup truck, can identify drones and close in on them, using artificial intelligence to navigate when satellite and electronic communications are jammed.\nAs well as being deployed in Poland and...",
-      "lang": "en",
-      "title_en": "‘Drone wall’: how Nato is plugging the Russian airspace gap",
-      "summary_en": "Poland and Romania are deploying a new weapons system to defend against Russian drones, following a spate of incursions into Nato airspace in recent months that exposed the alliance’s vulnerabilities and put Europe on edge.\nThe American Merops system, which is small enough to fit in the back of a midsize pickup truck, can identify drones and close in on them, using artificial intelligence to navigate when satellite and electronic communications are jammed.\nAs well as being deployed in Poland and...",
-      "title": "‘Drone wall’: how Nato is plugging the Russian airspace gap",
-      "summary": "Poland and Romania are deploying a new weapons system to defend against Russian drones, following a spate of incursions into Nato airspace in recent months that exposed the alliance’s vulnerabilities and put Europe on edge.\nThe American Merops system, which is small enough to fit in the back of a midsize pickup truck, can identify drones and close in on them, using artificial intelligence to navigate when satellite and electronic communications are jammed.\nAs well as being deployed in Poland and...",
-      "url": "https://www.scmp.com/news/world/europe/article/3331808/nato-deploys-new-system-detect-russian-drone-incursions-defend-poland-and-romania?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-11-06T11:20:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8f252a5ec08652fe",
       "title_orig": "'I like him': Celtic starlet denied international chance after change in rules",
       "summary_orig": "Striker has been on the radar",
@@ -2645,24 +2600,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "2b8e6e245a818854",
-      "title_orig": "Brave dad says stabbings suspect tried to get in his car after Huntingdon train attack",
-      "summary_orig": "The suspected knifeman was then arrested directly in front of the father's car. His car remained within the cordon while police investigated the attack.",
-      "lang": "en",
-      "title_en": "Brave dad says stabbings suspect tried to get in his car after Huntingdon train attack",
-      "summary_en": "The suspected knifeman was then arrested directly in front of the father's car. His car remained within the cordon while police investigated the attack.",
-      "title": "Brave dad says stabbings suspect tried to get in his car after Huntingdon train attack",
-      "summary": "The suspected knifeman was then arrested directly in front of the father's car. His car remained within the cordon while police investigated the attack.",
-      "url": "https://www.cambridge-news.co.uk/news/local-news/brave-dad-says-stabbings-suspect-32820976",
-      "source": "Cambridgeshire Live - Home",
-      "published_at": "2025-11-06T08:06:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -3584,6 +3521,42 @@
       "geo": {}
     },
     {
+      "id": "74d96c3cee04f084",
+      "title_orig": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
+      "summary_orig": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
+      "lang": "en",
+      "title_en": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
+      "summary_en": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
+      "title": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
+      "summary": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
+      "url": "https://www.arabnews.com/node/2620879/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-10-30T01:10:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "898f45ccb36c14f8",
+      "title_orig": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
+      "summary_orig": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
+      "lang": "en",
+      "title_en": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
+      "summary_en": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
+      "title": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
+      "summary": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
+      "url": "https://www.arabnews.com/node/2620881/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-10-30T01:10:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "d2c05ae28ec02a7b",
       "title_orig": "Mexican president condemns U.S. strikes that killed 14 alleged drug traffickers",
       "summary_orig": "The Trump administration said Tuesday that it had attacked four vessels off what Mexico said was its Pacific coast, a move condemned by Mexican President Claudia Sheinbaum.",
@@ -3667,42 +3640,6 @@
       "url": "https://www.thelocal.it/20251022/the-transport-strikes-to-expect-in-italy-in-november-2025",
       "source": "The Local Italy",
       "published_at": "2025-10-22T13:01:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b27a39d09c3d0ada",
-      "title_orig": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary_orig": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "lang": "en",
-      "title_en": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary_en": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "url": "https://www.arabnews.com/node/2619787/world",
-      "source": "ArabNews",
-      "published_at": "2025-10-22T09:10:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2023691e576df8b7",
-      "title_orig": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary_orig": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "lang": "en",
-      "title_en": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary_en": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "title": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "url": "https://www.arabnews.com/node/2619795/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-10-21T22:10:29+00:00",
       "tags": [
         "airport/security"
       ],
