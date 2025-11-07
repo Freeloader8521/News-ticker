@@ -1,18 +1,81 @@
 {
-  "generated_at": "2025-11-07T05:21:03.926907+00:00",
+  "generated_at": "2025-11-07T05:47:57.555551+00:00",
   "items": [
+    {
+      "id": "40ec3976550d67b2",
+      "title_orig": "Trump has accused boat crews of being narco-terrorists. The truth, AP found, is more nuanced",
+      "summary_orig": "GÜIRIA, Venezuela (AP) — One was a fisherman struggling to eke out a living on $100 a month. Another was a career…",
+      "lang": "en",
+      "title_en": "Trump has accused boat crews of being narco-terrorists. The truth, AP found, is more nuanced",
+      "summary_en": "GÜIRIA, Venezuela (AP) — One was a fisherman struggling to eke out a living on $100 a month. Another was a career…",
+      "title": "Trump has accused boat crews of being narco-terrorists. The truth, AP found, is more nuanced",
+      "summary": "GÜIRIA, Venezuela (AP) — One was a fisherman struggling to eke out a living on $100 a month. Another was a career…",
+      "url": "https://wtop.com/world/2025/11/trump-has-accused-boat-crews-of-being-narco-terrorists-the-truth-ap-found-is-more-nuanced/",
+      "source": "WTOP News",
+      "published_at": "2025-11-07T05:26:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7dc0cae1aadf91b6",
+      "title_orig": "Delhi Airport flight status Live Updates: Tech glitch hits ops, over 150 flights delayed",
+      "summary_orig": "Delhi airport flight status live updates: More than 150 flights were delayed at Delhi’s Indira Gandhi International Airport on Friday due to a technical fault in the Air Traffic Control system. Major airlines, including IndiGo, Air India and SpiceJet, said their services were affected.",
+      "lang": "en",
+      "title_en": "Delhi Airport flight status Live Updates: Tech glitch hits ops, over 150 flights delayed",
+      "summary_en": "Delhi airport flight status live updates: More than 150 flights were delayed at Delhi’s Indira Gandhi International Airport on Friday due to a technical fault in the Air Traffic Control system. Major airlines, including IndiGo, Air India and SpiceJet, said their services were affected.",
+      "title": "Delhi Airport flight status Live Updates: Tech glitch hits ops, over 150 flights delayed",
+      "summary": "Delhi airport flight status live updates: More than 150 flights were delayed at Delhi’s Indira Gandhi International Airport on Friday due to a technical fault in the Air Traffic Control system. Major airlines, including IndiGo, Air India and SpiceJet, said their services were affected.",
+      "url": "https://www.hindustantimes.com/india-news/delhi-igi-airport-flight-status-live-updates-technical-fault-indigo-air-india-spicejet-flight-delays-terminal-news-101762491974543.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-11-07T05:26:45+00:00",
+      "tags": [
+        "DEL",
+        "India",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Indira Gandhi",
+        "city": "Delhi",
+        "country": "India",
+        "iata": "DEL",
+        "lat": 28.5562,
+        "lon": 77.1
+      }
+    },
+    {
+      "id": "d7811777822451a0",
+      "title_orig": "Farmer killed in tiger attack in Mysuru district, third such case in Saragur taluk in as many weeks",
+      "summary_orig": "Prabhakaran, Deputy Conservator of Forests, Bandipur Tiger Reserve, said the village is at an aerial distance of 6 to 7 km from the site of the previously reported tiger attack",
+      "lang": "en",
+      "title_en": "Farmer killed in tiger attack in Mysuru district, third such case in Saragur taluk in as many weeks",
+      "summary_en": "Prabhakaran, Deputy Conservator of Forests, Bandipur Tiger Reserve, said the village is at an aerial distance of 6 to 7 km from the site of the previously reported tiger attack",
+      "title": "Farmer killed in tiger attack in Mysuru district, third such case in Saragur taluk in as many weeks",
+      "summary": "Prabhakaran, Deputy Conservator of Forests, Bandipur Tiger Reserve, said the village is at an aerial distance of 6 to 7 km from the site of the previously reported tiger attack",
+      "url": "https://www.thehindu.com/news/national/karnataka/farmer-killed-in-tiger-attack-in-mysuru-district-third-such-case-in-saragur-taluk-in-as-many-weeks/article70251300.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-11-07T05:17:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "b101169ff78d4db1",
       "title_orig": "Major flight cancellations hit airports as Trump administration cuts services over government shutdown",
-      "summary_orig": "By midnight Thursday over 800 flights within and in and out of the U.S. had already been canceled for Friday",
+      "summary_orig": "By late Thursday over 800 flights within and in and out of the U.S. had already been canceled for Friday",
       "lang": "en",
       "title_en": "Major flight cancellations hit airports as Trump administration cuts services over government shutdown",
-      "summary_en": "By midnight Thursday over 800 flights within and in and out of the U.S. had already been canceled for Friday",
+      "summary_en": "By late Thursday over 800 flights within and in and out of the U.S. had already been canceled for Friday",
       "title": "Major flight cancellations hit airports as Trump administration cuts services over government shutdown",
-      "summary": "By midnight Thursday over 800 flights within and in and out of the U.S. had already been canceled for Friday",
+      "summary": "By late Thursday over 800 flights within and in and out of the U.S. had already been canceled for Friday",
       "url": "https://www.independent.co.uk/news/world/americas/us-politics/government-shutdown-flights-airports-faa-b2860408.html",
       "source": "The Independent World",
-      "published_at": "2025-11-07T05:05:24+00:00",
+      "published_at": "2025-11-07T05:14:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -58,24 +121,6 @@
       "url": "https://www.straitstimes.com/world/united-states/multiple-people-at-us-military-base-fall-ill-after-suspicious-package-delivered-cnn-reports",
       "source": "The Straits Times World News",
       "published_at": "2025-11-07T04:45:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3f481f067106ab10",
-      "title_orig": "Departamento de Guerra realiza nuevo ataque contra buque en el Pacífico",
-      "summary_orig": "El Departamento de Guerra, por orden del presidente Donald Trump, llevó a cabo este jueves el ataque número 17 contra…",
-      "lang": "es",
-      "title_en": "War Department carries out new attack against ship in the Pacific",
-      "summary_en": "The War Department, by order of President Donald Trump, carried out the 17th attack on…",
-      "title": "War Department carries out new attack against ship in the Pacific",
-      "summary": "The War Department, by order of President Donald Trump, carried out the 17th attack on…",
-      "url": "https://www.telemundowashingtondc.com/noticias/local/departamento-guerra-realiza-otro-ataque-buque-pacifico/2353291/",
-      "source": "WTOP News",
-      "published_at": "2025-11-07T04:29:58+00:00",
       "tags": [
         "airport/security"
       ],
@@ -220,24 +265,6 @@
       "url": "https://www.latimes.com/california/story/2025-11-06/california-district-attorney-uses-9-11-images-to-blast-mamdani",
       "source": "World & Nation",
       "published_at": "2025-11-07T03:58:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6e2bed155ba804d0",
-      "title_orig": "Trump administration announces 17th deadly strike on an alleged drug boat",
-      "summary_orig": "Defense Secretary Pete Hegseth has announced another deadly U.S. strike on a boat he said was trafficking narcotics in the Caribbean Sea.",
-      "lang": "en",
-      "title_en": "Trump administration announces 17th deadly strike on an alleged drug boat",
-      "summary_en": "Defense Secretary Pete Hegseth has announced another deadly U.S. strike on a boat he said was trafficking narcotics in the Caribbean Sea.",
-      "title": "Trump administration announces 17th deadly strike on an alleged drug boat",
-      "summary": "Defense Secretary Pete Hegseth has announced another deadly U.S. strike on a boat he said was trafficking narcotics in the Caribbean Sea.",
-      "url": "https://www.seattletimes.com/nation-world/nation/trump-administration-announces-17th-deadly-strike-on-an-alleged-drug-boat/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-11-07T03:57:04+00:00",
       "tags": [
         "airport/security"
       ],
@@ -560,24 +587,6 @@
       "geo": {}
     },
     {
-      "id": "fe29e99a5579fb3c",
-      "title_orig": "US preparing for 'weekend of chaos' amid widespread shutdown flight cuts",
-      "summary_orig": "As many as one in 10 domestic flight services are set to be cut from daily operations at 40 major US airports due to the ongoing government shutdown.",
-      "lang": "en",
-      "title_en": "US preparing for 'weekend of chaos' amid widespread shutdown flight cuts",
-      "summary_en": "As many as one in 10 domestic flight services are set to be cut from daily operations at 40 major US airports due to the ongoing government shutdown.",
-      "title": "US preparing for 'weekend of chaos' amid widespread shutdown flight cuts",
-      "summary": "As many as one in 10 domestic flight services are set to be cut from daily operations at 40 major US airports due to the ongoing government shutdown.",
-      "url": "https://www.abc.net.au/news/2025-11-07/us-domestic-flight-cuts-in-government-shutdown-explained/105978408",
-      "source": "Just In",
-      "published_at": "2025-11-07T01:43:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e499cbe426aa6125",
       "title_orig": "Busiest US airports to cut thousands of flights due to government shutdown",
       "summary_orig": "Flight capacity will be cut at major airports as air traffic controllers report issues with fatigue amid staff shortages.",
@@ -719,24 +728,6 @@
         "diplomatic"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "bb5c09d36686087e",
-      "title_orig": "As Republicans retire Pelosi from attack ads, they eye a new villain | Analysis",
-      "summary_orig": "Nancy Pelosi is out, and Zohran Mamdani is in. Or so Republicans hope.",
-      "lang": "en",
-      "title_en": "As Republicans retire Pelosi from attack ads, they eye a new villain | Analysis",
-      "summary_en": "Nancy Pelosi is out, and Zohran Mamdani is in. Or so Republicans hope.",
-      "title": "As Republicans retire Pelosi from attack ads, they eye a new villain | Analysis",
-      "summary": "Nancy Pelosi is out, and Zohran Mamdani is in. Or so Republicans hope.",
-      "url": "https://www.seattletimes.com/nation-world/as-republicans-retire-pelosi-from-attack-ads-they-eye-a-new-villain-analysis/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-11-07T00:38:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1079,24 +1070,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "c3010bbc5679d839",
-      "title_orig": "Portland schools go on lockdown due to immigration enforcement activity",
-      "summary_orig": "The district wrote to parents and staff that school leaders are developing dismissal plans to ensure students can return home safely this afternoon.",
-      "lang": "en",
-      "title_en": "Portland schools go on lockdown due to immigration enforcement activity",
-      "summary_en": "The district wrote to parents and staff that school leaders are developing dismissal plans to ensure students can return home safely this afternoon.",
-      "title": "Portland schools go on lockdown due to immigration enforcement activity",
-      "summary": "The district wrote to parents and staff that school leaders are developing dismissal plans to ensure students can return home safely this afternoon.",
-      "url": "https://www.oregonlive.com/news/2025/11/portland-schools-go-on-lockdown-due-to-immigration-enforcement-activity.html",
-      "source": "oregonlive.com",
-      "published_at": "2025-11-06T21:03:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1623,13 +1596,13 @@
     },
     {
       "id": "346c85a0000e7891",
-      "title_orig": "Watch | Coimbatore gang rape: A disturbing pattern behind sexual crimes",
-      "summary_orig": "A shocking gang rape of a college girl in Coimbatore has shaken Tamil Nadu is not an isolated crime. It’s part of a disturbing pattern — attacks on women seen in public with male companions, often involving offenders with a criminal past or even juveniles. Why do such crimes keep repeating?",
+      "title_orig": "Watch | Coimbatore gang rape: A disturbing pattern behind sexual crimes | Focus Tamil Nadu",
+      "summary_orig": "The gang rape of a college student in Coimbatore has shaken Tamil Nadu. It is not an isolated crime, but a part of a disturbing pattern — attacks on women seen in public with male companions, often involving offenders with a criminal past or even juveniles.",
       "lang": "en",
-      "title_en": "Watch | Coimbatore gang rape: A disturbing pattern behind sexual crimes",
-      "summary_en": "A shocking gang rape of a college girl in Coimbatore has shaken Tamil Nadu is not an isolated crime. It’s part of a disturbing pattern — attacks on women seen in public with male companions, often involving offenders with a criminal past or even juveniles. Why do such crimes keep repeating?",
-      "title": "Watch | Coimbatore gang rape: A disturbing pattern behind sexual crimes",
-      "summary": "A shocking gang rape of a college girl in Coimbatore has shaken Tamil Nadu is not an isolated crime. It’s part of a disturbing pattern — attacks on women seen in public with male companions, often involving offenders with a criminal past or even juveniles. Why do such crimes keep repeating?",
+      "title_en": "Watch | Coimbatore gang rape: A disturbing pattern behind sexual crimes | Focus Tamil Nadu",
+      "summary_en": "The gang rape of a college student in Coimbatore has shaken Tamil Nadu. It is not an isolated crime, but a part of a disturbing pattern — attacks on women seen in public with male companions, often involving offenders with a criminal past or even juveniles.",
+      "title": "Watch | Coimbatore gang rape: A disturbing pattern behind sexual crimes | Focus Tamil Nadu",
+      "summary": "The gang rape of a college student in Coimbatore has shaken Tamil Nadu. It is not an isolated crime, but a part of a disturbing pattern — attacks on women seen in public with male companions, often involving offenders with a criminal past or even juveniles.",
       "url": "https://www.thehindu.com/videos/watch-coimbatore-gang-rape-a-disturbing-pattern-behind-sexual-crimes/article70249875.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2025-11-06T17:42:06+00:00",
@@ -2108,24 +2081,6 @@
       "geo": {}
     },
     {
-      "id": "1cdc53b7277bebb3",
-      "title_orig": "Maccabi protestors prepare for 'chemical reaction of emotion' ahead of Birmingham protest",
-      "summary_orig": "'Show Israel the Red Card’ will take place at Aston Park ahead of tonight's match",
-      "lang": "en",
-      "title_en": "Maccabi protestors prepare for 'chemical reaction of emotion' ahead of Birmingham protest",
-      "summary_en": "'Show Israel the Red Card’ will take place at Aston Park ahead of tonight's match",
-      "title": "Maccabi protestors prepare for 'chemical reaction of emotion' ahead of Birmingham protest",
-      "summary": "'Show Israel the Red Card’ will take place at Aston Park ahead of tonight's match",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/maccabi-protestors-prepare-chemical-reaction-32824844",
-      "source": "Birmingham Live - News",
-      "published_at": "2025-11-06T15:11:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c7c7330d50fc894f",
       "title_orig": "Pirates board tanker off Somali coast after firing machine guns and RPGs",
       "summary_orig": "All 24 members of the crew are safe and accounted for, the shipping company responsible for the attacked vessel said",
@@ -2531,24 +2486,6 @@
       "geo": {}
     },
     {
-      "id": "380ebee39beb79e5",
-      "title_orig": "Bihar polls: Modi attacks RJD, Cong, accuses them of protecting infiltrators, stalling progress",
-      "summary_orig": "Prime Minister Narendra Modi addressed election rallies in Araria and Bhagalpur coinciding with the first phase of the assembly polls",
-      "lang": "en",
-      "title_en": "Bihar polls: Modi attacks RJD, Cong, accuses them of protecting infiltrators, stalling progress",
-      "summary_en": "Prime Minister Narendra Modi addressed election rallies in Araria and Bhagalpur coinciding with the first phase of the assembly polls",
-      "title": "Bihar polls: Modi attacks RJD, Cong, accuses them of protecting infiltrators, stalling progress",
-      "summary": "Prime Minister Narendra Modi addressed election rallies in Araria and Bhagalpur coinciding with the first phase of the assembly polls",
-      "url": "https://www.hindustantimes.com/india-news/modi-attacks-rjd-cong-accuses-them-of-protecting-infiltrators-stalling-progress-101762425913061.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-11-06T10:45:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3f521e52d2c14a81",
       "title_orig": "West Lothian fire crew 'attacked with projectiles' during Bonfire Night chaos",
       "summary_orig": "Over the course of an eight-hour period, crews responded to over 700 emergency calls. The SFRS has confirmed that two attacks against their crews were reported during this time",
@@ -2618,24 +2555,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "5f83d8c42c8bdde1",
-      "title_orig": "Trump continues to comment on Pakistan-India May conflict, now says ‘8 planes shot down essentially’",
-      "summary_orig": "Continuing to comment on the brief military conflict between Pakistan and India earlier this year, US President Donald Trump has now stated that eight planes were “essentially” shot down. “In eight months I ended eight wars, including Kosovo and Serbia, the Congo and Rwanda … Pakistan and India,” he said during a speech at the American Business Forum in Miami late on Wednesday. “I was in the midst of a trade deal with both of them. And then I read on the front page of a certain newspaper — I won’t mention the newspaper because it’s usually fake news — but I heard they are going to war. Eight planes, seven planes were shot down — an eighth was really badly wounded [sic]. But eight planes were shot down essentially,” he said. He reiterated his previous claims that he threatened not to make trade deals unless the two countries agreed to peace. “I’m not trading with you; we are not making any deals with you if you are at war with each other,” he said. “A day later, I get a call, ‘We made peace’. They stopped. I said, ‘Thank you, let’s trade’. Isn’t that great? Tariffs did that. Without tariffs that would have never happened.” The US president has previously stated on several occasions that five to seven planes were shot down during the May conflict between the two neighbouring countries. He had also reiterated his praise for Prime Minister Shehbaz Sharif and Chief of Army Staff Field Marshal Asum Munir, both of whom he met in Washington in September. Just last month, he had said that seven “brand-new, beautiful planes were shot down” during the brief military escalation between Pakistan and India. India has differed with Trump’s claims that the ceasefire between the two countries resulted from his intervention and his threats to sever trade talks. The May conflict between Pakistan and India was sparked by an attack on Hindu tourists in occupied Kashmir, which New Delhi, without evidence, said was backed by Pakistan. Pakistan has denied involvement, with the foreign ministry having questioned the credibility of India’s account of the events, saying it was “replete with fabrications”. Both sides used fighter jets, missiles, artillery and drones during the four-day conflict, killing dozens of people. After tit-for-tat strikes on each other’s airbases, it took American intervention on May 10 for both sides to finally reach a ceasefire . In the immediate aftermath of the conflict, Pakistan said it took down six Indian fighter jets during the conflict, including the French-made Rafale. New Delhi acknowledged “some losses” during the conflict but denied losing six jets. Months later in September, PM Shehbaz — during a United Nations General Assembly speech — said that the Pakistan Air Force turned “seven of the Indian jets” into scrap and dust. Later, Trump also described how he confronted both nations during a conflict that saw “seven aircraft shot down”.",
-      "lang": "en",
-      "title_en": "Trump continues to comment on Pakistan-India May conflict, now says ‘8 planes shot down essentially’",
-      "summary_en": "Continuing to comment on the brief military conflict between Pakistan and India earlier this year, US President Donald Trump has now stated that eight planes were “essentially” shot down. “In eight months I ended eight wars, including Kosovo and Serbia, the Congo and Rwanda … Pakistan and India,” he said during a speech at the American Business Forum in Miami late on Wednesday. “I was in the midst of a trade deal with both of them. And then I read on the front page of a certain newspaper — I won’t mention the newspaper because it’s usually fake news — but I heard they are going to war. Eight planes, seven planes were shot down — an eighth was really badly wounded [sic]. But eight planes were shot down essentially,” he said. He reiterated his previous claims that he threatened not to make trade deals unless the two countries agreed to peace. “I’m not trading with you; we are not making any deals with you if you are at war with each other,” he said. “A day later, I get a call, ‘We made peace’. They stopped. I said, ‘Thank you, let’s trade’. Isn’t that great? Tariffs did that. Without tariffs that would have never happened.” The US president has previously stated on several occasions that five to seven planes were shot down during the May conflict between the two neighbouring countries. He had also reiterated his praise for Prime Minister Shehbaz Sharif and Chief of Army Staff Field Marshal Asum Munir, both of whom he met in Washington in September. Just last month, he had said that seven “brand-new, beautiful planes were shot down” during the brief military escalation between Pakistan and India. India has differed with Trump’s claims that the ceasefire between the two countries resulted from his intervention and his threats to sever trade talks. The May conflict between Pakistan and India was sparked by an attack on Hindu tourists in occupied Kashmir, which New Delhi, without evidence, said was backed by Pakistan. Pakistan has denied involvement, with the foreign ministry having questioned the credibility of India’s account of the events, saying it was “replete with fabrications”. Both sides used fighter jets, missiles, artillery and drones during the four-day conflict, killing dozens of people. After tit-for-tat strikes on each other’s airbases, it took American intervention on May 10 for both sides to finally reach a ceasefire . In the immediate aftermath of the conflict, Pakistan said it took down six Indian fighter jets during the conflict, including the French-made Rafale. New Delhi acknowledged “some losses” during the conflict but denied losing six jets. Months later in September, PM Shehbaz — during a United Nations General Assembly speech — said that the Pakistan Air Force turned “seven of the Indian jets” into scrap and dust. Later, Trump also described how he confronted both nations during a conflict that saw “seven aircraft shot down”.",
-      "title": "Trump continues to comment on Pakistan-India May conflict, now says ‘8 planes shot down essentially’",
-      "summary": "Continuing to comment on the brief military conflict between Pakistan and India earlier this year, US President Donald Trump has now stated that eight planes were “essentially” shot down. “In eight months I ended eight wars, including Kosovo and Serbia, the Congo and Rwanda … Pakistan and India,” he said during a speech at the American Business Forum in Miami late on Wednesday. “I was in the midst of a trade deal with both of them. And then I read on the front page of a certain newspaper — I won’t mention the newspaper because it’s usually fake news — but I heard they are going to war. Eight planes, seven planes were shot down — an eighth was really badly wounded [sic]. But eight planes were shot down essentially,” he said. He reiterated his previous claims that he threatened not to make trade deals unless the two countries agreed to peace. “I’m not trading with you; we are not making any deals with you if you are at war with each other,” he said. “A day later, I get a call, ‘We made peace’. They stopped. I said, ‘Thank you, let’s trade’. Isn’t that great? Tariffs did that. Without tariffs that would have never happened.” The US president has previously stated on several occasions that five to seven planes were shot down during the May conflict between the two neighbouring countries. He had also reiterated his praise for Prime Minister Shehbaz Sharif and Chief of Army Staff Field Marshal Asum Munir, both of whom he met in Washington in September. Just last month, he had said that seven “brand-new, beautiful planes were shot down” during the brief military escalation between Pakistan and India. India has differed with Trump’s claims that the ceasefire between the two countries resulted from his intervention and his threats to sever trade talks. The May conflict between Pakistan and India was sparked by an attack on Hindu tourists in occupied Kashmir, which New Delhi, without evidence, said was backed by Pakistan. Pakistan has denied involvement, with the foreign ministry having questioned the credibility of India’s account of the events, saying it was “replete with fabrications”. Both sides used fighter jets, missiles, artillery and drones during the four-day conflict, killing dozens of people. After tit-for-tat strikes on each other’s airbases, it took American intervention on May 10 for both sides to finally reach a ceasefire . In the immediate aftermath of the conflict, Pakistan said it took down six Indian fighter jets during the conflict, including the French-made Rafale. New Delhi acknowledged “some losses” during the conflict but denied losing six jets. Months later in September, PM Shehbaz — during a United Nations General Assembly speech — said that the Pakistan Air Force turned “seven of the Indian jets” into scrap and dust. Later, Trump also described how he confronted both nations during a conflict that saw “seven aircraft shot down”.",
-      "url": "https://www.dawn.com/news/1953444/trump-continues-to-comment-on-pakistan-india-may-conflict-now-says-8-planes-shot-down-essentially",
-      "source": "Dawn - Home",
-      "published_at": "2025-11-06T07:28:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -3395,24 +3314,6 @@
       "geo": {}
     },
     {
-      "id": "df1f3389f9a7e565",
-      "title_orig": "15 minutes of horror in train mass stabbing – Today in Focus Extra",
-      "summary_orig": "Guardian senior reporter Ben Quinn on the shocking knife attack on a train from Doncaster to London On Saturday night, a train from Doncaster to London was packed with people heading out for the night when a horrifying mass stabbing attacked unfolded. Witnesses described “pure panic” as people tried to get away from the knifeman, with some hiding in the train’s toilets. Continue reading...",
-      "lang": "en",
-      "title_en": "15 minutes of horror in train mass stabbing – Today in Focus Extra",
-      "summary_en": "Guardian senior reporter Ben Quinn on the shocking knife attack on a train from Doncaster to London On Saturday night, a train from Doncaster to London was packed with people heading out for the night when a horrifying mass stabbing attacked unfolded. Witnesses described “pure panic” as people tried to get away from the knifeman, with some hiding in the train’s toilets. Continue reading...",
-      "title": "15 minutes of horror in train mass stabbing – Today in Focus Extra",
-      "summary": "Guardian senior reporter Ben Quinn on the shocking knife attack on a train from Doncaster to London On Saturday night, a train from Doncaster to London was packed with people heading out for the night when a horrifying mass stabbing attacked unfolded. Witnesses described “pure panic” as people tried to get away from the knifeman, with some hiding in the train’s toilets. Continue reading...",
-      "url": "https://www.theguardian.com/news/audio/2025/nov/03/15-minutes-of-horror-in-train-mass-stabbing-today-in-focus-extra",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-11-03T18:13:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "778b313e5a56675c",
       "title_orig": "Press Release: Korean Air flight demos Korea’s first verified UAM",
       "summary_orig": "Korean Air has successfully completed the Phase 2 of the Korean Urban Air Mobility (K-UAM) Grand Challenge, marking Korea’s first verified demonstration of urban air mobility operations in a metropolitan environment. The Phase 2 flight tests took place over a 12-day period from October 16 to 31 along the Ara Canal test corridor between Seo-gu... The post Press Release: Korean Air flight demos Korea’s first verified UAM appeared first on Runway Girl .",
@@ -3521,35 +3422,17 @@
       "geo": {}
     },
     {
-      "id": "74d96c3cee04f084",
-      "title_orig": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
-      "summary_orig": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
+      "id": "125ce8004fffd2e6",
+      "title_orig": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary_orig": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
       "lang": "en",
-      "title_en": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
-      "summary_en": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
-      "title": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
-      "summary": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
-      "url": "https://www.arabnews.com/node/2620879/middle-east",
+      "title_en": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary_en": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
+      "title": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
+      "url": "https://www.arabnews.com/node/2620840/world",
       "source": "ArabNews",
-      "published_at": "2025-10-30T01:10:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "898f45ccb36c14f8",
-      "title_orig": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
-      "summary_orig": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
-      "lang": "en",
-      "title_en": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
-      "summary_en": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
-      "title": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
-      "summary": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
-      "url": "https://www.arabnews.com/node/2620881/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-10-30T01:10:04+00:00",
+      "published_at": "2025-10-30T08:10:28+00:00",
       "tags": [
         "airport/security"
       ],
