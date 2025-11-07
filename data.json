@@ -1,6 +1,105 @@
 {
-  "generated_at": "2025-11-07T19:18:28.407923+00:00",
+  "generated_at": "2025-11-07T19:41:49.052064+00:00",
   "items": [
+    {
+      "id": "77814a27cd124356",
+      "title_orig": "Plan bu council to charge fees for Tree Preservation Orders slammed",
+      "summary_orig": "Councillor says fees would be \"an appalling attack on the public’s right to defend their environment\"",
+      "lang": "en",
+      "title_en": "Plan bu council to charge fees for Tree Preservation Orders slammed",
+      "summary_en": "Councillor says fees would be \"an appalling attack on the public’s right to defend their environment\"",
+      "title": "Plan bu council to charge fees for Tree Preservation Orders slammed",
+      "summary": "Councillor says fees would be \"an appalling attack on the public’s right to defend their environment\"",
+      "url": "https://www.belfastlive.co.uk/news/plan-bu-council-charge-fees-32835275",
+      "source": "BelfastLive - Home",
+      "published_at": "2025-11-07T19:25:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0d59bd7a80674cf3",
+      "title_orig": "'Fifty or sixty people in a single street': Witnesses describe civilian killings in Sudan's al-Fashir",
+      "summary_orig": "AL-DABBA, Sudan - Civilians in al-Fashir were shot in the streets, targeted in drone strikes and crushed by trucks, witnesses to the first days of the RSF's takeover described to Reuters, providing a glimpse into the violent capture of one of Sudan's largest cities.",
+      "lang": "en",
+      "title_en": "'Fifty or sixty people in a single street': Witnesses describe civilian killings in Sudan's al-Fashir",
+      "summary_en": "AL-DABBA, Sudan - Civilians in al-Fashir were shot in the streets, targeted in drone strikes and crushed by trucks, witnesses to the first days of the RSF's takeover described to Reuters, providing a glimpse into the violent capture of one of Sudan's largest cities.",
+      "title": "'Fifty or sixty people in a single street': Witnesses describe civilian killings in Sudan's al-Fashir",
+      "summary": "AL-DABBA, Sudan - Civilians in al-Fashir were shot in the streets, targeted in drone strikes and crushed by trucks, witnesses to the first days of the RSF's takeover described to Reuters, providing a glimpse into the violent capture of one of Sudan's largest cities.",
+      "url": "https://www.straitstimes.com/world/middle-east/fifty-or-sixty-people-in-a-single-street-witnesses-describe-civilian-killings-in-sudans-al-fashir",
+      "source": "The Straits Times World News",
+      "published_at": "2025-11-07T19:20:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0ce22262234e1c5d",
+      "title_orig": "Live Manchester Airport updates as railway points failure sees all lines closed - latest",
+      "summary_orig": "All services to and from the airport are affected, with disruption set to continue until around 9pm",
+      "lang": "en",
+      "title_en": "Live Manchester Airport updates as railway points failure sees all lines closed - latest",
+      "summary_en": "All services to and from the airport are affected, with disruption set to continue until around 9pm",
+      "title": "Live Manchester Airport updates as railway points failure sees all lines closed - latest",
+      "summary": "All services to and from the airport are affected, with disruption set to continue until around 9pm",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/live-manchester-airport-updates-railway-32835652",
+      "source": "MEN - News",
+      "published_at": "2025-11-07T19:19:53+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "279c44ef3183b462",
+      "title_orig": "Thousands Of Flight Cancellations & Delays: Record US Government Shutdown Endures",
+      "summary_orig": "Unprecedented Flight Cuts: The Ripple Effect Across US Airports",
+      "lang": "en",
+      "title_en": "Thousands Of Flight Cancellations & Delays: Record US Government Shutdown Endures",
+      "summary_en": "Unprecedented Flight Cuts: The Ripple Effect Across US Airports",
+      "title": "Thousands Of Flight Cancellations & Delays: Record US Government Shutdown Endures",
+      "summary": "Unprecedented Flight Cuts: The Ripple Effect Across US Airports",
+      "url": "https://simpleflying.com/thousands-of-flight-cancellations-and-delays-record-us-government-shutdown-endures/",
+      "source": "Simple Flying",
+      "published_at": "2025-11-07T19:17:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0ac04a258aa8739f",
+      "title_orig": "Flight cancellations update: Airlines warn record 31 million holiday travelers face a perfect storm of disruptions",
+      "summary_orig": "Trump administration reduces flights at 40 major airports during ongoing government shutdown",
+      "lang": "en",
+      "title_en": "Flight cancellations update: Airlines warn record 31 million holiday travelers face a perfect storm of disruptions",
+      "summary_en": "Trump administration reduces flights at 40 major airports during ongoing government shutdown",
+      "title": "Flight cancellations update: Airlines warn record 31 million holiday travelers face a perfect storm of disruptions",
+      "summary": "Trump administration reduces flights at 40 major airports during ongoing government shutdown",
+      "url": "https://www.independent.co.uk/news/world/americas/faa-airport-cuts-shutdown-delay-live-updates-b2860564.html",
+      "source": "The Independent World",
+      "published_at": "2025-11-07T19:08:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "b310386c93f5fa4f",
       "title_orig": "Bin strike set to hit London borough in run up to Christmas as refuse workers vote for industrial action",
@@ -20,17 +119,35 @@
       "geo": {}
     },
     {
-      "id": "0ac04a258aa8739f",
-      "title_orig": "Flight cancellations update: Airlines warn record 31 million holiday travelers face a perfect storm of disruptions",
-      "summary_orig": "Trump administration reduces flights at 40 major airports during ongoing government shutdown",
+      "id": "16d83def5f38f99c",
+      "title_orig": "Leeds United striker Dominic Calvert-Lewin shares interesting social media post after Daniel Farke news",
+      "summary_orig": "Leeds United boss Daniel Farke had news about Dominic Calvert-Lewin at Friday’s pre-Nottingham Forest press conference.",
       "lang": "en",
-      "title_en": "Flight cancellations update: Airlines warn record 31 million holiday travelers face a perfect storm of disruptions",
-      "summary_en": "Trump administration reduces flights at 40 major airports during ongoing government shutdown",
-      "title": "Flight cancellations update: Airlines warn record 31 million holiday travelers face a perfect storm of disruptions",
-      "summary": "Trump administration reduces flights at 40 major airports during ongoing government shutdown",
-      "url": "https://www.independent.co.uk/news/world/americas/faa-airport-cuts-shutdown-delay-live-updates-b2860564.html",
-      "source": "The Independent World",
-      "published_at": "2025-11-07T19:06:22+00:00",
+      "title_en": "Leeds United striker Dominic Calvert-Lewin shares interesting social media post after Daniel Farke news",
+      "summary_en": "Leeds United boss Daniel Farke had news about Dominic Calvert-Lewin at Friday’s pre-Nottingham Forest press conference.",
+      "title": "Leeds United striker Dominic Calvert-Lewin shares interesting social media post after Daniel Farke news",
+      "summary": "Leeds United boss Daniel Farke had news about Dominic Calvert-Lewin at Friday’s pre-Nottingham Forest press conference.",
+      "url": "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-dominic-calvert-lewin-daniel-farke-nottingham-forest-5393715",
+      "source": "Yorkshire Evening Post",
+      "published_at": "2025-11-07T19:05:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "951a9295c2c6702b",
+      "title_orig": "What to know about 10% reduction in flights at US airports caused by the government shutdown",
+      "summary_orig": "Anxious passengers arrived Friday at airports across the U.S. only to find long lines and flight delays as the first…",
+      "lang": "en",
+      "title_en": "What to know about 10% reduction in flights at US airports caused by the government shutdown",
+      "summary_en": "Anxious passengers arrived Friday at airports across the U.S. only to find long lines and flight delays as the first…",
+      "title": "What to know about 10% reduction in flights at US airports caused by the government shutdown",
+      "summary": "Anxious passengers arrived Friday at airports across the U.S. only to find long lines and flight delays as the first…",
+      "url": "https://wtop.com/national/2025/11/what-to-know-about-10-reduction-in-flights-at-u-s-airports-caused-by-the-government-shutdown/",
+      "source": "WTOP News",
+      "published_at": "2025-11-07T18:59:57+00:00",
       "tags": [
         "airport/security"
       ],
@@ -164,24 +281,6 @@
       "geo": {}
     },
     {
-      "id": "40ec3976550d67b2",
-      "title_orig": "Trump has accused boat crews of being narco-terrorists. The truth, AP found, is more nuanced",
-      "summary_orig": "GÜIRIA, Venezuela (AP) — One was a fisherman struggling to eke out a living on $100 a month. Another was a career…",
-      "lang": "en",
-      "title_en": "Trump has accused boat crews of being narco-terrorists. The truth, AP found, is more nuanced",
-      "summary_en": "GÜIRIA, Venezuela (AP) — One was a fisherman struggling to eke out a living on $100 a month. Another was a career…",
-      "title": "Trump has accused boat crews of being narco-terrorists. The truth, AP found, is more nuanced",
-      "summary": "GÜIRIA, Venezuela (AP) — One was a fisherman struggling to eke out a living on $100 a month. Another was a career…",
-      "url": "https://wtop.com/world/2025/11/trump-has-accused-boat-crews-of-being-narco-terrorists-the-truth-ap-found-is-more-nuanced/",
-      "source": "WTOP News",
-      "published_at": "2025-11-07T18:34:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8c3d3928c60d08e0",
       "title_orig": "Assam’s Silchar residents sing Amaar sonar Bangla to protest BJP’s ‘seditious’ tag",
       "summary_orig": "If a song penned by Tagore 66 years before the birth of Bangladesh can be objectionable, the same yardstick should be applied to Sindh mentioned in the Indian national anthem, says expert",
@@ -193,24 +292,6 @@
       "url": "https://www.thehindu.com/news/national/assam/assams-silchar-residents-sing-amaar-sonar-bangla-to-protest-bjps-seditious-tag/article70252992.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2025-11-07T18:33:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "16d83def5f38f99c",
-      "title_orig": "Leeds United striker Dominic Calvert-Lewin shares interesting social media post after Daniel Farke news",
-      "summary_orig": "Leeds United boss Daniel Farke had news about Dominic Calvert-Lewin at Friday’s pre-Nottingham Forest press conference.",
-      "lang": "en",
-      "title_en": "Leeds United striker Dominic Calvert-Lewin shares interesting social media post after Daniel Farke news",
-      "summary_en": "Leeds United boss Daniel Farke had news about Dominic Calvert-Lewin at Friday’s pre-Nottingham Forest press conference.",
-      "title": "Leeds United striker Dominic Calvert-Lewin shares interesting social media post after Daniel Farke news",
-      "summary": "Leeds United boss Daniel Farke had news about Dominic Calvert-Lewin at Friday’s pre-Nottingham Forest press conference.",
-      "url": "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-dominic-calvert-lewin-daniel-farke-nottingham-forest-5393715",
-      "source": "Yorkshire Evening Post",
-      "published_at": "2025-11-07T18:32:59+00:00",
       "tags": [
         "airport/security"
       ],
@@ -579,12 +660,12 @@
     },
     {
       "id": "460344a652c88502",
-      "title_orig": "Israel and US accuse Iran of plot to kill Israeli ambassador to Mexico",
+      "title_orig": "Iran accused of plot to assassinate Israeli ambassador to Mexico",
       "summary_orig": "Israel says Mexico thwarted attempt in aftermath of deadly 2024 Israeli bombing of Iranian embassy in Syria The United States and Israel have accused Iran of plotting to assassinate Israel’s ambassador to Mexico , in what would be the latest attempt to take the two countries’ conflict to another region. Israel said that Mexican authorities intervened to stop the attempt to kill the ambassador, Einat Kranz-Neiger. Continue reading...",
       "lang": "en",
-      "title_en": "Israel and US accuse Iran of plot to kill Israeli ambassador to Mexico",
+      "title_en": "Iran accused of plot to assassinate Israeli ambassador to Mexico",
       "summary_en": "Israel says Mexico thwarted attempt in aftermath of deadly 2024 Israeli bombing of Iranian embassy in Syria The United States and Israel have accused Iran of plotting to assassinate Israel’s ambassador to Mexico , in what would be the latest attempt to take the two countries’ conflict to another region. Israel said that Mexican authorities intervened to stop the attempt to kill the ambassador, Einat Kranz-Neiger. Continue reading...",
-      "title": "Israel and US accuse Iran of plot to kill Israeli ambassador to Mexico",
+      "title": "Iran accused of plot to assassinate Israeli ambassador to Mexico",
       "summary": "Israel says Mexico thwarted attempt in aftermath of deadly 2024 Israeli bombing of Iranian embassy in Syria The United States and Israel have accused Iran of plotting to assassinate Israel’s ambassador to Mexico , in what would be the latest attempt to take the two countries’ conflict to another region. Israel said that Mexican authorities intervened to stop the attempt to kill the ambassador, Einat Kranz-Neiger. Continue reading...",
       "url": "https://www.theguardian.com/world/2025/nov/07/iran-assassination-plot-israel-ambassador-mexico",
       "source": "World news | The Guardian",
@@ -1346,42 +1427,6 @@
       "url": "https://www.kgw.com/article/news/nation-world/airports-reducing-flights-faa-government-shutdown/507-3ea1c935-a549-4511-b785-447592d63079",
       "source": "KGW RSS Feed: news",
       "published_at": "2025-11-07T15:15:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "56e3e88681d18db1",
-      "title_orig": "Job aspirants withdraw protest after Minister Ramalinga Reddy’s assurance",
-      "summary_orig": "Hundreds of candidates who were shortlisted in the 2019 recruitment for drivers and driver-cum-conductors in North Western Karnataka Road Transport Corporation, staged a protest in Hubballi on Friday seeking recruitment for all the notified posts and withdrew it later in the day following specific assurance by Transport Minister Ramalinga Reddy",
-      "lang": "en",
-      "title_en": "Job aspirants withdraw protest after Minister Ramalinga Reddy’s assurance",
-      "summary_en": "Hundreds of candidates who were shortlisted in the 2019 recruitment for drivers and driver-cum-conductors in North Western Karnataka Road Transport Corporation, staged a protest in Hubballi on Friday seeking recruitment for all the notified posts and withdrew it later in the day following specific assurance by Transport Minister Ramalinga Reddy",
-      "title": "Job aspirants withdraw protest after Minister Ramalinga Reddy’s assurance",
-      "summary": "Hundreds of candidates who were shortlisted in the 2019 recruitment for drivers and driver-cum-conductors in North Western Karnataka Road Transport Corporation, staged a protest in Hubballi on Friday seeking recruitment for all the notified posts and withdrew it later in the day following specific assurance by Transport Minister Ramalinga Reddy",
-      "url": "https://www.thehindu.com/news/national/karnataka/job-aspirants-withdraw-protest-after-minister-ramalinga-reddys-assurance/article70253503.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-11-07T15:02:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0d59bd7a80674cf3",
-      "title_orig": "'Fifty or sixty people in a single street': Witnesses describe civilian killings in Sudan's al-Fashir",
-      "summary_orig": "AL-DABBA, Sudan - Civilians in al-Fashir were shot in the streets, targeted in drone strikes and crushed by trucks, witnesses to the first days of the RSF's takeover described to Reuters, providing a glimpse into the violent capture of one of Sudan's largest cities.",
-      "lang": "en",
-      "title_en": "'Fifty or sixty people in a single street': Witnesses describe civilian killings in Sudan's al-Fashir",
-      "summary_en": "AL-DABBA, Sudan - Civilians in al-Fashir were shot in the streets, targeted in drone strikes and crushed by trucks, witnesses to the first days of the RSF's takeover described to Reuters, providing a glimpse into the violent capture of one of Sudan's largest cities.",
-      "title": "'Fifty or sixty people in a single street': Witnesses describe civilian killings in Sudan's al-Fashir",
-      "summary": "AL-DABBA, Sudan - Civilians in al-Fashir were shot in the streets, targeted in drone strikes and crushed by trucks, witnesses to the first days of the RSF's takeover described to Reuters, providing a glimpse into the violent capture of one of Sudan's largest cities.",
-      "url": "https://www.straitstimes.com/world/middle-east/fifty-or-sixty-people-in-a-single-street-witnesses-describe-civilian-killings-in-sudans-al-fashir",
-      "source": "The Straits Times World News",
-      "published_at": "2025-11-07T15:00:22+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3216,24 +3261,6 @@
       "geo": {}
     },
     {
-      "id": "e4869b8dfef50b5e",
-      "title_orig": "Six arrested at protest held before Aston Villa match against Maccabi Tel Aviv in Birmingham",
-      "summary_orig": "Over 700 officers are on duty for tonight’s game, with campaigners demanding Israel’s suspension from international football.",
-      "lang": "en",
-      "title_en": "Six arrested at protest held before Aston Villa match against Maccabi Tel Aviv in Birmingham",
-      "summary_en": "Over 700 officers are on duty for tonight’s game, with campaigners demanding Israel’s suspension from international football.",
-      "title": "Six arrested at protest held before Aston Villa match against Maccabi Tel Aviv in Birmingham",
-      "summary": "Over 700 officers are on duty for tonight’s game, with campaigners demanding Israel’s suspension from international football.",
-      "url": "https://www.thejournal.ie/maccabi-tel-aviv-aston-villa-birmingham-police-protest-6866135-Nov2025/",
-      "source": "TheJournal.ie",
-      "published_at": "2025-11-06T21:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d6cdca9a76696575",
       "title_orig": "Which routes from Austin could be affected by the FAA's flight reductions?",
       "summary_orig": "Major airports across the country are preparing for the cancelation of up to 10% of flights beginning Friday due to the ongoing government shutdown.",
@@ -4044,6 +4071,24 @@
       "geo": {}
     },
     {
+      "id": "125ce8004fffd2e6",
+      "title_orig": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary_orig": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
+      "lang": "en",
+      "title_en": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary_en": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
+      "title": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
+      "url": "https://www.arabnews.com/node/2620840/world",
+      "source": "ArabNews",
+      "published_at": "2025-10-30T08:10:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "d2c05ae28ec02a7b",
       "title_orig": "Mexican president condemns U.S. strikes that killed 14 alleged drug traffickers",
       "summary_orig": "The Trump administration said Tuesday that it had attacked four vessels off what Mexico said was its Pacific coast, a move condemned by Mexican President Claudia Sheinbaum.",
@@ -4109,42 +4154,6 @@
       "url": "https://www.thelocal.it/20251022/the-transport-strikes-to-expect-in-italy-in-november-2025",
       "source": "The Local Italy",
       "published_at": "2025-10-22T13:01:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b27a39d09c3d0ada",
-      "title_orig": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary_orig": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "lang": "en",
-      "title_en": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary_en": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "url": "https://www.arabnews.com/node/2619787/world",
-      "source": "ArabNews",
-      "published_at": "2025-10-22T09:10:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2023691e576df8b7",
-      "title_orig": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary_orig": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "lang": "en",
-      "title_en": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary_en": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "title": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "url": "https://www.arabnews.com/node/2619795/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-10-21T22:10:29+00:00",
       "tags": [
         "airport/security"
       ],
