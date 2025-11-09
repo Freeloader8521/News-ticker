@@ -1,6 +1,69 @@
 {
-  "generated_at": "2025-11-09T19:16:14.818941+00:00",
+  "generated_at": "2025-11-09T19:41:21.368430+00:00",
   "items": [
+    {
+      "id": "569e39d49fe3bb31",
+      "title_orig": "How will the government shutdown affect Thanksgiving holiday travel?",
+      "summary_orig": "The Federal Aviation Administration last week ordered flight cuts at the nation’s busiest airports.",
+      "lang": "en",
+      "title_en": "How will the government shutdown affect Thanksgiving holiday travel?",
+      "summary_en": "The Federal Aviation Administration last week ordered flight cuts at the nation’s busiest airports.",
+      "title": "How will the government shutdown affect Thanksgiving holiday travel?",
+      "summary": "The Federal Aviation Administration last week ordered flight cuts at the nation’s busiest airports.",
+      "url": "https://www.syracuse.com/us-news/2025/11/how-will-the-government-shutdown-affect-thanksgiving-holiday-travel.html",
+      "source": "syracuse.com",
+      "published_at": "2025-11-09T19:19:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5536c070f03fcb36",
+      "title_orig": "Hunt for suspect after man left fighting for life in city centre attack",
+      "summary_orig": "Paramedics found the victim seriously injured on Back Piccadilly",
+      "lang": "en",
+      "title_en": "Hunt for suspect after man left fighting for life in city centre attack",
+      "summary_en": "Paramedics found the victim seriously injured on Back Piccadilly",
+      "title": "Hunt for suspect after man left fighting for life in city centre attack",
+      "summary": "Paramedics found the victim seriously injured on Back Piccadilly",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/hunt-suspect-after-man-left-32842429",
+      "source": "MEN - News",
+      "published_at": "2025-11-09T19:15:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9759eb0eed0e0d22",
+      "title_orig": "Government shutdown continues to impact air travel at LAX, other airports nationwide",
+      "summary_orig": "The government shutdown continues to affect American air travel, with staffing issues leading officials to slash flight schedules across the nation.  The uncertainty comes ahead of what’s expected to be a very busy holiday travel period, which has caused concern for some travelers. Thousands and thousands of flights have already been delayed or canceled since the beginning of the month, and [...]",
+      "lang": "en",
+      "title_en": "Government shutdown continues to impact air travel at LAX, other airports nationwide",
+      "summary_en": "The government shutdown continues to affect American air travel, with staffing issues leading officials to slash flight schedules across the nation.  The uncertainty comes ahead of what’s expected to be a very busy holiday travel period, which has caused concern for some travelers. Thousands and thousands of flights have already been delayed or canceled since the beginning of the month, and [...]",
+      "title": "Government shutdown continues to impact air travel at LAX, other airports nationwide",
+      "summary": "The government shutdown continues to affect American air travel, with staffing issues leading officials to slash flight schedules across the nation.  The uncertainty comes ahead of what’s expected to be a very busy holiday travel period, which has caused concern for some travelers. Thousands and thousands of flights have already been delayed or canceled since the beginning of the month, and [...]",
+      "url": "https://ktla.com/news/local-news/government-shutdown-continues-to-impact-air-travel-at-lax-other-airports-nationwide/",
+      "source": "KTLA",
+      "published_at": "2025-11-09T19:10:34+00:00",
+      "tags": [
+        "LAX",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Los Angeles",
+        "city": "Los Angeles",
+        "country": "United States",
+        "iata": "LAX",
+        "lat": 33.9416,
+        "lon": -118.4085
+      }
+    },
     {
       "id": "58bbddc7213596c3",
       "title_orig": "EU's Kallas urged adherence to international law concerning US attacks on vessels",
@@ -67,24 +130,6 @@
       "url": "https://www.birminghammail.co.uk/news/showbiz-tv/mafs-reunion-bombshell-julia-ruth-32842274",
       "source": "Birmingham Live - News",
       "published_at": "2025-11-09T18:17:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b5822b1f403cc348",
-      "title_orig": "Sea-Tac Airport flight cancellations climb again Sunday",
-      "summary_orig": "Flight cancellations climbed to 54 at Seattle-Tacoma International Airport on Sunday as the FAA's reduction order continues.",
-      "lang": "en",
-      "title_en": "Sea-Tac Airport flight cancellations climb again Sunday",
-      "summary_en": "Flight cancellations climbed to 54 at Seattle-Tacoma International Airport on Sunday as the FAA's reduction order continues.",
-      "title": "Sea-Tac Airport flight cancellations climb again Sunday",
-      "summary": "Flight cancellations climbed to 54 at Seattle-Tacoma International Airport on Sunday as the FAA's reduction order continues.",
-      "url": "https://www.seattletimes.com/seattle-news/sea-tac-airport-flight-cancellations-climb-again-sunday/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-11-09T17:45:33+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1526,24 +1571,6 @@
       "url": "https://www.japantimes.co.jp/news/2025/11/09/world/ukraine-power-generation-zero/",
       "source": "Latest articles - The Japan Times",
       "published_at": "2025-11-09T06:55:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "93fe1e32dbb818fb",
-      "title_orig": "As COP30 gathers, what’s the latest in climate science?",
-      "summary_orig": "With the pace of climate change speeding up, extreme weather and other impacts are taking an increasing toll on populations and environments across the globe.\nHere are some of the developments this year in climate science: Warmer, faster Global temperatures are not just climbing, they are now climbing faster than before, with new records logged for 2023 and 2024, and at points in 2025. That finding was part of a key study in June that updated baseline data used in the science reports done every few years by the Intergovernmental Panel on Climate Change. The new research shows the average global temperature rising at a rate of 0.27 degrees Celsius each decade — or almost 50 per cent faster than in the 1990s and 2000s when the warming rate was around 0.2°C per decade. Sea levels are rising faster now too — at about 4.5 millimetres per year over the last decade, compared with 1.85 mm per year measured across the decades since 1900. The world is now on track to cross the 1.5°C warming threshold around 2030, after which scientists warn we will likely trigger catastrophic, irreversible impacts. Already, the world has warmed by 1.3-1.4°C since the pre-industrial era, according to the World Meteorological Organisation. Tipping points Warm-water corals are in an almost irreversible die-off from successive marine heatwaves — marking what would be the first so-called climate tipping point, when an environmental system begins to shift into a different state. Researchers in October also warned that the Amazon rainforest could begin to die back and transform into a different ecosystem, such as savannah, if rapid deforestation continues as global warming crosses 1.5°C, which is earlier than previously estimated. They said meltwater from the thawing ice sheet atop Greenland could help cause an earlier collapse in the ocean current called the Atlantic Meridional Overturning Circulation, or AMOC, that keeps winters mild in Europe. In Antarctica, where ice sheets are also under threat, scientists are worried about declining sea ice surrounding the southernmost continent. Similar to what is happening in the Arctic, ice loss exposes dark water that can absorb more solar radiation — which amplifies the overall warming trend. It also jeopardises the growth of phytoplankton that consume much of the world’s CO2. Land on fire Along with heatwaves and drought, wildfires still threaten to be frequent and severe. This year’s State of Wildfires report, led by a group of weather agencies and universities, counted some 3.7 million square kilometres as having burned between March 2024 and February 2025 — an area about the size of India and Norway combined. That was slightly less than the annual average burned for the last two decades. But the fires produced higher CO2 emissions than before, as more carbon-dense forests burned. Deadly heat Researchers are working on ways to assess heat-related health risks and tolls, as UN health and weather agencies estimate about half the world’s population is already struggling. The agencies also estimate worker productivity dropping 2-3pc for every degree above 20°C, while another study in the Lancet journal in October estimates global losses of more than $1 trillion from that lost productivity for last year alone. There is no consistent international definition for a heat-related death, but technological advances are helping scientists to bridge data gaps and compare conditions from place to place. For example, in Europe, one team at the UK’s Imperial College used mortality trends to estimate more than 24,400 deaths this summer related to heat exposure across about 30pc of the European population. They attributed up to 70pc of those deaths to climate-fueled heat, based on the same mortality trends applied to a model of Europe without global warming. For last year’s record-hot European summer, another team used computer modelling to examine mortality statistics along with temperature data and health parameters, estimating more than 62,700 heat-related deaths across 32 countries, or about 70pc of the continent’s population. Science under attack The US administration under climate-denying President Donald Trump is hoping to slash funding for agencies that collect and monitor climate and weather data, worrying a scientific community that says US leadership will be hard to replace. Trump’s 2026 budget request, yet to be approved by Congress, proposes halving the annual budget for NASA Earth Science to about $1 billion and cutting NOAA’s spending by more than a quarter to $4.5bn while eliminating its climate research arm, among other cuts. Elsewhere, however, public science spending is increasing, with record budgets for science research in China, the UK, Japan, and the European Union. The EU also last month opened its real-time weather data monitoring to public access.",
-      "lang": "en",
-      "title_en": "As COP30 gathers, what’s the latest in climate science?",
-      "summary_en": "With the pace of climate change speeding up, extreme weather and other impacts are taking an increasing toll on populations and environments across the globe.\nHere are some of the developments this year in climate science: Warmer, faster Global temperatures are not just climbing, they are now climbing faster than before, with new records logged for 2023 and 2024, and at points in 2025. That finding was part of a key study in June that updated baseline data used in the science reports done every few years by the Intergovernmental Panel on Climate Change. The new research shows the average global temperature rising at a rate of 0.27 degrees Celsius each decade — or almost 50 per cent faster than in the 1990s and 2000s when the warming rate was around 0.2°C per decade. Sea levels are rising faster now too — at about 4.5 millimetres per year over the last decade, compared with 1.85 mm per year measured across the decades since 1900. The world is now on track to cross the 1.5°C warming threshold around 2030, after which scientists warn we will likely trigger catastrophic, irreversible impacts. Already, the world has warmed by 1.3-1.4°C since the pre-industrial era, according to the World Meteorological Organisation. Tipping points Warm-water corals are in an almost irreversible die-off from successive marine heatwaves — marking what would be the first so-called climate tipping point, when an environmental system begins to shift into a different state. Researchers in October also warned that the Amazon rainforest could begin to die back and transform into a different ecosystem, such as savannah, if rapid deforestation continues as global warming crosses 1.5°C, which is earlier than previously estimated. They said meltwater from the thawing ice sheet atop Greenland could help cause an earlier collapse in the ocean current called the Atlantic Meridional Overturning Circulation, or AMOC, that keeps winters mild in Europe. In Antarctica, where ice sheets are also under threat, scientists are worried about declining sea ice surrounding the southernmost continent. Similar to what is happening in the Arctic, ice loss exposes dark water that can absorb more solar radiation — which amplifies the overall warming trend. It also jeopardises the growth of phytoplankton that consume much of the world’s CO2. Land on fire Along with heatwaves and drought, wildfires still threaten to be frequent and severe. This year’s State of Wildfires report, led by a group of weather agencies and universities, counted some 3.7 million square kilometres as having burned between March 2024 and February 2025 — an area about the size of India and Norway combined. That was slightly less than the annual average burned for the last two decades. But the fires produced higher CO2 emissions than before, as more carbon-dense forests burned. Deadly heat Researchers are working on ways to assess heat-related health risks and tolls, as UN health and weather agencies estimate about half the world’s population is already struggling. The agencies also estimate worker productivity dropping 2-3pc for every degree above 20°C, while another study in the Lancet journal in October estimates global losses of more than $1 trillion from that lost productivity for last year alone. There is no consistent international definition for a heat-related death, but technological advances are helping scientists to bridge data gaps and compare conditions from place to place. For example, in Europe, one team at the UK’s Imperial College used mortality trends to estimate more than 24,400 deaths this summer related to heat exposure across about 30pc of the European population. They attributed up to 70pc of those deaths to climate-fueled heat, based on the same mortality trends applied to a model of Europe without global warming. For last year’s record-hot European summer, another team used computer modelling to examine mortality statistics along with temperature data and health parameters, estimating more than 62,700 heat-related deaths across 32 countries, or about 70pc of the continent’s population. Science under attack The US administration under climate-denying President Donald Trump is hoping to slash funding for agencies that collect and monitor climate and weather data, worrying a scientific community that says US leadership will be hard to replace. Trump’s 2026 budget request, yet to be approved by Congress, proposes halving the annual budget for NASA Earth Science to about $1 billion and cutting NOAA’s spending by more than a quarter to $4.5bn while eliminating its climate research arm, among other cuts. Elsewhere, however, public science spending is increasing, with record budgets for science research in China, the UK, Japan, and the European Union. The EU also last month opened its real-time weather data monitoring to public access.",
-      "title": "As COP30 gathers, what’s the latest in climate science?",
-      "summary": "With the pace of climate change speeding up, extreme weather and other impacts are taking an increasing toll on populations and environments across the globe.\nHere are some of the developments this year in climate science: Warmer, faster Global temperatures are not just climbing, they are now climbing faster than before, with new records logged for 2023 and 2024, and at points in 2025. That finding was part of a key study in June that updated baseline data used in the science reports done every few years by the Intergovernmental Panel on Climate Change. The new research shows the average global temperature rising at a rate of 0.27 degrees Celsius each decade — or almost 50 per cent faster than in the 1990s and 2000s when the warming rate was around 0.2°C per decade. Sea levels are rising faster now too — at about 4.5 millimetres per year over the last decade, compared with 1.85 mm per year measured across the decades since 1900. The world is now on track to cross the 1.5°C warming threshold around 2030, after which scientists warn we will likely trigger catastrophic, irreversible impacts. Already, the world has warmed by 1.3-1.4°C since the pre-industrial era, according to the World Meteorological Organisation. Tipping points Warm-water corals are in an almost irreversible die-off from successive marine heatwaves — marking what would be the first so-called climate tipping point, when an environmental system begins to shift into a different state. Researchers in October also warned that the Amazon rainforest could begin to die back and transform into a different ecosystem, such as savannah, if rapid deforestation continues as global warming crosses 1.5°C, which is earlier than previously estimated. They said meltwater from the thawing ice sheet atop Greenland could help cause an earlier collapse in the ocean current called the Atlantic Meridional Overturning Circulation, or AMOC, that keeps winters mild in Europe. In Antarctica, where ice sheets are also under threat, scientists are worried about declining sea ice surrounding the southernmost continent. Similar to what is happening in the Arctic, ice loss exposes dark water that can absorb more solar radiation — which amplifies the overall warming trend. It also jeopardises the growth of phytoplankton that consume much of the world’s CO2. Land on fire Along with heatwaves and drought, wildfires still threaten to be frequent and severe. This year’s State of Wildfires report, led by a group of weather agencies and universities, counted some 3.7 million square kilometres as having burned between March 2024 and February 2025 — an area about the size of India and Norway combined. That was slightly less than the annual average burned for the last two decades. But the fires produced higher CO2 emissions than before, as more carbon-dense forests burned. Deadly heat Researchers are working on ways to assess heat-related health risks and tolls, as UN health and weather agencies estimate about half the world’s population is already struggling. The agencies also estimate worker productivity dropping 2-3pc for every degree above 20°C, while another study in the Lancet journal in October estimates global losses of more than $1 trillion from that lost productivity for last year alone. There is no consistent international definition for a heat-related death, but technological advances are helping scientists to bridge data gaps and compare conditions from place to place. For example, in Europe, one team at the UK’s Imperial College used mortality trends to estimate more than 24,400 deaths this summer related to heat exposure across about 30pc of the European population. They attributed up to 70pc of those deaths to climate-fueled heat, based on the same mortality trends applied to a model of Europe without global warming. For last year’s record-hot European summer, another team used computer modelling to examine mortality statistics along with temperature data and health parameters, estimating more than 62,700 heat-related deaths across 32 countries, or about 70pc of the continent’s population. Science under attack The US administration under climate-denying President Donald Trump is hoping to slash funding for agencies that collect and monitor climate and weather data, worrying a scientific community that says US leadership will be hard to replace. Trump’s 2026 budget request, yet to be approved by Congress, proposes halving the annual budget for NASA Earth Science to about $1 billion and cutting NOAA’s spending by more than a quarter to $4.5bn while eliminating its climate research arm, among other cuts. Elsewhere, however, public science spending is increasing, with record budgets for science research in China, the UK, Japan, and the European Union. The EU also last month opened its real-time weather data monitoring to public access.",
-      "url": "https://www.dawn.com/news/1954072/as-cop30-gathers-whats-the-latest-in-climate-science",
-      "source": "Dawn - Home",
-      "published_at": "2025-11-09T06:03:45+00:00",
       "tags": [
         "airport/security"
       ],
