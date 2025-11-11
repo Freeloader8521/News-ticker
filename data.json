@@ -1,18 +1,126 @@
 {
-  "generated_at": "2025-11-11T23:19:20.386280+00:00",
+  "generated_at": "2025-11-11T23:43:09.294253+00:00",
   "items": [
     {
-      "id": "2b00161bf35e8bb7",
-      "title_orig": "Protestors force their way into COP30 venue, clash with security",
-      "summary_orig": "BELEM, Brazil - Protestors brandishing batons forced their way into the venue hosting COP30 on Tuesday, where they clashed with security guards at the entrance.",
+      "id": "512179d6e2509872",
+      "title_orig": "Israel Arrests 4 After Jewish Extremist Attack in West Bank",
+      "summary_orig": "Dozens of masked Israelis attacked an industrial zone, torching vehicles and wounding Palestinians, according to Palestinian officials.",
       "lang": "en",
-      "title_en": "Protestors force their way into COP30 venue, clash with security",
-      "summary_en": "BELEM, Brazil - Protestors brandishing batons forced their way into the venue hosting COP30 on Tuesday, where they clashed with security guards at the entrance.",
-      "title": "Protestors force their way into COP30 venue, clash with security",
-      "summary": "BELEM, Brazil - Protestors brandishing batons forced their way into the venue hosting COP30 on Tuesday, where they clashed with security guards at the entrance.",
-      "url": "https://www.straitstimes.com/world/protestors-force-their-way-into-cop30-venue-clash-with-security",
+      "title_en": "Israel Arrests 4 After Jewish Extremist Attack in West Bank",
+      "summary_en": "Dozens of masked Israelis attacked an industrial zone, torching vehicles and wounding Palestinians, according to Palestinian officials.",
+      "title": "Israel Arrests 4 After Jewish Extremist Attack in West Bank",
+      "summary": "Dozens of masked Israelis attacked an industrial zone, torching vehicles and wounding Palestinians, according to Palestinian officials.",
+      "url": "https://www.nytimes.com/2025/11/11/world/middleeast/israel-extremist-attack-west-bank.html",
+      "source": "NYT > World News",
+      "published_at": "2025-11-11T23:33:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "53abcca8b335b91b",
+      "title_orig": "Indigenous protesters clash with security at COP30 summit in Brazil",
+      "summary_orig": "Dozens of Indigenous protesters stormed the COP30 climate summit venue in Belém, Brazil, on Tuesday – clashing with security guards at the entrance as they demanded greater access to negotiations and a stronger voice in forest management.",
+      "lang": "en",
+      "title_en": "Indigenous protesters clash with security at COP30 summit in Brazil",
+      "summary_en": "Dozens of Indigenous protesters stormed the COP30 climate summit venue in Belém, Brazil, on Tuesday – clashing with security guards at the entrance as they demanded greater access to negotiations and a stronger voice in forest management.",
+      "title": "Indigenous protesters clash with security at COP30 summit in Brazil",
+      "summary": "Dozens of Indigenous protesters stormed the COP30 climate summit venue in Belém, Brazil, on Tuesday – clashing with security guards at the entrance as they demanded greater access to negotiations and a stronger voice in forest management.",
+      "url": "https://www.france24.com/en/environment/20251111-indigenous-protesters-cop30-summit-brazil",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-11-11T23:33:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "5201c34d71ad10b1",
+      "title_orig": "Plane forced to turn back to Adelaide after smoke in cabin",
+      "summary_orig": "Three Liberal politicians have been delayed getting to Canberra for climate talks after a Qantas plane was forced to make an urgent landing at Adelaide Airport when crews noticed smoke in the cabin.",
+      "lang": "en",
+      "title_en": "Plane forced to turn back to Adelaide after smoke in cabin",
+      "summary_en": "Three Liberal politicians have been delayed getting to Canberra for climate talks after a Qantas plane was forced to make an urgent landing at Adelaide Airport when crews noticed smoke in the cabin.",
+      "title": "Plane forced to turn back to Adelaide after smoke in cabin",
+      "summary": "Three Liberal politicians have been delayed getting to Canberra for climate talks after a Qantas plane was forced to make an urgent landing at Adelaide Airport when crews noticed smoke in the cabin.",
+      "url": "https://www.abc.net.au/news/2025-11-12/adelaide-to-canberra-flight-forced-to-land-after-smoke-in-cabin/105999194",
+      "source": "Just In",
+      "published_at": "2025-11-11T23:27:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1bac2eb42888b80c",
+      "title_orig": "Breaking: Russia loses High Court battle with Commonwealth over embassy site",
+      "summary_orig": "The lease was granted to Russia in 2008, but was withdrawn when parliament passed a new law citing ASIO advice that the planned embassy could pose a threat to national security.",
+      "lang": "en",
+      "title_en": "Breaking: Russia loses High Court battle with Commonwealth over embassy site",
+      "summary_en": "The lease was granted to Russia in 2008, but was withdrawn when parliament passed a new law citing ASIO advice that the planned embassy could pose a threat to national security.",
+      "title": "Breaking: Russia loses High Court battle with Commonwealth over embassy site",
+      "summary": "The lease was granted to Russia in 2008, but was withdrawn when parliament passed a new law citing ASIO advice that the planned embassy could pose a threat to national security.",
+      "url": "https://www.abc.net.au/news/2025-11-12/russia-loses-high-court-battle-over-canberra-embassy-site/105999328",
+      "source": "Just In",
+      "published_at": "2025-11-11T23:26:54+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ba8f761374e538e1",
+      "title_orig": "Protesters force their way into COP30 summit venue, clash with security",
+      "summary_orig": "The protesters dispersed shortly after the clash.",
+      "lang": "en",
+      "title_en": "Protesters force their way into COP30 summit venue, clash with security",
+      "summary_en": "The protesters dispersed shortly after the clash.",
+      "title": "Protesters force their way into COP30 summit venue, clash with security",
+      "summary": "The protesters dispersed shortly after the clash.",
+      "url": "https://www.straitstimes.com/world/protesters-force-their-way-into-cop30-summit-venue-clash-with-security",
       "source": "The Straits Times World News",
-      "published_at": "2025-11-11T23:11:23+00:00",
+      "published_at": "2025-11-11T23:26:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "177e2c8f7d76ee0b",
+      "title_orig": "How Lockheed Martin is helping to build the future STEM workforce",
+      "summary_orig": "Roughly half of Lockheed Martin’s 121,000 employees around the world are scientists and engineers so it’s critically important that the aerospace and defense manufacturer builds a pipeline of highly trained technical talent. That’s among the reasons why much of Lockheed Martin’s work in the social impact space is focused on advancing science, technology, engineering and... The post How Lockheed Martin is helping to build the future STEM workforce appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "How Lockheed Martin is helping to build the future STEM workforce",
+      "summary_en": "Roughly half of Lockheed Martin’s 121,000 employees around the world are scientists and engineers so it’s critically important that the aerospace and defense manufacturer builds a pipeline of highly trained technical talent. That’s among the reasons why much of Lockheed Martin’s work in the social impact space is focused on advancing science, technology, engineering and... The post How Lockheed Martin is helping to build the future STEM workforce appeared first on Runway Girl .",
+      "title": "How Lockheed Martin is helping to build the future STEM workforce",
+      "summary": "Roughly half of Lockheed Martin’s 121,000 employees around the world are scientists and engineers so it’s critically important that the aerospace and defense manufacturer builds a pipeline of highly trained technical talent. That’s among the reasons why much of Lockheed Martin’s work in the social impact space is focused on advancing science, technology, engineering and... The post How Lockheed Martin is helping to build the future STEM workforce appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2025/11/how-lockheed-martin-is-helping-to-build-the-future-stem-workforce/",
+      "source": "Runway Girl",
+      "published_at": "2025-11-11T23:23:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "74a54d2c98043cd3",
+      "title_orig": "Protesters break into UN climate talks COP30 in Brazil",
+      "summary_orig": "More than 200 delegations, including senior world leaders, are attending the UN climate talks.",
+      "lang": "en",
+      "title_en": "Protesters break into UN climate talks COP30 in Brazil",
+      "summary_en": "More than 200 delegations, including senior world leaders, are attending the UN climate talks.",
+      "title": "Protesters break into UN climate talks COP30 in Brazil",
+      "summary": "More than 200 delegations, including senior world leaders, are attending the UN climate talks.",
+      "url": "https://www.bbc.com/news/articles/c0l7yjgn050o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-11-11T23:20:17+00:00",
       "tags": [
         "airport/security"
       ],
@@ -53,24 +161,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "512179d6e2509872",
-      "title_orig": "Israel Arrests 4 After Jewish Extremist Attack in West Bank",
-      "summary_orig": "Dozens of masked Israelis attacked an industrial zone, torching vehicles and wounding Palestinians, according to Palestinian officials.",
-      "lang": "en",
-      "title_en": "Israel Arrests 4 After Jewish Extremist Attack in West Bank",
-      "summary_en": "Dozens of masked Israelis attacked an industrial zone, torching vehicles and wounding Palestinians, according to Palestinian officials.",
-      "title": "Israel Arrests 4 After Jewish Extremist Attack in West Bank",
-      "summary": "Dozens of masked Israelis attacked an industrial zone, torching vehicles and wounding Palestinians, according to Palestinian officials.",
-      "url": "https://www.nytimes.com/2025/11/11/world/middleeast/israel-extremist-attack-west-bank.html",
-      "source": "NYT > World News",
-      "published_at": "2025-11-11T22:50:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1316,6 +1406,24 @@
       "geo": {}
     },
     {
+      "id": "0d1c3357d0be4d21",
+      "title_orig": "Danish asylum facility evacuated after suspected arson attack",
+      "summary_orig": "A resident of the Kærshovedgård ‘departure centre’ for rejected asylum seekers has been arrested after a fire broke out at the facility on Tuesday.",
+      "lang": "en",
+      "title_en": "Danish asylum facility evacuated after suspected arson attack",
+      "summary_en": "A resident of the Kærshovedgård ‘departure centre’ for rejected asylum seekers has been arrested after a fire broke out at the facility on Tuesday.",
+      "title": "Danish asylum facility evacuated after suspected arson attack",
+      "summary": "A resident of the Kærshovedgård ‘departure centre’ for rejected asylum seekers has been arrested after a fire broke out at the facility on Tuesday.",
+      "url": "https://www.thelocal.dk/20251111/danish-asylum-facility-evacuated-after-suspected-arson-attack",
+      "source": "The Local Denmark",
+      "published_at": "2025-11-11T15:50:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "9bf29ec5a11b35f2",
       "title_orig": "Authorities extend Section 144 for another month in Sindh",
       "summary_orig": "The Sindh government on Tuesday extended the imposition of Section 144 across the province for another month, a notification from the Sindh Home Department stated. Section 144 of the Criminal Procedure Code is a legal provision that empowers district administrations to prohibit an assembly of four or more people in an area for a limited period. The department imposed Section 144 across the province for a period of one month on October 12 to maintain law and order in the interest of “public and peace”. According to the notification, available with Dawn , the ban on all public gatherings and demonstrations was extended for another month, effective from November 12 (Wednesday). “In continuation to this department’s notification of even number dated [October 12], the ban imposed under Section 144 (6) CrPC, 1898 … is hereby extended for a period of one month with effect from [November 12], 2025,” the notification read. The ban was initially imposed after the religiopolitical party Tehreek-i-Labbaik Pakistan (TLP) began marching towards Islamabad to express ‘solidarity with Palestinians’, after clashing with the police in Lahore in October. On October 23, the federal government approved a ban on the TLP under the Anti-Terrorism Act (ATA) following the violent protests.",
@@ -1525,24 +1633,6 @@
       "url": "https://www.thehindu.com/news/national/kerala/protest-against-seaplane-project-held-in-kochi/article70267938.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2025-11-11T15:18:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "571c5b1952a27cfb",
-      "title_orig": "Delhi Bomb Blast: Union Ministers Shivraj Singh Chouhan and Pemmasani express condolences",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Delhi Bomb Blast: Union Ministers Shivraj Singh Chouhan and Pemmasani express condolences",
-      "summary_en": "",
-      "title": "Delhi Bomb Blast: Union Ministers Shivraj Singh Chouhan and Pemmasani express condolences",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/delhi-bomb-blast-union-ministers-shivraj-singh-chouhan-and-pemmasani-express-condolences/article70267445.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-11-11T15:18:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1902,21 +1992,21 @@
       "geo": {}
     },
     {
-      "id": "11e4de05544a7668",
-      "title_orig": "France's fight against violent extremism, 10 years after the Paris attacks",
-      "summary_orig": "Ten years after the November 13 Paris terror attacks, France's security and intelligence services are dealing with reports of increasingly younger individuals who often become radicalised quickly via social networks. Through rare access inside the police's radicalisation telephone hotline, as well as interviews with terrorism experts, a former prisoner and a survivor of the Bataclan attack, we explore the lessons learnt since 2015 and what the terrorism threat looks like today.",
+      "id": "a16be29bda850726",
+      "title_orig": "Parcel bomb injures man at insurance company office in France",
+      "summary_orig": "A parcel bomb exploded at an insurance company's office in the central French town of Montluçon on Monday, injuring one person, authorities said.",
       "lang": "en",
-      "title_en": "France's fight against violent extremism, 10 years after the Paris attacks",
-      "summary_en": "Ten years after the November 13 Paris terror attacks, France's security and intelligence services are dealing with reports of increasingly younger individuals who often become radicalised quickly via social networks. Through rare access inside the police's radicalisation telephone hotline, as well as interviews with terrorism experts, a former prisoner and a survivor of the Bataclan attack, we explore the lessons learnt since 2015 and what the terrorism threat looks like today.",
-      "title": "France's fight against violent extremism, 10 years after the Paris attacks",
-      "summary": "Ten years after the November 13 Paris terror attacks, France's security and intelligence services are dealing with reports of increasingly younger individuals who often become radicalised quickly via social networks. Through rare access inside the police's radicalisation telephone hotline, as well as interviews with terrorism experts, a former prisoner and a survivor of the Bataclan attack, we explore the lessons learnt since 2015 and what the terrorism threat looks like today.",
-      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20251111-france-s-fight-against-violent-extremism-10-years-after-the-paris-attacks",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-11T12:35:33+00:00",
+      "title_en": "Parcel bomb injures man at insurance company office in France",
+      "summary_en": "A parcel bomb exploded at an insurance company's office in the central French town of Montluçon on Monday, injuring one person, authorities said.",
+      "title": "Parcel bomb injures man at insurance company office in France",
+      "summary": "A parcel bomb exploded at an insurance company's office in the central French town of Montluçon on Monday, injuring one person, authorities said.",
+      "url": "https://www.thelocal.fr/20251111/parcel-bomb-injures-man-at-insurance-company-office-in-france",
+      "source": "The Local France",
+      "published_at": "2025-11-11T12:33:11+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -1931,24 +2021,6 @@
       "url": "https://www.theguardian.com/world/2025/nov/11/terror-attack-islamabad-pakistan-state-of-war",
       "source": "World news | The Guardian",
       "published_at": "2025-11-11T12:32:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "44dd0fc92713f190",
-      "title_orig": "Suicide bomber kills at least a dozen people outside court in Pakistan's capital",
-      "summary_orig": "A suicide bomber has killed at least 12 people outside a court in Pakistan's capital Islamabad, Interior Minister Mohsin Naqvi said Tuesday (November 11). At least 27 people were wounded in the attack. FRANCE 24's Shahzaib Wahlah tells us more.",
-      "lang": "en",
-      "title_en": "Suicide bomber kills at least a dozen people outside court in Pakistan's capital",
-      "summary_en": "A suicide bomber has killed at least 12 people outside a court in Pakistan's capital Islamabad, Interior Minister Mohsin Naqvi said Tuesday (November 11). At least 27 people were wounded in the attack. FRANCE 24's Shahzaib Wahlah tells us more.",
-      "title": "Suicide bomber kills at least a dozen people outside court in Pakistan's capital",
-      "summary": "A suicide bomber has killed at least 12 people outside a court in Pakistan's capital Islamabad, Interior Minister Mohsin Naqvi said Tuesday (November 11). At least 27 people were wounded in the attack. FRANCE 24's Shahzaib Wahlah tells us more.",
-      "url": "https://www.france24.com/en/video/20251111-suicide-bomber-kills-at-least-a-dozen-people-outside-court-in-pakistan-s-capital",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-11T12:31:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2316,6 +2388,24 @@
       "geo": {}
     },
     {
+      "id": "b2301d036e345c21",
+      "title_orig": "Today in Germany: A roundup of the latest news on Tuesday",
+      "summary_orig": "Merz celebrates his 70th birthday, Uyghur woman mistakenly deported to China by local authorities, young activists protest the push for compulsory military service and more news on Tuesday, November 11th.",
+      "lang": "en",
+      "title_en": "Today in Germany: A roundup of the latest news on Tuesday",
+      "summary_en": "Merz celebrates his 70th birthday, Uyghur woman mistakenly deported to China by local authorities, young activists protest the push for compulsory military service and more news on Tuesday, November 11th.",
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "summary": "Merz celebrates his 70th birthday, Uyghur woman mistakenly deported to China by local authorities, young activists protest the push for compulsory military service and more news on Tuesday, November 11th.",
+      "url": "https://www.thelocal.de/20251111/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-98",
+      "source": "The Local Germany",
+      "published_at": "2025-11-11T07:30:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "3a99ca058cdf117b",
       "title_orig": "In emphatic letter to CJP, Justice Minallah laments use of SC by ‘unelected elite’ to suppress people’s will",
       "summary_orig": "Supreme Court (SC) Justice Athar Minallah has written an emphatic letter to Chief Justice of Pakistan (CJP) Yahya Afridi, calling for the convening of a conference to consider threats to the judiciary while also lamenting the use of the apex court as an instrument to suppress the people’s will by “unelected elite”, it emerged on Tuesday. The development comes as the government is making moves for the passage of the 27th Constitutional Amendment. The bill, which has been passed by the Senate, seeks crucial changes to a number of articles, mostly dealing with the judiciary and the military leadership. In the seven-page letter, which Dawn has seen, Justice Minallah said that the missive was being recorded as a “solemn duty to the Constitution and to place on record for future generations how their destiny was being shaped behind the marble walls of the last resort of justice”. He said that it was being written in the wake of recent events, which had greatly eroded public confidence in the judiciary. “Institutions are not built overnight, but they can be destroyed in no time through fear, surrender or submission to the powers. The history of our judiciary is not unblemished nor flattering. However, its past failings, no matter how grave, cannot justify its continued capture to serve the interests of the unelected elites,” he said. Justice Minallah said that as a sitting SC judge, he felt it was his duty to raise his concerns regarding the erosion of the people’s trust. “I had taken an oath to defend, protect, and preserve the Constitution, but find myself helpless because the fundamental rights covenanted to the people have too often been reduced to mere cliché or rhetoric. We may pretend otherwise, but the stark reality is unpleasant and embarrassing for me as a judge of the highest Court and as a guardian of the Constitution,” he said. Justice Minallah said that the truth had been concealed from the people for too long, adding that they had been misled and exploited so that the elite capture could sustain. “From the very inception of our independence, the history of the state has been marred by the unholy alliance between certain state institutions and entrenched elites. An alliance having the hallmark of control, privilege, and impunity. The SC, by design or omission, has too often been employed as an instrument to suppress the will of the people rather than to safeguard it,” he said. ‘Political dissent has been criminalised’ In his letter, Justice Minallah also said that jurisprudence had too often bowed before power and might instead of standing on the side of the people. He highlighted the removal and execution of former prime minister Zulfikar Ali Bhutto, saying it “remains one of the gravest and most unpardonable betrayal of our oath and of the people’s trust”. He further said that the persecution of Benazir Bhutto by “unelected elements” within state institutions, and the disqualification of Nawaz Sharif and the harassment of him and his daughter were a “continuation of a pattern of suppression of the people’s will when the interests of the unelected elite were threatened”. The SC judge noted that President Asif Ali Zardari and Prime Minister Shehbaz Sharif had also fallen victim to this phenomenon. “The phenomenon represents a consistent pattern of elite manipulation, wherein leaders are fostered and then ruined. Once they are backed by the people’s mandate, they are systemically dismantled if and when they challenge the entrenched power. The will of the people has repeatedly been subverted to perpetuate the elite capture of the state; a betrayal and subversion that strikes at the very heart of constitutional democracy,” he said. He said that PTI founder Imran Khan was also being victimised under the same cycle of suppression. “Political dissent has been criminalised, those who refuse to bend, including women, are made to endure inhuman conditions. It is no longer a secret that justice is denied to them,” he said. “The truth is known to us, but it is whispered only in the tea room and chambers of this Court. The independence of this institution has too often been compromised from within, whether through surrender or through active participation,” he said. “We proclaim ourselves to be guardians of the fundamental rights, but we maintained silence when a former chief justice of Pakistan told us that the phenomenon of enforced disappearance had reached his doorstep. We also chose to look the other way when another chief justice, who in the context of the reserved seats case , had warned twelve judges of this very court that he was the one responsible for stalling the imposition of martial law and that ‘they would come and send us home’.” He further said that under the watch of the apex court, electoral outcomes were manipulated, the will of the people suppressed, dissenting voices silenced, undesirable political allegiance and opinions criminalised, and journalists abducted or intimidated. ‘Need for introspection undeniable’ Justice Minallah further said that at this critical juncture, the need for introspection was “undeniable”. “I would respectfully urge that a judicial conference be convened for having an open institutional dialogue with all judges of the SC and the high courts to consider threats to independence of the judiciary that may be jeopardising its constitutional function of acting as a machinery for enforcement of fundamental rights of citizens,” he said. “A candid and open discussion on the state of our institution, the challenges to its independence, and the steps necessary to reclaim the people’s trust has become inevitable. The judiciary is at a perilous crossroads. The truth must be spoken at this moment of reckoning,” he said. He further said that Parliament may wish to consider the judiciary’s institutional perspective articulated through the proposed judicial conference, before it embarks upon “tinkering with the basic law of the land”. He noted that news reports suggested that preparations were underway to house the new Federal Constitutional Court (FCC) within the building of the Federal Shariat Court (FSC). “What is the invisible process through which some within the judiciary have been made aware of the changes that are to proposed through a Constitutional amendment? And what explains their eagerness to make advance administrative arrangements to accommodate the proposed structure of the judiciary even prior to the Parliament considering it?” he asked. He said that the judiciary’s foremost loyalty lay not in self-preservation nor in deference to power but in allegiance to the people and to the Constitution. “This court and the judiciary as an institution are at a perilous crossroad and silence in the face of the systemic erosion of judicial independence would only\namount to complicity. Our oath compels us to speak and uphold the truth and to guard the Constitution even when it is inconvenient to do so,” he said. Full court demanded amid executive onslaught Justice Minallah’s letter comes a day after Justice Mansoor Ali Shah , in addition to several lawyers and former judges , requested CJP Afridi to play his role and act as the guardian of the judiciary’s independence. Senior puisne judge Shah, in a six-page letter, described the proposed amendment as a political device to weaken the judiciary and urged CJP Afridi to confront the executive to lay down a rule that no amendments affecting the judiciary be adopted without prior consultations with superior judges. “You [CJP] act not merely as its administrator but as its guardian,” Justice Shah said while also requesting a full court meeting or preferably a joint convention of all constitutional court judges, including the FSC and high courts, to articulate the judiciary’s collective stance. Justice Shah emphasised that this moment demanded leadership, transparency and institutional resolve. If such consultation is not initiated under CJ’s stewardship, it will inevitably be seen as acquiescence and an abdication of the trust reposed in the high office, he added. In his letter, Justice Shah also questioned the justification for creating the proposed FCC, asking what constitutional vacuum it would seek to fill. The proposed FCC does not arise from any genuine reform agenda, and its judges will be appointed without any constitutional parameters, as was the case with the Constitutional Bench (CB), the letter said, adding that such an arrangement vested decisive power in the executive and invited manipulation of the judicial process. A court may serve transient political interests, but it will permanently damage the republic, he added. Separately, former judges and top lawyers also wrote a letter to CJP Afridi, urging him to summon a full court meeting to discuss the 27th Constitutional Amendment. The request came in a letter that was penned by senior counsel Faisal Siddiqi and endorsed by former SC senior puisne judge retired Justice Mushir Alam, former Sindh High Court (SHC) judge retired Justice Nadeem Akhtar and nine other top lawyers.",
@@ -2352,6 +2442,24 @@
       "geo": {}
     },
     {
+      "id": "756f1ed70bff8470",
+      "title_orig": "Today in Denmark: A roundup of the news on Tuesday",
+      "summary_orig": "Release of preliminary tax statements, employment up for foreign nationals, SAS gets fine over lockdown emails and more news from Denmark this Tuesday.",
+      "lang": "en",
+      "title_en": "Today in Denmark: A roundup of the news on Tuesday",
+      "summary_en": "Release of preliminary tax statements, employment up for foreign nationals, SAS gets fine over lockdown emails and more news from Denmark this Tuesday.",
+      "title": "Today in Denmark: A roundup of the news on Tuesday",
+      "summary": "Release of preliminary tax statements, employment up for foreign nationals, SAS gets fine over lockdown emails and more news from Denmark this Tuesday.",
+      "url": "https://www.thelocal.dk/20251111/today-in-denmark-a-roundup-of-the-news-on-tuesday-193",
+      "source": "The Local Denmark",
+      "published_at": "2025-11-11T06:33:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "54076d656e0ed29c",
       "title_orig": "The WW1 piper who marched through gas, bullets and bombs to save his regiment",
       "summary_orig": "Daniel Laidlaw was awarded the Victoria Cross for his bravery in the face of battle.",
@@ -2363,24 +2471,6 @@
       "url": "https://www.bbc.com/news/articles/ckgk057ly30o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-11-11T06:16:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "afdb06fa7ea6039f",
-      "title_orig": "There's no timeline on when flight cuts will ease up after the government shutdown ends",
-      "summary_orig": "The FAA ordered airlines to drop 4% of flights at 40 major airports last week. That's set to rise to 6% Tuesday, and 10% on Friday.",
-      "lang": "en",
-      "title_en": "There's no timeline on when flight cuts will ease up after the government shutdown ends",
-      "summary_en": "The FAA ordered airlines to drop 4% of flights at 40 major airports last week. That's set to rise to 6% Tuesday, and 10% on Friday.",
-      "title": "There's no timeline on when flight cuts will ease up after the government shutdown ends",
-      "summary": "The FAA ordered airlines to drop 4% of flights at 40 major airports last week. That's set to rise to 6% Tuesday, and 10% on Friday.",
-      "url": "https://www.kgw.com/article/syndication/associatedpress/air-travelers-face-frustration-as-faas-further-drop-in-flights-takes-effect/616-ff6c4352-ccf6-4ced-b573-a207a4b52c6c",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2025-11-11T05:21:39+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2622,6 +2712,24 @@
       "geo": {}
     },
     {
+      "id": "f4794c7beb238d20",
+      "title_orig": "France probes plot linked to jailed jihadist's ex-girlfriend",
+      "summary_orig": "French magistrates were on Monday investigating the ex-girlfriend of a man jailed for the deadly November 13, 2015 Paris attacks over an alleged jihadist plot, prosecutors said.",
+      "lang": "en",
+      "title_en": "France probes plot linked to jailed jihadist's ex-girlfriend",
+      "summary_en": "French magistrates were on Monday investigating the ex-girlfriend of a man jailed for the deadly November 13, 2015 Paris attacks over an alleged jihadist plot, prosecutors said.",
+      "title": "France probes plot linked to jailed jihadist's ex-girlfriend",
+      "summary": "French magistrates were on Monday investigating the ex-girlfriend of a man jailed for the deadly November 13, 2015 Paris attacks over an alleged jihadist plot, prosecutors said.",
+      "url": "https://www.thelocal.fr/20251110/france-probes-plot-linked-to-jailed-jihadists-ex-girlfriend",
+      "source": "The Local France",
+      "published_at": "2025-11-10T15:23:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "2df4cc30202618c4",
       "title_orig": "Terrorist turf war battle in north-eastern Nigeria leaves about 200 dead",
       "summary_orig": "Fighting between Boko Haram and rival militants from Islamic State West Africa Province broke out on shores of Lake Chad As many as 200 terrorists were killed in a turf war on Sunday between rival jihadists in north-east Nigeria. The fighting between Boko Haram and rival militants from Islamic State West Africa Province (Iswap) broke out over the weekend in the village of Dogon Chiku, which lies on the shores of Lake Chad, a restive area located at the junction of Nigeria, Niger, Chad and Cameroon. Continue reading...",
@@ -2637,6 +2745,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "eab867857b9f1ef7",
+      "title_orig": "Magdeburg Christmas market attacker on trial in Germany",
+      "summary_orig": "A Saudi doctor went on trial in Germany Monday accused of driving an SUV through a Christmas market, killing six people and wounding more than 300 in a rampage that shocked the nation.",
+      "lang": "en",
+      "title_en": "Magdeburg Christmas market attacker on trial in Germany",
+      "summary_en": "A Saudi doctor went on trial in Germany Monday accused of driving an SUV through a Christmas market, killing six people and wounding more than 300 in a rampage that shocked the nation.",
+      "title": "Magdeburg Christmas market attacker on trial in Germany",
+      "summary": "A Saudi doctor went on trial in Germany Monday accused of driving an SUV through a Christmas market, killing six people and wounding more than 300 in a rampage that shocked the nation.",
+      "url": "https://www.thelocal.de/20251110/magdeburg-christmas-market-attacker-on-trial-in-germany",
+      "source": "The Local Germany",
+      "published_at": "2025-11-10T14:17:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2712,6 +2838,42 @@
       "geo": {}
     },
     {
+      "id": "4d3f5d4cff9694ef",
+      "title_orig": "Americans in Spain: The great exodus, IVF tourism and visa changes",
+      "summary_orig": "In our first edition of The Local's Americans in Spain newsletter, we cover the new passport checks at Spanish airports, fertility tourism, the huge influx of anti-Trump Americans moving to Spain, as well as key changes to the Spanish non-lucrative visa.",
+      "lang": "en",
+      "title_en": "Americans in Spain: The great exodus, IVF tourism and visa changes",
+      "summary_en": "In our first edition of The Local's Americans in Spain newsletter, we cover the new passport checks at Spanish airports, fertility tourism, the huge influx of anti-Trump Americans moving to Spain, as well as key changes to the Spanish non-lucrative visa.",
+      "title": "Americans in Spain: The great exodus, IVF tourism and visa changes",
+      "summary": "In our first edition of The Local's Americans in Spain newsletter, we cover the new passport checks at Spanish airports, fertility tourism, the huge influx of anti-Trump Americans moving to Spain, as well as key changes to the Spanish non-lucrative visa.",
+      "url": "https://www.thelocal.es/20251110/americans-in-spain-the-great-exodus-ivf-tourism-and-visa-changes",
+      "source": "The Local Spain",
+      "published_at": "2025-11-10T10:55:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a46433c9e2a4722a",
+      "title_orig": "Four charged over protest of Israeli orchestra concert in France",
+      "summary_orig": "Four people have been charged over disrupting a Paris concert by Israel's national orchestra, including by reportedly lighting flares, prosecutors told AFP on Sunday.",
+      "lang": "en",
+      "title_en": "Four charged over protest of Israeli orchestra concert in France",
+      "summary_en": "Four people have been charged over disrupting a Paris concert by Israel's national orchestra, including by reportedly lighting flares, prosecutors told AFP on Sunday.",
+      "title": "Four charged over protest of Israeli orchestra concert in France",
+      "summary": "Four people have been charged over disrupting a Paris concert by Israel's national orchestra, including by reportedly lighting flares, prosecutors told AFP on Sunday.",
+      "url": "https://www.thelocal.fr/20251110/four-charged-over-protest-of-israeli-orchestra-concert-in-france",
+      "source": "The Local France",
+      "published_at": "2025-11-10T07:24:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "dd17fc78152d2f8a",
       "title_orig": "United app snafu highlights rare misstep for US major",
       "summary_orig": "United continues to roll out 4K entertainment screens with Bluetooth audio and high wattage USB-C ports powerful enough to charge even the hungriest of laptops. But sometimes you end up on an aircraft that captures a moment in time from decades before any of that technology existed, as was my fate on a recent business... The post United app snafu highlights rare misstep for US major appeared first on Runway Girl .",
@@ -2757,6 +2919,42 @@
       }
     },
     {
+      "id": "c1218188857a9793",
+      "title_orig": "France marks decade since harrowing Paris attacks",
+      "summary_orig": "France marks a decade next week since suffering its worst attack, with the only surviving attacker jailed for life and plans for a long-term memorial.",
+      "lang": "en",
+      "title_en": "France marks decade since harrowing Paris attacks",
+      "summary_en": "France marks a decade next week since suffering its worst attack, with the only surviving attacker jailed for life and plans for a long-term memorial.",
+      "title": "France marks decade since harrowing Paris attacks",
+      "summary": "France marks a decade next week since suffering its worst attack, with the only surviving attacker jailed for life and plans for a long-term memorial.",
+      "url": "https://www.thelocal.fr/20251109/france-marks-decade-since-harrowing-paris-attacks",
+      "source": "The Local France",
+      "published_at": "2025-11-09T11:15:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6ba02010c89d7ee4",
+      "title_orig": "On the Agenda: What's happening in Italy this week",
+      "summary_orig": "From transport strikes to one of Europe’s biggest chocolate festivals, here's what to expect in Italy this week.",
+      "lang": "en",
+      "title_en": "On the Agenda: What's happening in Italy this week",
+      "summary_en": "From transport strikes to one of Europe’s biggest chocolate festivals, here's what to expect in Italy this week.",
+      "title": "On the Agenda: What's happening in Italy this week",
+      "summary": "From transport strikes to one of Europe’s biggest chocolate festivals, here's what to expect in Italy this week.",
+      "url": "https://www.thelocal.it/20251109/on-the-agenda-whats-happening-in-italy-this-week-147",
+      "source": "The Local Italy",
+      "published_at": "2025-11-09T09:27:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "6a913319a96a1864",
       "title_orig": "Eurowings flight EW2262 declared an emergency and diverted to Barcelona",
       "summary_orig": "A flight from Stuttgart, Germany diverted to Barcelona on its way to Las Palmas, Spain. Eurowings flight EW2262 departed Stuttgart Airport earlier today at 06:27 CET for a 4-hour flight to Las Palmas, Spain. The Airbus A320 (registration D-ABNN) was cruising at 33,000 feet over France when pilots declared and emergency (squawk 7700). The flight […] The post Eurowings flight EW2262 declared an emergency and diverted to Barcelona appeared first on AIRLIVE .",
@@ -2768,6 +2966,24 @@
       "url": "https://airlive.net/emergency/2025/11/09/eurowings-flight-ew2262-declared-an-emergency-and-diverted-to-barcelona/",
       "source": "AIRLIVE",
       "published_at": "2025-11-09T09:15:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d2d36af7ecd512b9",
+      "title_orig": "On the Agenda: What’s happening in France this week",
+      "summary_orig": "From Armistice Day and the anniversary of the November 13th terror attacks to strikes and a busy week for France’s international men’s rugby and football teams, here's what is happening in France this week.",
+      "lang": "en",
+      "title_en": "On the Agenda: What’s happening in France this week",
+      "summary_en": "From Armistice Day and the anniversary of the November 13th terror attacks to strikes and a busy week for France’s international men’s rugby and football teams, here's what is happening in France this week.",
+      "title": "On the Agenda: What’s happening in France this week",
+      "summary": "From Armistice Day and the anniversary of the November 13th terror attacks to strikes and a busy week for France’s international men’s rugby and football teams, here's what is happening in France this week.",
+      "url": "https://www.thelocal.fr/20251109/on-the-agenda-whats-happening-in-france-this-week-185",
+      "source": "The Local France",
+      "published_at": "2025-11-09T08:31:23+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3045,17 +3261,17 @@
       "geo": {}
     },
     {
-      "id": "837f56442b01f6df",
-      "title_orig": "Press Release: China Airlines brings Immfly W-IFE to A330s",
-      "summary_orig": "Immfly, a global leader in digital onboard solutions, has strengthened its strategic partnership with China Airlines to digitize and elevate the passenger experience. The collaboration, which began two years ago, now extends to more than ten Airbus 330 aircraft that will feature Immfly’s advanced W-IFE system — building on the exceptional success of the initial... The post Press Release: China Airlines brings Immfly W-IFE to A330s appeared first on Runway Girl .",
+      "id": "f96be0db825acba6",
+      "title_orig": "OPINION: 10 years on from the Bataclan, France can't be complacent or optimistic",
+      "summary_orig": "In the years after the murderous terror attacks of November 13th 2015 the resulting \"civil war\" and \"mass revenge\", predicted by some, failed to materialise, but France cannot be complacent or too optimistic given the challenges ahead, writes John Lichfield.",
       "lang": "en",
-      "title_en": "Press Release: China Airlines brings Immfly W-IFE to A330s",
-      "summary_en": "Immfly, a global leader in digital onboard solutions, has strengthened its strategic partnership with China Airlines to digitize and elevate the passenger experience. The collaboration, which began two years ago, now extends to more than ten Airbus 330 aircraft that will feature Immfly’s advanced W-IFE system — building on the exceptional success of the initial... The post Press Release: China Airlines brings Immfly W-IFE to A330s appeared first on Runway Girl .",
-      "title": "Press Release: China Airlines brings Immfly W-IFE to A330s",
-      "summary": "Immfly, a global leader in digital onboard solutions, has strengthened its strategic partnership with China Airlines to digitize and elevate the passenger experience. The collaboration, which began two years ago, now extends to more than ten Airbus 330 aircraft that will feature Immfly’s advanced W-IFE system — building on the exceptional success of the initial... The post Press Release: China Airlines brings Immfly W-IFE to A330s appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2025/11/china-airlines-brings-immfly-w-ife-to-a330s/",
-      "source": "Runway Girl",
-      "published_at": "2025-11-05T16:00:18+00:00",
+      "title_en": "OPINION: 10 years on from the Bataclan, France can't be complacent or optimistic",
+      "summary_en": "In the years after the murderous terror attacks of November 13th 2015 the resulting \"civil war\" and \"mass revenge\", predicted by some, failed to materialise, but France cannot be complacent or too optimistic given the challenges ahead, writes John Lichfield.",
+      "title": "OPINION: 10 years on from the Bataclan, France can't be complacent or optimistic",
+      "summary": "In the years after the murderous terror attacks of November 13th 2015 the resulting \"civil war\" and \"mass revenge\", predicted by some, failed to materialise, but France cannot be complacent or too optimistic given the challenges ahead, writes John Lichfield.",
+      "url": "https://www.thelocal.fr/20251105/opinion-10-years-on-from-the-bataclan-france-cant-be-complacent-or-optimistic",
+      "source": "The Local France",
+      "published_at": "2025-11-05T12:07:19+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3398,6 +3614,24 @@
       "url": "https://www.telegraph.co.uk/news/2024/08/16/friday-evening-news-briefing-border-force-to-strike-at-heat/",
       "source": "News",
       "published_at": "2024-08-16T16:21:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "35cce26a846a4e9e",
+      "title_orig": "Five Danish words that instantly make me nervous",
+      "summary_orig": "From e-Boks to fartkontrol, there are certain Danish words that can strike fear into your heart.",
+      "lang": "en",
+      "title_en": "Five Danish words that instantly make me nervous",
+      "summary_en": "From e-Boks to fartkontrol, there are certain Danish words that can strike fear into your heart.",
+      "title": "Five Danish words that instantly make me nervous",
+      "summary": "From e-Boks to fartkontrol, there are certain Danish words that can strike fear into your heart.",
+      "url": "https://www.thelocal.dk/20230509/five-danish-words-that-instantly-make-me-nervous",
+      "source": "The Local Denmark",
+      "published_at": "2023-05-09T14:39:16+00:00",
       "tags": [
         "airport/security"
       ],
