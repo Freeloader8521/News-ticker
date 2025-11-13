@@ -1,6 +1,96 @@
 {
-  "generated_at": "2025-11-13T19:41:16.259013+00:00",
+  "generated_at": "2025-11-13T20:22:22.133855+00:00",
   "items": [
+    {
+      "id": "1c6614b1d7add038",
+      "title_orig": "Dozens hospitalized and 11 in critical condition as chemical spill prompts evacuations in Oklahoma City",
+      "summary_orig": "A shelter-in-place order was lifted early Thursday morning",
+      "lang": "en",
+      "title_en": "Dozens hospitalized and 11 in critical condition as chemical spill prompts evacuations in Oklahoma City",
+      "summary_en": "A shelter-in-place order was lifted early Thursday morning",
+      "title": "Dozens hospitalized and 11 in critical condition as chemical spill prompts evacuations in Oklahoma City",
+      "summary": "A shelter-in-place order was lifted early Thursday morning",
+      "url": "https://www.independent.co.uk/news/world/americas/oklahoma-ammonia-leak-hospitalizations-b2864913.html",
+      "source": "The Independent World",
+      "published_at": "2025-11-13T20:11:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e9b628e60de4c403",
+      "title_orig": "‘Loud explosion’ at Penn State building led to evacuation. Here’s what really happened",
+      "summary_orig": "The building was evacuated, and the fire department rescued one person who was trapped due to the shifting floor.",
+      "lang": "en",
+      "title_en": "‘Loud explosion’ at Penn State building led to evacuation. Here’s what really happened",
+      "summary_en": "The building was evacuated, and the fire department rescued one person who was trapped due to the shifting floor.",
+      "title": "‘Loud explosion’ at Penn State building led to evacuation. Here’s what really happened",
+      "summary": "The building was evacuated, and the fire department rescued one person who was trapped due to the shifting floor.",
+      "url": "https://www.pennlive.com/news/2025/11/loud-explosion-at-penn-state-building-led-to-evacuation-heres-what-really-happened.html",
+      "source": "pennlive.com",
+      "published_at": "2025-11-13T20:09:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2ae5154a92c24433",
+      "title_orig": "Boeing defense workers ratify new contract to end 3-month strike in the Midwest",
+      "summary_orig": "Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract,…",
+      "lang": "en",
+      "title_en": "Boeing defense workers ratify new contract to end 3-month strike in the Midwest",
+      "summary_en": "Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract,…",
+      "title": "Boeing defense workers ratify new contract to end 3-month strike in the Midwest",
+      "summary": "Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract,…",
+      "url": "https://wtop.com/national/2025/11/boeing-defense-workers-ratify-new-contract-to-end-3-month-strike-in-the-midwest/",
+      "source": "WTOP News",
+      "published_at": "2025-11-13T19:54:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "455a2c437d5b7cb9",
+      "title_orig": "How France Remembers the November 2015 Terrorist Attacks in Paris",
+      "summary_orig": "A decade ago, Islamic State militants killed 130 people in an assault that shocked France. Some survivors are still struggling, but for many of their compatriots, memories of the attacks are growing more distant.",
+      "lang": "en",
+      "title_en": "How France Remembers the November 2015 Terrorist Attacks in Paris",
+      "summary_en": "A decade ago, Islamic State militants killed 130 people in an assault that shocked France. Some survivors are still struggling, but for many of their compatriots, memories of the attacks are growing more distant.",
+      "title": "How France Remembers the November 2015 Terrorist Attacks in Paris",
+      "summary": "A decade ago, Islamic State militants killed 130 people in an assault that shocked France. Some survivors are still struggling, but for many of their compatriots, memories of the attacks are growing more distant.",
+      "url": "https://www.nytimes.com/2025/11/13/world/europe/france-paris-terrorist-attacks-anniversary.html",
+      "source": "NYT > World News",
+      "published_at": "2025-11-13T19:54:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "2008c7661493e941",
+      "title_orig": "How has Paris changed since the 2015 terror attacks?",
+      "summary_orig": "Ten years ago, France's deadliest attacks since World War II hit Paris, killing 132 people and wounding at least 350. Clovis Casali, a FRANCE 24 Reporter, was present at one of the bars.",
+      "lang": "en",
+      "title_en": "How has Paris changed since the 2015 terror attacks?",
+      "summary_en": "Ten years ago, France's deadliest attacks since World War II hit Paris, killing 132 people and wounding at least 350. Clovis Casali, a FRANCE 24 Reporter, was present at one of the bars.",
+      "title": "How has Paris changed since the 2015 terror attacks?",
+      "summary": "Ten years ago, France's deadliest attacks since World War II hit Paris, killing 132 people and wounding at least 350. Clovis Casali, a FRANCE 24 Reporter, was present at one of the bars.",
+      "url": "https://www.france24.com/en/video/20251113-how-has-paris-changed-since-the-2015-terror-attacks",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-11-13T19:44:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "f85e4dbefac19216",
       "title_orig": "US designates four groups in Europe as terrorists, calls them 'violent Antifa'",
@@ -12,11 +102,65 @@
       "summary": "WASHINGTON - The United States on Thursday designated four entities in Germany, Italy and Greece as global terrorists, accusing them of being \\\"violent Antifa groups\\\" as President Donald Trump takes aim at left-wing groups.",
       "url": "https://www.straitstimes.com/world/europe/us-designates-four-groups-in-europe-as-terrorists-calls-them-violent-antifa",
       "source": "The Straits Times World News",
-      "published_at": "2025-11-13T19:36:59+00:00",
+      "published_at": "2025-11-13T19:41:59+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "27fff5d7763ad95e",
+      "title_orig": "How tiny details expose Putin’s location",
+      "summary_orig": "Vladimir Putin has exact replicas of his offices in different regions of Russia to conceal his whereabouts and thwart potential attacks, an investigation has claimed.",
+      "lang": "en",
+      "title_en": "How tiny details expose Putin’s location",
+      "summary_en": "Vladimir Putin has exact replicas of his offices in different regions of Russia to conceal his whereabouts and thwart potential attacks, an investigation has claimed.",
+      "title": "How tiny details expose Putin’s location",
+      "summary": "Vladimir Putin has exact replicas of his offices in different regions of Russia to conceal his whereabouts and thwart potential attacks, an investigation has claimed.",
+      "url": "https://www.stuff.co.nz/world-news/360886130/how-tiny-details-expose-putins-location",
+      "source": "Stuff - /",
+      "published_at": "2025-11-13T19:41:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fa4486150939a6d5",
+      "title_orig": "‘The pain remains’: France remembers victims of 2015 Paris attacks",
+      "summary_orig": "Bells ring out across French capital marking 10th anniversary of country’s deadliest peacetime attack Paris attacks anniversary – in pictures France has paid tribute to the 130 people killed 10 years ago by Islamic State gunmen and suicide bombers who targeted a stadium, bars, restaurants and the Bataclan concert hall in the country’s deadliest peacetime attack. “The pain remains,” Emmanuel Macron wrote on social media on Thursday as he visited each of the sites that were attacked. Bells rang out across the city as a remembrance ceremony began at a memorial garden in central Paris attended by relatives and survivors. Continue reading...",
+      "lang": "en",
+      "title_en": "‘The pain remains’: France remembers victims of 2015 Paris attacks",
+      "summary_en": "Bells ring out across French capital marking 10th anniversary of country’s deadliest peacetime attack Paris attacks anniversary – in pictures France has paid tribute to the 130 people killed 10 years ago by Islamic State gunmen and suicide bombers who targeted a stadium, bars, restaurants and the Bataclan concert hall in the country’s deadliest peacetime attack. “The pain remains,” Emmanuel Macron wrote on social media on Thursday as he visited each of the sites that were attacked. Bells rang out across the city as a remembrance ceremony began at a memorial garden in central Paris attended by relatives and survivors. Continue reading...",
+      "title": "‘The pain remains’: France remembers victims of 2015 Paris attacks",
+      "summary": "Bells ring out across French capital marking 10th anniversary of country’s deadliest peacetime attack Paris attacks anniversary – in pictures France has paid tribute to the 130 people killed 10 years ago by Islamic State gunmen and suicide bombers who targeted a stadium, bars, restaurants and the Bataclan concert hall in the country’s deadliest peacetime attack. “The pain remains,” Emmanuel Macron wrote on social media on Thursday as he visited each of the sites that were attacked. Bells rang out across the city as a remembrance ceremony began at a memorial garden in central Paris attended by relatives and survivors. Continue reading...",
+      "url": "https://www.theguardian.com/world/2025/nov/13/france-paris-attacks-10th-anniversary",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-13T19:30:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "3f25baba77b3beda",
+      "title_orig": "Survivors' choir sings Rival Sons at 2015 Paris attacks commemoration ceremony",
+      "summary_orig": "On November 13, 2025, terrorist attacks conducted in Paris by Islamic State fighters killed 132 people. One year on, a choir made up of survivors and victims's relatives sang 'Shooting Stars' by Rival Sons at the commemoration ceremony.",
+      "lang": "en",
+      "title_en": "Survivors' choir sings Rival Sons at 2015 Paris attacks commemoration ceremony",
+      "summary_en": "On November 13, 2025, terrorist attacks conducted in Paris by Islamic State fighters killed 132 people. One year on, a choir made up of survivors and victims's relatives sang 'Shooting Stars' by Rival Sons at the commemoration ceremony.",
+      "title": "Survivors' choir sings Rival Sons at 2015 Paris attacks commemoration ceremony",
+      "summary": "On November 13, 2025, terrorist attacks conducted in Paris by Islamic State fighters killed 132 people. One year on, a choir made up of survivors and victims's relatives sang 'Shooting Stars' by Rival Sons at the commemoration ceremony.",
+      "url": "https://www.france24.com/en/video/20251113-survivors-choir-sings-rival-sons-at-2015-paris-attacks-commemoration-ceremony",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-11-13T19:30:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -209,6 +353,42 @@
       "geo": {}
     },
     {
+      "id": "834fbf1a1f881159",
+      "title_orig": "French national anthem, 'La Marseillaise', at 2015 terror attacks commemoration ceremony",
+      "summary_orig": "France marks ten years since harrowing Paris terror attacks. French singer Axelle Saint-Cirel sang the French anthem, La Marseillaise, at the ceremony commemorating the attacks.",
+      "lang": "en",
+      "title_en": "French national anthem, 'La Marseillaise', at 2015 terror attacks commemoration ceremony",
+      "summary_en": "France marks ten years since harrowing Paris terror attacks. French singer Axelle Saint-Cirel sang the French anthem, La Marseillaise, at the ceremony commemorating the attacks.",
+      "title": "French national anthem, 'La Marseillaise', at 2015 terror attacks commemoration ceremony",
+      "summary": "France marks ten years since harrowing Paris terror attacks. French singer Axelle Saint-Cirel sang the French anthem, La Marseillaise, at the ceremony commemorating the attacks.",
+      "url": "https://www.france24.com/en/video/20251113-french-national-anthem-la-marseillaise-at-2015-terror-attacks-commemoration-ceremony",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-11-13T19:07:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6e4bce236860f76d",
+      "title_orig": "President Emmanuel Macron gives speech at ceremony commemorating 2015 Paris terror attacks",
+      "summary_orig": "On Thursday, during the ceremony commemorating the attacks of November 13, 2015, Emmanuel Macron described the “senseless, unjust, unbearable” pain of the victims. Ten years ago to the day,  Islamic State gunmen and suicide bombers targeted cafes, restaurants and the Bataclan concert hall, killing 132 people.",
+      "lang": "en",
+      "title_en": "President Emmanuel Macron gives speech at ceremony commemorating 2015 Paris terror attacks",
+      "summary_en": "On Thursday, during the ceremony commemorating the attacks of November 13, 2015, Emmanuel Macron described the “senseless, unjust, unbearable” pain of the victims. Ten years ago to the day,  Islamic State gunmen and suicide bombers targeted cafes, restaurants and the Bataclan concert hall, killing 132 people.",
+      "title": "President Emmanuel Macron gives speech at ceremony commemorating 2015 Paris terror attacks",
+      "summary": "On Thursday, during the ceremony commemorating the attacks of November 13, 2015, Emmanuel Macron described the “senseless, unjust, unbearable” pain of the victims. Ten years ago to the day,  Islamic State gunmen and suicide bombers targeted cafes, restaurants and the Bataclan concert hall, killing 132 people.",
+      "url": "https://www.france24.com/en/video/20251113-president-emmanuel-macron-gives-speech-at-ceremony-commemorating-2015-paris-terror-attacks",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-11-13T19:05:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "fb63b113c8f63558",
       "title_orig": "COAS Munir’s tenure to reset with CDF appointment after NA approves army act changes",
       "summary_orig": "Chief of the Army Staff (COAS) Field Marshal Asim Munir is set to have his tenure reset upon his appointment as chief of the defence forces (CDF), after the National Assembly approved amendments to laws governing the three branches of the armed forces shortly after the government tabled them. The amendments were tabled soon after President Asif Ali Zardari gave his assent to the contentious 27th Constitutional Amendment, enacting it into law. Defence Minister Khawaja Asif introduced the Pakistan Army Act (Amendment) Bill 2025, the Pakistan Air Force (Amendment) Bill 2025 and the Pakistan Navy (Amendment) Bill 2025, which were passed with a majority vote. Meanwhile, Law Minister Azam Nazeer Tarar introduced the Supreme Court Practice and Procedure (Amendment) Bill 2025, which was also passed with a majority vote. Tarar said the four bills, which were passed in nine minutes without any debate, were meant to harmonise the existing laws with the recently signed 27th Constitutional Amendment Act. “These are not new laws. These are amendments to the present laws,” he said. The law minister said the change in the army act was to make the COAS the CDF and to eliminate the post of the chairman joint chiefs of staff committee (CJCSC), adding that the CDF’s term would be five years from the date of appointment. The amendment further said that the tenure of the incumbent army chief would recommence from the date of his notification as the CDF. The changes also included replacing the position of the CJCSC with the commander of the National Strategic Command (CNSC). They outlined that the prime minister would appoint the CNSC on the recommendation of the army chief from the generals of the army for a three-year tenure. It added that the prime minister could also reappoint the CNSC or extend his tenure by three years on the army chief’s recommendation. The changes further said that the prime minister could, on the army chief’s recommendation, authorise an officer appointed as the vice or deputy chief of army staff to exercise and perform the powers and functions vested in the army chief. The amendments to the air force and navy laws included the elimination of the post of CJCSC from their documents. Meanwhile, the amendment to the Supreme Court law paved the way for the elimination of the constitutional bench. The president’s assent to the 27th Constitutional Amendment came hours after the Senate approved the bill for the amendment after voting on it for a second time amid the opposition’s protest. Announcing the result, Senate Chairman Yousuf Raza Gilani said 64 votes had been cast in favour of the bill and four against it. “So the motion is carried by the votes of not less than two-thirds of the total membership of the Senate, and consequently, the bill stands passed.” The house first voted on the bill clause by clause and then by division. While clause-by-clause voting was underway, slogans of aain ki tabahi, na manzoor (destruction of the Constitution, unacceptable) filled the house, prompting Gilani to say at one point, “No slogans”. The bill was initially presented in the Senate for voting on Monday and passed the same day. It was then referred to the NA, which approved it with some amendments yesterday. Therefore, the proposed legislation was again presented in the Senate today to consider the latest changes. Law Minister Azam Nazeer Tarar again tabled the bill in the upper house of Parliament today. COAS Munir’s extension Field Marshal Munir was appointed the army chief on November 29, 2022. He is the 17th army chief to assume the command of the Pakistan Army. In November 2024, the government passed six bills, including three related to the extension of the terms of armed services chiefs, amid deafening protests by the opposition. The three bills were The Pakistan Army (Amendment) Bill, 2024, The Pakistan Air Force (Amendment) Bill, 2024 and The Pakistan Navy (Amendment) Bill, 2024. The salient features of the bills stated that the tenure of all three services chiefs (chief of army staff, chief of air staff and chief of naval staff) will be five years, instead of three. The retirement age bar of 64 years (for generals, air chief marshals and admirals) won’t apply to these three functionaries and extensions, re-appointments for these posts (if any) will also be for five years. However, the tenure of the CJCSC had remained unchanged, at three years. The government promoted the COAS to the rank of field marshal in recognition of his ‘strategic leadership and decisive role’ in defeating India during the war in May this year. In September, Prime Minister’s Adviser on Political Affairs Rana Sanaullah Khan had said that the tenure of the army chief would end in 2027 and a decision whether to extend it or not would be taken at that time. Earlier this month, Minister of State for Law and Justice Barrister Aqeel Malik said that there was no need for a notification to specify the army chief’s five-year term, as it was established in Section 8C of the Pakistan Army Act. He had said no new notification was required for the COAS’s five-year term and the section was always a part of legislation. Section 8C of the Pakistan Army Act outlines the “retirement age and service limits prescribed for a general, under the rules and regulations made under this Act, shall not be applicable to the chief of the army staff, during his tenure of appointment, reappointment or extension, subject to a maximum age of sixty-four (64) years. Throughout such tenure, the chief of the army staff shall continue to serve as general in the Pakistan Army”.",
@@ -238,24 +418,6 @@
       "url": "https://www.france24.com/en/video/20251113-paris-remembers-2015-terror-attacks-commemoration-ceremony-opens-with-music",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2025-11-13T18:54:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "7a37e606810771fc",
-      "title_orig": "Newsnight accused of selectively editing same Trump Capitol riots speech as Panorama",
-      "summary_orig": "BBC show accused of editing speech to make it appear as if Trump made a more explicit call for violence from his supporters BBC’s Newsnight has been accused of editing a Donald Trump speech in a way that made it appear that he made a more explicit call for violent protest ahead of the Capitol riots. The corporation is already reeling from the resignation of the director general, Tim Davie , and the head of BBC News, Deborah Turness, which followed the splicing together of the same Trump speech in an edition of Panorama last year . Continue reading...",
-      "lang": "en",
-      "title_en": "Newsnight accused of selectively editing same Trump Capitol riots speech as Panorama",
-      "summary_en": "BBC show accused of editing speech to make it appear as if Trump made a more explicit call for violence from his supporters BBC’s Newsnight has been accused of editing a Donald Trump speech in a way that made it appear that he made a more explicit call for violent protest ahead of the Capitol riots. The corporation is already reeling from the resignation of the director general, Tim Davie , and the head of BBC News, Deborah Turness, which followed the splicing together of the same Trump speech in an edition of Panorama last year . Continue reading...",
-      "title": "Newsnight accused of selectively editing same Trump Capitol riots speech as Panorama",
-      "summary": "BBC show accused of editing speech to make it appear as if Trump made a more explicit call for violence from his supporters BBC’s Newsnight has been accused of editing a Donald Trump speech in a way that made it appear that he made a more explicit call for violent protest ahead of the Capitol riots. The corporation is already reeling from the resignation of the director general, Tim Davie , and the head of BBC News, Deborah Turness, which followed the splicing together of the same Trump speech in an edition of Panorama last year . Continue reading...",
-      "url": "https://www.theguardian.com/media/2025/nov/13/newsnight-accused-of-selectively-editing-same-trump-capitol-riots-speech-as-panorama",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-13T18:54:01+00:00",
       "tags": [
         "airport/security"
       ],
@@ -422,42 +584,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "fa4486150939a6d5",
-      "title_orig": "‘The pain remains’: France remembers victims of 2015 Paris attacks",
-      "summary_orig": "Bells ring out across French capital marking 10th anniversary of country’s deadliest peacetime attack Paris attacks anniversary – in pictures France has paid tribute to the 130 people killed 10 years ago by Islamic State gunmen and suicide bombers who targeted a stadium, bars, restaurants and the Bataclan concert hall in the country’s deadliest peacetime attack. “The pain remains,” Emmanuel Macron wrote on social media on Thursday as he visited each of the sites that were attacked. Bells rang out across the city as a remembrance ceremony began at a memorial garden in central Paris attended by relatives and survivors. Continue reading...",
-      "lang": "en",
-      "title_en": "‘The pain remains’: France remembers victims of 2015 Paris attacks",
-      "summary_en": "Bells ring out across French capital marking 10th anniversary of country’s deadliest peacetime attack Paris attacks anniversary – in pictures France has paid tribute to the 130 people killed 10 years ago by Islamic State gunmen and suicide bombers who targeted a stadium, bars, restaurants and the Bataclan concert hall in the country’s deadliest peacetime attack. “The pain remains,” Emmanuel Macron wrote on social media on Thursday as he visited each of the sites that were attacked. Bells rang out across the city as a remembrance ceremony began at a memorial garden in central Paris attended by relatives and survivors. Continue reading...",
-      "title": "‘The pain remains’: France remembers victims of 2015 Paris attacks",
-      "summary": "Bells ring out across French capital marking 10th anniversary of country’s deadliest peacetime attack Paris attacks anniversary – in pictures France has paid tribute to the 130 people killed 10 years ago by Islamic State gunmen and suicide bombers who targeted a stadium, bars, restaurants and the Bataclan concert hall in the country’s deadliest peacetime attack. “The pain remains,” Emmanuel Macron wrote on social media on Thursday as he visited each of the sites that were attacked. Bells rang out across the city as a remembrance ceremony began at a memorial garden in central Paris attended by relatives and survivors. Continue reading...",
-      "url": "https://www.theguardian.com/world/2025/nov/13/france-paris-attacks-10th-anniversary",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-13T18:32:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "a20b85ee9940c5ad",
-      "title_orig": "AI slop tops Billboard and Spotify charts as synthetic music spreads",
-      "summary_orig": "Hits include country songs and a Dutch anti-refugee anthem, both entirely made without human composition Three songs generated by artificial intelligence topped music charts this week, reaching the highest spots on Spotify and Billboard charts. Walk My Walk and Livin’ on Borrowed Time by the outfit Breaking Rust topped Spotify’s “Viral 50” songs in the US, which documents the “most viral tracks right now” on a daily basis, according to the streaming service. A Dutch song, We Say No, No, No to an Asylum Center, an anti-migrant anthem by JW “Broken Veteran” that protests against the creation of new asylum centers, took the top position in Spotify’s global version of the viral chart around the same time. Breaking Rust also appeared in the top five on the global chart. Continue reading...",
-      "lang": "en",
-      "title_en": "AI slop tops Billboard and Spotify charts as synthetic music spreads",
-      "summary_en": "Hits include country songs and a Dutch anti-refugee anthem, both entirely made without human composition Three songs generated by artificial intelligence topped music charts this week, reaching the highest spots on Spotify and Billboard charts. Walk My Walk and Livin’ on Borrowed Time by the outfit Breaking Rust topped Spotify’s “Viral 50” songs in the US, which documents the “most viral tracks right now” on a daily basis, according to the streaming service. A Dutch song, We Say No, No, No to an Asylum Center, an anti-migrant anthem by JW “Broken Veteran” that protests against the creation of new asylum centers, took the top position in Spotify’s global version of the viral chart around the same time. Breaking Rust also appeared in the top five on the global chart. Continue reading...",
-      "title": "AI slop tops Billboard and Spotify charts as synthetic music spreads",
-      "summary": "Hits include country songs and a Dutch anti-refugee anthem, both entirely made without human composition Three songs generated by artificial intelligence topped music charts this week, reaching the highest spots on Spotify and Billboard charts. Walk My Walk and Livin’ on Borrowed Time by the outfit Breaking Rust topped Spotify’s “Viral 50” songs in the US, which documents the “most viral tracks right now” on a daily basis, according to the streaming service. A Dutch song, We Say No, No, No to an Asylum Center, an anti-migrant anthem by JW “Broken Veteran” that protests against the creation of new asylum centers, took the top position in Spotify’s global version of the viral chart around the same time. Breaking Rust also appeared in the top five on the global chart. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2025/nov/13/ai-music-spotify-billboard-charts",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-13T18:29:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -668,24 +794,6 @@
       "geo": {}
     },
     {
-      "id": "455a2c437d5b7cb9",
-      "title_orig": "How France Remembers the November 2015 Terrorist Attacks in Paris",
-      "summary_orig": "A decade ago, Islamic State militants killed 130 people in an assault that shocked France. Some survivors are still struggling, but for many of their compatriots, memories of the attacks are growing more distant.",
-      "lang": "en",
-      "title_en": "How France Remembers the November 2015 Terrorist Attacks in Paris",
-      "summary_en": "A decade ago, Islamic State militants killed 130 people in an assault that shocked France. Some survivors are still struggling, but for many of their compatriots, memories of the attacks are growing more distant.",
-      "title": "How France Remembers the November 2015 Terrorist Attacks in Paris",
-      "summary": "A decade ago, Islamic State militants killed 130 people in an assault that shocked France. Some survivors are still struggling, but for many of their compatriots, memories of the attacks are growing more distant.",
-      "url": "https://www.nytimes.com/2025/11/13/world/europe/france-paris-terrorist-attacks-anniversary.html",
-      "source": "NYT > World News",
-      "published_at": "2025-11-13T17:55:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "c8263586bacf0d56",
       "title_orig": "University of Derby staff vote for strike action after redundancy threat from bosses",
       "summary_orig": "A huge number of staff involved in a ballot voted 'yes' to a strike",
@@ -814,12 +922,12 @@
     {
       "id": "9a762186f9d0d7ea",
       "title_orig": "France commemorates victims of deadly Paris attacks 10 years on",
-      "summary_orig": "PARIS - France paid an emotional tribute on Thursday to 130 people killed 10 years ago during a rampage by Islamic State gunmen and suicide bombers targeting cafes, restaurants and the Bataclan concert hall.",
+      "summary_orig": "More than 130 people were killed 10 years ago during a rampage by ISIS gunmen and suicide bombers.",
       "lang": "en",
       "title_en": "France commemorates victims of deadly Paris attacks 10 years on",
-      "summary_en": "PARIS - France paid an emotional tribute on Thursday to 130 people killed 10 years ago during a rampage by Islamic State gunmen and suicide bombers targeting cafes, restaurants and the Bataclan concert hall.",
+      "summary_en": "More than 130 people were killed 10 years ago during a rampage by ISIS gunmen and suicide bombers.",
       "title": "France commemorates victims of deadly Paris attacks 10 years on",
-      "summary": "PARIS - France paid an emotional tribute on Thursday to 130 people killed 10 years ago during a rampage by Islamic State gunmen and suicide bombers targeting cafes, restaurants and the Bataclan concert hall.",
+      "summary": "More than 130 people were killed 10 years ago during a rampage by ISIS gunmen and suicide bombers.",
       "url": "https://www.straitstimes.com/world/europe/france-commemorates-victims-of-deadly-paris-attacks-10-years-on",
       "source": "The Straits Times World News",
       "published_at": "2025-11-13T17:41:50+00:00",
@@ -1136,24 +1244,6 @@
       "geo": {}
     },
     {
-      "id": "a8521487f140f8d6",
-      "title_orig": "Girl, 17, stabbed to death and mother injured in horror attack",
-      "summary_orig": "An 18-year-old has been arrested on suspicion of murder",
-      "lang": "en",
-      "title_en": "Girl, 17, stabbed to death and mother injured in horror attack",
-      "summary_en": "An 18-year-old has been arrested on suspicion of murder",
-      "title": "Girl, 17, stabbed to death and mother injured in horror attack",
-      "summary": "An 18-year-old has been arrested on suspicion of murder",
-      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/girl-17-stabbed-death-mother-32870036",
-      "source": "MEN - News",
-      "published_at": "2025-11-13T16:40:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "445d693226145004",
       "title_orig": "Could the incoming storm help bring Southern California’s 'fire season' to a close?",
       "summary_orig": "With sandbags at the ready and evacuation warnings in place, Southern California is bracing for potential damage from an atmospheric river storm expected to arrive Thursday evening. However, according to some officials, the incoming system might also bring a significant upside. Although the days-long rainfall could trigger mudslides, debris flows and flooding — especially in [...]",
@@ -1255,24 +1345,6 @@
       "url": "https://www.thehindu.com/news/national/indian-agencies-monitoring-pakistans-tech-transfer-deal-with-european-drone-maker/article70276261.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2025-11-13T16:21:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9c8fe78390acac90",
-      "title_orig": "Trump team scrambles to deal with Epstein files as House sets vote to release the documents: Live updates",
-      "summary_orig": "Bombshell release of emails from disgraced financier by House Oversight Committee rocks president as White House insists scandal is ‘fake narrative’ and a ‘Democrat hoax’",
-      "lang": "en",
-      "title_en": "Trump team scrambles to deal with Epstein files as House sets vote to release the documents: Live updates",
-      "summary_en": "Bombshell release of emails from disgraced financier by House Oversight Committee rocks president as White House insists scandal is ‘fake narrative’ and a ‘Democrat hoax’",
-      "title": "Trump team scrambles to deal with Epstein files as House sets vote to release the documents: Live updates",
-      "summary": "Bombshell release of emails from disgraced financier by House Oversight Committee rocks president as White House insists scandal is ‘fake narrative’ and a ‘Democrat hoax’",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-epstein-email-live-updates-b2864731.html",
-      "source": "The Independent World",
-      "published_at": "2025-11-13T16:19:48+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1487,24 +1559,6 @@
       }
     },
     {
-      "id": "2b3e387d95505cec",
-      "title_orig": "Ecuadorians vote on the return of foreign military bases to their country",
-      "summary_orig": "This Sunday, Ecuadorians are set to vote on whether to allow foreign military bases to return to the country. Ecuador had previously played host to a US military base for a decade, but kicked US troops out in 2008. The referendum comes as US forces are conducting a campaign of strikes against boats they say are carrying drugs in the Pacific and Caribbean. Story by Ellen Gainsford.",
-      "lang": "en",
-      "title_en": "Ecuadorians vote on the return of foreign military bases to their country",
-      "summary_en": "This Sunday, Ecuadorians are set to vote on whether to allow foreign military bases to return to the country. Ecuador had previously played host to a US military base for a decade, but kicked US troops out in 2008. The referendum comes as US forces are conducting a campaign of strikes against boats they say are carrying drugs in the Pacific and Caribbean. Story by Ellen Gainsford.",
-      "title": "Ecuadorians vote on the return of foreign military bases to their country",
-      "summary": "This Sunday, Ecuadorians are set to vote on whether to allow foreign military bases to return to the country. Ecuador had previously played host to a US military base for a decade, but kicked US troops out in 2008. The referendum comes as US forces are conducting a campaign of strikes against boats they say are carrying drugs in the Pacific and Caribbean. Story by Ellen Gainsford.",
-      "url": "https://www.france24.com/en/video/20251113-ecuadorians-vote-on-the-return-of-foreign-military-bases-to-their-country",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-13T15:32:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "59b053dc569602dc",
       "title_orig": "Miscreants set fire to sugarcane tractors in Bagalkot amid farmers’ protest",
       "summary_orig": "Protesting farmers claim that they were not involved in the violence and there was an effort to frame them",
@@ -1631,24 +1685,6 @@
       "geo": {}
     },
     {
-      "id": "920babe1508cce25",
-      "title_orig": "France honours the 132 victims of the Paris 2015 terrorist attacks",
-      "summary_orig": "On November 13, 2015, coordinated terrorist attacks turned Paris into a theater of blood and calamity, with gunfire on café terraces, explosions by a stadium and a nighttime massacre at the Bataclan concert hall, leaving 132 people dead and at least 350 injured. Throughout the day Macron, survivors and relatives of victims will honour those killed and wounded at each of the sites of the attacks.",
-      "lang": "en",
-      "title_en": "France honours the 132 victims of the Paris 2015 terrorist attacks",
-      "summary_en": "On November 13, 2015, coordinated terrorist attacks turned Paris into a theater of blood and calamity, with gunfire on café terraces, explosions by a stadium and a nighttime massacre at the Bataclan concert hall, leaving 132 people dead and at least 350 injured. Throughout the day Macron, survivors and relatives of victims will honour those killed and wounded at each of the sites of the attacks.",
-      "title": "France honours the 132 victims of the Paris 2015 terrorist attacks",
-      "summary": "On November 13, 2015, coordinated terrorist attacks turned Paris into a theater of blood and calamity, with gunfire on café terraces, explosions by a stadium and a nighttime massacre at the Bataclan concert hall, leaving 132 people dead and at least 350 injured. Throughout the day Macron, survivors and relatives of victims will honour those killed and wounded at each of the sites of the attacks.",
-      "url": "https://www.france24.com/en/video/20251113-france-honours-the-132-victims-of-the-paris-2015-terrorist-attacks",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-13T15:14:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "20f9c75b39abc7be",
       "title_orig": "Danish government and defence websites hit by cyberattack",
       "summary_orig": "Danish government and defence websites were hit in a wide-ranging cyberattack on Thursday, the country's Civil Protection Agency said, with pro-Russia hackers claiming responsibility.",
@@ -1721,24 +1757,6 @@
       "geo": {}
     },
     {
-      "id": "72b8031868b0cc28",
-      "title_orig": "Photographer Ammar Abd Rabbo remembers capturing aftermath of Paris attacks",
-      "summary_orig": "A Franco-Syrian photographer who came to Paris directly after the attacks of November 13, 2015 has spoken to FRANCE 24 about his reasons for abandoning what he was doing, and how his decision to come to Paris has affected him since. Ammar Abd Rabbo took many pictures in the days after the attacks as he felt he needed to come to the city where he grew up to pay tribute to the victims. He says he also felt, as a Muslim, very pleased at the way civil society dealt with what happened. He spoke to us in Perspective.",
-      "lang": "en",
-      "title_en": "Photographer Ammar Abd Rabbo remembers capturing aftermath of Paris attacks",
-      "summary_en": "A Franco-Syrian photographer who came to Paris directly after the attacks of November 13, 2015 has spoken to FRANCE 24 about his reasons for abandoning what he was doing, and how his decision to come to Paris has affected him since. Ammar Abd Rabbo took many pictures in the days after the attacks as he felt he needed to come to the city where he grew up to pay tribute to the victims. He says he also felt, as a Muslim, very pleased at the way civil society dealt with what happened. He spoke to us in Perspective.",
-      "title": "Photographer Ammar Abd Rabbo remembers capturing aftermath of Paris attacks",
-      "summary": "A Franco-Syrian photographer who came to Paris directly after the attacks of November 13, 2015 has spoken to FRANCE 24 about his reasons for abandoning what he was doing, and how his decision to come to Paris has affected him since. Ammar Abd Rabbo took many pictures in the days after the attacks as he felt he needed to come to the city where he grew up to pay tribute to the victims. He says he also felt, as a Muslim, very pleased at the way civil society dealt with what happened. He spoke to us in Perspective.",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20251113-photographer-ammar-abd-rabbo-remembers-capturing-aftermath-of-paris-attacks",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-13T14:57:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "055deb62cceee838",
       "title_orig": "Top Edinburgh lawyer kicked man after a drink-fuelled homophobic rant on train",
       "summary_orig": "Lindsay, who is presently a commercial lawyer working for the firm BlackRock which is based in the capital, went on to attack a man while he tried to usher her back to her seat.",
@@ -1793,24 +1811,6 @@
       "geo": {}
     },
     {
-      "id": "0e015e2672596d9f",
-      "title_orig": "The Bataclan attack, 10 years on: Through the lens of photographer Marion Ruszniewski",
-      "summary_orig": "The Bataclan music venue has become synonymous with the Paris terror attacks of November 2015, when 130 people were killed, 90 of them while attending an Eagles of Death Metal concert at the Bataclan. Photographer Marion Ruszniewski was on assignment at the venue and was injured in the attack. Ten years on, she tells us about the events of that tragic evening, as well as her feelings about returning to work at the Bataclan a year later. Plus, as Marion publishes a book detailing two decades of concert photography, we discuss the resilient spirit that saw Parisians return to the bars, cafés and concert halls in the aftermath of the tragedy.",
-      "lang": "en",
-      "title_en": "The Bataclan attack, 10 years on: Through the lens of photographer Marion Ruszniewski",
-      "summary_en": "The Bataclan music venue has become synonymous with the Paris terror attacks of November 2015, when 130 people were killed, 90 of them while attending an Eagles of Death Metal concert at the Bataclan. Photographer Marion Ruszniewski was on assignment at the venue and was injured in the attack. Ten years on, she tells us about the events of that tragic evening, as well as her feelings about returning to work at the Bataclan a year later. Plus, as Marion publishes a book detailing two decades of concert photography, we discuss the resilient spirit that saw Parisians return to the bars, cafés and concert halls in the aftermath of the tragedy.",
-      "title": "The Bataclan attack, 10 years on: Through the lens of photographer Marion Ruszniewski",
-      "summary": "The Bataclan music venue has become synonymous with the Paris terror attacks of November 2015, when 130 people were killed, 90 of them while attending an Eagles of Death Metal concert at the Bataclan. Photographer Marion Ruszniewski was on assignment at the venue and was injured in the attack. Ten years on, she tells us about the events of that tragic evening, as well as her feelings about returning to work at the Bataclan a year later. Plus, as Marion publishes a book detailing two decades of concert photography, we discuss the resilient spirit that saw Parisians return to the bars, cafés and concert halls in the aftermath of the tragedy.",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20251113-the-bataclan-attack-10-years-on-through-the-lens-of-photographer-marion-ruzniewski",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-13T14:41:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "c794452ed616c1f7",
       "title_orig": "Cyber attack hits Danish govt, defence websites",
       "summary_orig": "A pro-Russian hacker group called NoName057 claimed responsibility.",
@@ -1844,24 +1844,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6828eaab73c7c958",
-      "title_orig": "2015 Paris terror attacks: The longest trial in French history",
-      "summary_orig": "On November 13, 2015, coordinated terrorist attacks turned Paris into a theater of blood and calamity, with gunfire on café terraces, explosions by a stadium and a nighttime massacre at the Bataclan concert hall, leaving 132 people dead and at least 350 injured. The trial took place from September 2021 to May 2022… making it the longest trial ever held in France. Lou Kiziéla and Simon Moritz look back on this momentous event in French legal history.",
-      "lang": "en",
-      "title_en": "2015 Paris terror attacks: The longest trial in French history",
-      "summary_en": "On November 13, 2015, coordinated terrorist attacks turned Paris into a theater of blood and calamity, with gunfire on café terraces, explosions by a stadium and a nighttime massacre at the Bataclan concert hall, leaving 132 people dead and at least 350 injured. The trial took place from September 2021 to May 2022… making it the longest trial ever held in France. Lou Kiziéla and Simon Moritz look back on this momentous event in French legal history.",
-      "title": "2015 Paris terror attacks: The longest trial in French history",
-      "summary": "On November 13, 2015, coordinated terrorist attacks turned Paris into a theater of blood and calamity, with gunfire on café terraces, explosions by a stadium and a nighttime massacre at the Bataclan concert hall, leaving 132 people dead and at least 350 injured. The trial took place from September 2021 to May 2022… making it the longest trial ever held in France. Lou Kiziéla and Simon Moritz look back on this momentous event in French legal history.",
-      "url": "https://www.france24.com/en/video/20251113-2015-paris-terror-attacks-the-longest-trial-in-french-history",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-13T14:34:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2586,24 +2568,6 @@
       "geo": {}
     },
     {
-      "id": "c1306e7c35b7e62d",
-      "title_orig": "Derry security alert causes 'massive disruption' as two viable pipe bombs found",
-      "summary_orig": "A police public safety operation saw close to two dozen homes evacuated as cordons were put in place",
-      "lang": "en",
-      "title_en": "Derry security alert causes 'massive disruption' as two viable pipe bombs found",
-      "summary_en": "A police public safety operation saw close to two dozen homes evacuated as cordons were put in place",
-      "title": "Derry security alert causes 'massive disruption' as two viable pipe bombs found",
-      "summary": "A police public safety operation saw close to two dozen homes evacuated as cordons were put in place",
-      "url": "https://www.belfastlive.co.uk/news/northern-ireland/derry-security-alert-causes-massive-32865565",
-      "source": "BelfastLive - Home",
-      "published_at": "2025-11-13T10:34:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d9c1d7e80be16944",
       "title_orig": "Cambodia trying to ‘frame’ Thailand, says defence minister",
       "summary_orig": "Cambodian soldiers fired at Thai soldiers in Sa Kaeo province on Wednesday to provoke a fight and frame Thailand for attacking it, according to Thailand’s defence minister.",
@@ -3307,24 +3271,6 @@
       "geo": {}
     },
     {
-      "id": "02e049b043e99db1",
-      "title_orig": "President Trump signs government funding bill, ending shutdown after a record 43-day disruption",
-      "summary_orig": "WASHINGTON (AP) — President Donald Trump signed a government funding bill Wednesday night, ending a record 43-day shutdown that caused financial stress for federal workers who went without paychecks, stranded scores of travelers at airports and generated long lines at some food banks. The shutdown magnified partisan divisions in Washington as Trump took unprecedented unilateral [...]",
-      "lang": "en",
-      "title_en": "President Trump signs government funding bill, ending shutdown after a record 43-day disruption",
-      "summary_en": "WASHINGTON (AP) — President Donald Trump signed a government funding bill Wednesday night, ending a record 43-day shutdown that caused financial stress for federal workers who went without paychecks, stranded scores of travelers at airports and generated long lines at some food banks. The shutdown magnified partisan divisions in Washington as Trump took unprecedented unilateral [...]",
-      "title": "President Trump signs government funding bill, ending shutdown after a record 43-day disruption",
-      "summary": "WASHINGTON (AP) — President Donald Trump signed a government funding bill Wednesday night, ending a record 43-day shutdown that caused financial stress for federal workers who went without paychecks, stranded scores of travelers at airports and generated long lines at some food banks. The shutdown magnified partisan divisions in Washington as Trump took unprecedented unilateral [...]",
-      "url": "https://ktla.com/news/politics/ap-house-returns-for-vote-to-end-the-government-shutdown-after-nearly-2-months-away/",
-      "source": "KTLA",
-      "published_at": "2025-11-13T04:41:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5e371ba921c1ec11",
       "title_orig": "‘We are going to fight’: Newport among sites mulled for ICE facility, city says",
       "summary_orig": "A Texas military housing contractor rescinded its offer to lease land at the Newport Airport, however.",
@@ -3372,24 +3318,6 @@
       "url": "https://ktla.com/news/local-news/evacuation-warnings-issued-ahead-of-storm-barreling-toward-southern-california/",
       "source": "KTLA",
       "published_at": "2025-11-13T04:01:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f818c16aded33b2c",
-      "title_orig": "Israel’s president says ‘shocking’ settler violence against Palestinians must end after several injured in attack",
-      "summary_orig": "Several injured as dozens of masked Israeli settlers attacked Palestinians gathered for an olive harvest in the occupied West Bank",
-      "lang": "en",
-      "title_en": "Israel’s president says ‘shocking’ settler violence against Palestinians must end after several injured in attack",
-      "summary_en": "Several injured as dozens of masked Israeli settlers attacked Palestinians gathered for an olive harvest in the occupied West Bank",
-      "title": "Israel’s president says ‘shocking’ settler violence against Palestinians must end after several injured in attack",
-      "summary": "Several injured as dozens of masked Israeli settlers attacked Palestinians gathered for an olive harvest in the occupied West Bank",
-      "url": "https://www.independent.co.uk/news/world/middle-east/west-bank-israel-attack-palestinians-iaac-herzog-b2864240.html",
-      "source": "The Independent World",
-      "published_at": "2025-11-13T03:41:11+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3534,42 +3462,6 @@
       "url": "https://fox5sandiego.com/news/local-news/east-county/small-plane-suffers-hard-landing-at-el-cajon-airport-no-injuries-reported/",
       "source": "FOX 5 San Diego & KUSI News",
       "published_at": "2025-11-12T21:53:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2f2d2c8602ba1a06",
-      "title_orig": "£400 Shark Stratos cordless vacuum slashed to £199 in huge Amazon deal",
-      "summary_orig": "Amazon’s early Black Friday deals strike again – Shark’s premium Stratos vacuum is now half price at just £199",
-      "lang": "en",
-      "title_en": "£400 Shark Stratos cordless vacuum slashed to £199 in huge Amazon deal",
-      "summary_en": "Amazon’s early Black Friday deals strike again – Shark’s premium Stratos vacuum is now half price at just £199",
-      "title": "£400 Shark Stratos cordless vacuum slashed to £199 in huge Amazon deal",
-      "summary": "Amazon’s early Black Friday deals strike again – Shark’s premium Stratos vacuum is now half price at just £199",
-      "url": "https://www.yorkshireeveningpost.co.uk/recommended/shark-stratos-cordless-vacuum-amazon-deal-home-cleaning-5398648",
-      "source": "Yorkshire Evening Post",
-      "published_at": "2025-11-12T19:30:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "42fb41807daee9a4",
-      "title_orig": "£400 Shark Stratos cordless vacuum slashed to £199 in huge Amazon deal",
-      "summary_orig": "Amazon’s early Black Friday deals strike again – Shark’s premium Stratos vacuum is now half price at just £199",
-      "lang": "en",
-      "title_en": "£400 Shark Stratos cordless vacuum slashed to £199 in huge Amazon deal",
-      "summary_en": "Amazon’s early Black Friday deals strike again – Shark’s premium Stratos vacuum is now half price at just £199",
-      "title": "£400 Shark Stratos cordless vacuum slashed to £199 in huge Amazon deal",
-      "summary": "Amazon’s early Black Friday deals strike again – Shark’s premium Stratos vacuum is now half price at just £199",
-      "url": "https://www.edinburghnews.scotsman.com/recommended/shark-stratos-cordless-vacuum-amazon-deal-home-cleaning-5398648",
-      "source": "Edinburgh News",
-      "published_at": "2025-11-12T19:30:56+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4659,35 +4551,17 @@
       "geo": {}
     },
     {
-      "id": "74d96c3cee04f084",
-      "title_orig": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
-      "summary_orig": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
+      "id": "125ce8004fffd2e6",
+      "title_orig": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary_orig": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
       "lang": "en",
-      "title_en": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
-      "summary_en": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
-      "title": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
-      "summary": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
-      "url": "https://www.arabnews.com/node/2620879/middle-east",
+      "title_en": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary_en": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
+      "title": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
+      "url": "https://www.arabnews.com/node/2620840/world",
       "source": "ArabNews",
-      "published_at": "2025-10-30T01:10:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "898f45ccb36c14f8",
-      "title_orig": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
-      "summary_orig": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
-      "lang": "en",
-      "title_en": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
-      "summary_en": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
-      "title": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
-      "summary": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
-      "url": "https://www.arabnews.com/node/2620881/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-10-30T01:10:04+00:00",
+      "published_at": "2025-10-30T08:10:28+00:00",
       "tags": [
         "airport/security"
       ],
