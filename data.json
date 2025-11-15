@@ -1,6 +1,105 @@
 {
-  "generated_at": "2025-11-15T13:32:55.119974+00:00",
+  "generated_at": "2025-11-15T13:47:03.861576+00:00",
   "items": [
+    {
+      "id": "1ed617093d7aee3e",
+      "title_orig": "Vizianagaram municipal contractors end 12-day protest",
+      "summary_orig": "",
+      "lang": "it",
+      "title_en": "Vizianagaram municipal contractors end 12-day protest",
+      "summary_en": "",
+      "title": "Vizianagaram municipal contractors end 12-day protest",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-municipal-contractors-end-12-day-protest/article70283751.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-11-15T13:35:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f3e590d1b78b23df",
+      "title_orig": "Nazi runways, a killer horse and secret bunkers for the Illuminati: How a US airport became a hotbed of conspiracy theories",
+      "summary_orig": "From secret tunnels of lizard people to a cursed statue, Andrea Cavallier takes a look at the most bizarre conspiracy theories swirling around Denver International Airport",
+      "lang": "en",
+      "title_en": "Nazi runways, a killer horse and secret bunkers for the Illuminati: How a US airport became a hotbed of conspiracy theories",
+      "summary_en": "From secret tunnels of lizard people to a cursed statue, Andrea Cavallier takes a look at the most bizarre conspiracy theories swirling around Denver International Airport",
+      "title": "Nazi runways, a killer horse and secret bunkers for the Illuminati: How a US airport became a hotbed of conspiracy theories",
+      "summary": "From secret tunnels of lizard people to a cursed statue, Andrea Cavallier takes a look at the most bizarre conspiracy theories swirling around Denver International Airport",
+      "url": "https://www.independent.co.uk/news/world/americas/denver-international-airport-conspiracy-theories-b2864660.html",
+      "source": "The Independent World",
+      "published_at": "2025-11-15T13:35:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "290d00a2952e0172",
+      "title_orig": "Asking Eric: Pillar of friend group stricken with terminal cancer; how to grieve without falling to pieces?",
+      "summary_orig": "'She has expressed her preference to not share details with our greater community.'",
+      "lang": "en",
+      "title_en": "Asking Eric: Pillar of friend group stricken with terminal cancer; how to grieve without falling to pieces?",
+      "summary_en": "'She has expressed her preference to not share details with our greater community.'",
+      "title": "Asking Eric: Pillar of friend group stricken with terminal cancer; how to grieve without falling to pieces?",
+      "summary": "'She has expressed her preference to not share details with our greater community.'",
+      "url": "https://www.syracuse.com/advice/2025/11/asking-eric-pillar-of-friend-group-stricken-with-terminal-cancer-how-to-grieve-without-falling-to-pieces.html",
+      "source": "syracuse.com",
+      "published_at": "2025-11-15T13:30:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0542d19634d73beb",
+      "title_orig": "Households expected to be told to keep sum of cash in case of power outages or cyber attacks",
+      "summary_orig": "Tánaiste Simon Harris flagged power outages due to weather conditions and the threat of cyber attacks as prime reasons for the expected change.",
+      "lang": "en",
+      "title_en": "Households expected to be told to keep sum of cash in case of power outages or cyber attacks",
+      "summary_en": "Tánaiste Simon Harris flagged power outages due to weather conditions and the threat of cyber attacks as prime reasons for the expected change.",
+      "title": "Households expected to be told to keep sum of cash in case of power outages or cyber attacks",
+      "summary": "Tánaiste Simon Harris flagged power outages due to weather conditions and the threat of cyber attacks as prime reasons for the expected change.",
+      "url": "https://www.thejournal.ie/households-cash-advice-6875772-Nov2025/",
+      "source": "TheJournal.ie",
+      "published_at": "2025-11-15T13:29:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a38ac7e62a6e86fd",
+      "title_orig": "Air Canada Bus",
+      "summary_orig": "On October 14th, 2025, Air Canada announced that from December 1st it would be doubling the frequency of The Landline Company’s luxury coach service between the Region of Waterloo International Airport and Toronto Pearson. This will raise the number of daily return trips from five to 10.",
+      "lang": "en",
+      "title_en": "Air Canada Bus",
+      "summary_en": "On October 14th, 2025, Air Canada announced that from December 1st it would be doubling the frequency of The Landline Company’s luxury coach service between the Region of Waterloo International Airport and Toronto Pearson. This will raise the number of daily return trips from five to 10.",
+      "title": "Air Canada Bus",
+      "summary": "On October 14th, 2025, Air Canada announced that from December 1st it would be doubling the frequency of The Landline Company’s luxury coach service between the Region of Waterloo International Airport and Toronto Pearson. This will raise the number of daily return trips from five to 10.",
+      "url": "https://simpleflying.com/video/air-canada-bus/",
+      "source": "Simple Flying",
+      "published_at": "2025-11-15T13:29:15+00:00",
+      "tags": [
+        "Canada",
+        "YYZ",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Pearson",
+        "city": "Toronto",
+        "country": "Canada",
+        "iata": "YYZ",
+        "lat": 43.6777,
+        "lon": -79.6248
+      }
+    },
     {
       "id": "add358045d212704",
       "title_orig": "Two arrested for attacking Excise dept. officials; ganja, MDMA seized",
@@ -1196,24 +1295,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "0836b6e8e94892c9",
-      "title_orig": "Gujarat ATS nabs man wanted in Punjab for grenade, arms smuggling for Pakistan-linked gang",
-      "summary_orig": "Gurpreet Singh alias Gopi Billa was nabbed from Halol town in Panchmahal district based on a specific input shared by the Punjab police, says Anti-Terrorist Squad release",
-      "lang": "en",
-      "title_en": "Gujarat ATS nabs man wanted in Punjab for grenade, arms smuggling for Pakistan-linked gang",
-      "summary_en": "Gurpreet Singh alias Gopi Billa was nabbed from Halol town in Panchmahal district based on a specific input shared by the Punjab police, says Anti-Terrorist Squad release",
-      "title": "Gujarat ATS nabs man wanted in Punjab for grenade, arms smuggling for Pakistan-linked gang",
-      "summary": "Gurpreet Singh alias Gopi Billa was nabbed from Halol town in Panchmahal district based on a specific input shared by the Punjab police, says Anti-Terrorist Squad release",
-      "url": "https://www.thehindu.com/news/national/gujarat-ats-nabs-man-wanted-in-punjab-for-grenade-arms-smuggling-for-pakistan-linked-gang/article70282876.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-11-15T04:55:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2901,24 +2982,6 @@
       "geo": {}
     },
     {
-      "id": "ee6b6ff916fd2dd4",
-      "title_orig": "Patrick Bamford signs at Sheffield United but length of contract may surprise some",
-      "summary_orig": "The former Leeds United striker finally has a new club",
-      "lang": "en",
-      "title_en": "Patrick Bamford signs at Sheffield United but length of contract may surprise some",
-      "summary_en": "The former Leeds United striker finally has a new club",
-      "title": "Patrick Bamford signs at Sheffield United but length of contract may surprise some",
-      "summary": "The former Leeds United striker finally has a new club",
-      "url": "https://www.leeds-live.co.uk/sport/leeds-united/patrick-bamford-signs-sheffield-united-32867480",
-      "source": "Leeds Live - frontpage",
-      "published_at": "2025-11-13T13:03:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f51c5bcbb51a0361",
       "title_orig": "Press Release: Vietnam Airlines uses Lido Flight 4D to optimize planning",
       "summary_orig": "Vietnam Airlines has implemented Lido Flight 4D from Lufthansa Systems as its new flight planning system. By using Lido Flight 4D, Vietnam Airlines reinforces its commitment to efficiency, safety, and an enhanced passenger experience, building on its successful integration of other Lufthansa Systems solutions, including Lido mPilot, Lido FMS, and Lido AMDB. “This partnership signifies... The post Press Release: Vietnam Airlines uses Lido Flight 4D to optimize planning appeared first on Runway Girl .",
@@ -3541,42 +3604,6 @@
       "geo": {}
     },
     {
-      "id": "74d96c3cee04f084",
-      "title_orig": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
-      "summary_orig": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
-      "lang": "en",
-      "title_en": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
-      "summary_en": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
-      "title": "Israeli strikes pound Gaza, Hamas to hand over more dead hostages",
-      "summary": "CAIRO/GAZA: Israeli planes and tanks pounded areas in eastern Gaza on Thursday, Palestinian residents and witnesses said, a day after Israel said it remained committed to a US-backed ceasefire despite launching more lethal bombardments in the territory.\n\tWitnesses said Israeli planes carried out 10 airstrikes in areas east of Khan Younis in the southern Gaza Strip, while tanks shelled areas east of Gaza City in the north. No injuries or deaths were reported.",
-      "url": "https://www.arabnews.com/node/2620879/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-10-30T01:10:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "898f45ccb36c14f8",
-      "title_orig": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
-      "summary_orig": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
-      "lang": "en",
-      "title_en": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
-      "summary_en": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
-      "title": "Turkiye’s Erdogan to Merz: does Germany not see Israeli genocide in Gaza?",
-      "summary": "ANKARA: Turkish President Tayyip Erdogan slammed Germany over what he said was its ignorance of Israel’s “genocide,” famine and attacks in Gaza, at a joint news conference with German Chancellor Friedrich Merz in Ankara on Thursday.\n\tErdogan said Israel had nuclear and other weapons with which it was using and threatening Gaza, adding Palestinian militant group Hamas had none of those. He said Israel had once again attacked Gaza in recent days despite a ceasefire in the enclave.",
-      "url": "https://www.arabnews.com/node/2620881/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-10-30T01:10:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d2c05ae28ec02a7b",
       "title_orig": "Mexican president condemns U.S. strikes that killed 14 alleged drug traffickers",
       "summary_orig": "The Trump administration said Tuesday that it had attacked four vessels off what Mexico said was its Pacific coast, a move condemned by Mexican President Claudia Sheinbaum.",
@@ -3588,6 +3615,42 @@
       "url": "https://www.latimes.com/world-nation/story/2025-10-28/hegseth-says-us-carried-out-3-strikes-on-alleged-drug-running-boats-in-eastern-pacific-killing-14",
       "source": "World & Nation",
       "published_at": "2025-10-28T14:17:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b27a39d09c3d0ada",
+      "title_orig": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
+      "summary_orig": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
+      "lang": "en",
+      "title_en": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
+      "summary_en": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
+      "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
+      "summary": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
+      "url": "https://www.arabnews.com/node/2619787/world",
+      "source": "ArabNews",
+      "published_at": "2025-10-22T09:10:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2023691e576df8b7",
+      "title_orig": "Nearly a year after truce, women in south Lebanon say war never ended",
+      "summary_orig": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
+      "lang": "en",
+      "title_en": "Nearly a year after truce, women in south Lebanon say war never ended",
+      "summary_en": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
+      "title": "Nearly a year after truce, women in south Lebanon say war never ended",
+      "summary": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
+      "url": "https://www.arabnews.com/node/2619795/middle-east",
+      "source": "ArabNews",
+      "published_at": "2025-10-21T22:10:29+00:00",
       "tags": [
         "airport/security"
       ],
