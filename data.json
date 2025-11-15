@@ -1,6 +1,87 @@
 {
-  "generated_at": "2025-11-15T14:18:09.702008+00:00",
+  "generated_at": "2025-11-15T14:44:42.396295+00:00",
   "items": [
+    {
+      "id": "0bec74957526c9d7",
+      "title_orig": "Dog attack disrupts UDF candidate’s campaigning in Idukki",
+      "summary_orig": "",
+      "lang": "id",
+      "title_en": "Dog attack disrupts UDF candidate’s campaigning in Idukki",
+      "summary_en": "",
+      "title": "Dog attack disrupts UDF candidate’s campaigning in Idukki",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/kerala/dog-attack-disrupts-udf-candidates-campaigning-in-idukki/article70284498.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-11-15T14:40:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7b4d0ad878f70f0b",
+      "title_orig": "Climate protesters demand to be heard as they march on COP30 with costumes and drums",
+      "summary_orig": "BELEM, Brazil (AP) — Some wore black dresses to signify a funeral for fossil fuels. Hundreds wore red shirts, symbolizing…",
+      "lang": "en",
+      "title_en": "Climate protesters demand to be heard as they march on COP30 with costumes and drums",
+      "summary_en": "BELEM, Brazil (AP) — Some wore black dresses to signify a funeral for fossil fuels. Hundreds wore red shirts, symbolizing…",
+      "title": "Climate protesters demand to be heard as they march on COP30 with costumes and drums",
+      "summary": "BELEM, Brazil (AP) — Some wore black dresses to signify a funeral for fossil fuels. Hundreds wore red shirts, symbolizing…",
+      "url": "https://wtop.com/world/2025/11/demonstrators-take-to-streets-of-belem-at-halfway-point-of-un-climate-talks/",
+      "source": "WTOP News",
+      "published_at": "2025-11-15T14:30:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0a8a09b3344d7613",
+      "title_orig": "Storm Claudia flooding forces crucial Manchester Airport road to close",
+      "summary_orig": "The road was closed in both directions for safety reasons",
+      "lang": "en",
+      "title_en": "Storm Claudia flooding forces crucial Manchester Airport road to close",
+      "summary_en": "The road was closed in both directions for safety reasons",
+      "title": "Storm Claudia flooding forces crucial Manchester Airport road to close",
+      "summary": "The road was closed in both directions for safety reasons",
+      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/storm-claudia-flooding-forces-crucial-32880476",
+      "source": "Liverpool Echo - News",
+      "published_at": "2025-11-15T14:29:16+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "c2409301703fa124",
+      "title_orig": "9 Dead After Accidental Blast at Police Station in Kashmir",
+      "summary_orig": "The explosion in the city of Srinagar happened as Indian officials were inspecting bomb-making material seized in an investigation into a terror network allegedly involving doctors.",
+      "lang": "en",
+      "title_en": "9 Dead After Accidental Blast at Police Station in Kashmir",
+      "summary_en": "The explosion in the city of Srinagar happened as Indian officials were inspecting bomb-making material seized in an investigation into a terror network allegedly involving doctors.",
+      "title": "9 Dead After Accidental Blast at Police Station in Kashmir",
+      "summary": "The explosion in the city of Srinagar happened as Indian officials were inspecting bomb-making material seized in an investigation into a terror network allegedly involving doctors.",
+      "url": "https://www.nytimes.com/2025/11/15/world/asia/india-kashmir-police-station-blast.html",
+      "source": "NYT > World News",
+      "published_at": "2025-11-15T14:28:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "e8b8d3748ccacc92",
       "title_orig": "Justice Shams Mehmood Mirza resigns from LHC following 27th Amendment",
@@ -13,6 +94,24 @@
       "url": "https://www.dawn.com/news/1955240/justice-shams-mehmood-mirza-resigns-from-lhc-following-27th-amendment",
       "source": "Dawn - Home",
       "published_at": "2025-11-15T14:13:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3a0c7597a3073624",
+      "title_orig": "Trump says stopping suspected drug boats doesn’t work. But the US reports record cocaine seizures",
+      "summary_orig": "MIAMI (AP) — In justifying American military strikes on boats suspected of smuggling drugs, President Donald Trump has asserted that…",
+      "lang": "en",
+      "title_en": "Trump says stopping suspected drug boats doesn’t work. But the US reports record cocaine seizures",
+      "summary_en": "MIAMI (AP) — In justifying American military strikes on boats suspected of smuggling drugs, President Donald Trump has asserted that…",
+      "title": "Trump says stopping suspected drug boats doesn’t work. But the US reports record cocaine seizures",
+      "summary": "MIAMI (AP) — In justifying American military strikes on boats suspected of smuggling drugs, President Donald Trump has asserted that…",
+      "url": "https://wtop.com/national/2025/11/trump-says-stopping-suspected-drug-boats-doesnt-work-but-the-us-reports-record-cocaine-seizures/",
+      "source": "WTOP News",
+      "published_at": "2025-11-15T14:09:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -113,7 +212,7 @@
       "id": "1ed617093d7aee3e",
       "title_orig": "Vizianagaram municipal contractors end 12-day protest",
       "summary_orig": "",
-      "lang": "es",
+      "lang": "it",
       "title_en": "Vizianagaram municipal contractors end 12-day protest",
       "summary_en": "",
       "title": "Vizianagaram municipal contractors end 12-day protest",
@@ -121,6 +220,24 @@
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-municipal-contractors-end-12-day-protest/article70283751.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2025-11-15T13:35:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "aa4612df12846ada",
+      "title_orig": "Japan protests China’s travel advisory over Taiwan remarks",
+      "summary_orig": "BEIJING (AP) — Japan raised objections Saturday after China advised its citizens to avoid visiting Japan, as a feud over…",
+      "lang": "en",
+      "title_en": "Japan protests China’s travel advisory over Taiwan remarks",
+      "summary_en": "BEIJING (AP) — Japan raised objections Saturday after China advised its citizens to avoid visiting Japan, as a feud over…",
+      "title": "Japan protests China’s travel advisory over Taiwan remarks",
+      "summary": "BEIJING (AP) — Japan raised objections Saturday after China advised its citizens to avoid visiting Japan, as a feud over…",
+      "url": "https://wtop.com/world/2025/11/japan-protests-chinas-travel-advisory-over-taiwan-remarks/",
+      "source": "WTOP News",
+      "published_at": "2025-11-15T13:33:45+00:00",
       "tags": [
         "airport/security"
       ],
@@ -292,24 +409,6 @@
       "url": "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-transfer-news-jhon-jhon-red-bull-bragantino-5403684",
       "source": "Yorkshire Evening Post",
       "published_at": "2025-11-15T13:03:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "aa4612df12846ada",
-      "title_orig": "Japan protests China’s travel advisory over Taiwan remarks",
-      "summary_orig": "BEIJING (AP) — Japan raised objections Saturday after China advised its citizens to avoid visiting Japan, as a feud over…",
-      "lang": "en",
-      "title_en": "Japan protests China’s travel advisory over Taiwan remarks",
-      "summary_en": "BEIJING (AP) — Japan raised objections Saturday after China advised its citizens to avoid visiting Japan, as a feud over…",
-      "title": "Japan protests China’s travel advisory over Taiwan remarks",
-      "summary": "BEIJING (AP) — Japan raised objections Saturday after China advised its citizens to avoid visiting Japan, as a feud over…",
-      "url": "https://wtop.com/world/2025/11/japan-protests-chinas-travel-advisory-over-taiwan-remarks/",
-      "source": "WTOP News",
-      "published_at": "2025-11-15T12:58:14+00:00",
       "tags": [
         "airport/security"
       ],
@@ -533,24 +632,6 @@
       "geo": {}
     },
     {
-      "id": "073c9ca6c3f241fe",
-      "title_orig": "KTR condemns attack on BRS activist in Jubilee Hills post-byelection result, visits constituency",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "KTR condemns attack on BRS activist in Jubilee Hills post-byelection result, visits constituency",
-      "summary_en": "",
-      "title": "KTR condemns attack on BRS activist in Jubilee Hills post-byelection result, visits constituency",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/ktr-condemns-attack-on-brs-activist-in-jubilee-hills-post-byelection-result-visits-constituency/article70283640.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-11-15T11:44:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1141d7b3566877cd",
       "title_orig": "Latest rioter in court after Harehills violent disorder",
       "summary_orig": "Ady Barbu, 20, was among the mob attacking police",
@@ -562,42 +643,6 @@
       "url": "https://www.leeds-live.co.uk/news/leeds-news/latest-rioter-court-after-harehills-32879303",
       "source": "Leeds Live - frontpage",
       "published_at": "2025-11-15T11:44:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "137eb7297fea8bdd",
-      "title_orig": "Trump probablemente enfrente un largo compromiso militar y caos si derriba a Maduro en Venezuela, según los expertos",
-      "summary_orig": "Donald Trump ha dicho que cree que los días del presidente de Venezuela, Nicolás Maduro, están contados y que ataques…",
-      "lang": "es",
-      "title_en": "Trump likely faces lengthy military engagement and chaos if he topples Maduro in Venezuela, experts say",
-      "summary_en": "Donald Trump has said that he believes that the days of Venezuelan President Nicolás Maduro are numbered and that attacks…",
-      "title": "Trump likely faces lengthy military engagement and chaos if he topples Maduro in Venezuela, experts say",
-      "summary": "Donald Trump has said that he believes that the days of Venezuelan President Nicolás Maduro are numbered and that attacks…",
-      "url": "https://wtop.com/news/2025/11/si-trump-derroca-a-maduro-en-venezuela-probablemente-se-enfrentara-a-un-largo-despliegue-militar-y-caos-segun-expertos/",
-      "source": "WTOP News",
-      "published_at": "2025-11-15T11:40:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6954b784f8afe131",
-      "title_orig": "Tamil Nadu Survey Officers’ Union announces indefinite strike from November 18",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Tamil Nadu Survey Officers’ Union announces indefinite strike from November 18",
-      "summary_en": "",
-      "title": "Tamil Nadu Survey Officers’ Union announces indefinite strike from November 18",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-survey-officers-union-announces-indefinite-strike-from-november-18/article70283434.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-11-15T11:37:53+00:00",
       "tags": [
         "airport/security"
       ],
@@ -621,33 +666,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "5727cffdf9cdd1f6",
-      "title_orig": "Severe Storm Claudia flooding forces vital Manchester Airport relief road to shut",
-      "summary_orig": "The A555 has been closed in both directions 'for safety'",
-      "lang": "en",
-      "title_en": "Severe Storm Claudia flooding forces vital Manchester Airport relief road to shut",
-      "summary_en": "The A555 has been closed in both directions 'for safety'",
-      "title": "Severe Storm Claudia flooding forces vital Manchester Airport relief road to shut",
-      "summary": "The A555 has been closed in both directions 'for safety'",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/severe-storm-claudia-flooding-forces-32879850",
-      "source": "MEN - News",
-      "published_at": "2025-11-15T11:34:33+00:00",
-      "tags": [
-        "MAN",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN",
-        "lat": 53.3652,
-        "lon": -2.2727
-      }
     },
     {
       "id": "399c7fce63178ce1",
@@ -719,24 +737,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "8da028a237177532",
-      "title_orig": "Fireball explosion near airport injures 15 and grounds flights",
-      "summary_orig": "Shocking footage shows a fierce blaze sending thick black smoke into the sky.",
-      "lang": "en",
-      "title_en": "Fireball explosion near airport injures 15 and grounds flights",
-      "summary_en": "Shocking footage shows a fierce blaze sending thick black smoke into the sky.",
-      "title": "Fireball explosion near airport injures 15 and grounds flights",
-      "summary": "Shocking footage shows a fierce blaze sending thick black smoke into the sky.",
-      "url": "https://www.birminghammail.co.uk/news/world-news/fireball-explosion-near-airport-injures-32879767",
-      "source": "Birmingham Live - News",
-      "published_at": "2025-11-15T11:04:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -830,24 +830,6 @@
       "geo": {}
     },
     {
-      "id": "e6d93c9a33524e80",
-      "title_orig": "Fireball explosion near airport as 15 rushed to hospital and flights cancelled",
-      "summary_orig": "A massive explosion has ripped through an industrial park near Argentina's main international airport, with flights to and from the capital Buenos Aires delayed and cancelled on Friday night",
-      "lang": "en",
-      "title_en": "Fireball explosion near airport as 15 rushed to hospital and flights cancelled",
-      "summary_en": "A massive explosion has ripped through an industrial park near Argentina's main international airport, with flights to and from the capital Buenos Aires delayed and cancelled on Friday night",
-      "title": "Fireball explosion near airport as 15 rushed to hospital and flights cancelled",
-      "summary": "A massive explosion has ripped through an industrial park near Argentina's main international airport, with flights to and from the capital Buenos Aires delayed and cancelled on Friday night",
-      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/fireball-explosion-near-airport-15-36251381",
-      "source": "Daily Record - Home",
-      "published_at": "2025-11-15T10:40:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "bd35d97c8ea5c981",
       "title_orig": "US military kills four people in boat attack in the Caribbean",
       "summary_orig": "The United States on Monday conducted its 20th strike on an alleged drug trafficking boat, a Pentagon official said on Thursday. \"The strike occurred in the Caribbean and four narco-terrorists were killed, no survivors,\" the official said. Details by FRANCE 24 correspondent in Washington, Fraser Jackson.",
@@ -917,24 +899,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c2409301703fa124",
-      "title_orig": "9 Dead After Accidental Blast at Police Station in Kashmir",
-      "summary_orig": "The explosion in the city of Srinagar happened as Indian officials were inspecting bomb-making material seized in an investigation into a terror network allegedly involving doctors.",
-      "lang": "en",
-      "title_en": "9 Dead After Accidental Blast at Police Station in Kashmir",
-      "summary_en": "The explosion in the city of Srinagar happened as Indian officials were inspecting bomb-making material seized in an investigation into a terror network allegedly involving doctors.",
-      "title": "9 Dead After Accidental Blast at Police Station in Kashmir",
-      "summary": "The explosion in the city of Srinagar happened as Indian officials were inspecting bomb-making material seized in an investigation into a terror network allegedly involving doctors.",
-      "url": "https://www.nytimes.com/2025/11/15/world/asia/india-kashmir-police-station-blast.html",
-      "source": "NYT > World News",
-      "published_at": "2025-11-15T10:15:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2001,24 +1965,6 @@
       }
     },
     {
-      "id": "3459e14a3d729c49",
-      "title_orig": "Russian attacks on Kyiv ‘calculated and wicked’, says Zelenskyy",
-      "summary_orig": "Ukrainian president calls for more air defence from Europe and US after six killed and dozens injured in strikes across capital Volodymyr Zelenskyy has described Russia’s latest attack against Ukraine as “deliberate, calculated and wicked”, after six people were killed and dozens injured in a wave of night-time strikes across Kyiv. Air raid sirens sounded shortly after midnight and residents of the capital made their way to shelters or lay between two walls in their apartments. Soon afterwards the whine of Shahed drones could be heard in the sky, with heavy machine-gun fire from Ukrainian air defences. Continue reading...",
-      "lang": "en",
-      "title_en": "Russian attacks on Kyiv ‘calculated and wicked’, says Zelenskyy",
-      "summary_en": "Ukrainian president calls for more air defence from Europe and US after six killed and dozens injured in strikes across capital Volodymyr Zelenskyy has described Russia’s latest attack against Ukraine as “deliberate, calculated and wicked”, after six people were killed and dozens injured in a wave of night-time strikes across Kyiv. Air raid sirens sounded shortly after midnight and residents of the capital made their way to shelters or lay between two walls in their apartments. Soon afterwards the whine of Shahed drones could be heard in the sky, with heavy machine-gun fire from Ukrainian air defences. Continue reading...",
-      "title": "Russian attacks on Kyiv ‘calculated and wicked’, says Zelenskyy",
-      "summary": "Ukrainian president calls for more air defence from Europe and US after six killed and dozens injured in strikes across capital Volodymyr Zelenskyy has described Russia’s latest attack against Ukraine as “deliberate, calculated and wicked”, after six people were killed and dozens injured in a wave of night-time strikes across Kyiv. Air raid sirens sounded shortly after midnight and residents of the capital made their way to shelters or lay between two walls in their apartments. Soon afterwards the whine of Shahed drones could be heard in the sky, with heavy machine-gun fire from Ukrainian air defences. Continue reading...",
-      "url": "https://www.theguardian.com/world/2025/nov/14/russia-attack-every-district-kyiv-city-strikes",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-14T17:47:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "663cecaf0436a7d0",
       "title_orig": "Indigenous protesters block COP30 entrance demanding participation in climate talks",
       "summary_orig": "Around 100 Indigenous protesters blocked the main entrance to COP30 near the Brazilian Amazon, demanding representation.",
@@ -2309,6 +2255,24 @@
       "url": "https://runwaygirlnetwork.com/2025/11/boeing-built-viasat-3-f2-successfully-launches/",
       "source": "Runway Girl",
       "published_at": "2025-11-14T15:00:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "39a9c761638aa0aa",
+      "title_orig": "Press Release: Lufthansa Technik launches VIP upgrade for ACJ318 Elite",
+      "summary_orig": "Lufthansa Technik has launched a dedicated upgrade program for the Airbus ACJ318 Elite. In line with this, the company will offer a tailored suite of enhancements designed to refresh and modernize the cabin environment of the smallest VIP type in the European planemaker’s popular A320 family. Lufthansa Technik’s VIP Center of Excellence in Hamburg will... The post Press Release: Lufthansa Technik launches VIP upgrade for ACJ318 Elite appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "Press Release: Lufthansa Technik launches VIP upgrade for ACJ318 Elite",
+      "summary_en": "Lufthansa Technik has launched a dedicated upgrade program for the Airbus ACJ318 Elite. In line with this, the company will offer a tailored suite of enhancements designed to refresh and modernize the cabin environment of the smallest VIP type in the European planemaker’s popular A320 family. Lufthansa Technik’s VIP Center of Excellence in Hamburg will... The post Press Release: Lufthansa Technik launches VIP upgrade for ACJ318 Elite appeared first on Runway Girl .",
+      "title": "Press Release: Lufthansa Technik launches VIP upgrade for ACJ318 Elite",
+      "summary": "Lufthansa Technik has launched a dedicated upgrade program for the Airbus ACJ318 Elite. In line with this, the company will offer a tailored suite of enhancements designed to refresh and modernize the cabin environment of the smallest VIP type in the European planemaker’s popular A320 family. Lufthansa Technik’s VIP Center of Excellence in Hamburg will... The post Press Release: Lufthansa Technik launches VIP upgrade for ACJ318 Elite appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2025/11/lufthansa-technik-to-launch-vip-cabin-upgrade/",
+      "source": "Runway Girl",
+      "published_at": "2025-11-14T15:00:12+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3045,24 +3009,6 @@
       "geo": {}
     },
     {
-      "id": "bf7453de01603923",
-      "title_orig": "Ten years after Paris attacks, jihadist threat has evolved",
-      "summary_orig": "A decade on from deadly attacks in Paris, the world's two most notorious jihadist groups Islamic State (IS) and Al-Qaeda have significantly evolved and their branches still pose a global security threat, especially from Africa, analysts say.",
-      "lang": "en",
-      "title_en": "Ten years after Paris attacks, jihadist threat has evolved",
-      "summary_en": "A decade on from deadly attacks in Paris, the world's two most notorious jihadist groups Islamic State (IS) and Al-Qaeda have significantly evolved and their branches still pose a global security threat, especially from Africa, analysts say.",
-      "title": "Ten years after Paris attacks, jihadist threat has evolved",
-      "summary": "A decade on from deadly attacks in Paris, the world's two most notorious jihadist groups Islamic State (IS) and Al-Qaeda have significantly evolved and their branches still pose a global security threat, especially from Africa, analysts say.",
-      "url": "https://www.thelocal.fr/20251113/ten-years-after-paris-attacks-jihadist-threat-has-evolved",
-      "source": "The Local France",
-      "published_at": "2025-11-13T07:48:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7d5e79282030b55f",
       "title_orig": "South Asia on Edge",
       "summary_orig": "There are no known links between two bomb attacks in India and Pakistan, but they come as tensions between the countries are already high.",
@@ -3168,6 +3114,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "32eaeede32b04dd2",
+      "title_orig": "Press Release: San José airport offers autonomous rides to travelers",
+      "summary_orig": "San José Mineta International Airport (SJC) is pleased to serve Waymo’s public passengers starting today, making SJC the first commercial, international airport in California — and the second in the world — to welcome fully autonomous ride-hailing to its terminals. This roll-out is part of Waymo’s Bay Area expansion, as the company begins serving San José and the broader SF Bay service area. The... The post Press Release: San José airport offers autonomous rides to travelers appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "Press Release: San José airport offers autonomous rides to travelers",
+      "summary_en": "San José Mineta International Airport (SJC) is pleased to serve Waymo’s public passengers starting today, making SJC the first commercial, international airport in California — and the second in the world — to welcome fully autonomous ride-hailing to its terminals. This roll-out is part of Waymo’s Bay Area expansion, as the company begins serving San José and the broader SF Bay service area. The... The post Press Release: San José airport offers autonomous rides to travelers appeared first on Runway Girl .",
+      "title": "Press Release: San José airport offers autonomous rides to travelers",
+      "summary": "San José Mineta International Airport (SJC) is pleased to serve Waymo’s public passengers starting today, making SJC the first commercial, international airport in California — and the second in the world — to welcome fully autonomous ride-hailing to its terminals. This roll-out is part of Waymo’s Bay Area expansion, as the company begins serving San José and the broader SF Bay service area. The... The post Press Release: San José airport offers autonomous rides to travelers appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2025/11/san-jose-mineta-international-airport-waymo/",
+      "source": "Runway Girl",
+      "published_at": "2025-11-12T16:00:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -3487,24 +3451,6 @@
       "geo": {}
     },
     {
-      "id": "d7641a26196d3999",
-      "title_orig": "FL3XX’s Christine Hannon on the power of representation",
-      "summary_orig": "Christine Hannon, a private pilot who serves as head of training and compliance at aviation software specialist FL3XX, has sage advice for anyone considering an aviation career: “If you want to fly a commercial plane, first do two things. Get a first-class medical and put on an oxygen mask in the cockpit. Even though the... The post FL3XX’s Christine Hannon on the power of representation appeared first on Runway Girl .",
-      "lang": "en",
-      "title_en": "FL3XX’s Christine Hannon on the power of representation",
-      "summary_en": "Christine Hannon, a private pilot who serves as head of training and compliance at aviation software specialist FL3XX, has sage advice for anyone considering an aviation career: “If you want to fly a commercial plane, first do two things. Get a first-class medical and put on an oxygen mask in the cockpit. Even though the... The post FL3XX’s Christine Hannon on the power of representation appeared first on Runway Girl .",
-      "title": "FL3XX’s Christine Hannon on the power of representation",
-      "summary": "Christine Hannon, a private pilot who serves as head of training and compliance at aviation software specialist FL3XX, has sage advice for anyone considering an aviation career: “If you want to fly a commercial plane, first do two things. Get a first-class medical and put on an oxygen mask in the cockpit. Even though the... The post FL3XX’s Christine Hannon on the power of representation appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2025/11/fl3xxs-christine-hannon-representation-in-aviation/",
-      "source": "Runway Girl",
-      "published_at": "2025-11-07T18:16:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2b906e7c377e59f5",
       "title_orig": "California D.A. retweets 9/11 attack images as he slams Mamdani",
       "summary_orig": "San Luis Obispo County Dist. Atty. Dan Dow retweeted a pair of inflammatory posts about New York Mayor-elect Zohran Mamdani. Backlash followed.",
@@ -3595,6 +3541,24 @@
       "geo": {}
     },
     {
+      "id": "125ce8004fffd2e6",
+      "title_orig": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary_orig": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
+      "lang": "en",
+      "title_en": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary_en": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
+      "title": "Nepal PM holds first talks since protests with parties and ‘Gen Z’",
+      "summary": "Katmandu: Nepal’s interim leader has held the first talks between political parties and youth representatives since last month’s anti-corruption protests that toppled the previous government, officials said on Thursday.\n\t“We have succeeded in creating an environment of cooperation and trust by ending the state of lack of dialogue,” Prime Minister Sushila Karki, the former chief justice appointed as interim leader, said in a statement on social media.",
+      "url": "https://www.arabnews.com/node/2620840/world",
+      "source": "ArabNews",
+      "published_at": "2025-10-30T08:10:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "d2c05ae28ec02a7b",
       "title_orig": "Mexican president condemns U.S. strikes that killed 14 alleged drug traffickers",
       "summary_orig": "The Trump administration said Tuesday that it had attacked four vessels off what Mexico said was its Pacific coast, a move condemned by Mexican President Claudia Sheinbaum.",
@@ -3606,42 +3570,6 @@
       "url": "https://www.latimes.com/world-nation/story/2025-10-28/hegseth-says-us-carried-out-3-strikes-on-alleged-drug-running-boats-in-eastern-pacific-killing-14",
       "source": "World & Nation",
       "published_at": "2025-10-28T14:17:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b27a39d09c3d0ada",
-      "title_orig": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary_orig": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "lang": "en",
-      "title_en": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary_en": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea",
-      "summary": "KYIV: Ukraine’s state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.\n\tUkraine has used the unmanned naval drones to target Russian shipping and infrastructure in the Black Sea. The Security Service of Ukraine, known by its Ukrainian acronym SBU, has credited strikes by the unmanned vessel known as the “Sea Baby” with forcing a strategic shift in Russia’s naval operations.",
-      "url": "https://www.arabnews.com/node/2619787/world",
-      "source": "ArabNews",
-      "published_at": "2025-10-22T09:10:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2023691e576df8b7",
-      "title_orig": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary_orig": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "lang": "en",
-      "title_en": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary_en": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "title": "Nearly a year after truce, women in south Lebanon say war never ended",
-      "summary": "TYRE: Nearly a year after a truce was meant to bring calm to Lebanon’s border with Israel, tens of thousands of people have not yet returned to ruined towns in the south, kept away by deadly Israeli strikes and slim prospects of rebuilding.\n\tAmong them, 50-year-old farmer Zeinab Mehdi, who fled her home in the border town of Naqoura last year when the war between Israel and the Lebanese armed group Hezbollah intensified, joining more than a million people fleeing the south’s hilly villages.",
-      "url": "https://www.arabnews.com/node/2619795/middle-east",
-      "source": "ArabNews",
-      "published_at": "2025-10-21T22:10:29+00:00",
       "tags": [
         "airport/security"
       ],
