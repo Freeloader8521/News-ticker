@@ -1,6 +1,87 @@
 {
-  "generated_at": "2025-11-17T20:46:32.110222+00:00",
+  "generated_at": "2025-11-17T21:19:54.089675+00:00",
   "items": [
+    {
+      "id": "662c03694ac7c62c",
+      "title_orig": "Cyberattack forces downtown Portland movie theater to close temporarily",
+      "summary_orig": "The independent theater’s CEO gave no timeline for reopening the theater as holiday movie season approaches.",
+      "lang": "en",
+      "title_en": "Cyberattack forces downtown Portland movie theater to close temporarily",
+      "summary_en": "The independent theater’s CEO gave no timeline for reopening the theater as holiday movie season approaches.",
+      "title": "Cyberattack forces downtown Portland movie theater to close temporarily",
+      "summary": "The independent theater’s CEO gave no timeline for reopening the theater as holiday movie season approaches.",
+      "url": "https://www.oregonlive.com/news/2025/11/cyberattack-forces-downtown-portland-movie-theater-to-close-temporarily.html",
+      "source": "oregonlive.com",
+      "published_at": "2025-11-17T21:06:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a5c9ed8104911758",
+      "title_orig": "U.S. military kills 3 in strike on suspected drug smuggling boat in Pacific",
+      "summary_orig": "The U.S. military has released video of another deadly strike targeting suspected drug smugglers, this time in the Eastern Pacific Ocean. In a social media post, U.S. Southern Command said it conducted the strike against a vessel “operated by a designated terrorist organization” in an undisclosed area of international waters on Nov. 15. Video shows [...]",
+      "lang": "en",
+      "title_en": "U.S. military kills 3 in strike on suspected drug smuggling boat in Pacific",
+      "summary_en": "The U.S. military has released video of another deadly strike targeting suspected drug smugglers, this time in the Eastern Pacific Ocean. In a social media post, U.S. Southern Command said it conducted the strike against a vessel “operated by a designated terrorist organization” in an undisclosed area of international waters on Nov. 15. Video shows [...]",
+      "title": "U.S. military kills 3 in strike on suspected drug smuggling boat in Pacific",
+      "summary": "The U.S. military has released video of another deadly strike targeting suspected drug smugglers, this time in the Eastern Pacific Ocean. In a social media post, U.S. Southern Command said it conducted the strike against a vessel “operated by a designated terrorist organization” in an undisclosed area of international waters on Nov. 15. Video shows [...]",
+      "url": "https://ktla.com/news/nationworld/military-kills-3-in-strike-on-suspected-drug-smuggling-boat/",
+      "source": "KTLA",
+      "published_at": "2025-11-17T21:04:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2ccac7a968d72a4f",
+      "title_orig": "There’s soon to be a new place to check in at Auckland Airport",
+      "summary_orig": "A temporary zone is being constructed to be in use by autumn 2026.",
+      "lang": "en",
+      "title_en": "There’s soon to be a new place to check in at Auckland Airport",
+      "summary_en": "A temporary zone is being constructed to be in use by autumn 2026.",
+      "title": "There’s soon to be a new place to check in at Auckland Airport",
+      "summary": "A temporary zone is being constructed to be in use by autumn 2026.",
+      "url": "https://www.stuff.co.nz/travel/360889009/theres-soon-be-whole-new-place-check-auckland-airport",
+      "source": "Stuff - /",
+      "published_at": "2025-11-17T21:00:00+00:00",
+      "tags": [
+        "AKL",
+        "New Zealand",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Auckland",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "iata": "AKL",
+        "lat": -37.0082,
+        "lon": 174.785
+      }
+    },
+    {
+      "id": "bd0ae128b5474a4e",
+      "title_orig": "Protests in Charlotte as aggressive immigration arrests continue",
+      "summary_orig": "North Carolina governor says immigration crackdown ‘stoking fear’ as officials say at least 130 people detained Aggressive arrests by federal immigration agents continued in Charlotte on Monday after a weekend sweep in which authorities said they detained a total of at least 130 people in North Carolina’s largest city, as protests picked up. North Carolina’s governor, Josh Stein, on Monday warned that the crackdown was simply “stoking fear” and resulting in severe disruption. Continue reading...",
+      "lang": "en",
+      "title_en": "Protests in Charlotte as aggressive immigration arrests continue",
+      "summary_en": "North Carolina governor says immigration crackdown ‘stoking fear’ as officials say at least 130 people detained Aggressive arrests by federal immigration agents continued in Charlotte on Monday after a weekend sweep in which authorities said they detained a total of at least 130 people in North Carolina’s largest city, as protests picked up. North Carolina’s governor, Josh Stein, on Monday warned that the crackdown was simply “stoking fear” and resulting in severe disruption. Continue reading...",
+      "title": "Protests in Charlotte as aggressive immigration arrests continue",
+      "summary": "North Carolina governor says immigration crackdown ‘stoking fear’ as officials say at least 130 people detained Aggressive arrests by federal immigration agents continued in Charlotte on Monday after a weekend sweep in which authorities said they detained a total of at least 130 people in North Carolina’s largest city, as protests picked up. North Carolina’s governor, Josh Stein, on Monday warned that the crackdown was simply “stoking fear” and resulting in severe disruption. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2025/nov/17/charlotte-protests-arrests-immigration",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-17T20:58:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "f9c773c75b11d435",
       "title_orig": "Netanyahu vows crackdown on Israeli violence after attacks on Palestinian villages",
@@ -112,12 +193,12 @@
     {
       "id": "a193158b2da4647a",
       "title_orig": "Ohio high school boys soccer’s top forwards: Coach survey, All-State results",
-      "summary_orig": "Meet the best strikers in Ohio high school soccer in 2025.",
+      "summary_orig": "Meet the best strikers in Ohio high school boys soccer in 2025.",
       "lang": "en",
       "title_en": "Ohio high school boys soccer’s top forwards: Coach survey, All-State results",
-      "summary_en": "Meet the best strikers in Ohio high school soccer in 2025.",
+      "summary_en": "Meet the best strikers in Ohio high school boys soccer in 2025.",
       "title": "Ohio high school boys soccer’s top forwards: Coach survey, All-State results",
-      "summary": "Meet the best strikers in Ohio high school soccer in 2025.",
+      "summary": "Meet the best strikers in Ohio high school boys soccer in 2025.",
       "url": "https://www.cleveland.com/highschoolsports/2025/11/ohio-high-school-boys-soccers-top-forwards-coach-survey-all-state-results.html",
       "source": "cleveland.com",
       "published_at": "2025-11-17T20:10:54+00:00",
@@ -236,24 +317,6 @@
       "geo": {}
     },
     {
-      "id": "bd0ae128b5474a4e",
-      "title_orig": "Protests in Charlotte as aggressive immigration arrests continue",
-      "summary_orig": "North Carolina governor says immigration crackdown ‘stoking fear’ as officials say at least 130 people detained Aggressive arrests by federal immigration agents continued in Charlotte on Monday after a weekend sweep in which authorities said they detained a total of at least 130 people in North Carolina’s largest city, as protests picked up. North Carolina’s governor, Josh Stein, on Monday warned that the crackdown was simply “stoking fear” and resulting in severe disruption. Continue reading...",
-      "lang": "en",
-      "title_en": "Protests in Charlotte as aggressive immigration arrests continue",
-      "summary_en": "North Carolina governor says immigration crackdown ‘stoking fear’ as officials say at least 130 people detained Aggressive arrests by federal immigration agents continued in Charlotte on Monday after a weekend sweep in which authorities said they detained a total of at least 130 people in North Carolina’s largest city, as protests picked up. North Carolina’s governor, Josh Stein, on Monday warned that the crackdown was simply “stoking fear” and resulting in severe disruption. Continue reading...",
-      "title": "Protests in Charlotte as aggressive immigration arrests continue",
-      "summary": "North Carolina governor says immigration crackdown ‘stoking fear’ as officials say at least 130 people detained Aggressive arrests by federal immigration agents continued in Charlotte on Monday after a weekend sweep in which authorities said they detained a total of at least 130 people in North Carolina’s largest city, as protests picked up. North Carolina’s governor, Josh Stein, on Monday warned that the crackdown was simply “stoking fear” and resulting in severe disruption. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2025/nov/17/charlotte-protests-arrests-immigration",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-17T19:19:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "b067155bdba799fe",
       "title_orig": "Three Dearborn men plead not guilty in federal court to charges alleging terrorist plot",
       "summary_orig": "All three men face up to 20 years on a charge of conspiracy to provide material support or resources to a designated foreign terrorist organization and up to 15 years on a conspiracy charge involving the transfer of firearms and ammunition for a terrorism offense.",
@@ -327,12 +390,12 @@
     },
     {
       "id": "77b3885d138e92ea",
-      "title_orig": "Propagandist says his Russian hosts are trying to force him out",
+      "title_orig": "Pro-Putin propagandist enduring 'prison-like' conditions in Russian consulate",
       "summary_orig": "Simeon Boikov, the pro-Putin propagandist hiding from authorities in the Russian consulate in Sydney, launches an extraordinary attack on his hosts, saying they are subjecting him to \"prison-like conditions\" in a bid to \"push me out\".",
       "lang": "en",
-      "title_en": "Propagandist says his Russian hosts are trying to force him out",
+      "title_en": "Pro-Putin propagandist enduring 'prison-like' conditions in Russian consulate",
       "summary_en": "Simeon Boikov, the pro-Putin propagandist hiding from authorities in the Russian consulate in Sydney, launches an extraordinary attack on his hosts, saying they are subjecting him to \"prison-like conditions\" in a bid to \"push me out\".",
-      "title": "Propagandist says his Russian hosts are trying to force him out",
+      "title": "Pro-Putin propagandist enduring 'prison-like' conditions in Russian consulate",
       "summary": "Simeon Boikov, the pro-Putin propagandist hiding from authorities in the Russian consulate in Sydney, launches an extraordinary attack on his hosts, saying they are subjecting him to \"prison-like conditions\" in a bid to \"push me out\".",
       "url": "https://www.abc.net.au/news/2025-11-18/simeon-boikov-complains-of-conditions-in-sydney-russia-consulate/106019604",
       "source": "Just In",
@@ -1731,6 +1794,24 @@
       "geo": {}
     },
     {
+      "id": "6b3d3bc8ac16ab29",
+      "title_orig": "Budget airline Jet2 launches 11 new routes connecting London and Spain",
+      "summary_orig": "As rival Ryanair continues a spat with Spanish airport operators, budget airline Jet2 has launched a new base in London that will connect with 11 Spanish cities.",
+      "lang": "en",
+      "title_en": "Budget airline Jet2 launches 11 new routes connecting London and Spain",
+      "summary_en": "As rival Ryanair continues a spat with Spanish airport operators, budget airline Jet2 has launched a new base in London that will connect with 11 Spanish cities.",
+      "title": "Budget airline Jet2 launches 11 new routes connecting London and Spain",
+      "summary": "As rival Ryanair continues a spat with Spanish airport operators, budget airline Jet2 has launched a new base in London that will connect with 11 Spanish cities.",
+      "url": "https://www.thelocal.es/20251117/budget-airline-jet2-launches-11-new-routes-connecting-london-and-spain",
+      "source": "The Local Spain",
+      "published_at": "2025-11-17T12:22:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "fccd63d2c6800966",
       "title_orig": "Ukrainian troops could help defend the EU, says defense commissioner",
       "summary_orig": "Ukraine’s “battle-tested” military could help deter a Russian attack, says Defense Commissioner Andrius Kubilius.",
@@ -1884,6 +1965,24 @@
       }
     },
     {
+      "id": "7c618ce46ad7e425",
+      "title_orig": "Danish political party websites hit by cyberattacks one day before elections",
+      "summary_orig": "A pro-Russian hacker group said on Monday that it had attacked the websites of several Danish political parties, less than 24 hours before local election polls open in the Nordic country.",
+      "lang": "en",
+      "title_en": "Danish political party websites hit by cyberattacks one day before elections",
+      "summary_en": "A pro-Russian hacker group said on Monday that it had attacked the websites of several Danish political parties, less than 24 hours before local election polls open in the Nordic country.",
+      "title": "Danish political party websites hit by cyberattacks one day before elections",
+      "summary": "A pro-Russian hacker group said on Monday that it had attacked the websites of several Danish political parties, less than 24 hours before local election polls open in the Nordic country.",
+      "url": "https://www.thelocal.dk/20251117/danish-political-party-websites-hit-by-cyberattacks-one-day-before-elections",
+      "source": "The Local Denmark",
+      "published_at": "2025-11-17T10:39:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "68fd59af149702a7",
       "title_orig": "Robber tips disabled man out of wheelchair in 'despicable' bid to steal bag",
       "summary_orig": "Police described the attack as 'despicable and unprovoked'",
@@ -1895,6 +1994,24 @@
       "url": "https://www.cambridge-news.co.uk/news/local-news/robber-tips-disabled-man-out-32886896",
       "source": "Cambridgeshire Live - Home",
       "published_at": "2025-11-17T10:32:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bcdd023b25e9a103",
+      "title_orig": "Ryanair threatens further cuts at Spanish airports for 2026 winter season",
+      "summary_orig": "As the budget airline's battle with Spain's airport operator rumbles on, Ryanair's CEO has hinted that the low-cost carrier could further cut routes to Spain's regional airports for winter 2026-27.",
+      "lang": "en",
+      "title_en": "Ryanair threatens further cuts at Spanish airports for 2026 winter season",
+      "summary_en": "As the budget airline's battle with Spain's airport operator rumbles on, Ryanair's CEO has hinted that the low-cost carrier could further cut routes to Spain's regional airports for winter 2026-27.",
+      "title": "Ryanair threatens further cuts at Spanish airports for 2026 winter season",
+      "summary": "As the budget airline's battle with Spain's airport operator rumbles on, Ryanair's CEO has hinted that the low-cost carrier could further cut routes to Spain's regional airports for winter 2026-27.",
+      "url": "https://www.thelocal.es/20251117/ryanair-threatens-further-cuts-at-spanish-airports-for-2026-winter-season",
+      "source": "The Local Spain",
+      "published_at": "2025-11-17T10:28:25+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1949,6 +2066,24 @@
       "url": "https://www.straitstimes.com/world/europe/europe-not-ready-for-russian-drone-attack-eu-defence-chief",
       "source": "The Straits Times World News",
       "published_at": "2025-11-17T09:59:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a4f0b1eabff6993e",
+      "title_orig": "Danish airport temporarily shut by drone alert",
+      "summary_orig": "Aalborg Airport in northern Denmark closed for several hours late Sunday after drones were reported in nearby airspace, airport authorities said, the latest in a spate of unexplained drone flights across Europe.",
+      "lang": "en",
+      "title_en": "Danish airport temporarily shut by drone alert",
+      "summary_en": "Aalborg Airport in northern Denmark closed for several hours late Sunday after drones were reported in nearby airspace, airport authorities said, the latest in a spate of unexplained drone flights across Europe.",
+      "title": "Danish airport temporarily shut by drone alert",
+      "summary": "Aalborg Airport in northern Denmark closed for several hours late Sunday after drones were reported in nearby airspace, airport authorities said, the latest in a spate of unexplained drone flights across Europe.",
+      "url": "https://www.thelocal.dk/20251117/danish-airport-temporarily-shut-by-drone-alert",
+      "source": "The Local Denmark",
+      "published_at": "2025-11-17T09:23:11+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2100,6 +2235,24 @@
       "geo": {}
     },
     {
+      "id": "5629ecbef858ee93",
+      "title_orig": "France makes 'historic' accord to sell Ukraine 100 warplanes",
+      "summary_orig": "France's President Emmanuel Macron and his Ukrainian counterpart Volodymyr Zelensky on Monday signed an accord for Kyiv to acquire up to 100 fighter jets and other hardware, including drones, in a boost for Ukraine as it fights Russia's invasion.",
+      "lang": "en",
+      "title_en": "France makes 'historic' accord to sell Ukraine 100 warplanes",
+      "summary_en": "France's President Emmanuel Macron and his Ukrainian counterpart Volodymyr Zelensky on Monday signed an accord for Kyiv to acquire up to 100 fighter jets and other hardware, including drones, in a boost for Ukraine as it fights Russia's invasion.",
+      "title": "France makes 'historic' accord to sell Ukraine 100 warplanes",
+      "summary": "France's President Emmanuel Macron and his Ukrainian counterpart Volodymyr Zelensky on Monday signed an accord for Kyiv to acquire up to 100 fighter jets and other hardware, including drones, in a boost for Ukraine as it fights Russia's invasion.",
+      "url": "https://www.thelocal.fr/20251117/zelensky-in-paris-to-seek-air-defence-help-for-ukraine",
+      "source": "The Local France",
+      "published_at": "2025-11-17T07:47:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "ee70c6f1c7bb15e5",
       "title_orig": "What US anti-scam ‘strike force’ means for Southeast Asia’s cybercrime fight",
       "summary_orig": "A US-led crackdown on online scams may hand Southeast Asia an opportunity to combat the scourge, analysts say, as Washington and Beijing find common purpose in dismantling criminal networks that exploit lax governance and human trafficking.\nThe United States launched its “Scam Centre Strike Force” last week to counter cryptocurrency fraud linked to Southeast Asia, estimating that such crimes defraud Americans of nearly US$10 billion a year.\nMany of these schemes, dubbed “pig butchering” scams,...",
@@ -2165,6 +2318,24 @@
       "url": "https://www.japantimes.co.jp/news/2025/11/17/japan/okadama-airport-extension/",
       "source": "Latest articles - The Japan Times",
       "published_at": "2025-11-17T06:30:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "63aded6c8d2e7755",
+      "title_orig": "Today in Denmark: A roundup of the news on Monday",
+      "summary_orig": "Unconfirmed drone sighting in Aalborg, rail delays on morning services, dry weather on election day and more news from Denmark this Monday.",
+      "lang": "en",
+      "title_en": "Today in Denmark: A roundup of the news on Monday",
+      "summary_en": "Unconfirmed drone sighting in Aalborg, rail delays on morning services, dry weather on election day and more news from Denmark this Monday.",
+      "title": "Today in Denmark: A roundup of the news on Monday",
+      "summary": "Unconfirmed drone sighting in Aalborg, rail delays on morning services, dry weather on election day and more news from Denmark this Monday.",
+      "url": "https://www.thelocal.dk/20251117/today-in-denmark-a-roundup-of-the-news-on-monday-194",
+      "source": "The Local Denmark",
+      "published_at": "2025-11-17T06:11:21+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2550,24 +2721,6 @@
       "geo": {}
     },
     {
-      "id": "f6183c8b1385ffe2",
-      "title_orig": "At least 120 hurt in gen Z protests over corruption and drug violence in Mexico",
-      "summary_orig": "Clashes erupt between protesters and riot police in the capital as rallies take place in cities across the country At least 120 people were injured as thousands of gen Z protesters took to the streets of Mexico City and across the country to voice their anger at corruption and the drug violence that claims tens of thousands of Mexican lives each year. ​Saturday’s rallies, which took place in dozens of cities from Tijuana in the north to Oaxaca in the south drew large crowds, with some demonstrators carrying the One Piece pirate flag that has become a global symbol of the youth movement. Continue reading...",
-      "lang": "en",
-      "title_en": "At least 120 hurt in gen Z protests over corruption and drug violence in Mexico",
-      "summary_en": "Clashes erupt between protesters and riot police in the capital as rallies take place in cities across the country At least 120 people were injured as thousands of gen Z protesters took to the streets of Mexico City and across the country to voice their anger at corruption and the drug violence that claims tens of thousands of Mexican lives each year. ​Saturday’s rallies, which took place in dozens of cities from Tijuana in the north to Oaxaca in the south drew large crowds, with some demonstrators carrying the One Piece pirate flag that has become a global symbol of the youth movement. Continue reading...",
-      "title": "At least 120 hurt in gen Z protests over corruption and drug violence in Mexico",
-      "summary": "Clashes erupt between protesters and riot police in the capital as rallies take place in cities across the country At least 120 people were injured as thousands of gen Z protesters took to the streets of Mexico City and across the country to voice their anger at corruption and the drug violence that claims tens of thousands of Mexican lives each year. ​Saturday’s rallies, which took place in dozens of cities from Tijuana in the north to Oaxaca in the south drew large crowds, with some demonstrators carrying the One Piece pirate flag that has become a global symbol of the youth movement. Continue reading...",
-      "url": "https://www.theguardian.com/world/2025/nov/16/gen-z-protests-against-mexico-president-turn-violent-amid-anger-over-mayors-death",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-16T13:58:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "2447a2c9e27fb7bb",
       "title_orig": "The US will help South Korea build nuclear 'attack' submarines - here's what that means",
       "summary_orig": "The agreement comes amid a period of growing geopolitical tensions on the Korean Peninsula.",
@@ -2624,6 +2777,24 @@
       "url": "https://www.derbytelegraph.co.uk/sport/football/football-news/derby-county-transfers-harry-gray-10647874",
       "source": "Derbyshire Live - frontpage",
       "published_at": "2025-11-16T11:47:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "64663770d5e98a29",
+      "title_orig": "On the Agenda: What's happening in Italy this week",
+      "summary_orig": "From tennis finals to a healthcare staff strike, here's what to expect in Italy this week.",
+      "lang": "en",
+      "title_en": "On the Agenda: What's happening in Italy this week",
+      "summary_en": "From tennis finals to a healthcare staff strike, here's what to expect in Italy this week.",
+      "title": "On the Agenda: What's happening in Italy this week",
+      "summary": "From tennis finals to a healthcare staff strike, here's what to expect in Italy this week.",
+      "url": "https://www.thelocal.it/20251116/on-the-agenda-whats-happening-in-italy-this-week-148",
+      "source": "The Local Italy",
+      "published_at": "2025-11-16T10:47:58+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2822,6 +2993,24 @@
       "url": "https://www.leeds-live.co.uk/news/leeds-news/latest-rioter-court-after-harehills-32879303",
       "source": "Leeds Live - frontpage",
       "published_at": "2025-11-15T11:44:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f26a5f4858d765a2",
+      "title_orig": "Inside France: Paris memorial, French joie de vivre and Louvre 'hat man'",
+      "summary_orig": "From the changing face of France in the 10 years since the Paris terror attacks to the latest from the French parliament - via the 'dapper hat man' at the Louvre - this newsletter takes a look at all the news and talking points from France this week.",
+      "lang": "en",
+      "title_en": "Inside France: Paris memorial, French joie de vivre and Louvre 'hat man'",
+      "summary_en": "From the changing face of France in the 10 years since the Paris terror attacks to the latest from the French parliament - via the 'dapper hat man' at the Louvre - this newsletter takes a look at all the news and talking points from France this week.",
+      "title": "Inside France: Paris memorial, French joie de vivre and Louvre 'hat man'",
+      "summary": "From the changing face of France in the 10 years since the Paris terror attacks to the latest from the French parliament - via the 'dapper hat man' at the Louvre - this newsletter takes a look at all the news and talking points from France this week.",
+      "url": "https://www.thelocal.fr/20251115/inside-france-paris-memorial-french-joie-de-vivre-and-louvre-hat-man",
+      "source": "The Local France",
+      "published_at": "2025-11-15T09:10:41+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3063,6 +3252,24 @@
       }
     },
     {
+      "id": "390f8cad865b0d8b",
+      "title_orig": "New cyberattack on Denmark targets Great Belt Bridge website",
+      "summary_orig": "The website of Denmark’s Great Belt Bridge is inoperational on Friday after the latest of a series of cyberattacks that have targeted official websites throughout this week.",
+      "lang": "en",
+      "title_en": "New cyberattack on Denmark targets Great Belt Bridge website",
+      "summary_en": "The website of Denmark’s Great Belt Bridge is inoperational on Friday after the latest of a series of cyberattacks that have targeted official websites throughout this week.",
+      "title": "New cyberattack on Denmark targets Great Belt Bridge website",
+      "summary": "The website of Denmark’s Great Belt Bridge is inoperational on Friday after the latest of a series of cyberattacks that have targeted official websites throughout this week.",
+      "url": "https://www.thelocal.dk/20251114/new-cyberattack-on-denmark-targets-great-belt-bridge-website",
+      "source": "The Local Denmark",
+      "published_at": "2025-11-14T12:11:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "6f7734237561e0a6",
       "title_orig": "Lufthansa Group presses ahead with EAN inflight connectivity installs",
       "summary_orig": "Lufthansa Group confirms it is in the process of equipping 150-plus narrowbodies with the European Aviation Network’s hybrid air-to-ground (ATG)/S-band satellite-based inflight connectivity system and expects to finish installations in a year. The IFC service, which is supported by Viasat and Deutsche Telekom, recently saw a major defection in the form of IAG Group, which... The post Lufthansa Group presses ahead with EAN inflight connectivity installs appeared first on Runway Girl .",
@@ -3074,6 +3281,24 @@
       "url": "https://runwaygirlnetwork.com/2025/11/lufthansa-group-presses-ahead-with-ean-inflight-connectivity-installs/",
       "source": "Runway Girl",
       "published_at": "2025-11-13T17:13:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "20f9c75b39abc7be",
+      "title_orig": "Danish government and defence websites hit by cyberattack",
+      "summary_orig": "Danish government and defence websites were hit in a wide-ranging cyberattack on Thursday, the country's Civil Protection Agency said, with pro-Russia hackers claiming responsibility.",
+      "lang": "en",
+      "title_en": "Danish government and defence websites hit by cyberattack",
+      "summary_en": "Danish government and defence websites were hit in a wide-ranging cyberattack on Thursday, the country's Civil Protection Agency said, with pro-Russia hackers claiming responsibility.",
+      "title": "Danish government and defence websites hit by cyberattack",
+      "summary": "Danish government and defence websites were hit in a wide-ranging cyberattack on Thursday, the country's Civil Protection Agency said, with pro-Russia hackers claiming responsibility.",
+      "url": "https://www.thelocal.dk/20251113/danish-government-and-defence-websites-hit-by-cyberattack",
+      "source": "The Local Denmark",
+      "published_at": "2025-11-13T15:05:15+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3155,6 +3380,24 @@
       "url": "https://runwaygirlnetwork.com/2025/11/vietnam-airlines-lido-flight-4d/",
       "source": "Runway Girl",
       "published_at": "2025-11-13T12:00:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "329bb19742299ef0",
+      "title_orig": "Spain's Lanzarote airport implements EES border checks",
+      "summary_orig": "Lanzarote is Spain's latest airport to roll out the new EES passport checks for travellers from outside of the EU.",
+      "lang": "en",
+      "title_en": "Spain's Lanzarote airport implements EES border checks",
+      "summary_en": "Lanzarote is Spain's latest airport to roll out the new EES passport checks for travellers from outside of the EU.",
+      "title": "Spain's Lanzarote airport implements EES border checks",
+      "summary": "Lanzarote is Spain's latest airport to roll out the new EES passport checks for travellers from outside of the EU.",
+      "url": "https://www.thelocal.es/20251113/spains-lanzarote-airport-implements-ees-border-checks",
+      "source": "The Local Spain",
+      "published_at": "2025-11-13T09:05:49+00:00",
       "tags": [
         "airport/security"
       ],
