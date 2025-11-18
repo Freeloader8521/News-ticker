@@ -1,18 +1,54 @@
 {
-  "generated_at": "2025-11-18T17:48:00.546315+00:00",
+  "generated_at": "2025-11-18T18:27:04.870748+00:00",
   "items": [
     {
-      "id": "042a796047a131a2",
-      "title_orig": "Republican gives ‘prison care package’ with holy water to ‘possessed’ Democrat opponent facing federal charges",
-      "summary_orig": "A Republican congressional candidate gifted her Democrat rival, who is facing federal charges for participating in a protest outside an ICE facility, a “prison care package” which included holy water.",
+      "id": "5b4e2ec0946e9c40",
+      "title_orig": "Cloudflare says fix implemented, issue resolved after global outage",
+      "summary_orig": "Cloudflare, a content delivery network (CDN) and domain name server (DNS) service, said on Tuesday that it had implemented a fix and that the issue was now resolved following a global outage that affected access to web services worldwide “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal,” said an update from the CDN, whose network handles around a fifth of web traffic, posted at 7:42pm. It later said that some customers may be still experiencing issues logging into or using the Cloudflare dashboard. “We are working on a fix to resolve this, and continuing to monitor for any further issues,” it added. In a subsequent statement, Cloudfare said services were currently operating normally and it was no longer observing elevated errors or latency across the network. “Our engineering teams continue to closely monitor the platform and perform a deeper investigation into the earlier disruption, but no configuration changes are being made at this time. “At this point, it is considered safe to re-enable any Cloudflare services that were temporarily disabled during the incident. We will provide a final update once our investigation is complete,” it said. “Earlier today, we failed our customers and the broader internet when a problem in Cloudflare network impacted large amounts of traffic that rely on us,” chief technology officer Dane Knecht wrote on X, adding that the problem had since been resolved. “In short, a latent bug in a service underpinning our bot mitigation capability started to crash after a routine configuration change we made.” The company said earlier there had been “a spike in unusual traffic” to one of its services. The incident marked the latest hit to major online services. An outage of Amazon’s cloud service last month caused global turmoil as thousands of popular websites and apps, including Snapchat and Reddit, were inaccessible due to the disruption. Cloudflare — whose shares were down about five per cent in premarket trading — runs one of the world’s largest networks that helps websites and apps load faster and stay online by protecting them from traffic surges and cyberattacks. Earlier today, disruptions in internet access were widely reported as Cloudflare reported experiencing issues in its global network. In an update on the situation posted at 6:09pm, it said: “We have made changes that have allowed Cloudflare Access and WARP to recover. Error levels for Access and WARP users have returned to pre-incident rates. We have re-enabled WARP access in London. We are continuing to work towards restoring other services.” It later said it was continuing to work on restoring service for application services customers. Earlier, the service provider said it was “aware of and investigating an issue” that was impacting multiple customers with widespread 500 errors, along with the Cloudflare dashboard and API application programming interface also failing. NetBlocks, a global internet watchdog, also said that a wide range of online services were experiencing disruptions due to a technical issue affecting Cloudflare’s global network. It added that the incident was not related to “country-level internet disruptions or filtering”. Downdetector showed that user reports from Pakistan indicated problems with Cloudflare, with complaints beginning around 4:10 pm. Problems were also reported with OpenAI, Amazon Web Services and Facebook. Social media platform X was also down for thousands of users in the United States and worldwide, according to outage tracking website Downdetector.com. There were more than 11,500 reports of issues with the social media platform as of 6:41am ET, according to Downdetector, which tracks outages by collating status reports from a number of sources. It was not immediately clear whether the outages were related. X and Cloudflare did not immediately respond to Reuters ’ requests for comment. The Pakistan Telecommunication Authority said it was monitoring the global outage and was in contact with global platforms and local operators. It added that it would continue to observe the situation until services were fully restored. Cloudflare had also reported a “ widespread outage ” in June 2022 and several popular websites were unreachable. A DNS server is an address book that matches a website’s name (e.g. http://google.com ) to its real IP (a set of numbers). For nationwide use, you need DNS servers that can handle a lot of traffic and respond fast. Additional reporting by Umaid Ali and input from AFP.",
       "lang": "en",
-      "title_en": "Republican gives ‘prison care package’ with holy water to ‘possessed’ Democrat opponent facing federal charges",
-      "summary_en": "A Republican congressional candidate gifted her Democrat rival, who is facing federal charges for participating in a protest outside an ICE facility, a “prison care package” which included holy water.",
-      "title": "Republican gives ‘prison care package’ with holy water to ‘possessed’ Democrat opponent facing federal charges",
-      "summary": "A Republican congressional candidate gifted her Democrat rival, who is facing federal charges for participating in a protest outside an ICE facility, a “prison care package” which included holy water.",
-      "url": "https://www.independent.co.uk/tv/news/chicago-repubican-democrat-kat-abughazaleh-holy-water-video-b2867634.html",
-      "source": "The Independent World",
-      "published_at": "2025-11-18T17:29:45+00:00",
+      "title_en": "Cloudflare says fix implemented, issue resolved after global outage",
+      "summary_en": "Cloudflare, a content delivery network (CDN) and domain name server (DNS) service, said on Tuesday that it had implemented a fix and that the issue was now resolved following a global outage that affected access to web services worldwide “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal,” said an update from the CDN, whose network handles around a fifth of web traffic, posted at 7:42pm. It later said that some customers may be still experiencing issues logging into or using the Cloudflare dashboard. “We are working on a fix to resolve this, and continuing to monitor for any further issues,” it added. In a subsequent statement, Cloudfare said services were currently operating normally and it was no longer observing elevated errors or latency across the network. “Our engineering teams continue to closely monitor the platform and perform a deeper investigation into the earlier disruption, but no configuration changes are being made at this time. “At this point, it is considered safe to re-enable any Cloudflare services that were temporarily disabled during the incident. We will provide a final update once our investigation is complete,” it said. “Earlier today, we failed our customers and the broader internet when a problem in Cloudflare network impacted large amounts of traffic that rely on us,” chief technology officer Dane Knecht wrote on X, adding that the problem had since been resolved. “In short, a latent bug in a service underpinning our bot mitigation capability started to crash after a routine configuration change we made.” The company said earlier there had been “a spike in unusual traffic” to one of its services. The incident marked the latest hit to major online services. An outage of Amazon’s cloud service last month caused global turmoil as thousands of popular websites and apps, including Snapchat and Reddit, were inaccessible due to the disruption. Cloudflare — whose shares were down about five per cent in premarket trading — runs one of the world’s largest networks that helps websites and apps load faster and stay online by protecting them from traffic surges and cyberattacks. Earlier today, disruptions in internet access were widely reported as Cloudflare reported experiencing issues in its global network. In an update on the situation posted at 6:09pm, it said: “We have made changes that have allowed Cloudflare Access and WARP to recover. Error levels for Access and WARP users have returned to pre-incident rates. We have re-enabled WARP access in London. We are continuing to work towards restoring other services.” It later said it was continuing to work on restoring service for application services customers. Earlier, the service provider said it was “aware of and investigating an issue” that was impacting multiple customers with widespread 500 errors, along with the Cloudflare dashboard and API application programming interface also failing. NetBlocks, a global internet watchdog, also said that a wide range of online services were experiencing disruptions due to a technical issue affecting Cloudflare’s global network. It added that the incident was not related to “country-level internet disruptions or filtering”. Downdetector showed that user reports from Pakistan indicated problems with Cloudflare, with complaints beginning around 4:10 pm. Problems were also reported with OpenAI, Amazon Web Services and Facebook. Social media platform X was also down for thousands of users in the United States and worldwide, according to outage tracking website Downdetector.com. There were more than 11,500 reports of issues with the social media platform as of 6:41am ET, according to Downdetector, which tracks outages by collating status reports from a number of sources. It was not immediately clear whether the outages were related. X and Cloudflare did not immediately respond to Reuters ’ requests for comment. The Pakistan Telecommunication Authority said it was monitoring the global outage and was in contact with global platforms and local operators. It added that it would continue to observe the situation until services were fully restored. Cloudflare had also reported a “ widespread outage ” in June 2022 and several popular websites were unreachable. A DNS server is an address book that matches a website’s name (e.g. http://google.com ) to its real IP (a set of numbers). For nationwide use, you need DNS servers that can handle a lot of traffic and respond fast. Additional reporting by Umaid Ali and input from AFP.",
+      "title": "Cloudflare says fix implemented, issue resolved after global outage",
+      "summary": "Cloudflare, a content delivery network (CDN) and domain name server (DNS) service, said on Tuesday that it had implemented a fix and that the issue was now resolved following a global outage that affected access to web services worldwide “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal,” said an update from the CDN, whose network handles around a fifth of web traffic, posted at 7:42pm. It later said that some customers may be still experiencing issues logging into or using the Cloudflare dashboard. “We are working on a fix to resolve this, and continuing to monitor for any further issues,” it added. In a subsequent statement, Cloudfare said services were currently operating normally and it was no longer observing elevated errors or latency across the network. “Our engineering teams continue to closely monitor the platform and perform a deeper investigation into the earlier disruption, but no configuration changes are being made at this time. “At this point, it is considered safe to re-enable any Cloudflare services that were temporarily disabled during the incident. We will provide a final update once our investigation is complete,” it said. “Earlier today, we failed our customers and the broader internet when a problem in Cloudflare network impacted large amounts of traffic that rely on us,” chief technology officer Dane Knecht wrote on X, adding that the problem had since been resolved. “In short, a latent bug in a service underpinning our bot mitigation capability started to crash after a routine configuration change we made.” The company said earlier there had been “a spike in unusual traffic” to one of its services. The incident marked the latest hit to major online services. An outage of Amazon’s cloud service last month caused global turmoil as thousands of popular websites and apps, including Snapchat and Reddit, were inaccessible due to the disruption. Cloudflare — whose shares were down about five per cent in premarket trading — runs one of the world’s largest networks that helps websites and apps load faster and stay online by protecting them from traffic surges and cyberattacks. Earlier today, disruptions in internet access were widely reported as Cloudflare reported experiencing issues in its global network. In an update on the situation posted at 6:09pm, it said: “We have made changes that have allowed Cloudflare Access and WARP to recover. Error levels for Access and WARP users have returned to pre-incident rates. We have re-enabled WARP access in London. We are continuing to work towards restoring other services.” It later said it was continuing to work on restoring service for application services customers. Earlier, the service provider said it was “aware of and investigating an issue” that was impacting multiple customers with widespread 500 errors, along with the Cloudflare dashboard and API application programming interface also failing. NetBlocks, a global internet watchdog, also said that a wide range of online services were experiencing disruptions due to a technical issue affecting Cloudflare’s global network. It added that the incident was not related to “country-level internet disruptions or filtering”. Downdetector showed that user reports from Pakistan indicated problems with Cloudflare, with complaints beginning around 4:10 pm. Problems were also reported with OpenAI, Amazon Web Services and Facebook. Social media platform X was also down for thousands of users in the United States and worldwide, according to outage tracking website Downdetector.com. There were more than 11,500 reports of issues with the social media platform as of 6:41am ET, according to Downdetector, which tracks outages by collating status reports from a number of sources. It was not immediately clear whether the outages were related. X and Cloudflare did not immediately respond to Reuters ’ requests for comment. The Pakistan Telecommunication Authority said it was monitoring the global outage and was in contact with global platforms and local operators. It added that it would continue to observe the situation until services were fully restored. Cloudflare had also reported a “ widespread outage ” in June 2022 and several popular websites were unreachable. A DNS server is an address book that matches a website’s name (e.g. http://google.com ) to its real IP (a set of numbers). For nationwide use, you need DNS servers that can handle a lot of traffic and respond fast. Additional reporting by Umaid Ali and input from AFP.",
+      "url": "https://www.dawn.com/news/1955850/cloudflare-says-fix-implemented-issue-resolved-after-global-outage",
+      "source": "Dawn - Home",
+      "published_at": "2025-11-18T18:21:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d5dbda7b62167284",
+      "title_orig": "Fazl says Pakistan has moved past ‘bitter memories’, calls for new future with Bangladesh",
+      "summary_orig": "Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman on Tuesday said that Pakistan had moved past “bitter memories” and urged the forging of a new future with Bangladesh amid the recent warming of ties between the two countries. Ever since a popular uprising in Bangladesh toppled Sheikh Hasina’s government in August last year, there has been a thaw in ties between Islamabad and Dhaka, with trade and bilateral relations seeing a marked improvement. Fazl is currently on a visit to the country and called for stron­ger ties , telling a large religious gathering that a shared “unity of faith was a stronger bond between the two nations that cannot be abolished”. Addressing a gathering of Jamiat Ulema-i-Islam members today at Dhaka’s Bangladesh-China Friendship Conference Centre as the chief guest with several other Bengali political parties in attendance, Fazl said: “Pakistan wants Bangladesh’s prosperity and stability, has forgotten the bitter memories of the past.” He reiterated that the people of Pakistan had “forgotten the old bitter memories”, adding that now “a new future has to be carved”. The JUI-F chief added Pakistan saw Bangladesh as a “brother”. “We were one, and God willing, we will remain one. Relations between Pakistan and Bangladesh will be strengthened by the spirit of goodwill,” he added. Fazl added that Islam is a religion of peace and security, but the United States is spreading chaos across the world. He maintained that internal divisions among Muslims give enemies an opportunity to attack. “Jamiat Ulema-i-Islam Pakistan has always worked for the protection of the rights of all people, Muslims and non-Muslims alike, beyond sectarian and denominational lines.” On the occasion, prominent political and social leaders from various political and religiopolitical parties were also present. “Muslim Ummah cannot be divided, and no worldly power can break these bonds,” reiterated the JUI-F chief.",
+      "lang": "en",
+      "title_en": "Fazl says Pakistan has moved past ‘bitter memories’, calls for new future with Bangladesh",
+      "summary_en": "Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman on Tuesday said that Pakistan had moved past “bitter memories” and urged the forging of a new future with Bangladesh amid the recent warming of ties between the two countries. Ever since a popular uprising in Bangladesh toppled Sheikh Hasina’s government in August last year, there has been a thaw in ties between Islamabad and Dhaka, with trade and bilateral relations seeing a marked improvement. Fazl is currently on a visit to the country and called for stron­ger ties , telling a large religious gathering that a shared “unity of faith was a stronger bond between the two nations that cannot be abolished”. Addressing a gathering of Jamiat Ulema-i-Islam members today at Dhaka’s Bangladesh-China Friendship Conference Centre as the chief guest with several other Bengali political parties in attendance, Fazl said: “Pakistan wants Bangladesh’s prosperity and stability, has forgotten the bitter memories of the past.” He reiterated that the people of Pakistan had “forgotten the old bitter memories”, adding that now “a new future has to be carved”. The JUI-F chief added Pakistan saw Bangladesh as a “brother”. “We were one, and God willing, we will remain one. Relations between Pakistan and Bangladesh will be strengthened by the spirit of goodwill,” he added. Fazl added that Islam is a religion of peace and security, but the United States is spreading chaos across the world. He maintained that internal divisions among Muslims give enemies an opportunity to attack. “Jamiat Ulema-i-Islam Pakistan has always worked for the protection of the rights of all people, Muslims and non-Muslims alike, beyond sectarian and denominational lines.” On the occasion, prominent political and social leaders from various political and religiopolitical parties were also present. “Muslim Ummah cannot be divided, and no worldly power can break these bonds,” reiterated the JUI-F chief.",
+      "title": "Fazl says Pakistan has moved past ‘bitter memories’, calls for new future with Bangladesh",
+      "summary": "Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman on Tuesday said that Pakistan had moved past “bitter memories” and urged the forging of a new future with Bangladesh amid the recent warming of ties between the two countries. Ever since a popular uprising in Bangladesh toppled Sheikh Hasina’s government in August last year, there has been a thaw in ties between Islamabad and Dhaka, with trade and bilateral relations seeing a marked improvement. Fazl is currently on a visit to the country and called for stron­ger ties , telling a large religious gathering that a shared “unity of faith was a stronger bond between the two nations that cannot be abolished”. Addressing a gathering of Jamiat Ulema-i-Islam members today at Dhaka’s Bangladesh-China Friendship Conference Centre as the chief guest with several other Bengali political parties in attendance, Fazl said: “Pakistan wants Bangladesh’s prosperity and stability, has forgotten the bitter memories of the past.” He reiterated that the people of Pakistan had “forgotten the old bitter memories”, adding that now “a new future has to be carved”. The JUI-F chief added Pakistan saw Bangladesh as a “brother”. “We were one, and God willing, we will remain one. Relations between Pakistan and Bangladesh will be strengthened by the spirit of goodwill,” he added. Fazl added that Islam is a religion of peace and security, but the United States is spreading chaos across the world. He maintained that internal divisions among Muslims give enemies an opportunity to attack. “Jamiat Ulema-i-Islam Pakistan has always worked for the protection of the rights of all people, Muslims and non-Muslims alike, beyond sectarian and denominational lines.” On the occasion, prominent political and social leaders from various political and religiopolitical parties were also present. “Muslim Ummah cannot be divided, and no worldly power can break these bonds,” reiterated the JUI-F chief.",
+      "url": "https://www.dawn.com/news/1955867/fazl-says-pakistan-has-moved-past-bitter-memories-calls-for-new-future-with-bangladesh",
+      "source": "Dawn - Home",
+      "published_at": "2025-11-18T18:16:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a57a5dbf8569da0c",
+      "title_orig": "Patient care, service workers on strike at UC hospitals across California",
+      "summary_orig": "Although a nurses strike was averted, patient care and service workers at University of California healthcare facilities took to the picket lines this week.  Nurses at University of California Health hospitals reached a tentative four-year contract with their union on Sunday, thus, more than 25,000 RNs came back to work on Monday and Tuesday, canceling [...]",
+      "lang": "en",
+      "title_en": "Patient care, service workers on strike at UC hospitals across California",
+      "summary_en": "Although a nurses strike was averted, patient care and service workers at University of California healthcare facilities took to the picket lines this week.  Nurses at University of California Health hospitals reached a tentative four-year contract with their union on Sunday, thus, more than 25,000 RNs came back to work on Monday and Tuesday, canceling [...]",
+      "title": "Patient care, service workers on strike at UC hospitals across California",
+      "summary": "Although a nurses strike was averted, patient care and service workers at University of California healthcare facilities took to the picket lines this week.  Nurses at University of California Health hospitals reached a tentative four-year contract with their union on Sunday, thus, more than 25,000 RNs came back to work on Monday and Tuesday, canceling [...]",
+      "url": "https://ktla.com/news/california/patient-care-service-workers-on-strike-at-uc-hospitals-across-california/",
+      "source": "KTLA",
+      "published_at": "2025-11-18T18:14:45+00:00",
       "tags": [
         "airport/security"
       ],
@@ -30,11 +66,173 @@
       "summary": "Donald Tusk warns Polish parliament of an ‘escalation’ of Russian intelligence activities ‘across the whole of Europe’ Poland’s prime minister Donald Tusk has just told lawmakers that the authorities investigating the rail sabotage incidents over the weekend identified two main suspects. He says the suspects are Ukrainian men, who crossed into Poland from Belarus this autumn, and are believed to have been working for Russian intelligence services. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news",
       "source": "World news | The Guardian",
-      "published_at": "2025-11-18T17:19:59+00:00",
+      "published_at": "2025-11-18T18:04:56+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "ee61e0cb25003bb7",
+      "title_orig": "LIVE: A555 Manchester Airport Relief Road shuts again after heavy rain causes flooding",
+      "summary_orig": "It is the second time in three days the main route has been forced to close",
+      "lang": "en",
+      "title_en": "LIVE: A555 Manchester Airport Relief Road shuts again after heavy rain causes flooding",
+      "summary_en": "It is the second time in three days the main route has been forced to close",
+      "title": "LIVE: A555 Manchester Airport Relief Road shuts again after heavy rain causes flooding",
+      "summary": "It is the second time in three days the main route has been forced to close",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/live-a555-manchester-airport-relief-32898521",
+      "source": "MEN - News",
+      "published_at": "2025-11-18T18:04:21+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "3f66aac77ed9a8ac",
+      "title_orig": "Pro-Palestine activists used sledgehammers in action at Israel-linked firm, UK court told",
+      "summary_orig": "Police officer suffered fractured spine during operation at factory near Bristol last year, Woolwich crown court hears ​Six pro-Palestinian activists armed with sledgehammers attacked an Israeli-linked defence firm, with one striking a female police officer twice with his weapon, a court has heard. Opening the trial at Woolwich crown court on Tuesday, the prosecutor, Deanna Heer KC, said the defendants were involved in a “meticulously organised” operation by Palestine Action at the Elbit Systems factory in Filton, near Bristol, on 6 August last year. Continue reading...",
+      "lang": "en",
+      "title_en": "Pro-Palestine activists used sledgehammers in action at Israel-linked firm, UK court told",
+      "summary_en": "Police officer suffered fractured spine during operation at factory near Bristol last year, Woolwich crown court hears ​Six pro-Palestinian activists armed with sledgehammers attacked an Israeli-linked defence firm, with one striking a female police officer twice with his weapon, a court has heard. Opening the trial at Woolwich crown court on Tuesday, the prosecutor, Deanna Heer KC, said the defendants were involved in a “meticulously organised” operation by Palestine Action at the Elbit Systems factory in Filton, near Bristol, on 6 August last year. Continue reading...",
+      "title": "Pro-Palestine activists used sledgehammers in action at Israel-linked firm, UK court told",
+      "summary": "Police officer suffered fractured spine during operation at factory near Bristol last year, Woolwich crown court hears ​Six pro-Palestinian activists armed with sledgehammers attacked an Israeli-linked defence firm, with one striking a female police officer twice with his weapon, a court has heard. Opening the trial at Woolwich crown court on Tuesday, the prosecutor, Deanna Heer KC, said the defendants were involved in a “meticulously organised” operation by Palestine Action at the Elbit Systems factory in Filton, near Bristol, on 6 August last year. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2025/nov/18/pro-palestine-activists-used-sledgehammers-in-action-at-israel-linked-firm-uk-court-told",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-18T17:58:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "7de4f9245129a26f",
+      "title_orig": "About 78,000 State government staff absent from duty, as JACTTO-GEO stages protests across Tamil Nadu",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "About 78,000 State government staff absent from duty, as JACTTO-GEO stages protests across Tamil Nadu",
+      "summary_en": "",
+      "title": "About 78,000 State government staff absent from duty, as JACTTO-GEO stages protests across Tamil Nadu",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/about-78000-state-government-staff-absent-from-duty-as-jactto-geo-stages-protests-across-tamil-nadu/article70295236.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-11-18T17:56:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f6390fa0d5726468",
+      "title_orig": "Trump faces criticism for referring to female Bloomberg reporter as ‘piggy’",
+      "summary_orig": "Critics accuse the US president of trying to ‘shut women journalists up’ with ‘demeaning language’ Donald Trump , who has a history of making extremely personal attacks on female journalists, referred to a Bloomberg News correspondent as a “piggy” during a clash onboard Air Force One on Friday. While the remark did not initially get much attention, it picked up some traction on Tuesday and has drawn backlash from fellow journalists, including some who have previously been attacked by Trump themselves. Continue reading...",
+      "lang": "en",
+      "title_en": "Trump faces criticism for referring to female Bloomberg reporter as ‘piggy’",
+      "summary_en": "Critics accuse the US president of trying to ‘shut women journalists up’ with ‘demeaning language’ Donald Trump , who has a history of making extremely personal attacks on female journalists, referred to a Bloomberg News correspondent as a “piggy” during a clash onboard Air Force One on Friday. While the remark did not initially get much attention, it picked up some traction on Tuesday and has drawn backlash from fellow journalists, including some who have previously been attacked by Trump themselves. Continue reading...",
+      "title": "Trump faces criticism for referring to female Bloomberg reporter as ‘piggy’",
+      "summary": "Critics accuse the US president of trying to ‘shut women journalists up’ with ‘demeaning language’ Donald Trump , who has a history of making extremely personal attacks on female journalists, referred to a Bloomberg News correspondent as a “piggy” during a clash onboard Air Force One on Friday. While the remark did not initially get much attention, it picked up some traction on Tuesday and has drawn backlash from fellow journalists, including some who have previously been attacked by Trump themselves. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2025/nov/18/trump-calls-reporter-piggy-bloomberg",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-18T17:52:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "dd3bad566833e344",
+      "title_orig": "Sheinbaum again dismisses Trump’s threat of sending troops to Mexico: ‘We do not want intervention’",
+      "summary_orig": "Mexico’s president responds to Trump’s latest warning that he could authorize strikes against drug cartels in country Mexico’s president, Claudia Sheinbaum , has again dismissed Donald Trump ’s threat of military action against drug cartels inside her country, telling reporters: “It’s not going to happen.” Sheinbaum made the comments on Tuesday morning in response to the US president’s latest warning that he could authorise strikes in Mexico. Continue reading...",
+      "lang": "en",
+      "title_en": "Sheinbaum again dismisses Trump’s threat of sending troops to Mexico: ‘We do not want intervention’",
+      "summary_en": "Mexico’s president responds to Trump’s latest warning that he could authorize strikes against drug cartels in country Mexico’s president, Claudia Sheinbaum , has again dismissed Donald Trump ’s threat of military action against drug cartels inside her country, telling reporters: “It’s not going to happen.” Sheinbaum made the comments on Tuesday morning in response to the US president’s latest warning that he could authorise strikes in Mexico. Continue reading...",
+      "title": "Sheinbaum again dismisses Trump’s threat of sending troops to Mexico: ‘We do not want intervention’",
+      "summary": "Mexico’s president responds to Trump’s latest warning that he could authorize strikes against drug cartels in country Mexico’s president, Claudia Sheinbaum , has again dismissed Donald Trump ’s threat of military action against drug cartels inside her country, telling reporters: “It’s not going to happen.” Sheinbaum made the comments on Tuesday morning in response to the US president’s latest warning that he could authorise strikes in Mexico. Continue reading...",
+      "url": "https://www.theguardian.com/world/2025/nov/18/claudia-sheinbaum-us-military-mexico-trump",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-18T17:46:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "69bfb9aebfded4c6",
+      "title_orig": "Police hunt man who slapped women on Central Line in unprovoked attacks",
+      "summary_orig": "Officers release CCTV image of man they believe can help their enquiries after two women attacked on London Underground",
+      "lang": "en",
+      "title_en": "Police hunt man who slapped women on Central Line in unprovoked attacks",
+      "summary_en": "Officers release CCTV image of man they believe can help their enquiries after two women attacked on London Underground",
+      "title": "Police hunt man who slapped women on Central Line in unprovoked attacks",
+      "summary": "Officers release CCTV image of man they believe can help their enquiries after two women attacked on London Underground",
+      "url": "https://www.standard.co.uk/news/crime/man-slaps-women-attack-tube-assault-central-line-police-b1258651.html",
+      "source": "The Standard News",
+      "published_at": "2025-11-18T17:34:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6244228691d99ea2",
+      "title_orig": "Mumbai airport to remain shut for 6 hours on Nov 20. Check details",
+      "summary_orig": "Mumbai's Chhatrapati Shivaji Maharaj international airport will be non-operational on November 20 from 11 am to 5 pm for annual post-monsoon maintenance.",
+      "lang": "en",
+      "title_en": "Mumbai airport to remain shut for 6 hours on Nov 20. Check details",
+      "summary_en": "Mumbai's Chhatrapati Shivaji Maharaj international airport will be non-operational on November 20 from 11 am to 5 pm for annual post-monsoon maintenance.",
+      "title": "Mumbai airport to remain shut for 6 hours on Nov 20. Check details",
+      "summary": "Mumbai's Chhatrapati Shivaji Maharaj international airport will be non-operational on November 20 from 11 am to 5 pm for annual post-monsoon maintenance.",
+      "url": "https://www.hindustantimes.com/india-news/mumbai-chhatrapati-shivaji-maharaj-international-airport-airport-to-remain-temporarily-shut-for-6-hours-on-nov-20-101763484471901.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-11-18T17:32:56+00:00",
+      "tags": [
+        "BOM",
+        "India",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Chhatrapati Shivaji",
+        "city": "Mumbai",
+        "country": "India",
+        "iata": "BOM",
+        "lat": 19.0896,
+        "lon": 72.8656
+      }
+    },
+    {
+      "id": "042a796047a131a2",
+      "title_orig": "Republican gives ‘prison care package’ with holy water to ‘possessed’ Democrat opponent facing federal charges",
+      "summary_orig": "A Republican congressional candidate gifted her Democrat rival, who is facing federal charges for participating in a protest outside an ICE facility, a “prison care package” which included holy water.",
+      "lang": "en",
+      "title_en": "Republican gives ‘prison care package’ with holy water to ‘possessed’ Democrat opponent facing federal charges",
+      "summary_en": "A Republican congressional candidate gifted her Democrat rival, who is facing federal charges for participating in a protest outside an ICE facility, a “prison care package” which included holy water.",
+      "title": "Republican gives ‘prison care package’ with holy water to ‘possessed’ Democrat opponent facing federal charges",
+      "summary": "A Republican congressional candidate gifted her Democrat rival, who is facing federal charges for participating in a protest outside an ICE facility, a “prison care package” which included holy water.",
+      "url": "https://www.independent.co.uk/tv/news/chicago-repubican-democrat-kat-abughazaleh-holy-water-video-b2867634.html",
+      "source": "The Independent World",
+      "published_at": "2025-11-18T17:29:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -67,6 +265,24 @@
       "url": "http://www.euronews.com/video/2025/11/18/severe-floods-and-landslide-hit-northern-italy-causing-casualties-and-evacuations",
       "source": "News | Euronews RSS",
       "published_at": "2025-11-18T17:15:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e1fdee39bd14c24f",
+      "title_orig": "Israeli army fires on Al Jazeera cameraman at protest in occupied West Bank",
+      "summary_orig": "The Israeli army has shot and injured Al Jazeera Arabic cameraman Fadi Yassin while reporting in the occupied West Bank.",
+      "lang": "en",
+      "title_en": "Israeli army fires on Al Jazeera cameraman at protest in occupied West Bank",
+      "summary_en": "The Israeli army has shot and injured Al Jazeera Arabic cameraman Fadi Yassin while reporting in the occupied West Bank.",
+      "title": "Israeli army fires on Al Jazeera cameraman at protest in occupied West Bank",
+      "summary": "The Israeli army has shot and injured Al Jazeera Arabic cameraman Fadi Yassin while reporting in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/israeli-army-fires-on-al-jazeera-cameraman-at-protest-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-11-18T17:12:17+00:00",
       "tags": [
         "airport/security"
       ],
@@ -110,24 +326,6 @@
       "geo": {}
     },
     {
-      "id": "27e7dc21a2916416",
-      "title_orig": "Ataques al corazón aumentan durante época navideña, según cardiólogos",
-      "summary_orig": "La temporada navideña no es solo fiesta, comida y regalos; también puede traer riesgos a la salud. Cardiólogos advierten que…",
-      "lang": "es",
-      "title_en": "Heart attacks increase during Christmas season, according to cardiologists",
-      "summary_en": "The Christmas season is not just about partying, food and gifts; It can also bring health risks. Cardiologists warn that…",
-      "title": "Heart attacks increase during Christmas season, according to cardiologists",
-      "summary": "The Christmas season is not just about partying, food and gifts; It can also bring health risks. Cardiologists warn that…",
-      "url": "https://www.telemundowashingtondc.com/noticias/local/ataques-al-corazon-aumentan-epoca-navidena-cardiologos/2354642/",
-      "source": "WTOP News",
-      "published_at": "2025-11-18T17:02:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "dc3bf87ac1f7dfdc",
       "title_orig": "Delta Air Lines Cuts The Longest-Ever Route From This Californian Airport",
       "summary_orig": "The carrier's service from Atlanta to Santa Barbara only began in 2024.",
@@ -157,24 +355,6 @@
       "url": "https://www.scotsman.com/news/transport/glasgow-airport-new-direct-westjet-flights-toronto-2026-5407572",
       "source": "The Scotsman",
       "published_at": "2025-11-18T17:00:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5b4e2ec0946e9c40",
-      "title_orig": "Cloudflare says fix implemented, issue resolved after global outage",
-      "summary_orig": "Cloudflare, a content delivery network (CDN) and domain name server (DNS) service, said on Tuesday that it had implemented a fix and that the issue was now resolved following a global outage that affected access to web services worldwide “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal,” said an update from the CDN, whose network handles around a fifth of web traffic, posted at 7:42pm. It later said that some customers may be still experiencing issues logging into or using the Cloudflare dashboard. “We are working on a fix to resolve this, and continuing to monitor for any further issues,” it added. “Earlier today, we failed our customers and the broader internet when a problem in Cloudflare network impacted large amounts of traffic that rely on us,” chief technology officer Dane Knecht wrote on X, adding that the problem had since been resolved. “In short, a latent bug in a service underpinning our bot mitigation capability started to crash after a routine configuration change we made.” The company said earlier there had been “a spike in unusual traffic” to one of its services. The incident marked the latest hit to major online services. An outage of Amazon’s cloud service last month caused global turmoil as thousands of popular websites and apps, including Snapchat and Reddit, were inaccessible due to the disruption. Cloudflare — whose shares were down about five per cent in premarket trading — runs one of the world’s largest networks that helps websites and apps load faster and stay online by protecting them from traffic surges and cyberattacks. Earlier today, disruptions in internet access were widely reported as Cloudflare reported experiencing issues in its global network. In an update on the situation posted at 6:09pm, it said: “We have made changes that have allowed Cloudflare Access and WARP to recover. Error levels for Access and WARP users have returned to pre-incident rates. We have re-enabled WARP access in London. We are continuing to work towards restoring other services.” It later said it was continuing to work on restoring service for application services customers. Earlier, the service provider said it was “aware of and investigating an issue” that was impacting multiple customers with widespread 500 errors, along with the Cloudflare dashboard and API application programming interface also failing. NetBlocks, a global internet watchdog, also said that a wide range of online services were experiencing disruptions due to a technical issue affecting Cloudflare’s global network. It added that the incident was not related to “country-level internet disruptions or filtering”. Downdetector showed that user reports from Pakistan indicated problems with Cloudflare, with complaints beginning around 4:10 pm. Problems were also reported with OpenAI, Amazon Web Services and Facebook. Social media platform X was also down for thousands of users in the United States and worldwide, according to outage tracking website Downdetector.com. There were more than 11,500 reports of issues with the social media platform as of 6:41am ET, according to Downdetector, which tracks outages by collating status reports from a number of sources. It was not immediately clear whether the outages were related. X and Cloudflare did not immediately respond to Reuters ’ requests for comment. The Pakistan Telecommunication Authority said it was monitoring the global outage and was in contact with global platforms and local operators. It added that it would continue to observe the situation until services were fully restored. Cloudflare had also reported a “ widespread outage ” in June 2022 and several popular websites were unreachable. A DNS server is an address book that matches a website’s name (e.g. http://google.com ) to its real IP (a set of numbers). For nationwide use, you need DNS servers that can handle a lot of traffic and respond fast. Additional reporting by Umaid Ali and input from AFP.",
-      "lang": "en",
-      "title_en": "Cloudflare says fix implemented, issue resolved after global outage",
-      "summary_en": "Cloudflare, a content delivery network (CDN) and domain name server (DNS) service, said on Tuesday that it had implemented a fix and that the issue was now resolved following a global outage that affected access to web services worldwide “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal,” said an update from the CDN, whose network handles around a fifth of web traffic, posted at 7:42pm. It later said that some customers may be still experiencing issues logging into or using the Cloudflare dashboard. “We are working on a fix to resolve this, and continuing to monitor for any further issues,” it added. “Earlier today, we failed our customers and the broader internet when a problem in Cloudflare network impacted large amounts of traffic that rely on us,” chief technology officer Dane Knecht wrote on X, adding that the problem had since been resolved. “In short, a latent bug in a service underpinning our bot mitigation capability started to crash after a routine configuration change we made.” The company said earlier there had been “a spike in unusual traffic” to one of its services. The incident marked the latest hit to major online services. An outage of Amazon’s cloud service last month caused global turmoil as thousands of popular websites and apps, including Snapchat and Reddit, were inaccessible due to the disruption. Cloudflare — whose shares were down about five per cent in premarket trading — runs one of the world’s largest networks that helps websites and apps load faster and stay online by protecting them from traffic surges and cyberattacks. Earlier today, disruptions in internet access were widely reported as Cloudflare reported experiencing issues in its global network. In an update on the situation posted at 6:09pm, it said: “We have made changes that have allowed Cloudflare Access and WARP to recover. Error levels for Access and WARP users have returned to pre-incident rates. We have re-enabled WARP access in London. We are continuing to work towards restoring other services.” It later said it was continuing to work on restoring service for application services customers. Earlier, the service provider said it was “aware of and investigating an issue” that was impacting multiple customers with widespread 500 errors, along with the Cloudflare dashboard and API application programming interface also failing. NetBlocks, a global internet watchdog, also said that a wide range of online services were experiencing disruptions due to a technical issue affecting Cloudflare’s global network. It added that the incident was not related to “country-level internet disruptions or filtering”. Downdetector showed that user reports from Pakistan indicated problems with Cloudflare, with complaints beginning around 4:10 pm. Problems were also reported with OpenAI, Amazon Web Services and Facebook. Social media platform X was also down for thousands of users in the United States and worldwide, according to outage tracking website Downdetector.com. There were more than 11,500 reports of issues with the social media platform as of 6:41am ET, according to Downdetector, which tracks outages by collating status reports from a number of sources. It was not immediately clear whether the outages were related. X and Cloudflare did not immediately respond to Reuters ’ requests for comment. The Pakistan Telecommunication Authority said it was monitoring the global outage and was in contact with global platforms and local operators. It added that it would continue to observe the situation until services were fully restored. Cloudflare had also reported a “ widespread outage ” in June 2022 and several popular websites were unreachable. A DNS server is an address book that matches a website’s name (e.g. http://google.com ) to its real IP (a set of numbers). For nationwide use, you need DNS servers that can handle a lot of traffic and respond fast. Additional reporting by Umaid Ali and input from AFP.",
-      "title": "Cloudflare says fix implemented, issue resolved after global outage",
-      "summary": "Cloudflare, a content delivery network (CDN) and domain name server (DNS) service, said on Tuesday that it had implemented a fix and that the issue was now resolved following a global outage that affected access to web services worldwide “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal,” said an update from the CDN, whose network handles around a fifth of web traffic, posted at 7:42pm. It later said that some customers may be still experiencing issues logging into or using the Cloudflare dashboard. “We are working on a fix to resolve this, and continuing to monitor for any further issues,” it added. “Earlier today, we failed our customers and the broader internet when a problem in Cloudflare network impacted large amounts of traffic that rely on us,” chief technology officer Dane Knecht wrote on X, adding that the problem had since been resolved. “In short, a latent bug in a service underpinning our bot mitigation capability started to crash after a routine configuration change we made.” The company said earlier there had been “a spike in unusual traffic” to one of its services. The incident marked the latest hit to major online services. An outage of Amazon’s cloud service last month caused global turmoil as thousands of popular websites and apps, including Snapchat and Reddit, were inaccessible due to the disruption. Cloudflare — whose shares were down about five per cent in premarket trading — runs one of the world’s largest networks that helps websites and apps load faster and stay online by protecting them from traffic surges and cyberattacks. Earlier today, disruptions in internet access were widely reported as Cloudflare reported experiencing issues in its global network. In an update on the situation posted at 6:09pm, it said: “We have made changes that have allowed Cloudflare Access and WARP to recover. Error levels for Access and WARP users have returned to pre-incident rates. We have re-enabled WARP access in London. We are continuing to work towards restoring other services.” It later said it was continuing to work on restoring service for application services customers. Earlier, the service provider said it was “aware of and investigating an issue” that was impacting multiple customers with widespread 500 errors, along with the Cloudflare dashboard and API application programming interface also failing. NetBlocks, a global internet watchdog, also said that a wide range of online services were experiencing disruptions due to a technical issue affecting Cloudflare’s global network. It added that the incident was not related to “country-level internet disruptions or filtering”. Downdetector showed that user reports from Pakistan indicated problems with Cloudflare, with complaints beginning around 4:10 pm. Problems were also reported with OpenAI, Amazon Web Services and Facebook. Social media platform X was also down for thousands of users in the United States and worldwide, according to outage tracking website Downdetector.com. There were more than 11,500 reports of issues with the social media platform as of 6:41am ET, according to Downdetector, which tracks outages by collating status reports from a number of sources. It was not immediately clear whether the outages were related. X and Cloudflare did not immediately respond to Reuters ’ requests for comment. The Pakistan Telecommunication Authority said it was monitoring the global outage and was in contact with global platforms and local operators. It added that it would continue to observe the situation until services were fully restored. Cloudflare had also reported a “ widespread outage ” in June 2022 and several popular websites were unreachable. A DNS server is an address book that matches a website’s name (e.g. http://google.com ) to its real IP (a set of numbers). For nationwide use, you need DNS servers that can handle a lot of traffic and respond fast. Additional reporting by Umaid Ali and input from AFP.",
-      "url": "https://www.dawn.com/news/1955850/cloudflare-says-fix-implemented-issue-resolved-after-global-outage",
-      "source": "Dawn - Home",
-      "published_at": "2025-11-18T16:57:39+00:00",
       "tags": [
         "airport/security"
       ],
@@ -485,24 +665,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "10e89b72c1396399",
-      "title_orig": "Surgeons reattach 10-year-old girl’s hand nearly lost in Florida shark attack",
-      "summary_orig": "Leah Lendel was bitten by a bull shark as she was snorkeling with her family from a beach in Boca Grande A 10-year-old girl whose hand was reattached after it was severed in a shark attack has spoken of her remarkable recovery after a “miracle” six-hour operation that has allowed her to resume knitting outfits for her beloved Barbie dolls. Leah Lendel’s right hand was left hanging by shreds of skin after the bite by a 9ft bull shark as she was snorkeling with her family at a beach in Boca Grande, Florida, in June. Continue reading...",
-      "lang": "en",
-      "title_en": "Surgeons reattach 10-year-old girl’s hand nearly lost in Florida shark attack",
-      "summary_en": "Leah Lendel was bitten by a bull shark as she was snorkeling with her family from a beach in Boca Grande A 10-year-old girl whose hand was reattached after it was severed in a shark attack has spoken of her remarkable recovery after a “miracle” six-hour operation that has allowed her to resume knitting outfits for her beloved Barbie dolls. Leah Lendel’s right hand was left hanging by shreds of skin after the bite by a 9ft bull shark as she was snorkeling with her family at a beach in Boca Grande, Florida, in June. Continue reading...",
-      "title": "Surgeons reattach 10-year-old girl’s hand nearly lost in Florida shark attack",
-      "summary": "Leah Lendel was bitten by a bull shark as she was snorkeling with her family from a beach in Boca Grande A 10-year-old girl whose hand was reattached after it was severed in a shark attack has spoken of her remarkable recovery after a “miracle” six-hour operation that has allowed her to resume knitting outfits for her beloved Barbie dolls. Leah Lendel’s right hand was left hanging by shreds of skin after the bite by a 9ft bull shark as she was snorkeling with her family at a beach in Boca Grande, Florida, in June. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2025/nov/18/surgeons-reattach-hand-shark-attack",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-18T16:01:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -839,24 +1001,6 @@
       "geo": {}
     },
     {
-      "id": "5a05a764f6bfc325",
-      "title_orig": "Cloudflare outage causes error messages across the internet",
-      "summary_orig": "US company that defends millions of websites against malicious attacks says it believes issue ‘is now resolved’ Explainer: What is Cloudflare? A key piece of the internet’s usually hidden infrastructure suffered a global outage on Tuesday, causing error messages to flash up across websites. Cloudflare, a US company whose services include defending millions of websites against malicious attacks, experienced an unidentified problem that meant internet users could not access some of its customers’ websites. Continue reading...",
-      "lang": "en",
-      "title_en": "Cloudflare outage causes error messages across the internet",
-      "summary_en": "US company that defends millions of websites against malicious attacks says it believes issue ‘is now resolved’ Explainer: What is Cloudflare? A key piece of the internet’s usually hidden infrastructure suffered a global outage on Tuesday, causing error messages to flash up across websites. Cloudflare, a US company whose services include defending millions of websites against malicious attacks, experienced an unidentified problem that meant internet users could not access some of its customers’ websites. Continue reading...",
-      "title": "Cloudflare outage causes error messages across the internet",
-      "summary": "US company that defends millions of websites against malicious attacks says it believes issue ‘is now resolved’ Explainer: What is Cloudflare? A key piece of the internet’s usually hidden infrastructure suffered a global outage on Tuesday, causing error messages to flash up across websites. Cloudflare, a US company whose services include defending millions of websites against malicious attacks, experienced an unidentified problem that meant internet users could not access some of its customers’ websites. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2025/nov/18/cloudflare-outage-causes-error-messages-across-the-internet",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-18T15:11:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "42b22d6889c3f732",
       "title_orig": "Arrests at Truro protest over Palestine Action group 'ban'",
       "summary_orig": "It's the latest gathering in the same place in support of the proscribed campaign group",
@@ -886,60 +1030,6 @@
       "url": "https://www.mlive.com/news/2025/11/2-charged-with-animal-cruelty-related-to-alleged-abuse-of-mighty-mac.html",
       "source": "mlive.com",
       "published_at": "2025-11-18T15:06:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8b1b7793cdab300d",
-      "title_orig": "Houses damaged in wild elephant attack in Edamalakkudy",
-      "summary_orig": "Three houses damaged in attack",
-      "lang": "en",
-      "title_en": "Houses damaged in wild elephant attack in Edamalakkudy",
-      "summary_en": "Three houses damaged in attack",
-      "title": "Houses damaged in wild elephant attack in Edamalakkudy",
-      "summary": "Three houses damaged in attack",
-      "url": "https://www.thehindu.com/news/national/kerala/houses-damaged-in-wild-elephant-attack-in-edamalakkudy/article70295182.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-11-18T15:06:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "855f7c4191b61f0f",
-      "title_orig": "Kids get diseases like lupus, too. As researchers hunt better treatments, this camp brings joy",
-      "summary_orig": "It may sound surprising but kids can get diseases like lupus and arthritis, too, when their immune system mistakenly attacks their own body.",
-      "lang": "en",
-      "title_en": "Kids get diseases like lupus, too. As researchers hunt better treatments, this camp brings joy",
-      "summary_en": "It may sound surprising but kids can get diseases like lupus and arthritis, too, when their immune system mistakenly attacks their own body.",
-      "title": "Kids get diseases like lupus, too. As researchers hunt better treatments, this camp brings joy",
-      "summary": "It may sound surprising but kids can get diseases like lupus and arthritis, too, when their immune system mistakenly attacks their own body.",
-      "url": "https://www.seattletimes.com/seattle-news/health/kids-get-diseases-like-lupus-too-as-researchers-hunt-better-treatments-this-camp-brings-joy/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-11-18T15:03:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cfc3a51e07c8694a",
-      "title_orig": "Direct route from Wales to Canada announced in major boost for Cardiff Airport",
-      "summary_orig": "The Cardiff to Toronto four times a week service will be operated by Canadian low-cost carrier WestJet",
-      "lang": "en",
-      "title_en": "Direct route from Wales to Canada announced in major boost for Cardiff Airport",
-      "summary_en": "The Cardiff to Toronto four times a week service will be operated by Canadian low-cost carrier WestJet",
-      "title": "Direct route from Wales to Canada announced in major boost for Cardiff Airport",
-      "summary": "The Cardiff to Toronto four times a week service will be operated by Canadian low-cost carrier WestJet",
-      "url": "https://www.walesonline.co.uk/news/wales-news/major-boost-cardiff-airport-new-32894971",
-      "source": "WalesOnline - Home",
-      "published_at": "2025-11-18T15:00:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1547,24 +1637,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c4ba10cebf283fb5",
-      "title_orig": "‘Dire situation’: Russia gains ground in Ukraine’s Zaporizhia region",
-      "summary_orig": "Residents flee as Moscow closes in on Huliaipole, a strategic town, using glide bombs and tactics to conceal troops.",
-      "lang": "en",
-      "title_en": "‘Dire situation’: Russia gains ground in Ukraine’s Zaporizhia region",
-      "summary_en": "Residents flee as Moscow closes in on Huliaipole, a strategic town, using glide bombs and tactics to conceal troops.",
-      "title": "‘Dire situation’: Russia gains ground in Ukraine’s Zaporizhia region",
-      "summary": "Residents flee as Moscow closes in on Huliaipole, a strategic town, using glide bombs and tactics to conceal troops.",
-      "url": "https://www.aljazeera.com/news/2025/11/18/russia-gains-ground-in-zaporizhzhia-in-southeastern-ukraine?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-11-18T11:27:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2396,24 +2468,6 @@
       "geo": {}
     },
     {
-      "id": "8d406bb7e5807e9e",
-      "title_orig": "Polish PM says attack on rail line was 'deliberate sabotage' and intended to strike a train",
-      "summary_orig": "Donald Tusk visited the site of the explosion on the Warsaw to Lublin train line – a key route into Ukraine for aid.",
-      "lang": "en",
-      "title_en": "Polish PM says attack on rail line was 'deliberate sabotage' and intended to strike a train",
-      "summary_en": "Donald Tusk visited the site of the explosion on the Warsaw to Lublin train line – a key route into Ukraine for aid.",
-      "title": "Polish PM says attack on rail line was 'deliberate sabotage' and intended to strike a train",
-      "summary": "Donald Tusk visited the site of the explosion on the Warsaw to Lublin train line – a key route into Ukraine for aid.",
-      "url": "https://www.thejournal.ie/poland-donald-tusk-sabotage-train-line-lublin-warsaw-aalborg-6877102-Nov2025/",
-      "source": "TheJournal.ie",
-      "published_at": "2025-11-17T18:01:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "9511d52ed93e5a7d",
       "title_orig": "What Dutch media have said on Leeds United signing Troy Parrott from AZ Alkmaar",
       "summary_orig": "Leeds United are linked with the Irish striker",
@@ -2573,24 +2627,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b392aa4d948a4964",
-      "title_orig": "US will label supposed Venezuelan drug cartel ‘headed by Maduro’ as terrorist organization",
-      "summary_orig": "Experts believe decision is designed to pressure Venezuela’s leader into stepping down with threat of military force Is US preparing to attack Venezuela and how has Maduro regime responded? The US has said it will designate a putative Venezuelan drug cartel allegedly led by Nicolás Maduro as a foreign terrorist organization, as the Trump administration sent more mixed messages over its crusade against Venezuela’s authoritarian leader. The move to target the already proscribed group, the Cartel de los Soles (Cartel of the Suns), was announced by Marco Rubio on Sunday. “Headed by the illegitimate Nicolás Maduro, the group has corrupted the institutions of government in Venezuela and is responsible for terrorist violence conducted by and with other designated FTOs as well as for trafficking drugs into the United States and Europe,” the US secretary of state tweeted, generating excitement among hardline adversaries of Maduro who interpreted the announcement as proof Washington was preparing to intensify its push to force the South American dictator from power. Continue reading...",
-      "lang": "en",
-      "title_en": "US will label supposed Venezuelan drug cartel ‘headed by Maduro’ as terrorist organization",
-      "summary_en": "Experts believe decision is designed to pressure Venezuela’s leader into stepping down with threat of military force Is US preparing to attack Venezuela and how has Maduro regime responded? The US has said it will designate a putative Venezuelan drug cartel allegedly led by Nicolás Maduro as a foreign terrorist organization, as the Trump administration sent more mixed messages over its crusade against Venezuela’s authoritarian leader. The move to target the already proscribed group, the Cartel de los Soles (Cartel of the Suns), was announced by Marco Rubio on Sunday. “Headed by the illegitimate Nicolás Maduro, the group has corrupted the institutions of government in Venezuela and is responsible for terrorist violence conducted by and with other designated FTOs as well as for trafficking drugs into the United States and Europe,” the US secretary of state tweeted, generating excitement among hardline adversaries of Maduro who interpreted the announcement as proof Washington was preparing to intensify its push to force the South American dictator from power. Continue reading...",
-      "title": "US will label supposed Venezuelan drug cartel ‘headed by Maduro’ as terrorist organization",
-      "summary": "Experts believe decision is designed to pressure Venezuela’s leader into stepping down with threat of military force Is US preparing to attack Venezuela and how has Maduro regime responded? The US has said it will designate a putative Venezuelan drug cartel allegedly led by Nicolás Maduro as a foreign terrorist organization, as the Trump administration sent more mixed messages over its crusade against Venezuela’s authoritarian leader. The move to target the already proscribed group, the Cartel de los Soles (Cartel of the Suns), was announced by Marco Rubio on Sunday. “Headed by the illegitimate Nicolás Maduro, the group has corrupted the institutions of government in Venezuela and is responsible for terrorist violence conducted by and with other designated FTOs as well as for trafficking drugs into the United States and Europe,” the US secretary of state tweeted, generating excitement among hardline adversaries of Maduro who interpreted the announcement as proof Washington was preparing to intensify its push to force the South American dictator from power. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2025/nov/17/trump-venezuelan-drug-cartel",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-17T14:51:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2978,24 +3014,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9e5f454d3650398e",
-      "title_orig": "Protesters Rage Against Mexico’s Government Over Corruption and Violence",
-      "summary_orig": "Members of Mexico’s Gen Z, as well as older protesters, demonstrated on Saturday in the wake of a high-profile assassination and rising anger over persistent violence.",
-      "lang": "en",
-      "title_en": "Protesters Rage Against Mexico’s Government Over Corruption and Violence",
-      "summary_en": "Members of Mexico’s Gen Z, as well as older protesters, demonstrated on Saturday in the wake of a high-profile assassination and rising anger over persistent violence.",
-      "title": "Protesters Rage Against Mexico’s Government Over Corruption and Violence",
-      "summary": "Members of Mexico’s Gen Z, as well as older protesters, demonstrated on Saturday in the wake of a high-profile assassination and rising anger over persistent violence.",
-      "url": "https://www.nytimes.com/2025/11/15/world/americas/mexico-protest-violence.html",
-      "source": "NYT > World News",
-      "published_at": "2025-11-16T00:04:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
