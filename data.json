@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-11-18T23:19:13.583429+00:00",
+  "generated_at": "2025-11-18T23:41:14.605634+00:00",
   "items": [
     {
-      "id": "5fd7a9346164e170",
-      "title_orig": "US-E3 draft resolution at IAEA board demands swift cooperation from Iran",
-      "summary_orig": "VIENNA - Europe's top three powers and the U.S. have submitted a draft resolution to this week's meeting of the U.N. atomic watchdog's 35-nation Board of Governors demanding answers and access from Iran over its bombed nuclear sites and enriched uranium stock.",
+      "id": "5f82cb2da53aa7eb",
+      "title_orig": "Israeli Airstrike on Refugee Camp in Lebanon Kills at Least 13, Officials Say",
+      "summary_orig": "It was one of the deadliest Israeli strikes on Lebanon since a cease-fire between the neighboring countries went into effect about a year ago.",
       "lang": "en",
-      "title_en": "US-E3 draft resolution at IAEA board demands swift cooperation from Iran",
-      "summary_en": "VIENNA - Europe's top three powers and the U.S. have submitted a draft resolution to this week's meeting of the U.N. atomic watchdog's 35-nation Board of Governors demanding answers and access from Iran over its bombed nuclear sites and enriched uranium stock.",
-      "title": "US-E3 draft resolution at IAEA board demands swift cooperation from Iran",
-      "summary": "VIENNA - Europe's top three powers and the U.S. have submitted a draft resolution to this week's meeting of the U.N. atomic watchdog's 35-nation Board of Governors demanding answers and access from Iran over its bombed nuclear sites and enriched uranium stock.",
-      "url": "https://www.straitstimes.com/world/europe/us-e3-draft-resolution-at-iaea-board-demands-swift-cooperation-from-iran",
-      "source": "The Straits Times World News",
-      "published_at": "2025-11-18T23:13:28+00:00",
+      "title_en": "Israeli Airstrike on Refugee Camp in Lebanon Kills at Least 13, Officials Say",
+      "summary_en": "It was one of the deadliest Israeli strikes on Lebanon since a cease-fire between the neighboring countries went into effect about a year ago.",
+      "title": "Israeli Airstrike on Refugee Camp in Lebanon Kills at Least 13, Officials Say",
+      "summary": "It was one of the deadliest Israeli strikes on Lebanon since a cease-fire between the neighboring countries went into effect about a year ago.",
+      "url": "https://www.nytimes.com/2025/11/18/world/middleeast/israel-strike-lebanon-camp.html",
+      "source": "NYT > World News",
+      "published_at": "2025-11-18T23:28:06+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -30,7 +30,43 @@
       "summary": "Russian drones struck an apartment building in Ukraine's second largest city, Kharkiv, triggering a fire, injuring five people and prompting authorities to evacuate residents, officials said.",
       "url": "https://www.straitstimes.com/world/europe/russian-drones-hit-kharkiv-apartment-building-seven-injured-officials-say",
       "source": "The Straits Times World News",
-      "published_at": "2025-11-18T23:13:19+00:00",
+      "published_at": "2025-11-18T23:18:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "da508beb80e13414",
+      "title_orig": "Prison in lockdown after bomb threat",
+      "summary_orig": "Police are on site.",
+      "lang": "en",
+      "title_en": "Prison in lockdown after bomb threat",
+      "summary_en": "Police are on site.",
+      "title": "Prison in lockdown after bomb threat",
+      "summary": "Police are on site.",
+      "url": "https://www.stuff.co.nz/nz-news/360891676/manawatu-prison-lockdown-after-bomb-threat",
+      "source": "Stuff - /",
+      "published_at": "2025-11-18T23:15:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5fd7a9346164e170",
+      "title_orig": "US-E3 draft resolution at IAEA board demands swift cooperation from Iran",
+      "summary_orig": "VIENNA - Europe's top three powers and the U.S. have submitted a draft resolution to this week's meeting of the U.N. atomic watchdog's 35-nation Board of Governors demanding answers and access from Iran over its bombed nuclear sites and enriched uranium stock.",
+      "lang": "en",
+      "title_en": "US-E3 draft resolution at IAEA board demands swift cooperation from Iran",
+      "summary_en": "VIENNA - Europe's top three powers and the U.S. have submitted a draft resolution to this week's meeting of the U.N. atomic watchdog's 35-nation Board of Governors demanding answers and access from Iran over its bombed nuclear sites and enriched uranium stock.",
+      "title": "US-E3 draft resolution at IAEA board demands swift cooperation from Iran",
+      "summary": "VIENNA - Europe's top three powers and the U.S. have submitted a draft resolution to this week's meeting of the U.N. atomic watchdog's 35-nation Board of Governors demanding answers and access from Iran over its bombed nuclear sites and enriched uranium stock.",
+      "url": "https://www.straitstimes.com/world/europe/us-e3-draft-resolution-at-iaea-board-demands-swift-cooperation-from-iran",
+      "source": "The Straits Times World News",
+      "published_at": "2025-11-18T23:13:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -121,42 +157,6 @@
       "url": "https://press.un.org/en/2025/db251118.doc.htm",
       "source": "Meetings Coverage and Press Releases",
       "published_at": "2025-11-18T22:43:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f5a92e30494b2eb4",
-      "title_orig": "Court strikes down Texas map in setback for Trump over racial gerrymandering",
-      "summary_orig": "A US district court on Tuesday struck down a Texas congressional map drawn by Republicans to secure five additional House seats, dealing a setback to President Donald Trump. The judges ruled that the map amounted to unlawful racial gerrymandering and cannot be used in the 2026 midterm elections.",
-      "lang": "en",
-      "title_en": "Court strikes down Texas map in setback for Trump over racial gerrymandering",
-      "summary_en": "A US district court on Tuesday struck down a Texas congressional map drawn by Republicans to secure five additional House seats, dealing a setback to President Donald Trump. The judges ruled that the map amounted to unlawful racial gerrymandering and cannot be used in the 2026 midterm elections.",
-      "title": "Court strikes down Texas map in setback for Trump over racial gerrymandering",
-      "summary": "A US district court on Tuesday struck down a Texas congressional map drawn by Republicans to secure five additional House seats, dealing a setback to President Donald Trump. The judges ruled that the map amounted to unlawful racial gerrymandering and cannot be used in the 2026 midterm elections.",
-      "url": "https://www.france24.com/en/americas/20251118-texas-racial-gerrymandering-map-trump",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-18T22:42:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "da508beb80e13414",
-      "title_orig": "Prison in lockdown after bomb threat",
-      "summary_orig": "Police are on site.",
-      "lang": "en",
-      "title_en": "Prison in lockdown after bomb threat",
-      "summary_en": "Police are on site.",
-      "title": "Prison in lockdown after bomb threat",
-      "summary": "Police are on site.",
-      "url": "https://www.stuff.co.nz/nz-news/360891676/manawatu-prison-lockdown-after-bomb-threat",
-      "source": "Stuff - /",
-      "published_at": "2025-11-18T22:42:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -449,24 +449,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "df2cb2987421698d",
-      "title_orig": "Israeli army says it struck 'Hamas training compound' in Lebanon, killing at least 13",
-      "summary_orig": "Lebanon said at least 13 people were killed Tuesday in an Israeli strike on a Palestinian refugee camp in the country's south as Israel said it targeted a \"Hamas training compound\" operating in the area.",
-      "lang": "en",
-      "title_en": "Israeli army says it struck 'Hamas training compound' in Lebanon, killing at least 13",
-      "summary_en": "Lebanon said at least 13 people were killed Tuesday in an Israeli strike on a Palestinian refugee camp in the country's south as Israel said it targeted a \"Hamas training compound\" operating in the area.",
-      "title": "Israeli army says it struck 'Hamas training compound' in Lebanon, killing at least 13",
-      "summary": "Lebanon said at least 13 people were killed Tuesday in an Israeli strike on a Palestinian refugee camp in the country's south as Israel said it targeted a \"Hamas training compound\" operating in the area.",
-      "url": "https://www.france24.com/en/middle-east/20251118-israeli-army-says-it-struck-hamas-training-compound-in-lebanon-killing-at-least-13",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-18T20:56:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1073,24 +1055,6 @@
       "geo": {}
     },
     {
-      "id": "8fb32778d35e7aea",
-      "title_orig": "One dead, three wounded in West Bank stabbing and ramming attack",
-      "summary_orig": "At least one person was killed and three others wounded in a stabbing and ramming attack in the occupied West Bank on Tuesday, Israeli officials said. The assault came a day after the UN Security Council endorsed US President Donald Trump’s plan for Gaza, a move that has deepened political tensions across the region.",
-      "lang": "en",
-      "title_en": "One dead, three wounded in West Bank stabbing and ramming attack",
-      "summary_en": "At least one person was killed and three others wounded in a stabbing and ramming attack in the occupied West Bank on Tuesday, Israeli officials said. The assault came a day after the UN Security Council endorsed US President Donald Trump’s plan for Gaza, a move that has deepened political tensions across the region.",
-      "title": "One dead, three wounded in West Bank stabbing and ramming attack",
-      "summary": "At least one person was killed and three others wounded in a stabbing and ramming attack in the occupied West Bank on Tuesday, Israeli officials said. The assault came a day after the UN Security Council endorsed US President Donald Trump’s plan for Gaza, a move that has deepened political tensions across the region.",
-      "url": "https://www.france24.com/en/middle-east/20251118-one-dead-three-wounded-in-west-bank-stabbing-and-ramming-attack",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-18T17:04:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "dc3bf87ac1f7dfdc",
       "title_orig": "Delta Air Lines Cuts The Longest-Ever Route From This Californian Airport",
       "summary_orig": "The carrier's service from Atlanta to Santa Barbara only began in 2024.",
@@ -1667,24 +1631,6 @@
       "geo": {}
     },
     {
-      "id": "39ae02200e158c78",
-      "title_orig": "Spain smashes ring of powerful Mexican drug cartel",
-      "summary_orig": "Spanish police on Tuesday said they had broken up the local operations of a powerful Mexican drug cartel designated a terrorist organisation by US President Donald Trump, making 20 arrests.",
-      "lang": "en",
-      "title_en": "Spain smashes ring of powerful Mexican drug cartel",
-      "summary_en": "Spanish police on Tuesday said they had broken up the local operations of a powerful Mexican drug cartel designated a terrorist organisation by US President Donald Trump, making 20 arrests.",
-      "title": "Spain smashes ring of powerful Mexican drug cartel",
-      "summary": "Spanish police on Tuesday said they had broken up the local operations of a powerful Mexican drug cartel designated a terrorist organisation by US President Donald Trump, making 20 arrests.",
-      "url": "https://www.thelocal.es/20251118/spain-smashes-ring-of-powerful-mexican-drug-cartel",
-      "source": "The Local Spain",
-      "published_at": "2025-11-18T14:37:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "975c44ed9d830762",
       "title_orig": "AIIMS, airport, public projects worth  ₹20,000 Cr saved from demolition as SC recalls verdict",
       "summary_orig": "AIIMS, airport, public projects worth  ₹20,000 Cr saved from demolition as SC recalls verdict",
@@ -1732,24 +1678,6 @@
       "url": "https://www.hindustantimes.com/india-news/iit-delhi-secures-top-spot-as-indias-best-university-in-qs-sustainability-rankings-2026-101763465542477.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2025-11-18T14:07:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1b0c51083d5e0740",
-      "title_orig": "Car ramming, stabbing attack in West Bank kills one, injures three",
-      "summary_orig": "There was no immediate claim of responsibility for the attack.",
-      "lang": "en",
-      "title_en": "Car ramming, stabbing attack in West Bank kills one, injures three",
-      "summary_en": "There was no immediate claim of responsibility for the attack.",
-      "title": "Car ramming, stabbing attack in West Bank kills one, injures three",
-      "summary": "There was no immediate claim of responsibility for the attack.",
-      "url": "https://www.straitstimes.com/world/middle-east/car-ramming-stabbing-attack-in-west-bank-kills-one-injures-three",
-      "source": "The Straits Times World News",
-      "published_at": "2025-11-18T14:03:04+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1973,24 +1901,6 @@
       "geo": {}
     },
     {
-      "id": "c55a00347542daf8",
-      "title_orig": "Everything that changes in France in December 2025",
-      "summary_orig": "From strike action and more Budget chaos to the start of the Christmas holidays, here's what changes in France in December 2025.",
-      "lang": "en",
-      "title_en": "Everything that changes in France in December 2025",
-      "summary_en": "From strike action and more Budget chaos to the start of the Christmas holidays, here's what changes in France in December 2025.",
-      "title": "Everything that changes in France in December 2025",
-      "summary": "From strike action and more Budget chaos to the start of the Christmas holidays, here's what changes in France in December 2025.",
-      "url": "https://www.thelocal.fr/20251118/everything-that-changes-in-france-in-december-2025",
-      "source": "The Local France",
-      "published_at": "2025-11-18T12:13:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "300695d1e0ce7127",
       "title_orig": "China’s Fujian carrier completes first training shortly after entering service",
       "summary_orig": "China’s newest aircraft carrier, the Fujian, has returned to port following a training mission with its strike group, according to a state media report on Tuesday amid rising tensions with Japan.\nState broadcaster CCTV reported that the mission marked the “first maritime live-force training” for the world’s biggest conventionally powered warship since it was commissioned to the PLA Navy on November 5.\nThe Fujian, China’s first domestically designed carrier and its third overall, has a...",
@@ -2128,24 +2038,6 @@
       "url": "https://www.dawn.com/news/1955834/opposition-alliance-ttap-stages-march-from-parliament-house-to-supreme-court-against-27th-amendment",
       "source": "Dawn - Home",
       "published_at": "2025-11-18T11:16:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "84e40f86726f22ca",
-      "title_orig": "Danes and foreign nationals vote in local elections marred by cyberattacks",
-      "summary_orig": "Denmark voted on Tuesday in local and regional elections expected to deliver a blow to Prime Minister Mette Frederiksen's Social Democrats, after a campaign marred by cyberattacks claimed by pro-Russian hackers.",
-      "lang": "en",
-      "title_en": "Danes and foreign nationals vote in local elections marred by cyberattacks",
-      "summary_en": "Denmark voted on Tuesday in local and regional elections expected to deliver a blow to Prime Minister Mette Frederiksen's Social Democrats, after a campaign marred by cyberattacks claimed by pro-Russian hackers.",
-      "title": "Danes and foreign nationals vote in local elections marred by cyberattacks",
-      "summary": "Denmark voted on Tuesday in local and regional elections expected to deliver a blow to Prime Minister Mette Frederiksen's Social Democrats, after a campaign marred by cyberattacks claimed by pro-Russian hackers.",
-      "url": "https://www.thelocal.dk/20251118/danes-vote-in-local-elections-marred-by-cyberattacks",
-      "source": "The Local Denmark",
-      "published_at": "2025-11-18T10:52:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2396,24 +2288,6 @@
       "geo": {}
     },
     {
-      "id": "7320d3c1f9c7bcee",
-      "title_orig": "Delhi court complexes, 2 schools receive bomb threat",
-      "summary_orig": "The Delhi Police said nothing had been found as of now, even as they had yet to declare the threat,  which came days after a blast near Delhi’s Red Fort, a hoax",
-      "lang": "en",
-      "title_en": "Delhi court complexes, 2 schools receive bomb threat",
-      "summary_en": "The Delhi Police said nothing had been found as of now, even as they had yet to declare the threat,  which came days after a blast near Delhi’s Red Fort, a hoax",
-      "title": "Delhi court complexes, 2 schools receive bomb threat",
-      "summary": "The Delhi Police said nothing had been found as of now, even as they had yet to declare the threat,  which came days after a blast near Delhi’s Red Fort, a hoax",
-      "url": "https://www.hindustantimes.com/india-news/delhi-court-complexes-2-schools-receive-bomb-threat-101763449239300.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-11-18T07:00:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "00cc707613965fbf",
       "title_orig": "West Yorkshire Police strikes major blow against high street money laundering",
       "summary_orig": "West Yorkshire Police has joined forces with national partners in a major crackdown on high street businesses suspected of laundering criminal cash.",
@@ -2443,42 +2317,6 @@
       "url": "https://www.dawn.com/news/1955828/terrorist-killed-in-failed-attempt-to-blow-up-bridge-in-bannu-after-ied-detonates-prematurely",
       "source": "Dawn - Home",
       "published_at": "2025-11-18T06:57:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bc4cd27005c330c7",
-      "title_orig": "Delhi's Patiala House receives bomb threat ahead of Red Fort bombing accused's hearing",
-      "summary_orig": "Delhi's Saket and Tis Hazari courts also received bomb threats on Tuesday. The court operations resumed after it turned out to be hoax",
-      "lang": "en",
-      "title_en": "Delhi's Patiala House receives bomb threat ahead of Red Fort bombing accused's hearing",
-      "summary_en": "Delhi's Saket and Tis Hazari courts also received bomb threats on Tuesday. The court operations resumed after it turned out to be hoax",
-      "title": "Delhi's Patiala House receives bomb threat ahead of Red Fort bombing accused's hearing",
-      "summary": "Delhi's Saket and Tis Hazari courts also received bomb threats on Tuesday. The court operations resumed after it turned out to be hoax",
-      "url": "https://www.hindustantimes.com/india-news/delhis-patiala-house-receives-bomb-threat-ahead-of-red-fort-bombing-accuseds-hearing-101763447689600.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-11-18T06:39:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "09674fc978a63a90",
-      "title_orig": "Today in Denmark: A roundup of the news on Tuesday",
-      "summary_orig": "Polls about to open for elections, more cyberattacks, national team face Scotland in crucial match and more news from Denmark this Tuesday.",
-      "lang": "en",
-      "title_en": "Today in Denmark: A roundup of the news on Tuesday",
-      "summary_en": "Polls about to open for elections, more cyberattacks, national team face Scotland in crucial match and more news from Denmark this Tuesday.",
-      "title": "Today in Denmark: A roundup of the news on Tuesday",
-      "summary": "Polls about to open for elections, more cyberattacks, national team face Scotland in crucial match and more news from Denmark this Tuesday.",
-      "url": "https://www.thelocal.dk/20251118/today-in-denmark-a-roundup-of-the-news-on-tuesday-194",
-      "source": "The Local Denmark",
-      "published_at": "2025-11-18T06:29:21+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2664,6 +2502,33 @@
       ],
       "type": "local news",
       "geo": {}
+    },
+    {
+      "id": "2ccac7a968d72a4f",
+      "title_orig": "There’s soon to be a new place to check in at Auckland Airport",
+      "summary_orig": "A temporary zone is being constructed to be in use by autumn 2026.",
+      "lang": "en",
+      "title_en": "There’s soon to be a new place to check in at Auckland Airport",
+      "summary_en": "A temporary zone is being constructed to be in use by autumn 2026.",
+      "title": "There’s soon to be a new place to check in at Auckland Airport",
+      "summary": "A temporary zone is being constructed to be in use by autumn 2026.",
+      "url": "https://www.stuff.co.nz/travel/360889009/theres-soon-be-whole-new-place-check-auckland-airport",
+      "source": "Stuff - /",
+      "published_at": "2025-11-17T21:00:00+00:00",
+      "tags": [
+        "AKL",
+        "New Zealand",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Auckland",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "iata": "AKL",
+        "lat": -37.0082,
+        "lon": 174.785
+      }
     },
     {
       "id": "92da484239202957",
@@ -2954,24 +2819,6 @@
       "geo": {}
     },
     {
-      "id": "6b3d3bc8ac16ab29",
-      "title_orig": "Budget airline Jet2 launches 11 new routes connecting London and Spain",
-      "summary_orig": "As rival Ryanair continues a spat with Spanish airport operators, budget airline Jet2 has launched a new base in London that will connect with 11 Spanish cities.",
-      "lang": "en",
-      "title_en": "Budget airline Jet2 launches 11 new routes connecting London and Spain",
-      "summary_en": "As rival Ryanair continues a spat with Spanish airport operators, budget airline Jet2 has launched a new base in London that will connect with 11 Spanish cities.",
-      "title": "Budget airline Jet2 launches 11 new routes connecting London and Spain",
-      "summary": "As rival Ryanair continues a spat with Spanish airport operators, budget airline Jet2 has launched a new base in London that will connect with 11 Spanish cities.",
-      "url": "https://www.thelocal.es/20251117/budget-airline-jet2-launches-11-new-routes-connecting-london-and-spain",
-      "source": "The Local Spain",
-      "published_at": "2025-11-17T12:22:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "6c521c66711884dd",
       "title_orig": "Press Release: Jazeera Airways takes delivery of Expliseat TiSeat 2X seats",
       "summary_orig": "Jazeera Airways and Expliseat today announced the delivery of TiSeat 2X seats for Jazeera’s Airbus A320 family fleet at the Dubai Airshow 2025. This marks Expliseat’s entry into the Middle East market, and highlights it’s commitment to supporting carriers through their growth phases with proven lightweight technology. The TiSeat 2X delivery represents a significant milestone in the... The post Press Release: Jazeera Airways takes delivery of Expliseat TiSeat 2X seats appeared first on Runway Girl .",
@@ -2983,60 +2830,6 @@
       "url": "https://runwaygirlnetwork.com/2025/11/jazeera-airways-tiseat-2x-seats-expliseat/",
       "source": "Runway Girl",
       "published_at": "2025-11-17T11:26:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7c618ce46ad7e425",
-      "title_orig": "Danish political party websites hit by cyberattacks one day before elections",
-      "summary_orig": "A pro-Russian hacker group said on Monday that it had attacked the websites of several Danish political parties, less than 24 hours before local election polls open in the Nordic country.",
-      "lang": "en",
-      "title_en": "Danish political party websites hit by cyberattacks one day before elections",
-      "summary_en": "A pro-Russian hacker group said on Monday that it had attacked the websites of several Danish political parties, less than 24 hours before local election polls open in the Nordic country.",
-      "title": "Danish political party websites hit by cyberattacks one day before elections",
-      "summary": "A pro-Russian hacker group said on Monday that it had attacked the websites of several Danish political parties, less than 24 hours before local election polls open in the Nordic country.",
-      "url": "https://www.thelocal.dk/20251117/danish-political-party-websites-hit-by-cyberattacks-one-day-before-elections",
-      "source": "The Local Denmark",
-      "published_at": "2025-11-17T10:39:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bcdd023b25e9a103",
-      "title_orig": "Ryanair threatens further cuts at Spanish airports for 2026 winter season",
-      "summary_orig": "As the budget airline's battle with Spain's airport operator rumbles on, Ryanair's CEO has hinted that the low-cost carrier could further cut routes to Spain's regional airports for winter 2026-27.",
-      "lang": "en",
-      "title_en": "Ryanair threatens further cuts at Spanish airports for 2026 winter season",
-      "summary_en": "As the budget airline's battle with Spain's airport operator rumbles on, Ryanair's CEO has hinted that the low-cost carrier could further cut routes to Spain's regional airports for winter 2026-27.",
-      "title": "Ryanair threatens further cuts at Spanish airports for 2026 winter season",
-      "summary": "As the budget airline's battle with Spain's airport operator rumbles on, Ryanair's CEO has hinted that the low-cost carrier could further cut routes to Spain's regional airports for winter 2026-27.",
-      "url": "https://www.thelocal.es/20251117/ryanair-threatens-further-cuts-at-spanish-airports-for-2026-winter-season",
-      "source": "The Local Spain",
-      "published_at": "2025-11-17T10:28:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a4f0b1eabff6993e",
-      "title_orig": "Danish airport temporarily shut by drone alert",
-      "summary_orig": "Aalborg Airport in northern Denmark closed for several hours late Sunday after drones were reported in nearby airspace, airport authorities said, the latest in a spate of unexplained drone flights across Europe.",
-      "lang": "en",
-      "title_en": "Danish airport temporarily shut by drone alert",
-      "summary_en": "Aalborg Airport in northern Denmark closed for several hours late Sunday after drones were reported in nearby airspace, airport authorities said, the latest in a spate of unexplained drone flights across Europe.",
-      "title": "Danish airport temporarily shut by drone alert",
-      "summary": "Aalborg Airport in northern Denmark closed for several hours late Sunday after drones were reported in nearby airspace, airport authorities said, the latest in a spate of unexplained drone flights across Europe.",
-      "url": "https://www.thelocal.dk/20251117/danish-airport-temporarily-shut-by-drone-alert",
-      "source": "The Local Denmark",
-      "published_at": "2025-11-17T09:23:11+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3077,42 +2870,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5629ecbef858ee93",
-      "title_orig": "France makes 'historic' accord to sell Ukraine 100 warplanes",
-      "summary_orig": "France's President Emmanuel Macron and his Ukrainian counterpart Volodymyr Zelensky on Monday signed an accord for Kyiv to acquire up to 100 fighter jets and other hardware, including drones, in a boost for Ukraine as it fights Russia's invasion.",
-      "lang": "en",
-      "title_en": "France makes 'historic' accord to sell Ukraine 100 warplanes",
-      "summary_en": "France's President Emmanuel Macron and his Ukrainian counterpart Volodymyr Zelensky on Monday signed an accord for Kyiv to acquire up to 100 fighter jets and other hardware, including drones, in a boost for Ukraine as it fights Russia's invasion.",
-      "title": "France makes 'historic' accord to sell Ukraine 100 warplanes",
-      "summary": "France's President Emmanuel Macron and his Ukrainian counterpart Volodymyr Zelensky on Monday signed an accord for Kyiv to acquire up to 100 fighter jets and other hardware, including drones, in a boost for Ukraine as it fights Russia's invasion.",
-      "url": "https://www.thelocal.fr/20251117/zelensky-in-paris-to-seek-air-defence-help-for-ukraine",
-      "source": "The Local France",
-      "published_at": "2025-11-17T07:47:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "813ba43e6d0e75cd",
-      "title_orig": "Latest U.S. Strike on Boat in Pacific Kills 3, Southern Command Says",
-      "summary_orig": "The United States has carried out at least 21 strikes on boats the Trump administration accuses of smuggling drugs, killing at least 83 people.",
-      "lang": "en",
-      "title_en": "Latest U.S. Strike on Boat in Pacific Kills 3, Southern Command Says",
-      "summary_en": "The United States has carried out at least 21 strikes on boats the Trump administration accuses of smuggling drugs, killing at least 83 people.",
-      "title": "Latest U.S. Strike on Boat in Pacific Kills 3, Southern Command Says",
-      "summary": "The United States has carried out at least 21 strikes on boats the Trump administration accuses of smuggling drugs, killing at least 83 people.",
-      "url": "https://www.nytimes.com/2025/11/16/us/politics/strike-boat-pacific-caribbean.html",
-      "source": "NYT > World News",
-      "published_at": "2025-11-17T02:05:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3215,24 +2972,6 @@
       }
     },
     {
-      "id": "64663770d5e98a29",
-      "title_orig": "On the Agenda: What's happening in Italy this week",
-      "summary_orig": "From tennis finals to a healthcare staff strike, here's what to expect in Italy this week.",
-      "lang": "en",
-      "title_en": "On the Agenda: What's happening in Italy this week",
-      "summary_en": "From tennis finals to a healthcare staff strike, here's what to expect in Italy this week.",
-      "title": "On the Agenda: What's happening in Italy this week",
-      "summary": "From tennis finals to a healthcare staff strike, here's what to expect in Italy this week.",
-      "url": "https://www.thelocal.it/20251116/on-the-agenda-whats-happening-in-italy-this-week-148",
-      "source": "The Local Italy",
-      "published_at": "2025-11-16T10:47:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e9ca9669a3dbf87b",
       "title_orig": "Press Release: Satair, Airchair in distribution pact for onboard wheelchair",
       "summary_orig": "Satair, an Airbus Services company, and Airchair, an innovative supplier of on-board wheelchair solutions, have signed a new five-year global distribution agreement covering Airchair I and Airchair II. This marks the first collaboration between the two companies and reflects their shared commitment to improving the passenger experience for travellers with reduced mobility. Airchair I has... The post Press Release: Satair, Airchair in distribution pact for onboard wheelchair appeared first on Runway Girl .",
@@ -3325,24 +3064,6 @@
       "url": "https://runwaygirlnetwork.com/2025/11/boeing-built-viasat-3-f2-successfully-launches/",
       "source": "Runway Girl",
       "published_at": "2025-11-14T15:00:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "79346e1f093dbea4",
-      "title_orig": "'Astonishingly lethal': BBC reports from site of Russian strike in Kyiv",
-      "summary_orig": "The BBC's James Landale reports from the east of the capital where a drone struck a multi-storey residential building.",
-      "lang": "en",
-      "title_en": "'Astonishingly lethal': BBC reports from site of Russian strike in Kyiv",
-      "summary_en": "The BBC's James Landale reports from the east of the capital where a drone struck a multi-storey residential building.",
-      "title": "'Astonishingly lethal': BBC reports from site of Russian strike in Kyiv",
-      "summary": "The BBC's James Landale reports from the east of the capital where a drone struck a multi-storey residential building.",
-      "url": "https://www.bbc.com/news/videos/c3w9je1d3jno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-11-14T14:04:30+00:00",
       "tags": [
         "airport/security"
       ],
