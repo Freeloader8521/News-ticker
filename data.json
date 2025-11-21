@@ -1,6 +1,24 @@
 {
-  "generated_at": "2025-11-21T20:21:55.256613+00:00",
+  "generated_at": "2025-11-21T20:47:06.282046+00:00",
   "items": [
+    {
+      "id": "f400b3dc50f5cd4a",
+      "title_orig": "'World's Safest Airline': Air New Zealand Wins Big At World Travel Awards",
+      "summary_orig": "A string of prestigious awards for this South Pacific carrier, but will an impending strike tarnish its reputation?",
+      "lang": "en",
+      "title_en": "'World's Safest Airline': Air New Zealand Wins Big At World Travel Awards",
+      "summary_en": "A string of prestigious awards for this South Pacific carrier, but will an impending strike tarnish its reputation?",
+      "title": "'World's Safest Airline': Air New Zealand Wins Big At World Travel Awards",
+      "summary": "A string of prestigious awards for this South Pacific carrier, but will an impending strike tarnish its reputation?",
+      "url": "https://simpleflying.com/worlds-safest-airline-air-new-zealand-wins-big-world-travel-awards/",
+      "source": "Simple Flying",
+      "published_at": "2025-11-21T20:30:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "46efe8d5df6d8c83",
       "title_orig": "Hundreds of cars and boats gather for protest over Auckland Harbour Bridge",
@@ -12,7 +30,43 @@
       "summary": "A convoy of hundreds of fishermen have taken off from the Auckland suburb of Albany on in a protest against a new law that stops them from fishing in protected areas of the Hauraki Gulf.",
       "url": "https://www.stuff.co.nz/nz-news/360895568/hundreds-cars-and-boats-gather-protest-over-auckland-harbour-bridge",
       "source": "Stuff - /",
-      "published_at": "2025-11-21T20:10:32+00:00",
+      "published_at": "2025-11-21T20:20:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "172fa17e8059fb85",
+      "title_orig": "Officials at PDX could start charging travelers $18 to get through security if they don’t have REAL IDs",
+      "summary_orig": "The Transportation Security Administration has proposed the fee at all U.S. airports for travelers without REAL IDs, passports or other approved ID.",
+      "lang": "en",
+      "title_en": "Officials at PDX could start charging travelers $18 to get through security if they don’t have REAL IDs",
+      "summary_en": "The Transportation Security Administration has proposed the fee at all U.S. airports for travelers without REAL IDs, passports or other approved ID.",
+      "title": "Officials at PDX could start charging travelers $18 to get through security if they don’t have REAL IDs",
+      "summary": "The Transportation Security Administration has proposed the fee at all U.S. airports for travelers without REAL IDs, passports or other approved ID.",
+      "url": "https://www.oregonlive.com/travel/2025/11/airports-could-start-charging-travelers-18-to-get-through-security-if-they-dont-have-real-ids.html",
+      "source": "oregonlive.com",
+      "published_at": "2025-11-21T20:20:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8076ddde5c88bf4d",
+      "title_orig": "Gunmen abduct more than 200 schoolchildren and 12 teachers in attack on Nigerian Catholic school",
+      "summary_orig": "ABUJA, Nigeria (AP) — More than 200 schoolchildren were seized by gunmen who attacked a Catholic school in northcentral Nigeria’s…",
+      "lang": "en",
+      "title_en": "Gunmen abduct more than 200 schoolchildren and 12 teachers in attack on Nigerian Catholic school",
+      "summary_en": "ABUJA, Nigeria (AP) — More than 200 schoolchildren were seized by gunmen who attacked a Catholic school in northcentral Nigeria’s…",
+      "title": "Gunmen abduct more than 200 schoolchildren and 12 teachers in attack on Nigerian Catholic school",
+      "summary": "ABUJA, Nigeria (AP) — More than 200 schoolchildren were seized by gunmen who attacked a Catholic school in northcentral Nigeria’s…",
+      "url": "https://wtop.com/education/2025/11/armed-men-abduct-schoolchildren-and-staff-at-another-school-in-nigeria-days-after-latest-abduction-2/",
+      "source": "WTOP News",
+      "published_at": "2025-11-21T20:14:22+00:00",
       "tags": [
         "airport/security"
       ],
@@ -31,24 +85,6 @@
       "url": "https://www.mlive.com/news/2025/11/students-teachers-injured-when-grizzly-bear-attacks-during-nature-walk.html",
       "source": "mlive.com",
       "published_at": "2025-11-21T20:10:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1c86ed4d4528af9f",
-      "title_orig": "Over 200 schoolchildren abducted in Friday’s attack on Catholic school, says Nigeria Christian association",
-      "summary_orig": "ABUJA, Nigeria (AP) — Over 200 schoolchildren abducted in Friday’s attack on Catholic school, says Nigeria Christian association.",
-      "lang": "en",
-      "title_en": "Over 200 schoolchildren abducted in Friday’s attack on Catholic school, says Nigeria Christian association",
-      "summary_en": "ABUJA, Nigeria (AP) — Over 200 schoolchildren abducted in Friday’s attack on Catholic school, says Nigeria Christian association.",
-      "title": "Over 200 schoolchildren abducted in Friday’s attack on Catholic school, says Nigeria Christian association",
-      "summary": "ABUJA, Nigeria (AP) — Over 200 schoolchildren abducted in Friday’s attack on Catholic school, says Nigeria Christian association.",
-      "url": "https://wtop.com/education/2025/11/over-200-schoolchildren-abducted-in-fridays-attack-on-catholic-school-says-nigeria-christian-association/",
-      "source": "WTOP News",
-      "published_at": "2025-11-21T20:07:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -103,24 +139,6 @@
       "url": "https://www.thehindu.com/news/national/manipur/sangai-festival-begins-in-manipur-amid-protest/article70308545.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2025-11-21T20:03:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8076ddde5c88bf4d",
-      "title_orig": "Nigeria faces another school abduction after gunmen attack a Catholic institution",
-      "summary_orig": "ABUJA, Nigeria (AP) — Gunmen attacked a Catholic boarding school in a western region of Nigeria and abducted schoolchildren and…",
-      "lang": "en",
-      "title_en": "Nigeria faces another school abduction after gunmen attack a Catholic institution",
-      "summary_en": "ABUJA, Nigeria (AP) — Gunmen attacked a Catholic boarding school in a western region of Nigeria and abducted schoolchildren and…",
-      "title": "Nigeria faces another school abduction after gunmen attack a Catholic institution",
-      "summary": "ABUJA, Nigeria (AP) — Gunmen attacked a Catholic boarding school in a western region of Nigeria and abducted schoolchildren and…",
-      "url": "https://wtop.com/education/2025/11/armed-men-abduct-schoolchildren-and-staff-at-another-school-in-nigeria-days-after-latest-abduction-2/",
-      "source": "WTOP News",
-      "published_at": "2025-11-21T20:02:55+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2436,24 +2454,6 @@
       "url": "https://www.kgw.com/article/news/nation-world/tsa-18-dollar-security-without-real-id/507-406d0172-09ce-401c-bdb2-36445d637e67",
       "source": "KGW RSS Feed: news",
       "published_at": "2025-11-21T02:48:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e76f73e015fba887",
-      "title_orig": "Pension talks for caretakers and secretaries have broken down, trade union says",
-      "summary_orig": "The decades-long row over pay and pension entitlements between the Department of Education and school secretaries led to a strike in late August and early September.",
-      "lang": "en",
-      "title_en": "Pension talks for caretakers and secretaries have broken down, trade union says",
-      "summary_en": "The decades-long row over pay and pension entitlements between the Department of Education and school secretaries led to a strike in late August and early September.",
-      "title": "Pension talks for caretakers and secretaries have broken down, trade union says",
-      "summary": "The decades-long row over pay and pension entitlements between the Department of Education and school secretaries led to a strike in late August and early September.",
-      "url": "https://www.thejournal.ie/forsa-trade-union-department-of-education-caretakers-secretaries-pensions-strike-action-6881529-Nov2025/",
-      "source": "TheJournal.ie",
-      "published_at": "2025-11-20T22:05:40+00:00",
       "tags": [
         "airport/security"
       ],
