@@ -1,6 +1,42 @@
 {
-  "generated_at": "2025-11-22T01:04:24.755895+00:00",
+  "generated_at": "2025-11-22T02:30:42.659251+00:00",
   "items": [
+    {
+      "id": "e676a00fcd3fec3d",
+      "title_orig": "TSA could charge $18 to get through security without REAL ID under proposed rule",
+      "summary_orig": "Flyers without a REAL ID would need to use a biometric kiosk to get through airport security, while paying a non-refundable fee.",
+      "lang": "en",
+      "title_en": "TSA could charge $18 to get through security without REAL ID under proposed rule",
+      "summary_en": "Flyers without a REAL ID would need to use a biometric kiosk to get through airport security, while paying a non-refundable fee.",
+      "title": "TSA could charge $18 to get through security without REAL ID under proposed rule",
+      "summary": "Flyers without a REAL ID would need to use a biometric kiosk to get through airport security, while paying a non-refundable fee.",
+      "url": "https://www.kgw.com/article/news/nation-world/tsa-18-dollar-security-without-real-id/507-406d0172-09ce-401c-bdb2-36445d637e67",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2025-11-22T02:21:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9bae30744a54fa71",
+      "title_orig": "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
+      "summary_orig": "The children were among 11 people who were hurt when a grizzly attacked a school group in a remote part of British Columbia, the authorities said.",
+      "lang": "en",
+      "title_en": "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
+      "summary_en": "The children were among 11 people who were hurt when a grizzly attacked a school group in a remote part of British Columbia, the authorities said.",
+      "title": "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
+      "summary": "The children were among 11 people who were hurt when a grizzly attacked a school group in a remote part of British Columbia, the authorities said.",
+      "url": "https://www.nytimes.com/2025/11/21/world/canada/canada-bear-attack-children.html",
+      "source": "NYT > World News",
+      "published_at": "2025-11-22T01:22:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "75e9f4822fa876cd",
       "title_orig": "What to Know: Trump Labels Nigeria’s Christian Violence a ‘Genocide’",
@@ -146,25 +182,7 @@
       "geo": {}
     },
     {
-      "id": "9bae30744a54fa71",
-      "title_orig": "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
-      "summary_orig": "The children were among 11 people who were hurt when a grizzly attacked a school group in a remote part of British Columbia, the authorities said.",
-      "lang": "en",
-      "title_en": "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
-      "summary_en": "The children were among 11 people who were hurt when a grizzly attacked a school group in a remote part of British Columbia, the authorities said.",
-      "title": "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
-      "summary": "The children were among 11 people who were hurt when a grizzly attacked a school group in a remote part of British Columbia, the authorities said.",
-      "url": "https://www.nytimes.com/2025/11/21/world/canada/canada-bear-attack-children.html",
-      "source": "NYT > World News",
-      "published_at": "2025-11-21T23:31:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "c9d6b3d649934b19",
+      "id": "0e73e828419a94eb",
       "title_orig": "Grizzly bear attack on Canada school children leaves 4 seriously injured",
       "summary_orig": "Two of the patients are in critical condition and the other two in serious condition.",
       "lang": "en",
@@ -172,7 +190,7 @@
       "summary_en": "Two of the patients are in critical condition and the other two in serious condition.",
       "title": "Grizzly bear attack on Canada school children leaves 4 seriously injured",
       "summary": "Two of the patients are in critical condition and the other two in serious condition.",
-      "url": "https://www.straitstimes.com/world/united-states/grizzly-bear-attack-on-school-group-leaves-four-seriously-injured-in-british-columbia",
+      "url": "https://www.straitstimes.com/world/grizzly-bear-attack-on-school-group-leaves-four-seriously-injured-in-british-columbia",
       "source": "The Straits Times World News",
       "published_at": "2025-11-21T23:05:00+00:00",
       "tags": [
@@ -551,24 +569,6 @@
       "geo": {}
     },
     {
-      "id": "96aaf0de2cbf63da",
-      "title_orig": "Live: Cyclone Fina intensifies to category three tracking slowly towards Darwin, airport remains closed",
-      "summary_orig": "Tropical Cyclone Fina has intensified to a category three system as it moves towards Darwin. Follow live.",
-      "lang": "en",
-      "title_en": "Live: Cyclone Fina intensifies to category three tracking slowly towards Darwin, airport remains closed",
-      "summary_en": "Tropical Cyclone Fina has intensified to a category three system as it moves towards Darwin. Follow live.",
-      "title": "Live: Cyclone Fina intensifies to category three tracking slowly towards Darwin, airport remains closed",
-      "summary": "Tropical Cyclone Fina has intensified to a category three system as it moves towards Darwin. Follow live.",
-      "url": "https://www.abc.net.au/news/2025-11-22/tropical-cyclone-fina-live-blog-saturday-november-22/106038950",
-      "source": "Just In",
-      "published_at": "2025-11-21T20:21:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "172fa17e8059fb85",
       "title_orig": "Officials at PDX could start charging travelers $18 to get through security if they don’t have REAL IDs",
       "summary_orig": "The Transportation Security Administration has proposed the fee at all U.S. airports for travelers without REAL IDs, passports or other approved ID.",
@@ -768,24 +768,6 @@
       "geo": {}
     },
     {
-      "id": "33eb7ca1c8b66e77",
-      "title_orig": "Ukraine: Compromise or Capitulation?, Epstein & the MAGA rebellion, G20",
-      "summary_orig": "It’s been a week that’s seen Ukraine brace for a fourth winter of war as President Zelensky shores up support amid reports of a secret 28-point peace plan involving territorial concessions and military cuts — a proposal blasted by European allies — while rolling blackouts, relentless strikes, and a corruption scandal trigger calls for a no-confidence vote. In Washington, a defining moment in President Trump’s second term saw a MAGA rebellion force through the release of all government and FBI files on the Epstein investigation, prompting a visibly irritable President to sign it into law while insisting it marked a victory for transparency. And in Britain, Labour unveiled a sweeping overhaul of the asylum system, with Home Secretary Shabana Mahmood championing a Danish-style crackdown on so-called pull factors as critics within her own party condemned the plan as performative cruelty.",
-      "lang": "en",
-      "title_en": "Ukraine: Compromise or Capitulation?, Epstein & the MAGA rebellion, G20",
-      "summary_en": "It’s been a week that’s seen Ukraine brace for a fourth winter of war as President Zelensky shores up support amid reports of a secret 28-point peace plan involving territorial concessions and military cuts — a proposal blasted by European allies — while rolling blackouts, relentless strikes, and a corruption scandal trigger calls for a no-confidence vote. In Washington, a defining moment in President Trump’s second term saw a MAGA rebellion force through the release of all government and FBI files on the Epstein investigation, prompting a visibly irritable President to sign it into law while insisting it marked a victory for transparency. And in Britain, Labour unveiled a sweeping overhaul of the asylum system, with Home Secretary Shabana Mahmood championing a Danish-style crackdown on so-called pull factors as critics within her own party condemned the plan as performative cruelty.",
-      "title": "Ukraine: Compromise or Capitulation?, Epstein & the MAGA rebellion, G20",
-      "summary": "It’s been a week that’s seen Ukraine brace for a fourth winter of war as President Zelensky shores up support amid reports of a secret 28-point peace plan involving territorial concessions and military cuts — a proposal blasted by European allies — while rolling blackouts, relentless strikes, and a corruption scandal trigger calls for a no-confidence vote. In Washington, a defining moment in President Trump’s second term saw a MAGA rebellion force through the release of all government and FBI files on the Epstein investigation, prompting a visibly irritable President to sign it into law while insisting it marked a victory for transparency. And in Britain, Labour unveiled a sweeping overhaul of the asylum system, with Home Secretary Shabana Mahmood championing a Danish-style crackdown on so-called pull factors as critics within her own party condemned the plan as performative cruelty.",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20251121-ukraine-compromise-or-capitulation-epstein-the-maga-rebellion-g20",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-21T19:33:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "129036a231042ade",
       "title_orig": "When faction terror reached Hyderabad with blood, gore and bombs",
       "summary_orig": "The 1997 Jubilee Hills car bomb blast, which claimed 25 lives, brought Rayalaseema’s violent feuds to the capital city’s doorstep. Today, the site is just another bend in the road, but for those who witnessed the carnage, the memories remain sharp and unsettling",
@@ -896,24 +878,6 @@
       "url": "https://www.standard.co.uk/news/crime/shock-kind-gentleman-killed-robbery-post-office-enfield-north-london-b1259211.html",
       "source": "The Standard News",
       "published_at": "2025-11-21T18:46:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9a6e6763547556d5",
-      "title_orig": "Pupils abducted from Catholic school in fresh Nigeria attack",
-      "summary_orig": "Residents fear that close to 100 students and staff may have been taken during the early-morning raid.",
-      "lang": "en",
-      "title_en": "Pupils abducted from Catholic school in fresh Nigeria attack",
-      "summary_en": "Residents fear that close to 100 students and staff may have been taken during the early-morning raid.",
-      "title": "Pupils abducted from Catholic school in fresh Nigeria attack",
-      "summary": "Residents fear that close to 100 students and staff may have been taken during the early-morning raid.",
-      "url": "https://www.bbc.com/news/articles/cj4qxvy74qyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-11-21T18:40:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1122,42 +1086,6 @@
       "url": "https://www.bristolpost.co.uk/news/bristol-news/bristol-airport-named-among-worst-10661659",
       "source": "Bristol Post - News",
       "published_at": "2025-11-21T17:22:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "065d50a7c9711883",
-      "title_orig": "‘Every Swede has a role to play in our total defence concept’: Swedish Civil Defence Minister Bohlin",
-      "summary_orig": "“Everyone has a role to play”, those are the words of today’s guest Carl-Oskar Bohlin, Sweden’s first minister for civil defence since 1947. Bohlin has become a key figure in Sweden’s evolving security landscape, as threats against Europe are rapidly increasing by the day. Grey zone aggression – covert actions that fall short of open military conflict – is on the rise, and countries along Russia’s eastern flank are on the frontline: from cyber attacks, disinformation and drone sightings. As the war in Ukraine is set to enter its fourth year and with no end in sight, countries like Sweden are urging European allies to take civilian preparedness seriously. Carl-Oskar Bohlin speaks to us during a visit to Paris.",
-      "lang": "en",
-      "title_en": "‘Every Swede has a role to play in our total defence concept’: Swedish Civil Defence Minister Bohlin",
-      "summary_en": "“Everyone has a role to play”, those are the words of today’s guest Carl-Oskar Bohlin, Sweden’s first minister for civil defence since 1947. Bohlin has become a key figure in Sweden’s evolving security landscape, as threats against Europe are rapidly increasing by the day. Grey zone aggression – covert actions that fall short of open military conflict – is on the rise, and countries along Russia’s eastern flank are on the frontline: from cyber attacks, disinformation and drone sightings. As the war in Ukraine is set to enter its fourth year and with no end in sight, countries like Sweden are urging European allies to take civilian preparedness seriously. Carl-Oskar Bohlin speaks to us during a visit to Paris.",
-      "title": "‘Every Swede has a role to play in our total defence concept’: Swedish Civil Defence Minister Bohlin",
-      "summary": "“Everyone has a role to play”, those are the words of today’s guest Carl-Oskar Bohlin, Sweden’s first minister for civil defence since 1947. Bohlin has become a key figure in Sweden’s evolving security landscape, as threats against Europe are rapidly increasing by the day. Grey zone aggression – covert actions that fall short of open military conflict – is on the rise, and countries along Russia’s eastern flank are on the frontline: from cyber attacks, disinformation and drone sightings. As the war in Ukraine is set to enter its fourth year and with no end in sight, countries like Sweden are urging European allies to take civilian preparedness seriously. Carl-Oskar Bohlin speaks to us during a visit to Paris.",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20251121-every-swede-has-a-role-to-play-in-our-total-defence-concept-swedish-civil-defence-minister-bohlin",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-21T17:20:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "5a290adc640fca8c",
-      "title_orig": "400,000 Seats Cut: Ryanair Abandons Azores Due To Rising Costs",
-      "summary_orig": "The airline blames excessive airport fees and rising regulatory costs in Portugal.",
-      "lang": "en",
-      "title_en": "400,000 Seats Cut: Ryanair Abandons Azores Due To Rising Costs",
-      "summary_en": "The airline blames excessive airport fees and rising regulatory costs in Portugal.",
-      "title": "400,000 Seats Cut: Ryanair Abandons Azores Due To Rising Costs",
-      "summary": "The airline blames excessive airport fees and rising regulatory costs in Portugal.",
-      "url": "https://simpleflying.com/400000-seats-cut-ryanair-abandons-azores-rising-costs/",
-      "source": "Simple Flying",
-      "published_at": "2025-11-21T17:18:20+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1435,24 +1363,6 @@
       "geo": {}
     },
     {
-      "id": "4030258822cf0168",
-      "title_orig": "China's fury over Japan's Taiwan remarks: Cancelled flights, concerts and seafood ban",
-      "summary_orig": "We analyse the renewed tensions between China and Japan, who have been locked in an escalating diplomatic row. The spat was set off by Prime Minister Sanae Takaichi's suggestion earlier this month that Japan could respond militarily in the scenario that China attacks Taiwan. The dispute has led Beijing to cancel Japan-bound flights, suspend concerts and ban imports of Japanese seafood.",
-      "lang": "en",
-      "title_en": "China's fury over Japan's Taiwan remarks: Cancelled flights, concerts and seafood ban",
-      "summary_en": "We analyse the renewed tensions between China and Japan, who have been locked in an escalating diplomatic row. The spat was set off by Prime Minister Sanae Takaichi's suggestion earlier this month that Japan could respond militarily in the scenario that China attacks Taiwan. The dispute has led Beijing to cancel Japan-bound flights, suspend concerts and ban imports of Japanese seafood.",
-      "title": "China's fury over Japan's Taiwan remarks: Cancelled flights, concerts and seafood ban",
-      "summary": "We analyse the renewed tensions between China and Japan, who have been locked in an escalating diplomatic row. The spat was set off by Prime Minister Sanae Takaichi's suggestion earlier this month that Japan could respond militarily in the scenario that China attacks Taiwan. The dispute has led Beijing to cancel Japan-bound flights, suspend concerts and ban imports of Japanese seafood.",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20251121-china-s-fury-over-japan-s-taiwan-remarks-cancelled-flights-concerts-and-seafood-ban",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-21T15:40:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "bb3998ebb5b8d2f8",
       "title_orig": "Pilot killed after fighter jet crashes at Dubai airport during air show demonstration",
       "summary_orig": "An Indian home-produced Tejas fighter jet crashed at the Dubai Air Show during an aerial display",
@@ -1478,24 +1388,6 @@
         "lat": 25.2532,
         "lon": 55.3657
       }
-    },
-    {
-      "id": "02f78642fe0b3538",
-      "title_orig": "AIDSO leads protest against move to merge govt. schools",
-      "summary_orig": "The Congress government is taking such anti-people measures under pressure from international funding agencies, says AIDSO convener",
-      "lang": "en",
-      "title_en": "AIDSO leads protest against move to merge govt. schools",
-      "summary_en": "The Congress government is taking such anti-people measures under pressure from international funding agencies, says AIDSO convener",
-      "title": "AIDSO leads protest against move to merge govt. schools",
-      "summary": "The Congress government is taking such anti-people measures under pressure from international funding agencies, says AIDSO convener",
-      "url": "https://www.thehindu.com/news/national/karnataka/aidso-leads-protest-against-move-to-merge-govt-schools/article70308056.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-11-21T15:27:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "e044037469b59a0d",
@@ -1622,24 +1514,6 @@
         "lat": 19.0896,
         "lon": 72.8656
       }
-    },
-    {
-      "id": "54571bb62d0bdce0",
-      "title_orig": "Teacher who survived brutal random attack at Portland shelter tries to forgive: ‘I want him to get help’",
-      "summary_orig": "Michael Lasota suddenly lost housing earlier this year while trying to restart his career in the city.",
-      "lang": "en",
-      "title_en": "Teacher who survived brutal random attack at Portland shelter tries to forgive: ‘I want him to get help’",
-      "summary_en": "Michael Lasota suddenly lost housing earlier this year while trying to restart his career in the city.",
-      "title": "Teacher who survived brutal random attack at Portland shelter tries to forgive: ‘I want him to get help’",
-      "summary": "Michael Lasota suddenly lost housing earlier this year while trying to restart his career in the city.",
-      "url": "https://www.oregonlive.com/crime/2025/11/teacher-who-survived-brutal-random-attack-at-portland-shelter-tries-to-forgive-i-want-him-to-get-help.html",
-      "source": "oregonlive.com",
-      "published_at": "2025-11-21T15:02:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "76f53b001771dddb",
@@ -1828,24 +1702,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cc4092ed6c47bb0d",
-      "title_orig": "Gazan students remain in limbo as Canadian visas stall",
-      "summary_orig": "Over 130 Gazan students who have been offered places at Canadian universities remain stranded in Gaza, some waiting over 18 months for visas. Two students have already lost their lives, while others continue to face extreme risks. Canada attributes the delays to security checks and evacuation challenges, but critics highlight that other countries, including the UK, Italy, Ireland, and France, have successfully evacuated students. FRANCE 24's Jessica Le Masurier reports.",
-      "lang": "en",
-      "title_en": "Gazan students remain in limbo as Canadian visas stall",
-      "summary_en": "Over 130 Gazan students who have been offered places at Canadian universities remain stranded in Gaza, some waiting over 18 months for visas. Two students have already lost their lives, while others continue to face extreme risks. Canada attributes the delays to security checks and evacuation challenges, but critics highlight that other countries, including the UK, Italy, Ireland, and France, have successfully evacuated students. FRANCE 24's Jessica Le Masurier reports.",
-      "title": "Gazan students remain in limbo as Canadian visas stall",
-      "summary": "Over 130 Gazan students who have been offered places at Canadian universities remain stranded in Gaza, some waiting over 18 months for visas. Two students have already lost their lives, while others continue to face extreme risks. Canada attributes the delays to security checks and evacuation challenges, but critics highlight that other countries, including the UK, Italy, Ireland, and France, have successfully evacuated students. FRANCE 24's Jessica Le Masurier reports.",
-      "url": "https://www.france24.com/en/video/20251121-gazan-students-remain-in-limbo-as-canadian-visas-stall",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-21T14:01:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2490,42 +2346,6 @@
       "url": "https://www.thelocal.it/20251121/calendar-the-transport-strikes-to-expect-in-italy-in-december-2025",
       "source": "The Local Italy",
       "published_at": "2025-11-21T08:48:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4a337c9b82099ecd",
-      "title_orig": "11 hurt as grizzly bear attacks students, teachers on Canadian walking trail",
-      "summary_orig": "A grizzly bear attacked a group of schoolchildren and teachers on a walking trail in British Columbia, Canada, injuring 11 people, two of them critically.\nThe attack happened on Thursday afternoon in Bella Coola, 700km (435 miles) northwest of Vancouver. The Nuxalk Nation said the “aggressive bear” remained on the loose on Thursday evening and police and conservation officers were on the scene.\n“Officers are armed. Remain indoors and off the highway,” the First Nation said in a social media...",
-      "lang": "en",
-      "title_en": "11 hurt as grizzly bear attacks students, teachers on Canadian walking trail",
-      "summary_en": "A grizzly bear attacked a group of schoolchildren and teachers on a walking trail in British Columbia, Canada, injuring 11 people, two of them critically.\nThe attack happened on Thursday afternoon in Bella Coola, 700km (435 miles) northwest of Vancouver. The Nuxalk Nation said the “aggressive bear” remained on the loose on Thursday evening and police and conservation officers were on the scene.\n“Officers are armed. Remain indoors and off the highway,” the First Nation said in a social media...",
-      "title": "11 hurt as grizzly bear attacks students, teachers on Canadian walking trail",
-      "summary": "A grizzly bear attacked a group of schoolchildren and teachers on a walking trail in British Columbia, Canada, injuring 11 people, two of them critically.\nThe attack happened on Thursday afternoon in Bella Coola, 700km (435 miles) northwest of Vancouver. The Nuxalk Nation said the “aggressive bear” remained on the loose on Thursday evening and police and conservation officers were on the scene.\n“Officers are armed. Remain indoors and off the highway,” the First Nation said in a social media...",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3333685/11-injured-canada-grizzly-bear-attacks-students-teachers-walking-trail?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-11-21T08:47:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4bd265a3e6b342cd",
-      "title_orig": "Trump’s G20 boycott sums up a year of US attacks on multilateralism",
-      "summary_orig": "As South Africa’s President Cyril Ramaphosa convenes the Group of 20 summit in Johannesburg, two things are likely to be on many minds: the empty chair and the spirit of ubuntu.\nWikipedia defines the ubuntu philosophy as encompassing “the interdependence of humans on one another and the acknowledgement of one’s responsibility to their fellow humans and the world around them”. For the purposes of South Africa’s hosting of the G20 summit, that Zulu term means multilateralism – anathema to US...",
-      "lang": "en",
-      "title_en": "Trump’s G20 boycott sums up a year of US attacks on multilateralism",
-      "summary_en": "As South Africa’s President Cyril Ramaphosa convenes the Group of 20 summit in Johannesburg, two things are likely to be on many minds: the empty chair and the spirit of ubuntu.\nWikipedia defines the ubuntu philosophy as encompassing “the interdependence of humans on one another and the acknowledgement of one’s responsibility to their fellow humans and the world around them”. For the purposes of South Africa’s hosting of the G20 summit, that Zulu term means multilateralism – anathema to US...",
-      "title": "Trump’s G20 boycott sums up a year of US attacks on multilateralism",
-      "summary": "As South Africa’s President Cyril Ramaphosa convenes the Group of 20 summit in Johannesburg, two things are likely to be on many minds: the empty chair and the spirit of ubuntu.\nWikipedia defines the ubuntu philosophy as encompassing “the interdependence of humans on one another and the acknowledgement of one’s responsibility to their fellow humans and the world around them”. For the purposes of South Africa’s hosting of the G20 summit, that Zulu term means multilateralism – anathema to US...",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3333596/multilateralism-isnt-dead-despite-trumpian-year?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-11-21T08:30:10+00:00",
       "tags": [
         "airport/security"
       ],
