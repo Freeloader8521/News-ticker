@@ -1,6 +1,33 @@
 {
-  "generated_at": "2025-11-23T20:21:13.937787+00:00",
+  "generated_at": "2025-11-23T20:47:05.398925+00:00",
   "items": [
+    {
+      "id": "ea287904b2da0037",
+      "title_orig": "Aer Lingus Warns It May Exit Manchester Airport Due To Poor Route Performance",
+      "summary_orig": "Around 200 jobs could be cut at Aer Lingus UK.",
+      "lang": "en",
+      "title_en": "Aer Lingus Warns It May Exit Manchester Airport Due To Poor Route Performance",
+      "summary_en": "Around 200 jobs could be cut at Aer Lingus UK.",
+      "title": "Aer Lingus Warns It May Exit Manchester Airport Due To Poor Route Performance",
+      "summary": "Around 200 jobs could be cut at Aer Lingus UK.",
+      "url": "https://simpleflying.com/aer-lingus-manchester-airport-exit-poor-margin-performance/",
+      "source": "Simple Flying",
+      "published_at": "2025-11-23T20:35:01+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
     {
       "id": "394c21712c742731",
       "title_orig": "Slender Man stabbing attacker missing after cutting off monitoring bracelet",
@@ -12,7 +39,7 @@
       "summary": "Morgan Geyser was last seen Saturday around 8 p.m.",
       "url": "https://www.independent.co.uk/news/world/americas/crime/slender-man-morgan-geyser-missing-attacker-b2870859.html",
       "source": "The Independent World",
-      "published_at": "2025-11-23T20:03:30+00:00",
+      "published_at": "2025-11-23T20:09:41+00:00",
       "tags": [
         "airport/security"
       ],
@@ -102,13 +129,13 @@
     },
     {
       "id": "e155ce6ba0c25a7e",
-      "title_orig": "Israeli army chief fires, reprimands commanders for failures in October 7 attack",
-      "summary_orig": "JERUSALEM - Israel's military chief on Sunday dismissed several senior military personnel and reprimanded others over their roles in the failures on October 7, 2023 when Hamas launched a surprise attack on southern Israel from Gaza.",
+      "title_orig": "Israeli army chief fires, reprimands commanders for failures in Oct 7 attack",
+      "summary_orig": "The military's failure to protect civilians in the Oct 7, 2023 attack was \"severe and resounding\", says its chief.",
       "lang": "en",
-      "title_en": "Israeli army chief fires, reprimands commanders for failures in October 7 attack",
-      "summary_en": "JERUSALEM - Israel's military chief on Sunday dismissed several senior military personnel and reprimanded others over their roles in the failures on October 7, 2023 when Hamas launched a surprise attack on southern Israel from Gaza.",
-      "title": "Israeli army chief fires, reprimands commanders for failures in October 7 attack",
-      "summary": "JERUSALEM - Israel's military chief on Sunday dismissed several senior military personnel and reprimanded others over their roles in the failures on October 7, 2023 when Hamas launched a surprise attack on southern Israel from Gaza.",
+      "title_en": "Israeli army chief fires, reprimands commanders for failures in Oct 7 attack",
+      "summary_en": "The military's failure to protect civilians in the Oct 7, 2023 attack was \"severe and resounding\", says its chief.",
+      "title": "Israeli army chief fires, reprimands commanders for failures in Oct 7 attack",
+      "summary": "The military's failure to protect civilians in the Oct 7, 2023 attack was \"severe and resounding\", says its chief.",
       "url": "https://www.straitstimes.com/world/middle-east/israeli-army-chief-fires-reprimands-commanders-for-failures-in-october-7-attack",
       "source": "The Straits Times World News",
       "published_at": "2025-11-23T19:57:46+00:00",
@@ -260,24 +287,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "0765d56cf2186817",
-      "title_orig": "19-year-old Assan Ouedraogo scores for Leipzig after making Germany debut",
-      "summary_orig": "BERLIN (AP) — Assan Ouedraogo added to his burgeoning reputation with a brilliant strike in Leipzig’s 2-0 win over Werder…",
-      "lang": "en",
-      "title_en": "19-year-old Assan Ouedraogo scores for Leipzig after making Germany debut",
-      "summary_en": "BERLIN (AP) — Assan Ouedraogo added to his burgeoning reputation with a brilliant strike in Leipzig’s 2-0 win over Werder…",
-      "title": "19-year-old Assan Ouedraogo scores for Leipzig after making Germany debut",
-      "summary": "BERLIN (AP) — Assan Ouedraogo added to his burgeoning reputation with a brilliant strike in Leipzig’s 2-0 win over Werder…",
-      "url": "https://wtop.com/sports/2025/11/19-year-old-assan-ouedraogo-scores-for-leipzig-after-making-germany-debut/",
-      "source": "WTOP News",
-      "published_at": "2025-11-23T19:20:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -957,24 +966,6 @@
       "geo": {}
     },
     {
-      "id": "0f89d45a3fef3304",
-      "title_orig": "Israel kills Hezbollah militant in air strike on Beirut",
-      "summary_orig": "Israel has launched an air strike on Lebanon's capital Beirut after intensifying attacks on southern Lebanon in recent weeks.",
-      "lang": "en",
-      "title_en": "Israel kills Hezbollah militant in air strike on Beirut",
-      "summary_en": "Israel has launched an air strike on Lebanon's capital Beirut after intensifying attacks on southern Lebanon in recent weeks.",
-      "title": "Israel kills Hezbollah militant in air strike on Beirut",
-      "summary": "Israel has launched an air strike on Lebanon's capital Beirut after intensifying attacks on southern Lebanon in recent weeks.",
-      "url": "https://www.abc.net.au/news/2025-11-24/israel-target-hezbollah/106043238",
-      "source": "Just In",
-      "published_at": "2025-11-23T14:25:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2e77e70331a538a9",
       "title_orig": "Nigerian school attacks impact “legitimacy of government”",
       "summary_orig": "“Some schools do not have early warning systems.”",
@@ -1102,13 +1093,13 @@
     },
     {
       "id": "09c636dbd59d1646",
-      "title_orig": "Israel attacks Lebanon’s capital, says top Hezbollah official ‘eliminated’",
-      "summary_orig": "Netanyahu's office says Hezbollah's chief of staff was the target in the latest violation of a year-old ceasefire.",
+      "title_orig": "Israel kills top Hezbollah commander in attack on Lebanon’s capital",
+      "summary_orig": "Hezbollah confirms death of 'great commander' Haytham Ali Tabatabai, says attacks 'open door to escalation of assaults'.",
       "lang": "en",
-      "title_en": "Israel attacks Lebanon’s capital, says top Hezbollah official ‘eliminated’",
-      "summary_en": "Netanyahu's office says Hezbollah's chief of staff was the target in the latest violation of a year-old ceasefire.",
-      "title": "Israel attacks Lebanon’s capital, says top Hezbollah official ‘eliminated’",
-      "summary": "Netanyahu's office says Hezbollah's chief of staff was the target in the latest violation of a year-old ceasefire.",
+      "title_en": "Israel kills top Hezbollah commander in attack on Lebanon’s capital",
+      "summary_en": "Hezbollah confirms death of 'great commander' Haytham Ali Tabatabai, says attacks 'open door to escalation of assaults'.",
+      "title": "Israel kills top Hezbollah commander in attack on Lebanon’s capital",
+      "summary": "Hezbollah confirms death of 'great commander' Haytham Ali Tabatabai, says attacks 'open door to escalation of assaults'.",
       "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
       "published_at": "2025-11-23T13:11:00+00:00",
@@ -2019,51 +2010,6 @@
       "geo": {}
     },
     {
-      "id": "0c6428c8bc8cf17d",
-      "title_orig": "JFK's granddaughter reveals terminal cancer diagnosis, criticizes cousin RFK, Jr.",
-      "summary_orig": "John F. Kennedy’s granddaughter has disclosed that she has terminal cancer, writing in an essay in “The New Yorker” on Saturday that one of her doctors said she might live for about another year",
-      "lang": "en",
-      "title_en": "JFK's granddaughter reveals terminal cancer diagnosis, criticizes cousin RFK, Jr.",
-      "summary_en": "John F. Kennedy’s granddaughter has disclosed that she has terminal cancer, writing in an essay in “The New Yorker” on Saturday that one of her doctors said she might live for about another year",
-      "title": "JFK's granddaughter reveals terminal cancer diagnosis, criticizes cousin RFK, Jr.",
-      "summary": "John F. Kennedy’s granddaughter has disclosed that she has terminal cancer, writing in an essay in “The New Yorker” on Saturday that one of her doctors said she might live for about another year",
-      "url": "https://www.independent.co.uk/news/world/americas/jfk-donald-trump-health-and-human-services-b2870586.html",
-      "source": "The Independent World",
-      "published_at": "2025-11-22T20:18:13+00:00",
-      "tags": [
-        "JFK",
-        "United States",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "John F. Kennedy",
-        "city": "New York",
-        "country": "United States",
-        "iata": "JFK",
-        "lat": 40.6413,
-        "lon": -73.7781
-      }
-    },
-    {
-      "id": "3ccde60aca08852d",
-      "title_orig": "Vaping thug ‘smashes victim’s eye socket’ in brutal Tube attack",
-      "summary_orig": "British Transport Police released CCTV image after incident on District line train from Sloane Square",
-      "lang": "en",
-      "title_en": "Vaping thug ‘smashes victim’s eye socket’ in brutal Tube attack",
-      "summary_en": "British Transport Police released CCTV image after incident on District line train from Sloane Square",
-      "title": "Vaping thug ‘smashes victim’s eye socket’ in brutal Tube attack",
-      "summary": "British Transport Police released CCTV image after incident on District line train from Sloane Square",
-      "url": "https://www.standard.co.uk/news/london/btp-vaping-london-underground-tube-attack-sloane-square-westminster-b1259325.html",
-      "source": "The Standard News",
-      "published_at": "2025-11-22T20:16:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b3f29d6c13b2eb82",
       "title_orig": "Tatiana Schlossberg, JFK’s granddaughter, reveals terminal cancer diagnosis",
       "summary_orig": "In a New Yorker essay, Schlossberg details her leukemia battle, treatment journey and the toll it has taken on her young family.",
@@ -2089,6 +2035,24 @@
         "lat": 40.6413,
         "lon": -73.7781
       }
+    },
+    {
+      "id": "ba9f31623017797b",
+      "title_orig": "Human rights fears over Australia’s role in F-35 parts after Trump’s decision to sell fighter jets to Saudi Arabia",
+      "summary_orig": "Experts warn US deal on ‘lethal’ aircraft presents issues for Australia that ‘we’ve tried desperately to ignore with the Israelis’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Donald Trump’s unilateral decision to sell F-35 joint strike fighter jets to Saudi Arabia will rely on critical Australian components, prompting experts to warn Australia could become complicit in human rights abuses. The US president announced the deal during a meeting with the Saudi crown prince, Mohammed bin Salman, this week , despite consistent concerns about the Saudi regime’s human rights record – including bombing raids on civilian targets – and fears it could share the technology with China. Continue reading...",
+      "lang": "en",
+      "title_en": "Human rights fears over Australia’s role in F-35 parts after Trump’s decision to sell fighter jets to Saudi Arabia",
+      "summary_en": "Experts warn US deal on ‘lethal’ aircraft presents issues for Australia that ‘we’ve tried desperately to ignore with the Israelis’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Donald Trump’s unilateral decision to sell F-35 joint strike fighter jets to Saudi Arabia will rely on critical Australian components, prompting experts to warn Australia could become complicit in human rights abuses. The US president announced the deal during a meeting with the Saudi crown prince, Mohammed bin Salman, this week , despite consistent concerns about the Saudi regime’s human rights record – including bombing raids on civilian targets – and fears it could share the technology with China. Continue reading...",
+      "title": "Human rights fears over Australia’s role in F-35 parts after Trump’s decision to sell fighter jets to Saudi Arabia",
+      "summary": "Experts warn US deal on ‘lethal’ aircraft presents issues for Australia that ‘we’ve tried desperately to ignore with the Israelis’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Donald Trump’s unilateral decision to sell F-35 joint strike fighter jets to Saudi Arabia will rely on critical Australian components, prompting experts to warn Australia could become complicit in human rights abuses. The US president announced the deal during a meeting with the Saudi crown prince, Mohammed bin Salman, this week , despite consistent concerns about the Saudi regime’s human rights record – including bombing raids on civilian targets – and fears it could share the technology with China. Continue reading...",
+      "url": "https://www.theguardian.com/science/2025/nov/22/human-rights-fears-over-australias-role-in-f-35-parts-after-trumps-decision-to-sell-fighter-jets-to-saudi-arabia",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-22T19:00:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
     },
     {
       "id": "849b4f753ba5542e",
@@ -2592,24 +2556,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a634226709f85c3d",
-      "title_orig": "Weather tracker: US storms linked to ‘atmospheric river’ phenomenon",
-      "summary_orig": "California faced evacuation warnings over flood risk, while Japan experienced heavy early season snowfall Evacuation warnings were issued last week in California as heavy rain brought the risk of flooding and landslides . The storms in the US were linked to a phenomenon known as an “atmospheric river” – a long filament of moisture-laden air that originates above the Pacific Ocean and provides vital replenishment of reservoirs and snowpack along the western coast of the US. However, they can also bring destructive volumes of rain, particularly along coastal areas. Elsewhere in the US, parts of Colorado experienced some of their longest stretches of snowless days ever this year, with Denver surpassing its third-latest snowfall date this week after recording its highest ever November temperature of 28C earlier in the month. The warm temperatures and lack of snowfall have also forced ski resorts to delay opening until December. Continue reading...",
-      "lang": "en",
-      "title_en": "Weather tracker: US storms linked to ‘atmospheric river’ phenomenon",
-      "summary_en": "California faced evacuation warnings over flood risk, while Japan experienced heavy early season snowfall Evacuation warnings were issued last week in California as heavy rain brought the risk of flooding and landslides . The storms in the US were linked to a phenomenon known as an “atmospheric river” – a long filament of moisture-laden air that originates above the Pacific Ocean and provides vital replenishment of reservoirs and snowpack along the western coast of the US. However, they can also bring destructive volumes of rain, particularly along coastal areas. Elsewhere in the US, parts of Colorado experienced some of their longest stretches of snowless days ever this year, with Denver surpassing its third-latest snowfall date this week after recording its highest ever November temperature of 28C earlier in the month. The warm temperatures and lack of snowfall have also forced ski resorts to delay opening until December. Continue reading...",
-      "title": "Weather tracker: US storms linked to ‘atmospheric river’ phenomenon",
-      "summary": "California faced evacuation warnings over flood risk, while Japan experienced heavy early season snowfall Evacuation warnings were issued last week in California as heavy rain brought the risk of flooding and landslides . The storms in the US were linked to a phenomenon known as an “atmospheric river” – a long filament of moisture-laden air that originates above the Pacific Ocean and provides vital replenishment of reservoirs and snowpack along the western coast of the US. However, they can also bring destructive volumes of rain, particularly along coastal areas. Elsewhere in the US, parts of Colorado experienced some of their longest stretches of snowless days ever this year, with Denver surpassing its third-latest snowfall date this week after recording its highest ever November temperature of 28C earlier in the month. The warm temperatures and lack of snowfall have also forced ski resorts to delay opening until December. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2025/nov/21/weather-tracker-us-storms-linked-to-atmospheric-river-phenomenon",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-21T10:47:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
