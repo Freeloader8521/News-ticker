@@ -1,6 +1,33 @@
 {
-  "generated_at": "2025-11-24T06:57:44.920461+00:00",
+  "generated_at": "2025-11-24T07:20:57.426007+00:00",
   "items": [
+    {
+      "id": "bd7193580c8c7f4d",
+      "title_orig": "London travel news LIVE: Stansted Airport hit by signalling fault causing chaos",
+      "summary_orig": "A signalling fault at Stansted Airport has been fixed, but passengers face ongoing delays and cancellations across major routes as operators work to restore normal service",
+      "lang": "en",
+      "title_en": "London travel news LIVE: Stansted Airport hit by signalling fault causing chaos",
+      "summary_en": "A signalling fault at Stansted Airport has been fixed, but passengers face ongoing delays and cancellations across major routes as operators work to restore normal service",
+      "title": "London travel news LIVE: Stansted Airport hit by signalling fault causing chaos",
+      "summary": "A signalling fault at Stansted Airport has been fixed, but passengers face ongoing delays and cancellations across major routes as operators work to restore normal service",
+      "url": "https://www.standard.co.uk/news/london/tfl-stansted-airport-delays-b1259097.html",
+      "source": "The Standard News",
+      "published_at": "2025-11-24T07:00:25+00:00",
+      "tags": [
+        "STN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Stansted",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "STN",
+        "lat": 51.885,
+        "lon": 0.235
+      }
+    },
     {
       "id": "26c1ee5da28bc1e0",
       "title_orig": "3 FC men martyred as terrorists attack force’s headquarters in Peshawar",
@@ -308,24 +335,6 @@
       "geo": {}
     },
     {
-      "id": "9db01080f70f680f",
-      "title_orig": "US set to label Maduro-tied Cartel de los Soles as a terror organization. It’s not a cartel per se",
-      "summary_orig": "President Donald Trump’s administration is set to increase pressure on Venezuelan President Nicolás Maduro by designating the Cartel de los Soles as a foreign terrorist organization.",
-      "lang": "en",
-      "title_en": "US set to label Maduro-tied Cartel de los Soles as a terror organization. It’s not a cartel per se",
-      "summary_en": "President Donald Trump’s administration is set to increase pressure on Venezuelan President Nicolás Maduro by designating the Cartel de los Soles as a foreign terrorist organization.",
-      "title": "US set to label Maduro-tied Cartel de los Soles as a terror organization. It’s not a cartel per se",
-      "summary": "President Donald Trump’s administration is set to increase pressure on Venezuelan President Nicolás Maduro by designating the Cartel de los Soles as a foreign terrorist organization.",
-      "url": "https://www.seattletimes.com/nation-world/nation-politics/us-set-to-label-maduro-tied-cartel-de-los-soles-as-a-terror-organization-its-not-a-cartel-per-se/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-11-24T05:03:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "fe5ad8dde3f229c4",
       "title_orig": "US set to label Maduro-tied Cartel de los Soles as a terror organization. It's not a cartel per se",
       "summary_orig": "President Donald Trump’s administration is set to increase pressure on Venezuelan President Nicolás Maduro by designating the Cartel de los Soles as a foreign terrorist organization",
@@ -355,24 +364,6 @@
       "url": "https://www.bristolpost.co.uk/news/bristol-news/pre-school-near-bristol-airport-10649219",
       "source": "Bristol Post - News",
       "published_at": "2025-11-24T05:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a027116625bea886",
-      "title_orig": "Suicide bombers strike security force headquarters in northwestern Pakistan, killing 3 officers",
-      "summary_orig": "Police say two suicide bombers have attacked the headquarters of a security force in northwestern Pakistan, killing at least three officers.",
-      "lang": "en",
-      "title_en": "Suicide bombers strike security force headquarters in northwestern Pakistan, killing 3 officers",
-      "summary_en": "Police say two suicide bombers have attacked the headquarters of a security force in northwestern Pakistan, killing at least three officers.",
-      "title": "Suicide bombers strike security force headquarters in northwestern Pakistan, killing 3 officers",
-      "summary": "Police say two suicide bombers have attacked the headquarters of a security force in northwestern Pakistan, killing at least three officers.",
-      "url": "https://www.seattletimes.com/nation-world/suicide-bombers-strike-security-force-headquarters-in-northwestern-pakistan-killing-3-officers/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-11-24T04:52:03+00:00",
       "tags": [
         "airport/security"
       ],
@@ -607,24 +598,6 @@
       "url": "https://www.hindustantimes.com/india-news/delhis-toxic-air-remains-very-poor-with-aqi-397-protesters-stun-cops-with-chilli-spray-101763946868503.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2025-11-24T02:24:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "540962465b984c72",
-      "title_orig": "Takeoff of China’s flying taxis hits turbulence",
-      "summary_orig": "Chinese companies are rushing to deploy low-flying vehicles and drones for various uses as the country finds innovative ways to drive its economy.",
-      "lang": "en",
-      "title_en": "Takeoff of China’s flying taxis hits turbulence",
-      "summary_en": "Chinese companies are rushing to deploy low-flying vehicles and drones for various uses as the country finds innovative ways to drive its economy.",
-      "title": "Takeoff of China’s flying taxis hits turbulence",
-      "summary": "Chinese companies are rushing to deploy low-flying vehicles and drones for various uses as the country finds innovative ways to drive its economy.",
-      "url": "https://www.seattletimes.com/business/takeoff-of-chinas-flying-taxis-hits-turbulence/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-11-24T01:34:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -936,33 +909,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "ea287904b2da0037",
-      "title_orig": "Aer Lingus Warns It May Exit Manchester Airport Due To Poor Route Performance",
-      "summary_orig": "Around 200 jobs could be cut at Aer Lingus UK.",
-      "lang": "en",
-      "title_en": "Aer Lingus Warns It May Exit Manchester Airport Due To Poor Route Performance",
-      "summary_en": "Around 200 jobs could be cut at Aer Lingus UK.",
-      "title": "Aer Lingus Warns It May Exit Manchester Airport Due To Poor Route Performance",
-      "summary": "Around 200 jobs could be cut at Aer Lingus UK.",
-      "url": "https://simpleflying.com/aer-lingus-manchester-airport-exit-poor-margin-performance/",
-      "source": "Simple Flying",
-      "published_at": "2025-11-23T20:35:01+00:00",
-      "tags": [
-        "MAN",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN",
-        "lat": 53.3652,
-        "lon": -2.2727
-      }
     },
     {
       "id": "44357a45ba762aee",
@@ -1552,13 +1498,13 @@
     },
     {
       "id": "9d728faeb68f0c1d",
-      "title_orig": "Fifty schoolchildren escape kidnappers in Nigeria, more than 250 remain captive",
-      "summary_orig": "Fifty of the more than 300 children kidnapped by gunmen from a Catholic school in Niger state managed to escape their captors and have reunited with their families, a Christian group affiliated with the school said on Sunday. Armed attackers on Friday took 303 children and 12 teachers captive in one of Nigeria's largest mass kidnappings to date.",
+      "title_orig": "50 schoolchildren escape kidnappers in Nigeria, more than 250 still captive",
+      "summary_orig": "Fifty of the more than 300 children kidnapped by gunmen from a Catholic school in Niger state managed to escape their captors and have reunited with their families, a Christian group affiliated with the school said Sunday. Armed attackers on Friday took 303 children and 12 teachers captive in one of Nigeria's largest mass kidnappings to date.",
       "lang": "en",
-      "title_en": "Fifty schoolchildren escape kidnappers in Nigeria, more than 250 remain captive",
-      "summary_en": "Fifty of the more than 300 children kidnapped by gunmen from a Catholic school in Niger state managed to escape their captors and have reunited with their families, a Christian group affiliated with the school said on Sunday. Armed attackers on Friday took 303 children and 12 teachers captive in one of Nigeria's largest mass kidnappings to date.",
-      "title": "Fifty schoolchildren escape kidnappers in Nigeria, more than 250 remain captive",
-      "summary": "Fifty of the more than 300 children kidnapped by gunmen from a Catholic school in Niger state managed to escape their captors and have reunited with their families, a Christian group affiliated with the school said on Sunday. Armed attackers on Friday took 303 children and 12 teachers captive in one of Nigeria's largest mass kidnappings to date.",
+      "title_en": "50 schoolchildren escape kidnappers in Nigeria, more than 250 still captive",
+      "summary_en": "Fifty of the more than 300 children kidnapped by gunmen from a Catholic school in Niger state managed to escape their captors and have reunited with their families, a Christian group affiliated with the school said Sunday. Armed attackers on Friday took 303 children and 12 teachers captive in one of Nigeria's largest mass kidnappings to date.",
+      "title": "50 schoolchildren escape kidnappers in Nigeria, more than 250 still captive",
+      "summary": "Fifty of the more than 300 children kidnapped by gunmen from a Catholic school in Niger state managed to escape their captors and have reunited with their families, a Christian group affiliated with the school said Sunday. Armed attackers on Friday took 303 children and 12 teachers captive in one of Nigeria's largest mass kidnappings to date.",
       "url": "https://www.france24.com/en/africa/20251123-50-nigeria-kidnapped-catholic-schoolchildren-escape-captors",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2025-11-23T15:47:34+00:00",
