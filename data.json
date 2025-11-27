@@ -1,36 +1,45 @@
 {
-  "generated_at": "2025-11-27T14:49:35.684368+00:00",
+  "generated_at": "2025-11-27T15:21:29.974764+00:00",
   "items": [
-    {
-      "id": "557e2742448746e8",
-      "title_orig": "Emergency landing by F-35A caused by hydraulic hose rupture: Air Force",
-      "summary_orig": "The Air Force said Thursday a recent emergency landing by an F-35A fighter jet at an airport in Cheongju was due to a rupture in the hydraulic hose related to the aircraft's landing gear. On Monday, an F-35A fighter operated by Korea's 17th Fighter Wing made an emergency landing at the international airport in Cheongju, North Chungcheong Province, during its nighttime operation. During a regular press briefing, an Air Force official explained that the abrupt landing occurred due to a rupture in the hydraulic hose located in front of the left main landing gear, which prompted the jet's warning light to go off. The hydraulic hose supplies pressure to open the main landing gear door. The aircraft sustained minor damage to part of its lower nose surface, but none of the major components were damaged, according to officials. The Air Force plans to gradually resume flight operations of the F-35A in the afternoon, and conduct a special inspection of the aircraft's hydraulic and landing gear systems prior to all flights as part of safety measures.",
-      "lang": "en",
-      "title_en": "Emergency landing by F-35A caused by hydraulic hose rupture: Air Force",
-      "summary_en": "The Air Force said Thursday a recent emergency landing by an F-35A fighter jet at an airport in Cheongju was due to a rupture in the hydraulic hose related to the aircraft's landing gear. On Monday, an F-35A fighter operated by Korea's 17th Fighter Wing made an emergency landing at the international airport in Cheongju, North Chungcheong Province, during its nighttime operation. During a regular press briefing, an Air Force official explained that the abrupt landing occurred due to a rupture in the hydraulic hose located in front of the left main landing gear, which prompted the jet's warning light to go off. The hydraulic hose supplies pressure to open the main landing gear door. The aircraft sustained minor damage to part of its lower nose surface, but none of the major components were damaged, according to officials. The Air Force plans to gradually resume flight operations of the F-35A in the afternoon, and conduct a special inspection of the aircraft's hydraulic and landing gear systems prior to all flights as part of safety measures.",
-      "title": "Emergency landing by F-35A caused by hydraulic hose rupture: Air Force",
-      "summary": "The Air Force said Thursday a recent emergency landing by an F-35A fighter jet at an airport in Cheongju was due to a rupture in the hydraulic hose related to the aircraft's landing gear. On Monday, an F-35A fighter operated by Korea's 17th Fighter Wing made an emergency landing at the international airport in Cheongju, North Chungcheong Province, during its nighttime operation. During a regular press briefing, an Air Force official explained that the abrupt landing occurred due to a rupture in the hydraulic hose located in front of the left main landing gear, which prompted the jet's warning light to go off. The hydraulic hose supplies pressure to open the main landing gear door. The aircraft sustained minor damage to part of its lower nose surface, but none of the major components were damaged, according to officials. The Air Force plans to gradually resume flight operations of the F-35A in the afternoon, and conduct a special inspection of the aircraft's hydraulic and landing gear systems prior to all flights as part of safety measures.",
-      "url": "https://www.koreatimes.co.kr/southkorea/defense/20251127/emergency-landing-by-f-35a-caused-by-hydraulic-hose-rupture-air-force?utm_source=rss",
-      "source": "Korea Times News",
-      "published_at": "2025-11-27T14:47:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
     {
       "id": "aaa6bb85ea532c7c",
       "title_orig": "Man, 31, arrested over Manchester synagogue attack",
-      "summary_orig": "Police arrest a man on suspicion of terror offences over the Manchester synagogue attack.",
+      "summary_orig": "Police detained the man earlier at Manchester Airport on suspicion of terror offences.",
       "lang": "en",
       "title_en": "Man, 31, arrested over Manchester synagogue attack",
-      "summary_en": "Police arrest a man on suspicion of terror offences over the Manchester synagogue attack.",
+      "summary_en": "Police detained the man earlier at Manchester Airport on suspicion of terror offences.",
       "title": "Man, 31, arrested over Manchester synagogue attack",
-      "summary": "Police arrest a man on suspicion of terror offences over the Manchester synagogue attack.",
+      "summary": "Police detained the man earlier at Manchester Airport on suspicion of terror offences.",
       "url": "https://www.bbc.com/news/articles/cy7vk38mdjxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2025-11-27T14:38:58+00:00",
+      "published_at": "2025-11-27T15:08:10+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "d11961ae2aa67b4e",
+      "title_orig": "Police officer stabbed in 'barbaric' knife attack as two arrested in attempted murder probe",
+      "summary_orig": "Two men, aged 20 and 21, were arrested at the scene on suspicion of attempted murder after this morning's incident",
+      "lang": "en",
+      "title_en": "Police officer stabbed in 'barbaric' knife attack as two arrested in attempted murder probe",
+      "summary_en": "Two men, aged 20 and 21, were arrested at the scene on suspicion of attempted murder after this morning's incident",
+      "title": "Police officer stabbed in 'barbaric' knife attack as two arrested in attempted murder probe",
+      "summary": "Two men, aged 20 and 21, were arrested at the scene on suspicion of attempted murder after this morning's incident",
+      "url": "https://www.bristolpost.co.uk/news/uk-world-news/police-officer-stabbed-attempted-murder-10673353",
+      "source": "Bristol Post - News",
+      "published_at": "2025-11-27T15:07:15+00:00",
       "tags": [
         "airport/security"
       ],
@@ -38,17 +47,386 @@
       "geo": {}
     },
     {
-      "id": "3f3e28b5a498f6a7",
-      "title_orig": "National Guard shooting suspect drove cross-country before attack and faces assault and weapons charges, officials say",
-      "summary_orig": "WASHINGTON (AP) — National Guard shooting suspect drove cross-country before attack and faces assault and weapons charges, officials say.",
+      "id": "c16fe1eb3883c4b1",
+      "title_orig": "East London bus strike to hit 13 routes, including many to Westfield Stratford shopping centre",
+      "summary_orig": "Heading to Westfield Stratford for Christmas shopping? Beware bus strikes next month",
       "lang": "en",
-      "title_en": "National Guard shooting suspect drove cross-country before attack and faces assault and weapons charges, officials say",
-      "summary_en": "WASHINGTON (AP) — National Guard shooting suspect drove cross-country before attack and faces assault and weapons charges, officials say.",
-      "title": "National Guard shooting suspect drove cross-country before attack and faces assault and weapons charges, officials say",
-      "summary": "WASHINGTON (AP) — National Guard shooting suspect drove cross-country before attack and faces assault and weapons charges, officials say.",
-      "url": "https://wtop.com/news/2025/11/national-guard-shooting-suspect-drove-cross-country-before-attack-and-faces-assault-and-weapons-charges-officials-say/",
+      "title_en": "East London bus strike to hit 13 routes, including many to Westfield Stratford shopping centre",
+      "summary_en": "Heading to Westfield Stratford for Christmas shopping? Beware bus strikes next month",
+      "title": "East London bus strike to hit 13 routes, including many to Westfield Stratford shopping centre",
+      "summary": "Heading to Westfield Stratford for Christmas shopping? Beware bus strikes next month",
+      "url": "https://www.standard.co.uk/news/transport/london-bus-strikes-westfield-stratford-tfl-leyton-b1260049.html",
+      "source": "The Standard News",
+      "published_at": "2025-11-27T15:07:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "971d57f7f88b3515",
+      "title_orig": "El presunto atacante de la Guardia Nacional había trabajado para la CIA, según la agencia",
+      "summary_orig": "WASHINGTON — Un ciudadano afgano ha sido acusado de disparar a dos miembros de la Guardia Nacional de Virginia Occidental…",
+      "lang": "es",
+      "title_en": "Suspected National Guard attacker had worked for CIA, agency says",
+      "summary_en": "WASHINGTON — An Afghan national has been charged with shooting two members of the West Virginia National Guard…",
+      "title": "Suspected National Guard attacker had worked for CIA, agency says",
+      "summary": "WASHINGTON — An Afghan national has been charged with shooting two members of the West Virginia National Guard…",
+      "url": "https://www.telemundowashingtondc.com/noticias/local/detalles-presunto-atacante-tiroteo-guardia-nacional-la-casa-blanca/2356103/",
       "source": "WTOP News",
-      "published_at": "2025-11-27T14:38:13+00:00",
+      "published_at": "2025-11-27T15:06:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "811331bb7f0c6af5",
+      "title_orig": "Children hospitalised and pet dog killed in suspected arson attack on home in Ballyfermot",
+      "summary_orig": "A child living in the home was evacuated through the living room window to escape the blaze.",
+      "lang": "en",
+      "title_en": "Children hospitalised and pet dog killed in suspected arson attack on home in Ballyfermot",
+      "summary_en": "A child living in the home was evacuated through the living room window to escape the blaze.",
+      "title": "Children hospitalised and pet dog killed in suspected arson attack on home in Ballyfermot",
+      "summary": "A child living in the home was evacuated through the living room window to escape the blaze.",
+      "url": "https://www.thejournal.ie/ballyfermot-fire-home-evacuation-dog-6887242-Nov2025/",
+      "source": "TheJournal.ie",
+      "published_at": "2025-11-27T15:03:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a1e497d5002d0d89",
+      "title_orig": "‘So unfair on the older folk’: Fees aren’t changing, so why the upset over new parking machines?",
+      "summary_orig": "When a council announced it would soon be installing new machines, it was bombarded with dozens of negative messages.",
+      "lang": "en",
+      "title_en": "‘So unfair on the older folk’: Fees aren’t changing, so why the upset over new parking machines?",
+      "summary_en": "When a council announced it would soon be installing new machines, it was bombarded with dozens of negative messages.",
+      "title": "‘So unfair on the older folk’: Fees aren’t changing, so why the upset over new parking machines?",
+      "summary": "When a council announced it would soon be installing new machines, it was bombarded with dozens of negative messages.",
+      "url": "https://www.stuff.co.nz/nz-news/360900714/so-unfair-older-folk-fees-arent-changing-so-why-upset-over-new-parking-machines",
+      "source": "Stuff - /",
+      "published_at": "2025-11-27T15:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ef730daab53ca6fb",
+      "title_orig": "‘Like it’s their first day on Earth’: These are the worst things about airports",
+      "summary_orig": "We love a good trip. But do we love, specifically, the airport portion of that trip? The answer is usually no.",
+      "lang": "en",
+      "title_en": "‘Like it’s their first day on Earth’: These are the worst things about airports",
+      "summary_en": "We love a good trip. But do we love, specifically, the airport portion of that trip? The answer is usually no.",
+      "title": "‘Like it’s their first day on Earth’: These are the worst things about airports",
+      "summary": "We love a good trip. But do we love, specifically, the airport portion of that trip? The answer is usually no.",
+      "url": "https://www.stuff.co.nz/travel/360896878/our-biggest-airport-pet-peeves",
+      "source": "Stuff - /",
+      "published_at": "2025-11-27T15:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5c05fff602a77a8d",
+      "title_orig": "Far-right Swede jailed for plotting Eurovision attack",
+      "summary_orig": "The defendant was a minor when he plotted to attack the song contest in 2020.",
+      "lang": "en",
+      "title_en": "Far-right Swede jailed for plotting Eurovision attack",
+      "summary_en": "The defendant was a minor when he plotted to attack the song contest in 2020.",
+      "title": "Far-right Swede jailed for plotting Eurovision attack",
+      "summary": "The defendant was a minor when he plotted to attack the song contest in 2020.",
+      "url": "https://www.straitstimes.com/world/europe/far-right-swede-jailed-for-plotting-eurovision-attack",
+      "source": "The Straits Times World News",
+      "published_at": "2025-11-27T14:59:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ce089cf122977f8d",
+      "title_orig": "Man, 31, arrested at airport over Manchester synagogue attack",
+      "summary_orig": "Man held on suspicion of plotting terror attack after arriving on inbound flight to Manchester airport A man has been arrested on suspicion of plotting a terror attack in relation to the Manchester synagogue assault. The 31-year-old was arrested after arriving on an inbound flight to Manchester airport on Thursday, police said. He remains in custody for questioning. Continue reading...",
+      "lang": "en",
+      "title_en": "Man, 31, arrested at airport over Manchester synagogue attack",
+      "summary_en": "Man held on suspicion of plotting terror attack after arriving on inbound flight to Manchester airport A man has been arrested on suspicion of plotting a terror attack in relation to the Manchester synagogue assault. The 31-year-old was arrested after arriving on an inbound flight to Manchester airport on Thursday, police said. He remains in custody for questioning. Continue reading...",
+      "title": "Man, 31, arrested at airport over Manchester synagogue attack",
+      "summary": "Man held on suspicion of plotting terror attack after arriving on inbound flight to Manchester airport A man has been arrested on suspicion of plotting a terror attack in relation to the Manchester synagogue assault. The 31-year-old was arrested after arriving on an inbound flight to Manchester airport on Thursday, police said. He remains in custody for questioning. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2025/nov/27/man-31-arrested-at-manchester-airport-over-heaton-park-synagogue-attack",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-27T14:58:32+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "0d2de1db383c17f1",
+      "title_orig": "Man arrested at Manchester Airport over synagogue attack",
+      "summary_orig": "A seventh person has been arrested in connection with the terrorist attack",
+      "lang": "en",
+      "title_en": "Man arrested at Manchester Airport over synagogue attack",
+      "summary_en": "A seventh person has been arrested in connection with the terrorist attack",
+      "title": "Man arrested at Manchester Airport over synagogue attack",
+      "summary": "A seventh person has been arrested in connection with the terrorist attack",
+      "url": "https://www.walesonline.co.uk/news/uk-news/man-arrested-manchester-airport-over-32957279",
+      "source": "WalesOnline - Home",
+      "published_at": "2025-11-27T14:55:16+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "ad00b856c928dc1f",
+      "title_orig": "Starmer says budget did not break manifesto tax pledge and scrapping two-child benefit cap was ‘long-standing ambition’ – live",
+      "summary_orig": "PM says: ‘We kept to our manifesto in terms of what we’ve promised. But I accept the challenge that we’ve asked everybody to contribute’ Ask the Guardian your budget questions Share your views on the new ‘mansion tax’ Budget calculator: find out if you are better or worse off The Conservative party is attacking the budget on the grounds that Rachel Reeves is putting up taxes supposedly to fund more spending on benefit claimants. Even though the rationale for this claim is questionable , the Tories were making it before the budget was announced, and Kemi Badenoch firmed it up last night, claiming it was a “Benefits Street budget” . On LBC this morning, asked if the budget meant “alarm clock Britain paying for Benefits Street”, Reeves said she did not accept that. She said 60% of the families that would benefit from the removal of the two-child benefit cap (the most expensive welfare announcement in the budget) were in work. I don’t think children should be punished by this pernicious policy any longer. And the cost to society of this is huge, the cost for councils of temporary accommodation, when people can no longer afford the rent, putting families in B&Bs, kids having to move to school all the time because parents have moved from B&B to another lot of temporary accommodation, and there’s costs for years to come, because all the evidence shows that kids that are growing up poor are less likely to get into work and more reliant on the welfare state in the future for them. So this is a good investment in those kids, to give them the chances that I want for my kids, and everyone wants for their kids. It also saves money for taxpayers on that accommodation, on those additional health costs, and ensuring that those kids grow up to be productive adults. Continue reading...",
+      "lang": "en",
+      "title_en": "Starmer says budget did not break manifesto tax pledge and scrapping two-child benefit cap was ‘long-standing ambition’ – live",
+      "summary_en": "PM says: ‘We kept to our manifesto in terms of what we’ve promised. But I accept the challenge that we’ve asked everybody to contribute’ Ask the Guardian your budget questions Share your views on the new ‘mansion tax’ Budget calculator: find out if you are better or worse off The Conservative party is attacking the budget on the grounds that Rachel Reeves is putting up taxes supposedly to fund more spending on benefit claimants. Even though the rationale for this claim is questionable , the Tories were making it before the budget was announced, and Kemi Badenoch firmed it up last night, claiming it was a “Benefits Street budget” . On LBC this morning, asked if the budget meant “alarm clock Britain paying for Benefits Street”, Reeves said she did not accept that. She said 60% of the families that would benefit from the removal of the two-child benefit cap (the most expensive welfare announcement in the budget) were in work. I don’t think children should be punished by this pernicious policy any longer. And the cost to society of this is huge, the cost for councils of temporary accommodation, when people can no longer afford the rent, putting families in B&Bs, kids having to move to school all the time because parents have moved from B&B to another lot of temporary accommodation, and there’s costs for years to come, because all the evidence shows that kids that are growing up poor are less likely to get into work and more reliant on the welfare state in the future for them. So this is a good investment in those kids, to give them the chances that I want for my kids, and everyone wants for their kids. It also saves money for taxpayers on that accommodation, on those additional health costs, and ensuring that those kids grow up to be productive adults. Continue reading...",
+      "title": "Starmer says budget did not break manifesto tax pledge and scrapping two-child benefit cap was ‘long-standing ambition’ – live",
+      "summary": "PM says: ‘We kept to our manifesto in terms of what we’ve promised. But I accept the challenge that we’ve asked everybody to contribute’ Ask the Guardian your budget questions Share your views on the new ‘mansion tax’ Budget calculator: find out if you are better or worse off The Conservative party is attacking the budget on the grounds that Rachel Reeves is putting up taxes supposedly to fund more spending on benefit claimants. Even though the rationale for this claim is questionable , the Tories were making it before the budget was announced, and Kemi Badenoch firmed it up last night, claiming it was a “Benefits Street budget” . On LBC this morning, asked if the budget meant “alarm clock Britain paying for Benefits Street”, Reeves said she did not accept that. She said 60% of the families that would benefit from the removal of the two-child benefit cap (the most expensive welfare announcement in the budget) were in work. I don’t think children should be punished by this pernicious policy any longer. And the cost to society of this is huge, the cost for councils of temporary accommodation, when people can no longer afford the rent, putting families in B&Bs, kids having to move to school all the time because parents have moved from B&B to another lot of temporary accommodation, and there’s costs for years to come, because all the evidence shows that kids that are growing up poor are less likely to get into work and more reliant on the welfare state in the future for them. So this is a good investment in those kids, to give them the chances that I want for my kids, and everyone wants for their kids. It also saves money for taxpayers on that accommodation, on those additional health costs, and ensuring that those kids grow up to be productive adults. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2025/nov/27/rachel-reeves-budget-2025-mansion-tax-labour-keir-starmer-conservatives-uk-politics-latest-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-27T14:53:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "5761d817ce5d8999",
+      "title_orig": "Man arrested at Manchester Airport in latest terror probe into Heaton Park synagogue attack",
+      "summary_orig": "The 31-year-old was arrested at Manchester Airport on Thursday, police said.",
+      "lang": "en",
+      "title_en": "Man arrested at Manchester Airport in latest terror probe into Heaton Park synagogue attack",
+      "summary_en": "The 31-year-old was arrested at Manchester Airport on Thursday, police said.",
+      "title": "Man arrested at Manchester Airport in latest terror probe into Heaton Park synagogue attack",
+      "summary": "The 31-year-old was arrested at Manchester Airport on Thursday, police said.",
+      "url": "https://www.standard.co.uk/news/uk/manchester-airport-greater-manchester-police-syrian-b1260105.html",
+      "source": "The Standard News",
+      "published_at": "2025-11-27T14:52:36+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "aef4c9bcf502730a",
+      "title_orig": "Suspect arrested at UK airport over Manchester synagogue terror attack",
+      "summary_orig": "Adrian Daulby and Melvin Cravitz died when Jihad Al Shamie carried out his attack earlier this year",
+      "lang": "en",
+      "title_en": "Suspect arrested at UK airport over Manchester synagogue terror attack",
+      "summary_en": "Adrian Daulby and Melvin Cravitz died when Jihad Al Shamie carried out his attack earlier this year",
+      "title": "Suspect arrested at UK airport over Manchester synagogue terror attack",
+      "summary": "Adrian Daulby and Melvin Cravitz died when Jihad Al Shamie carried out his attack earlier this year",
+      "url": "https://www.birminghammail.co.uk/news/uk-news/suspect-arrested-uk-airport-over-32957298",
+      "source": "Birmingham Live - News",
+      "published_at": "2025-11-27T14:52:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "590957c6ff162de2",
+      "title_orig": "Traffic disruption expected in Dublin due to taxi driver protest over Uber fixed rates",
+      "summary_orig": "Dublin Airport has told passengers to expect heavier traffic than usual and gardaí have warned of disruption in Dublin city.",
+      "lang": "en",
+      "title_en": "Traffic disruption expected in Dublin due to taxi driver protest over Uber fixed rates",
+      "summary_en": "Dublin Airport has told passengers to expect heavier traffic than usual and gardaí have warned of disruption in Dublin city.",
+      "title": "Traffic disruption expected in Dublin due to taxi driver protest over Uber fixed rates",
+      "summary": "Dublin Airport has told passengers to expect heavier traffic than usual and gardaí have warned of disruption in Dublin city.",
+      "url": "https://www.thejournal.ie/taxi-protest-dublin-traffic-delays-6887246-Nov2025/",
+      "source": "TheJournal.ie",
+      "published_at": "2025-11-27T14:49:55+00:00",
+      "tags": [
+        "DUB",
+        "Ireland",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dublin",
+        "city": "Dublin",
+        "country": "Ireland",
+        "iata": "DUB",
+        "lat": 53.4213,
+        "lon": -6.2701
+      }
+    },
+    {
+      "id": "e342e4a5550f3688",
+      "title_orig": "Man arrested at Manchester Airport over terror attack at synagogue",
+      "summary_orig": "Greater Manchester Police said a 31-year-old man was detained on suspicion of commission, preparation and instigation of acts of terrorism after arriving on an inbound flight.",
+      "lang": "en",
+      "title_en": "Man arrested at Manchester Airport over terror attack at synagogue",
+      "summary_en": "Greater Manchester Police said a 31-year-old man was detained on suspicion of commission, preparation and instigation of acts of terrorism after arriving on an inbound flight.",
+      "title": "Man arrested at Manchester Airport over terror attack at synagogue",
+      "summary": "Greater Manchester Police said a 31-year-old man was detained on suspicion of commission, preparation and instigation of acts of terrorism after arriving on an inbound flight.",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/man-arrested-manchester-airport-over-36317711",
+      "source": "Daily Record - Home",
+      "published_at": "2025-11-27T14:49:51+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "bdba1550bf64fdf4",
+      "title_orig": "Afghan national is suspect in Guard ambush shooting; 2 troops ID’d and charges mount, officials say",
+      "summary_orig": "Federal officials say the suspect drove cross-country from Washington state to D.C. before the attack and faces assault and weapons charges. The two National Guard members remain in critical condition.",
+      "lang": "en",
+      "title_en": "Afghan national is suspect in Guard ambush shooting; 2 troops ID’d and charges mount, officials say",
+      "summary_en": "Federal officials say the suspect drove cross-country from Washington state to D.C. before the attack and faces assault and weapons charges. The two National Guard members remain in critical condition.",
+      "title": "Afghan national is suspect in Guard ambush shooting; 2 troops ID’d and charges mount, officials say",
+      "summary": "Federal officials say the suspect drove cross-country from Washington state to D.C. before the attack and faces assault and weapons charges. The two National Guard members remain in critical condition.",
+      "url": "https://wtop.com/dc/2025/11/afghan-national-in-custody-after-shooting-of-2-national-guard-members-near-white-house/",
+      "source": "WTOP News",
+      "published_at": "2025-11-27T14:49:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f8fec6d36a6fd7fd",
+      "title_orig": "Police officer stabbed in 'barbaric' knife attack as two arrested over 'attempted murder'",
+      "summary_orig": "Two men are in custody as detectives probe an attack on two officers in the early hours of this morning",
+      "lang": "en",
+      "title_en": "Police officer stabbed in 'barbaric' knife attack as two arrested over 'attempted murder'",
+      "summary_en": "Two men are in custody as detectives probe an attack on two officers in the early hours of this morning",
+      "title": "Police officer stabbed in 'barbaric' knife attack as two arrested over 'attempted murder'",
+      "summary": "Two men are in custody as detectives probe an attack on two officers in the early hours of this morning",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/police-officer-stabbed-northern-ireland-36317685",
+      "source": "Daily Record - Home",
+      "published_at": "2025-11-27T14:49:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "20c6a107ea1d7a0f",
+      "title_orig": "Tate staff stage week-long strike over pay amid reports of workers using food banks",
+      "summary_orig": "Union says ‘insulting’ below-inflation pay rises have left some employees struggling to afford rent and food Staff at Tate sites in the UK are staging a seven-day strike over pay and conditions at the arts institution, with some saying they have had to resort to using food banks. The strike is scheduled to run until 2 December and coincides with the opening of Tate Britain’s Turner and Constable exhibition. Continue reading...",
+      "lang": "en",
+      "title_en": "Tate staff stage week-long strike over pay amid reports of workers using food banks",
+      "summary_en": "Union says ‘insulting’ below-inflation pay rises have left some employees struggling to afford rent and food Staff at Tate sites in the UK are staging a seven-day strike over pay and conditions at the arts institution, with some saying they have had to resort to using food banks. The strike is scheduled to run until 2 December and coincides with the opening of Tate Britain’s Turner and Constable exhibition. Continue reading...",
+      "title": "Tate staff stage week-long strike over pay amid reports of workers using food banks",
+      "summary": "Union says ‘insulting’ below-inflation pay rises have left some employees struggling to afford rent and food Staff at Tate sites in the UK are staging a seven-day strike over pay and conditions at the arts institution, with some saying they have had to resort to using food banks. The strike is scheduled to run until 2 December and coincides with the opening of Tate Britain’s Turner and Constable exhibition. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2025/nov/27/tate-staff-week-strike-pay-food-banks",
+      "source": "World news | The Guardian",
+      "published_at": "2025-11-27T14:48:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "3b6c46e3c76523f8",
+      "title_orig": "Israeli air strikes hit villages in south Lebanon on ceasefire anniversary",
+      "summary_orig": "Israel launched a series of air strikes on the villages of Jarmak and Mahmoudiya in southern Lebanon on Thursday.",
+      "lang": "en",
+      "title_en": "Israeli air strikes hit villages in south Lebanon on ceasefire anniversary",
+      "summary_en": "Israel launched a series of air strikes on the villages of Jarmak and Mahmoudiya in southern Lebanon on Thursday.",
+      "title": "Israeli air strikes hit villages in south Lebanon on ceasefire anniversary",
+      "summary": "Israel launched a series of air strikes on the villages of Jarmak and Mahmoudiya in southern Lebanon on Thursday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/27/israeli-air-strikes-hit-villages-in-south-lebanon-on-ceasefire-anniversary?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-11-27T14:46:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "ef20ee8ca8ec1f9f",
+      "title_orig": "Police investigating attack on officers with hunting knife as attempted murder",
+      "summary_orig": "PSNI deputy chief constable Bobby Singleton has revealed details of the incident in Londonderry.",
+      "lang": "en",
+      "title_en": "Police investigating attack on officers with hunting knife as attempted murder",
+      "summary_en": "PSNI deputy chief constable Bobby Singleton has revealed details of the incident in Londonderry.",
+      "title": "Police investigating attack on officers with hunting knife as attempted murder",
+      "summary": "PSNI deputy chief constable Bobby Singleton has revealed details of the incident in Londonderry.",
+      "url": "https://www.standard.co.uk/news/uk/londonderry-police-psni-police-federation-derry-city-b1260104.html",
+      "source": "The Standard News",
+      "published_at": "2025-11-27T14:40:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "78eb5bed3737f6a0",
+      "title_orig": "Assam: Tribal organisations protest against cabinet decision to grant ST status to 6 communities",
+      "summary_orig": "Assam: Tribal organisations protest against cabinet decision to grant ST status to 6 communities",
+      "lang": "en",
+      "title_en": "Assam: Tribal organisations protest against cabinet decision to grant ST status to 6 communities",
+      "summary_en": "Assam: Tribal organisations protest against cabinet decision to grant ST status to 6 communities",
+      "title": "Assam: Tribal organisations protest against cabinet decision to grant ST status to 6 communities",
+      "summary": "Assam: Tribal organisations protest against cabinet decision to grant ST status to 6 communities",
+      "url": "https://www.hindustantimes.com/india-news/assam-tribal-organisations-protest-against-cabinet-decision-to-grant-st-status-to-6-communities-101764254162649.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-11-27T14:36:02+00:00",
       "tags": [
         "airport/security"
       ],
@@ -57,12 +435,12 @@
     },
     {
       "id": "a6b22a432bd20568",
-      "title_orig": "Police probing Manchester synagogue terror attack arrest man at Manchester Airport",
+      "title_orig": "Police probing synagogue terror attack arrest man at Manchester Airport",
       "summary_orig": "Counter terror cops swooped at Manchester Airport today",
       "lang": "en",
-      "title_en": "Police probing Manchester synagogue terror attack arrest man at Manchester Airport",
+      "title_en": "Police probing synagogue terror attack arrest man at Manchester Airport",
       "summary_en": "Counter terror cops swooped at Manchester Airport today",
-      "title": "Police probing Manchester synagogue terror attack arrest man at Manchester Airport",
+      "title": "Police probing synagogue terror attack arrest man at Manchester Airport",
       "summary": "Counter terror cops swooped at Manchester Airport today",
       "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/police-probing-manchester-synagogue-terror-32957042",
       "source": "MEN - News",
@@ -98,24 +476,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ad00b856c928dc1f",
-      "title_orig": "Starmer says budget did not break manifesto tax pledge and scrapping two-child benefit cap was ‘long-standing ambition’ – live",
-      "summary_orig": "PM says: ‘We kept to our manifesto in terms of what we’ve promised. But I accept the challenge that we’ve asked everybody to contribute’ Ask the Guardian your budget questions Share your views on the new ‘mansion tax’ Budget calculator: find out if you are better or worse off The Conservative party is attacking the budget on the grounds that Rachel Reeves is putting up taxes supposedly to fund more spending on benefit claimants. Even though the rationale for this claim is questionable , the Tories were making it before the budget was announced, and Kemi Badenoch firmed it up last night, claiming it was a “Benefits Street budget” . On LBC this morning, asked if the budget meant “alarm clock Britain paying for Benefits Street”, Reeves said she did not accept that. She said 60% of the families that would benefit from the removal of the two-child benefit cap (the most expensive welfare announcement in the budget) were in work. I don’t think children should be punished by this pernicious policy any longer. And the cost to society of this is huge, the cost for councils of temporary accommodation, when people can no longer afford the rent, putting families in B&Bs, kids having to move to school all the time because parents have moved from B&B to another lot of temporary accommodation, and there’s costs for years to come, because all the evidence shows that kids that are growing up poor are less likely to get into work and more reliant on the welfare state in the future for them. So this is a good investment in those kids, to give them the chances that I want for my kids, and everyone wants for their kids. It also saves money for taxpayers on that accommodation, on those additional health costs, and ensuring that those kids grow up to be productive adults. Continue reading...",
-      "lang": "en",
-      "title_en": "Starmer says budget did not break manifesto tax pledge and scrapping two-child benefit cap was ‘long-standing ambition’ – live",
-      "summary_en": "PM says: ‘We kept to our manifesto in terms of what we’ve promised. But I accept the challenge that we’ve asked everybody to contribute’ Ask the Guardian your budget questions Share your views on the new ‘mansion tax’ Budget calculator: find out if you are better or worse off The Conservative party is attacking the budget on the grounds that Rachel Reeves is putting up taxes supposedly to fund more spending on benefit claimants. Even though the rationale for this claim is questionable , the Tories were making it before the budget was announced, and Kemi Badenoch firmed it up last night, claiming it was a “Benefits Street budget” . On LBC this morning, asked if the budget meant “alarm clock Britain paying for Benefits Street”, Reeves said she did not accept that. She said 60% of the families that would benefit from the removal of the two-child benefit cap (the most expensive welfare announcement in the budget) were in work. I don’t think children should be punished by this pernicious policy any longer. And the cost to society of this is huge, the cost for councils of temporary accommodation, when people can no longer afford the rent, putting families in B&Bs, kids having to move to school all the time because parents have moved from B&B to another lot of temporary accommodation, and there’s costs for years to come, because all the evidence shows that kids that are growing up poor are less likely to get into work and more reliant on the welfare state in the future for them. So this is a good investment in those kids, to give them the chances that I want for my kids, and everyone wants for their kids. It also saves money for taxpayers on that accommodation, on those additional health costs, and ensuring that those kids grow up to be productive adults. Continue reading...",
-      "title": "Starmer says budget did not break manifesto tax pledge and scrapping two-child benefit cap was ‘long-standing ambition’ – live",
-      "summary": "PM says: ‘We kept to our manifesto in terms of what we’ve promised. But I accept the challenge that we’ve asked everybody to contribute’ Ask the Guardian your budget questions Share your views on the new ‘mansion tax’ Budget calculator: find out if you are better or worse off The Conservative party is attacking the budget on the grounds that Rachel Reeves is putting up taxes supposedly to fund more spending on benefit claimants. Even though the rationale for this claim is questionable , the Tories were making it before the budget was announced, and Kemi Badenoch firmed it up last night, claiming it was a “Benefits Street budget” . On LBC this morning, asked if the budget meant “alarm clock Britain paying for Benefits Street”, Reeves said she did not accept that. She said 60% of the families that would benefit from the removal of the two-child benefit cap (the most expensive welfare announcement in the budget) were in work. I don’t think children should be punished by this pernicious policy any longer. And the cost to society of this is huge, the cost for councils of temporary accommodation, when people can no longer afford the rent, putting families in B&Bs, kids having to move to school all the time because parents have moved from B&B to another lot of temporary accommodation, and there’s costs for years to come, because all the evidence shows that kids that are growing up poor are less likely to get into work and more reliant on the welfare state in the future for them. So this is a good investment in those kids, to give them the chances that I want for my kids, and everyone wants for their kids. It also saves money for taxpayers on that accommodation, on those additional health costs, and ensuring that those kids grow up to be productive adults. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2025/nov/27/rachel-reeves-budget-2025-mansion-tax-labour-keir-starmer-conservatives-uk-politics-latest-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-27T14:31:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -155,6 +515,24 @@
       "geo": {}
     },
     {
+      "id": "44494be49cfaa286",
+      "title_orig": "LIVE: Israel launches air strikes on West Bank as incursion turns deadly",
+      "summary_orig": "UN says 32,000 Palestinians forced from their homes in the Israeli-occupied territory with major assault ongoing.",
+      "lang": "en",
+      "title_en": "LIVE: Israel launches air strikes on West Bank as incursion turns deadly",
+      "summary_en": "UN says 32,000 Palestinians forced from their homes in the Israeli-occupied territory with major assault ongoing.",
+      "title": "LIVE: Israel launches air strikes on West Bank as incursion turns deadly",
+      "summary": "UN says 32,000 Palestinians forced from their homes in the Israeli-occupied territory with major assault ongoing.",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/11/27/live-israel-launches-air-strikes-on-west-bank-as-incursion-turns-deadly?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-11-27T14:26:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "9ca3faba7cff4256",
       "title_orig": "Martin Lewis hits back at 'bizarre attack' after Cash ISA change",
       "summary_orig": "Cash ISAs tax-free allowance has been slashed from £20,000 down to just £12,000",
@@ -184,6 +562,24 @@
       "url": "https://metro.co.uk/2025/11/27/putin-says-no-plans-attack-europe-day-france-announces-conscription-24882229/",
       "source": "Metro",
       "published_at": "2025-11-27T14:19:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "20a32984de34bd8b",
+      "title_orig": "What we know about the US National Guard shooting suspect",
+      "summary_orig": "The man suspected of shooting two National Guard soldiers near the White House on Wednesday was an Afghan national who worked alongside US forces in Afghanistan, US media reported. Washington has labeled the violence an “act of terror” and announced increased oversight of foreigners who entered the United States from Afghanistan in recent years. What we know about the suspected shooter Former Afghan military - Multiple media outlets, including CNN, The New York Times, CBS and NBC identified the man as 29-year old Rahmanullah Lakanwal and say he arrived in America in 2021. A relative of Lakanwal told NBC that he arrived after serving in the Afghan army for 10 years in support of US Special Forces. The relative told NBC that Lakanwal originally came from Afghanistan’s southeastern Khost province and had spent some of his military service at a base in the southern province of Kandahar. Kandahar is the birthplace of the Taliban and was the center of heavy fighting during the 20-year war between the then-insurgents and foreign-backed forces. 2021 arrival US Secretary of Homeland Security Kristi Noem said the suspected shooter “was one of the many unvetted, mass paroled into the United States under Operation Allies Welcome.” She said the Afghan national, whom she did not name, entered the United States on September 8, 2021, less than a month after Afghanistan fell to the Taliban. US President Donald Trump signed an agreement with the Taliban in February 2020 to pave the way for the significant drawdown of US troops in Afghanistan by the end of that year – though the timeline was pushed back and conducted under the subsequent Biden administration. ‘Operation Allies Welcome’ Shortly after the Taliban took over Kabul on August 15, 2021, and as US forces withdrew, then-president Joe Biden introduced “Operation Allies Welcome” to coordinate efforts across the multiple government agencies resettling Afghans, including those who worked with US forces. At the time, more than 40 percent of Afghans included in the program were eligible for “Special Immigrant Visa” (SIVs) for those who took “significant risks to support our military and civilian personnel in Afghanistan” on behalf of the US government in Afghanistan, as well as their family members. Other vulnerable groups, such as advocates and journalists, also entered the US under the program. Authorities have not confirmed whether Lakanwal received an SIV. Those who entered the United States under Operation Allies Welcome received security vetting from several government agencies, including the FBI and the National Counterterrorism Center. The Biden administration renamed the efforts in September 2022 “Enduring Welcome” (EW) to signify a pivot to a long-term strategy that would focus on helping Afghans obtain more durable, long-term legal status, primarily through the SIV program or the US Refugee Admissions Program (USRAP). Mass evacuations During the turbulent US withdrawal from Afghanistan that saw Kabul’s airport deteriorate into chaos as thousands tried to evacuate, Biden pledged his administration would find a way out for those who helped the US. Hundreds of thousands of Afghans worked for foreign forces and embassies and joined US-funded NGOs throughout the 20-year foreign presence. Many feared that made them a target for violence, including by the Taliban. The United Nations has reported extrajudicial killings and disappearances of former Afghan officials under the Taliban authorities, despite them declaring an amnesty against former enemies. More than 190,000 Afghans have been resettled to the United States through EW and its predecessor Operation Allies Welcome since the Taliban takeover, according to the US State Department. Tens of thousands more, including many former military translators and members of the Afghan security forces, are in the pipeline for resettlement, according to advocacy groups. In June, Trump declared a sweeping new travel ban on 12 countries, including Afghanistan, which complicated matters, according to Shawn VanDiver, the president of the AfghanEvac non-profit group. VanDiver said it was especially hard for some 12,000 people awaiting reunification with family members already living in the United States.",
+      "lang": "en",
+      "title_en": "What we know about the US National Guard shooting suspect",
+      "summary_en": "The man suspected of shooting two National Guard soldiers near the White House on Wednesday was an Afghan national who worked alongside US forces in Afghanistan, US media reported. Washington has labeled the violence an “act of terror” and announced increased oversight of foreigners who entered the United States from Afghanistan in recent years. What we know about the suspected shooter Former Afghan military - Multiple media outlets, including CNN, The New York Times, CBS and NBC identified the man as 29-year old Rahmanullah Lakanwal and say he arrived in America in 2021. A relative of Lakanwal told NBC that he arrived after serving in the Afghan army for 10 years in support of US Special Forces. The relative told NBC that Lakanwal originally came from Afghanistan’s southeastern Khost province and had spent some of his military service at a base in the southern province of Kandahar. Kandahar is the birthplace of the Taliban and was the center of heavy fighting during the 20-year war between the then-insurgents and foreign-backed forces. 2021 arrival US Secretary of Homeland Security Kristi Noem said the suspected shooter “was one of the many unvetted, mass paroled into the United States under Operation Allies Welcome.” She said the Afghan national, whom she did not name, entered the United States on September 8, 2021, less than a month after Afghanistan fell to the Taliban. US President Donald Trump signed an agreement with the Taliban in February 2020 to pave the way for the significant drawdown of US troops in Afghanistan by the end of that year – though the timeline was pushed back and conducted under the subsequent Biden administration. ‘Operation Allies Welcome’ Shortly after the Taliban took over Kabul on August 15, 2021, and as US forces withdrew, then-president Joe Biden introduced “Operation Allies Welcome” to coordinate efforts across the multiple government agencies resettling Afghans, including those who worked with US forces. At the time, more than 40 percent of Afghans included in the program were eligible for “Special Immigrant Visa” (SIVs) for those who took “significant risks to support our military and civilian personnel in Afghanistan” on behalf of the US government in Afghanistan, as well as their family members. Other vulnerable groups, such as advocates and journalists, also entered the US under the program. Authorities have not confirmed whether Lakanwal received an SIV. Those who entered the United States under Operation Allies Welcome received security vetting from several government agencies, including the FBI and the National Counterterrorism Center. The Biden administration renamed the efforts in September 2022 “Enduring Welcome” (EW) to signify a pivot to a long-term strategy that would focus on helping Afghans obtain more durable, long-term legal status, primarily through the SIV program or the US Refugee Admissions Program (USRAP). Mass evacuations During the turbulent US withdrawal from Afghanistan that saw Kabul’s airport deteriorate into chaos as thousands tried to evacuate, Biden pledged his administration would find a way out for those who helped the US. Hundreds of thousands of Afghans worked for foreign forces and embassies and joined US-funded NGOs throughout the 20-year foreign presence. Many feared that made them a target for violence, including by the Taliban. The United Nations has reported extrajudicial killings and disappearances of former Afghan officials under the Taliban authorities, despite them declaring an amnesty against former enemies. More than 190,000 Afghans have been resettled to the United States through EW and its predecessor Operation Allies Welcome since the Taliban takeover, according to the US State Department. Tens of thousands more, including many former military translators and members of the Afghan security forces, are in the pipeline for resettlement, according to advocacy groups. In June, Trump declared a sweeping new travel ban on 12 countries, including Afghanistan, which complicated matters, according to Shawn VanDiver, the president of the AfghanEvac non-profit group. VanDiver said it was especially hard for some 12,000 people awaiting reunification with family members already living in the United States.",
+      "title": "What we know about the US National Guard shooting suspect",
+      "summary": "The man suspected of shooting two National Guard soldiers near the White House on Wednesday was an Afghan national who worked alongside US forces in Afghanistan, US media reported. Washington has labeled the violence an “act of terror” and announced increased oversight of foreigners who entered the United States from Afghanistan in recent years. What we know about the suspected shooter Former Afghan military - Multiple media outlets, including CNN, The New York Times, CBS and NBC identified the man as 29-year old Rahmanullah Lakanwal and say he arrived in America in 2021. A relative of Lakanwal told NBC that he arrived after serving in the Afghan army for 10 years in support of US Special Forces. The relative told NBC that Lakanwal originally came from Afghanistan’s southeastern Khost province and had spent some of his military service at a base in the southern province of Kandahar. Kandahar is the birthplace of the Taliban and was the center of heavy fighting during the 20-year war between the then-insurgents and foreign-backed forces. 2021 arrival US Secretary of Homeland Security Kristi Noem said the suspected shooter “was one of the many unvetted, mass paroled into the United States under Operation Allies Welcome.” She said the Afghan national, whom she did not name, entered the United States on September 8, 2021, less than a month after Afghanistan fell to the Taliban. US President Donald Trump signed an agreement with the Taliban in February 2020 to pave the way for the significant drawdown of US troops in Afghanistan by the end of that year – though the timeline was pushed back and conducted under the subsequent Biden administration. ‘Operation Allies Welcome’ Shortly after the Taliban took over Kabul on August 15, 2021, and as US forces withdrew, then-president Joe Biden introduced “Operation Allies Welcome” to coordinate efforts across the multiple government agencies resettling Afghans, including those who worked with US forces. At the time, more than 40 percent of Afghans included in the program were eligible for “Special Immigrant Visa” (SIVs) for those who took “significant risks to support our military and civilian personnel in Afghanistan” on behalf of the US government in Afghanistan, as well as their family members. Other vulnerable groups, such as advocates and journalists, also entered the US under the program. Authorities have not confirmed whether Lakanwal received an SIV. Those who entered the United States under Operation Allies Welcome received security vetting from several government agencies, including the FBI and the National Counterterrorism Center. The Biden administration renamed the efforts in September 2022 “Enduring Welcome” (EW) to signify a pivot to a long-term strategy that would focus on helping Afghans obtain more durable, long-term legal status, primarily through the SIV program or the US Refugee Admissions Program (USRAP). Mass evacuations During the turbulent US withdrawal from Afghanistan that saw Kabul’s airport deteriorate into chaos as thousands tried to evacuate, Biden pledged his administration would find a way out for those who helped the US. Hundreds of thousands of Afghans worked for foreign forces and embassies and joined US-funded NGOs throughout the 20-year foreign presence. Many feared that made them a target for violence, including by the Taliban. The United Nations has reported extrajudicial killings and disappearances of former Afghan officials under the Taliban authorities, despite them declaring an amnesty against former enemies. More than 190,000 Afghans have been resettled to the United States through EW and its predecessor Operation Allies Welcome since the Taliban takeover, according to the US State Department. Tens of thousands more, including many former military translators and members of the Afghan security forces, are in the pipeline for resettlement, according to advocacy groups. In June, Trump declared a sweeping new travel ban on 12 countries, including Afghanistan, which complicated matters, according to Shawn VanDiver, the president of the AfghanEvac non-profit group. VanDiver said it was especially hard for some 12,000 people awaiting reunification with family members already living in the United States.",
+      "url": "https://www.dawn.com/news/1957729/what-we-know-about-the-us-national-guard-shooting-suspect",
+      "source": "Dawn - Home",
+      "published_at": "2025-11-27T14:17:12+00:00",
       "tags": [
         "airport/security"
       ],
@@ -650,42 +1046,6 @@
       "geo": {}
     },
     {
-      "id": "c02ad3e2f0a13002",
-      "title_orig": "Bulgaria withdraws 2026 budget proposal following street protests",
-      "summary_orig": "Bulgaria's government has withdrawn its 2026 draft budget after public protests over steep tax increases.",
-      "lang": "en",
-      "title_en": "Bulgaria withdraws 2026 budget proposal following street protests",
-      "summary_en": "Bulgaria's government has withdrawn its 2026 draft budget after public protests over steep tax increases.",
-      "title": "Bulgaria withdraws 2026 budget proposal following street protests",
-      "summary": "Bulgaria's government has withdrawn its 2026 draft budget after public protests over steep tax increases.",
-      "url": "https://www.seattletimes.com/business/bulgaria-withdraws-2026-budget-proposal-following-street-protests/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-11-27T12:31:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c88bd3bb490d5b84",
-      "title_orig": "Hosur airport: Tamil Nadu government on the lookout for consultant to prepare Detailed Techno-Economic Report",
-      "summary_orig": "Tamil Nadu Industrial Development Corporation (TIDCO) has now issued a Request for Proposal (RFP) to finalise a consultant.",
-      "lang": "en",
-      "title_en": "Hosur airport: Tamil Nadu government on the lookout for consultant to prepare Detailed Techno-Economic Report",
-      "summary_en": "Tamil Nadu Industrial Development Corporation (TIDCO) has now issued a Request for Proposal (RFP) to finalise a consultant.",
-      "title": "Hosur airport: Tamil Nadu government on the lookout for consultant to prepare Detailed Techno-Economic Report",
-      "summary": "Tamil Nadu Industrial Development Corporation (TIDCO) has now issued a Request for Proposal (RFP) to finalise a consultant.",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/hosur-airport-tamil-nadu-on-the-lookout-for-consultant-to-prepare-detailed-techno-economic-report/article70329929.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-11-27T12:30:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d7df53bce580166c",
       "title_orig": "What you need to know about CrossCountry train strikes as major disruption confirmed",
       "summary_orig": "CrossCountry services will be disrupted on every Saturday throughout December due to strike action",
@@ -830,24 +1190,6 @@
       "geo": {}
     },
     {
-      "id": "c16fe1eb3883c4b1",
-      "title_orig": "London bus strike chaos to hit Christmas shoppers as routes to huge shopping centre face disruption",
-      "summary_orig": "Heading to Westfield Stratford for Christmas shopping? Beware bus strikes next month",
-      "lang": "en",
-      "title_en": "London bus strike chaos to hit Christmas shoppers as routes to huge shopping centre face disruption",
-      "summary_en": "Heading to Westfield Stratford for Christmas shopping? Beware bus strikes next month",
-      "title": "London bus strike chaos to hit Christmas shoppers as routes to huge shopping centre face disruption",
-      "summary": "Heading to Westfield Stratford for Christmas shopping? Beware bus strikes next month",
-      "url": "https://www.standard.co.uk/news/transport/london-bus-strikes-westfield-stratford-tfl-leyton-b1260049.html",
-      "source": "The Standard News",
-      "published_at": "2025-11-27T11:43:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "bd00b253fb092032",
       "title_orig": "Swedish man locked up for plotting chemical terror attack on Eurovision",
       "summary_orig": "Investigators discovered plans for a mass-casualty attack on the iconic song contest.",
@@ -938,24 +1280,6 @@
       "geo": {}
     },
     {
-      "id": "8b56c6491d05617b",
-      "title_orig": "National guard shooting will likely make Trump crack down even harder",
-      "summary_orig": "The attack makes the troops’ Washington DC exit less likely and offers a convenient data point for rightwing narratives “Washington DC is considered a safe zone,” Donald Trump declared on Tuesday, veering off topic at the national Thanksgiving turkey pardoning ceremony at the White House. “This was one of the most unsafe places anywhere in the United States. It is now considered a totally safe city.” A day later, two national guardsmen from West Virginia were shot in a busy area a few blocks from the White House in downtown Washington. The ambush took place outside the Farragut West Metro railway station within sight of the Guardian’s office (I had been in the station three hours earlier and witnessed national guard troops milling around). Continue reading...",
-      "lang": "en",
-      "title_en": "National guard shooting will likely make Trump crack down even harder",
-      "summary_en": "The attack makes the troops’ Washington DC exit less likely and offers a convenient data point for rightwing narratives “Washington DC is considered a safe zone,” Donald Trump declared on Tuesday, veering off topic at the national Thanksgiving turkey pardoning ceremony at the White House. “This was one of the most unsafe places anywhere in the United States. It is now considered a totally safe city.” A day later, two national guardsmen from West Virginia were shot in a busy area a few blocks from the White House in downtown Washington. The ambush took place outside the Farragut West Metro railway station within sight of the Guardian’s office (I had been in the station three hours earlier and witnessed national guard troops milling around). Continue reading...",
-      "title": "National guard shooting will likely make Trump crack down even harder",
-      "summary": "The attack makes the troops’ Washington DC exit less likely and offers a convenient data point for rightwing narratives “Washington DC is considered a safe zone,” Donald Trump declared on Tuesday, veering off topic at the national Thanksgiving turkey pardoning ceremony at the White House. “This was one of the most unsafe places anywhere in the United States. It is now considered a totally safe city.” A day later, two national guardsmen from West Virginia were shot in a busy area a few blocks from the White House in downtown Washington. The ambush took place outside the Farragut West Metro railway station within sight of the Guardian’s office (I had been in the station three hours earlier and witnessed national guard troops milling around). Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2025/nov/27/national-guard-shooting-trump-washington-dc",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-27T11:00:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "93ec3d1ab8fffb63",
       "title_orig": "Why Pope Leo XIV's Lebanon visit matters amid Israeli bombardment",
       "summary_orig": "Leo XIV's trip this week to Turkey and Lebanon, his first abroad as pope, is viewed as a sign of hope in a region struggling with violence and division.",
@@ -1039,24 +1363,6 @@
       "url": "https://www.france24.com/en/tv-shows/business/20251127-euroclear-warns-eu-that-russian-frozen-asset-plan-could-lead-to-higher-borrowing-costs",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2025-11-27T10:47:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f4b8796933380ace",
-      "title_orig": "US halts Afghan immigration requests after National Guard attack",
-      "summary_orig": "Two National Guard soldiers were critically wounded near the White House by Rahmanullah Lakanwal, an Afghan national and US asylum recipient. The suspect is in custody, and investigators are probing a motive. President Trump responded by halting Afghan immigration requests and sending 500 additional Guardsmen to Washington.",
-      "lang": "en",
-      "title_en": "US halts Afghan immigration requests after National Guard attack",
-      "summary_en": "Two National Guard soldiers were critically wounded near the White House by Rahmanullah Lakanwal, an Afghan national and US asylum recipient. The suspect is in custody, and investigators are probing a motive. President Trump responded by halting Afghan immigration requests and sending 500 additional Guardsmen to Washington.",
-      "title": "US halts Afghan immigration requests after National Guard attack",
-      "summary": "Two National Guard soldiers were critically wounded near the White House by Rahmanullah Lakanwal, an Afghan national and US asylum recipient. The suspect is in custody, and investigators are probing a motive. President Trump responded by halting Afghan immigration requests and sending 500 additional Guardsmen to Washington.",
-      "url": "https://www.france24.com/en/video/20251127-us-halts-afghan-immigration-requests-after-national-guard-attack",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-27T10:43:05+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1154,24 +1460,6 @@
       "geo": {}
     },
     {
-      "id": "d5bac0b28b35c40f",
-      "title_orig": "Ukraine turns to land drones to survive the drone-saturated frontline",
-      "summary_orig": "Ukrainian troops in the Kharkiv region rely on slow, unmanned ground buggies to move supplies and evacuate the wounded through a drone-saturated frontline. Highly vulnerable to airborne attacks, these land drones have become essential as soldiers stay in exposed positions for months and traditional vehicles are too risky to use. Some wounded troops even refuse drone evacuation due to fear, but the machines remain a lifeline. FRANCE 24's Gulliver Cragg reports.",
-      "lang": "en",
-      "title_en": "Ukraine turns to land drones to survive the drone-saturated frontline",
-      "summary_en": "Ukrainian troops in the Kharkiv region rely on slow, unmanned ground buggies to move supplies and evacuate the wounded through a drone-saturated frontline. Highly vulnerable to airborne attacks, these land drones have become essential as soldiers stay in exposed positions for months and traditional vehicles are too risky to use. Some wounded troops even refuse drone evacuation due to fear, but the machines remain a lifeline. FRANCE 24's Gulliver Cragg reports.",
-      "title": "Ukraine turns to land drones to survive the drone-saturated frontline",
-      "summary": "Ukrainian troops in the Kharkiv region rely on slow, unmanned ground buggies to move supplies and evacuate the wounded through a drone-saturated frontline. Highly vulnerable to airborne attacks, these land drones have become essential as soldiers stay in exposed positions for months and traditional vehicles are too risky to use. Some wounded troops even refuse drone evacuation due to fear, but the machines remain a lifeline. FRANCE 24's Gulliver Cragg reports.",
-      "url": "https://www.france24.com/en/video/20251127-ukraine-turns-to-land-drones-to-survive-the-drone-saturated-frontline",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-11-27T10:06:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "efe3494f4e0faa7f",
       "title_orig": "NHS doctor suspended over alleged antisemitic social media posts",
       "summary_orig": "Rahmeh Aladwan barred from practising for 15 months pending inquiry amid claims she ‘celebrated terrorist acts’ An NHS doctor accused of antisemitism has been suspended for 15 months pending an investigation, the Medical Practitioners Tribunal Service (MPTS) in the UK has ruled. The General Medical Council (GMC) is investigating Dr Rahmeh Aladwan over posts and comments made across various social media platforms after several complaints, including from the Jewish Medical Association UK and the Campaign Against Antisemitism. Continue reading...",
@@ -1223,24 +1511,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e8632cc8da1beb4a",
-      "title_orig": "Beirut attacks leave Lebanon worried and waiting for another Israeli war",
-      "summary_orig": "Israel has repeatedly struck Lebanon since a ceasefire last year, but Sunday's Beirut attack was an escalation.",
-      "lang": "en",
-      "title_en": "Beirut attacks leave Lebanon worried and waiting for another Israeli war",
-      "summary_en": "Israel has repeatedly struck Lebanon since a ceasefire last year, but Sunday's Beirut attack was an escalation.",
-      "title": "Beirut attacks leave Lebanon worried and waiting for another Israeli war",
-      "summary": "Israel has repeatedly struck Lebanon since a ceasefire last year, but Sunday's Beirut attack was an escalation.",
-      "url": "https://www.aljazeera.com/features/2025/11/27/beirut-attacks-leaves-lebanon-worried-and-waiting-for-another-israeli-war?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-11-27T09:52:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1460,24 +1730,6 @@
       "geo": {}
     },
     {
-      "id": "8d2fbaca45dbeb72",
-      "title_orig": "Militants kill 3 police officers in attack on checkpoint in northwest Pakistan",
-      "summary_orig": "Police in Pakistan say militants armed with assault rifles attacked a police checkpoint in northwest Pakistan overnight, killing three officers.",
-      "lang": "en",
-      "title_en": "Militants kill 3 police officers in attack on checkpoint in northwest Pakistan",
-      "summary_en": "Police in Pakistan say militants armed with assault rifles attacked a police checkpoint in northwest Pakistan overnight, killing three officers.",
-      "title": "Militants kill 3 police officers in attack on checkpoint in northwest Pakistan",
-      "summary": "Police in Pakistan say militants armed with assault rifles attacked a police checkpoint in northwest Pakistan overnight, killing three officers.",
-      "url": "https://www.seattletimes.com/nation-world/militants-kill-3-police-officers-in-attack-on-checkpoint-in-northwest-pakistan/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-11-27T07:46:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "13ae025e053ab62d",
       "title_orig": "Amid reports of arbitrary offloading of passengers, FIA official says only those without valid documents being barred from travelling abroad",
       "summary_orig": "Amid reports regarding the arbitrary offloading of passengers travelling abroad, an official from the Federal Investigation Agency (FIA) on Thursday clarified that people were only being offloaded or denied boarding if they did not have valid documents or authorities suspected them of working with migrant smugglers. Over the past few months, numerous incidents have been reported of travellers being offloaded from flights at various airports, despite possessing valid travel documents. The actions came after a crack down on migrant smuggling after last year’s Greece boat tragedy that claimed several Pakistani lives. Earlier this month, FIA Director General Riffat Mukhtar acknowledged that incidents of people being offloaded had been reported at Lahore and Karachi airports, and that investigations were underway. In a video statement shared today, FIA Lahore Zone Director Captain (retired) Muhammad Ali Zia addressed the recent issue of “misleading AI-generated videos and false information circulating on social media regarding alleged offloading incidents at airports”. “All these rumours have no connection with reality,” Zia said, referring to reports of people being offloaded “for no reason”. However, the FIA officer noted that a lot of people were those “who get deceived by various human smugglers in some way”. Zia detailed that FIA immigration officials at airports check the travel documents of “all those people and profile them”, asserting that no one going abroad for a valid purpose was being stopped. “All those who are denied from going abroad are refused due to them not having valid documents, or if they have permits or visas wherein the companies stated do not exist, and we have suspicions that human smugglers are trapping them and taking them abroad.’’ “We have seen cases where people get deceived by these human smugglers and change their routes mid-transit, or take an accomplice with them in the form of their mother or sister, through which they can exit here with the [safeguard] of an Umrah [visa],” Zia said. He added there had been past cases where such people were deported from other countries, following which the FIA’s Anti-Human Trafficking Cell registers a case, conducts an inquiry and “such human traffickers are brought to a halt”. He urged the public not to be fooled by migrant smugglers . The FIA officer said those networks were negatively portraying the matter to “create unrest” and secure financial gains for themselves. He recalled the Mauritania and Greece boat capsize incidents, saying that innocent people were shown “dreams of Europe” and smuggled out of Pakistan via dunki (illegal land routes) or by transiting in other countries, only to be pressured into handing over exorbitant amounts of cash or even losing their lives. “Not only does Pakistan’s name on an international level get maligned and the value of our green passport declines, but many countries have also created difficulties for us in obtaining visas,” the FIA Lahore director said. Zia assured the public that immigration staff would facilitate all those who were travelling abroad for legitimate reasons with valid documents. The FIA’s Facebook post said “such fabricated content aims to misguide the public and undermine institutional credibility”, and urged citizens to rely only on verified information from official FIA platforms. Earlier this week, BBC Urdu reported that it spoke to some of the offloaded individuals, including a 25-year-old man from Hyderabad who had obtained a work visa for Saudi Arabia. Another person, aged 35, who hailed from Punjab’s Sargodha, was stopped from travelling to Saudi Arabia from Karachi, and later also barred from travelling to Dubai from Lahore for work. A resident of Punjab’s Jhang told BBC Urdu he was offloaded from Karachi as officials questioned why he was using that airport instead of the nearby one in Lahore, the reason for which he said was a cheaper ticket. Earlier this week, it emerged that a number of genuine businessmen and tourists lodged a strong protest against the “harsh policy” to offload even those going for business trips or tourism. Gujrat Chamber of Commerce and Industry President Ahmed Hassan Mattu told Dawn that he had received several complaints from members of the Gujrat chamber about being offloaded from Lahore, Sialkot and other airports despite having genuine travel documents and recommendation letters. He said that the business fraternity had been very concerned over such a harsh policy of FIA Immigration as genuine businessmen should not be stopped or bothered at the airports. When asked about the reasons of offloading, FIA Gujranwala Zone Director Muhammad Bin Ashraf told Dawn that there was no harsh policy or new directions issued in this regard of offloading passengers with fake documents or suspicious motives.",
@@ -1607,24 +1859,6 @@
       "url": "https://www.theguardian.com/education/2025/nov/27/warning-of-20bn-timebomb-as-reeves-switches-send-funding-in-england-to-education-department",
       "source": "UK news | The Guardian",
       "published_at": "2025-11-27T06:00:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "978802b87bc1ed70",
-      "title_orig": "Rachel Reeves hands farmers inheritance tax break",
-      "summary_orig": "Treasury says concession could be worth £30m next year and then £70m annually until 2030 Budget calculator: find out if you are better or worse off Rachel Reeves has eased inheritance tax on agricultural property after pressure from farmers. As the chancellor made her budget speech on Wednesday, the Treasury announced changes it said could save farmers and business owners £30m next year when passing on property and £70m a year in the following four years. Farmers, who had driven tractors up to the doors of parliament, were protesting outside at the same time. Continue reading...",
-      "lang": "en",
-      "title_en": "Rachel Reeves hands farmers inheritance tax break",
-      "summary_en": "Treasury says concession could be worth £30m next year and then £70m annually until 2030 Budget calculator: find out if you are better or worse off Rachel Reeves has eased inheritance tax on agricultural property after pressure from farmers. As the chancellor made her budget speech on Wednesday, the Treasury announced changes it said could save farmers and business owners £30m next year when passing on property and £70m a year in the following four years. Farmers, who had driven tractors up to the doors of parliament, were protesting outside at the same time. Continue reading...",
-      "title": "Rachel Reeves hands farmers inheritance tax break",
-      "summary": "Treasury says concession could be worth £30m next year and then £70m annually until 2030 Budget calculator: find out if you are better or worse off Rachel Reeves has eased inheritance tax on agricultural property after pressure from farmers. As the chancellor made her budget speech on Wednesday, the Treasury announced changes it said could save farmers and business owners £30m next year when passing on property and £70m a year in the following four years. Farmers, who had driven tractors up to the doors of parliament, were protesting outside at the same time. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2025/nov/27/rachel-reeves-hands-farmers-inheritance-tax-break",
-      "source": "UK news | The Guardian",
-      "published_at": "2025-11-27T06:00:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2075,24 +2309,6 @@
       "url": "https://www.independent.co.uk/news/world/americas/crime/chicago-woman-fire-train-fundraiser-b2873261.html",
       "source": "The Independent World",
       "published_at": "2025-11-26T21:09:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "42e66e752167f5f7",
-      "title_orig": "2 National Guard soldiers critically wounded in ‘targeted’ attack near White House",
-      "summary_orig": "The suspect is a 29-year-old Afghan national granted asylum three months after Trump took office.",
-      "lang": "en",
-      "title_en": "2 National Guard soldiers critically wounded in ‘targeted’ attack near White House",
-      "summary_en": "The suspect is a 29-year-old Afghan national granted asylum three months after Trump took office.",
-      "title": "2 National Guard soldiers critically wounded in ‘targeted’ attack near White House",
-      "summary": "The suspect is a 29-year-old Afghan national granted asylum three months after Trump took office.",
-      "url": "https://www.straitstimes.com/world/united-states/two-national-guard-members-shot-in-washington-white-house-on-lockdown-while-trump-away",
-      "source": "The Straits Times World News",
-      "published_at": "2025-11-26T20:33:25+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2868,24 +3084,6 @@
       "url": "http://www.euronews.com/2025/11/26/brazils-former-president-jair-bolsonaro-begins-27-year-prison-sentence-for-coup-plot",
       "source": "News | Euronews RSS",
       "published_at": "2025-11-26T04:19:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "39d000e2b9d45772",
-      "title_orig": "US justice department memo about boat strikes diverges from Trump narrative",
-      "summary_orig": "Exclusive: Officials frame strikes as self-defense against violence, without naming aggressor, while Trump claims they are to stop US overdose deaths The Trump administration is framing its boat strikes against drug cartels in the Caribbean in part as a collective self-defense effort on behalf of US allies in the region, according to three people directly familiar with the administration’s internal legal argument. The legal analysis rests on a premise – for which there is no immediate public evidence – that the cartels are waging armed violence against the security forces of allies such as Mexico, and that the violence is financed by cocaine shipments. Continue reading...",
-      "lang": "en",
-      "title_en": "US justice department memo about boat strikes diverges from Trump narrative",
-      "summary_en": "Exclusive: Officials frame strikes as self-defense against violence, without naming aggressor, while Trump claims they are to stop US overdose deaths The Trump administration is framing its boat strikes against drug cartels in the Caribbean in part as a collective self-defense effort on behalf of US allies in the region, according to three people directly familiar with the administration’s internal legal argument. The legal analysis rests on a premise – for which there is no immediate public evidence – that the cartels are waging armed violence against the security forces of allies such as Mexico, and that the violence is financed by cocaine shipments. Continue reading...",
-      "title": "US justice department memo about boat strikes diverges from Trump narrative",
-      "summary": "Exclusive: Officials frame strikes as self-defense against violence, without naming aggressor, while Trump claims they are to stop US overdose deaths The Trump administration is framing its boat strikes against drug cartels in the Caribbean in part as a collective self-defense effort on behalf of US allies in the region, according to three people directly familiar with the administration’s internal legal argument. The legal analysis rests on a premise – for which there is no immediate public evidence – that the cartels are waging armed violence against the security forces of allies such as Mexico, and that the violence is financed by cocaine shipments. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2025/nov/25/trump-caribbean-boat-strikes-memo",
-      "source": "World news | The Guardian",
-      "published_at": "2025-11-25T23:45:33+00:00",
       "tags": [
         "airport/security"
       ],
