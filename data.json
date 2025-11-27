@@ -1,6 +1,42 @@
 {
-  "generated_at": "2025-11-27T20:19:50.320823+00:00",
+  "generated_at": "2025-11-27T20:45:41.389732+00:00",
   "items": [
+    {
+      "id": "b7b8a33651f6356c",
+      "title_orig": "American film student ‘stabbed girlfriend to death after STD row’, court hears",
+      "summary_orig": "Joshua Michals claims Zhe Wang attacked him after she became 'stressed' she might have caught a STD",
+      "lang": "en",
+      "title_en": "American film student ‘stabbed girlfriend to death after STD row’, court hears",
+      "summary_en": "Joshua Michals claims Zhe Wang attacked him after she became 'stressed' she might have caught a STD",
+      "title": "American film student ‘stabbed girlfriend to death after STD row’, court hears",
+      "summary": "Joshua Michals claims Zhe Wang attacked him after she became 'stressed' she might have caught a STD",
+      "url": "https://metro.co.uk/2025/11/27/american-film-student-stabbed-girlfriend-death-std-row-court-hears-24889710/",
+      "source": "Metro",
+      "published_at": "2025-11-27T20:28:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d333fc955a90485e",
+      "title_orig": "Man pleads guilty to police station petrol bomb attack",
+      "summary_orig": "Jamie Taylor pleaded guilty at the High Court in Edinburgh.",
+      "lang": "en",
+      "title_en": "Man pleads guilty to police station petrol bomb attack",
+      "summary_en": "Jamie Taylor pleaded guilty at the High Court in Edinburgh.",
+      "title": "Man pleads guilty to police station petrol bomb attack",
+      "summary": "Jamie Taylor pleaded guilty at the High Court in Edinburgh.",
+      "url": "https://www.standard.co.uk/news/crime/police-scotland-high-court-edinburgh-cctv-b1260161.html",
+      "source": "The Standard News",
+      "published_at": "2025-11-27T20:23:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "102101a180c2f1cf",
       "title_orig": "Govt, PTI leaders dismiss reports of Imran’s ill health and transfer to high-security prison facility",
@@ -294,24 +330,6 @@
       "published_at": "2025-11-27T18:35:16+00:00",
       "tags": [
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e5277ab644d839e1",
-      "title_orig": "DC shooting suspect worked for CIA in Afghanistan; drove across country before attack",
-      "summary_orig": "Rahmanaullah Lakanwal, 29, worked for the agency in Afghanistan prior to the U.S. withdrawal from Afghanistan in 2021, the same year he immigrated to America, the CIA says.",
-      "lang": "en",
-      "title_en": "DC shooting suspect worked for CIA in Afghanistan; drove across country before attack",
-      "summary_en": "Rahmanaullah Lakanwal, 29, worked for the agency in Afghanistan prior to the U.S. withdrawal from Afghanistan in 2021, the same year he immigrated to America, the CIA says.",
-      "title": "DC shooting suspect worked for CIA in Afghanistan; drove across country before attack",
-      "summary": "Rahmanaullah Lakanwal, 29, worked for the agency in Afghanistan prior to the U.S. withdrawal from Afghanistan in 2021, the same year he immigrated to America, the CIA says.",
-      "url": "https://ktla.com/news/dc-shooting-suspect-worked-for-cia-in-afghanistan-drove-across-country-before-attack/",
-      "source": "KTLA",
-      "published_at": "2025-11-27T18:29:10+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
@@ -623,31 +641,22 @@
       "geo": {}
     },
     {
-      "id": "4adff7f510dc4aaa",
-      "title_orig": "The major Metrolink and Manchester Airport plans in the works",
-      "summary_orig": "Around 8m more passengers are expected to use the Airport annually once the new Terminal 2 fully opens",
+      "id": "3fed15e50fabb23e",
+      "title_orig": "Putin demands Kyiv withdraw from Eastern Ukraine – and ‘promises’ not to attack Europe",
+      "summary_orig": "The Russian president reiterated his maximalist demands over occupied areas of Ukraine, and insisted Moscow has no plans of slowing down its full-scale invasion or even negotiating with Kyiv.",
       "lang": "en",
-      "title_en": "The major Metrolink and Manchester Airport plans in the works",
-      "summary_en": "Around 8m more passengers are expected to use the Airport annually once the new Terminal 2 fully opens",
-      "title": "The major Metrolink and Manchester Airport plans in the works",
-      "summary": "Around 8m more passengers are expected to use the Airport annually once the new Terminal 2 fully opens",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/major-metrolink-manchester-airport-plans-32957790",
-      "source": "MEN - News",
-      "published_at": "2025-11-27T16:57:36+00:00",
+      "title_en": "Putin demands Kyiv withdraw from Eastern Ukraine – and ‘promises’ not to attack Europe",
+      "summary_en": "The Russian president reiterated his maximalist demands over occupied areas of Ukraine, and insisted Moscow has no plans of slowing down its full-scale invasion or even negotiating with Kyiv.",
+      "title": "Putin demands Kyiv withdraw from Eastern Ukraine – and ‘promises’ not to attack Europe",
+      "summary": "The Russian president reiterated his maximalist demands over occupied areas of Ukraine, and insisted Moscow has no plans of slowing down its full-scale invasion or even negotiating with Kyiv.",
+      "url": "http://www.euronews.com/2025/11/27/putin-demands-kyiv-withdraw-from-eastern-ukraine-and-promises-not-to-attack-europe",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-27T16:59:12+00:00",
       "tags": [
-        "MAN",
-        "United Kingdom",
         "airport/security"
       ],
-      "type": "local news",
-      "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN",
-        "lat": 53.3652,
-        "lon": -2.2727
-      }
+      "type": "major news",
+      "geo": {}
     },
     {
       "id": "60c11128f2c90fd9",
@@ -886,6 +895,24 @@
       "url": "https://www.theguardian.com/education/2025/nov/27/warning-of-20bn-timebomb-as-reeves-switches-send-funding-in-england-to-education-department",
       "source": "UK news | The Guardian",
       "published_at": "2025-11-27T15:57:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "97836593a3dba7c3",
+      "title_orig": "Afghan national charged over attack on National Guard members in Washington",
+      "summary_orig": "Two West Virginia National Guard members were ambushed and critically wounded near the White House. Authorities have charged an Afghan national in the attack.",
+      "lang": "en",
+      "title_en": "Afghan national charged over attack on National Guard members in Washington",
+      "summary_en": "Two West Virginia National Guard members were ambushed and critically wounded near the White House. Authorities have charged an Afghan national in the attack.",
+      "title": "Afghan national charged over attack on National Guard members in Washington",
+      "summary": "Two West Virginia National Guard members were ambushed and critically wounded near the White House. Authorities have charged an Afghan national in the attack.",
+      "url": "http://www.euronews.com/2025/11/27/afghan-national-charged-over-attack-on-national-guard-members-in-washington",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-27T15:52:56+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1361,24 +1388,6 @@
       "geo": {}
     },
     {
-      "id": "8d90f6f2cbc6f0e0",
-      "title_orig": "Two EU airlines banned from Venezuela amid tensions with US",
-      "summary_orig": "Venezuela is blocking six carriers as fears grow that Donald Trump will attack.",
-      "lang": "en",
-      "title_en": "Two EU airlines banned from Venezuela amid tensions with US",
-      "summary_en": "Venezuela is blocking six carriers as fears grow that Donald Trump will attack.",
-      "title": "Two EU airlines banned from Venezuela amid tensions with US",
-      "summary": "Venezuela is blocking six carriers as fears grow that Donald Trump will attack.",
-      "url": "https://www.politico.eu/article/two-eu-airlines-banned-from-venezuela-amid-tensions-with-us/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "source": "POLITICO",
-      "published_at": "2025-11-27T13:57:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "91135d44bd1b9947",
       "title_orig": "Police officers attacked with knife in Londonderry",
       "summary_orig": "One officer was stabbed in the leg and required stitches.",
@@ -1394,24 +1403,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1163f3b870f308d3",
-      "title_orig": "Japan denies report Trump told PM Takaichi not to provoke China on Taiwan",
-      "summary_orig": "Takaichi's suggestion earlier this month that Tokyo could intervene militarily if Taiwan is attacked enrages Beijing.",
-      "lang": "en",
-      "title_en": "Japan denies report Trump told PM Takaichi not to provoke China on Taiwan",
-      "summary_en": "Takaichi's suggestion earlier this month that Tokyo could intervene militarily if Taiwan is attacked enrages Beijing.",
-      "title": "Japan denies report Trump told PM Takaichi not to provoke China on Taiwan",
-      "summary": "Takaichi's suggestion earlier this month that Tokyo could intervene militarily if Taiwan is attacked enrages Beijing.",
-      "url": "https://www.aljazeera.com/news/2025/11/27/japan-denies-report-trump-told-pm-takaichi-not-to-provoke-china-on-taiwan?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-11-27T13:45:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1514,6 +1505,24 @@
       "geo": {}
     },
     {
+      "id": "053f62c3e96765d0",
+      "title_orig": "Bulgarian government withdraws 2026 budget draft after mass protests",
+      "summary_orig": "Wednesday's protest in Sofia against Bulgaria's draft budget plan for 2026 drew an estimated 20,000 people, who demonstrated against a potential increase in social security contributions and the doubling of the dividend tax.",
+      "lang": "en",
+      "title_en": "Bulgarian government withdraws 2026 budget draft after mass protests",
+      "summary_en": "Wednesday's protest in Sofia against Bulgaria's draft budget plan for 2026 drew an estimated 20,000 people, who demonstrated against a potential increase in social security contributions and the doubling of the dividend tax.",
+      "title": "Bulgarian government withdraws 2026 budget draft after mass protests",
+      "summary": "Wednesday's protest in Sofia against Bulgaria's draft budget plan for 2026 drew an estimated 20,000 people, who demonstrated against a potential increase in social security contributions and the doubling of the dividend tax.",
+      "url": "http://www.euronews.com/2025/11/27/bulgarian-government-withdraws-2026-budget-draft-after-mass-protests",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-27T12:52:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "acceb291fa0a91f9",
       "title_orig": "DLR cleaners launch two strikes after being told sick pay is 'only for seriously or terminally ill'",
       "summary_orig": "RMT union says subcontractor has behaved appallingly towards staff",
@@ -1604,6 +1613,24 @@
       "geo": {}
     },
     {
+      "id": "6815e00548ae4951",
+      "title_orig": "A shark kills a woman and seriously wounds another swimmer in Australia",
+      "summary_orig": "A shark attacked two mid-20s swimmers at Crowdy Bay National Park in Australia, killing a woman and seriously injuring a man. A bystander’s quick first aid likely saved the survivor before he was airlifted to hospital.",
+      "lang": "en",
+      "title_en": "A shark kills a woman and seriously wounds another swimmer in Australia",
+      "summary_en": "A shark attacked two mid-20s swimmers at Crowdy Bay National Park in Australia, killing a woman and seriously injuring a man. A bystander’s quick first aid likely saved the survivor before he was airlifted to hospital.",
+      "title": "A shark kills a woman and seriously wounds another swimmer in Australia",
+      "summary": "A shark attacked two mid-20s swimmers at Crowdy Bay National Park in Australia, killing a woman and seriously injuring a man. A bystander’s quick first aid likely saved the survivor before he was airlifted to hospital.",
+      "url": "http://www.euronews.com/2025/11/27/a-shark-kills-a-woman-and-seriously-wounds-another-swimmer-in-australia",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-27T12:08:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "127cc2928c7240bf",
       "title_orig": "The 7 Busiest Airports In Florida In 2025",
       "summary_orig": "Florida's seven largest airports will have 1.4 million flights in 2025 and handle over 200 million passengers.",
@@ -1655,6 +1682,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bd6f8ab6f78bd22f",
+      "title_orig": "Bulgaria: Thousands rally in Sofia as protesters clash with police",
+      "summary_orig": "Tension in Sofia rose as Bulgaria's Budget and Finance Committee began work early, angering the opposition. Protests outside Parliament escalated, with clashes and injuries reported.",
+      "lang": "en",
+      "title_en": "Bulgaria: Thousands rally in Sofia as protesters clash with police",
+      "summary_en": "Tension in Sofia rose as Bulgaria's Budget and Finance Committee began work early, angering the opposition. Protests outside Parliament escalated, with clashes and injuries reported.",
+      "title": "Bulgaria: Thousands rally in Sofia as protesters clash with police",
+      "summary": "Tension in Sofia rose as Bulgaria's Budget and Finance Committee began work early, angering the opposition. Protests outside Parliament escalated, with clashes and injuries reported.",
+      "url": "http://www.euronews.com/video/2025/11/27/bulgaria-thousands-rally-in-sofia-as-protesters-clash-with-police",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-27T11:32:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1802,6 +1847,24 @@
       "geo": {}
     },
     {
+      "id": "dbb1059839668fdb",
+      "title_orig": "Two inmates escape French prison using drone-delivered saw blades",
+      "summary_orig": "Two inmates escaped from Dijon prison after receiving blades via drone, according to authorities. One is under investigation for attempted murder, and both are considered dangerous.",
+      "lang": "en",
+      "title_en": "Two inmates escape French prison using drone-delivered saw blades",
+      "summary_en": "Two inmates escaped from Dijon prison after receiving blades via drone, according to authorities. One is under investigation for attempted murder, and both are considered dangerous.",
+      "title": "Two inmates escape French prison using drone-delivered saw blades",
+      "summary": "Two inmates escaped from Dijon prison after receiving blades via drone, according to authorities. One is under investigation for attempted murder, and both are considered dangerous.",
+      "url": "http://www.euronews.com/2025/11/27/two-inmates-escape-dijon-prison-using-drone-delivered-saw-blades",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-27T10:17:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "efe3494f4e0faa7f",
       "title_orig": "NHS doctor suspended over alleged antisemitic social media posts",
       "summary_orig": "Rahmeh Aladwan barred from practising for 15 months pending inquiry amid claims she ‘celebrated terrorist acts’ An NHS doctor accused of antisemitism has been suspended for 15 months pending an investigation, the Medical Practitioners Tribunal Service (MPTS) in the UK has ruled. The General Medical Council (GMC) is investigating Dr Rahmeh Aladwan over posts and comments made across various social media platforms after several complaints, including from the Jewish Medical Association UK and the Campaign Against Antisemitism. Continue reading...",
@@ -1925,6 +1988,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "545ea8a29949cb08",
+      "title_orig": "Flamengo fans clash with police at Rio airport",
+      "summary_orig": "Chaos ensued at Rio's airport as Flamengo fans clashed with police while seeing off the team for the Copa Libertadores final, with accusations of late police action.",
+      "lang": "en",
+      "title_en": "Flamengo fans clash with police at Rio airport",
+      "summary_en": "Chaos ensued at Rio's airport as Flamengo fans clashed with police while seeing off the team for the Copa Libertadores final, with accusations of late police action.",
+      "title": "Flamengo fans clash with police at Rio airport",
+      "summary": "Chaos ensued at Rio's airport as Flamengo fans clashed with police while seeing off the team for the Copa Libertadores final, with accusations of late police action.",
+      "url": "http://www.euronews.com/video/2025/11/27/flamengo-fans-clash-with-police-at-rio-airport",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-27T09:11:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2199,6 +2280,24 @@
       "geo": {}
     },
     {
+      "id": "e37300defe68fd78",
+      "title_orig": "Thousands protest in Bulgaria ahead of final parliamentary vote on controversial new budget plan",
+      "summary_orig": "Thousands of protesters staged a major demonstration outside the parliament building in the capital, Sofia, to denounce the steep taxes announced in next year’s budget draft. Protesters formed a human chain around the building to prevent MPs from exiting.",
+      "lang": "en",
+      "title_en": "Thousands protest in Bulgaria ahead of final parliamentary vote on controversial new budget plan",
+      "summary_en": "Thousands of protesters staged a major demonstration outside the parliament building in the capital, Sofia, to denounce the steep taxes announced in next year’s budget draft. Protesters formed a human chain around the building to prevent MPs from exiting.",
+      "title": "Thousands protest in Bulgaria ahead of final parliamentary vote on controversial new budget plan",
+      "summary": "Thousands of protesters staged a major demonstration outside the parliament building in the capital, Sofia, to denounce the steep taxes announced in next year’s budget draft. Protesters formed a human chain around the building to prevent MPs from exiting.",
+      "url": "http://www.euronews.com/2025/11/27/thousands-protest-in-bulgaria-ahead-of-final-parliamentary-vote-on-controversial-new-budge",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-27T05:29:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "5eb8b99106f7c426",
       "title_orig": "Woman killed in shark attack at remote beach in Australian national park",
       "summary_orig": "The woman died at the scene and a man was critically injured after the attack in New South Wales.",
@@ -2412,6 +2511,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "766988542d7af64b",
+      "title_orig": "Two US National Guard troops shot in an ambush attack just blocks from the White House",
+      "summary_orig": "Trump says a “re-examination” of all aliens in the United States is needed after an Afghan national was apprehended for shooting two US National Guard troops, just blocks away from the White House, in what officials say was a targeted attack.",
+      "lang": "en",
+      "title_en": "Two US National Guard troops shot in an ambush attack just blocks from the White House",
+      "summary_en": "Trump says a “re-examination” of all aliens in the United States is needed after an Afghan national was apprehended for shooting two US National Guard troops, just blocks away from the White House, in what officials say was a targeted attack.",
+      "title": "Two US National Guard troops shot in an ambush attack just blocks from the White House",
+      "summary": "Trump says a “re-examination” of all aliens in the United States is needed after an Afghan national was apprehended for shooting two US National Guard troops, just blocks away from the White House, in what officials say was a targeted attack.",
+      "url": "http://www.euronews.com/2025/11/26/two-national-guard-soldiers-shot-in-the-middle-of-a-washington-dc",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-26T20:20:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2659,6 +2776,24 @@
       "geo": {}
     },
     {
+      "id": "3d5b905e5548da7e",
+      "title_orig": "Family of five rescued from roof amid severe flooding in Hat Yai, Thailand",
+      "summary_orig": "A family of five was rescued from the roof of their flooded home in Hat Yai, Thailand, as the city faced severe flooding. Drone footage captured the event.",
+      "lang": "en",
+      "title_en": "Family of five rescued from roof amid severe flooding in Hat Yai, Thailand",
+      "summary_en": "A family of five was rescued from the roof of their flooded home in Hat Yai, Thailand, as the city faced severe flooding. Drone footage captured the event.",
+      "title": "Family of five rescued from roof amid severe flooding in Hat Yai, Thailand",
+      "summary": "A family of five was rescued from the roof of their flooded home in Hat Yai, Thailand, as the city faced severe flooding. Drone footage captured the event.",
+      "url": "http://www.euronews.com/video/2025/11/26/family-of-five-rescued-from-roof-amid-severe-flooding-in-hat-yai-thailand",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-26T14:00:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "2e0552b447873713",
       "title_orig": "Dual British-Swedish citizens left confused after embassy's ETA statement",
       "summary_orig": "Brits living in Sweden have been left confused after the British Embassy in Stockholm stated in a post on Facebook that dual citizens must hold a valid British passport when travelling to the UK, as opposed to the official guideline from the UK government which appears to say it is only advisory.",
@@ -2710,6 +2845,42 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "91b8fc41badcf2e2",
+      "title_orig": "At least 36 dead and 279 still missing as blaze engulfs Hong Kong residential complex",
+      "summary_orig": "A fire in a Hong Kong residential complex has killed at least 36 people while 279 remain missing.The blaze rapidly spread through bamboo scaffolding, leading to the evacuation of 700 residents.",
+      "lang": "en",
+      "title_en": "At least 36 dead and 279 still missing as blaze engulfs Hong Kong residential complex",
+      "summary_en": "A fire in a Hong Kong residential complex has killed at least 36 people while 279 remain missing.The blaze rapidly spread through bamboo scaffolding, leading to the evacuation of 700 residents.",
+      "title": "At least 36 dead and 279 still missing as blaze engulfs Hong Kong residential complex",
+      "summary": "A fire in a Hong Kong residential complex has killed at least 36 people while 279 remain missing.The blaze rapidly spread through bamboo scaffolding, leading to the evacuation of 700 residents.",
+      "url": "http://www.euronews.com/2025/11/26/thirteen-dead-as-blaze-engulfs-hong-kong-residential-complex",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-26T13:19:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "2acc064c016a0773",
+      "title_orig": "Strikes in Belgium disrupt public transport and flights over new 2026 measures",
+      "summary_orig": "Belgium held a nationwide strike as unions protested the 2026 budget, halting public transport and grounding flights while demanding changes to pension and welfare plans.",
+      "lang": "en",
+      "title_en": "Strikes in Belgium disrupt public transport and flights over new 2026 measures",
+      "summary_en": "Belgium held a nationwide strike as unions protested the 2026 budget, halting public transport and grounding flights while demanding changes to pension and welfare plans.",
+      "title": "Strikes in Belgium disrupt public transport and flights over new 2026 measures",
+      "summary": "Belgium held a nationwide strike as unions protested the 2026 budget, halting public transport and grounding flights while demanding changes to pension and welfare plans.",
+      "url": "http://www.euronews.com/video/2025/11/26/strikes-in-belgium-disrupt-public-transport-and-flights-over-new-2026-measures",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-26T12:52:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2812,6 +2983,42 @@
       "geo": {}
     },
     {
+      "id": "2c44b4239fa6cf95",
+      "title_orig": "What to expect as Belgium faces third day of strikes against austerity measures",
+      "summary_orig": "Belgium faced major disruptions since Monday as trade unions staged a three-day strike against government austerity measures, affecting public transport, airports and ports.",
+      "lang": "en",
+      "title_en": "What to expect as Belgium faces third day of strikes against austerity measures",
+      "summary_en": "Belgium faced major disruptions since Monday as trade unions staged a three-day strike against government austerity measures, affecting public transport, airports and ports.",
+      "title": "What to expect as Belgium faces third day of strikes against austerity measures",
+      "summary": "Belgium faced major disruptions since Monday as trade unions staged a three-day strike against government austerity measures, affecting public transport, airports and ports.",
+      "url": "http://www.euronews.com/2025/11/26/what-to-expect-as-belgium-faces-third-day-of-strikes-against-austerity-measures",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-26T10:28:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "9f73987798efa3fb",
+      "title_orig": "Madrid streets fill with thousands protesting gender violence in Spain",
+      "summary_orig": "Thousands took to the streets of Madrid and other Spanish cities to denounce gender-based violence and honour the women killed this year.",
+      "lang": "en",
+      "title_en": "Madrid streets fill with thousands protesting gender violence in Spain",
+      "summary_en": "Thousands took to the streets of Madrid and other Spanish cities to denounce gender-based violence and honour the women killed this year.",
+      "title": "Madrid streets fill with thousands protesting gender violence in Spain",
+      "summary": "Thousands took to the streets of Madrid and other Spanish cities to denounce gender-based violence and honour the women killed this year.",
+      "url": "http://www.euronews.com/video/2025/11/26/madrid-streets-fill-with-thousands-protesting-gender-violence-in-spain",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-26T09:05:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "2be43c0439fa3ead",
       "title_orig": "American Airlines flight AA5927 declared an emergency and returned to Philadelphia",
       "summary_orig": "An American Airlines flight to Roanoke returned to Philadelphia after pilots declared an emergency. American Airlines flight AA5927 departed Philadelphia International Airport at 7:24 EST on Tuesday, November 25 2025 for a one-hour flight to Roanoke. The Embraer ERJ 145LR (registration N931AE) climbed out of runway 9L to 18,000 feet until the crew decided to […] The post American Airlines flight AA5927 declared an emergency and returned to Philadelphia appeared first on AIRLIVE .",
@@ -2845,6 +3052,42 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c7718e16a9ddbc38",
+      "title_orig": "Protest in Paris denounces rise in femicides across France",
+      "summary_orig": "Hundreds gathered outside the Panthéon to denounce rising femicides in France, unfurling banners and torchlit displays demanding stronger government action.",
+      "lang": "en",
+      "title_en": "Protest in Paris denounces rise in femicides across France",
+      "summary_en": "Hundreds gathered outside the Panthéon to denounce rising femicides in France, unfurling banners and torchlit displays demanding stronger government action.",
+      "title": "Protest in Paris denounces rise in femicides across France",
+      "summary": "Hundreds gathered outside the Panthéon to denounce rising femicides in France, unfurling banners and torchlit displays demanding stronger government action.",
+      "url": "http://www.euronews.com/video/2025/11/26/protest-in-paris-denounces-rise-in-femicides-across-france",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-26T08:15:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "52abea9ad1bac479",
+      "title_orig": "Paris protesters demand action as France faces surge in gender-based violence",
+      "summary_orig": "Protesters highlighted gaps in France’s domestic violence response amid alarming new statistics.",
+      "lang": "en",
+      "title_en": "Paris protesters demand action as France faces surge in gender-based violence",
+      "summary_en": "Protesters highlighted gaps in France’s domestic violence response amid alarming new statistics.",
+      "title": "Paris protesters demand action as France faces surge in gender-based violence",
+      "summary": "Protesters highlighted gaps in France’s domestic violence response amid alarming new statistics.",
+      "url": "http://www.euronews.com/2025/11/26/paris-protesters-demand-action-as-france-faces-surge-in-gender-based-violence",
+      "source": "News | Euronews RSS",
+      "published_at": "2025-11-26T06:01:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
