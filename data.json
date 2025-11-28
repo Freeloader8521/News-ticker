@@ -1,6 +1,69 @@
 {
-  "generated_at": "2025-11-28T19:41:27.839636+00:00",
+  "generated_at": "2025-11-28T20:22:22.032109+00:00",
   "items": [
+    {
+      "id": "0edbd9d01763599e",
+      "title_orig": "Man, 26, arrested for possessing extreme right-wing terror material",
+      "summary_orig": "Declan George-Candiani, 26, was arrested by counter-terrorism police at Stansted Airport as he was about to jet off on holiday to Finland with his girlfriend in August 2024.",
+      "lang": "en",
+      "title_en": "Man, 26, arrested for possessing extreme right-wing terror material",
+      "summary_en": "Declan George-Candiani, 26, was arrested by counter-terrorism police at Stansted Airport as he was about to jet off on holiday to Finland with his girlfriend in August 2024.",
+      "title": "Man, 26, arrested for possessing extreme right-wing terror material",
+      "summary": "Declan George-Candiani, 26, was arrested by counter-terrorism police at Stansted Airport as he was about to jet off on holiday to Finland with his girlfriend in August 2024.",
+      "url": "https://metro.co.uk/2025/11/28/man-26-arrested-possessing-extreme-right-wing-terror-material-24927547/",
+      "source": "Metro",
+      "published_at": "2025-11-28T20:13:36+00:00",
+      "tags": [
+        "STN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Stansted",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "STN",
+        "lat": 51.885,
+        "lon": 0.235
+      }
+    },
+    {
+      "id": "16323d155c073c4e",
+      "title_orig": "EE.UU. atacó dos veces a un supuesto barco narcotraficante para causar la muerte de los sobrevivientes, según fuente",
+      "summary_orig": "Las Fuerzas Armadas de EE.UU. llevaron a cabo un segundo ataque contra un supuesto narcotraficante que operaba en el Caribe…",
+      "lang": "es",
+      "title_en": "The US attacked an alleged drug trafficking ship twice to cause the death of survivors, according to source",
+      "summary_en": "The US Armed Forces carried out a second attack against an alleged drug trafficker operating in the Caribbean...",
+      "title": "The US attacked an alleged drug trafficking ship twice to cause the death of survivors, according to source",
+      "summary": "The US Armed Forces carried out a second attack against an alleged drug trafficker operating in the Caribbean...",
+      "url": "https://wtop.com/news/2025/11/ee-uu-ataco-dos-veces-a-un-supuesto-barco-narcotraficante-para-causar-la-muerte-de-los-sobrevivientes-segun-fuente/",
+      "source": "WTOP News",
+      "published_at": "2025-11-28T20:04:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5b64ccef676fc7ca",
+      "title_orig": "Trump’s Response to Shooting Shows Intensified Anti-Migrant Stance",
+      "summary_orig": "The president is furiously demanding limits on migration and attacking ethnic groups as he steps up his efforts to equate immigration with crime and economic distress.",
+      "lang": "en",
+      "title_en": "Trump’s Response to Shooting Shows Intensified Anti-Migrant Stance",
+      "summary_en": "The president is furiously demanding limits on migration and attacking ethnic groups as he steps up his efforts to equate immigration with crime and economic distress.",
+      "title": "Trump’s Response to Shooting Shows Intensified Anti-Migrant Stance",
+      "summary": "The president is furiously demanding limits on migration and attacking ethnic groups as he steps up his efforts to equate immigration with crime and economic distress.",
+      "url": "https://www.nytimes.com/2025/11/28/us/politics/trumps-response-to-shooting-shows-intensified-anti-migrant-stance.html",
+      "source": "NYT > World News",
+      "published_at": "2025-11-28T19:55:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "cbc92c2d98ecd69e",
       "title_orig": "National guard shooting suspect to be charged with murder as Trump steps up immigration crackdown – US politics live",
@@ -12,7 +75,61 @@
       "summary": "US attorney for DC says charges upgraded to murder in first degree after national guard member dies; US president says he will ‘permanently pause’ migration from ‘third world countries’ Full report: Trump says he will ‘permanently pause’ migration from ‘third world countries’ West Virginia governor Patrick Morrisey reaffirmed his support for the state’s National Guard members deployed in Washington, DC. “When you have these terrorists, when you have these evildoers, you’re not going to back down when they go after our servicemen and women,” Morrisey, a Republican, told CNN. I’m devastated to learn of the passing of Specialist Sarah Beckstrom, a member of the West Virginia National Guard. She was only twenty years old. As families across the nation come together today to celebrate Thanksgiving, let us take a moment to think of those in West Virginia who have been plunged into unimaginable grief. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2025/nov/28/trump-washington-dc-shooting-politics-updates",
       "source": "World news | The Guardian",
-      "published_at": "2025-11-28T19:09:53+00:00",
+      "published_at": "2025-11-28T19:48:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "890f2fe8395e2690",
+      "title_orig": "Inside Rahmanullah Lakanwal’s journey from CIA-backed ‘Zero Unit’ unit in Afghanistan to suspect in DC shooting",
+      "summary_orig": "The 29-year-old Afghan national has been detained over the shooting of two soldiers in an ‘ambush style attack’ in Washington on the eve of Thanksgiving",
+      "lang": "en",
+      "title_en": "Inside Rahmanullah Lakanwal’s journey from CIA-backed ‘Zero Unit’ unit in Afghanistan to suspect in DC shooting",
+      "summary_en": "The 29-year-old Afghan national has been detained over the shooting of two soldiers in an ‘ambush style attack’ in Washington on the eve of Thanksgiving",
+      "title": "Inside Rahmanullah Lakanwal’s journey from CIA-backed ‘Zero Unit’ unit in Afghanistan to suspect in DC shooting",
+      "summary": "The 29-year-old Afghan national has been detained over the shooting of two soldiers in an ‘ambush style attack’ in Washington on the eve of Thanksgiving",
+      "url": "https://www.independent.co.uk/news/world/americas/crime/rahmanullah-lakanwal-national-guard-shooting-dc-suspect-b2874183.html",
+      "source": "The Independent World",
+      "published_at": "2025-11-28T19:46:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "67e53714e923cd5c",
+      "title_orig": "Hezbollah leader promises response to Israel’s strike killing top commander",
+      "summary_orig": "Naim Qassem labels the killing of Haytham Tabtabai as a 'heinous crime' saying Hezbollah has the right to respond.",
+      "lang": "en",
+      "title_en": "Hezbollah leader promises response to Israel’s strike killing top commander",
+      "summary_en": "Naim Qassem labels the killing of Haytham Tabtabai as a 'heinous crime' saying Hezbollah has the right to respond.",
+      "title": "Hezbollah leader promises response to Israel’s strike killing top commander",
+      "summary": "Naim Qassem labels the killing of Haytham Tabtabai as a 'heinous crime' saying Hezbollah has the right to respond.",
+      "url": "https://www.aljazeera.com/news/2025/11/28/hezbollah-leader-promises-response-to-israels-strike-killing-top-commander?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-11-28T19:30:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "bbd778793a12dec8",
+      "title_orig": "Why gender-based violence in South Africa is now a national emergency",
+      "summary_orig": "We look back at South Africa’s nationwide shutdown by women, as they halted work to protest gender-based violence.",
+      "lang": "en",
+      "title_en": "Why gender-based violence in South Africa is now a national emergency",
+      "summary_en": "We look back at South Africa’s nationwide shutdown by women, as they halted work to protest gender-based violence.",
+      "title": "Why gender-based violence in South Africa is now a national emergency",
+      "summary": "We look back at South Africa’s nationwide shutdown by women, as they halted work to protest gender-based violence.",
+      "url": "https://www.aljazeera.com/video/the-stream/2025/11/28/why-gender-based-violence-in-south-africa-is-now-a-national-emergency?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-11-28T19:30:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -164,24 +281,6 @@
       "geo": {}
     },
     {
-      "id": "5b64ccef676fc7ca",
-      "title_orig": "Trump’s Response to Shooting Shows Intensified Anti-Migrant Stance",
-      "summary_orig": "The president is furiously demanding limits on migration and attacking ethnic groups as he steps up his efforts to equate immigration with crime and economic distress.",
-      "lang": "en",
-      "title_en": "Trump’s Response to Shooting Shows Intensified Anti-Migrant Stance",
-      "summary_en": "The president is furiously demanding limits on migration and attacking ethnic groups as he steps up his efforts to equate immigration with crime and economic distress.",
-      "title": "Trump’s Response to Shooting Shows Intensified Anti-Migrant Stance",
-      "summary": "The president is furiously demanding limits on migration and attacking ethnic groups as he steps up his efforts to equate immigration with crime and economic distress.",
-      "url": "https://www.nytimes.com/2025/11/28/us/politics/trumps-response-to-shooting-shows-intensified-anti-migrant-stance.html",
-      "source": "NYT > World News",
-      "published_at": "2025-11-28T18:39:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "53a95f51b13e503b",
       "title_orig": "Rajmohan Unnithan launches scathing attack on Rahul Mamkootathil",
       "summary_orig": "",
@@ -211,6 +310,24 @@
       "url": "https://fox5sandiego.com/news/local-news/ground-delay-issued-at-san-diego-airport/",
       "source": "FOX 5 San Diego & KUSI News",
       "published_at": "2025-11-28T18:30:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0fdba2e9a704da1a",
+      "title_orig": "Georgia marks a year of protests since EU talks stalled and crackdown intensified",
+      "summary_orig": "Protesters in Tbilisi have marked a year of continuous demonstrations against Georgia's decision to halt EU membership talks.",
+      "lang": "en",
+      "title_en": "Georgia marks a year of protests since EU talks stalled and crackdown intensified",
+      "summary_en": "Protesters in Tbilisi have marked a year of continuous demonstrations against Georgia's decision to halt EU membership talks.",
+      "title": "Georgia marks a year of protests since EU talks stalled and crackdown intensified",
+      "summary": "Protesters in Tbilisi have marked a year of continuous demonstrations against Georgia's decision to halt EU membership talks.",
+      "url": "https://www.seattletimes.com/nation-world/world/georgia-marks-a-year-of-protests-since-eu-talks-stalled-and-crackdown-intensified/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-11-28T18:28:17+00:00",
       "tags": [
         "airport/security"
       ],
@@ -624,6 +741,24 @@
       "geo": {}
     },
     {
+      "id": "050eadee3fbbc180",
+      "title_orig": "Trinidad’s leader backtracks and says US Marines are in the country working on airport radar",
+      "summary_orig": "Trinidad and Tobago's prime minister is backtracking comments where she asserted that no U.S. Marines were currently in the twin-island nation.",
+      "lang": "en",
+      "title_en": "Trinidad’s leader backtracks and says US Marines are in the country working on airport radar",
+      "summary_en": "Trinidad and Tobago's prime minister is backtracking comments where she asserted that no U.S. Marines were currently in the twin-island nation.",
+      "title": "Trinidad’s leader backtracks and says US Marines are in the country working on airport radar",
+      "summary": "Trinidad and Tobago's prime minister is backtracking comments where she asserted that no U.S. Marines were currently in the twin-island nation.",
+      "url": "https://www.seattletimes.com/nation-world/nation/trinidads-leader-backtracks-and-says-us-marines-are-in-the-country-working-on-airport-radar/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-11-28T16:50:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "0b911b62389aaae8",
       "title_orig": "Londoners told to be vigilant with messages after cyber-attack on council",
       "summary_orig": "Royal Borough of Kensington and Chelsea says it is checking whether data taken contained residents’ details A London council has urged thousands of residents to be “extra vigilant” when receiving calls, emails or text messages after confirming that data had been taken in a cyber-attack. The Royal Borough of Kensington and Chelsea (RBKC), which has 147,500 residents, said some data had been copied from its systems in an attack this week. The council said it believed the theft related to “historical data” but it was checking whether it contained any personal or financial details of residents, customers or service users. Continue reading...",
@@ -671,42 +806,6 @@
       "url": "https://www.standard.co.uk/news/london/police-weekend-propalestine-protest-b1260313.html",
       "source": "The Standard News",
       "published_at": "2025-11-28T16:40:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e6ae043f24a2e71a",
-      "title_orig": "Police find '94 wraps of crack cocaine' after spotting 10-year-old boy on e-bike",
-      "summary_orig": "A drone tracked the e-bike to an address where a large haul of crack cocaine and heroin was seized",
-      "lang": "en",
-      "title_en": "Police find '94 wraps of crack cocaine' after spotting 10-year-old boy on e-bike",
-      "summary_en": "A drone tracked the e-bike to an address where a large haul of crack cocaine and heroin was seized",
-      "title": "Police find '94 wraps of crack cocaine' after spotting 10-year-old boy on e-bike",
-      "summary": "A drone tracked the e-bike to an address where a large haul of crack cocaine and heroin was seized",
-      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/boy-ebike-drugs-stash-police-36324077",
-      "source": "Daily Record - Home",
-      "published_at": "2025-11-28T16:28:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "425fe1e9edd3a52c",
-      "title_orig": "Man charged after 'pool cue attack' inside Livingston pub",
-      "summary_orig": "A 36-year-old man was left seriously injured in the disturbance.",
-      "lang": "en",
-      "title_en": "Man charged after 'pool cue attack' inside Livingston pub",
-      "summary_en": "A 36-year-old man was left seriously injured in the disturbance.",
-      "title": "Man charged after 'pool cue attack' inside Livingston pub",
-      "summary": "A 36-year-old man was left seriously injured in the disturbance.",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/man-charged-after-pool-cue-36324310",
-      "source": "Daily Record - Home",
-      "published_at": "2025-11-28T16:24:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1128,24 +1227,6 @@
       "geo": {}
     },
     {
-      "id": "b682a2b33c308478",
-      "title_orig": "Kadapa pensioner dies of heart attack after falling victim to digital arrest scare",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Kadapa pensioner dies of heart attack after falling victim to digital arrest scare",
-      "summary_en": "",
-      "title": "Kadapa pensioner dies of heart attack after falling victim to digital arrest scare",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-pensioner-dies-of-heart-attack-after-falling-victim-to-digital-arrest-scare/article70335487.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-11-28T14:49:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "9bee105a6f040603",
       "title_orig": "Man beat motorist through car window after petrol station row",
       "summary_orig": "Words were reportedly exchanged over the driver's 'friendship' with the man's girlfriend before the attack",
@@ -1157,24 +1238,6 @@
       "url": "https://www.leicestermercury.co.uk/news/leicester-news/man-beat-motorist-through-car-10673049",
       "source": "Leicestershire Live - frontpage",
       "published_at": "2025-11-28T14:47:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4440c5f8b537f3e0",
-      "title_orig": "Probe underway after council street cleaner assaulted in random attack",
-      "summary_orig": "The incident happened near Lidl on Moseley Road, Moseley",
-      "lang": "en",
-      "title_en": "Probe underway after council street cleaner assaulted in random attack",
-      "summary_en": "The incident happened near Lidl on Moseley Road, Moseley",
-      "title": "Probe underway after council street cleaner assaulted in random attack",
-      "summary": "The incident happened near Lidl on Moseley Road, Moseley",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/probe-underway-after-council-street-32964775",
-      "source": "Birmingham Live - News",
-      "published_at": "2025-11-28T14:42:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1197,24 +1260,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "b8866e17dad955ef",
-      "title_orig": "LISTED: All the new flights to and from Sweden in 2026",
-      "summary_orig": "Norwegian, SAS, Wizz Air, Ryanair, and other airlines have already announced plans to launch flights to more than 20 new destinations from airports in Sweden in 2026. We've collected the destinations announced so far into a comprehensive list.",
-      "lang": "en",
-      "title_en": "LISTED: All the new flights to and from Sweden in 2026",
-      "summary_en": "Norwegian, SAS, Wizz Air, Ryanair, and other airlines have already announced plans to launch flights to more than 20 new destinations from airports in Sweden in 2026. We've collected the destinations announced so far into a comprehensive list.",
-      "title": "LISTED: All the new flights to and from Sweden in 2026",
-      "summary": "Norwegian, SAS, Wizz Air, Ryanair, and other airlines have already announced plans to launch flights to more than 20 new destinations from airports in Sweden in 2026. We've collected the destinations announced so far into a comprehensive list.",
-      "url": "https://www.thelocal.se/20251128/the-new-flight-routes-to-and-from-sweden-launching-in-2026",
-      "source": "The Local Sweden",
-      "published_at": "2025-11-28T14:09:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1377,42 +1422,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "53b28d12d1715a65",
-      "title_orig": "Journalists strike in Italy amid budget protests",
-      "summary_orig": "Journalists in Italy launched strike action on Friday over pay and conditions in an ailing media landscape, as workers in education, health and transport also downed tools in protest over the government's budget.",
-      "lang": "en",
-      "title_en": "Journalists strike in Italy amid budget protests",
-      "summary_en": "Journalists in Italy launched strike action on Friday over pay and conditions in an ailing media landscape, as workers in education, health and transport also downed tools in protest over the government's budget.",
-      "title": "Journalists strike in Italy amid budget protests",
-      "summary": "Journalists in Italy launched strike action on Friday over pay and conditions in an ailing media landscape, as workers in education, health and transport also downed tools in protest over the government's budget.",
-      "url": "https://www.thelocal.it/20251128/journalists-strike-in-italy-amid-budget-protests",
-      "source": "The Local Italy",
-      "published_at": "2025-11-28T12:27:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "890f2fe8395e2690",
-      "title_orig": "Inside Rahmanullah Lakanwal’s journey from CIA-backed strike unit in Afghanistan to suspect in DC shooting",
-      "summary_orig": "The 29-year-old Afghan national has been detained over the shooting of two soldiers in an ‘ambush style attack’ in Washington on the eve of Thanksgiving",
-      "lang": "en",
-      "title_en": "Inside Rahmanullah Lakanwal’s journey from CIA-backed strike unit in Afghanistan to suspect in DC shooting",
-      "summary_en": "The 29-year-old Afghan national has been detained over the shooting of two soldiers in an ‘ambush style attack’ in Washington on the eve of Thanksgiving",
-      "title": "Inside Rahmanullah Lakanwal’s journey from CIA-backed strike unit in Afghanistan to suspect in DC shooting",
-      "summary": "The 29-year-old Afghan national has been detained over the shooting of two soldiers in an ‘ambush style attack’ in Washington on the eve of Thanksgiving",
-      "url": "https://www.independent.co.uk/news/world/americas/crime/rahmanullah-lakanwal-national-guard-shooting-dc-suspect-b2874183.html",
-      "source": "The Independent World",
-      "published_at": "2025-11-28T12:22:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1650,24 +1659,6 @@
       "geo": {}
     },
     {
-      "id": "829b8690b16f5155",
-      "title_orig": "Tunisia hands long prison sentences to opposition, business, media figures",
-      "summary_orig": "A court sentences suspects over charges on 'conspiracy against state security' and 'belonging to a terrorist group'.",
-      "lang": "en",
-      "title_en": "Tunisia hands long prison sentences to opposition, business, media figures",
-      "summary_en": "A court sentences suspects over charges on 'conspiracy against state security' and 'belonging to a terrorist group'.",
-      "title": "Tunisia hands long prison sentences to opposition, business, media figures",
-      "summary": "A court sentences suspects over charges on 'conspiracy against state security' and 'belonging to a terrorist group'.",
-      "url": "https://www.aljazeera.com/news/2025/11/28/tunisia-hands-long-prison-sentences-to-opposition-business-media-figures?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-11-28T10:47:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "bf5a34578e868d32",
       "title_orig": "Mumbai air pollution: Bombay High Court orders strict monitoring of construction activities, forms five-member committee",
       "summary_orig": "A bench comprising Chief Justice Shree Chandrashekhar and Justice Gautam Ankhad set up an independent five-member committee to inspect construction sites.",
@@ -1830,24 +1821,6 @@
       "geo": {}
     },
     {
-      "id": "3dd2b5a29783f981",
-      "title_orig": "Bulgaria will resubmit draft 2026 budget after protests",
-      "summary_orig": "SOFIA - Bulgaria's government will resubmit to parliament for approval its 2026 budget plan, the first drafted in euros before the country adopts the currency on January 1, the prime minister said late on Thursday, following protests in the capital Sofia.",
-      "lang": "en",
-      "title_en": "Bulgaria will resubmit draft 2026 budget after protests",
-      "summary_en": "SOFIA - Bulgaria's government will resubmit to parliament for approval its 2026 budget plan, the first drafted in euros before the country adopts the currency on January 1, the prime minister said late on Thursday, following protests in the capital Sofia.",
-      "title": "Bulgaria will resubmit draft 2026 budget after protests",
-      "summary": "SOFIA - Bulgaria's government will resubmit to parliament for approval its 2026 budget plan, the first drafted in euros before the country adopts the currency on January 1, the prime minister said late on Thursday, following protests in the capital Sofia.",
-      "url": "https://www.straitstimes.com/world/europe/bulgaria-will-resubmit-draft-2026-budget-after-protests",
-      "source": "The Straits Times World News",
-      "published_at": "2025-11-28T08:49:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ce7558a741fb0e3d",
       "title_orig": "‘A Dreamer living a draconian nightmare’: Teen flying to see family at Thanksgiving deported to Honduras",
       "summary_orig": "Any Lucia Lopez Belloza, 19, was detained at Boston Logan International Airport and sent to a country she has not revisited since childhood",
@@ -1913,42 +1886,6 @@
       "url": "https://www.dawn.com/news/1957896/shooting-of-national-guard-soldiers-in-washington-heralds-troubling-resurgence-of-terrorism-globally-fo",
       "source": "Dawn - Home",
       "published_at": "2025-11-28T07:54:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9e5b905faefb68ca",
-      "title_orig": "German president honours victims of Spanish town bombed by Nazis",
-      "summary_orig": "President Frank-Walter Steinmeier honoured Nazi war victims in Guernica on Friday, becoming the first German leader to visit the Spanish town where hundreds of civilians were killed in 1937.",
-      "lang": "en",
-      "title_en": "German president honours victims of Spanish town bombed by Nazis",
-      "summary_en": "President Frank-Walter Steinmeier honoured Nazi war victims in Guernica on Friday, becoming the first German leader to visit the Spanish town where hundreds of civilians were killed in 1937.",
-      "title": "German president honours victims of Spanish town bombed by Nazis",
-      "summary": "President Frank-Walter Steinmeier honoured Nazi war victims in Guernica on Friday, becoming the first German leader to visit the Spanish town where hundreds of civilians were killed in 1937.",
-      "url": "https://www.thelocal.es/20251128/german-president-to-visit-spanish-town-bombed-by-nazis",
-      "source": "The Local Spain",
-      "published_at": "2025-11-28T07:50:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b62a4e3972328c4c",
-      "title_orig": "Today in Germany: A roundup of the latest news on Friday",
-      "summary_orig": "New Alternative for Germany youth wing set to launch, warnings and protest actions accompany the arrival of Black Friday, Merz urges Trump to reconsider G20 ban on South Africa and more news on Friday, November 28th.",
-      "lang": "en",
-      "title_en": "Today in Germany: A roundup of the latest news on Friday",
-      "summary_en": "New Alternative for Germany youth wing set to launch, warnings and protest actions accompany the arrival of Black Friday, Merz urges Trump to reconsider G20 ban on South Africa and more news on Friday, November 28th.",
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "summary": "New Alternative for Germany youth wing set to launch, warnings and protest actions accompany the arrival of Black Friday, Merz urges Trump to reconsider G20 ban on South Africa and more news on Friday, November 28th.",
-      "url": "https://www.thelocal.de/20251128/today-in-germany-a-roundup-of-the-latest-news-on-friday-102",
-      "source": "The Local Germany",
-      "published_at": "2025-11-28T07:39:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2298,24 +2235,6 @@
       "geo": {}
     },
     {
-      "id": "5f931463b1606b29",
-      "title_orig": "Motorcyclist found dead in Simi Valley embankment; alcohol, speed suspected in crash",
-      "summary_orig": "A 61-year-old Los Angeles County man was killed early Thursday morning after losing control of his motorcycle and crashing along Los Angeles Avenue in Simi Valley, authorities said. The collision was reported around 2:10 a.m. near Los Angeles Avenue and Angus Avenue, east of Runway Street, according to the Simi Valley Police Department. When officers [...]",
-      "lang": "en",
-      "title_en": "Motorcyclist found dead in Simi Valley embankment; alcohol, speed suspected in crash",
-      "summary_en": "A 61-year-old Los Angeles County man was killed early Thursday morning after losing control of his motorcycle and crashing along Los Angeles Avenue in Simi Valley, authorities said. The collision was reported around 2:10 a.m. near Los Angeles Avenue and Angus Avenue, east of Runway Street, according to the Simi Valley Police Department. When officers [...]",
-      "title": "Motorcyclist found dead in Simi Valley embankment; alcohol, speed suspected in crash",
-      "summary": "A 61-year-old Los Angeles County man was killed early Thursday morning after losing control of his motorcycle and crashing along Los Angeles Avenue in Simi Valley, authorities said. The collision was reported around 2:10 a.m. near Los Angeles Avenue and Angus Avenue, east of Runway Street, according to the Simi Valley Police Department. When officers [...]",
-      "url": "https://ktla.com/news/local-news/motorcyclist-found-dead-in-simi-valley-embankment-alcohol-speed-suspected-in-crash/",
-      "source": "KTLA",
-      "published_at": "2025-11-27T19:48:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d8dce3aaba25c29c",
       "title_orig": "Qatar Airways QR23 is declaring an emergency on approach to Manchester",
       "summary_orig": "Pilots of a Dreamliner from Doha to Manchester have declared an emergency. Qatar Airways flight QR23 departed Hamad International Airport in Doha today at 15:18 AST for a 7-hour flight to Manchester. A bit more than 6 hours into the flight, the pilots of the Boeing 787-9 (registration A7-BHA) have declared a general emergency while […] The post Qatar Airways QR23 is declaring an emergency on approach to Manchester appeared first on AIRLIVE .",
@@ -2433,24 +2352,6 @@
       "geo": {}
     },
     {
-      "id": "23164635373a5b71",
-      "title_orig": "Swedish white supremacist jailed for plotting Eurovision terror attack",
-      "summary_orig": "A court in Luxembourg on Thursday handed a Swedish white supremacist a two-year jail sentence for plotting several \"terrorist\" attacks, including against the Eurovision Song Contest.",
-      "lang": "en",
-      "title_en": "Swedish white supremacist jailed for plotting Eurovision terror attack",
-      "summary_en": "A court in Luxembourg on Thursday handed a Swedish white supremacist a two-year jail sentence for plotting several \"terrorist\" attacks, including against the Eurovision Song Contest.",
-      "title": "Swedish white supremacist jailed for plotting Eurovision terror attack",
-      "summary": "A court in Luxembourg on Thursday handed a Swedish white supremacist a two-year jail sentence for plotting several \"terrorist\" attacks, including against the Eurovision Song Contest.",
-      "url": "https://www.thelocal.se/20251127/swedish-white-supremacist-jailed-for-plotting-eurovision-terror-attack",
-      "source": "The Local Sweden",
-      "published_at": "2025-11-27T15:23:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d5e81fb4a504fbdf",
       "title_orig": "Press Release: Lufthansa Systems launches new subsidiary in India",
       "summary_orig": "Lufthansa Systems is pleased to announce the official establishment of its newest subsidiary, Lufthansa Systems India, headquartered in Bengaluru. This strategic expansion marks a significant milestone in the company’s global growth strategy and reinforces its commitment to delivering high-quality IT services to more than 350 airline customers worldwide, including the Lufthansa Group. Lufthansa Systems India... The post Press Release: Lufthansa Systems launches new subsidiary in India appeared first on Runway Girl .",
@@ -2502,24 +2403,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "196d6e69310b8c6f",
-      "title_orig": "What should be in the French 'emergency survival kit'?",
-      "summary_orig": "The French government is advising all residents to create a survival kit to have in their home in the event of a crisis such as war, nuclear accident, cyber-attack or a natural disaster. Here's what they suggest you pack.",
-      "lang": "en",
-      "title_en": "What should be in the French 'emergency survival kit'?",
-      "summary_en": "The French government is advising all residents to create a survival kit to have in their home in the event of a crisis such as war, nuclear accident, cyber-attack or a natural disaster. Here's what they suggest you pack.",
-      "title": "What should be in the French 'emergency survival kit'?",
-      "summary": "The French government is advising all residents to create a survival kit to have in their home in the event of a crisis such as war, nuclear accident, cyber-attack or a natural disaster. Here's what they suggest you pack.",
-      "url": "https://www.thelocal.fr/20251127/what-should-be-in-the-french-emergency-survival-kit",
-      "source": "The Local France",
-      "published_at": "2025-11-27T14:30:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2595,24 +2478,6 @@
       "geo": {}
     },
     {
-      "id": "2ab4a52f92a727fc",
-      "title_orig": "Sweden strikes aid-for-deportation deal with Syrian government",
-      "summary_orig": "Sweden's migration minister said Thursday that the country would cooperate with Damascus to increase deportations of Syrians convicted of crimes in Sweden, saying it was a condition for some aid.",
-      "lang": "en",
-      "title_en": "Sweden strikes aid-for-deportation deal with Syrian government",
-      "summary_en": "Sweden's migration minister said Thursday that the country would cooperate with Damascus to increase deportations of Syrians convicted of crimes in Sweden, saying it was a condition for some aid.",
-      "title": "Sweden strikes aid-for-deportation deal with Syrian government",
-      "summary": "Sweden's migration minister said Thursday that the country would cooperate with Damascus to increase deportations of Syrians convicted of crimes in Sweden, saying it was a condition for some aid.",
-      "url": "https://www.thelocal.se/20251127/sweden-strikes-aid-for-deportation-deal-with-syrian-government",
-      "source": "The Local Sweden",
-      "published_at": "2025-11-27T12:14:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "6815e00548ae4951",
       "title_orig": "A shark kills a woman and seriously wounds another swimmer in Australia",
       "summary_orig": "A shark attacked two mid-20s swimmers at Crowdy Bay National Park in Australia, killing a woman and seriously injuring a man. A bystander’s quick first aid likely saved the survivor before he was airlifted to hospital.",
@@ -2628,24 +2493,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "5a26adf9e59466f5",
-      "title_orig": "Will Italy see more general strikes this winter?",
-      "summary_orig": "Italy faces two major nationwide protests before the end of December, with unions threatening further action over the government's 2026 budget.",
-      "lang": "en",
-      "title_en": "Will Italy see more general strikes this winter?",
-      "summary_en": "Italy faces two major nationwide protests before the end of December, with unions threatening further action over the government's 2026 budget.",
-      "title": "Will Italy see more general strikes this winter?",
-      "summary": "Italy faces two major nationwide protests before the end of December, with unions threatening further action over the government's 2026 budget.",
-      "url": "https://www.thelocal.it/20251127/will-italy-see-more-general-strikes-this-winter",
-      "source": "The Local Italy",
-      "published_at": "2025-11-27T11:35:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2964,24 +2811,6 @@
       }
     },
     {
-      "id": "9cd9a2ff3c3910bc",
-      "title_orig": "Everything that changes about life in Italy in December 2025",
-      "summary_orig": "From tax deadlines and transport strikes to seasonal celebrations, here's what to expect in Italy next month.",
-      "lang": "en",
-      "title_en": "Everything that changes about life in Italy in December 2025",
-      "summary_en": "From tax deadlines and transport strikes to seasonal celebrations, here's what to expect in Italy next month.",
-      "title": "Everything that changes about life in Italy in December 2025",
-      "summary": "From tax deadlines and transport strikes to seasonal celebrations, here's what to expect in Italy next month.",
-      "url": "https://www.thelocal.it/20251126/everything-that-changes-about-life-in-italy-in-december-2025",
-      "source": "The Local Italy",
-      "published_at": "2025-11-26T10:38:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2be43c0439fa3ead",
       "title_orig": "American Airlines flight AA5927 declared an emergency and returned to Philadelphia",
       "summary_orig": "An American Airlines flight to Roanoke returned to Philadelphia after pilots declared an emergency. American Airlines flight AA5927 departed Philadelphia International Airport at 7:24 EST on Tuesday, November 25 2025 for a one-hour flight to Roanoke. The Embraer ERJ 145LR (registration N931AE) climbed out of runway 9L to 18,000 feet until the crew decided to […] The post American Airlines flight AA5927 declared an emergency and returned to Philadelphia appeared first on AIRLIVE .",
@@ -3074,42 +2903,6 @@
       "url": "https://runwaygirlnetwork.com/2025/11/korean-air-sustainable-in-flight-meal-containers/",
       "source": "Runway Girl",
       "published_at": "2025-11-25T14:00:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "baa5606d36454a79",
-      "title_orig": "Denmark faces 'highest level of threat' from cyber attacks",
-      "summary_orig": "Denmark’s intelligence community says the country still remains at a high level of threat from cyber attacks.",
-      "lang": "en",
-      "title_en": "Denmark faces 'highest level of threat' from cyber attacks",
-      "summary_en": "Denmark’s intelligence community says the country still remains at a high level of threat from cyber attacks.",
-      "title": "Denmark faces 'highest level of threat' from cyber attacks",
-      "summary": "Denmark’s intelligence community says the country still remains at a high level of threat from cyber attacks.",
-      "url": "https://www.thelocal.dk/20251125/denmark-faces-highest-level-of-threat-from-cyber-attacks",
-      "source": "The Local Denmark",
-      "published_at": "2025-11-25T13:59:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c01e72c818f34efe",
-      "title_orig": "How does Italy's general strike affect travel on Friday?",
-      "summary_orig": "A 24-hour general strike is impacting rail, flights, and public transport services across Italy on Friday.",
-      "lang": "en",
-      "title_en": "How does Italy's general strike affect travel on Friday?",
-      "summary_en": "A 24-hour general strike is impacting rail, flights, and public transport services across Italy on Friday.",
-      "title": "How does Italy's general strike affect travel on Friday?",
-      "summary": "A 24-hour general strike is impacting rail, flights, and public transport services across Italy on Friday.",
-      "url": "https://www.thelocal.it/20251125/how-will-italys-strikes-affect-travel-on-thursday-and-friday",
-      "source": "The Local Italy",
-      "published_at": "2025-11-25T13:07:04+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3534,24 +3327,6 @@
       "url": "https://www.telegraph.co.uk/news/2025/10/08/two-arrested-after-nursery-cyber-attack-kido/",
       "source": "News",
       "published_at": "2025-10-08T05:52:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "50830592eab9774c",
-      "title_orig": "The key vocabulary you’ll need during a strike in Italy",
-      "summary_orig": "From ‘fasce di garanzia’ to ‘rimborso’, these key words and phrases will come in handy next time you're dealing with a strike in Italy.",
-      "lang": "en",
-      "title_en": "The key vocabulary you’ll need during a strike in Italy",
-      "summary_en": "From ‘fasce di garanzia’ to ‘rimborso’, these key words and phrases will come in handy next time you're dealing with a strike in Italy.",
-      "title": "The key vocabulary you’ll need during a strike in Italy",
-      "summary": "From ‘fasce di garanzia’ to ‘rimborso’, these key words and phrases will come in handy next time you're dealing with a strike in Italy.",
-      "url": "https://www.thelocal.it/20251001/the-key-vocabulary-youll-need-to-navigate-a-strike-in-italy",
-      "source": "The Local Italy",
-      "published_at": "2025-10-01T09:41:14+00:00",
       "tags": [
         "airport/security"
       ],
