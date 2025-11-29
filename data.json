@@ -1,6 +1,51 @@
 {
-  "generated_at": "2025-11-29T21:18:32.655486+00:00",
+  "generated_at": "2025-11-29T21:42:22.468014+00:00",
   "items": [
+    {
+      "id": "208b7b9eae7dd56b",
+      "title_orig": "M56 traffic LIVE as drivers 'stuck for over 30 minutes' near Manchester Airport",
+      "summary_orig": "There are long queues on the motorway",
+      "lang": "en",
+      "title_en": "M56 traffic LIVE as drivers 'stuck for over 30 minutes' near Manchester Airport",
+      "summary_en": "There are long queues on the motorway",
+      "title": "M56 traffic LIVE as drivers 'stuck for over 30 minutes' near Manchester Airport",
+      "summary": "There are long queues on the motorway",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/m56-traffic-live-drivers-stuck-32970983",
+      "source": "MEN - News",
+      "published_at": "2025-11-29T21:28:59+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "e0715dd73b9d2cb3",
+      "title_orig": "Shopping mall shooting wounds 2, prompts Black Friday evacuation in the Bay Area",
+      "summary_orig": "Police in California evacuated a shopping mall on one of the busiest shopping days of the year after a shooting left two people with gunshot wounds.",
+      "lang": "en",
+      "title_en": "Shopping mall shooting wounds 2, prompts Black Friday evacuation in the Bay Area",
+      "summary_en": "Police in California evacuated a shopping mall on one of the busiest shopping days of the year after a shooting left two people with gunshot wounds.",
+      "title": "Shopping mall shooting wounds 2, prompts Black Friday evacuation in the Bay Area",
+      "summary": "Police in California evacuated a shopping mall on one of the busiest shopping days of the year after a shooting left two people with gunshot wounds.",
+      "url": "https://www.kgw.com/article/syndication/associatedpress/a-shopping-mall-shooting-wounds-2-and-prompts-a-black-friday-evacuation-in-the-bay-area/616-8184ed33-e5d5-46ce-a74a-934b1d42d700",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2025-11-29T21:22:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "f815ef6548bd151a",
       "title_orig": "Ukraine releases video showing moment naval drones striking Russian oil tankers in the Black Sea",
@@ -1226,24 +1271,6 @@
       "geo": {}
     },
     {
-      "id": "0172df93cf492a95",
-      "title_orig": "Here’s how ski patrols train to evacuate chairlifts and gondolas when they break down",
-      "summary_orig": "Patrollers at every Colorado ski resort practice lift evacuations annually, something mandated by the Colorado Passenger Tramway Safety Board.",
-      "lang": "en",
-      "title_en": "Here’s how ski patrols train to evacuate chairlifts and gondolas when they break down",
-      "summary_en": "Patrollers at every Colorado ski resort practice lift evacuations annually, something mandated by the Colorado Passenger Tramway Safety Board.",
-      "title": "Here’s how ski patrols train to evacuate chairlifts and gondolas when they break down",
-      "summary": "Patrollers at every Colorado ski resort practice lift evacuations annually, something mandated by the Colorado Passenger Tramway Safety Board.",
-      "url": "https://www.denverpost.com/2025/11/29/chairlift-evacuation-colorado-ski-patrol/",
-      "source": "The Denver Post",
-      "published_at": "2025-11-29T13:00:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b92c10bb746d8c3d",
       "title_orig": "Could the PLA use long-range rockets against ships in an attack on Taiwan?",
       "summary_orig": "The People’s Liberation Army’s long-range rocket launchers can hit moving targets at sea during island seizure operations, according to mainland Chinese state media.\nIn a report on Thursday, state broadcaster CCTV gave the first official confirmation that the PLA’s PHL-03 land-based rocket launchers could be a threat to moving surface vessels more than 100km (62 miles) away, indicating potential use against ships.\nPreviously, the launchers were thought to only pose a threat to land...",
@@ -1831,24 +1858,6 @@
       "url": "https://www.aljazeera.com/news/2025/11/29/russia-outlaws-human-rights-watch-crackdown-critics-ukraine-war?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
       "published_at": "2025-11-29T06:57:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "a307da8be8607d6c",
-      "title_orig": "Russia-Ukraine war updates: Ukraine comes under deadly attacks",
-      "summary_orig": "These were the updates about the Russia-Ukraine war on Saturday, November 29, 2025.",
-      "lang": "en",
-      "title_en": "Russia-Ukraine war updates: Ukraine comes under deadly attacks",
-      "summary_en": "These were the updates about the Russia-Ukraine war on Saturday, November 29, 2025.",
-      "title": "Russia-Ukraine war updates: Ukraine comes under deadly attacks",
-      "summary": "These were the updates about the Russia-Ukraine war on Saturday, November 29, 2025.",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/11/29/russia-ukraine-war-live-kyiv-comes-under-deadly-drone-missile-attacks?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-11-29T06:48:39+00:00",
       "tags": [
         "airport/security"
       ],
