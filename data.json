@@ -1,6 +1,105 @@
 {
-  "generated_at": "2025-12-05T20:22:27.848322+00:00",
+  "generated_at": "2025-12-05T20:49:39.225078+00:00",
   "items": [
+    {
+      "id": "5ef963f26424b3c9",
+      "title_orig": "Boy, 14, dies after severe head injury as baby as man is charged with murder",
+      "summary_orig": "A 42-year-old was arrested at a major city airport on suspicion on murder",
+      "lang": "en",
+      "title_en": "Boy, 14, dies after severe head injury as baby as man is charged with murder",
+      "summary_en": "A 42-year-old was arrested at a major city airport on suspicion on murder",
+      "title": "Boy, 14, dies after severe head injury as baby as man is charged with murder",
+      "summary": "A 42-year-old was arrested at a major city airport on suspicion on murder",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/boy-14-dies-after-severe-33011446",
+      "source": "Liverpool Echo - News",
+      "published_at": "2025-12-05T20:33:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2158de0d8533689f",
+      "title_orig": "Class action launched against Nova Scotia Power over data breach, alleged overbilling",
+      "summary_orig": "A Nova Scotia injury law firm is moving forward in its efforts to launch a class action lawsuit against Nova Scotia Power in light of this past spring's cyberattack.",
+      "lang": "en",
+      "title_en": "Class action launched against Nova Scotia Power over data breach, alleged overbilling",
+      "summary_en": "A Nova Scotia injury law firm is moving forward in its efforts to launch a class action lawsuit against Nova Scotia Power in light of this past spring's cyberattack.",
+      "title": "Class action launched against Nova Scotia Power over data breach, alleged overbilling",
+      "summary": "A Nova Scotia injury law firm is moving forward in its efforts to launch a class action lawsuit against Nova Scotia Power in light of this past spring's cyberattack.",
+      "url": "https://globalnews.ca/news/11563936/nova-scotia-power-class-action/",
+      "source": "globalnews.ca",
+      "published_at": "2025-12-05T20:28:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d19402cf36a46614",
+      "title_orig": "Police continue to investigate death of man who was found in Malaysian airport",
+      "summary_orig": "A murder probe was launched after Callum Luxton's death",
+      "lang": "en",
+      "title_en": "Police continue to investigate death of man who was found in Malaysian airport",
+      "summary_en": "A murder probe was launched after Callum Luxton's death",
+      "title": "Police continue to investigate death of man who was found in Malaysian airport",
+      "summary": "A murder probe was launched after Callum Luxton's death",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/police-continue-investigate-death-man-33010403",
+      "source": "MEN - News",
+      "published_at": "2025-12-05T20:24:16+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "4439338e6f327668",
+      "title_orig": "‘Item of concern’ that caused evacuation in Hāwera was ‘old ordnance’",
+      "summary_orig": "Residents were told to leave their homes after the item was discovered, but police discovered it was an ‘inert’ ordnance.",
+      "lang": "en",
+      "title_en": "‘Item of concern’ that caused evacuation in Hāwera was ‘old ordnance’",
+      "summary_en": "Residents were told to leave their homes after the item was discovered, but police discovered it was an ‘inert’ ordnance.",
+      "title": "‘Item of concern’ that caused evacuation in Hāwera was ‘old ordnance’",
+      "summary": "Residents were told to leave their homes after the item was discovered, but police discovered it was an ‘inert’ ordnance.",
+      "url": "https://www.stuff.co.nz/nz-news/360910364/residents-evacuated-following-discovery-item-concern-hawera-property",
+      "source": "Stuff - /",
+      "published_at": "2025-12-05T20:13:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2b28502e308f672a",
+      "title_orig": "Trump has adopted racist conspiracy theories in his extraordinary attack on Europe",
+      "summary_orig": "Trump’s new blueprint for international policy is racist and claims that Europe faces ‘civilization erasure’ are a boost to far right and conspiracy theorists, says world affairs editor Sam Kiley",
+      "lang": "en",
+      "title_en": "Trump has adopted racist conspiracy theories in his extraordinary attack on Europe",
+      "summary_en": "Trump’s new blueprint for international policy is racist and claims that Europe faces ‘civilization erasure’ are a boost to far right and conspiracy theorists, says world affairs editor Sam Kiley",
+      "title": "Trump has adopted racist conspiracy theories in his extraordinary attack on Europe",
+      "summary": "Trump’s new blueprint for international policy is racist and claims that Europe faces ‘civilization erasure’ are a boost to far right and conspiracy theorists, says world affairs editor Sam Kiley",
+      "url": "https://www.independent.co.uk/news/world/europe/trump-europe-us-migrants-civilization-b2878909.html",
+      "source": "The Independent World",
+      "published_at": "2025-12-05T20:12:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "04e54df43551d1ed",
       "title_orig": "Bulgaria rescuing sanctioned tanker that was hit by Ukrainian drone",
@@ -13,24 +112,6 @@
       "url": "https://www.straitstimes.com/world/europe/bulgaria-rescuing-sanctioned-tanker-that-was-hit-by-ukrainian-drone",
       "source": "The Straits Times World News",
       "published_at": "2025-12-05T20:10:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2b28502e308f672a",
-      "title_orig": "Trump has adopted racist conspiracy theories in his extraordinary attack on Europe",
-      "summary_orig": "Trump’s new blueprint for international policy is racist and claims that Europe faces ‘civilization erasure’ in a boost to far right and conspiracy theorists, says world affairs editor Sam Kiley",
-      "lang": "en",
-      "title_en": "Trump has adopted racist conspiracy theories in his extraordinary attack on Europe",
-      "summary_en": "Trump’s new blueprint for international policy is racist and claims that Europe faces ‘civilization erasure’ in a boost to far right and conspiracy theorists, says world affairs editor Sam Kiley",
-      "title": "Trump has adopted racist conspiracy theories in his extraordinary attack on Europe",
-      "summary": "Trump’s new blueprint for international policy is racist and claims that Europe faces ‘civilization erasure’ in a boost to far right and conspiracy theorists, says world affairs editor Sam Kiley",
-      "url": "https://www.independent.co.uk/news/world/europe/trump-europe-us-migrants-civilization-b2878909.html",
-      "source": "The Independent World",
-      "published_at": "2025-12-05T20:05:57+00:00",
       "tags": [
         "airport/security"
       ],
@@ -326,6 +407,24 @@
       "geo": {}
     },
     {
+      "id": "5c13a7bc5711dabd",
+      "title_orig": "Suspect in DC pipe bomb case said to have confessed in interviews with investigators, AP sources say",
+      "summary_orig": "The man accused of planting a pair of pipe bombs outside the headquarters of the Republican and Democratic national parties in Washington on the eve of the U.S. Capitol attack confessed to the act in interviews with investigators.",
+      "lang": "en",
+      "title_en": "Suspect in DC pipe bomb case said to have confessed in interviews with investigators, AP sources say",
+      "summary_en": "The man accused of planting a pair of pipe bombs outside the headquarters of the Republican and Democratic national parties in Washington on the eve of the U.S. Capitol attack confessed to the act in interviews with investigators.",
+      "title": "Suspect in DC pipe bomb case said to have confessed in interviews with investigators, AP sources say",
+      "summary": "The man accused of planting a pair of pipe bombs outside the headquarters of the Republican and Democratic national parties in Washington on the eve of the U.S. Capitol attack confessed to the act in interviews with investigators.",
+      "url": "https://www.seattletimes.com/nation-world/nation/virginia-man-charged-with-planting-pipe-bombs-in-dc-on-eve-of-capitol-riot-appears-in-court/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-12-05T18:26:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "41dfea17910459b1",
       "title_orig": "Virginia man charged with planting pipe bombs in DC on eve of Capitol riot appears in court",
       "summary_orig": "A Virginia man on Friday made his first court appearance on charges that he planted a pair of pipe bombs outside the headquarters of the Republican and Democratic national parties in Washington on the eve of a mob’s attack on U.S. Capitol",
@@ -426,24 +525,6 @@
       "summary": "Stagecoach workers in Cambridge will strike for five days over the Christmas period",
       "url": "https://www.cambridge-news.co.uk/news/cambridge-news/stagecoach-boss-says-christmas-strikes-33009216",
       "source": "Cambridgeshire Live - Home",
-      "published_at": "2025-12-05T18:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "886ed2f3e2490ae1",
-      "title_orig": "'World's first drone war': Russia-Ukraine war pits technology against manpower",
-      "summary_orig": "When it comes to weaponry, Russia has strength in manpower despite Ukraine's early technological edge while Europe's arms production efforts are running into infrastructure hurdles.",
-      "lang": "en",
-      "title_en": "'World's first drone war': Russia-Ukraine war pits technology against manpower",
-      "summary_en": "When it comes to weaponry, Russia has strength in manpower despite Ukraine's early technological edge while Europe's arms production efforts are running into infrastructure hurdles.",
-      "title": "'World's first drone war': Russia-Ukraine war pits technology against manpower",
-      "summary": "When it comes to weaponry, Russia has strength in manpower despite Ukraine's early technological edge while Europe's arms production efforts are running into infrastructure hurdles.",
-      "url": "https://www.abc.net.au/news/2025-12-06/russia-ukraine-drones-europe-warfare-technology-weapons/106088044",
-      "source": "Just In",
       "published_at": "2025-12-05T18:00:00+00:00",
       "tags": [
         "airport/security"
@@ -609,24 +690,6 @@
       "published_at": "2025-12-05T17:26:30+00:00",
       "tags": [
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e3eef7fb5a8a4e8c",
-      "title_orig": "Much-loved mum with terminal cancer gets married in hospital days before her death",
-      "summary_orig": "Laura Hyndman's family have praised North Manchester General Hospital for going 'above and beyond'",
-      "lang": "en",
-      "title_en": "Much-loved mum with terminal cancer gets married in hospital days before her death",
-      "summary_en": "Laura Hyndman's family have praised North Manchester General Hospital for going 'above and beyond'",
-      "title": "Much-loved mum with terminal cancer gets married in hospital days before her death",
-      "summary": "Laura Hyndman's family have praised North Manchester General Hospital for going 'above and beyond'",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/much-loved-mum-gets-married-33005974",
-      "source": "MEN - News",
-      "published_at": "2025-12-05T17:26:29+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
@@ -1019,24 +1082,6 @@
       }
     },
     {
-      "id": "a6dbad4dadfeeab7",
-      "title_orig": "France takes anti-drone measures after flight over nuclear submarine base",
-      "summary_orig": "An anti-drone and search operation was launched after five drones were detected over a base that houses France's nuclear deterrent submarines off its northwestern coast on Thursday evening.",
-      "lang": "en",
-      "title_en": "France takes anti-drone measures after flight over nuclear submarine base",
-      "summary_en": "An anti-drone and search operation was launched after five drones were detected over a base that houses France's nuclear deterrent submarines off its northwestern coast on Thursday evening.",
-      "title": "France takes anti-drone measures after flight over nuclear submarine base",
-      "summary": "An anti-drone and search operation was launched after five drones were detected over a base that houses France's nuclear deterrent submarines off its northwestern coast on Thursday evening.",
-      "url": "https://www.france24.com/en/live-news/20251205-france-takes-anti-drone-measures-after-flight-over-nuclear-sub-base",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-12-05T15:37:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "46036d89e6c93ef4",
       "title_orig": "France investigates reports of drones over nuclear sub base",
       "summary_orig": "PARIS, Dec 5 - French prosecutors are investigating after drones were suspected to have flown over a nuclear submarine base on the Atlantic coast late on Thursday, a prosecutor in charge of military affairs in the city of Rennes said on Friday.",
@@ -1057,12 +1102,12 @@
     {
       "id": "0b568709c4e2e1e8",
       "title_orig": "'I don't want to be part of this war machine': Young Germans protest against military service plans",
-      "summary_orig": "Young people have taken to the streets of Berlin to protest against the German parliament's decision to introduce voluntary military service to boost national defences after Russia's full-scale invasion of Ukraine.",
+      "summary_orig": "Germany is introducing voluntary military service to boost national defences after Russia's full-scale invasion of Ukraine.",
       "lang": "en",
       "title_en": "'I don't want to be part of this war machine': Young Germans protest against military service plans",
-      "summary_en": "Young people have taken to the streets of Berlin to protest against the German parliament's decision to introduce voluntary military service to boost national defences after Russia's full-scale invasion of Ukraine.",
+      "summary_en": "Germany is introducing voluntary military service to boost national defences after Russia's full-scale invasion of Ukraine.",
       "title": "'I don't want to be part of this war machine': Young Germans protest against military service plans",
-      "summary": "Young people have taken to the streets of Berlin to protest against the German parliament's decision to introduce voluntary military service to boost national defences after Russia's full-scale invasion of Ukraine.",
+      "summary": "Germany is introducing voluntary military service to boost national defences after Russia's full-scale invasion of Ukraine.",
       "url": "https://www.bbc.com/news/videos/cx25031x23ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2025-12-05T15:35:40+00:00",
@@ -2216,24 +2261,6 @@
       "geo": {}
     },
     {
-      "id": "c3ad18f2962898b6",
-      "title_orig": "Russia says Ukrainian attack caused fire at Azov Sea port of Temryuk",
-      "summary_orig": "MOSCOW, Dec 5 - A Ukrainian drone attack caused a fire at Russia's Azov Sea port of Temryuk, the local emergencies centre said on Friday.",
-      "lang": "en",
-      "title_en": "Russia says Ukrainian attack caused fire at Azov Sea port of Temryuk",
-      "summary_en": "MOSCOW, Dec 5 - A Ukrainian drone attack caused a fire at Russia's Azov Sea port of Temryuk, the local emergencies centre said on Friday.",
-      "title": "Russia says Ukrainian attack caused fire at Azov Sea port of Temryuk",
-      "summary": "MOSCOW, Dec 5 - A Ukrainian drone attack caused a fire at Russia's Azov Sea port of Temryuk, the local emergencies centre said on Friday.",
-      "url": "https://www.straitstimes.com/world/europe/russia-says-ukrainian-attack-caused-fire-at-azov-sea-port-of-temryuk",
-      "source": "The Straits Times World News",
-      "published_at": "2025-12-05T09:26:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7fddffe6d8a94ae4",
       "title_orig": "Air France flight AF1005 from Rome to Paris just diverted to Zurich",
       "summary_orig": "Instead to land in Paris, an Air France flight from Italy diverted to Switzerland. The Airbus A320-200 (registration F-GKXZ) departed Rome Leonardo da Vinci International Airport to Paris Charles de Gaulle Airport this morning at 07:09 CET, delayed more than one hour. But after more than one hour and 30 minutes into the flight, the […] The post Air France flight AF1005 from Rome to Paris just diverted to Zurich appeared first on AIRLIVE .",
@@ -2425,24 +2452,6 @@
       "url": "https://www.hindustantimes.com/india-news/dgca-withdraws-new-pilot-rest-norms-after-indigo-cancellation-chaos-101764921525081.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2025-12-05T08:02:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0005ba447821a218",
-      "title_orig": "How did drones look to target Zelenskyy's plane over the Irish Sea?",
-      "summary_orig": "Where did the drones come from? And what does it say about Ireland’s capacity to deal with this kind of security incident?",
-      "lang": "en",
-      "title_en": "How did drones look to target Zelenskyy's plane over the Irish Sea?",
-      "summary_en": "Where did the drones come from? And what does it say about Ireland’s capacity to deal with this kind of security incident?",
-      "title": "How did drones look to target Zelenskyy's plane over the Irish Sea?",
-      "summary": "Where did the drones come from? And what does it say about Ireland’s capacity to deal with this kind of security incident?",
-      "url": "https://www.thejournal.ie/zelenskyy-drones-plane-ireland-visit-podcast-explained-6893796-Dec2025/",
-      "source": "TheJournal.ie",
-      "published_at": "2025-12-05T08:00:13+00:00",
       "tags": [
         "airport/security"
       ],
