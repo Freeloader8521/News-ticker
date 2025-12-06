@@ -1,6 +1,60 @@
 {
-  "generated_at": "2025-12-06T08:23:08.648273+00:00",
+  "generated_at": "2025-12-06T08:51:24.779330+00:00",
   "items": [
+    {
+      "id": "724691dabd4683d1",
+      "title_orig": "Russian drones, missiles hit railway hub near Ukraine's capital, railway says",
+      "summary_orig": "KYIV, Dec 6 - A railway hub near Kyiv was attacked during a large-scale Russian drone and missile attack that damaged the depot and railway carriages, Ukrainian state railway company Ukrzaliznytsia said on Saturday.",
+      "lang": "en",
+      "title_en": "Russian drones, missiles hit railway hub near Ukraine's capital, railway says",
+      "summary_en": "KYIV, Dec 6 - A railway hub near Kyiv was attacked during a large-scale Russian drone and missile attack that damaged the depot and railway carriages, Ukrainian state railway company Ukrzaliznytsia said on Saturday.",
+      "title": "Russian drones, missiles hit railway hub near Ukraine's capital, railway says",
+      "summary": "KYIV, Dec 6 - A railway hub near Kyiv was attacked during a large-scale Russian drone and missile attack that damaged the depot and railway carriages, Ukrainian state railway company Ukrzaliznytsia said on Saturday.",
+      "url": "https://www.straitstimes.com/world/europe/russian-drones-missiles-hit-railway-hub-near-ukraines-capital-railway-says",
+      "source": "The Straits Times World News",
+      "published_at": "2025-12-06T08:41:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4402ba0f6ebf0f79",
+      "title_orig": "Bomb threat emails disrupt three flights to Hyderabad in 12 Hours; one flight turns back mid-air",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Bomb threat emails disrupt three flights to Hyderabad in 12 Hours; one flight turns back mid-air",
+      "summary_en": "",
+      "title": "Bomb threat emails disrupt three flights to Hyderabad in 12 Hours; one flight turns back mid-air",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/bomb-threat-emails-disrupt-three-flights-to-hyderabad-in-12-hours-one-flight-turns-back-mid-air/article70364943.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-12-06T08:37:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c4d13bde6909b04f",
+      "title_orig": "Jet2 flight makes emergency landing after passenger allegedly attacks cabin crew",
+      "summary_orig": "A Jet2 flight from Edinburgh to Tenerife was forced to make a priority landing after a passenger allegedly attacked a cabin crew member mid-air, with police meeting the aircraft on arrival",
+      "lang": "en",
+      "title_en": "Jet2 flight makes emergency landing after passenger allegedly attacks cabin crew",
+      "summary_en": "A Jet2 flight from Edinburgh to Tenerife was forced to make a priority landing after a passenger allegedly attacked a cabin crew member mid-air, with police meeting the aircraft on arrival",
+      "title": "Jet2 flight makes emergency landing after passenger allegedly attacks cabin crew",
+      "summary": "A Jet2 flight from Edinburgh to Tenerife was forced to make a priority landing after a passenger allegedly attacked a cabin crew member mid-air, with police meeting the aircraft on arrival",
+      "url": "https://www.nottinghampost.com/news/uk-world-news/jet2-flight-makes-emergency-landing-10689862",
+      "source": "Nottinghamshire Live - frontpage",
+      "published_at": "2025-12-06T08:15:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "b0b7f486cc47078a",
       "title_orig": "9 terrorists killed in 2 intelligence-based operations in KP: ISPR",
@@ -20,22 +74,31 @@
       "geo": {}
     },
     {
-      "id": "724691dabd4683d1",
-      "title_orig": "Russian drones, missiles hit railway hub near Ukraine's capital, railway says",
-      "summary_orig": "KYIV, Dec 6 - A railway hub near Kyiv was attacked during a large-scale Russian drone and missile attack that damaged the depot and railway carriages, Ukrainian state railway company Ukrzaliznytsia said on Saturday.",
+      "id": "20c9636030079ea1",
+      "title_orig": "Putin's assassins went through London Waterloo station with deadly Novichok which could have killed hundreds",
+      "summary_orig": "They also stayed at hotels in the capital and used the Tube, Heathrow and Gatwick airports",
       "lang": "en",
-      "title_en": "Russian drones, missiles hit railway hub near Ukraine's capital, railway says",
-      "summary_en": "KYIV, Dec 6 - A railway hub near Kyiv was attacked during a large-scale Russian drone and missile attack that damaged the depot and railway carriages, Ukrainian state railway company Ukrzaliznytsia said on Saturday.",
-      "title": "Russian drones, missiles hit railway hub near Ukraine's capital, railway says",
-      "summary": "KYIV, Dec 6 - A railway hub near Kyiv was attacked during a large-scale Russian drone and missile attack that damaged the depot and railway carriages, Ukrainian state railway company Ukrzaliznytsia said on Saturday.",
-      "url": "https://www.straitstimes.com/world/europe/russian-drones-missiles-hit-railway-hub-near-ukraines-capital-railway-says",
-      "source": "The Straits Times World News",
-      "published_at": "2025-12-06T08:01:12+00:00",
+      "title_en": "Putin's assassins went through London Waterloo station with deadly Novichok which could have killed hundreds",
+      "summary_en": "They also stayed at hotels in the capital and used the Tube, Heathrow and Gatwick airports",
+      "title": "Putin's assassins went through London Waterloo station with deadly Novichok which could have killed hundreds",
+      "summary": "They also stayed at hotels in the capital and used the Tube, Heathrow and Gatwick airports",
+      "url": "https://www.standard.co.uk/news/politics/putin-novichok-skripals-salisbury-london-waterloo-rail-station-tube-b1261258.html",
+      "source": "The Standard News",
+      "published_at": "2025-12-06T08:08:20+00:00",
       "tags": [
+        "LHR",
+        "United Kingdom",
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
     },
     {
       "id": "84fa30fca0c7b87f",
@@ -58,12 +121,12 @@
     {
       "id": "27f01cc851931c34",
       "title_orig": "IndiGo flight disruptions Day 5: Government imposes caps on air ticket prices amid ‘unusually high fares’",
-      "summary_orig": "Last time the government-imposed fare caps was in May 2020; IndiGo has cancelled over 400 flights from four major airports on Saturday (December 6, 2025)",
+      "summary_orig": "The last time the Government imposed fare caps was in May 2020; IndiGo has cancelled over 400 flights from four major airports on December 6",
       "lang": "en",
       "title_en": "IndiGo flight disruptions Day 5: Government imposes caps on air ticket prices amid ‘unusually high fares’",
-      "summary_en": "Last time the government-imposed fare caps was in May 2020; IndiGo has cancelled over 400 flights from four major airports on Saturday (December 6, 2025)",
+      "summary_en": "The last time the Government imposed fare caps was in May 2020; IndiGo has cancelled over 400 flights from four major airports on December 6",
       "title": "IndiGo flight disruptions Day 5: Government imposes caps on air ticket prices amid ‘unusually high fares’",
-      "summary": "Last time the government-imposed fare caps was in May 2020; IndiGo has cancelled over 400 flights from four major airports on Saturday (December 6, 2025)",
+      "summary": "The last time the Government imposed fare caps was in May 2020; IndiGo has cancelled over 400 flights from four major airports on December 6",
       "url": "https://www.thehindu.com/news/national/indigo-flight-disruptions-day-5-civil-aviation-ministry-directive-cap-on-ticket-prices/article70364991.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2025-12-06T07:46:12+00:00",
@@ -227,24 +290,6 @@
       "geo": {}
     },
     {
-      "id": "f56565e33b724d32",
-      "title_orig": "Fears Birmingham bin strike is spilling into neighbouring area",
-      "summary_orig": "Waste could be crossing the border between Birmingham and Solihull it was heard during a council meeting",
-      "lang": "en",
-      "title_en": "Fears Birmingham bin strike is spilling into neighbouring area",
-      "summary_en": "Waste could be crossing the border between Birmingham and Solihull it was heard during a council meeting",
-      "title": "Fears Birmingham bin strike is spilling into neighbouring area",
-      "summary": "Waste could be crossing the border between Birmingham and Solihull it was heard during a council meeting",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/fears-birmingham-bin-strike-spilling-32989601",
-      "source": "Birmingham Live - News",
-      "published_at": "2025-12-06T06:45:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "02eb8eb7401e3178",
       "title_orig": "IndiGo flight disruptions Day 5: airline cancels over 400 flights from four major airports including Delhi, Mumbai on Dec. 6",
       "summary_orig": "42 flights cancelled at Pune airport; IndiGo  announced resumption of nine of its 11 flights from Jammu Airport, but cancelled seven flights from Srinagar",
@@ -256,24 +301,6 @@
       "url": "https://www.thehindu.com/news/national/indigo-flight-disruptions-day-5-airline-cancels-over-200-flights-from-delhi-mumbai-on-dec-6/article70364816.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2025-12-06T06:35:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "95809c5e5ef2fdcc",
-      "title_orig": "'I was told breast lump was 'just a duct' - but it was terminal'",
-      "summary_orig": "Shanice Bennett was reassured by her GP that a breast lump was likely a blocked milk duct",
-      "lang": "en",
-      "title_en": "'I was told breast lump was 'just a duct' - but it was terminal'",
-      "summary_en": "Shanice Bennett was reassured by her GP that a breast lump was likely a blocked milk duct",
-      "title": "'I was told breast lump was 'just a duct' - but it was terminal'",
-      "summary": "Shanice Bennett was reassured by her GP that a breast lump was likely a blocked milk duct",
-      "url": "https://www.birminghammail.co.uk/news/health/i-told-breast-lump-just-33004545",
-      "source": "Birmingham Live - News",
-      "published_at": "2025-12-06T06:34:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -323,6 +350,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6f8aaf0d9e8cb4a9",
+      "title_orig": "Live: Russia launches massive overnight attack on Ukraine, wounding three, Kyiv says",
+      "summary_orig": "Russia launched a massive overnight assault on the Kyiv region early Saturday, firing drones and missiles that wounded three people and triggered air-raid alerts across large parts of the country. In Miami, US and Ukrainian officials are extending negotiations with both sides agreeing that \"real progress\" depends on Russia's willingness to end the war. Follow our liveblog for the latest updates.",
+      "lang": "en",
+      "title_en": "Live: Russia launches massive overnight attack on Ukraine, wounding three, Kyiv says",
+      "summary_en": "Russia launched a massive overnight assault on the Kyiv region early Saturday, firing drones and missiles that wounded three people and triggered air-raid alerts across large parts of the country. In Miami, US and Ukrainian officials are extending negotiations with both sides agreeing that \"real progress\" depends on Russia's willingness to end the war. Follow our liveblog for the latest updates.",
+      "title": "Live: Russia launches massive overnight attack on Ukraine, wounding three, Kyiv says",
+      "summary": "Russia launched a massive overnight assault on the Kyiv region early Saturday, firing drones and missiles that wounded three people and triggered air-raid alerts across large parts of the country. In Miami, US and Ukrainian officials are extending negotiations with both sides agreeing that \"real progress\" depends on Russia's willingness to end the war. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/europe/20251206-live-russia-launches-massive-overnight-attack-on-ukraine-wounding-three-kyiv-says",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-12-06T06:17:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1478,33 +1523,6 @@
       "geo": {}
     },
     {
-      "id": "20c9636030079ea1",
-      "title_orig": "Putin's assassins went through London Waterloo station with deadly Novichok which could have killed hundreds",
-      "summary_orig": "They also stayed at hotels in the capital and used the Tube, Heathrow and Gatwick airports",
-      "lang": "en",
-      "title_en": "Putin's assassins went through London Waterloo station with deadly Novichok which could have killed hundreds",
-      "summary_en": "They also stayed at hotels in the capital and used the Tube, Heathrow and Gatwick airports",
-      "title": "Putin's assassins went through London Waterloo station with deadly Novichok which could have killed hundreds",
-      "summary": "They also stayed at hotels in the capital and used the Tube, Heathrow and Gatwick airports",
-      "url": "https://www.standard.co.uk/news/politics/putin-novichok-skripals-salisbury-london-waterloo-rail-station-tube-b1261258.html",
-      "source": "The Standard News",
-      "published_at": "2025-12-05T18:45:02+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
       "id": "3470196c54e09f9a",
       "title_orig": "US to ban travelers from over 30 countries after National Guard attack",
       "summary_orig": "Over the course of a little more than a week, the administration has halted asylum decisions, paused processing of immigration-related benefits for people in the U.S. from the 19 travel ban countries and halted visas for Afghans who assisted the U.S. war effort.",
@@ -1921,24 +1939,6 @@
       "url": "https://www.thejournal.ie/taxi-drivers-protest-dublin-suspended-6893498-Dec2025/",
       "source": "TheJournal.ie",
       "published_at": "2025-12-05T16:05:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b3b52e6dbce62b2a",
-      "title_orig": "Shocking number of arrests and 19 banned from city centre in Old Market Square crackdown",
-      "summary_orig": "'Come into the city to intimidate and strike fear in others - we will make sure you can never come in again'",
-      "lang": "en",
-      "title_en": "Shocking number of arrests and 19 banned from city centre in Old Market Square crackdown",
-      "summary_en": "'Come into the city to intimidate and strike fear in others - we will make sure you can never come in again'",
-      "title": "Shocking number of arrests and 19 banned from city centre in Old Market Square crackdown",
-      "summary": "'Come into the city to intimidate and strike fear in others - we will make sure you can never come in again'",
-      "url": "https://www.nottinghampost.com/news/nottingham-news/shocking-number-arrests-19-banned-10689210",
-      "source": "Nottinghamshire Live - frontpage",
-      "published_at": "2025-12-05T16:00:47+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2783,24 +2783,6 @@
       "geo": {}
     },
     {
-      "id": "2d201e7a2c3f65fc",
-      "title_orig": "Geese attack leaves Texas woman, 72, with broken pelvis and internal bleeding",
-      "summary_orig": "Lydia West, 72, regularly feeds birds but on Monday was attacked by a gaggle of geese which left her hospitalised with internal bleeding and breaks to her pelvis",
-      "lang": "en",
-      "title_en": "Geese attack leaves Texas woman, 72, with broken pelvis and internal bleeding",
-      "summary_en": "Lydia West, 72, regularly feeds birds but on Monday was attacked by a gaggle of geese which left her hospitalised with internal bleeding and breaks to her pelvis",
-      "title": "Geese attack leaves Texas woman, 72, with broken pelvis and internal bleeding",
-      "summary": "Lydia West, 72, regularly feeds birds but on Monday was attacked by a gaggle of geese which left her hospitalised with internal bleeding and breaks to her pelvis",
-      "url": "https://www.independent.co.uk/news/world/americas/goose-attack-broken-pelvis-internal-bleeding-b2878646.html",
-      "source": "The Independent World",
-      "published_at": "2025-12-05T09:41:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4efd6e61ebc7b5aa",
       "title_orig": "Flight operations halted at Edinburgh Airport, Delta DL208 is declaring an emergency due to low fuel",
       "summary_orig": "Pilots of a Boeing 767 have declared an emergency, the flight is diverting. Delta Air Lines flight DL208 was scheduled to land in Edinburgh at 09:45 GMT after a 6 hours and 40 minutes flight from New York JFK Airport. The Boeing 767-300ER (registration N1603) was put on hold at 09:15 GMT, holding 9,000 feet […] The post Flight operations halted at Edinburgh Airport, Delta DL208 is declaring an emergency due to low fuel appeared first on AIRLIVE .",
@@ -2911,24 +2893,6 @@
       "url": "https://www.thelocal.se/20251205/why-does-the-swedish-right-love-to-bash-svt",
       "source": "The Local Sweden",
       "published_at": "2025-12-05T08:37:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5ff6a903b5264d33",
-      "title_orig": "Edinburgh Airport: 'Burning smell' forces US-bound flight to make emergency landing at Edinburgh Airport",
-      "summary_orig": "Passengers were rebooked on other flights to their final destinations.",
-      "lang": "en",
-      "title_en": "Edinburgh Airport: 'Burning smell' forces US-bound flight to make emergency landing at Edinburgh Airport",
-      "summary_en": "Passengers were rebooked on other flights to their final destinations.",
-      "title": "Edinburgh Airport: 'Burning smell' forces US-bound flight to make emergency landing at Edinburgh Airport",
-      "summary": "Passengers were rebooked on other flights to their final destinations.",
-      "url": "https://www.scotsman.com/news/scottish-news/us-bound-flight-makes-emergency-landing-at-scots-airport-after-burning-smell-5430574",
-      "source": "The Scotsman",
-      "published_at": "2025-12-05T08:22:04+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3507,24 +3471,6 @@
       "published_at": "2025-12-03T20:11:02+00:00",
       "tags": [
         "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "a64204b1a267abfb",
-      "title_orig": "China slams UK for delaying decision again on massive new London mega embassy",
-      "summary_orig": "The proposed structure at Royal Mint Court, near the Tower of London, would be the largest embassy in Europe, covering 20,000 square metres.",
-      "lang": "en",
-      "title_en": "China slams UK for delaying decision again on massive new London mega embassy",
-      "summary_en": "The proposed structure at Royal Mint Court, near the Tower of London, would be the largest embassy in Europe, covering 20,000 square metres.",
-      "title": "China slams UK for delaying decision again on massive new London mega embassy",
-      "summary": "The proposed structure at Royal Mint Court, near the Tower of London, would be the largest embassy in Europe, covering 20,000 square metres.",
-      "url": "http://www.euronews.com/2025/12/03/china-slams-uk-for-delaying-decision-again-on-massive-new-london-mega-embassy",
-      "source": "News | Euronews RSS",
-      "published_at": "2025-12-03T19:02:29+00:00",
-      "tags": [
-        "diplomatic"
       ],
       "type": "major news",
       "geo": {}
