@@ -631,7 +631,7 @@ with colFeed:
             st.markdown(f"[Read more →]({it['url']})")
         st.markdown("---")
 
-# Social media + X list feed on the right
+# Social media + X OSINT tabs on the right
 with colSocial:
     st.subheader("Social media")
 
@@ -650,18 +650,60 @@ with colSocial:
             st.markdown(f"[Open source]({it['url']})")
         st.markdown("---")
 
-    # X / Twitter list embed
-    st.markdown("#### X security OSINT list")
-    twitter_html = """
+    st.markdown("#### X / OSINT feeds")
+
+    tab1, tab2, tab3, tab4 = st.tabs(
+        ["SentDefender", "IntelDoge", "BNO News", "OSINTdefender"]
+    )
+
+    sentdef_html = """
     <a class="twitter-timeline"
        data-theme="dark"
        data-chrome="nofooter noheader transparent"
-       href="https://twitter.com/i/lists/1997337803051397275">
-       Security-OSINT Feed
+       href="https://twitter.com/sentdefender">
+       Tweets by @sentdefender
     </a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     """
-    components.html(twitter_html, height=600, scrolling=True)
+
+    inteldoge_html = """
+    <a class="twitter-timeline"
+       data-theme="dark"
+       data-chrome="nofooter noheader transparent"
+       href="https://twitter.com/IntelDoge">
+       Tweets by @IntelDoge
+    </a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    """
+
+    bno_html = """
+    <a class="twitter-timeline"
+       data-theme="dark"
+       data-chrome="nofooter noheader transparent"
+       href="https://twitter.com/BNONews">
+       Tweets by @BNONews
+    </a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    """
+
+    osintdef_html = """
+    <a class="twitter-timeline"
+       data-theme="dark"
+       data-chrome="nofooter noheader transparent"
+       href="https://twitter.com/OSINTdefender">
+       Tweets by @OSINTdefender
+    </a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    """
+
+    with tab1:
+        components.html(sentdef_html, height=600, scrolling=True)
+    with tab2:
+        components.html(inteldoge_html, height=600, scrolling=True)
+    with tab3:
+        components.html(bno_html, height=600, scrolling=True)
+    with tab4:
+        components.html(osintdef_html, height=600, scrolling=True)
 
 
 
