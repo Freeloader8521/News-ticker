@@ -25,13 +25,13 @@ DEFAULT_MODEL = st.secrets.get("OPENAI_MODEL", "gpt-4o-mini")
 
 # Optional: Mapbox for dark map background
 MAPBOX_API_KEY = st.secrets.get("MAPBOX_API_KEY", "")
-
 if MAPBOX_API_KEY:
     pdk.settings.mapbox_api_key = MAPBOX_API_KEY
 
 # Optional: Discord for breaking news banner
 DISCORD_BOT_TOKEN = st.secrets.get("DISCORD_BOT_TOKEN", "")
 DISCORD_CHANNEL_ID = st.secrets.get("DISCORD_CHANNEL_ID", "")
+
 
 # ---------------- Utils ----------------
 def pretty_dt(iso: str) -> str:
@@ -87,7 +87,6 @@ def pick_language_text(it: Dict, translate_on: bool) -> Tuple[str, str]:
 def extract_lat_lon(geo: Optional[Dict]) -> Tuple[Optional[float], Optional[float]]:
     """
     Extract latitude and longitude from the event geo field.
-
     Tries a few common key names so we always use event location,
     not publisher location.
     """
@@ -257,70 +256,124 @@ st.markdown(
     html, body, [class*="st-"] { color: #f5f5f5 !important; background: #050711 !important; }
     .block-container { padding-top: 0.5rem; padding-bottom: 1rem; }
     .stButton button, .stDownloadButton button {
-        border: 1px solid #666 !important;
-        padding: 0.4rem 1rem;
-        border-radius: 4px;
+        border: 1px solid #f97316 !important;
+        padding: 0.5rem 1.4rem;
+        border-radius: 999px;
         background: #111827 !important;
         color: #f9fafb !important;
+        font-weight: 600;
     }
     h1, h2, h3, h4 {
         color: #f9fafb !important;
     }
+    /* Style A: full-width red breaking bar */
     .breaking-banner {
-        background: linear-gradient(90deg, #b91c1c, #ef4444);
+        background: #b91c1c;
         color: #f9fafb;
-        padding: 0.4rem 0.8rem;
-        border-radius: 4px;
+        padding: 0.65rem 0.9rem;
+        border-radius: 6px;
         font-weight: 600;
         display: flex;
         align-items: center;
-        gap: 0.75rem;
-        margin-bottom: 0.75rem;
+        gap: 0.9rem;
+        margin-bottom: 0.9rem;
+        border: 1px solid #fecaca;
+        box-shadow: 0 10px 24px rgba(0,0,0,0.6);
     }
-    .breaking-label {
-        background: #111827;
-        padding: 0.1rem 0.4rem;
+    .breaking-label-pill {
+        background: #7f1d1d;
+        padding: 0.2rem 0.7rem;
         border-radius: 999px;
-        font-size: 0.7rem;
+        font-size: 0.8rem;
         text-transform: uppercase;
-        letter-spacing: 0.08em;
+        letter-spacing: 0.12em;
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
     }
-    .breaking-text {
-        font-size: 0.9rem;
+    .breaking-main-text {
+        font-size: 1rem;
+    }
+    .breaking-main-text strong {
+        font-weight: 700;
     }
     .breaking-meta {
         font-size: 0.75rem;
         opacity: 0.9;
+        margin-top: 0.1rem;
     }
+    /* Central modal-style alert */
     .breaking-alert {
         margin: 1.0rem auto;
-        max-width: 560px;
+        max-width: 620px;
         background: #020617;
-        border-radius: 12px;
-        padding: 1.0rem 1.2rem;
+        border-radius: 14px;
+        padding: 1.2rem 1.4rem;
         border: 1px solid #f97316;
-        box-shadow: 0 18px 35px rgba(0,0,0,0.7);
+        box-shadow: 0 18px 40px rgba(0,0,0,0.85);
     }
     .breaking-alert-title {
-        font-size: 0.95rem;
+        font-size: 1.0rem;
         text-transform: uppercase;
-        letter-spacing: 0.12em;
+        letter-spacing: 0.14em;
         color: #fed7aa;
-        margin-bottom: 0.4rem;
+        margin-bottom: 0.5rem;
     }
     .breaking-alert-text {
-        font-size: 0.9rem;
-        margin-bottom: 0.4rem;
+        font-size: 0.95rem;
+        margin-bottom: 0.5rem;
     }
     .breaking-alert-meta {
-        font-size: 0.75rem;
+        font-size: 0.8rem;
         color: #9ca3af;
-        margin-bottom: 0.6rem;
+        margin-bottom: 0.7rem;
     }
     </style>
     """,
     unsafe_allow_html=True,
 )
+
+
+def play_double_ping():
+    """
+    Inject a small bit of JavaScript that uses the Web Audio API
+    to play a double ping (no external audio file needed).
+    Plays once per rerun when called.
+    """
+    js = """
+    <script>
+    (function() {
+        try {
+            const AudioContext = window.AudioContext || window.webkitAudioContext;
+            if (!AudioContext) return;
+            const ctx = new AudioContext();
+            function beep(freq, startOffset) {
+                const osc = ctx.createOscillator();
+                const gain = ctx.createGain();
+                osc.type = "sine";
+                osc.frequency.value = freq;
+                osc.connect(gain);
+                gain.connect(ctx.destination);
+                const now = ctx.currentTime;
+                const start = now + startOffset;
+                const duration = 0.18;
+                gain.gain.setValueAtTime(0, now);
+                gain.gain.linearRampToValueAtTime(0.5, start);
+                gain.gain.linearRampToValueAtTime(0.0, start + duration);
+                osc.start(start);
+                osc.stop(start + duration + 0.02);
+            }
+            // Double ping: lower then higher
+            beep(880, 0.0);
+            beep(1320, 0.32);
+        } catch (e) {
+            console.log("Audio error", e);
+        }
+    })();
+    </script>
+    """
+    st.markdown(js, unsafe_allow_html=True)
+
 
 # ---------------- Session state ----------------
 if "ack_breaking_id" not in st.session_state:
@@ -339,7 +392,7 @@ st.title("Global Situational Awareness Dashboard")
 breaking = fetch_discord_breaking()
 breaking_active = breaking if is_breaking_active(breaking) else None
 
-# Top breaking banner
+# Top breaking banner (Style A)
 if breaking_active:
     content = breaking_active.get("content", "")
     author = breaking_active.get("author", "")
@@ -347,10 +400,15 @@ if breaking_active:
     st.markdown(
         f"""
         <div class="breaking-banner">
-            <div class="breaking-label">Breaking</div>
+            <div class="breaking-label-pill">
+                <span>⚡</span>
+                <span>BREAKING</span>
+            </div>
             <div>
-                <div class="breaking-text">{clamp_txt(content, 220)}</div>
-                <div class="breaking-meta">via {author}{(" · " + ts_pretty) if ts_pretty else ""}</div>
+                <div class="breaking-main-text">{clamp_txt(content, 260)}</div>
+                <div class="breaking-meta">
+                    via {author}{(" · " + ts_pretty) if ts_pretty else ""}
+                </div>
             </div>
         </div>
         """,
@@ -359,30 +417,38 @@ if breaking_active:
 else:
     st.caption("No active breaking item in the last 3 hours, or Discord is not configured.")
 
-# Middle-of-screen style alert until acknowledged
+# Central alert with big acknowledge button + sound,
+# only if breaking is active and this message not yet acknowledged
 if breaking_active and breaking_active.get("id") != st.session_state["ack_breaking_id"]:
-    alert = st.container()
-    with alert:
-        st.markdown(
-            f"""
-            <div class="breaking-alert">
-                <div class="breaking-alert-title">Breaking incident</div>
-                <div class="breaking-alert-text">{clamp_txt(breaking_active.get("content", ""), 260)}</div>
+    # Play the double ping once per rerun while alert is visible
+    play_double_ping()
+
+    st.markdown(
+        f"""
+        <div class="breaking-alert">
+            <div style="text-align:center;">
+                <div class="breaking-alert-title">🚨 BREAKING INCIDENT</div>
+                <div class="breaking-alert-text">
+                    {clamp_txt(breaking_active.get("content", ""), 280)}
+                </div>
                 <div class="breaking-alert-meta">
                     Source: {breaking_active.get("author", "Unknown")}
                     {(" · " + breaking_active.get("created_at_pretty", "")) if breaking_active.get("created_at_pretty") else ""}
                 </div>
             </div>
-            """,
-            unsafe_allow_html=True,
-        )
-        ack_col1, ack_col2, ack_col3 = st.columns([2, 1, 2])
-        with ack_col2:
-            if st.button("Acknowledge", key="ack_breaking_button"):
-                st.session_state["ack_breaking_id"] = breaking_active.get("id")
-                st.rerun()
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
-# Header info row
+    # Centre the acknowledge button
+    ack_col1, ack_col2, ack_col3 = st.columns([3, 1, 3])
+    with ack_col2:
+        if st.button("Acknowledge breaking alert", key="ack_breaking_button"):
+            st.session_state["ack_breaking_id"] = breaking_active.get("id")
+            st.rerun()
+
+# Header info row (last update + refresh)
 headA, headB = st.columns([6, 1])
 with headA:
     st.markdown(f"**Last update:** {last_update}")
@@ -581,7 +647,6 @@ with colSocial:
         if it.get("url"):
             st.markdown(f"[Open source]({it['url']})")
         st.markdown("---")
-
 
 
 
