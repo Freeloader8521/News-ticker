@@ -656,7 +656,7 @@ with colSocial:
     <a class="twitter-timeline"
        data-theme="dark"
        data-chrome="nofooter noheader transparent"
-       href="https://x.com/i/lists/1997337803051397275">
+       href="https://twitter.com/i/lists/1997337803051397275">
        Security-OSINT Feed
     </a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
