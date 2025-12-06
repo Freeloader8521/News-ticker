@@ -1,7 +1,7 @@
 import os
 from textwrap import shorten
 from datetime import datetime
-from typing import List, Dict
+from typing import List, Dict, Tuple, Optional
 
 import pytz
 import requests
@@ -25,12 +25,19 @@ DEFAULT_MODEL = st.secrets.get("OPENAI_MODEL", "gpt-4o-mini")
 
 # Optional: Mapbox for dark map background
 MAPBOX_API_KEY = st.secrets.get("MAPBOX_API_KEY", "")
+
 if MAPBOX_API_KEY:
     pdk.settings.mapbox_api_key = MAPBOX_API_KEY
+
+# Optional: Discord for breaking news banner
+DISCORD_BOT_TOKEN = st.secrets.get("DISCORD_BOT_TOKEN", "")
+DISCORD_CHANNEL_ID = st.secrets.get("DISCORD_CHANNEL_ID", "")
 
 # ---------------- Utils ----------------
 def pretty_dt(iso: str) -> str:
     """Format ISO timestamp into UK local time string."""
+    if not iso:
+        return ""
     try:
         dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
         uk = dt.astimezone(pytz.timezone("Europe/London"))
@@ -66,7 +73,7 @@ def first_paragraph(s: str, max_chars: int = 500) -> str:
     return p
 
 
-def pick_language_text(it: Dict, translate_on: bool) -> (str, str):
+def pick_language_text(it: Dict, translate_on: bool) -> Tuple[str, str]:
     """Pick title/summary based on translation toggle."""
     if translate_on:
         title = it.get("title_en") or it.get("title") or it.get("title_orig") or ""
@@ -77,7 +84,7 @@ def pick_language_text(it: Dict, translate_on: bool) -> (str, str):
     return title, summary
 
 
-def extract_lat_lon(geo: Dict):
+def extract_lat_lon(geo: Optional[Dict]) -> Tuple[Optional[float], Optional[float]]:
     """
     Extract latitude and longitude from the event geo field.
 
@@ -108,6 +115,49 @@ def extract_lat_lon(geo: Dict):
     return None, None
 
 
+# ---------------- Discord: breaking news banner ----------------
+@st.cache_data(ttl=30)
+def fetch_discord_breaking() -> Dict:
+    """
+    Fetch the latest message from a specific Discord channel.
+
+    Requires:
+      - DISCORD_BOT_TOKEN in st.secrets
+      - DISCORD_CHANNEL_ID in st.secrets
+
+    Returns a dict with keys: content, author, created_at (ISO), created_at_pretty.
+    If not configured or on error, returns {}.
+    """
+    if not DISCORD_BOT_TOKEN or not DISCORD_CHANNEL_ID:
+        return {}
+
+    url = f"https://discord.com/api/v10/channels/{DISCORD_CHANNEL_ID}/messages"
+    headers = {
+        "Authorization": f"Bot {DISCORD_BOT_TOKEN}",
+        "User-Agent": "situational-awareness-dashboard/1.0",
+    }
+    params = {"limit": 1}
+
+    try:
+        r = requests.get(url, headers=headers, params=params, timeout=10)
+        r.raise_for_status()
+        data = r.json()
+        if not data:
+            return {}
+        msg = data[0]
+        content = msg.get("content", "").strip()
+        author = msg.get("author", {}).get("username", "Unknown")
+        ts = msg.get("timestamp", "")
+        return {
+            "content": content,
+            "author": author,
+            "created_at": ts,
+            "created_at_pretty": pretty_dt(ts),
+        }
+    except Exception:
+        return {}
+
+
 # ---------------- OpenAI: risk summary (optional) ----------------
 @st.cache_data(ttl=300, show_spinner=False)
 def ai_risk_summary(cache_key: str, items: List[Dict], model: str, translate_on: bool) -> str:
@@ -125,16 +175,15 @@ def ai_risk_summary(cache_key: str, items: List[Dict], model: str, translate_on:
     else:
         risk_items = risk_items[:80]
 
-    lines = []
+    lines: List[str] = []
     for it in risk_items:
         title, summary = pick_language_text(it, translate_on)
         src = it.get("source") or ""
         when = pretty_dt(it.get("published_at") or "")
         typ = it.get("type") or ""
         geo = it.get("geo") or {}
-        loc = " / ".join(
-            x for x in [geo.get("city"), geo.get("country"), geo.get("iata")] if x
-        )
+        loc_bits = [geo.get("city"), geo.get("country"), geo.get("iata")]
+        loc = " / ".join(x for x in loc_bits if x)
         line = f"- {clamp_txt(title, 160)} | {typ} | {src} | {when}"
         if loc:
             line += f" | {loc}"
@@ -181,13 +230,44 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-    html, body, [class*="st-"] { color: #111 !important; background: #fff !important; }
-    .block-container { padding-top: 1rem; padding-bottom: 1rem; }
+    html, body, [class*="st-"] { color: #f5f5f5 !important; background: #050711 !important; }
+    .block-container { padding-top: 0.5rem; padding-bottom: 1rem; }
     .stButton button, .stDownloadButton button {
-        border: 1px solid #444 !important; padding: 0.4rem 1rem; border-radius: 4px;
+        border: 1px solid #666 !important;
+        padding: 0.4rem 1rem;
+        border-radius: 4px;
+        background: #111827 !important;
+        color: #f9fafb !important;
     }
-    h2, h3 {
-        margin-top: 0.8rem;
+    .metric-label, .metric-value { color: #f9fafb !important; }
+    h1, h2, h3, h4 {
+        color: #f9fafb !important;
+    }
+    .breaking-banner {
+        background: linear-gradient(90deg, #b91c1c, #ef4444);
+        color: #f9fafb;
+        padding: 0.4rem 0.8rem;
+        border-radius: 4px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        margin-bottom: 0.75rem;
+    }
+    .breaking-label {
+        background: #111827;
+        padding: 0.1rem 0.4rem;
+        border-radius: 999px;
+        font-size: 0.7rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+    }
+    .breaking-text {
+        font-size: 0.9rem;
+    }
+    .breaking-meta {
+        font-size: 0.75rem;
+        opacity: 0.9;
     }
     </style>
     """,
@@ -196,12 +276,32 @@ st.markdown(
 
 # ---------------- Data fetch ----------------
 data = fetch_json(DATA_JSON_URL)
-items = data.get("items", []) or []
+items: List[Dict] = data.get("items", []) or []
 generated_at = data.get("generated_at")
 last_update = pretty_dt(generated_at) if generated_at else "n/a"
 
-# ---------------- Header ----------------
+# ---------------- Header + Breaking news ----------------
 st.title("Global Situational Awareness Dashboard")
+
+breaking = fetch_discord_breaking()
+if breaking:
+    content = breaking.get("content", "")
+    author = breaking.get("author", "")
+    ts_pretty = breaking.get("created_at_pretty", "")
+    st.markdown(
+        f"""
+        <div class="breaking-banner">
+            <div class="breaking-label">Breaking</div>
+            <div>
+                <div class="breaking-text">{clamp_txt(content, 220)}</div>
+                <div class="breaking-meta">via {author}{(" · " + ts_pretty) if ts_pretty else ""}</div>
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+else:
+    st.caption("Breaking news banner: configure DISCORD_BOT_TOKEN and DISCORD_CHANNEL_ID in secrets to enable.")
 
 headA, headB = st.columns([6, 1])
 with headA:
@@ -293,7 +393,7 @@ items = filter_items(items)
 # ---------------- Map of incidents ----------------
 st.subheader("Map of incidents")
 
-map_points = []
+map_points: List[Dict] = []
 for it in items:
     geo = it.get("geo") or {}
     lat, lon = extract_lat_lon(geo)
@@ -321,50 +421,49 @@ for it in items:
 if map_points:
     df_map = pd.DataFrame(map_points)
 
+    # Use pydeck with a dark, high-contrast style and rich tooltips
+    view_state = pdk.ViewState(
+        latitude=float(df_map["lat"].median()),
+        longitude=float(df_map["lon"].median()),
+        zoom=2,
+        min_zoom=1,
+        max_zoom=15,
+        pitch=0,
+    )
+
+    layer = pdk.Layer(
+        "ScatterplotLayer",
+        data=df_map,
+        get_position="[lon, lat]",
+        get_radius=80000,
+        pickable=True,
+        get_fill_color=[255, 90, 0, 230],  # bright orange against dark map
+        get_line_color=[255, 255, 255, 200],
+        line_width_min_pixels=1,
+    )
+
+    tooltip = {
+        "html": (
+            "<b>{title}</b><br/>"
+            "{published}<br/>"
+            "{source}<br/>"
+            "{location}<br/><br/>"
+            "{summary}"
+        ),
+        "style": {"backgroundColor": "#020617", "color": "white"},
+    }
+
+    deck_kwargs = {
+        "layers": [layer],
+        "initial_view_state": view_state,
+        "tooltip": tooltip,
+    }
+    # Only set map_style if we have a Mapbox key
     if MAPBOX_API_KEY:
-        # Dark, high-contrast style using Mapbox
-        view_state = pdk.ViewState(
-            latitude=float(df_map["lat"].median()),
-            longitude=float(df_map["lon"].median()),
-            zoom=2,
-            min_zoom=1,
-            max_zoom=15,
-            pitch=0,
-        )
+        deck_kwargs["map_style"] = "mapbox://styles/mapbox/dark-v11"
 
-        layer = pdk.Layer(
-            "ScatterplotLayer",
-            data=df_map,
-            get_position="[lon, lat]",
-            get_radius=70000,
-            pickable=True,
-            get_fill_color=[255, 85, 0, 220],  # bright orange/red against dark map
-            get_line_color=[255, 255, 255, 200],
-            line_width_min_pixels=1,
-        )
-
-        tooltip = {
-            "html": (
-                "<b>{title}</b><br/>"
-                "{published}<br/>"
-                "{source}<br/>"
-                "{location}<br/><br/>"
-                "{summary}"
-            ),
-            "style": {"backgroundColor": "black", "color": "white"},
-        }
-
-        deck = pdk.Deck(
-            layers=[layer],
-            initial_view_state=view_state,
-            map_style="mapbox://styles/mapbox/dark-v11",
-            tooltip=tooltip,
-        )
-
-        st.pydeck_chart(deck)
-    else:
-        # Fallback: Streamlit's built-in map (light tiles, but no token needed)
-        st.map(df_map, latitude="lat", longitude="lon", zoom=2)
+    deck = pdk.Deck(**deck_kwargs)
+    st.pydeck_chart(deck)
 else:
     st.info("No items with usable event coordinates to plot on the map.")
 
