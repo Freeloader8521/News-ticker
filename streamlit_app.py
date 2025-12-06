@@ -8,6 +8,7 @@ import requests
 import pandas as pd
 import pydeck as pdk
 import streamlit as st
+import streamlit.components.v1 as components
 
 # ---------------- Config ----------------
 DATA_JSON_URL = os.environ.get(
@@ -336,8 +337,7 @@ st.markdown(
 
 def play_double_ping():
     """
-    Inject a small bit of JavaScript that uses the Web Audio API
-    to play a double ping (no external audio file needed).
+    Use the Web Audio API to play a double ping (no external audio file).
     Plays once per rerun when called.
     """
     js = """
@@ -631,9 +631,11 @@ with colFeed:
             st.markdown(f"[Read more →]({it['url']})")
         st.markdown("---")
 
-# Social media
+# Social media + X list feed on the right
 with colSocial:
     st.subheader("Social media")
+
+    # Existing social items from your JSON feed
     for it in items:
         if it.get("type") != "social":
             continue
@@ -647,6 +649,19 @@ with colSocial:
         if it.get("url"):
             st.markdown(f"[Open source]({it['url']})")
         st.markdown("---")
+
+    # X / Twitter list embed
+    st.markdown("#### X security OSINT list")
+    twitter_html = """
+    <a class="twitter-timeline"
+       data-theme="dark"
+       data-chrome="nofooter noheader transparent"
+       href="https://x.com/i/lists/1997337803051397275">
+       Security-OSINT Feed
+    </a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    """
+    components.html(twitter_html, height=600, scrolling=True)
 
 
 
