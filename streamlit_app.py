@@ -1,6 +1,6 @@
 import os
 from textwrap import shorten
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import List, Dict, Tuple, Optional
 
 import pytz
@@ -115,7 +115,7 @@ def extract_lat_lon(geo: Optional[Dict]) -> Tuple[Optional[float], Optional[floa
     return None, None
 
 
-# ---------------- Discord: breaking news banner ----------------
+# ---------------- Discord: breaking news ----------------
 @st.cache_data(ttl=30)
 def fetch_discord_breaking() -> Dict:
     """
@@ -125,7 +125,9 @@ def fetch_discord_breaking() -> Dict:
       - DISCORD_BOT_TOKEN in st.secrets
       - DISCORD_CHANNEL_ID in st.secrets
 
-    Returns a dict with keys: content, author, created_at (ISO), created_at_pretty.
+    Returns a dict with keys:
+      id, content, author, created_at (ISO), created_at_pretty
+
     If not configured or on error, returns {}.
     """
     if not DISCORD_BOT_TOKEN or not DISCORD_CHANNEL_ID:
@@ -148,7 +150,9 @@ def fetch_discord_breaking() -> Dict:
         content = msg.get("content", "").strip()
         author = msg.get("author", {}).get("username", "Unknown")
         ts = msg.get("timestamp", "")
+        msg_id = msg.get("id", "")
         return {
+            "id": msg_id,
             "content": content,
             "author": author,
             "created_at": ts,
@@ -156,6 +160,26 @@ def fetch_discord_breaking() -> Dict:
         }
     except Exception:
         return {}
+
+
+def is_breaking_active(breaking: Dict, max_age_hours: float = 3.0) -> bool:
+    """
+    Decide whether a breaking message should be treated as active:
+    - It must exist
+    - It must be newer than max_age_hours
+    """
+    if not breaking:
+        return False
+    ts = breaking.get("created_at")
+    if not ts:
+        return False
+    try:
+        dt = datetime.fromisoformat(ts.replace("Z", "+00:00")).astimezone(timezone.utc)
+        now_utc = datetime.now(timezone.utc)
+        age_hours = (now_utc - dt).total_seconds() / 3600.0
+        return age_hours <= max_age_hours
+    except Exception:
+        return False
 
 
 # ---------------- OpenAI: risk summary (optional) ----------------
@@ -239,7 +263,6 @@ st.markdown(
         background: #111827 !important;
         color: #f9fafb !important;
     }
-    .metric-label, .metric-value { color: #f9fafb !important; }
     h1, h2, h3, h4 {
         color: #f9fafb !important;
     }
@@ -269,10 +292,39 @@ st.markdown(
         font-size: 0.75rem;
         opacity: 0.9;
     }
+    .breaking-alert {
+        margin: 1.0rem auto;
+        max-width: 560px;
+        background: #020617;
+        border-radius: 12px;
+        padding: 1.0rem 1.2rem;
+        border: 1px solid #f97316;
+        box-shadow: 0 18px 35px rgba(0,0,0,0.7);
+    }
+    .breaking-alert-title {
+        font-size: 0.95rem;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        color: #fed7aa;
+        margin-bottom: 0.4rem;
+    }
+    .breaking-alert-text {
+        font-size: 0.9rem;
+        margin-bottom: 0.4rem;
+    }
+    .breaking-alert-meta {
+        font-size: 0.75rem;
+        color: #9ca3af;
+        margin-bottom: 0.6rem;
+    }
     </style>
     """,
     unsafe_allow_html=True,
 )
+
+# ---------------- Session state ----------------
+if "ack_breaking_id" not in st.session_state:
+    st.session_state["ack_breaking_id"] = None
 
 # ---------------- Data fetch ----------------
 data = fetch_json(DATA_JSON_URL)
@@ -280,14 +332,18 @@ items: List[Dict] = data.get("items", []) or []
 generated_at = data.get("generated_at")
 last_update = pretty_dt(generated_at) if generated_at else "n/a"
 
-# ---------------- Header + Breaking news ----------------
+# ---------------- Header ----------------
 st.title("Global Situational Awareness Dashboard")
 
+# Fetch Discord breaking + decide if active
 breaking = fetch_discord_breaking()
-if breaking:
-    content = breaking.get("content", "")
-    author = breaking.get("author", "")
-    ts_pretty = breaking.get("created_at_pretty", "")
+breaking_active = breaking if is_breaking_active(breaking) else None
+
+# Top breaking banner
+if breaking_active:
+    content = breaking_active.get("content", "")
+    author = breaking_active.get("author", "")
+    ts_pretty = breaking_active.get("created_at_pretty", "")
     st.markdown(
         f"""
         <div class="breaking-banner">
@@ -301,8 +357,32 @@ if breaking:
         unsafe_allow_html=True,
     )
 else:
-    st.caption("Breaking news banner: configure DISCORD_BOT_TOKEN and DISCORD_CHANNEL_ID in secrets to enable.")
+    st.caption("No active breaking item in the last 3 hours, or Discord is not configured.")
 
+# Middle-of-screen style alert until acknowledged
+if breaking_active and breaking_active.get("id") != st.session_state["ack_breaking_id"]:
+    alert = st.container()
+    with alert:
+        st.markdown(
+            f"""
+            <div class="breaking-alert">
+                <div class="breaking-alert-title">Breaking incident</div>
+                <div class="breaking-alert-text">{clamp_txt(breaking_active.get("content", ""), 260)}</div>
+                <div class="breaking-alert-meta">
+                    Source: {breaking_active.get("author", "Unknown")}
+                    {(" · " + breaking_active.get("created_at_pretty", "")) if breaking_active.get("created_at_pretty") else ""}
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+        ack_col1, ack_col2, ack_col3 = st.columns([2, 1, 2])
+        with ack_col2:
+            if st.button("Acknowledge", key="ack_breaking_button"):
+                st.session_state["ack_breaking_id"] = breaking_active.get("id")
+                st.rerun()
+
+# Header info row
 headA, headB = st.columns([6, 1])
 with headA:
     st.markdown(f"**Last update:** {last_update}")
@@ -421,7 +501,6 @@ for it in items:
 if map_points:
     df_map = pd.DataFrame(map_points)
 
-    # Use pydeck with a dark, high-contrast style and rich tooltips
     view_state = pdk.ViewState(
         latitude=float(df_map["lat"].median()),
         longitude=float(df_map["lon"].median()),
@@ -458,7 +537,6 @@ if map_points:
         "initial_view_state": view_state,
         "tooltip": tooltip,
     }
-    # Only set map_style if we have a Mapbox key
     if MAPBOX_API_KEY:
         deck_kwargs["map_style"] = "mapbox://styles/mapbox/dark-v11"
 
