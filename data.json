@@ -1,18 +1,180 @@
 {
-  "generated_at": "2025-12-08T13:17:12.883577+00:00",
+  "generated_at": "2025-12-08T13:57:58.146051+00:00",
   "items": [
     {
-      "id": "5014d1ee1a753138",
-      "title_orig": "IndiGo cancels 562 flights from six metro airports; 150 at Bengaluru alone",
-      "summary_orig": "Number is higher than projections given by the Civil Aviation Ministry, which earlier in the day said the carrier was looking to operate 1,802 flights besides cancelling 500 services on December 8",
+      "id": "0959c843bd462f08",
+      "title_orig": "EU dismisses ‘completely crazy statements’ after Musk attack",
+      "summary_orig": "Elon Musk's X platform was fined on Dec 5 for breaking the bloc’s digital rules.",
       "lang": "en",
-      "title_en": "IndiGo cancels 562 flights from six metro airports; 150 at Bengaluru alone",
-      "summary_en": "Number is higher than projections given by the Civil Aviation Ministry, which earlier in the day said the carrier was looking to operate 1,802 flights besides cancelling 500 services on December 8",
-      "title": "IndiGo cancels 562 flights from six metro airports; 150 at Bengaluru alone",
-      "summary": "Number is higher than projections given by the Civil Aviation Ministry, which earlier in the day said the carrier was looking to operate 1,802 flights besides cancelling 500 services on December 8",
-      "url": "https://www.thehindu.com/news/national/indigo-cancels-562-flights-from-six-metro-airports-150-at-bengaluru-alone/article70372424.ece",
+      "title_en": "EU dismisses ‘completely crazy statements’ after Musk attack",
+      "summary_en": "Elon Musk's X platform was fined on Dec 5 for breaking the bloc’s digital rules.",
+      "title": "EU dismisses ‘completely crazy statements’ after Musk attack",
+      "summary": "Elon Musk's X platform was fined on Dec 5 for breaking the bloc’s digital rules.",
+      "url": "https://www.straitstimes.com/world/europe/eu-dismisses-completely-crazy-statements-after-musk-attack",
+      "source": "The Straits Times World News",
+      "published_at": "2025-12-08T13:52:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fbf43e3323a0c5d1",
+      "title_orig": "LIVE updates: Edinburgh Airport suspends flights following aircraft issue",
+      "summary_orig": "Flights have been suspended at Edinburgh Airport.",
+      "lang": "en",
+      "title_en": "LIVE updates: Edinburgh Airport suspends flights following aircraft issue",
+      "summary_en": "Flights have been suspended at Edinburgh Airport.",
+      "title": "LIVE updates: Edinburgh Airport suspends flights following aircraft issue",
+      "summary": "Flights have been suspended at Edinburgh Airport.",
+      "url": "https://www.scotsman.com/news/scotland/edinburgh-airport-aircraft-issue-5434090",
+      "source": "The Scotsman",
+      "published_at": "2025-12-08T13:45:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7958c0b0852d9a5f",
+      "title_orig": "Thailand launches airstrikes along disputed border with Cambodia as tensions flare",
+      "summary_orig": "Escalation follows killing of Thai soldier and four Cambodian civilians weeks after Trump-brokered ceasefire Thailand has launched airstrikes along its disputed border with Cambodia after both countries accused each other of breaching a ceasefire deal brokered by Donald Trump. Four Cambodian civilians and at least one Thai soldier have been killed in the renewed clashes, which have forced tens of thousands of people to flee their homes. Continue reading...",
+      "lang": "en",
+      "title_en": "Thailand launches airstrikes along disputed border with Cambodia as tensions flare",
+      "summary_en": "Escalation follows killing of Thai soldier and four Cambodian civilians weeks after Trump-brokered ceasefire Thailand has launched airstrikes along its disputed border with Cambodia after both countries accused each other of breaching a ceasefire deal brokered by Donald Trump. Four Cambodian civilians and at least one Thai soldier have been killed in the renewed clashes, which have forced tens of thousands of people to flee their homes. Continue reading...",
+      "title": "Thailand launches airstrikes along disputed border with Cambodia as tensions flare",
+      "summary": "Escalation follows killing of Thai soldier and four Cambodian civilians weeks after Trump-brokered ceasefire Thailand has launched airstrikes along its disputed border with Cambodia after both countries accused each other of breaching a ceasefire deal brokered by Donald Trump. Four Cambodian civilians and at least one Thai soldier have been killed in the renewed clashes, which have forced tens of thousands of people to flee their homes. Continue reading...",
+      "url": "https://www.theguardian.com/world/2025/dec/08/thailand-airstrikes-disputed-border-cambodia",
+      "source": "World news | The Guardian",
+      "published_at": "2025-12-08T13:43:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "37be35e986869b24",
+      "title_orig": "Flights suspended at Edinburgh Airport while staff deal with 'aircraft issue' on runway",
+      "summary_orig": "Flights have been halted at Edinburgh Airport while staff deal with an ‘aircraft issue’.",
+      "lang": "en",
+      "title_en": "Flights suspended at Edinburgh Airport while staff deal with 'aircraft issue' on runway",
+      "summary_en": "Flights have been halted at Edinburgh Airport while staff deal with an ‘aircraft issue’.",
+      "title": "Flights suspended at Edinburgh Airport while staff deal with 'aircraft issue' on runway",
+      "summary": "Flights have been halted at Edinburgh Airport while staff deal with an ‘aircraft issue’.",
+      "url": "https://www.edinburghnews.scotsman.com/news/traffic-and-travel/flights-suspended-at-edinburgh-airport-while-staff-deal-with-aircraft-issue-on-runway-5434087",
+      "source": "Edinburgh News",
+      "published_at": "2025-12-08T13:42:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "cefad998dcf32c3e",
+      "title_orig": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting",
+      "summary_orig": "Each side accused the other of firing first. The hostilities came weeks after President Trump had cast himself as a peacemaker in the decades-old border dispute.",
+      "lang": "en",
+      "title_en": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting",
+      "summary_en": "Each side accused the other of firing first. The hostilities came weeks after President Trump had cast himself as a peacemaker in the decades-old border dispute.",
+      "title": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting",
+      "summary": "Each side accused the other of firing first. The hostilities came weeks after President Trump had cast himself as a peacemaker in the decades-old border dispute.",
+      "url": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html",
+      "source": "NYT > World News",
+      "published_at": "2025-12-08T13:41:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "7049b5672d08999c",
+      "title_orig": "Safari ban row: Tourism sector wants revival, farmers cite safety concerns",
+      "summary_orig": "Karnataka Rajya Raitha Sangha claims that fear persists in forest-fringe villages following the recent tiger attacks, even as the debate over suspension of safaris in Nagarahole and Bandipur reserves deepens",
+      "lang": "en",
+      "title_en": "Safari ban row: Tourism sector wants revival, farmers cite safety concerns",
+      "summary_en": "Karnataka Rajya Raitha Sangha claims that fear persists in forest-fringe villages following the recent tiger attacks, even as the debate over suspension of safaris in Nagarahole and Bandipur reserves deepens",
+      "title": "Safari ban row: Tourism sector wants revival, farmers cite safety concerns",
+      "summary": "Karnataka Rajya Raitha Sangha claims that fear persists in forest-fringe villages following the recent tiger attacks, even as the debate over suspension of safaris in Nagarahole and Bandipur reserves deepens",
+      "url": "https://www.thehindu.com/news/national/karnataka/safari-ban-row-tourism-sector-wants-revival-farmers-cite-safety-concerns/article70372472.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-12-08T13:01:19+00:00",
+      "published_at": "2025-12-08T13:35:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "085f6018f0347fc7",
+      "title_orig": "Tree felling protester 'dropped on her head' by police during removal",
+      "summary_orig": "She was injured but not arrested and an official complaint has been made to the police",
+      "lang": "en",
+      "title_en": "Tree felling protester 'dropped on her head' by police during removal",
+      "summary_en": "She was injured but not arrested and an official complaint has been made to the police",
+      "title": "Tree felling protester 'dropped on her head' by police during removal",
+      "summary": "She was injured but not arrested and an official complaint has been made to the police",
+      "url": "https://www.cornwalllive.com/news/cornwall-news/tree-felling-protester-dropped-head-10691837",
+      "source": "Cornwall Live - frontpage",
+      "published_at": "2025-12-08T13:34:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b906cedd5e55fba8",
+      "title_orig": "'Let's debate Nehru's then': Priyanka defends Congress, attacks PM Modi with ‘two reasons’ jibe",
+      "summary_orig": "Congress MP Priyanka Gandhi, in Vande Mataram discussion, says BJP-led government wanted this debate for Bengal election and \"chance to abuse freedom fighters”",
+      "lang": "en",
+      "title_en": "'Let's debate Nehru's then': Priyanka defends Congress, attacks PM Modi with ‘two reasons’ jibe",
+      "summary_en": "Congress MP Priyanka Gandhi, in Vande Mataram discussion, says BJP-led government wanted this debate for Bengal election and \"chance to abuse freedom fighters”",
+      "title": "'Let's debate Nehru's then': Priyanka defends Congress, attacks PM Modi with ‘two reasons’ jibe",
+      "summary": "Congress MP Priyanka Gandhi, in Vande Mataram discussion, says BJP-led government wanted this debate for Bengal election and \"chance to abuse freedom fighters”",
+      "url": "https://www.hindustantimes.com/india-news/lets-debate-nehrus-legacy-priyanka-defends-congress-attacks-pm-modi-with-two-reasons-jibe-about-bengal-election-101765199438601.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-12-08T13:31:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "03f3a36fc1a60b37",
+      "title_orig": "‘Pakistan and democracy don't go together’: MEA’s sharp remark on country's state after protests over Imran Khan",
+      "summary_orig": "MEA's Randhir Jaiswal commented on the state of democracy in Pakistan, particularly in the context of Imran Khan and the ongoing protests there.",
+      "lang": "en",
+      "title_en": "‘Pakistan and democracy don't go together’: MEA’s sharp remark on country's state after protests over Imran Khan",
+      "summary_en": "MEA's Randhir Jaiswal commented on the state of democracy in Pakistan, particularly in the context of Imran Khan and the ongoing protests there.",
+      "title": "‘Pakistan and democracy don't go together’: MEA’s sharp remark on country's state after protests over Imran Khan",
+      "summary": "MEA's Randhir Jaiswal commented on the state of democracy in Pakistan, particularly in the context of Imran Khan and the ongoing protests there.",
+      "url": "https://www.hindustantimes.com/india-news/pakistan-and-democracy-dont-go-together-mea-s-sharp-remark-on-countrys-state-after-protests-over-imran-khan-101765198742621.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-12-08T13:25:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bd2a2eb54357b099",
+      "title_orig": "Long-pending demands push NIMS nurses to launch black badge protest",
+      "summary_orig": "Protest over increasing workload, restoration of medical services to parents of contract nursing officers, filling of vacant posts, appropriate status and pay for lecturers at NIMS Nursing College and their spouses",
+      "lang": "en",
+      "title_en": "Long-pending demands push NIMS nurses to launch black badge protest",
+      "summary_en": "Protest over increasing workload, restoration of medical services to parents of contract nursing officers, filling of vacant posts, appropriate status and pay for lecturers at NIMS Nursing College and their spouses",
+      "title": "Long-pending demands push NIMS nurses to launch black badge protest",
+      "summary": "Protest over increasing workload, restoration of medical services to parents of contract nursing officers, filling of vacant posts, appropriate status and pay for lecturers at NIMS Nursing College and their spouses",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/long-pending-demands-push-nims-nurses-to-launch-black-badge-protest/article70372277.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-12-08T13:24:53+00:00",
       "tags": [
         "airport/security"
       ],
@@ -30,11 +192,101 @@
       "summary": "Police chief says stepping down isn’t related to Trump’s addition of national guard to the city and her last day is expected to be 31 December, Axios reports In a statement , Pamela Smith said she was “deeply humbled, grateful and deeply appreciative” of her time in her role, which she described as the “greatest honor” of her career. She gave thanks to the mayor for appointing her in 2023 and supporting her throughout her tenure, which she acknowledged had been both “challenging and rewarding”. Smith adds that “tremendous progress” has been made but the city is not at “zero percent crime” yet. I am confident that the department is in a strong position and that the great work will continue, moving in a positive trajectory to combat crime and enhance public safety. Washington, DC is an extraordinary place to live, visit, and work, and I remain inspired by the resilience and spirit of this community. I am profoundly grateful for the opportunity to serve in this capacity as Chief of Police. It has been an honor to lead the men and women of the Metropolitan Police Department, and I will always carry with the me the pride of having served this city. When Chief Smith stepped up to lead the Metropolitan Police Department, we had no time to waste. She came in at a very challenging time for our community, when there was significant urgency to reverse the crime trends our city was facing post pandemic. Within a year of her tenure, we opened the Real-Time Crime Center. We deployed newer and better technology. We worked with the Council to pass comprehensive legislation that prioritizes accountability. And Chief Smith got all of this done while also navigating unprecedented challenges and attacks on our city’s autonomy. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2025/dec/08/donald-trump-pete-hegseth-defense-security-indiana-us-politics-live-news-updates",
       "source": "World news | The Guardian",
-      "published_at": "2025-12-08T13:00:09+00:00",
+      "published_at": "2025-12-08T13:24:02+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "17413b482c243b6f",
+      "title_orig": "Rapist jailed as 'courageous' woman speaks up after 'brutal' caravan park attack",
+      "summary_orig": "Daniel Lander, of Charlemont Avenue, West Bromwich, was arrested when police were called to reports of a disturbance at the Ty Mawr Caravan Park in Abergele",
+      "lang": "en",
+      "title_en": "Rapist jailed as 'courageous' woman speaks up after 'brutal' caravan park attack",
+      "summary_en": "Daniel Lander, of Charlemont Avenue, West Bromwich, was arrested when police were called to reports of a disturbance at the Ty Mawr Caravan Park in Abergele",
+      "title": "Rapist jailed as 'courageous' woman speaks up after 'brutal' caravan park attack",
+      "summary": "Daniel Lander, of Charlemont Avenue, West Bromwich, was arrested when police were called to reports of a disturbance at the Ty Mawr Caravan Park in Abergele",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/rapist-jailed-courageous-woman-speaks-33020598",
+      "source": "Birmingham Live - News",
+      "published_at": "2025-12-08T13:22:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ab1ea387f242ec22",
+      "title_orig": "Moment Edinburgh British Airways flight met by fire crews as operations suspended",
+      "summary_orig": "Fire crews were called to flight BA1443 which was scheduled to land at London Heathrow around 12.30pm. However, shortly after leaving Edinburgh Airport, the aircraft squawked a 7700 code",
+      "lang": "en",
+      "title_en": "Moment Edinburgh British Airways flight met by fire crews as operations suspended",
+      "summary_en": "Fire crews were called to flight BA1443 which was scheduled to land at London Heathrow around 12.30pm. However, shortly after leaving Edinburgh Airport, the aircraft squawked a 7700 code",
+      "title": "Moment Edinburgh British Airways flight met by fire crews as operations suspended",
+      "summary": "Fire crews were called to flight BA1443 which was scheduled to land at London Heathrow around 12.30pm. However, shortly after leaving Edinburgh Airport, the aircraft squawked a 7700 code",
+      "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/moment-edinburgh-british-airways-flight-33020535",
+      "source": "Edinburgh Live - News",
+      "published_at": "2025-12-08T13:18:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "988fa3fdd65f5f76",
+      "title_orig": "British Airways flight BA1443 stuck on runway after emergency landing in Edinburgh",
+      "summary_orig": "Edinburgh Airport is facing major disruption on Monday after a British Airways flight that declared an emergency became stuck on the runway. Flight BA1443, an Airbus A320 operating from Edinburgh (EDI) to London Heathrow, took off at 11:09 GMT but began circling at 6,500 feet shortly after departure. After around 35 minutes in a holding […] The post British Airways flight BA1443 stuck on runway after emergency landing in Edinburgh appeared first on AIRLIVE .",
+      "lang": "en",
+      "title_en": "British Airways flight BA1443 stuck on runway after emergency landing in Edinburgh",
+      "summary_en": "Edinburgh Airport is facing major disruption on Monday after a British Airways flight that declared an emergency became stuck on the runway. Flight BA1443, an Airbus A320 operating from Edinburgh (EDI) to London Heathrow, took off at 11:09 GMT but began circling at 6,500 feet shortly after departure. After around 35 minutes in a holding […] The post British Airways flight BA1443 stuck on runway after emergency landing in Edinburgh appeared first on AIRLIVE .",
+      "title": "British Airways flight BA1443 stuck on runway after emergency landing in Edinburgh",
+      "summary": "Edinburgh Airport is facing major disruption on Monday after a British Airways flight that declared an emergency became stuck on the runway. Flight BA1443, an Airbus A320 operating from Edinburgh (EDI) to London Heathrow, took off at 11:09 GMT but began circling at 6,500 feet shortly after departure. After around 35 minutes in a holding […] The post British Airways flight BA1443 stuck on runway after emergency landing in Edinburgh appeared first on AIRLIVE .",
+      "url": "https://airlive.net/emergency/2025/12/08/british-airways-flight-ba1443-stuck-on-runway-after-emergency-landing-in-edinburgh/",
+      "source": "AIRLIVE",
+      "published_at": "2025-12-08T13:17:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ff9b9ad8047ec290",
+      "title_orig": "What we know as Metrolink tram drivers' strikes are back on",
+      "summary_orig": "The strikes will take place during the Christmas party season and on New Years' Eve",
+      "lang": "en",
+      "title_en": "What we know as Metrolink tram drivers' strikes are back on",
+      "summary_en": "The strikes will take place during the Christmas party season and on New Years' Eve",
+      "title": "What we know as Metrolink tram drivers' strikes are back on",
+      "summary": "The strikes will take place during the Christmas party season and on New Years' Eve",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/what-know-metrolink-tram-drivers-33020579",
+      "source": "MEN - News",
+      "published_at": "2025-12-08T13:16:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5014d1ee1a753138",
+      "title_orig": "IndiGo cancels 562 flights from six metro airports; 150 at Bengaluru alone",
+      "summary_orig": "Number is higher than projections given by the Civil Aviation Ministry, which earlier in the day said the carrier was looking to operate 1,802 flights besides cancelling 500 services on December 8",
+      "lang": "en",
+      "title_en": "IndiGo cancels 562 flights from six metro airports; 150 at Bengaluru alone",
+      "summary_en": "Number is higher than projections given by the Civil Aviation Ministry, which earlier in the day said the carrier was looking to operate 1,802 flights besides cancelling 500 services on December 8",
+      "title": "IndiGo cancels 562 flights from six metro airports; 150 at Bengaluru alone",
+      "summary": "Number is higher than projections given by the Civil Aviation Ministry, which earlier in the day said the carrier was looking to operate 1,802 flights besides cancelling 500 services on December 8",
+      "url": "https://www.thehindu.com/news/national/indigo-cancels-562-flights-from-six-metro-airports-150-at-bengaluru-alone/article70372424.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-12-08T13:01:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -89,24 +341,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "84817373e877a62e",
-      "title_orig": "Syrian city of Homs trapped in cycle of sectarian violence",
-      "summary_orig": "One year ago, Syrian leader Bashar al-Assad fled the country aboard a Russian military aircraft. Twelve months later, the country continues to grapple with the aftermath of more than a decade of conflict. The city of Homs was central to the Syrian revolution. But now, it appears trapped in a vicious cycle of sectarian violence. Despite promises of stability, attacks on Alawites are increasing and violence is escalating. Residents paint a picture of daily life marred by fear and the impunity of those responsible for attacks. FRANCE 24's Dana Alboz reports, with Lauren Bain.",
-      "lang": "en",
-      "title_en": "Syrian city of Homs trapped in cycle of sectarian violence",
-      "summary_en": "One year ago, Syrian leader Bashar al-Assad fled the country aboard a Russian military aircraft. Twelve months later, the country continues to grapple with the aftermath of more than a decade of conflict. The city of Homs was central to the Syrian revolution. But now, it appears trapped in a vicious cycle of sectarian violence. Despite promises of stability, attacks on Alawites are increasing and violence is escalating. Residents paint a picture of daily life marred by fear and the impunity of those responsible for attacks. FRANCE 24's Dana Alboz reports, with Lauren Bain.",
-      "title": "Syrian city of Homs trapped in cycle of sectarian violence",
-      "summary": "One year ago, Syrian leader Bashar al-Assad fled the country aboard a Russian military aircraft. Twelve months later, the country continues to grapple with the aftermath of more than a decade of conflict. The city of Homs was central to the Syrian revolution. But now, it appears trapped in a vicious cycle of sectarian violence. Despite promises of stability, attacks on Alawites are increasing and violence is escalating. Residents paint a picture of daily life marred by fear and the impunity of those responsible for attacks. FRANCE 24's Dana Alboz reports, with Lauren Bain.",
-      "url": "https://www.france24.com/en/tv-shows/focus/20251208-syrian-city-of-homs-trapped-in-cycle-of-sectarian-violence",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-12-08T12:40:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -227,24 +461,6 @@
       "geo": {}
     },
     {
-      "id": "d48126b2628b2680",
-      "title_orig": "WHO says 114 people were killed, including 63 children, in last week’s drone strikes in Sudan",
-      "summary_orig": "CAIRO (AP) — The head of the World Health Organization said Monday that the death toll from drone strikes on…",
-      "lang": "en",
-      "title_en": "WHO says 114 people were killed, including 63 children, in last week’s drone strikes in Sudan",
-      "summary_en": "CAIRO (AP) — The head of the World Health Organization said Monday that the death toll from drone strikes on…",
-      "title": "WHO says 114 people were killed, including 63 children, in last week’s drone strikes in Sudan",
-      "summary": "CAIRO (AP) — The head of the World Health Organization said Monday that the death toll from drone strikes on…",
-      "url": "https://wtop.com/world/2025/12/who-says-114-people-were-killed-including-63-children-in-last-weeks-drone-strikes-in-sudan/",
-      "source": "WTOP News",
-      "published_at": "2025-12-08T12:28:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5d6f341d14c30678",
       "title_orig": "Joey Barton given suspended prison sentence for attacks on TV personalities",
       "summary_orig": "Ex-footballer Joey Barton has been spared jail after sending grossly offensive social media posts about broadcaster Jeremy Vine and TV football pundits Lucy Ward and Eni Aluko.",
@@ -317,24 +533,6 @@
       "geo": {}
     },
     {
-      "id": "210a37ed50a76096",
-      "title_orig": "Mohamed Salah takes part in Liverpool open training after bombshell interview",
-      "summary_orig": "Breaking news from the AXA Training Centre as Mohamed Salah trains with the Liverpool squad ahead of their Champions League clash at Inter",
-      "lang": "en",
-      "title_en": "Mohamed Salah takes part in Liverpool open training after bombshell interview",
-      "summary_en": "Breaking news from the AXA Training Centre as Mohamed Salah trains with the Liverpool squad ahead of their Champions League clash at Inter",
-      "title": "Mohamed Salah takes part in Liverpool open training after bombshell interview",
-      "summary": "Breaking news from the AXA Training Centre as Mohamed Salah trains with the Liverpool squad ahead of their Champions League clash at Inter",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-mohamed-salah-takes-part-33018078",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2025-12-08T12:04:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "10109e9089212460",
       "title_orig": "Edinburgh British Airways flight in midair emergency just minutes after take off",
       "summary_orig": "Flight BA1443 from Edinburgh Airport to London Heathrow on December 8 took off just before 11am and was set to land around 12.35pm. The aircraft squawked a 7700 code.",
@@ -360,24 +558,6 @@
         "lat": 51.47,
         "lon": -0.4543
       }
-    },
-    {
-      "id": "cefad998dcf32c3e",
-      "title_orig": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting",
-      "summary_orig": "Each side accused the other of firing first. The hostilities came weeks after President Trump had cast himself as a peacemaker in the decades-old border dispute.",
-      "lang": "en",
-      "title_en": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting",
-      "summary_en": "Each side accused the other of firing first. The hostilities came weeks after President Trump had cast himself as a peacemaker in the decades-old border dispute.",
-      "title": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting",
-      "summary": "Each side accused the other of firing first. The hostilities came weeks after President Trump had cast himself as a peacemaker in the decades-old border dispute.",
-      "url": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html",
-      "source": "NYT > World News",
-      "published_at": "2025-12-08T11:57:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
     },
     {
       "id": "27b9de893d48d887",
@@ -596,60 +776,6 @@
       "geo": {}
     },
     {
-      "id": "a31a1263aad9e0ba",
-      "title_orig": "Metrolink operator issues statement as tram drivers' Christmas and New Year's Eve strikes back on",
-      "summary_orig": "The walkout will take place over the Christmas party season and on New Year's Eve",
-      "lang": "en",
-      "title_en": "Metrolink operator issues statement as tram drivers' Christmas and New Year's Eve strikes back on",
-      "summary_en": "The walkout will take place over the Christmas party season and on New Year's Eve",
-      "title": "Metrolink operator issues statement as tram drivers' Christmas and New Year's Eve strikes back on",
-      "summary": "The walkout will take place over the Christmas party season and on New Year's Eve",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/metrolink-operator-issues-statement-tram-33019325",
-      "source": "MEN - News",
-      "published_at": "2025-12-08T10:53:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8c4ea17358767308",
-      "title_orig": "Clashes on Thailand Cambodia border: 385,000 civilians evacuated",
-      "summary_orig": "Thailand launched airstrikes along the disputed border with Cambodia on Monday as both sides accused the other of breaking a ceasefire that halted fighting earlier this year.",
-      "lang": "en",
-      "title_en": "Clashes on Thailand Cambodia border: 385,000 civilians evacuated",
-      "summary_en": "Thailand launched airstrikes along the disputed border with Cambodia on Monday as both sides accused the other of breaking a ceasefire that halted fighting earlier this year.",
-      "title": "Clashes on Thailand Cambodia border: 385,000 civilians evacuated",
-      "summary": "Thailand launched airstrikes along the disputed border with Cambodia on Monday as both sides accused the other of breaking a ceasefire that halted fighting earlier this year.",
-      "url": "https://www.france24.com/en/video/20251208-clashes-on-thailand-cambodia-border-385-000-civilians-evacuated",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-12-08T10:50:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "25e19c3ce3b578b2",
-      "title_orig": "War in Ukraine: Attacks continue despite diplomacy with the US",
-      "summary_orig": "Russia on Sunday welcomed the Trump administration’s new national security strateg y in comments by the Kremlin spokesman published by Russia’s Tass news agency.",
-      "lang": "en",
-      "title_en": "War in Ukraine: Attacks continue despite diplomacy with the US",
-      "summary_en": "Russia on Sunday welcomed the Trump administration’s new national security strateg y in comments by the Kremlin spokesman published by Russia’s Tass news agency.",
-      "title": "War in Ukraine: Attacks continue despite diplomacy with the US",
-      "summary": "Russia on Sunday welcomed the Trump administration’s new national security strateg y in comments by the Kremlin spokesman published by Russia’s Tass news agency.",
-      "url": "https://www.france24.com/en/video/20251208-war-in-ukraine-attacks-continue-despite-diplomacy-with-the-us",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-12-08T10:47:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "1353a533ca731585",
       "title_orig": "Cambodian attacks aimed at deflecting scrutiny over landmine violations: Thai Defence Ministry",
       "summary_orig": "Cambodia launched attacks on Thailand on Sunday in an attempt to divert international attention from its unacceptable use of landmines on Thai soil, according to the Thai Ministry of Defence.",
@@ -776,24 +902,6 @@
       "geo": {}
     },
     {
-      "id": "90d4dbc2a337d4b1",
-      "title_orig": "Public transport partially suspended in Islamabad, Rawalpindi as wheel-jam strike observed",
-      "summary_orig": "Operations of public transport in Islamabad and Rawalpindi remained partially suspended on Monday as transporters observed a wheel-jam strike. The Punjab Public Transport Association had given the call for the strike in the province and the twin cities in protest against a new traffic ordinance that has significantly increased traffic fines. The transporters have demanded the withdrawal of the Punjab Motor Vehicles (Amendment) Ordinance 2025. At the day’s start today, lesser than usual traffic was seen on the roads in the twins cities following the call for the strike. There were also reports of school van owners joining the strike and passengers facing difficulties at main bus stands. Pirwadhai General Bus Stand, one of the main bus terminals in Rawalpindi, also saw less than usual activity and vehicles for inter-provincial travel were seen lining the bus bays. While public transport on main roads largely remained suspended, Qingqi rickshaws, small vans and small loading vehicles were operating in Rawalpindi’s commercial areas, including Raja Bazaar, and link roads. The Goods Transport Association had also joined the strike, but Regional Transport Authority Secretary Asad Shirazi claimed while speaking to Dawn that goods-carrying vehicles remained operational on Monday “despite threats from associations”. The official said the government “will facilitate the vehicles that will remain on roads”. On the other hand, there were reports of the supply of food and essential items getting affected due to the suspension of goods transport at Grand Trunk Road — a major north-south artery that traverses the country. Earlier, transporters’ bodies had held a meeting with the representatives of traffic police and the Regional Transport Authority, where the administration officials had urged the transporters not to hold the wheel-jam strike in the twin cities of Rawalpindi and Islamabad. However, the transporters had refused their request, saying that they would observe the strike to press the government to accept their demand. Speaking to Dawn today, Muttahida Transport Federation of Twin Cities of Rawalpindi and Islamabad Chairperson Raja Muhammad Riaz said that negotiations had been held in Lahore between the two sides but, “the government is not interested in resolving the matter and attempted to divide the [transporters’] association”.",
-      "lang": "en",
-      "title_en": "Public transport partially suspended in Islamabad, Rawalpindi as wheel-jam strike observed",
-      "summary_en": "Operations of public transport in Islamabad and Rawalpindi remained partially suspended on Monday as transporters observed a wheel-jam strike. The Punjab Public Transport Association had given the call for the strike in the province and the twin cities in protest against a new traffic ordinance that has significantly increased traffic fines. The transporters have demanded the withdrawal of the Punjab Motor Vehicles (Amendment) Ordinance 2025. At the day’s start today, lesser than usual traffic was seen on the roads in the twins cities following the call for the strike. There were also reports of school van owners joining the strike and passengers facing difficulties at main bus stands. Pirwadhai General Bus Stand, one of the main bus terminals in Rawalpindi, also saw less than usual activity and vehicles for inter-provincial travel were seen lining the bus bays. While public transport on main roads largely remained suspended, Qingqi rickshaws, small vans and small loading vehicles were operating in Rawalpindi’s commercial areas, including Raja Bazaar, and link roads. The Goods Transport Association had also joined the strike, but Regional Transport Authority Secretary Asad Shirazi claimed while speaking to Dawn that goods-carrying vehicles remained operational on Monday “despite threats from associations”. The official said the government “will facilitate the vehicles that will remain on roads”. On the other hand, there were reports of the supply of food and essential items getting affected due to the suspension of goods transport at Grand Trunk Road — a major north-south artery that traverses the country. Earlier, transporters’ bodies had held a meeting with the representatives of traffic police and the Regional Transport Authority, where the administration officials had urged the transporters not to hold the wheel-jam strike in the twin cities of Rawalpindi and Islamabad. However, the transporters had refused their request, saying that they would observe the strike to press the government to accept their demand. Speaking to Dawn today, Muttahida Transport Federation of Twin Cities of Rawalpindi and Islamabad Chairperson Raja Muhammad Riaz said that negotiations had been held in Lahore between the two sides but, “the government is not interested in resolving the matter and attempted to divide the [transporters’] association”.",
-      "title": "Public transport partially suspended in Islamabad, Rawalpindi as wheel-jam strike observed",
-      "summary": "Operations of public transport in Islamabad and Rawalpindi remained partially suspended on Monday as transporters observed a wheel-jam strike. The Punjab Public Transport Association had given the call for the strike in the province and the twin cities in protest against a new traffic ordinance that has significantly increased traffic fines. The transporters have demanded the withdrawal of the Punjab Motor Vehicles (Amendment) Ordinance 2025. At the day’s start today, lesser than usual traffic was seen on the roads in the twins cities following the call for the strike. There were also reports of school van owners joining the strike and passengers facing difficulties at main bus stands. Pirwadhai General Bus Stand, one of the main bus terminals in Rawalpindi, also saw less than usual activity and vehicles for inter-provincial travel were seen lining the bus bays. While public transport on main roads largely remained suspended, Qingqi rickshaws, small vans and small loading vehicles were operating in Rawalpindi’s commercial areas, including Raja Bazaar, and link roads. The Goods Transport Association had also joined the strike, but Regional Transport Authority Secretary Asad Shirazi claimed while speaking to Dawn that goods-carrying vehicles remained operational on Monday “despite threats from associations”. The official said the government “will facilitate the vehicles that will remain on roads”. On the other hand, there were reports of the supply of food and essential items getting affected due to the suspension of goods transport at Grand Trunk Road — a major north-south artery that traverses the country. Earlier, transporters’ bodies had held a meeting with the representatives of traffic police and the Regional Transport Authority, where the administration officials had urged the transporters not to hold the wheel-jam strike in the twin cities of Rawalpindi and Islamabad. However, the transporters had refused their request, saying that they would observe the strike to press the government to accept their demand. Speaking to Dawn today, Muttahida Transport Federation of Twin Cities of Rawalpindi and Islamabad Chairperson Raja Muhammad Riaz said that negotiations had been held in Lahore between the two sides but, “the government is not interested in resolving the matter and attempted to divide the [transporters’] association”.",
-      "url": "https://www.dawn.com/news/1959936/public-transport-partially-suspended-in-islamabad-rawalpindi-as-wheel-jam-strike-observed",
-      "source": "Dawn - Home",
-      "published_at": "2025-12-08T10:25:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8976b49e551752cc",
       "title_orig": "The Hearts games Landry Kabore will miss as he is named in Burkina Faso's squad for AFCON 2025",
       "summary_orig": "Africa Cup of Nations duty precludes the striker from SPFL fixtures",
@@ -848,24 +956,6 @@
       "geo": {}
     },
     {
-      "id": "7958c0b0852d9a5f",
-      "title_orig": "Thailand launches airstrikes along disputed border with Cambodia as tensions flare",
-      "summary_orig": "Escalation follows killing of Thai soldier and four Cambodian civilians weeks after Trump-brokered ceasefire Thailand has launched airstrikes along its disputed border with Cambodia after both countries accused each other of breaching a ceasefire deal brokered by Donald Trump. Four Cambodian civilians and at least one Thai soldier have been killed in the renewed clashes, which have forced tens of thousands of people to flee their homes. Continue reading...",
-      "lang": "en",
-      "title_en": "Thailand launches airstrikes along disputed border with Cambodia as tensions flare",
-      "summary_en": "Escalation follows killing of Thai soldier and four Cambodian civilians weeks after Trump-brokered ceasefire Thailand has launched airstrikes along its disputed border with Cambodia after both countries accused each other of breaching a ceasefire deal brokered by Donald Trump. Four Cambodian civilians and at least one Thai soldier have been killed in the renewed clashes, which have forced tens of thousands of people to flee their homes. Continue reading...",
-      "title": "Thailand launches airstrikes along disputed border with Cambodia as tensions flare",
-      "summary": "Escalation follows killing of Thai soldier and four Cambodian civilians weeks after Trump-brokered ceasefire Thailand has launched airstrikes along its disputed border with Cambodia after both countries accused each other of breaching a ceasefire deal brokered by Donald Trump. Four Cambodian civilians and at least one Thai soldier have been killed in the renewed clashes, which have forced tens of thousands of people to flee their homes. Continue reading...",
-      "url": "https://www.theguardian.com/world/2025/dec/08/thailand-airstrikes-disputed-border-cambodia",
-      "source": "World news | The Guardian",
-      "published_at": "2025-12-08T10:03:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "3fee1e60c1ded33d",
       "title_orig": "WATCH: Glasgow drone footage shows damage to historic B-listed church 'devastated' by fire",
       "summary_orig": "Firefighters sent out six appliances and had put out the blaze by Sunday afternoon.",
@@ -881,24 +971,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0b50d3cfb023bf62",
-      "title_orig": "Thailand launches airstrikes along border with Cambodia as tensions reignite",
-      "summary_orig": "Matt Hunt, our correspondant in Bangkok, Thailand, has more.",
-      "lang": "en",
-      "title_en": "Thailand launches airstrikes along border with Cambodia as tensions reignite",
-      "summary_en": "Matt Hunt, our correspondant in Bangkok, Thailand, has more.",
-      "title": "Thailand launches airstrikes along border with Cambodia as tensions reignite",
-      "summary": "Matt Hunt, our correspondant in Bangkok, Thailand, has more.",
-      "url": "https://www.france24.com/en/video/20251208-thailand-launches-airstrikes-along-border-with-cambodia-as-tensions-reignite",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-12-08T09:53:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -971,24 +1043,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "5b9dccb70e0844c6",
-      "title_orig": "'When we get together, something just takes over – like we're protected'",
-      "summary_orig": "The families of the victims of the Southport attack have shared memories of their daughters in a new BBC documentary",
-      "lang": "en",
-      "title_en": "'When we get together, something just takes over – like we're protected'",
-      "summary_en": "The families of the victims of the Southport attack have shared memories of their daughters in a new BBC documentary",
-      "title": "'When we get together, something just takes over – like we're protected'",
-      "summary": "The families of the victims of the Southport attack have shared memories of their daughters in a new BBC documentary",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/when-together-something-just-takes-33018463",
-      "source": "Liverpool Echo - News",
-      "published_at": "2025-12-08T08:50:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1334,24 +1388,6 @@
       "geo": {}
     },
     {
-      "id": "92eebf95e0993760",
-      "title_orig": "How Thailand-Cambodia conflict went from Trump-backed ceasefire to airstrikes",
-      "summary_orig": "Thailand said it had launched air strikes along its disputed border with Cambodia on Monday, after both countries accused the other of breaching a ceasefire agreement brokered by US President Donald Trump. Here are key moments in the border conflict. May 28, 2025 : Cambodia’s defence ministry says one of its soldiers is killed after a brief exchange of gunfire with Thai soldiers at a disputed border area, the first such deadly clash since 2011. July 23: Thailand recalls its ambassador to Cambodia and says it will expel Cambodia’s ambassador, following a landmine incident that injured a Thai soldier along the disputed border. July 24: Armed clashes erupt along the border. Both sides accuse the other of opening fire first. Thailand deploys F-16 jets , one of which bombs a Cambodian military target. July 25: Fighting intensifies and spreads with heavy artillery fire and rocket attacks across multiple frontlines, marking their worst clashes in more than a decade. Fighting in the days that follow kills at least 48 people — mostly civilians — and an estimated 300,000 residents are displaced. July 26: Trump calls leaders of both countries and says both agreed to meet soon to work out a ceasefire, adding their respective talks with Washington on trade tariffs could resume once a truce is in place. July 28: After efforts by Malaysia, the United States and also China to bring both sides to the table, the two countries’ leaders sign an agreement in Malaysia’s Putrajaya to end hostilities, resume direct communications and create a mechanism to implement the ceasefire. October 26: The leaders of Thailand and Cambodia sign an enhanced ceasefire deal in the presence of Trump, whose intervention in their fierce border conflict earned him a Nobel Peace Prize nomination from Cambodia. The agreement builds on the truce signed three months earlier. November 1: As part of the agreement, both countries say they have begun the phased withdrawal of heavy weapons from the disputed border, starting with rocket systems, and conducting de-mining operations. Cambodia says it expects the withdrawal to be fully completed by end of the year. November 11: Thailand says it is halting implementation of the ceasefire pact with Cambodia a day after a landmine blast maimed a Thai soldier. Cambodia’s defence ministry denies having laid new landmines. November 12: At least one person is killed in Cambodia as the neighbours accused each other of opening fire. December 8: Thailand launches air strikes after it said its troops came under Cambodian fire. Both countries accuse the other of breaching the ceasefire agreement and Thai authorities say hundreds of thousands of civilians are being evacuated.",
-      "lang": "en",
-      "title_en": "How Thailand-Cambodia conflict went from Trump-backed ceasefire to airstrikes",
-      "summary_en": "Thailand said it had launched air strikes along its disputed border with Cambodia on Monday, after both countries accused the other of breaching a ceasefire agreement brokered by US President Donald Trump. Here are key moments in the border conflict. May 28, 2025 : Cambodia’s defence ministry says one of its soldiers is killed after a brief exchange of gunfire with Thai soldiers at a disputed border area, the first such deadly clash since 2011. July 23: Thailand recalls its ambassador to Cambodia and says it will expel Cambodia’s ambassador, following a landmine incident that injured a Thai soldier along the disputed border. July 24: Armed clashes erupt along the border. Both sides accuse the other of opening fire first. Thailand deploys F-16 jets , one of which bombs a Cambodian military target. July 25: Fighting intensifies and spreads with heavy artillery fire and rocket attacks across multiple frontlines, marking their worst clashes in more than a decade. Fighting in the days that follow kills at least 48 people — mostly civilians — and an estimated 300,000 residents are displaced. July 26: Trump calls leaders of both countries and says both agreed to meet soon to work out a ceasefire, adding their respective talks with Washington on trade tariffs could resume once a truce is in place. July 28: After efforts by Malaysia, the United States and also China to bring both sides to the table, the two countries’ leaders sign an agreement in Malaysia’s Putrajaya to end hostilities, resume direct communications and create a mechanism to implement the ceasefire. October 26: The leaders of Thailand and Cambodia sign an enhanced ceasefire deal in the presence of Trump, whose intervention in their fierce border conflict earned him a Nobel Peace Prize nomination from Cambodia. The agreement builds on the truce signed three months earlier. November 1: As part of the agreement, both countries say they have begun the phased withdrawal of heavy weapons from the disputed border, starting with rocket systems, and conducting de-mining operations. Cambodia says it expects the withdrawal to be fully completed by end of the year. November 11: Thailand says it is halting implementation of the ceasefire pact with Cambodia a day after a landmine blast maimed a Thai soldier. Cambodia’s defence ministry denies having laid new landmines. November 12: At least one person is killed in Cambodia as the neighbours accused each other of opening fire. December 8: Thailand launches air strikes after it said its troops came under Cambodian fire. Both countries accuse the other of breaching the ceasefire agreement and Thai authorities say hundreds of thousands of civilians are being evacuated.",
-      "title": "How Thailand-Cambodia conflict went from Trump-backed ceasefire to airstrikes",
-      "summary": "Thailand said it had launched air strikes along its disputed border with Cambodia on Monday, after both countries accused the other of breaching a ceasefire agreement brokered by US President Donald Trump. Here are key moments in the border conflict. May 28, 2025 : Cambodia’s defence ministry says one of its soldiers is killed after a brief exchange of gunfire with Thai soldiers at a disputed border area, the first such deadly clash since 2011. July 23: Thailand recalls its ambassador to Cambodia and says it will expel Cambodia’s ambassador, following a landmine incident that injured a Thai soldier along the disputed border. July 24: Armed clashes erupt along the border. Both sides accuse the other of opening fire first. Thailand deploys F-16 jets , one of which bombs a Cambodian military target. July 25: Fighting intensifies and spreads with heavy artillery fire and rocket attacks across multiple frontlines, marking their worst clashes in more than a decade. Fighting in the days that follow kills at least 48 people — mostly civilians — and an estimated 300,000 residents are displaced. July 26: Trump calls leaders of both countries and says both agreed to meet soon to work out a ceasefire, adding their respective talks with Washington on trade tariffs could resume once a truce is in place. July 28: After efforts by Malaysia, the United States and also China to bring both sides to the table, the two countries’ leaders sign an agreement in Malaysia’s Putrajaya to end hostilities, resume direct communications and create a mechanism to implement the ceasefire. October 26: The leaders of Thailand and Cambodia sign an enhanced ceasefire deal in the presence of Trump, whose intervention in their fierce border conflict earned him a Nobel Peace Prize nomination from Cambodia. The agreement builds on the truce signed three months earlier. November 1: As part of the agreement, both countries say they have begun the phased withdrawal of heavy weapons from the disputed border, starting with rocket systems, and conducting de-mining operations. Cambodia says it expects the withdrawal to be fully completed by end of the year. November 11: Thailand says it is halting implementation of the ceasefire pact with Cambodia a day after a landmine blast maimed a Thai soldier. Cambodia’s defence ministry denies having laid new landmines. November 12: At least one person is killed in Cambodia as the neighbours accused each other of opening fire. December 8: Thailand launches air strikes after it said its troops came under Cambodian fire. Both countries accuse the other of breaching the ceasefire agreement and Thai authorities say hundreds of thousands of civilians are being evacuated.",
-      "url": "https://www.dawn.com/news/1959925/how-thailand-cambodia-conflict-went-from-trump-backed-ceasefire-to-airstrikes",
-      "source": "Dawn - Home",
-      "published_at": "2025-12-08T07:00:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3cb887be10731e55",
       "title_orig": "Zelenskyy heads to London for talks after Trump accuses him of ignoring US peace plan",
       "summary_orig": "The London summit comes amid faltering US–Ukraine talks and renewed Russian strikes.",
@@ -1385,24 +1421,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ec403377efc37592",
-      "title_orig": "Are Israel, Hamas entering the second phase of the ceasefire?",
-      "summary_orig": "Israel has kept attacking Gaza during the first phase, so what will the second phase bring?",
-      "lang": "en",
-      "title_en": "Are Israel, Hamas entering the second phase of the ceasefire?",
-      "summary_en": "Israel has kept attacking Gaza during the first phase, so what will the second phase bring?",
-      "title": "Are Israel, Hamas entering the second phase of the ceasefire?",
-      "summary": "Israel has kept attacking Gaza during the first phase, so what will the second phase bring?",
-      "url": "https://www.aljazeera.com/news/2025/12/8/are-israel-hamas-entering-the-second-phase-of-the-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2025-12-08T06:18:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1658,42 +1676,6 @@
       "geo": {}
     },
     {
-      "id": "3e73fb924e3c6621",
-      "title_orig": "Thailand launches air raids on Cambodia as disputed border clashes intensify",
-      "summary_orig": "Thailand launched air strikes on Cambodian positions Monday after Cambodian troops opened fire along a disputed border. Both sides traded blame for the hostilities, which have killed at least one Thai soldier and four Cambodian civilians, according to officials.",
-      "lang": "en",
-      "title_en": "Thailand launches air raids on Cambodia as disputed border clashes intensify",
-      "summary_en": "Thailand launched air strikes on Cambodian positions Monday after Cambodian troops opened fire along a disputed border. Both sides traded blame for the hostilities, which have killed at least one Thai soldier and four Cambodian civilians, according to officials.",
-      "title": "Thailand launches air raids on Cambodia as disputed border clashes intensify",
-      "summary": "Thailand launched air strikes on Cambodian positions Monday after Cambodian troops opened fire along a disputed border. Both sides traded blame for the hostilities, which have killed at least one Thai soldier and four Cambodian civilians, according to officials.",
-      "url": "https://www.france24.com/en/asia-pacific/20251208-thailand-air-strikes-cambodian-military-army",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-12-08T03:14:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "208d8ed1e957d198",
-      "title_orig": "Thailand launches airstrikes along border with Cambodia as tensions reignite",
-      "summary_orig": "Thai army spokesperson Maj. Gen. Winthai Suvaree said the Cambodian troops fired first into Thai territory in multiple areas.",
-      "lang": "en",
-      "title_en": "Thailand launches airstrikes along border with Cambodia as tensions reignite",
-      "summary_en": "Thai army spokesperson Maj. Gen. Winthai Suvaree said the Cambodian troops fired first into Thai territory in multiple areas.",
-      "title": "Thailand launches airstrikes along border with Cambodia as tensions reignite",
-      "summary": "Thai army spokesperson Maj. Gen. Winthai Suvaree said the Cambodian troops fired first into Thai territory in multiple areas.",
-      "url": "https://www.seattletimes.com/nation-world/thailand-launches-airstrikes-along-border-with-cambodia-as-tensions-reignite/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-12-08T03:07:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "768db9d68018b6f9",
       "title_orig": "Russia says it downed 77 Ukrainian drones overnight",
       "summary_orig": "Dec 7 - Russia's air defences destroyed 77 Ukrainian drones launched overnight, Russia's defence ministry said on Sunday, as both sides continue cross-border air attacks in the nearly four-year-old war.",
@@ -1705,24 +1687,6 @@
       "url": "https://www.straitstimes.com/world/europe/russia-says-it-downed-77-ukrainian-drones-overnight",
       "source": "The Straits Times World News",
       "published_at": "2025-12-08T03:01:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2394614f5faf95e0",
-      "title_orig": "Europe only has itself to rely on",
-      "summary_orig": "If the continent is to survive a future attack by Russia, its big players must behave in a way they haven’t done before. They must be joined at the hip.",
-      "lang": "en",
-      "title_en": "Europe only has itself to rely on",
-      "summary_en": "If the continent is to survive a future attack by Russia, its big players must behave in a way they haven’t done before. They must be joined at the hip.",
-      "title": "Europe only has itself to rely on",
-      "summary": "If the continent is to survive a future attack by Russia, its big players must behave in a way they haven’t done before. They must be joined at the hip.",
-      "url": "https://www.politico.eu/article/europe-ukraine-war-donald-trump-us-foreign-policy-russia-volodmyr-zelenskyy-defense/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "source": "POLITICO",
-      "published_at": "2025-12-08T03:00:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2198,24 +2162,6 @@
       "geo": {}
     },
     {
-      "id": "5bc738f25177fd0e",
-      "title_orig": "Transporters press ahead with wheel-jam strike in Islamabad, Rawalpindi tomorrow despite administration’s appeal",
-      "summary_orig": "Local public transporters on Sunday announced a wheel-jam strike for tomorrow (December 8) in Rawalpindi and Islamabad, rejecting the local administration’s request to delay the protest against the new traffic ordinance, which has raised fines for heavy vehicles. The strike was announced on the call of the Punjab Public Transport Association. Before the announcement, representatives of the association, along with the Goods Transporters Association, met City Traffic Police officer Farhan Aslam and Regional Transport Authority Secretary Asad Shirazi. The administration urged transporters not to observe a wheel-jam strike in the twin cities of Rawalpindi and Islamabad. However, local transporters refused to withdraw their decision, insisting they would go ahead with the strike to pressure the provincial government into repealing the ordinance. “We tried to convince the transporters not to go for a wheel-jam strike, but they demanded to abolish the new amendments, and it was beyond our authority to do anything about it,” Shirazi said. He added that the Punjab government had been informed of the demands of the transporters, and it would hold negotiations with the United Transport Association in Lahore. Mutahida Transport Federation of Twin Cities of Rawalpindi and Islamabad Chairman Raja Muhammad Riaz told Dawn that “transporters were facing problems due to heavy fines, and it was difficult to manage their household budgets.” “Heavy fines from Rs5,000 to Rs20,000 had become routine, and it destroyed their business,” Riaz said, adding that the government was trying to recover its financial burdens from transporters, who were already struggling with fuel and spare parts. He demanded an immediate reduction in fines and an end to policies that “destroyed the sector.” During the meeting, he said that the traffic police agreed not to impose fines on vehicles having a fitness certificate. Meanwhile, the President of the Goods Transport Association, Shakeel Qureshi, said that freight vehicles and goods transporters in Rawalpindi would support the wheel-jam strike on Monday. “We will join them in the decision of the Pakistan United Transporters Committee to strike on December 8,” he said, adding that the Rawalpindi transporters will keep their bases completely closed. “We strongly condemn the traffic laws passed by the Punjab Assembly and the rate of fines,” he said. “Amendments to the customs laws that will be made are tantamount to economic murder of transporters.” Qureshi went on to say that the government should take the time to be conscious and make decisions, keeping in mind the interests of the people. “It should not be that decisions are made by listening to one side and making laws without consulting stakeholders,” he said. On the other hand, Jamiat Ulema-i-Islam (JUI) Rawalpindi district has announced its full support for the December 8 strike of the Transport Action Committee against heavy traffic fines. Spokesperson JUI Rawalpindi Hafiz Ziaullah said that heavy fines imposed by the Punjab government have made life difficult for the people of Rawalpindi, especially the poor motorcyclists. He demanded that the Chief Minister of Punjab, Maryam Nawaz, “adopt a people-friendly policy and reduce the unnecessary and unfair burden of fines.”",
-      "lang": "en",
-      "title_en": "Transporters press ahead with wheel-jam strike in Islamabad, Rawalpindi tomorrow despite administration’s appeal",
-      "summary_en": "Local public transporters on Sunday announced a wheel-jam strike for tomorrow (December 8) in Rawalpindi and Islamabad, rejecting the local administration’s request to delay the protest against the new traffic ordinance, which has raised fines for heavy vehicles. The strike was announced on the call of the Punjab Public Transport Association. Before the announcement, representatives of the association, along with the Goods Transporters Association, met City Traffic Police officer Farhan Aslam and Regional Transport Authority Secretary Asad Shirazi. The administration urged transporters not to observe a wheel-jam strike in the twin cities of Rawalpindi and Islamabad. However, local transporters refused to withdraw their decision, insisting they would go ahead with the strike to pressure the provincial government into repealing the ordinance. “We tried to convince the transporters not to go for a wheel-jam strike, but they demanded to abolish the new amendments, and it was beyond our authority to do anything about it,” Shirazi said. He added that the Punjab government had been informed of the demands of the transporters, and it would hold negotiations with the United Transport Association in Lahore. Mutahida Transport Federation of Twin Cities of Rawalpindi and Islamabad Chairman Raja Muhammad Riaz told Dawn that “transporters were facing problems due to heavy fines, and it was difficult to manage their household budgets.” “Heavy fines from Rs5,000 to Rs20,000 had become routine, and it destroyed their business,” Riaz said, adding that the government was trying to recover its financial burdens from transporters, who were already struggling with fuel and spare parts. He demanded an immediate reduction in fines and an end to policies that “destroyed the sector.” During the meeting, he said that the traffic police agreed not to impose fines on vehicles having a fitness certificate. Meanwhile, the President of the Goods Transport Association, Shakeel Qureshi, said that freight vehicles and goods transporters in Rawalpindi would support the wheel-jam strike on Monday. “We will join them in the decision of the Pakistan United Transporters Committee to strike on December 8,” he said, adding that the Rawalpindi transporters will keep their bases completely closed. “We strongly condemn the traffic laws passed by the Punjab Assembly and the rate of fines,” he said. “Amendments to the customs laws that will be made are tantamount to economic murder of transporters.” Qureshi went on to say that the government should take the time to be conscious and make decisions, keeping in mind the interests of the people. “It should not be that decisions are made by listening to one side and making laws without consulting stakeholders,” he said. On the other hand, Jamiat Ulema-i-Islam (JUI) Rawalpindi district has announced its full support for the December 8 strike of the Transport Action Committee against heavy traffic fines. Spokesperson JUI Rawalpindi Hafiz Ziaullah said that heavy fines imposed by the Punjab government have made life difficult for the people of Rawalpindi, especially the poor motorcyclists. He demanded that the Chief Minister of Punjab, Maryam Nawaz, “adopt a people-friendly policy and reduce the unnecessary and unfair burden of fines.”",
-      "title": "Transporters press ahead with wheel-jam strike in Islamabad, Rawalpindi tomorrow despite administration’s appeal",
-      "summary": "Local public transporters on Sunday announced a wheel-jam strike for tomorrow (December 8) in Rawalpindi and Islamabad, rejecting the local administration’s request to delay the protest against the new traffic ordinance, which has raised fines for heavy vehicles. The strike was announced on the call of the Punjab Public Transport Association. Before the announcement, representatives of the association, along with the Goods Transporters Association, met City Traffic Police officer Farhan Aslam and Regional Transport Authority Secretary Asad Shirazi. The administration urged transporters not to observe a wheel-jam strike in the twin cities of Rawalpindi and Islamabad. However, local transporters refused to withdraw their decision, insisting they would go ahead with the strike to pressure the provincial government into repealing the ordinance. “We tried to convince the transporters not to go for a wheel-jam strike, but they demanded to abolish the new amendments, and it was beyond our authority to do anything about it,” Shirazi said. He added that the Punjab government had been informed of the demands of the transporters, and it would hold negotiations with the United Transport Association in Lahore. Mutahida Transport Federation of Twin Cities of Rawalpindi and Islamabad Chairman Raja Muhammad Riaz told Dawn that “transporters were facing problems due to heavy fines, and it was difficult to manage their household budgets.” “Heavy fines from Rs5,000 to Rs20,000 had become routine, and it destroyed their business,” Riaz said, adding that the government was trying to recover its financial burdens from transporters, who were already struggling with fuel and spare parts. He demanded an immediate reduction in fines and an end to policies that “destroyed the sector.” During the meeting, he said that the traffic police agreed not to impose fines on vehicles having a fitness certificate. Meanwhile, the President of the Goods Transport Association, Shakeel Qureshi, said that freight vehicles and goods transporters in Rawalpindi would support the wheel-jam strike on Monday. “We will join them in the decision of the Pakistan United Transporters Committee to strike on December 8,” he said, adding that the Rawalpindi transporters will keep their bases completely closed. “We strongly condemn the traffic laws passed by the Punjab Assembly and the rate of fines,” he said. “Amendments to the customs laws that will be made are tantamount to economic murder of transporters.” Qureshi went on to say that the government should take the time to be conscious and make decisions, keeping in mind the interests of the people. “It should not be that decisions are made by listening to one side and making laws without consulting stakeholders,” he said. On the other hand, Jamiat Ulema-i-Islam (JUI) Rawalpindi district has announced its full support for the December 8 strike of the Transport Action Committee against heavy traffic fines. Spokesperson JUI Rawalpindi Hafiz Ziaullah said that heavy fines imposed by the Punjab government have made life difficult for the people of Rawalpindi, especially the poor motorcyclists. He demanded that the Chief Minister of Punjab, Maryam Nawaz, “adopt a people-friendly policy and reduce the unnecessary and unfair burden of fines.”",
-      "url": "https://www.dawn.com/news/1959760/transporters-press-ahead-with-wheel-jam-strike-in-islamabad-rawalpindi-tomorrow-despite-administrations-appeal",
-      "source": "Dawn - Home",
-      "published_at": "2025-12-07T17:59:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "6d0d9b15de314537",
       "title_orig": "Three-year-old girl among those treated after ‘pepper spray’ attack at Heathrow",
       "summary_orig": "Scotland Yard confirmed the incident is not being treated as terrorism.",
@@ -2353,24 +2299,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/ukraine-kyiv-donald-trump-donbas-dmitry-peskov-b2879660.html",
       "source": "The Independent World",
       "published_at": "2025-12-07T13:49:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0a4defc60c196f97",
-      "title_orig": "Two-year-old boy dies in pit bull attack as British mum arrested",
-      "summary_orig": "A two-year-old boy has died after being attacked by a pit bull at his family home in Zante, Greece.",
-      "lang": "en",
-      "title_en": "Two-year-old boy dies in pit bull attack as British mum arrested",
-      "summary_en": "A two-year-old boy has died after being attacked by a pit bull at his family home in Zante, Greece.",
-      "title": "Two-year-old boy dies in pit bull attack as British mum arrested",
-      "summary": "A two-year-old boy has died after being attacked by a pit bull at his family home in Zante, Greece.",
-      "url": "https://www.standard.co.uk/news/world/twoyearold-boy-dies-in-pit-bull-attack-as-british-mum-arrested-b1261506.html",
-      "source": "The Standard News",
-      "published_at": "2025-12-07T13:29:56+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3357,24 +3285,6 @@
         "lat": 53.4213,
         "lon": -6.2701
       }
-    },
-    {
-      "id": "ab985e3e843d8e83",
-      "title_orig": "United flight UA949 to SFO is declaring an emergency and turning around near Scotland",
-      "summary_orig": "A Boeing 777 made a U-turn between Iceland and Scotland after pilots declared an emergency. United Airlines flight UA949 departed London Heathrow at 13:42 GMT for a 10-hour flight to San Francisco. The 26-year-old plane departed from Gate B41 at Terminal 2. The Boeing 777-200ER (registration N74007) was cruising at 34,000 feet between Iceland and […] The post United flight UA949 to SFO is declaring an emergency and turning around near Scotland appeared first on AIRLIVE .",
-      "lang": "en",
-      "title_en": "United flight UA949 to SFO is declaring an emergency and turning around near Scotland",
-      "summary_en": "A Boeing 777 made a U-turn between Iceland and Scotland after pilots declared an emergency. United Airlines flight UA949 departed London Heathrow at 13:42 GMT for a 10-hour flight to San Francisco. The 26-year-old plane departed from Gate B41 at Terminal 2. The Boeing 777-200ER (registration N74007) was cruising at 34,000 feet between Iceland and […] The post United flight UA949 to SFO is declaring an emergency and turning around near Scotland appeared first on AIRLIVE .",
-      "title": "United flight UA949 to SFO is declaring an emergency and turning around near Scotland",
-      "summary": "A Boeing 777 made a U-turn between Iceland and Scotland after pilots declared an emergency. United Airlines flight UA949 departed London Heathrow at 13:42 GMT for a 10-hour flight to San Francisco. The 26-year-old plane departed from Gate B41 at Terminal 2. The Boeing 777-200ER (registration N74007) was cruising at 34,000 feet between Iceland and […] The post United flight UA949 to SFO is declaring an emergency and turning around near Scotland appeared first on AIRLIVE .",
-      "url": "https://airlive.net/emergency/2025/12/04/united-flight-ua949-to-sfo-is-declaring-an-emergency-and-turning-around-near-scotland/",
-      "source": "AIRLIVE",
-      "published_at": "2025-12-04T15:50:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "eb2120452d39d2c1",
