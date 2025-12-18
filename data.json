@@ -1,6 +1,159 @@
 {
-  "generated_at": "2025-12-18T18:59:41.455707+00:00",
+  "generated_at": "2025-12-18T19:20:54.613140+00:00",
   "items": [
+    {
+      "id": "bc765c74d7e09c98",
+      "title_orig": "Washington ATC Facility Evacuation Prompts Severe Traffic Jam & Delays At New York-JFK Airport",
+      "summary_orig": "Unprecedented scenes unfold at New York's JFK Airport amid the evacuation of the Washington ATC facility.",
+      "lang": "en",
+      "title_en": "Washington ATC Facility Evacuation Prompts Severe Traffic Jam & Delays At New York-JFK Airport",
+      "summary_en": "Unprecedented scenes unfold at New York's JFK Airport amid the evacuation of the Washington ATC facility.",
+      "title": "Washington ATC Facility Evacuation Prompts Severe Traffic Jam & Delays At New York-JFK Airport",
+      "summary": "Unprecedented scenes unfold at New York's JFK Airport amid the evacuation of the Washington ATC facility.",
+      "url": "https://simpleflying.com/washington-atc-facility-evacuation-severe-traffic-jam-delays-new-york-jfk-airport/",
+      "source": "Simple Flying",
+      "published_at": "2025-12-18T19:12:11+00:00",
+      "tags": [
+        "JFK",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "John F. Kennedy",
+        "city": "New York",
+        "country": "United States",
+        "iata": "JFK",
+        "lat": 40.6413,
+        "lon": -73.7781
+      }
+    },
+    {
+      "id": "74490e44d5abef00",
+      "title_orig": "Punjab farmers stage protests against Bill",
+      "summary_orig": "Farmers’ outfit threatens to stage rail roko if their demands are not met",
+      "lang": "en",
+      "title_en": "Punjab farmers stage protests against Bill",
+      "summary_en": "Farmers’ outfit threatens to stage rail roko if their demands are not met",
+      "title": "Punjab farmers stage protests against Bill",
+      "summary": "Farmers’ outfit threatens to stage rail roko if their demands are not met",
+      "url": "https://www.thehindu.com/news/national/punjab/punjab-farmers-stage-protests-against-bill/article70412012.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-12-18T19:08:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9d37f0b04b1dda5c",
+      "title_orig": "Friend: NASCAR driver Greg Biffle, family on plane that crashed in North Carolina",
+      "summary_orig": "A local sheriff confirmed there are multiple deaths after a business jet crashed at an airport in North Carolina.",
+      "lang": "en",
+      "title_en": "Friend: NASCAR driver Greg Biffle, family on plane that crashed in North Carolina",
+      "summary_en": "A local sheriff confirmed there are multiple deaths after a business jet crashed at an airport in North Carolina.",
+      "title": "Friend: NASCAR driver Greg Biffle, family on plane that crashed in North Carolina",
+      "summary": "A local sheriff confirmed there are multiple deaths after a business jet crashed at an airport in North Carolina.",
+      "url": "https://www.kgw.com/article/news/nation-world/north-carolina-plane-crash-statesville-nascar-greg-biffle/507-31e2a1f7-145d-41ee-be82-5ed3b3c6e658",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2025-12-18T19:03:39+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f63ea5f6833914cf",
+      "title_orig": "Former police sergeant claims he warned of Bondi attack a decade ago",
+      "summary_orig": "Steve Buttel claims he told his bosses he believed \"it was only a matter of time\" before there would be a terror attack targeting Bondi's Jewish community.",
+      "lang": "en",
+      "title_en": "Former police sergeant claims he warned of Bondi attack a decade ago",
+      "summary_en": "Steve Buttel claims he told his bosses he believed \"it was only a matter of time\" before there would be a terror attack targeting Bondi's Jewish community.",
+      "title": "Former police sergeant claims he warned of Bondi attack a decade ago",
+      "summary": "Steve Buttel claims he told his bosses he believed \"it was only a matter of time\" before there would be a terror attack targeting Bondi's Jewish community.",
+      "url": "https://www.abc.net.au/news/2025-12-19/nsw-former-police-officer-bondi-beach-terror-warning/106157580",
+      "source": "Just In",
+      "published_at": "2025-12-18T19:03:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c9c4f25f5c660552",
+      "title_orig": "Several feared dead after private jet crashes and bursts into flames at US airport",
+      "summary_orig": "The jet crashed near the runway of an airport in North Carolina",
+      "lang": "en",
+      "title_en": "Several feared dead after private jet crashes and bursts into flames at US airport",
+      "summary_en": "The jet crashed near the runway of an airport in North Carolina",
+      "title": "Several feared dead after private jet crashes and bursts into flames at US airport",
+      "summary": "The jet crashed near the runway of an airport in North Carolina",
+      "url": "https://www.standard.co.uk/news/world/north-carolina-airport-crash-b1263235.html",
+      "source": "The Standard News",
+      "published_at": "2025-12-18T19:02:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1cb72785b0c742fc",
+      "title_orig": "Multiple dead after plane owned by NASCAR star crashes at North Carolina airport",
+      "summary_orig": "The plane crashed Thursday morning at the Statesville Regional Airport",
+      "lang": "en",
+      "title_en": "Multiple dead after plane owned by NASCAR star crashes at North Carolina airport",
+      "summary_en": "The plane crashed Thursday morning at the Statesville Regional Airport",
+      "title": "Multiple dead after plane owned by NASCAR star crashes at North Carolina airport",
+      "summary": "The plane crashed Thursday morning at the Statesville Regional Airport",
+      "url": "https://www.independent.co.uk/news/world/americas/north-carolina-plane-crash-deaths-b2887220.html",
+      "source": "The Independent World",
+      "published_at": "2025-12-18T19:00:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "69b75a0114f74625",
+      "title_orig": "Drone tech lab opened at Vikrama Simhapuri University",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Drone tech lab opened at Vikrama Simhapuri University",
+      "summary_en": "",
+      "title": "Drone tech lab opened at Vikrama Simhapuri University",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/drone-tech-lab-opened-at-vikrama-simhapuri-university/article70412456.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2025-12-18T18:57:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d646e80788b79585",
+      "title_orig": "Three people rescued from burning Nottingham shop after alleged arson attack",
+      "summary_orig": "Police have arrested a suspect",
+      "lang": "en",
+      "title_en": "Three people rescued from burning Nottingham shop after alleged arson attack",
+      "summary_en": "Police have arrested a suspect",
+      "title": "Three people rescued from burning Nottingham shop after alleged arson attack",
+      "summary": "Police have arrested a suspect",
+      "url": "https://www.nottinghampost.com/news/nottingham-news/three-people-rescued-burning-nottingham-10713079",
+      "source": "Nottinghamshire Live - frontpage",
+      "published_at": "2025-12-18T18:54:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "7c94d0f2a8ad1f28",
       "title_orig": "ASIO's 'grim reality' as it picks over Bondi intelligence gaps",
@@ -11,26 +164,8 @@
       "title": "ASIO's 'grim reality' as it picks over Bondi intelligence gaps",
       "summary": "As Australia's intelligence agencies look back over how the Bondi attackers were missed, a \"grim reality\" of their jobs confronts the country.",
       "url": "https://www.abc.net.au/news/2025-12-19/asio-grim-reality-bondi-intelligence-gaps/106153836",
-      "source": "ABC News",
+      "source": "Just In",
       "published_at": "2025-12-18T18:54:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9d37f0b04b1dda5c",
-      "title_orig": "Plane owned by former NASCAR driver crashes at North Carolina airport",
-      "summary_orig": "A local sheriff confirmed there are multiple deaths after a business jet crashed at an airport in North Carolina.",
-      "lang": "en",
-      "title_en": "Plane owned by former NASCAR driver crashes at North Carolina airport",
-      "summary_en": "A local sheriff confirmed there are multiple deaths after a business jet crashed at an airport in North Carolina.",
-      "title": "Plane owned by former NASCAR driver crashes at North Carolina airport",
-      "summary": "A local sheriff confirmed there are multiple deaths after a business jet crashed at an airport in North Carolina.",
-      "url": "https://www.kgw.com/article/news/nation-world/north-carolina-plane-crash-statesville-nascar-greg-biffle/507-31e2a1f7-145d-41ee-be82-5ed3b3c6e658",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2025-12-18T18:50:53+00:00",
       "tags": [
         "airport/security"
       ],
@@ -75,12 +210,12 @@
     },
     {
       "id": "1879949d750b77ef",
-      "title_orig": "Business jet crashes at North Carolina airport; local sheriff confirms fatalities",
+      "title_orig": "Deaths reported after business jet crashes at North Carolina airport",
       "summary_orig": "A business jet with ties to semi-retired NASCAR driver Greg Biffle crashed at a North Carolina airport on Thursday morning, erupting into flames on the tarmac.",
       "lang": "en",
-      "title_en": "Business jet crashes at North Carolina airport; local sheriff confirms fatalities",
+      "title_en": "Deaths reported after business jet crashes at North Carolina airport",
       "summary_en": "A business jet with ties to semi-retired NASCAR driver Greg Biffle crashed at a North Carolina airport on Thursday morning, erupting into flames on the tarmac.",
-      "title": "Business jet crashes at North Carolina airport; local sheriff confirms fatalities",
+      "title": "Deaths reported after business jet crashes at North Carolina airport",
       "summary": "A business jet with ties to semi-retired NASCAR driver Greg Biffle crashed at a North Carolina airport on Thursday morning, erupting into flames on the tarmac.",
       "url": "https://fox5sandiego.com/news/business-jet-crashes-at-north-carolina-airport-local-sheriff-confirms-fatalities/",
       "source": "FOX 5 San Diego & KUSI News",
@@ -93,12 +228,12 @@
     },
     {
       "id": "427652e01d1eefe6",
-      "title_orig": "Business jet crashes at North Carolina airport; local sheriff confirms fatalities",
+      "title_orig": "Deaths reported after business jet crashes at North Carolina airport",
       "summary_orig": "A business jet with ties to semi-retired NASCAR driver Greg Biffle crashed at a North Carolina airport on Thursday morning, erupting into flames on the tarmac.",
       "lang": "en",
-      "title_en": "Business jet crashes at North Carolina airport; local sheriff confirms fatalities",
+      "title_en": "Deaths reported after business jet crashes at North Carolina airport",
       "summary_en": "A business jet with ties to semi-retired NASCAR driver Greg Biffle crashed at a North Carolina airport on Thursday morning, erupting into flames on the tarmac.",
-      "title": "Business jet crashes at North Carolina airport; local sheriff confirms fatalities",
+      "title": "Deaths reported after business jet crashes at North Carolina airport",
       "summary": "A business jet with ties to semi-retired NASCAR driver Greg Biffle crashed at a North Carolina airport on Thursday morning, erupting into flames on the tarmac.",
       "url": "https://ktla.com/news/business-jet-crashes-at-north-carolina-airport-local-sheriff-confirms-fatalities/",
       "source": "KTLA",
@@ -272,60 +407,6 @@
       "geo": {}
     },
     {
-      "id": "1cb72785b0c742fc",
-      "title_orig": "Multiple dead after plane owned by NASCAR star crashes at North Carolina airport",
-      "summary_orig": "The plane crashed Thursday morning at the Statesville Regional Airport",
-      "lang": "en",
-      "title_en": "Multiple dead after plane owned by NASCAR star crashes at North Carolina airport",
-      "summary_en": "The plane crashed Thursday morning at the Statesville Regional Airport",
-      "title": "Multiple dead after plane owned by NASCAR star crashes at North Carolina airport",
-      "summary": "The plane crashed Thursday morning at the Statesville Regional Airport",
-      "url": "https://www.independent.co.uk/news/world/americas/north-carolina-plane-crash-deaths-b2887220.html",
-      "source": "The Independent World",
-      "published_at": "2025-12-18T18:06:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c9c4f25f5c660552",
-      "title_orig": "Several feared dead after private jet crashes and bursts into flames at US airport",
-      "summary_orig": "The jet crashed near the runway of an airport in North Carolina",
-      "lang": "en",
-      "title_en": "Several feared dead after private jet crashes and bursts into flames at US airport",
-      "summary_en": "The jet crashed near the runway of an airport in North Carolina",
-      "title": "Several feared dead after private jet crashes and bursts into flames at US airport",
-      "summary": "The jet crashed near the runway of an airport in North Carolina",
-      "url": "https://www.standard.co.uk/news/world/north-carolina-airport-crash-b1263235.html",
-      "source": "The Standard News",
-      "published_at": "2025-12-18T18:05:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ca498ba7f8234eeb",
-      "title_orig": "Alleged leader of Tren de Aragua, labeled as a terrorist group, charged in New York but on the lam",
-      "summary_orig": "An alleged leader of the Tren de Aragua gang labeled by the United States as a terrorist organization has been charged in a New York federal court with racketeering conspiracy and terrorism-related charges.",
-      "lang": "en",
-      "title_en": "Alleged leader of Tren de Aragua, labeled as a terrorist group, charged in New York but on the lam",
-      "summary_en": "An alleged leader of the Tren de Aragua gang labeled by the United States as a terrorist organization has been charged in a New York federal court with racketeering conspiracy and terrorism-related charges.",
-      "title": "Alleged leader of Tren de Aragua, labeled as a terrorist group, charged in New York but on the lam",
-      "summary": "An alleged leader of the Tren de Aragua gang labeled by the United States as a terrorist organization has been charged in a New York federal court with racketeering conspiracy and terrorism-related charges.",
-      "url": "https://www.seattletimes.com/nation-world/nation/alleged-leader-of-tren-de-aragua-labeled-as-a-terrorist-group-charged-in-new-york-but-on-the-lam/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-12-18T18:03:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2d0d1c4058ff9bba",
       "title_orig": "Keir Starmer’s callous answers on farm tax show why his government is failing",
       "summary_orig": "The Prime Minister’s response on being told farmers with terminal illnesses were considering end their lives early to avoid Labour’s new inheritance tax on farms showed a startling lack of empathy",
@@ -337,24 +418,6 @@
       "url": "https://www.scotsman.com/news/opinion/columnists/keir-starmers-callous-answers-on-farm-tax-show-why-his-government-is-failing-5448328",
       "source": "The Scotsman",
       "published_at": "2025-12-18T18:00:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0bfd022c5d7dcaf7",
-      "title_orig": "Everett man, ‘fueled by hatred,’ sentenced for bombing neighbors’ car",
-      "summary_orig": "\"Call me a racist, call me whatever you want, but everyone in this room knows exactly how 'those people' act,” the suspect said, according to the charges.",
-      "lang": "en",
-      "title_en": "Everett man, ‘fueled by hatred,’ sentenced for bombing neighbors’ car",
-      "summary_en": "\"Call me a racist, call me whatever you want, but everyone in this room knows exactly how 'those people' act,” the suspect said, according to the charges.",
-      "title": "Everett man, ‘fueled by hatred,’ sentenced for bombing neighbors’ car",
-      "summary": "\"Call me a racist, call me whatever you want, but everyone in this room knows exactly how 'those people' act,” the suspect said, according to the charges.",
-      "url": "https://www.seattletimes.com/seattle-news/law-justice/everett-man-fueled-by-hatred-sentenced-for-bombing-neighbors-car/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-12-18T18:00:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -417,12 +480,12 @@
     },
     {
       "id": "9d06dc34794542dd",
-      "title_orig": "Deaths reported after business jet crashes at North Carolina airport",
+      "title_orig": "Multiple deaths reported after fiery plane crash at North Carolina airport",
       "summary_orig": "A business jet crashed on Thursday at a regional airport in North Carolina used by Nascar teams and Fortune 500 companies, erupting in a large fire and killing multiple people, authorities said.\n“I can confirm there were fatalities,” Iredell County Sheriff Darren Campbell said, though he declined to say how many.\nThe Cessna C550 is owned by retired Nascar driver Greg Biffle, Reuters reported. There was no immediate confirmation that Biffle was among the passengers.\nThe plane crashed while...",
       "lang": "en",
-      "title_en": "Deaths reported after business jet crashes at North Carolina airport",
+      "title_en": "Multiple deaths reported after fiery plane crash at North Carolina airport",
       "summary_en": "A business jet crashed on Thursday at a regional airport in North Carolina used by Nascar teams and Fortune 500 companies, erupting in a large fire and killing multiple people, authorities said.\n“I can confirm there were fatalities,” Iredell County Sheriff Darren Campbell said, though he declined to say how many.\nThe Cessna C550 is owned by retired Nascar driver Greg Biffle, Reuters reported. There was no immediate confirmation that Biffle was among the passengers.\nThe plane crashed while...",
-      "title": "Deaths reported after business jet crashes at North Carolina airport",
+      "title": "Multiple deaths reported after fiery plane crash at North Carolina airport",
       "summary": "A business jet crashed on Thursday at a regional airport in North Carolina used by Nascar teams and Fortune 500 companies, erupting in a large fire and killing multiple people, authorities said.\n“I can confirm there were fatalities,” Iredell County Sheriff Darren Campbell said, though he declined to say how many.\nThe Cessna C550 is owned by retired Nascar driver Greg Biffle, Reuters reported. There was no immediate confirmation that Biffle was among the passengers.\nThe plane crashed while...",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3336969/deaths-reported-after-business-jet-crashes-north-carolina-airport?utm_source=rss_feed",
       "source": "News - South China Morning Post",
@@ -830,24 +893,6 @@
       "geo": {}
     },
     {
-      "id": "e457f570e6e8bfe6",
-      "title_orig": "Many evacuation orders downgraded from WA floods",
-      "summary_orig": "In Pacific, the White River Estates, Park View and Megan Court apartments are still in the Level 3 evacuation zone because of the flooded White River.",
-      "lang": "en",
-      "title_en": "Many evacuation orders downgraded from WA floods",
-      "summary_en": "In Pacific, the White River Estates, Park View and Megan Court apartments are still in the Level 3 evacuation zone because of the flooded White River.",
-      "title": "Many evacuation orders downgraded from WA floods",
-      "summary": "In Pacific, the White River Estates, Park View and Megan Court apartments are still in the Level 3 evacuation zone because of the flooded White River.",
-      "url": "https://www.seattletimes.com/seattle-news/weather/many-evacuation-orders-downgraded-from-wa-floods/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-12-18T17:12:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "919d0aeb681ff7a8",
       "title_orig": "University lecturers suspend strike action after compulsory job cuts ruled out",
       "summary_orig": "University of Edinburgh staff have already walked out for nine days in 2025 in a dispute over the institution’s plans to make £140 million of cuts.",
@@ -949,24 +994,6 @@
       "url": "https://airlive.net/accident/2025/12/18/breaking-a-private-jet-has-crashed-while-trying-to-return-at-statesville-regional-airport/",
       "source": "AIRLIVE",
       "published_at": "2025-12-18T16:48:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "774f03c0ba81dc91",
-      "title_orig": "Multiple deaths reported in fiery business jet crash at regional airport in North Carolina",
-      "summary_orig": "A business jet has crashed at a regional airport in North Carolina, erupting in a large fire and killing multiple people.",
-      "lang": "en",
-      "title_en": "Multiple deaths reported in fiery business jet crash at regional airport in North Carolina",
-      "summary_en": "A business jet has crashed at a regional airport in North Carolina, erupting in a large fire and killing multiple people.",
-      "title": "Multiple deaths reported in fiery business jet crash at regional airport in North Carolina",
-      "summary": "A business jet has crashed at a regional airport in North Carolina, erupting in a large fire and killing multiple people.",
-      "url": "https://www.seattletimes.com/nation-world/nation/a-business-jet-crashed-while-landing-at-an-airport-in-north-carolina-erupting-in-a-large-fire/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-12-18T16:47:04+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1190,24 +1217,6 @@
       "geo": {}
     },
     {
-      "id": "8c33b4d04c370d86",
-      "title_orig": "A parking ticket in an ultra-Orthodox neighborhood in Jerusalem sets off clashes with police",
-      "summary_orig": "Israeli religious protesters have turned on municipal officers who attempted to write a parking ticket in an ultra-Orthodox neighborhood, attacking and injuring 13 police officers.",
-      "lang": "en",
-      "title_en": "A parking ticket in an ultra-Orthodox neighborhood in Jerusalem sets off clashes with police",
-      "summary_en": "Israeli religious protesters have turned on municipal officers who attempted to write a parking ticket in an ultra-Orthodox neighborhood, attacking and injuring 13 police officers.",
-      "title": "A parking ticket in an ultra-Orthodox neighborhood in Jerusalem sets off clashes with police",
-      "summary": "Israeli religious protesters have turned on municipal officers who attempted to write a parking ticket in an ultra-Orthodox neighborhood, attacking and injuring 13 police officers.",
-      "url": "https://www.seattletimes.com/nation-world/ultra-orthodox-clash-with-police-in-jerusalem-4-protesters-are-arrested-and-13-officers-injured/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-12-18T16:10:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b413f4e3c22343dd",
       "title_orig": "Politicians, lawyers express outrage over removal of IHC justice Jahangiri",
       "summary_orig": "The Islamabad High Court (IHC) ruled on Thursday that Justice Tariq Mehmood Jahangiri’s elevation to the superior court was “without lawful authority”, declaring that he “ceased to hold” the office of the IHC judge forthwith. A division bench led by Chief Justice Sardar Muhammad Sarfraz Dogar and Justice Muhammad Azam Khan issued the judgment, which was reserved earlier today, on a plea that challenged the legitimacy of Justice Jahangiri’s law degree and appointment as a judge. Political figures and lawyers came out and assailed the IHC ruling, stating that the “case and bench had no merit to be heard”, while standing in solidarity with Jahangiri. PTI Chairman Barrister Gohar Ali Khan called Jahangiri’s removal an “unprecedented and troubling move” in a post on X. “I take strong exception to the order. It further erodes judicial independence,” he wrote. “The constitutional oath to preserve, protect, and defend the Constitution becomes meaningless if judges are unable to protect and defend themselves within their own court.” Gohar noted that this was not the first case in which judges have been unceremoniously removed from their offices, but urged that this be the last one. He also demanded the restoration of Justice Jahangiri. PTI lawyer Naeem Haider Panjhuta took to X and said that Jahangiri ‘s “degree became fake” when he “refused to open three constituencies”. “Under Article 209 of the Constitution, only the Supreme Judicial Council has the authority to remove any judge of a High Court or the Supreme Court,” Panjhuta wrote. “Not a judge of any high Court, and that judge must be one whose seniority has been challenged by the affected judge, who is sitting in the light of the 26th Amendment.” In a post on X, lawyer Imaan Zainab Mazari-Hazir lamented that an “ honest and brave judge was sent home for upholding his oath. “This is a stain that cannot be erased. This is the result of the twenty-sixth and twenty-seventh amendments,” she wrote. “If the lawyers let the lion of the judiciary become a martyr today, then tomorrow, when everyone’s turn comes in the jungle, no one should complain. Such a country cannot function.” She added that lawyers need to come out onto the streets in protest of the ruling. “In what words will the judges of this division bench be remembered? Everyone knows.” Lawyer Hadi Ali Chatta, who is married to Imaan, also expressed solidarity with Jahangiri in a post on X “Justice Jahangiri will remain ever alive, but those who attacked him will keep hiding their cowardly faces.” Digital activist Usama Khilji also condemned the removal of Justice Jahangir, writing: “Bit by bit, whatever good is left in the judiciary in Pakistan is being completely dismantled — [the] question is how long will we continue to let this happen to us?” Barrister Ahsan J Pirzada said that there was no “legal, ethical or constitutional justification for the ‘transferred’ judges of Islamabad High Court to hear or decide [the] manufactured case against honourable Justice Jahangiri”. “This just goes to show how rotten the system has become, on one hand, 16 years old son of a ‘transferred’ judge can get away with killing two young women and on the other hand, the ‘transferred’ judges are absolutely comfortable and willing to humiliate their own institution by playing a role which is both questionable & unconstitutional,” he wrote, referring to an incident in which two women were killed by a car allegedly driven by an IHC justice’s son.",
@@ -1298,42 +1307,6 @@
       "geo": {}
     },
     {
-      "id": "a80044eb2dd61365",
-      "title_orig": "What you need to know as Manchester Arena bombing victims set to receive millions in damages",
-      "summary_orig": "It followed a hearing before a judge at Manchester's Civil Justice Centre",
-      "lang": "en",
-      "title_en": "What you need to know as Manchester Arena bombing victims set to receive millions in damages",
-      "summary_en": "It followed a hearing before a judge at Manchester's Civil Justice Centre",
-      "title": "What you need to know as Manchester Arena bombing victims set to receive millions in damages",
-      "summary": "It followed a hearing before a judge at Manchester's Civil Justice Centre",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/what-you-need-know-manchester-33084274",
-      "source": "MEN - News",
-      "published_at": "2025-12-18T15:47:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4ca2727440bb013a",
-      "title_orig": "After the LA fires, heart attacks and strange blood-test results spiked",
-      "summary_orig": "The study, part of a research project documenting the fires’ long-term health effects, joins several recent papers documenting the disasters’ physical toll.",
-      "lang": "en",
-      "title_en": "After the LA fires, heart attacks and strange blood-test results spiked",
-      "summary_en": "The study, part of a research project documenting the fires’ long-term health effects, joins several recent papers documenting the disasters’ physical toll.",
-      "title": "After the LA fires, heart attacks and strange blood-test results spiked",
-      "summary": "The study, part of a research project documenting the fires’ long-term health effects, joins several recent papers documenting the disasters’ physical toll.",
-      "url": "https://www.seattletimes.com/nation-world/after-the-la-fires-heart-attacks-and-strange-blood-test-results-spiked/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-12-18T15:45:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ba282fc3c245ce6f",
       "title_orig": "Nato on alert after Russian border guards ‘illegally cross border into Estonia’ on hovercraft",
       "summary_orig": "Russia has been accused of repeated incursions into Nato territory by fighter jets and drones in recent months",
@@ -1345,24 +1318,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/russia-estonia-border-guards-nato-b2887037.html",
       "source": "The Independent World",
       "published_at": "2025-12-18T15:44:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "295a1ff22b00d7db",
-      "title_orig": "Families of hunger strikers pray they ‘do not have to prepare obits for them’",
-      "summary_orig": "Zarah Sultana is campaigning in support of the pro-Palestine hunger strikers.",
-      "lang": "en",
-      "title_en": "Families of hunger strikers pray they ‘do not have to prepare obits for them’",
-      "summary_en": "Zarah Sultana is campaigning in support of the pro-Palestine hunger strikers.",
-      "title": "Families of hunger strikers pray they ‘do not have to prepare obits for them’",
-      "summary": "Zarah Sultana is campaigning in support of the pro-Palestine hunger strikers.",
-      "url": "https://metro.co.uk/2025/12/18/families-hunger-strikers-pray-do-not-prepare-obits-them-25586598/",
-      "source": "Metro",
-      "published_at": "2025-12-18T15:39:43+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1399,24 +1354,6 @@
       "url": "https://www.birminghammail.co.uk/news/midlands-news/appeal-after-spanner-attack-midlands-33083846",
       "source": "Birmingham Live - News",
       "published_at": "2025-12-18T15:35:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9e80537aa3f01709",
-      "title_orig": "Bombshell court accusation targets Elvis family, Travolta circle",
-      "summary_orig": "A dramatic amended lawsuit in the Presley family’s legal battle contains unverified claims that Riley Keough, Elvis Presley’s granddaughter, donated her eggs to John Travolta and his late wife Kelly Preston to help them conceive their son.",
-      "lang": "en",
-      "title_en": "Bombshell court accusation targets Elvis family, Travolta circle",
-      "summary_en": "A dramatic amended lawsuit in the Presley family’s legal battle contains unverified claims that Riley Keough, Elvis Presley’s granddaughter, donated her eggs to John Travolta and his late wife Kelly Preston to help them conceive their son.",
-      "title": "Bombshell court accusation targets Elvis family, Travolta circle",
-      "summary": "A dramatic amended lawsuit in the Presley family’s legal battle contains unverified claims that Riley Keough, Elvis Presley’s granddaughter, donated her eggs to John Travolta and his late wife Kelly Preston to help them conceive their son.",
-      "url": "https://www.cleveland.com/news/2025/12/bombshell-court-accusation-targets-elvis-family-travolta-circle.html",
-      "source": "cleveland.com",
-      "published_at": "2025-12-18T15:33:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2658,24 +2595,6 @@
       "geo": {}
     },
     {
-      "id": "ca0bf24be3163f53",
-      "title_orig": "Big Surprise! This Airline's Stunning New 24-Hour Australia Flights",
-      "summary_orig": "In a surprising twist, this European airport will get daily flights Down Under.",
-      "lang": "en",
-      "title_en": "Big Surprise! This Airline's Stunning New 24-Hour Australia Flights",
-      "summary_en": "In a surprising twist, this European airport will get daily flights Down Under.",
-      "title": "Big Surprise! This Airline's Stunning New 24-Hour Australia Flights",
-      "summary": "In a surprising twist, this European airport will get daily flights Down Under.",
-      "url": "https://simpleflying.com/biggest-surprise-this-airlines-stunning-new-24-hour-australia-flights/",
-      "source": "Simple Flying",
-      "published_at": "2025-12-18T09:30:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "73ef04e8d839b8af",
       "title_orig": "Hong Kong to become Asia’s leading aircraft recycling hub, John Lee vows",
       "summary_orig": "Hong Kong’s leader has vowed to turn the city into a leading Asian hub for aircraft recycling and parts trading, with a new locally based training centre set to offer four aviation technician courses next year.\nThe Aircraft Engineering Training Centre was jointly launched on Thursday by the Airport Authority’s Hong Kong International Aviation Academy and French aeronautical services company the Elior Group, a subsidiary of the Derichebourg Group.\nAttending the launch ceremony, Chief Executive...",
@@ -3218,12 +3137,12 @@
     {
       "id": "8224ca9e372cfd33",
       "title_orig": "US strike on alleged drug boat in Pacific kills four, as Trump accuses Venezuela of taking ‘our oil’",
-      "summary_orig": "The announcement from Pete Hegseth comes a day after Trump issued a blockade of all sanctioned oil tankers entering and leaving Venezuela The US military carried out a lethal strike on a vessel it said was engaged in drug trafficking in the eastern Pacific, according to defense secretary Pete Hegseth, as Trump further ratcheted up pressure on Venezuela, accusing the country of taking US oil. On Wednesday Hegseth said the “lethal kinetic strike” on a vessel engaged in “narco-trafficking operations” had killed four people. The latest strike in the Pacific brings the death toll to 99 since the US began its campaign of striking alleged drug-trafficking boats in September. Continue reading...",
+      "summary_orig": "Hegseth announcement comes day after Trump blockades all sanctioned oil tankers entering and leaving Venezuela The US military carried out a lethal strike on a vessel it said was engaged in drug trafficking in the eastern Pacific, according to the defense secretary, Pete Hegseth, as Trump further ratcheted up pressure on Venezuela, accusing the country of taking US oil. On Wednesday Hegseth said the “lethal kinetic strike” on a vessel engaged in “narco-trafficking operations” had killed four people. The latest strike in the Pacific brings the death toll to 99 since the US began its campaign of striking alleged drug-trafficking boats in September. Continue reading...",
       "lang": "en",
       "title_en": "US strike on alleged drug boat in Pacific kills four, as Trump accuses Venezuela of taking ‘our oil’",
-      "summary_en": "The announcement from Pete Hegseth comes a day after Trump issued a blockade of all sanctioned oil tankers entering and leaving Venezuela The US military carried out a lethal strike on a vessel it said was engaged in drug trafficking in the eastern Pacific, according to defense secretary Pete Hegseth, as Trump further ratcheted up pressure on Venezuela, accusing the country of taking US oil. On Wednesday Hegseth said the “lethal kinetic strike” on a vessel engaged in “narco-trafficking operations” had killed four people. The latest strike in the Pacific brings the death toll to 99 since the US began its campaign of striking alleged drug-trafficking boats in September. Continue reading...",
+      "summary_en": "Hegseth announcement comes day after Trump blockades all sanctioned oil tankers entering and leaving Venezuela The US military carried out a lethal strike on a vessel it said was engaged in drug trafficking in the eastern Pacific, according to the defense secretary, Pete Hegseth, as Trump further ratcheted up pressure on Venezuela, accusing the country of taking US oil. On Wednesday Hegseth said the “lethal kinetic strike” on a vessel engaged in “narco-trafficking operations” had killed four people. The latest strike in the Pacific brings the death toll to 99 since the US began its campaign of striking alleged drug-trafficking boats in September. Continue reading...",
       "title": "US strike on alleged drug boat in Pacific kills four, as Trump accuses Venezuela of taking ‘our oil’",
-      "summary": "The announcement from Pete Hegseth comes a day after Trump issued a blockade of all sanctioned oil tankers entering and leaving Venezuela The US military carried out a lethal strike on a vessel it said was engaged in drug trafficking in the eastern Pacific, according to defense secretary Pete Hegseth, as Trump further ratcheted up pressure on Venezuela, accusing the country of taking US oil. On Wednesday Hegseth said the “lethal kinetic strike” on a vessel engaged in “narco-trafficking operations” had killed four people. The latest strike in the Pacific brings the death toll to 99 since the US began its campaign of striking alleged drug-trafficking boats in September. Continue reading...",
+      "summary": "Hegseth announcement comes day after Trump blockades all sanctioned oil tankers entering and leaving Venezuela The US military carried out a lethal strike on a vessel it said was engaged in drug trafficking in the eastern Pacific, according to the defense secretary, Pete Hegseth, as Trump further ratcheted up pressure on Venezuela, accusing the country of taking US oil. On Wednesday Hegseth said the “lethal kinetic strike” on a vessel engaged in “narco-trafficking operations” had killed four people. The latest strike in the Pacific brings the death toll to 99 since the US began its campaign of striking alleged drug-trafficking boats in September. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2025/dec/17/military-strike-pacific-hegseth",
       "source": "World news | The Guardian",
       "published_at": "2025-12-18T05:29:23+00:00",
@@ -3321,24 +3240,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "72ccdcece15eb812",
-      "title_orig": "Call for witnesses to come forward after ‘disturbing instance of extreme violence’ leaves person critically injured",
-      "summary_orig": "Victim remains in critical condition following early morning attack.",
-      "lang": "en",
-      "title_en": "Call for witnesses to come forward after ‘disturbing instance of extreme violence’ leaves person critically injured",
-      "summary_en": "Victim remains in critical condition following early morning attack.",
-      "title": "Call for witnesses to come forward after ‘disturbing instance of extreme violence’ leaves person critically injured",
-      "summary": "Victim remains in critical condition following early morning attack.",
-      "url": "https://www.stuff.co.nz/nz-news/360916271/call-witnesses-come-forward-after-disturbing-instance-extreme-violence-leaves-person-critically",
-      "source": "Stuff - /",
-      "published_at": "2025-12-18T03:02:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
