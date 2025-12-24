@@ -1,6 +1,60 @@
 {
-  "generated_at": "2025-12-24T19:41:52.015478+00:00",
+  "generated_at": "2025-12-24T20:21:56.351865+00:00",
   "items": [
+    {
+      "id": "e95fb1301222da69",
+      "title_orig": "Several killed in blast at mosque in northeast Nigeria",
+      "summary_orig": "At least seven people were killed on Wednesday when an explosion tore through a crowded mosque in the northeastern Nigerian city of Maiduguri during evening prayers, according to witnesses and security sources. No group has yet claimed responsibility for the suspected bombing in a city that has endured years of insurgency but has been largely calm in recent years.",
+      "lang": "en",
+      "title_en": "Several killed in blast at mosque in northeast Nigeria",
+      "summary_en": "At least seven people were killed on Wednesday when an explosion tore through a crowded mosque in the northeastern Nigerian city of Maiduguri during evening prayers, according to witnesses and security sources. No group has yet claimed responsibility for the suspected bombing in a city that has endured years of insurgency but has been largely calm in recent years.",
+      "title": "Several killed in blast at mosque in northeast Nigeria",
+      "summary": "At least seven people were killed on Wednesday when an explosion tore through a crowded mosque in the northeastern Nigerian city of Maiduguri during evening prayers, according to witnesses and security sources. No group has yet claimed responsibility for the suspected bombing in a city that has endured years of insurgency but has been largely calm in recent years.",
+      "url": "https://www.france24.com/en/africa/20251224-several-killed-in-blast-at-mosque-in-northeast-nigeria",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2025-12-24T20:07:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e6b28847446df491",
+      "title_orig": "Russian strikes cause sunflower oil spill in Ukraine’s Odesa",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Russian strikes cause sunflower oil spill in Ukraine’s Odesa",
+      "summary_en": "",
+      "title": "Russian strikes cause sunflower oil spill in Ukraine’s Odesa",
+      "summary": "",
+      "url": "https://www.straitstimes.com/world/europe/russian-strikes-cause-sunflower-oil-spill-in-ukraines-odesa",
+      "source": "The Straits Times World News",
+      "published_at": "2025-12-24T19:59:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f2558d1a17b8f6e3",
+      "title_orig": "Auburn man pleads guilty to hate crime, attacking Black woman with knife",
+      "summary_orig": "An Auburn man pleaded guilty to a hate crime after attacking a Black woman with a knife on a bus in Kent.",
+      "lang": "en",
+      "title_en": "Auburn man pleads guilty to hate crime, attacking Black woman with knife",
+      "summary_en": "An Auburn man pleaded guilty to a hate crime after attacking a Black woman with a knife on a bus in Kent.",
+      "title": "Auburn man pleads guilty to hate crime, attacking Black woman with knife",
+      "summary": "An Auburn man pleaded guilty to a hate crime after attacking a Black woman with a knife on a bus in Kent.",
+      "url": "https://www.seattletimes.com/seattle-news/auburn-man-pleads-guilty-to-hate-crime-attacking-black-woman-with-knife/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-12-24T19:48:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "6e6f1c619cedcd41",
       "title_orig": "Man arrested after reported sexual assault of two women in Moy",
@@ -75,12 +129,12 @@
     },
     {
       "id": "bb401ffa3a1040e5",
-      "title_orig": "Years, months and weeks disappear in seconds at Manchester Airport arrivals hall",
+      "title_orig": "Years, months and weeks disappear in seconds on Christmas Eve at Manchester Airport",
       "summary_orig": "Gangaa Govin can barely stand still. Craning her neck, she's waiting for her best friend",
       "lang": "en",
-      "title_en": "Years, months and weeks disappear in seconds at Manchester Airport arrivals hall",
+      "title_en": "Years, months and weeks disappear in seconds on Christmas Eve at Manchester Airport",
       "summary_en": "Gangaa Govin can barely stand still. Craning her neck, she's waiting for her best friend",
-      "title": "Years, months and weeks disappear in seconds at Manchester Airport arrivals hall",
+      "title": "Years, months and weeks disappear in seconds on Christmas Eve at Manchester Airport",
       "summary": "Gangaa Govin can barely stand still. Craning her neck, she's waiting for her best friend",
       "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/years-months-weeks-disappear-seconds-33120440",
       "source": "MEN - News",
@@ -162,6 +216,24 @@
         "lat": 51.1537,
         "lon": -0.1821
       }
+    },
+    {
+      "id": "aac2274a7c5f36f9",
+      "title_orig": "Nigeria mosque bombing kills at least seven",
+      "summary_orig": "The bomb went off as Muslim faithful gathered for evening prayers.",
+      "lang": "en",
+      "title_en": "Nigeria mosque bombing kills at least seven",
+      "summary_en": "The bomb went off as Muslim faithful gathered for evening prayers.",
+      "title": "Nigeria mosque bombing kills at least seven",
+      "summary": "The bomb went off as Muslim faithful gathered for evening prayers.",
+      "url": "https://www.straitstimes.com/world/blast-hits-mosque-during-evening-prayers-in-nigerias-maiduguri-witness-says",
+      "source": "The Straits Times World News",
+      "published_at": "2025-12-24T18:33:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
     },
     {
       "id": "ef91620de99adcfa",
@@ -374,24 +446,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-trump-peace-siversk-latest-news-b2889916.html",
       "source": "The Independent World",
       "published_at": "2025-12-24T17:06:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e56423c3c4bac32e",
-      "title_orig": "N.S. man charged after RCMP discover homemade bombs, firearms",
-      "summary_orig": "A 34-year-old man is facing multiple firearms offences, including six counts of the unauthorized possession of a prohibited or restricted weapon.",
-      "lang": "en",
-      "title_en": "N.S. man charged after RCMP discover homemade bombs, firearms",
-      "summary_en": "A 34-year-old man is facing multiple firearms offences, including six counts of the unauthorized possession of a prohibited or restricted weapon.",
-      "title": "N.S. man charged after RCMP discover homemade bombs, firearms",
-      "summary": "A 34-year-old man is facing multiple firearms offences, including six counts of the unauthorized possession of a prohibited or restricted weapon.",
-      "url": "https://globalnews.ca/news/11590219/nova-scotia-firearms-bombs-charges/",
-      "source": "globalnews.ca",
-      "published_at": "2025-12-24T17:02:33+00:00",
       "tags": [
         "airport/security"
       ],
@@ -698,24 +752,6 @@
       "url": "https://www.hindustantimes.com/india-news/lynched-hung-burnt-the-gruesome-lynching-of-dipu-chandra-das-that-has-hit-india-bangladesh-ties-101766584693649.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2025-12-24T15:00:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "fccd02b8ed1514b0",
-      "title_orig": "BJP stages protest over Hate Speech Bill",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "BJP stages protest over Hate Speech Bill",
-      "summary_en": "",
-      "title": "BJP stages protest over Hate Speech Bill",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/karnataka/bjp-stages-protest-over-hate-speech-bill/article70434323.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-12-24T14:46:48+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1767,24 +1803,6 @@
       "geo": {}
     },
     {
-      "id": "45de988b1166e2ec",
-      "title_orig": "Tourist cut holiday short after alleged attack on Melbourne pier",
-      "summary_orig": "Police are searching for a group of up to eight people allegedly involved in an assault last Thursday, which left a Norwegian tourist with a broken arm and facial injuries.",
-      "lang": "en",
-      "title_en": "Tourist cut holiday short after alleged attack on Melbourne pier",
-      "summary_en": "Police are searching for a group of up to eight people allegedly involved in an assault last Thursday, which left a Norwegian tourist with a broken arm and facial injuries.",
-      "title": "Tourist cut holiday short after alleged attack on Melbourne pier",
-      "summary": "Police are searching for a group of up to eight people allegedly involved in an assault last Thursday, which left a Norwegian tourist with a broken arm and facial injuries.",
-      "url": "https://www.abc.net.au/news/2025-12-24/norwegian-tourist-attacked-st-kilda-pier/106177528",
-      "source": "Just In",
-      "published_at": "2025-12-24T04:47:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8626cc86f7a787b6",
       "title_orig": "Airplane automatically lands itself after an inflight emergency",
       "summary_orig": "The plane landed safely at the Rocky Mountain Metropolitan Airport near Denver",
@@ -1818,24 +1836,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "590b66369d309f00",
-      "title_orig": "Protest, gun laws won't stop Invasion Day rallies, NSW Premier says",
-      "summary_orig": "Premier Chris Minns says some of the tougher laws on guns and protests in the wake of the Bondi Beach attack will go into effect immediately after the NSW Parliament passed a package of changes in the early hours of Wednesday morning.",
-      "lang": "en",
-      "title_en": "Protest, gun laws won't stop Invasion Day rallies, NSW Premier says",
-      "summary_en": "Premier Chris Minns says some of the tougher laws on guns and protests in the wake of the Bondi Beach attack will go into effect immediately after the NSW Parliament passed a package of changes in the early hours of Wednesday morning.",
-      "title": "Protest, gun laws won't stop Invasion Day rallies, NSW Premier says",
-      "summary": "Premier Chris Minns says some of the tougher laws on guns and protests in the wake of the Bondi Beach attack will go into effect immediately after the NSW Parliament passed a package of changes in the early hours of Wednesday morning.",
-      "url": "https://www.abc.net.au/news/2025-12-24/bondi-massacre-nsw-premier-chris-minns-reforms-will-continue/106176748",
-      "source": "Just In",
-      "published_at": "2025-12-24T03:14:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
