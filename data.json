@@ -1,6 +1,24 @@
 {
-  "generated_at": "2025-12-25T21:20:10.499582+00:00",
+  "generated_at": "2025-12-25T21:45:06.491153+00:00",
   "items": [
+    {
+      "id": "1e01655c9f115683",
+      "title_orig": "‘Carol of the Bells’ Once Filled the Air Here. Now It’s Only Bombs.",
+      "summary_orig": "Mykola Leontovych, the Ukrainian composer of the famed festive song, lived in the eastern city of Pokrovsk. Months of Russian assaults have erased most tributes to his life there.",
+      "lang": "en",
+      "title_en": "‘Carol of the Bells’ Once Filled the Air Here. Now It’s Only Bombs.",
+      "summary_en": "Mykola Leontovych, the Ukrainian composer of the famed festive song, lived in the eastern city of Pokrovsk. Months of Russian assaults have erased most tributes to his life there.",
+      "title": "‘Carol of the Bells’ Once Filled the Air Here. Now It’s Only Bombs.",
+      "summary": "Mykola Leontovych, the Ukrainian composer of the famed festive song, lived in the eastern city of Pokrovsk. Months of Russian assaults have erased most tributes to his life there.",
+      "url": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-carol-of-the-bells-pokrovsk.html",
+      "source": "NYT > World News",
+      "published_at": "2025-12-25T21:14:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "ea16fb5e540732ff",
       "title_orig": "No Power, No Heat, No Water: Odesa’s Days of Hell Under Russian Fire",
@@ -200,6 +218,24 @@
       "geo": {}
     },
     {
+      "id": "29a6ad97fd4503a1",
+      "title_orig": "Turkey detains dozens of IS suspects planning attacks on Christmas and New Year celebrations",
+      "summary_orig": "ISTANBUL (AP) — Officers from the Istanbul Police Counter-Terrorism Department launched simultaneous raids on Thursday at 124 locations and detained…",
+      "lang": "en",
+      "title_en": "Turkey detains dozens of IS suspects planning attacks on Christmas and New Year celebrations",
+      "summary_en": "ISTANBUL (AP) — Officers from the Istanbul Police Counter-Terrorism Department launched simultaneous raids on Thursday at 124 locations and detained…",
+      "title": "Turkey detains dozens of IS suspects planning attacks on Christmas and New Year celebrations",
+      "summary": "ISTANBUL (AP) — Officers from the Istanbul Police Counter-Terrorism Department launched simultaneous raids on Thursday at 124 locations and detained…",
+      "url": "https://wtop.com/world/2025/12/turkey-detains-dozens-of-is-suspects-planning-attacks-on-christmas-and-new-year-celebrations/",
+      "source": "WTOP News",
+      "published_at": "2025-12-25T17:22:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "bc29b11fe46b8d8c",
       "title_orig": "Legacy Health and unionized workers reach tentative agreement",
       "summary_orig": "The tentative agreement includes pay raises and the creation of a committee aimed at improving communication. If ratified, it would end a strike that began Dec. 2.",
@@ -373,24 +409,6 @@
       "url": "https://www.straitstimes.com/world/europe/swedish-police-investigating-serious-incident-in-boden-north-sweden",
       "source": "The Straits Times World News",
       "published_at": "2025-12-25T15:24:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ae60d7a92b5eafd2",
-      "title_orig": "Ukraine Russia war latest: Moscow launches 130 drones in Christmas night attack killing at least two",
-      "summary_orig": "Vladimir Putin’s assaults on Ukraine have continued despite US and European efforts to seal a peace deal",
-      "lang": "en",
-      "title_en": "Ukraine Russia war latest: Moscow launches 130 drones in Christmas night attack killing at least two",
-      "summary_en": "Vladimir Putin’s assaults on Ukraine have continued despite US and European efforts to seal a peace deal",
-      "title": "Ukraine Russia war latest: Moscow launches 130 drones in Christmas night attack killing at least two",
-      "summary": "Vladimir Putin’s assaults on Ukraine have continued despite US and European efforts to seal a peace deal",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-peace-plan-moscow-car-bombing-news-b2890333.html",
-      "source": "The Independent World",
-      "published_at": "2025-12-25T15:23:27+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1065,24 +1083,6 @@
       "geo": {}
     },
     {
-      "id": "1e01655c9f115683",
-      "title_orig": "‘Carol of the Bells’ Once Filled the Air Here. Now It’s Only Bombs.",
-      "summary_orig": "Mykola Leontovych, the Ukrainian composer of the famed festive song, lived in the eastern city of Pokrovsk. Months of Russian assaults have erased most tributes to his life there.",
-      "lang": "en",
-      "title_en": "‘Carol of the Bells’ Once Filled the Air Here. Now It’s Only Bombs.",
-      "summary_en": "Mykola Leontovych, the Ukrainian composer of the famed festive song, lived in the eastern city of Pokrovsk. Months of Russian assaults have erased most tributes to his life there.",
-      "title": "‘Carol of the Bells’ Once Filled the Air Here. Now It’s Only Bombs.",
-      "summary": "Mykola Leontovych, the Ukrainian composer of the famed festive song, lived in the eastern city of Pokrovsk. Months of Russian assaults have erased most tributes to his life there.",
-      "url": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-carol-of-the-bells-pokrovsk.html",
-      "source": "NYT > World News",
-      "published_at": "2025-12-25T10:02:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "baeab288457b87d4",
       "title_orig": "Bethlehem celebrates first festive Christmas since Gaza war",
       "summary_orig": "Hundreds of worshippers gathered for mass at the Church of the Nativity in Bethlehem Wednesday night as the Palestinian city ushered in its first festive Christmas in more than two years, emerging from the shadow of the war in Gaza. Throughout the conflict that began with Hamas's attack on Israel in October 2023, a sombre tone had marked Christmases in the biblical birthplace of Jesus Christ.",
@@ -1363,13 +1363,13 @@
     },
     {
       "id": "e83728be5ca2fafc",
-      "title_orig": "Live: Ukraine fires Storm Shadows, drones at Russia’s energy facilities",
-      "summary_orig": "Ukraine launched British-made Storm Shadow missiles and domestically produced drones to strike Russian energy facilities, hitting the Novoshakhtinsk oil refinery and setting ablaze two oil storage tanks at the southern port of Temryuk, where flames spread over about 2,000 square metres, officials said. Follow our liveblog for all the latest updates.",
+      "title_orig": "Ukraine fires Storm Shadows, drones at Russia’s energy facilities",
+      "summary_orig": "Ukraine launched British-made Storm Shadow missiles and domestically produced drones to strike Russian energy facilities, hitting the Novoshakhtinsk oil refinery and setting ablaze two oil storage tanks at the southern port of Temryuk, where flames spread over about 2,000 square metres, officials said. Read our liveblog to see how the events unfolded.",
       "lang": "en",
-      "title_en": "Live: Ukraine fires Storm Shadows, drones at Russia’s energy facilities",
-      "summary_en": "Ukraine launched British-made Storm Shadow missiles and domestically produced drones to strike Russian energy facilities, hitting the Novoshakhtinsk oil refinery and setting ablaze two oil storage tanks at the southern port of Temryuk, where flames spread over about 2,000 square metres, officials said. Follow our liveblog for all the latest updates.",
-      "title": "Live: Ukraine fires Storm Shadows, drones at Russia’s energy facilities",
-      "summary": "Ukraine launched British-made Storm Shadow missiles and domestically produced drones to strike Russian energy facilities, hitting the Novoshakhtinsk oil refinery and setting ablaze two oil storage tanks at the southern port of Temryuk, where flames spread over about 2,000 square metres, officials said. Follow our liveblog for all the latest updates.",
+      "title_en": "Ukraine fires Storm Shadows, drones at Russia’s energy facilities",
+      "summary_en": "Ukraine launched British-made Storm Shadow missiles and domestically produced drones to strike Russian energy facilities, hitting the Novoshakhtinsk oil refinery and setting ablaze two oil storage tanks at the southern port of Temryuk, where flames spread over about 2,000 square metres, officials said. Read our liveblog to see how the events unfolded.",
+      "title": "Ukraine fires Storm Shadows, drones at Russia’s energy facilities",
+      "summary": "Ukraine launched British-made Storm Shadow missiles and domestically produced drones to strike Russian energy facilities, hitting the Novoshakhtinsk oil refinery and setting ablaze two oil storage tanks at the southern port of Temryuk, where flames spread over about 2,000 square metres, officials said. Read our liveblog to see how the events unfolded.",
       "url": "https://www.france24.com/en/europe/20251225-live-oil-tanks-on-fire-after-alleged-ukrainian-drone-attack-on-russia-s-temryuk-port",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2025-12-25T06:51:01+00:00",
@@ -1463,42 +1463,6 @@
       "url": "https://www.nottinghampost.com/news/local-news/east-midlands-airport-passengers-able-10605396",
       "source": "Nottinghamshire Live - frontpage",
       "published_at": "2025-12-25T04:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5f5ba40e436e8d75",
-      "title_orig": "Australia opts for all-pace bowling attack for Boxing Day Test",
-      "summary_orig": "With up to 10mm of grass on the MCG pitch, Australia has opted for a bold and historic option and left out offspinner Todd Murphy.",
-      "lang": "en",
-      "title_en": "Australia opts for all-pace bowling attack for Boxing Day Test",
-      "summary_en": "With up to 10mm of grass on the MCG pitch, Australia has opted for a bold and historic option and left out offspinner Todd Murphy.",
-      "title": "Australia opts for all-pace bowling attack for Boxing Day Test",
-      "summary": "With up to 10mm of grass on the MCG pitch, Australia has opted for a bold and historic option and left out offspinner Todd Murphy.",
-      "url": "https://www.abc.net.au/news/2025-12-25/australia-boxing-day-test-12-man-squad/106178630",
-      "source": "Just In",
-      "published_at": "2025-12-25T03:29:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4ce20e3045824d31",
-      "title_orig": "Public assemblies banned for 14 days across Sydney as police enact new laws",
-      "summary_orig": "The NSW Police Commissioner, Mal Lanyon, has activated new powers prescribed under changes to NSW protest laws sparked by the terrorist attack at Bondi Beach on December 14.",
-      "lang": "en",
-      "title_en": "Public assemblies banned for 14 days across Sydney as police enact new laws",
-      "summary_en": "The NSW Police Commissioner, Mal Lanyon, has activated new powers prescribed under changes to NSW protest laws sparked by the terrorist attack at Bondi Beach on December 14.",
-      "title": "Public assemblies banned for 14 days across Sydney as police enact new laws",
-      "summary": "The NSW Police Commissioner, Mal Lanyon, has activated new powers prescribed under changes to NSW protest laws sparked by the terrorist attack at Bondi Beach on December 14.",
-      "url": "https://www.abc.net.au/news/2025-12-25/public-assemblies-banned-14-days-in-sydney-under-new-protest-law/106178406",
-      "source": "Just In",
-      "published_at": "2025-12-25T03:19:59+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1809,24 +1773,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "71219961e30dacae",
-      "title_orig": "Israel green lights contentious Oct 7 attack probe, families demand independent inquiry",
-      "summary_orig": "Hamas' 2023 attack on Israel was Israel's biggest security lapse in decades.",
-      "lang": "en",
-      "title_en": "Israel green lights contentious Oct 7 attack probe, families demand independent inquiry",
-      "summary_en": "Hamas' 2023 attack on Israel was Israel's biggest security lapse in decades.",
-      "title": "Israel green lights contentious Oct 7 attack probe, families demand independent inquiry",
-      "summary": "Hamas' 2023 attack on Israel was Israel's biggest security lapse in decades.",
-      "url": "https://www.straitstimes.com/world/middle-east/netanyahu-coalition-pushes-contentious-oct-7-attack-probe-families-call-for-justice",
-      "source": "The Straits Times World News",
-      "published_at": "2025-12-24T15:53:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
