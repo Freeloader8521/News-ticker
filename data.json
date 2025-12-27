@@ -1,6 +1,177 @@
 {
-  "generated_at": "2025-12-26T23:46:00.803195+00:00",
+  "generated_at": "2025-12-27T01:09:15.434783+00:00",
   "items": [
+    {
+      "id": "c64c304b9f369405",
+      "title_orig": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+      "summary_orig": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing.",
+      "lang": "en",
+      "title_en": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+      "summary_en": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing.",
+      "title": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+      "summary": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing.",
+      "url": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
+      "source": "NYT > World News",
+      "published_at": "2025-12-27T00:50:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1d0eb18ecb6aaeaf",
+      "title_orig": "Ukrainian capital Kyiv under massive Russian attack, officials say",
+      "summary_orig": "A military Telegram channel said cruise and ballistic missiles were being deployed in the city.",
+      "lang": "en",
+      "title_en": "Ukrainian capital Kyiv under massive Russian attack, officials say",
+      "summary_en": "A military Telegram channel said cruise and ballistic missiles were being deployed in the city.",
+      "title": "Ukrainian capital Kyiv under massive Russian attack, officials say",
+      "summary": "A military Telegram channel said cruise and ballistic missiles were being deployed in the city.",
+      "url": "https://www.straitstimes.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-officials-say",
+      "source": "The Straits Times World News",
+      "published_at": "2025-12-27T00:49:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9bc9728fe893a280",
+      "title_orig": "Breaking: Ukrainian capital Kyiv under Russian attack, officials say",
+      "summary_orig": "Explosions have been heard, air defences are in operation and the military is on alert for impending missile attacks.",
+      "lang": "en",
+      "title_en": "Breaking: Ukrainian capital Kyiv under Russian attack, officials say",
+      "summary_en": "Explosions have been heard, air defences are in operation and the military is on alert for impending missile attacks.",
+      "title": "Breaking: Ukrainian capital Kyiv under Russian attack, officials say",
+      "summary": "Explosions have been heard, air defences are in operation and the military is on alert for impending missile attacks.",
+      "url": "https://www.abc.net.au/news/2025-12-27/ukrainian-capital-kyiv-under-russian-attack-officials-say/106181284",
+      "source": "Just In",
+      "published_at": "2025-12-27T00:40:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ca066019b532b27e",
+      "title_orig": "Delays and cancellations surge at Newark airport as major storm moves in",
+      "summary_orig": "At least 244 flights had been canceled as of Friday afternoon, with at least 262 more delayed.",
+      "lang": "en",
+      "title_en": "Delays and cancellations surge at Newark airport as major storm moves in",
+      "summary_en": "At least 244 flights had been canceled as of Friday afternoon, with at least 262 more delayed.",
+      "title": "Delays and cancellations surge at Newark airport as major storm moves in",
+      "summary": "At least 244 flights had been canceled as of Friday afternoon, with at least 262 more delayed.",
+      "url": "https://www.pennlive.com/nation-world/2025/12/delays-and-cancellations-surge-at-newark-airport-as-major-storm-moves-in.html",
+      "source": "pennlive.com",
+      "published_at": "2025-12-27T00:02:01+00:00",
+      "tags": [
+        "EWR",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Newark Liberty",
+        "city": "Newark",
+        "country": "United States",
+        "iata": "EWR",
+        "lat": 40.6895,
+        "lon": -74.1745
+      }
+    },
+    {
+      "id": "198755cb69d939b3",
+      "title_orig": "‘Can’t be brushed aside’: India on Bangladesh attacks",
+      "summary_orig": "India-Bangladesh relations have cratered since the creation of the interim government led by Muhammad Yunus in August 2024, and tensions have flared up in recent days after protests in Bangladesh over the killing of radical student leader Sharif Osman Hadi took on an anti-India hue",
+      "lang": "en",
+      "title_en": "‘Can’t be brushed aside’: India on Bangladesh attacks",
+      "summary_en": "India-Bangladesh relations have cratered since the creation of the interim government led by Muhammad Yunus in August 2024, and tensions have flared up in recent days after protests in Bangladesh over the killing of radical student leader Sharif Osman Hadi took on an anti-India hue",
+      "title": "‘Can’t be brushed aside’: India on Bangladesh attacks",
+      "summary": "India-Bangladesh relations have cratered since the creation of the interim government led by Muhammad Yunus in August 2024, and tensions have flared up in recent days after protests in Bangladesh over the killing of radical student leader Sharif Osman Hadi took on an anti-India hue",
+      "url": "https://www.hindustantimes.com/india-news/cant-be-brushed-aside-india-on-bangladesh-attacks-101766775171185.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2025-12-26T23:56:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e39954c28e0d9589",
+      "title_orig": "Two killed in suspected Palestinian ramming and knife attack in Israel",
+      "summary_orig": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away.",
+      "lang": "en",
+      "title_en": "Two killed in suspected Palestinian ramming and knife attack in Israel",
+      "summary_en": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away.",
+      "title": "Two killed in suspected Palestinian ramming and knife attack in Israel",
+      "summary": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away.",
+      "url": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-12-26T23:49:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3fd86c0ac778d520",
+      "title_orig": "Nigerian villagers rattled by US airstrikes that made their homes shake and the sky glow red",
+      "summary_orig": "US President Donald Trump announced late Thursday that the United States had launched a “powerful and deadly strike” against IS militants in Nigeria.",
+      "lang": "en",
+      "title_en": "Nigerian villagers rattled by US airstrikes that made their homes shake and the sky glow red",
+      "summary_en": "US President Donald Trump announced late Thursday that the United States had launched a “powerful and deadly strike” against IS militants in Nigeria.",
+      "title": "Nigerian villagers rattled by US airstrikes that made their homes shake and the sky glow red",
+      "summary": "US President Donald Trump announced late Thursday that the United States had launched a “powerful and deadly strike” against IS militants in Nigeria.",
+      "url": "https://www.stuff.co.nz/world-news/360918928/nigerian-villagers-rattled-us-airstrikes-made-their-homes-shake-and-sky-glow-red",
+      "source": "Stuff - /",
+      "published_at": "2025-12-26T23:45:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "73d37e6c474b7683",
+      "title_orig": "Trump’s Christmas gospel: Bombs, blessings and blame",
+      "summary_orig": "He used the holiday to project a vision of power rooted less in peace than grievance.",
+      "lang": "en",
+      "title_en": "Trump’s Christmas gospel: Bombs, blessings and blame",
+      "summary_en": "He used the holiday to project a vision of power rooted less in peace than grievance.",
+      "title": "Trump’s Christmas gospel: Bombs, blessings and blame",
+      "summary": "He used the holiday to project a vision of power rooted less in peace than grievance.",
+      "url": "https://www.straitstimes.com/world/united-states/trumps-christmas-gospel-bombs-blessings-and-blame",
+      "source": "The Straits Times World News",
+      "published_at": "2025-12-26T23:45:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "502ec74f6a7bcfe0",
+      "title_orig": "Trump says he ordered Nigeria strike delayed by a day to ‘give a Christmas present’",
+      "summary_orig": "US President ‌Donald Trump said on Friday that a US military strike targeting Islamic State militants in Nigeria was originally supposed to take place on Wednesday but he ordered it delayed by a day.\n“They were going to ‍do it earlier,” Trump told Politico in an ‌interview. “And I ⁠said, ‘nope, let’s give a Christmas present’. … They didn’t think that was coming but we hit them hard. ‌Every camp got decimated.”\nThursday’s strikes marked a major escalation in an offensive that the West African...",
+      "lang": "en",
+      "title_en": "Trump says he ordered Nigeria strike delayed by a day to ‘give a Christmas present’",
+      "summary_en": "US President ‌Donald Trump said on Friday that a US military strike targeting Islamic State militants in Nigeria was originally supposed to take place on Wednesday but he ordered it delayed by a day.\n“They were going to ‍do it earlier,” Trump told Politico in an ‌interview. “And I ⁠said, ‘nope, let’s give a Christmas present’. … They didn’t think that was coming but we hit them hard. ‌Every camp got decimated.”\nThursday’s strikes marked a major escalation in an offensive that the West African...",
+      "title": "Trump says he ordered Nigeria strike delayed by a day to ‘give a Christmas present’",
+      "summary": "US President ‌Donald Trump said on Friday that a US military strike targeting Islamic State militants in Nigeria was originally supposed to take place on Wednesday but he ordered it delayed by a day.\n“They were going to ‍do it earlier,” Trump told Politico in an ‌interview. “And I ⁠said, ‘nope, let’s give a Christmas present’. … They didn’t think that was coming but we hit them hard. ‌Every camp got decimated.”\nThursday’s strikes marked a major escalation in an offensive that the West African...",
+      "url": "https://www.scmp.com/news/world/africa/article/3337859/trump-says-he-ordered-nigeria-strike-delayed-day-give-christmas-present?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2025-12-26T23:39:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "532fea7aec221cfd",
       "title_orig": "The quiet, deserted meadows of Kashmir",
@@ -183,24 +354,6 @@
       "geo": {}
     },
     {
-      "id": "c64c304b9f369405",
-      "title_orig": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-      "summary_orig": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing.",
-      "lang": "en",
-      "title_en": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-      "summary_en": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing.",
-      "title": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-      "summary": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing.",
-      "url": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
-      "source": "NYT > World News",
-      "published_at": "2025-12-26T21:30:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "9881a3d309651b9b",
       "title_orig": "Suspect arrested after stabbing his pregnant wife to death in front of their other children, cops say",
       "summary_orig": "The woman had a restraining order against her 37-year-old husband at the time of the attack",
@@ -292,12 +445,12 @@
     },
     {
       "id": "31ffb54abd3f45d2",
-      "title_orig": "New Year's Eve celebrations to feature tribute to Bondi terror attack victims",
+      "title_orig": "Everything you need to know about the Sydney New Year's Eve fireworks",
       "summary_orig": "Sydney's New Year's Eve celebrations will this year pay tribute to the victims of the Bondi terror attack, with events to feature a heavy police presence. Here is everything you need to know to plan your night.",
       "lang": "en",
-      "title_en": "New Year's Eve celebrations to feature tribute to Bondi terror attack victims",
+      "title_en": "Everything you need to know about the Sydney New Year's Eve fireworks",
       "summary_en": "Sydney's New Year's Eve celebrations will this year pay tribute to the victims of the Bondi terror attack, with events to feature a heavy police presence. Here is everything you need to know to plan your night.",
-      "title": "New Year's Eve celebrations to feature tribute to Bondi terror attack victims",
+      "title": "Everything you need to know about the Sydney New Year's Eve fireworks",
       "summary": "Sydney's New Year's Eve celebrations will this year pay tribute to the victims of the Bondi terror attack, with events to feature a heavy police presence. Here is everything you need to know to plan your night.",
       "url": "https://www.abc.net.au/news/2025-12-27/where-to-watch-the-new-years-eve-fireworks-in-sydney-2025/106175504",
       "source": "Just In",
@@ -615,7 +768,7 @@
       "title": "UN experts raise ‘grave concern’ over treatment of Palestine Action-linked hunger strikers",
       "summary": "Special rapporteurs say handling of prisoners raises questions over UK’s obligations under human rights laws UN experts have expressed “grave concern” for the wellbeing of Palestine Action-affiliated hunger strikers and warned their treatment raises questions about the UK’s compliance with international human rights laws. Eight prisoners have been on hunger strike while awaiting trial for alleged offences relating to Palestine Action before the group was banned under terrorism legislation. Qesser Zuhrah, 20, and Amu Gib, 30, who are being held at HMP Bronzefield in Surrey, were on hunger strike from 2 November to 23 December. Heba Muraisi, 31, who is at HMP New Hall, joined the pair on 3 November. The group also includes Teuta Hoxha, 29, Kamran Ahmed, 28, and Lewie Chiaramello, 22, who is refusing food every other day because he has diabetes. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2025/dec/26/un-experts-raise-grave-concern-over-treatment-of-palestine-action-hunger-strikers",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2025-12-26T18:03:18+00:00",
       "tags": [
         "airport/security"
@@ -978,24 +1131,6 @@
       "url": "https://www.dawn.com/news/1963393/police-armed-locals-kill-6-terrorists-in-kps-lakki-marwat",
       "source": "Dawn - Home",
       "published_at": "2025-12-26T16:04:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e39954c28e0d9589",
-      "title_orig": "Two killed in suspected Palestinian ramming and knife attack in Israel",
-      "summary_orig": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away.",
-      "lang": "en",
-      "title_en": "Two killed in suspected Palestinian ramming and knife attack in Israel",
-      "summary_en": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away.",
-      "title": "Two killed in suspected Palestinian ramming and knife attack in Israel",
-      "summary": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away.",
-      "url": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-12-26T16:00:36+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2218,24 +2353,6 @@
       "geo": {}
     },
     {
-      "id": "9fa22cbc8d1e6344",
-      "title_orig": "The brutal life of child recruits under a shadowy African rebel group",
-      "summary_orig": "Forcibly recruited into a rebel militia affiliated with Islamic State, two boys have revealed the “torment” of living in its camps as members committed massacres in the Democratic Republic of Congo’s northeast.\nThe two minors freed from the Allied Democratic Forces (ADF) gave Agence France-Presse an unprecedented account of the shadowy group, notorious for its extreme brutality.\nPaluku, a frail 12-year-old, spent two months with the ADF after rebels killed his mother during an attack on his...",
-      "lang": "en",
-      "title_en": "The brutal life of child recruits under a shadowy African rebel group",
-      "summary_en": "Forcibly recruited into a rebel militia affiliated with Islamic State, two boys have revealed the “torment” of living in its camps as members committed massacres in the Democratic Republic of Congo’s northeast.\nThe two minors freed from the Allied Democratic Forces (ADF) gave Agence France-Presse an unprecedented account of the shadowy group, notorious for its extreme brutality.\nPaluku, a frail 12-year-old, spent two months with the ADF after rebels killed his mother during an attack on his...",
-      "title": "The brutal life of child recruits under a shadowy African rebel group",
-      "summary": "Forcibly recruited into a rebel militia affiliated with Islamic State, two boys have revealed the “torment” of living in its camps as members committed massacres in the Democratic Republic of Congo’s northeast.\nThe two minors freed from the Allied Democratic Forces (ADF) gave Agence France-Presse an unprecedented account of the shadowy group, notorious for its extreme brutality.\nPaluku, a frail 12-year-old, spent two months with the ADF after rebels killed his mother during an attack on his...",
-      "url": "https://www.scmp.com/news/world/africa/article/3337778/brutal-life-child-recruits-under-shadowy-rebel-group-dr-congo?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-12-26T05:41:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "eed8d795a4814355",
       "title_orig": "What to know about the militants targeted by US airstrikes in northwest Nigeria",
       "summary_orig": "The United States airstrikes targeting militants affiliated with the Islamic State in northwestern Nigeria are a major escalation of an offensive that Nigeria’s overstretched military has struggled with for years",
@@ -2279,24 +2396,6 @@
         "lat": 40.7769,
         "lon": -73.874
       }
-    },
-    {
-      "id": "37971113c8f0d697",
-      "title_orig": "Inside Chernobyl: Ukraine races to repair radiation shield as war drags on",
-      "summary_orig": "Inside an abandoned control room at Ukraine’s Chernobyl nuclear power plant, a worker in an orange hard hat gazed at a grey wall of seemingly endless dials, screens and gauges that were supposed to prevent disaster.\nThe 1986 meltdown at the site was the world’s worst ever nuclear incident. Since Russia invaded in 2022, Kyiv fears another disaster could be just a matter of time.\nIn February, a Russian drone hit and left a large hole in the New Safe Confinement (NSC), the outer of two radiation...",
-      "lang": "en",
-      "title_en": "Inside Chernobyl: Ukraine races to repair radiation shield as war drags on",
-      "summary_en": "Inside an abandoned control room at Ukraine’s Chernobyl nuclear power plant, a worker in an orange hard hat gazed at a grey wall of seemingly endless dials, screens and gauges that were supposed to prevent disaster.\nThe 1986 meltdown at the site was the world’s worst ever nuclear incident. Since Russia invaded in 2022, Kyiv fears another disaster could be just a matter of time.\nIn February, a Russian drone hit and left a large hole in the New Safe Confinement (NSC), the outer of two radiation...",
-      "title": "Inside Chernobyl: Ukraine races to repair radiation shield as war drags on",
-      "summary": "Inside an abandoned control room at Ukraine’s Chernobyl nuclear power plant, a worker in an orange hard hat gazed at a grey wall of seemingly endless dials, screens and gauges that were supposed to prevent disaster.\nThe 1986 meltdown at the site was the world’s worst ever nuclear incident. Since Russia invaded in 2022, Kyiv fears another disaster could be just a matter of time.\nIn February, a Russian drone hit and left a large hole in the New Safe Confinement (NSC), the outer of two radiation...",
-      "url": "https://www.scmp.com/news/world/europe/article/3337774/inside-chernobyl-ukraine-races-repair-radiation-shield-war-drags?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-12-26T04:50:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "9bf553b2de3f558e",
@@ -2389,24 +2488,6 @@
       "geo": {}
     },
     {
-      "id": "8984c11041ee8187",
-      "title_orig": "3 men hacked to death in UP with axes and choppers, bodies dumped in pond",
-      "summary_orig": "The killings, which took place in Gahmar village on Wednesday, triggered protests by the residents and created tension in the area",
-      "lang": "en",
-      "title_en": "3 men hacked to death in UP with axes and choppers, bodies dumped in pond",
-      "summary_en": "The killings, which took place in Gahmar village on Wednesday, triggered protests by the residents and created tension in the area",
-      "title": "3 men hacked to death in UP with axes and choppers, bodies dumped in pond",
-      "summary": "The killings, which took place in Gahmar village on Wednesday, triggered protests by the residents and created tension in the area",
-      "url": "https://www.hindustantimes.com/india-news/3-men-hacked-to-death-in-up-with-axes-and-choppers-bodies-dumped-in-pond-101766715457910.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-12-26T02:40:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "519d030fe4b74547",
       "title_orig": "DWP explains as benefit payments may need to be paid back",
       "summary_orig": "DWP minister confirms terminally ill claimants face benefit repayment demands despite official errors, with £2.7bn recovered in 2023-24",
@@ -2436,24 +2517,6 @@
       "url": "https://www.independent.co.uk/news/world/americas/us-politics/jimmy-kimmel-channel-4-donald-trump-b2890512.html",
       "source": "The Independent World",
       "published_at": "2025-12-26T01:11:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b1b57c0fc43763d7",
-      "title_orig": "Techie planned wife’s killing months ago: Cops",
-      "summary_orig": "Police in Bengaluru say a former IT professional spent months preparing to kill his wife before shooting her multiple times in a public industrial area on Tuesday, an attack investigators describe as deliberate and carefully planned",
-      "lang": "en",
-      "title_en": "Techie planned wife’s killing months ago: Cops",
-      "summary_en": "Police in Bengaluru say a former IT professional spent months preparing to kill his wife before shooting her multiple times in a public industrial area on Tuesday, an attack investigators describe as deliberate and carefully planned",
-      "title": "Techie planned wife’s killing months ago: Cops",
-      "summary": "Police in Bengaluru say a former IT professional spent months preparing to kill his wife before shooting her multiple times in a public industrial area on Tuesday, an attack investigators describe as deliberate and carefully planned",
-      "url": "https://www.hindustantimes.com/india-news/techie-planned-wife-s-killing-months-ago-cops-101766689977461.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-12-26T01:04:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2548,24 +2611,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "e3cc396c5c8094ab",
-      "title_orig": "Israeli settler attack injures Palestinian baby, five arrested",
-      "summary_orig": "The eight-month-old infant had “moderate injuries to the face and head” in the late Dec 24 attack.",
-      "lang": "en",
-      "title_en": "Israeli settler attack injures Palestinian baby, five arrested",
-      "summary_en": "The eight-month-old infant had “moderate injuries to the face and head” in the late Dec 24 attack.",
-      "title": "Israeli settler attack injures Palestinian baby, five arrested",
-      "summary": "The eight-month-old infant had “moderate injuries to the face and head” in the late Dec 24 attack.",
-      "url": "https://www.straitstimes.com/world/middle-east/israeli-settler-attack-injures-palestinian-baby-five-arrested",
-      "source": "The Straits Times World News",
-      "published_at": "2025-12-25T19:00:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
