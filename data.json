@@ -1,6 +1,24 @@
 {
-  "generated_at": "2025-12-29T21:19:56.357866+00:00",
+  "generated_at": "2025-12-29T21:45:22.120208+00:00",
   "items": [
+    {
+      "id": "49ab569ed66494c4",
+      "title_orig": "Russia Threatens to Toughen Its Stance on Ending the War in Ukraine",
+      "summary_orig": "Moscow said a Ukrainian drone attack targeted a residence of President Vladimir V. Putin, which Ukraine denied, accusing the Kremlin of fabricating an excuse not to make peace.",
+      "lang": "en",
+      "title_en": "Russia Threatens to Toughen Its Stance on Ending the War in Ukraine",
+      "summary_en": "Moscow said a Ukrainian drone attack targeted a residence of President Vladimir V. Putin, which Ukraine denied, accusing the Kremlin of fabricating an excuse not to make peace.",
+      "title": "Russia Threatens to Toughen Its Stance on Ending the War in Ukraine",
+      "summary": "Moscow said a Ukrainian drone attack targeted a residence of President Vladimir V. Putin, which Ukraine denied, accusing the Kremlin of fabricating an excuse not to make peace.",
+      "url": "https://www.nytimes.com/2025/12/29/world/europe/russia-claims-ukraine-attack-putin.html",
+      "source": "NYT > World News",
+      "published_at": "2025-12-29T21:28:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "0d0014fe30d58a35",
       "title_orig": "Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone'",
@@ -12,25 +30,7 @@
       "summary": "Dec 29 - Winter Storm Ezra disrupted holiday travel across the U.S. Northeast, Midwest and Great Lakes for a third straight day on Monday, causing thousands of flight delays and hundreds of cancellations as airlines scrambled to recover and meteorologists warned of a brewing \\\"bomb cyclone\\\" that could further snarl trips ahead of the New Year's holiday.",
       "url": "https://www.straitstimes.com/world/winter-storm-ezra-snarls-us-travel-as-meteorologists-warn-of-bomb-cyclone",
       "source": "The Straits Times World News",
-      "published_at": "2025-12-29T21:11:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d2c4233146795507",
-      "title_orig": "A bomb cyclone brings blizzards to the Midwest before turning east",
-      "summary_orig": "A strengthening bomb cyclone barreled across the northern U.S. on Monday, unleashing severe winter weather in the Midwest as it…",
-      "lang": "en",
-      "title_en": "A bomb cyclone brings blizzards to the Midwest before turning east",
-      "summary_en": "A strengthening bomb cyclone barreled across the northern U.S. on Monday, unleashing severe winter weather in the Midwest as it…",
-      "title": "A bomb cyclone brings blizzards to the Midwest before turning east",
-      "summary": "A strengthening bomb cyclone barreled across the northern U.S. on Monday, unleashing severe winter weather in the Midwest as it…",
-      "url": "https://wtop.com/national/2025/12/winter-storm-brings-blizzard-conditions-and-dangerous-wind-chills/",
-      "source": "WTOP News",
-      "published_at": "2025-12-29T20:52:53+00:00",
+      "published_at": "2025-12-29T21:16:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -184,12 +184,12 @@
     {
       "id": "a24a759f04ecd335",
       "title_orig": "Trump says of alleged Ukraine attack on Putin: ‘I was very angry about it’",
-      "summary_orig": "PALM BEACH, Dec 29 - U.S. President Donald Trump on Monday said Russian President Vladimir Putin told him Ukraine tried to attack Putin's residence in northern Russia, which Kyiv has denied.",
+      "summary_orig": "Kyiv has said the claim is a “lie”.",
       "lang": "en",
       "title_en": "Trump says of alleged Ukraine attack on Putin: ‘I was very angry about it’",
-      "summary_en": "PALM BEACH, Dec 29 - U.S. President Donald Trump on Monday said Russian President Vladimir Putin told him Ukraine tried to attack Putin's residence in northern Russia, which Kyiv has denied.",
+      "summary_en": "Kyiv has said the claim is a “lie”.",
       "title": "Trump says of alleged Ukraine attack on Putin: ‘I was very angry about it’",
-      "summary": "PALM BEACH, Dec 29 - U.S. President Donald Trump on Monday said Russian President Vladimir Putin told him Ukraine tried to attack Putin's residence in northern Russia, which Kyiv has denied.",
+      "summary": "Kyiv has said the claim is a “lie”.",
       "url": "https://www.straitstimes.com/world/europe/trump-says-of-alleged-ukraine-attack-on-putin-i-was-very-angry-about-it",
       "source": "The Straits Times World News",
       "published_at": "2025-12-29T20:10:59+00:00",
@@ -341,24 +341,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "49ab569ed66494c4",
-      "title_orig": "Russia Threatens to Toughen Its Stance on Ending the War in Ukraine",
-      "summary_orig": "Moscow said a Ukrainian drone attack targeted a residence of President Vladimir V. Putin, which Ukraine denied, accusing the Kremlin of fabricating an excuse not to make peace.",
-      "lang": "en",
-      "title_en": "Russia Threatens to Toughen Its Stance on Ending the War in Ukraine",
-      "summary_en": "Moscow said a Ukrainian drone attack targeted a residence of President Vladimir V. Putin, which Ukraine denied, accusing the Kremlin of fabricating an excuse not to make peace.",
-      "title": "Russia Threatens to Toughen Its Stance on Ending the War in Ukraine",
-      "summary": "Moscow said a Ukrainian drone attack targeted a residence of President Vladimir V. Putin, which Ukraine denied, accusing the Kremlin of fabricating an excuse not to make peace.",
-      "url": "https://www.nytimes.com/2025/12/29/world/europe/russia-claims-ukraine-attack-putin.html",
-      "source": "NYT > World News",
-      "published_at": "2025-12-29T19:26:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -614,24 +596,6 @@
       "geo": {}
     },
     {
-      "id": "504fe51cdfaad5a9",
-      "title_orig": "How history nearly repeated for a Beatle at the hands of a troubled fan",
-      "summary_orig": "Unlike his former bandmate John Lennon, Harrison survived the attack by a knife-wielding attacker, though Harrison's friends and family speculated it ultimately hastened his death less than two years later.",
-      "lang": "en",
-      "title_en": "How history nearly repeated for a Beatle at the hands of a troubled fan",
-      "summary_en": "Unlike his former bandmate John Lennon, Harrison survived the attack by a knife-wielding attacker, though Harrison's friends and family speculated it ultimately hastened his death less than two years later.",
-      "title": "How history nearly repeated for a Beatle at the hands of a troubled fan",
-      "summary": "Unlike his former bandmate John Lennon, Harrison survived the attack by a knife-wielding attacker, though Harrison's friends and family speculated it ultimately hastened his death less than two years later.",
-      "url": "https://www.abc.net.au/news/2025-12-30/today-in-history-december-30-george-harrison-stabbed/106171844",
-      "source": "Just In",
-      "published_at": "2025-12-29T18:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c8f12fcf25d07c2d",
       "title_orig": "Eight-year-old dies in Karachi’s Korangi after falling into uncovered manhole",
       "summary_orig": "KARACHI: An eight-year-old child died on Monday after he fell into an uncovered manhole while playing outside his house in Karachi’s Korangi area, said police. Earlier this month, the body of a three-year-old boy, Ibrahim, who fell into an open manhole in Karachi’s Gulshan-i-Iqbal was recovered on December 1, more than 12 hours after the incident was first reported. Following the tragedy, many political parties held protests against the provincial administration and demanded that the Karachi mayor resign, while pleas were also filed in courts demanding action against city officials. The incident also prompted the Karachi Metropolitan Corporation (KMC) to increase the budget of 246 union committees (UCs) to exclusively maintain manhole covers and streetlights. The latest victim, identified as Dilbar, was playing outside his residence with other area children when the tragedy occurred, Korangi Senior Superintendent Police (SSP) Fida Husain Janwari told Dawn . The child’s relatives rushed to the spot, but were unable to save him. By the time the body was recovered, the child had died. SSP Janwari, along with other officials, later visited the spot where the accident happened and met the bereaved family. The body was shifted to the Jinnah Postgraduate Medical Centre for legal formalities. According to data released by the Edhi Foundation, 27 people died in Karachi in 2025 after falling into open manholes and nullahs. In Karachi, responsibilities for drains, roads, footpaths, sewerage, water supply and public safety are divided among the KMC, 25 town municipal corporations, around 250 union committees, the KDA, the water and sewerage corporation, cantonment boards, the Sindh government and private utilities. The city is run by a patchwork of authorities that rarely coordinate, and often contradict one another.",
@@ -679,24 +643,6 @@
       "url": "https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-trump-kirk-eulogy-b2891687.html",
       "source": "The Independent World",
       "published_at": "2025-12-29T18:16:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "64e1fae6e78a13ad",
-      "title_orig": "How bomb cyclones form and create dangerous conditions",
-      "summary_orig": "Meteorologists sometimes warn of a winter storm that could “bomb out” or become a bomb cyclone.",
-      "lang": "en",
-      "title_en": "How bomb cyclones form and create dangerous conditions",
-      "summary_en": "Meteorologists sometimes warn of a winter storm that could “bomb out” or become a bomb cyclone.",
-      "title": "How bomb cyclones form and create dangerous conditions",
-      "summary": "Meteorologists sometimes warn of a winter storm that could “bomb out” or become a bomb cyclone.",
-      "url": "https://www.seattletimes.com/nation-world/how-bomb-cyclones-form-and-create-dangerous-conditions/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-12-29T18:12:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -755,24 +701,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "a6739a6ef8009996",
-      "title_orig": "Hamas says its longtime spokesman was killed following an Israeli strike in August",
-      "summary_orig": "Hamas has confirmed that its longtime spokesman was killed following an Israeli strike in August in war-torn Gaza.",
-      "lang": "en",
-      "title_en": "Hamas says its longtime spokesman was killed following an Israeli strike in August",
-      "summary_en": "Hamas has confirmed that its longtime spokesman was killed following an Israeli strike in August in war-torn Gaza.",
-      "title": "Hamas says its longtime spokesman was killed following an Israeli strike in August",
-      "summary": "Hamas has confirmed that its longtime spokesman was killed following an Israeli strike in August in war-torn Gaza.",
-      "url": "https://www.seattletimes.com/nation-world/hamas-says-its-longtime-spokesman-was-killed-following-an-israeli-strike-in-august/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-12-29T18:06:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -985,24 +913,6 @@
       "url": "https://www.dawn.com/news/1963936/major-martyred-5-terrorists-killed-during-ibo-in-kps-bajaur-ispr",
       "source": "Dawn - Home",
       "published_at": "2025-12-29T16:47:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d2d168012f400a28",
-      "title_orig": "Russia opens rebuilt Mariupol theater more than 3 years after Moscow airstrike killed hundreds there",
-      "summary_orig": "A historic theater in the Russian-occupied Ukrainian city of Mariupol has opened its doors more than three years after it was pummeled in a Russian airstrike.",
-      "lang": "en",
-      "title_en": "Russia opens rebuilt Mariupol theater more than 3 years after Moscow airstrike killed hundreds there",
-      "summary_en": "A historic theater in the Russian-occupied Ukrainian city of Mariupol has opened its doors more than three years after it was pummeled in a Russian airstrike.",
-      "title": "Russia opens rebuilt Mariupol theater more than 3 years after Moscow airstrike killed hundreds there",
-      "summary": "A historic theater in the Russian-occupied Ukrainian city of Mariupol has opened its doors more than three years after it was pummeled in a Russian airstrike.",
-      "url": "https://www.seattletimes.com/nation-world/world/russia-opens-rebuilt-mariupol-theater-more-than-3-years-after-moscow-airstrike-killed-hundreds-there/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2025-12-29T16:41:30+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2101,24 +2011,6 @@
       "url": "https://www.stuff.co.nz/nz-news/360919516/fire-erupts-near-aucklands-ardmore-airport",
       "source": "Stuff - /",
       "published_at": "2025-12-29T06:36:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0c9a27883d061595",
-      "title_orig": "‘My soul asked me to do that’: Bondi hero breaks silence on tackling gunman",
-      "summary_orig": "“My soul asked me to do that,” said Ahmed al Ahmed, the hero who tackled and disarmed gunman Sajid Akram during the Bondi Beach terrorist attack.",
-      "lang": "en",
-      "title_en": "‘My soul asked me to do that’: Bondi hero breaks silence on tackling gunman",
-      "summary_en": "“My soul asked me to do that,” said Ahmed al Ahmed, the hero who tackled and disarmed gunman Sajid Akram during the Bondi Beach terrorist attack.",
-      "title": "‘My soul asked me to do that’: Bondi hero breaks silence on tackling gunman",
-      "summary": "“My soul asked me to do that,” said Ahmed al Ahmed, the hero who tackled and disarmed gunman Sajid Akram during the Bondi Beach terrorist attack.",
-      "url": "https://www.stuff.co.nz/world-news/360919515/my-soul-asked-me-do-bondi-hero-breaks-silence-tackling-gunman",
-      "source": "Stuff - /",
-      "published_at": "2025-12-29T06:31:55+00:00",
       "tags": [
         "airport/security"
       ],
