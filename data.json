@@ -1,6 +1,78 @@
 {
-  "generated_at": "2025-12-29T20:50:09.059498+00:00",
+  "generated_at": "2025-12-29T21:19:56.357866+00:00",
   "items": [
+    {
+      "id": "0d0014fe30d58a35",
+      "title_orig": "Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone'",
+      "summary_orig": "Dec 29 - Winter Storm Ezra disrupted holiday travel across the U.S. Northeast, Midwest and Great Lakes for a third straight day on Monday, causing thousands of flight delays and hundreds of cancellations as airlines scrambled to recover and meteorologists warned of a brewing \\\"bomb cyclone\\\" that could further snarl trips ahead of the New Year's holiday.",
+      "lang": "en",
+      "title_en": "Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone'",
+      "summary_en": "Dec 29 - Winter Storm Ezra disrupted holiday travel across the U.S. Northeast, Midwest and Great Lakes for a third straight day on Monday, causing thousands of flight delays and hundreds of cancellations as airlines scrambled to recover and meteorologists warned of a brewing \\\"bomb cyclone\\\" that could further snarl trips ahead of the New Year's holiday.",
+      "title": "Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone'",
+      "summary": "Dec 29 - Winter Storm Ezra disrupted holiday travel across the U.S. Northeast, Midwest and Great Lakes for a third straight day on Monday, causing thousands of flight delays and hundreds of cancellations as airlines scrambled to recover and meteorologists warned of a brewing \\\"bomb cyclone\\\" that could further snarl trips ahead of the New Year's holiday.",
+      "url": "https://www.straitstimes.com/world/winter-storm-ezra-snarls-us-travel-as-meteorologists-warn-of-bomb-cyclone",
+      "source": "The Straits Times World News",
+      "published_at": "2025-12-29T21:11:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d2c4233146795507",
+      "title_orig": "A bomb cyclone brings blizzards to the Midwest before turning east",
+      "summary_orig": "A strengthening bomb cyclone barreled across the northern U.S. on Monday, unleashing severe winter weather in the Midwest as it…",
+      "lang": "en",
+      "title_en": "A bomb cyclone brings blizzards to the Midwest before turning east",
+      "summary_en": "A strengthening bomb cyclone barreled across the northern U.S. on Monday, unleashing severe winter weather in the Midwest as it…",
+      "title": "A bomb cyclone brings blizzards to the Midwest before turning east",
+      "summary": "A strengthening bomb cyclone barreled across the northern U.S. on Monday, unleashing severe winter weather in the Midwest as it…",
+      "url": "https://wtop.com/national/2025/12/winter-storm-brings-blizzard-conditions-and-dangerous-wind-chills/",
+      "source": "WTOP News",
+      "published_at": "2025-12-29T20:52:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bf949b343e9a0f41",
+      "title_orig": "How serious are the sectarian tensions facing Syria?",
+      "summary_orig": "Alawite protesters confront government supporters in coastal cities.",
+      "lang": "en",
+      "title_en": "How serious are the sectarian tensions facing Syria?",
+      "summary_en": "Alawite protesters confront government supporters in coastal cities.",
+      "title": "How serious are the sectarian tensions facing Syria?",
+      "summary": "Alawite protesters confront government supporters in coastal cities.",
+      "url": "https://www.aljazeera.com/video/inside-story/2025/12/29/how-serious-are-the-sectarian-tensions-facing-syria?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2025-12-29T20:50:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "74f485038d85d888",
+      "title_orig": "Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula",
+      "summary_orig": "First came the scorched boat. Then the mangled bodies. Then the packets with traces of marijuana. Now, fishermen fear the ocean that feeds them.",
+      "lang": "en",
+      "title_en": "Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula",
+      "summary_en": "First came the scorched boat. Then the mangled bodies. Then the packets with traces of marijuana. Now, fishermen fear the ocean that feeds them.",
+      "title": "Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula",
+      "summary": "First came the scorched boat. Then the mangled bodies. Then the packets with traces of marijuana. Now, fishermen fear the ocean that feeds them.",
+      "url": "https://www.nytimes.com/2025/12/29/world/americas/trump-boat-strikes-gulf-of-venezuela-wreckage.html",
+      "source": "NYT > World News",
+      "published_at": "2025-12-29T20:49:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "90116475ef396c99",
       "title_orig": "Hundreds of flights delayed at Denver airport ahead of New Year’s Eve",
@@ -143,24 +215,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "74f485038d85d888",
-      "title_orig": "Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula",
-      "summary_orig": "First came the scorched boat. Then the mangled bodies. Then the packets with traces of marijuana. Now, fishermen fear the ocean that feeds them.",
-      "lang": "en",
-      "title_en": "Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula",
-      "summary_en": "First came the scorched boat. Then the mangled bodies. Then the packets with traces of marijuana. Now, fishermen fear the ocean that feeds them.",
-      "title": "Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula",
-      "summary": "First came the scorched boat. Then the mangled bodies. Then the packets with traces of marijuana. Now, fishermen fear the ocean that feeds them.",
-      "url": "https://www.nytimes.com/2025/12/29/world/americas/trump-boat-strikes-gulf-of-venezuela-wreckage.html",
-      "source": "NYT > World News",
-      "published_at": "2025-12-29T20:00:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -452,7 +506,7 @@
       "geo": {}
     },
     {
-      "id": "5e14a197546eed0e",
+      "id": "e8b8234e58eddf0a",
       "title_orig": "Collection of short stories that strikes a chord with music lovers",
       "summary_orig": "",
       "lang": "en",
@@ -460,7 +514,7 @@
       "summary_en": "",
       "title": "Collection of short stories that strikes a chord with music lovers",
       "summary": "",
-      "url": "https://www.thehindu.com/news/national/collection-of-short-stories-that-strikes-a-chord-with-music-lovers/article70450016.ece",
+      "url": "https://www.thehindu.com/books/collection-of-short-stories-that-strikes-a-chord-with-music-lovers/article70450016.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2025-12-29T18:54:56+00:00",
       "tags": [
@@ -632,6 +686,24 @@
       "geo": {}
     },
     {
+      "id": "64e1fae6e78a13ad",
+      "title_orig": "How bomb cyclones form and create dangerous conditions",
+      "summary_orig": "Meteorologists sometimes warn of a winter storm that could “bomb out” or become a bomb cyclone.",
+      "lang": "en",
+      "title_en": "How bomb cyclones form and create dangerous conditions",
+      "summary_en": "Meteorologists sometimes warn of a winter storm that could “bomb out” or become a bomb cyclone.",
+      "title": "How bomb cyclones form and create dangerous conditions",
+      "summary": "Meteorologists sometimes warn of a winter storm that could “bomb out” or become a bomb cyclone.",
+      "url": "https://www.seattletimes.com/nation-world/how-bomb-cyclones-form-and-create-dangerous-conditions/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-12-29T18:12:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "3bc5191555cc2e72",
       "title_orig": "Wolves look for January window striking replacement with seven-figure Hibs marksman as main transfer target",
       "summary_orig": "The Hibs striker has been linked with a move to the English Premier League side.",
@@ -683,6 +755,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a6739a6ef8009996",
+      "title_orig": "Hamas says its longtime spokesman was killed following an Israeli strike in August",
+      "summary_orig": "Hamas has confirmed that its longtime spokesman was killed following an Israeli strike in August in war-torn Gaza.",
+      "lang": "en",
+      "title_en": "Hamas says its longtime spokesman was killed following an Israeli strike in August",
+      "summary_en": "Hamas has confirmed that its longtime spokesman was killed following an Israeli strike in August in war-torn Gaza.",
+      "title": "Hamas says its longtime spokesman was killed following an Israeli strike in August",
+      "summary": "Hamas has confirmed that its longtime spokesman was killed following an Israeli strike in August in war-torn Gaza.",
+      "url": "https://www.seattletimes.com/nation-world/hamas-says-its-longtime-spokesman-was-killed-following-an-israeli-strike-in-august/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-12-29T18:06:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -902,6 +992,24 @@
       "geo": {}
     },
     {
+      "id": "d2d168012f400a28",
+      "title_orig": "Russia opens rebuilt Mariupol theater more than 3 years after Moscow airstrike killed hundreds there",
+      "summary_orig": "A historic theater in the Russian-occupied Ukrainian city of Mariupol has opened its doors more than three years after it was pummeled in a Russian airstrike.",
+      "lang": "en",
+      "title_en": "Russia opens rebuilt Mariupol theater more than 3 years after Moscow airstrike killed hundreds there",
+      "summary_en": "A historic theater in the Russian-occupied Ukrainian city of Mariupol has opened its doors more than three years after it was pummeled in a Russian airstrike.",
+      "title": "Russia opens rebuilt Mariupol theater more than 3 years after Moscow airstrike killed hundreds there",
+      "summary": "A historic theater in the Russian-occupied Ukrainian city of Mariupol has opened its doors more than three years after it was pummeled in a Russian airstrike.",
+      "url": "https://www.seattletimes.com/nation-world/world/russia-opens-rebuilt-mariupol-theater-more-than-3-years-after-moscow-airstrike-killed-hundreds-there/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-12-29T16:41:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "84a50458551a1f4f",
       "title_orig": "DRDO successfully tests 120-km strike range Pinaka rockets",
       "summary_orig": "Defence Acquisition Council clears the planned procurement proposals worth Rs 79,000 crore, including Long Range Guided Rockets-120.",
@@ -974,24 +1082,6 @@
       "geo": {}
     },
     {
-      "id": "49e19c6bfb81ddff",
-      "title_orig": "Zelenskyy denies drone attack of Putin residence amid peace negotiations",
-      "summary_orig": "Russian state media reports the claims from foreign minister Sergei Lavrov, who says the country's negotiating position on achieving peace in Ukraine will change as a result of the attack.",
-      "lang": "en",
-      "title_en": "Zelenskyy denies drone attack of Putin residence amid peace negotiations",
-      "summary_en": "Russian state media reports the claims from foreign minister Sergei Lavrov, who says the country's negotiating position on achieving peace in Ukraine will change as a result of the attack.",
-      "title": "Zelenskyy denies drone attack of Putin residence amid peace negotiations",
-      "summary": "Russian state media reports the claims from foreign minister Sergei Lavrov, who says the country's negotiating position on achieving peace in Ukraine will change as a result of the attack.",
-      "url": "https://www.abc.net.au/news/2025-12-30/russia-claims-ukraine-tried-to-attack-putin-residence/106185906",
-      "source": "Just In",
-      "published_at": "2025-12-29T16:23:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "eb2d1a32a30adaad",
       "title_orig": "Cleveland Hopkins passenger traffic drops in November amid government shutdown",
       "summary_orig": "Despite nearly 4% traffic decrease, airport still on track to serve more than 10 million travelers in 2025.",
@@ -1029,12 +1119,12 @@
     },
     {
       "id": "7bb9c6ec887ca7b4",
-      "title_orig": "Supreme Court order a temporary relief, says lawyer of Unnao rape survivor",
+      "title_orig": "Supreme Court order a temporary relief, fight will continue, says Unnao rape survivor’s lawyer",
       "summary_orig": "Yogita Bhayan, founder of Pari, who has been protesting alongside the survivor, says the Supreme Court has restored her faith in the judiciary",
       "lang": "en",
-      "title_en": "Supreme Court order a temporary relief, says lawyer of Unnao rape survivor",
+      "title_en": "Supreme Court order a temporary relief, fight will continue, says Unnao rape survivor’s lawyer",
       "summary_en": "Yogita Bhayan, founder of Pari, who has been protesting alongside the survivor, says the Supreme Court has restored her faith in the judiciary",
-      "title": "Supreme Court order a temporary relief, says lawyer of Unnao rape survivor",
+      "title": "Supreme Court order a temporary relief, fight will continue, says Unnao rape survivor’s lawyer",
       "summary": "Yogita Bhayan, founder of Pari, who has been protesting alongside the survivor, says the Supreme Court has restored her faith in the judiciary",
       "url": "https://www.thehindu.com/news/national/supreme-court-order-a-temporary-relief-says-lawyer-of-unnao-rape-survivor/article70450435.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
@@ -1316,24 +1406,6 @@
       "geo": {}
     },
     {
-      "id": "815a547646907ee3",
-      "title_orig": "Open maize procurement centre in Shiggaon or face protest: Bommai",
-      "summary_orig": "I have stood with farmers earlier too and will stand with them till the end of my life, says BJP MP",
-      "lang": "en",
-      "title_en": "Open maize procurement centre in Shiggaon or face protest: Bommai",
-      "summary_en": "I have stood with farmers earlier too and will stand with them till the end of my life, says BJP MP",
-      "title": "Open maize procurement centre in Shiggaon or face protest: Bommai",
-      "summary": "I have stood with farmers earlier too and will stand with them till the end of my life, says BJP MP",
-      "url": "https://www.thehindu.com/news/national/karnataka/open-maize-procurement-centre-in-shiggaon-or-face-protest-bommai/article70450153.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-12-29T14:55:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5c09c02459d67f42",
       "title_orig": "‘My target was just to take the gun’: wounded hero Ahmed al-Ahmed speaks of saving lives at Bondi beach",
       "summary_orig": "‘I know I saved lots, but I feel sorry for the lost,’ Ahmed tells CBS News of those who died in Sydney attack on 14 December Get our breaking news email , free app or daily news podcast Ahmed al-Ahmed, who disarmed one of the Bondi gunmen before being shot five times, says he knows his bravery saved many lives but is sad for those who were killed in the attack. In an interview with CBS News, Ahmed said he “didn’t worry about anything” except for the lives he could save as he disarmed Sajid Akram on 14 December. The act was caught on camera and shared around the world. Continue reading...",
@@ -1408,12 +1480,12 @@
     {
       "id": "dddf4c97163423c7",
       "title_orig": "Ten years since David Dungay Jr died in jail, a rally to protest deaths in custody could test NSW’s new laws",
-      "summary_orig": "Dunghutti man’s nephew says fight for justice ‘is not just political – it is spiritual, cultural, and about survival’ Get our breaking news email , free app or daily news podcast Since his uncle died in custody at one of New South Wales’ toughest prisons a decade ago, Paul Silva has been advocating for change almost daily. From organising large-scale rallies with thousands in attendance, to sitting through numerous coronial inquiries and supporting families, he says the right to protest is needed now more than ever. The nephew of David Dungay Jr , a Dunghutti man who died at the age of 26 at Long Bay jail in Sydney’s southern suburbs on 29 December 2015, Silva says the fight for justice “is not just political – it is spiritual, cultural, and about survival”. Continue reading...",
+      "summary_orig": "Dunghutti man’s nephew says fight for justice ‘is not just political – it is spiritual, cultural and about survival’ Get our breaking news email , free app or daily news podcast Since his uncle died in custody at one of New South Wales’ toughest prisons a decade ago, Paul Silva has been advocating for change almost daily. From organising large-scale rallies with thousands in attendance to sitting through numerous coronial inquiries and supporting families, he says the right to protest is needed now more than ever. The nephew of David Dungay Jr , a Dunghutti man who died at the age of 26 at Long Bay jail in Sydney’s southern suburbs on 29 December 2015, Silva says the fight for justice “is not just political – it is spiritual, cultural and about survival”. Continue reading...",
       "lang": "en",
       "title_en": "Ten years since David Dungay Jr died in jail, a rally to protest deaths in custody could test NSW’s new laws",
-      "summary_en": "Dunghutti man’s nephew says fight for justice ‘is not just political – it is spiritual, cultural, and about survival’ Get our breaking news email , free app or daily news podcast Since his uncle died in custody at one of New South Wales’ toughest prisons a decade ago, Paul Silva has been advocating for change almost daily. From organising large-scale rallies with thousands in attendance, to sitting through numerous coronial inquiries and supporting families, he says the right to protest is needed now more than ever. The nephew of David Dungay Jr , a Dunghutti man who died at the age of 26 at Long Bay jail in Sydney’s southern suburbs on 29 December 2015, Silva says the fight for justice “is not just political – it is spiritual, cultural, and about survival”. Continue reading...",
+      "summary_en": "Dunghutti man’s nephew says fight for justice ‘is not just political – it is spiritual, cultural and about survival’ Get our breaking news email , free app or daily news podcast Since his uncle died in custody at one of New South Wales’ toughest prisons a decade ago, Paul Silva has been advocating for change almost daily. From organising large-scale rallies with thousands in attendance to sitting through numerous coronial inquiries and supporting families, he says the right to protest is needed now more than ever. The nephew of David Dungay Jr , a Dunghutti man who died at the age of 26 at Long Bay jail in Sydney’s southern suburbs on 29 December 2015, Silva says the fight for justice “is not just political – it is spiritual, cultural and about survival”. Continue reading...",
       "title": "Ten years since David Dungay Jr died in jail, a rally to protest deaths in custody could test NSW’s new laws",
-      "summary": "Dunghutti man’s nephew says fight for justice ‘is not just political – it is spiritual, cultural, and about survival’ Get our breaking news email , free app or daily news podcast Since his uncle died in custody at one of New South Wales’ toughest prisons a decade ago, Paul Silva has been advocating for change almost daily. From organising large-scale rallies with thousands in attendance, to sitting through numerous coronial inquiries and supporting families, he says the right to protest is needed now more than ever. The nephew of David Dungay Jr , a Dunghutti man who died at the age of 26 at Long Bay jail in Sydney’s southern suburbs on 29 December 2015, Silva says the fight for justice “is not just political – it is spiritual, cultural, and about survival”. Continue reading...",
+      "summary": "Dunghutti man’s nephew says fight for justice ‘is not just political – it is spiritual, cultural and about survival’ Get our breaking news email , free app or daily news podcast Since his uncle died in custody at one of New South Wales’ toughest prisons a decade ago, Paul Silva has been advocating for change almost daily. From organising large-scale rallies with thousands in attendance to sitting through numerous coronial inquiries and supporting families, he says the right to protest is needed now more than ever. The nephew of David Dungay Jr , a Dunghutti man who died at the age of 26 at Long Bay jail in Sydney’s southern suburbs on 29 December 2015, Silva says the fight for justice “is not just political – it is spiritual, cultural and about survival”. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2025/dec/30/david-dungay-jr-protest-deaths-in-custody-nsw-new-laws-ntwnfb",
       "source": "World news | The Guardian",
       "published_at": "2025-12-29T14:00:43+00:00",
@@ -1475,24 +1547,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "8e2a75624550dfd0",
-      "title_orig": "The UK's Regional Airline? KLM Announces Flights To 19th Airport",
-      "summary_orig": "On December 16th, Jersey got an early Christmas present when KLM revealed it'd begin flying there in 2026. It’s not exactly new… technically a resumption, it last flew there nearly 30 years ago. KLM Royal Dutch airlines serves quite a few regional airports across the UK, allowing for increased connectivity to the European continent.",
-      "lang": "en",
-      "title_en": "The UK's Regional Airline? KLM Announces Flights To 19th Airport",
-      "summary_en": "On December 16th, Jersey got an early Christmas present when KLM revealed it'd begin flying there in 2026. It’s not exactly new… technically a resumption, it last flew there nearly 30 years ago. KLM Royal Dutch airlines serves quite a few regional airports across the UK, allowing for increased connectivity to the European continent.",
-      "title": "The UK's Regional Airline? KLM Announces Flights To 19th Airport",
-      "summary": "On December 16th, Jersey got an early Christmas present when KLM revealed it'd begin flying there in 2026. It’s not exactly new… technically a resumption, it last flew there nearly 30 years ago. KLM Royal Dutch airlines serves quite a few regional airports across the UK, allowing for increased connectivity to the European continent.",
-      "url": "https://simpleflying.com/video/the-uk-s-regional-airline-klm-announces-flights-to-19th-airport/",
-      "source": "Simple Flying",
-      "published_at": "2025-12-29T13:34:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -3082,24 +3136,6 @@
       "url": "http://www.euronews.com/2025/12/26/palestinian-man-kills-two-in-car-and-knife-attack-in-northern-israel",
       "source": "News | Euronews RSS",
       "published_at": "2025-12-26T14:08:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "ea16fb5e540732ff",
-      "title_orig": "No Power, No Heat, No Water: Odesa’s Days of Hell Under Russian Fire",
-      "summary_orig": "The toll on older people and those with disabilities is especially severe as Moscow’s forces repeatedly attack the port city’s infrastructure.",
-      "lang": "en",
-      "title_en": "No Power, No Heat, No Water: Odesa’s Days of Hell Under Russian Fire",
-      "summary_en": "The toll on older people and those with disabilities is especially severe as Moscow’s forces repeatedly attack the port city’s infrastructure.",
-      "title": "No Power, No Heat, No Water: Odesa’s Days of Hell Under Russian Fire",
-      "summary": "The toll on older people and those with disabilities is especially severe as Moscow’s forces repeatedly attack the port city’s infrastructure.",
-      "url": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html",
-      "source": "NYT > World News",
-      "published_at": "2025-12-25T21:01:10+00:00",
       "tags": [
         "airport/security"
       ],
