@@ -1,6 +1,96 @@
 {
-  "generated_at": "2025-12-30T18:27:45.715061+00:00",
+  "generated_at": "2025-12-30T18:59:11.349444+00:00",
   "items": [
+    {
+      "id": "3ab7231be6f4b377",
+      "title_orig": "Yemen strike shows depth of distrust between Saudi Arabia and UAE",
+      "summary_orig": "DUBAI, Dec 30 - The withdrawal of Emirati forces from Yemen following a Saudi airstrike may help defuse a confrontation between the UAE and Saudi Arabia, but the incident has exposed simmering distrust between two Gulf oil powers with long-running differences.",
+      "lang": "en",
+      "title_en": "Yemen strike shows depth of distrust between Saudi Arabia and UAE",
+      "summary_en": "DUBAI, Dec 30 - The withdrawal of Emirati forces from Yemen following a Saudi airstrike may help defuse a confrontation between the UAE and Saudi Arabia, but the incident has exposed simmering distrust between two Gulf oil powers with long-running differences.",
+      "title": "Yemen strike shows depth of distrust between Saudi Arabia and UAE",
+      "summary": "DUBAI, Dec 30 - The withdrawal of Emirati forces from Yemen following a Saudi airstrike may help defuse a confrontation between the UAE and Saudi Arabia, but the incident has exposed simmering distrust between two Gulf oil powers with long-running differences.",
+      "url": "https://www.straitstimes.com/world/middle-east/yemen-strike-shows-depth-of-distrust-between-saudi-arabia-and-uae",
+      "source": "The Straits Times World News",
+      "published_at": "2025-12-30T18:49:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "60d7cab0ac2fb16d",
+      "title_orig": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
+      "summary_orig": "Saudi-led forces struck an Emirati shipment early Tuesday, worsening tensions between the once-close allies. The Saudis said the shipment had arms for a separatist group, which the Emiratis denied.",
+      "lang": "en",
+      "title_en": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
+      "summary_en": "Saudi-led forces struck an Emirati shipment early Tuesday, worsening tensions between the once-close allies. The Saudis said the shipment had arms for a separatist group, which the Emiratis denied.",
+      "title": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
+      "summary": "Saudi-led forces struck an Emirati shipment early Tuesday, worsening tensions between the once-close allies. The Saudis said the shipment had arms for a separatist group, which the Emiratis denied.",
+      "url": "https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html",
+      "source": "NYT > World News",
+      "published_at": "2025-12-30T18:44:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1581246eea526a52",
+      "title_orig": "Protests draw largest turnout of Somalis since Israel’s recognition of Somaliland",
+      "summary_orig": "MOGADISHU, Somalia (AP) — Tens of thousands of Somalis gathered across the country Tuesday to protest Israel’s recognition of the…",
+      "lang": "en",
+      "title_en": "Protests draw largest turnout of Somalis since Israel’s recognition of Somaliland",
+      "summary_en": "MOGADISHU, Somalia (AP) — Tens of thousands of Somalis gathered across the country Tuesday to protest Israel’s recognition of the…",
+      "title": "Protests draw largest turnout of Somalis since Israel’s recognition of Somaliland",
+      "summary": "MOGADISHU, Somalia (AP) — Tens of thousands of Somalis gathered across the country Tuesday to protest Israel’s recognition of the…",
+      "url": "https://wtop.com/world/2025/12/somalias-president-in-turkey-for-talks-after-israel-recognizes-somaliland/",
+      "source": "WTOP News",
+      "published_at": "2025-12-30T18:34:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9b397dfb28dfaf96",
+      "title_orig": "Dog attack leaves woman seriously injured as 'restricted breed' pet put to sleep",
+      "summary_orig": "The animal was put down at the scene",
+      "lang": "en",
+      "title_en": "Dog attack leaves woman seriously injured as 'restricted breed' pet put to sleep",
+      "summary_en": "The animal was put down at the scene",
+      "title": "Dog attack leaves woman seriously injured as 'restricted breed' pet put to sleep",
+      "summary": "The animal was put down at the scene",
+      "url": "https://www.birminghammail.co.uk/news/world-news/dog-attack-leaves-woman-seriously-33143148",
+      "source": "Birmingham Live - News",
+      "published_at": "2025-12-30T18:29:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8832502aea628c8e",
+      "title_orig": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
+      "summary_orig": "The UAE and Saudi have been allies in the war against the Houthis, but infighting between the rival factions they support has caused a rift between them.",
+      "lang": "en",
+      "title_en": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
+      "summary_en": "The UAE and Saudi have been allies in the war against the Houthis, but infighting between the rival factions they support has caused a rift between them.",
+      "title": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
+      "summary": "The UAE and Saudi have been allies in the war against the Houthis, but infighting between the rival factions they support has caused a rift between them.",
+      "url": "https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2025-12-30T18:22:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "adadb0db574d22ab",
       "title_orig": "China fires missiles on second day of military drills around Taiwan",
@@ -71,6 +161,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ee22a51865b29a1d",
+      "title_orig": "Russia claims to have moved nuclear-capable missile system into Belarus",
+      "summary_orig": "Assertion comes after the Kremlin accused Ukraine of attacking Vladimir Putin’s palace in Novgorod Did Ukraine target Putin’s residence or is Russian claim a ploy to sway Trump? Russia said its latest nuclear-capable missile system has been deployed in Belarus, a day after Moscow claimed that Ukraine had carried out a large-scale drone attack on Vladimir Putin’s residence. Footage released by Russia’s ministry of defence showed the new Oreshnik missile trundling through a snowy forest. Soldiers were seen disguising combat vehicles with green netting and raising a flag at an airbase in eastern Belarus, close to the Russian border. Continue reading...",
+      "lang": "en",
+      "title_en": "Russia claims to have moved nuclear-capable missile system into Belarus",
+      "summary_en": "Assertion comes after the Kremlin accused Ukraine of attacking Vladimir Putin’s palace in Novgorod Did Ukraine target Putin’s residence or is Russian claim a ploy to sway Trump? Russia said its latest nuclear-capable missile system has been deployed in Belarus, a day after Moscow claimed that Ukraine had carried out a large-scale drone attack on Vladimir Putin’s residence. Footage released by Russia’s ministry of defence showed the new Oreshnik missile trundling through a snowy forest. Soldiers were seen disguising combat vehicles with green netting and raising a flag at an airbase in eastern Belarus, close to the Russian border. Continue reading...",
+      "title": "Russia claims to have moved nuclear-capable missile system into Belarus",
+      "summary": "Assertion comes after the Kremlin accused Ukraine of attacking Vladimir Putin’s palace in Novgorod Did Ukraine target Putin’s residence or is Russian claim a ploy to sway Trump? Russia said its latest nuclear-capable missile system has been deployed in Belarus, a day after Moscow claimed that Ukraine had carried out a large-scale drone attack on Vladimir Putin’s residence. Footage released by Russia’s ministry of defence showed the new Oreshnik missile trundling through a snowy forest. Soldiers were seen disguising combat vehicles with green netting and raising a flag at an airbase in eastern Belarus, close to the Russian border. Continue reading...",
+      "url": "https://www.theguardian.com/world/2025/dec/30/russia-claims-moved-nuclear-capable-missile-system-belarus",
+      "source": "World news | The Guardian",
+      "published_at": "2025-12-30T18:15:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -197,24 +305,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "60d7cab0ac2fb16d",
-      "title_orig": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
-      "summary_orig": "Saudi-led forces struck an Emirati shipment early Tuesday, worsening tensions between the once-close allies. The Saudis said the shipment had arms for a separatist group, which the Emiratis denied.",
-      "lang": "en",
-      "title_en": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
-      "summary_en": "Saudi-led forces struck an Emirati shipment early Tuesday, worsening tensions between the once-close allies. The Saudis said the shipment had arms for a separatist group, which the Emiratis denied.",
-      "title": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
-      "summary": "Saudi-led forces struck an Emirati shipment early Tuesday, worsening tensions between the once-close allies. The Saudis said the shipment had arms for a separatist group, which the Emiratis denied.",
-      "url": "https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html",
-      "source": "NYT > World News",
-      "published_at": "2025-12-30T17:45:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -389,6 +479,24 @@
       "geo": {}
     },
     {
+      "id": "86b5f062805a0251",
+      "title_orig": "U.S. sanctions 10 people and firms from Iran and Venezuela over drone and missile trade",
+      "summary_orig": "The U.S. has imposed sanctions on 10 individuals and firms from Iran and Venezuela.",
+      "lang": "en",
+      "title_en": "U.S. sanctions 10 people and firms from Iran and Venezuela over drone and missile trade",
+      "summary_en": "The U.S. has imposed sanctions on 10 individuals and firms from Iran and Venezuela.",
+      "title": "U.S. sanctions 10 people and firms from Iran and Venezuela over drone and missile trade",
+      "summary": "The U.S. has imposed sanctions on 10 individuals and firms from Iran and Venezuela.",
+      "url": "https://www.seattletimes.com/nation-world/nation/u-s-sanctions-10-people-and-firms-from-iran-and-venezuela-over-drone-and-missile-trade/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-12-30T17:07:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "bf9c473a33835101",
       "title_orig": "Winter storm brings heavy snow and strong winds across parts of the US",
       "summary_orig": "Frigid temperatures in Great Lakes, north-east and midwest as tens of thousands face power outages and icy travel A wild winter storm brought strong winds, heavy snow and frigid temperatures to the Great Lakes and north-east on Tuesday, a day after a bomb cyclone barreled across the midwest and left tens of thousands of customers without power. The storm hit parts of the Plains and Great Lakes on Monday with sharply colder air, strong winds and a mix of snow, ice and rain, leading to treacherous travel. Forecasters said it intensified quickly enough to meet the criteria of a bomb cyclone, a system that strengthens rapidly as pressure drops. Continue reading...",
@@ -517,12 +625,12 @@
     {
       "id": "a6ad133ba88bd9df",
       "title_orig": "UAE promises to withdraw forces from Yemen after bombing by Saudi Arabia",
-      "summary_orig": "The attack was aimed at what Riyadh called a shipment of weapons for separatists from the UAE The United Arab Emirates has said it will withdraw its remaining forces in Yemen after Saudi Arabia bombed what it said was a shipment of weapons for separatists which had arrived from the UAE. The Emirati defence ministry announced the decision on Tuesday afternoon, citing “recent developments and their potential repercussions on the safety and effectiveness of counter-terrorism operations”, without saying when the withdrawal might happen. Continue reading...",
+      "summary_orig": "Attack was aimed at what Riyadh called a shipment of weapons for separatists backed by UAE The United Arab Emirates has said it will withdraw its remaining forces in Yemen after tensions with Saudi Arabia escalated over a sweeping offensive by UAE-backed separatists. The Emirati defence ministry announced the withdrawal on Tuesday, hours after Saudi Arabia bombed what it said was a shipment of weapons for Yemeni separatists that had arrived from the UAE. Continue reading...",
       "lang": "en",
       "title_en": "UAE promises to withdraw forces from Yemen after bombing by Saudi Arabia",
-      "summary_en": "The attack was aimed at what Riyadh called a shipment of weapons for separatists from the UAE The United Arab Emirates has said it will withdraw its remaining forces in Yemen after Saudi Arabia bombed what it said was a shipment of weapons for separatists which had arrived from the UAE. The Emirati defence ministry announced the decision on Tuesday afternoon, citing “recent developments and their potential repercussions on the safety and effectiveness of counter-terrorism operations”, without saying when the withdrawal might happen. Continue reading...",
+      "summary_en": "Attack was aimed at what Riyadh called a shipment of weapons for separatists backed by UAE The United Arab Emirates has said it will withdraw its remaining forces in Yemen after tensions with Saudi Arabia escalated over a sweeping offensive by UAE-backed separatists. The Emirati defence ministry announced the withdrawal on Tuesday, hours after Saudi Arabia bombed what it said was a shipment of weapons for Yemeni separatists that had arrived from the UAE. Continue reading...",
       "title": "UAE promises to withdraw forces from Yemen after bombing by Saudi Arabia",
-      "summary": "The attack was aimed at what Riyadh called a shipment of weapons for separatists from the UAE The United Arab Emirates has said it will withdraw its remaining forces in Yemen after Saudi Arabia bombed what it said was a shipment of weapons for separatists which had arrived from the UAE. The Emirati defence ministry announced the decision on Tuesday afternoon, citing “recent developments and their potential repercussions on the safety and effectiveness of counter-terrorism operations”, without saying when the withdrawal might happen. Continue reading...",
+      "summary": "Attack was aimed at what Riyadh called a shipment of weapons for separatists backed by UAE The United Arab Emirates has said it will withdraw its remaining forces in Yemen after tensions with Saudi Arabia escalated over a sweeping offensive by UAE-backed separatists. The Emirati defence ministry announced the withdrawal on Tuesday, hours after Saudi Arabia bombed what it said was a shipment of weapons for Yemeni separatists that had arrived from the UAE. Continue reading...",
       "url": "https://www.theguardian.com/world/2025/dec/30/saudi-arabia-bombs-yemen-over-weapons-shipment-alleged-uae",
       "source": "World news | The Guardian",
       "published_at": "2025-12-30T16:49:57+00:00",
@@ -544,6 +652,24 @@
       "url": "https://www.straitstimes.com/world/middle-east/irans-government-offers-dialogue-as-protests-spread-to-universities",
       "source": "The Straits Times World News",
       "published_at": "2025-12-30T16:49:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8812927d0041978e",
+      "title_orig": "Protests draw largest turnout of Somalis since Israel’s recognition of Somaliland",
+      "summary_orig": "Somalis have gathered across the country to protest Israel's recognition of Somaliland.",
+      "lang": "en",
+      "title_en": "Protests draw largest turnout of Somalis since Israel’s recognition of Somaliland",
+      "summary_en": "Somalis have gathered across the country to protest Israel's recognition of Somaliland.",
+      "title": "Protests draw largest turnout of Somalis since Israel’s recognition of Somaliland",
+      "summary": "Somalis have gathered across the country to protest Israel's recognition of Somaliland.",
+      "url": "https://www.seattletimes.com/nation-world/protests-draw-largest-turnout-of-somalis-since-israels-recognition-of-somaliland/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-12-30T16:48:05+00:00",
       "tags": [
         "airport/security"
       ],
@@ -760,24 +886,6 @@
       "url": "https://www.standard.co.uk/news/london/dlr-workers-strike-new-year-sick-pay-b1264423.html",
       "source": "The Standard News",
       "published_at": "2025-12-30T16:10:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "72561ee795041075",
-      "title_orig": "Man suffered horrific catalogue of facial injuries after attack outside flat",
-      "summary_orig": "Cameron McGowan, 19, knocked the male to the ground before kicking him on the head, Airdrie Sheriff Court heard this week.",
-      "lang": "en",
-      "title_en": "Man suffered horrific catalogue of facial injuries after attack outside flat",
-      "summary_en": "Cameron McGowan, 19, knocked the male to the ground before kicking him on the head, Airdrie Sheriff Court heard this week.",
-      "title": "Man suffered horrific catalogue of facial injuries after attack outside flat",
-      "summary": "Cameron McGowan, 19, knocked the male to the ground before kicking him on the head, Airdrie Sheriff Court heard this week.",
-      "url": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/man-suffered-horrific-catalogue-facial-36474571",
-      "source": "Daily Record - Home",
-      "published_at": "2025-12-30T15:50:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1100,24 +1208,6 @@
       "geo": {}
     },
     {
-      "id": "6094b20169d0a792",
-      "title_orig": "Prakasam district sees slight fall in crime rate in 2025",
-      "summary_orig": "SP attributes the fall in crime to the deployment of drones, CCTV cameras and enhanced night beats in sensitive areas",
-      "lang": "en",
-      "title_en": "Prakasam district sees slight fall in crime rate in 2025",
-      "summary_en": "SP attributes the fall in crime to the deployment of drones, CCTV cameras and enhanced night beats in sensitive areas",
-      "title": "Prakasam district sees slight fall in crime rate in 2025",
-      "summary": "SP attributes the fall in crime to the deployment of drones, CCTV cameras and enhanced night beats in sensitive areas",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/prakasam-district-sees-slight-fall-in-crime-rate-in-2025/article70453502.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2025-12-30T14:46:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5e4094fe063895ef",
       "title_orig": "Bitter recriminations between Russia, Ukraine as war eclipses peace push",
       "summary_orig": "Kremlin says alleged drone attack on presidential residence - called a fabrication by Kyiv - will affect peace talks.",
@@ -1244,24 +1334,6 @@
       "geo": {}
     },
     {
-      "id": "8832502aea628c8e",
-      "title_orig": "Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port",
-      "summary_orig": "The UAE denies Saudi claims it sent a shipment of weapons to separatists and pushed them to launch offensives against the Yemeni government.",
-      "lang": "en",
-      "title_en": "Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port",
-      "summary_en": "The UAE denies Saudi claims it sent a shipment of weapons to separatists and pushed them to launch offensives against the Yemeni government.",
-      "title": "Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port",
-      "summary": "The UAE denies Saudi claims it sent a shipment of weapons to separatists and pushed them to launch offensives against the Yemeni government.",
-      "url": "https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2025-12-30T14:08:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2504417c9daf4282",
       "title_orig": "CIA carries out first drone strike on Venezuelan soil in latest escalation of Trump admin’s attacks on ‘narco terrorists’",
       "summary_orig": "US targeted alleged drug traffickers in first-known land attack inside the country",
@@ -1367,24 +1439,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "160ed7c72e06a0a4",
-      "title_orig": "Planned Parenthood protest proposal: Grand Rapids to vote on noise restrictions in January",
-      "summary_orig": "The proposal would ban amplified sound devices within 100 feet of health care facilities and clinics, in response to complaints about protesters at a Planned Parenthood clinic.",
-      "lang": "en",
-      "title_en": "Planned Parenthood protest proposal: Grand Rapids to vote on noise restrictions in January",
-      "summary_en": "The proposal would ban amplified sound devices within 100 feet of health care facilities and clinics, in response to complaints about protesters at a Planned Parenthood clinic.",
-      "title": "Planned Parenthood protest proposal: Grand Rapids to vote on noise restrictions in January",
-      "summary": "The proposal would ban amplified sound devices within 100 feet of health care facilities and clinics, in response to complaints about protesters at a Planned Parenthood clinic.",
-      "url": "https://www.mlive.com/news/grand-rapids/2025/12/planned-parenthood-protest-proposal-grand-rapids-to-vote-on-noise-restrictions-in-january.html",
-      "source": "mlive.com",
-      "published_at": "2025-12-30T13:43:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1835,24 +1889,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "602b6abc227c8b00",
-      "title_orig": "Protests erupt in Iran amidst currency collapse and high inflation",
-      "summary_orig": "Iranian traders and shopkeepers staged a second day of protests on December 29 after the country’s currency plummeted to a new record low against the U.S. dollar. The overall inflation rate in December rose to 42.2%, but foodstuff prices rose 72% and health and medical items were up 50% compared to the same period in 2024. FRANCE 24's Philip Turle breaks it down for us.",
-      "lang": "en",
-      "title_en": "Protests erupt in Iran amidst currency collapse and high inflation",
-      "summary_en": "Iranian traders and shopkeepers staged a second day of protests on December 29 after the country’s currency plummeted to a new record low against the U.S. dollar. The overall inflation rate in December rose to 42.2%, but foodstuff prices rose 72% and health and medical items were up 50% compared to the same period in 2024. FRANCE 24's Philip Turle breaks it down for us.",
-      "title": "Protests erupt in Iran amidst currency collapse and high inflation",
-      "summary": "Iranian traders and shopkeepers staged a second day of protests on December 29 after the country’s currency plummeted to a new record low against the U.S. dollar. The overall inflation rate in December rose to 42.2%, but foodstuff prices rose 72% and health and medical items were up 50% compared to the same period in 2024. FRANCE 24's Philip Turle breaks it down for us.",
-      "url": "https://www.france24.com/en/video/20251230-protests-erupt-in-iran-amidst-currency-collapse-and-high-inflation",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2025-12-30T10:59:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2351,24 +2387,6 @@
       }
     },
     {
-      "id": "eae7f41e81a3f051",
-      "title_orig": "Saudi Arabia bombs Yemen port over weapons shipment and warns UAE",
-      "summary_orig": "Saudi Arabia bombed Yemen’s port city of Mukalla on Tuesday over what it described as a shipment of weapons for a separatist force there that arrived from the United Arab Emirates. The kingdom later directly linked the UAE to the separatists’ recent advances in Yemen and warned Abu Dhabi its actions were “extremely dangerous”.\nThe attack signals a new escalation in tensions between the kingdom and the separatist forces of the Southern Transitional Council, which is backed by the Emirates.\nIt...",
-      "lang": "en",
-      "title_en": "Saudi Arabia bombs Yemen port over weapons shipment and warns UAE",
-      "summary_en": "Saudi Arabia bombed Yemen’s port city of Mukalla on Tuesday over what it described as a shipment of weapons for a separatist force there that arrived from the United Arab Emirates. The kingdom later directly linked the UAE to the separatists’ recent advances in Yemen and warned Abu Dhabi its actions were “extremely dangerous”.\nThe attack signals a new escalation in tensions between the kingdom and the separatist forces of the Southern Transitional Council, which is backed by the Emirates.\nIt...",
-      "title": "Saudi Arabia bombs Yemen port over weapons shipment and warns UAE",
-      "summary": "Saudi Arabia bombed Yemen’s port city of Mukalla on Tuesday over what it described as a shipment of weapons for a separatist force there that arrived from the United Arab Emirates. The kingdom later directly linked the UAE to the separatists’ recent advances in Yemen and warned Abu Dhabi its actions were “extremely dangerous”.\nThe attack signals a new escalation in tensions between the kingdom and the separatist forces of the Southern Transitional Council, which is backed by the Emirates.\nIt...",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3338110/saudi-arabia-bombs-port-yemen-over-shipment-weapons-separatists-uae?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2025-12-30T04:55:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d0449e8d60bffa96",
       "title_orig": "Science still made incredible breakthroughs while under attack",
       "summary_orig": "Scientists around the world produced amazing discoveries every day — some of which made a big splash while others didn’t get nearly the attention they deserved.",
@@ -2380,24 +2398,6 @@
       "url": "https://www.japantimes.co.jp/commentary/2025/12/30/world/science-made-incredible-breakthroughs/",
       "source": "Latest articles - The Japan Times",
       "published_at": "2025-12-30T04:55:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e32c5c84b05d695b",
-      "title_orig": "Attacking Putin's home would be 'stupid' move by Ukraine, say experts",
-      "summary_orig": "A defence analyst tells the ABC an attack on the Russian President's state residence would be \"technically\" possible but would not make sense strategically for Ukraine.",
-      "lang": "en",
-      "title_en": "Attacking Putin's home would be 'stupid' move by Ukraine, say experts",
-      "summary_en": "A defence analyst tells the ABC an attack on the Russian President's state residence would be \"technically\" possible but would not make sense strategically for Ukraine.",
-      "title": "Attacking Putin's home would be 'stupid' move by Ukraine, say experts",
-      "summary": "A defence analyst tells the ABC an attack on the Russian President's state residence would be \"technically\" possible but would not make sense strategically for Ukraine.",
-      "url": "https://www.abc.net.au/news/2025-12-30/putin-drone-strike-ukraine-experts-say-no-evidence-russia/106187456",
-      "source": "Just In",
-      "published_at": "2025-12-30T04:46:20+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2533,24 +2533,6 @@
       "url": "https://www.japantimes.co.jp/news/2025/12/30/asia-pacific/politics/thai-army-cambodia-drones/",
       "source": "Latest articles - The Japan Times",
       "published_at": "2025-12-30T03:08:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8fa5000190e432c5",
-      "title_orig": "Women wearing hijabs targeted in anti-Muslim abuse since Bondi attack",
-      "summary_orig": "There are concerns women wearing hijabs are bearing the brunt of a \"horrifying\" wave of Islamophobia in the wake of the Bondi Beach terrorist attack, with the Australian National Imams Council reporting a rise of hate incidents.",
-      "lang": "en",
-      "title_en": "Women wearing hijabs targeted in anti-Muslim abuse since Bondi attack",
-      "summary_en": "There are concerns women wearing hijabs are bearing the brunt of a \"horrifying\" wave of Islamophobia in the wake of the Bondi Beach terrorist attack, with the Australian National Imams Council reporting a rise of hate incidents.",
-      "title": "Women wearing hijabs targeted in anti-Muslim abuse since Bondi attack",
-      "summary": "There are concerns women wearing hijabs are bearing the brunt of a \"horrifying\" wave of Islamophobia in the wake of the Bondi Beach terrorist attack, with the Australian National Imams Council reporting a rise of hate incidents.",
-      "url": "https://www.abc.net.au/news/2025-12-30/rise-in-islamophobic-incidents-post-bondi-beach-terror-attack/106186118",
-      "source": "Just In",
-      "published_at": "2025-12-30T03:01:31+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2774,24 +2756,6 @@
       "geo": {}
     },
     {
-      "id": "b711a60cea836075",
-      "title_orig": "Winter Storm Ezra snarls US travel as meteorologists warn of ‘bomb cyclone’",
-      "summary_orig": "Since Dec 26, weather disruptions have led to the cancellation of over 3,600 flights and delayed more than 30,000 others.",
-      "lang": "en",
-      "title_en": "Winter Storm Ezra snarls US travel as meteorologists warn of ‘bomb cyclone’",
-      "summary_en": "Since Dec 26, weather disruptions have led to the cancellation of over 3,600 flights and delayed more than 30,000 others.",
-      "title": "Winter Storm Ezra snarls US travel as meteorologists warn of ‘bomb cyclone’",
-      "summary": "Since Dec 26, weather disruptions have led to the cancellation of over 3,600 flights and delayed more than 30,000 others.",
-      "url": "https://www.straitstimes.com/world/united-states/winter-storm-ezra-snarls-us-travel-as-meteorologists-warn-of-bomb-cyclone",
-      "source": "The Straits Times World News",
-      "published_at": "2025-12-29T21:16:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a2352e121478f37d",
       "title_orig": "Trump Says the U.S. Struck a ‘Big Facility’ in Campaign Against Venezuela",
       "summary_orig": "The administration provided no details of what the president said was an attack last week linked to U.S. efforts to disrupt drug trafficking from Latin America.",
@@ -2861,24 +2825,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "1278a581a638bb17",
-      "title_orig": "Protests and strikes erupt after Iran’s central bank governor resigns as currency spirals",
-      "summary_orig": "Hundreds of traders and shopkeepers rallied in Saadi Street in central Tehran",
-      "lang": "en",
-      "title_en": "Protests and strikes erupt after Iran’s central bank governor resigns as currency spirals",
-      "summary_en": "Hundreds of traders and shopkeepers rallied in Saadi Street in central Tehran",
-      "title": "Protests and strikes erupt after Iran’s central bank governor resigns as currency spirals",
-      "summary": "Hundreds of traders and shopkeepers rallied in Saadi Street in central Tehran",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-protests-strikes-currency-inflation-b2891711.html",
-      "source": "The Independent World",
-      "published_at": "2025-12-29T18:20:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
