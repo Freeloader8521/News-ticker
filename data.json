@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-01-01T05:28:13.327410+00:00",
+  "generated_at": "2026-01-01T05:54:57.446689+00:00",
   "items": [
+    {
+      "id": "adb6eeea5bceaade",
+      "title_orig": "Newborn taken to Palghar hospital with severe injuries; police suspect mother’s role",
+      "summary_orig": "Police suspect that stray animals attacked the baby while she was left unattended",
+      "lang": "en",
+      "title_en": "Newborn taken to Palghar hospital with severe injuries; police suspect mother’s role",
+      "summary_en": "Police suspect that stray animals attacked the baby while she was left unattended",
+      "title": "Newborn taken to Palghar hospital with severe injuries; police suspect mother’s role",
+      "summary": "Police suspect that stray animals attacked the baby while she was left unattended",
+      "url": "https://www.thehindu.com/news/national/maharashtra/newborn-taken-to-palghar-hospital-with-severe-injuries-police-suspect-mothers-role/article70459478.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-01-01T05:26:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "07af1e5321e35354",
       "title_orig": "National Overview: Chaos And Order",
@@ -391,12 +409,12 @@
     },
     {
       "id": "bb1221d3cd7ca9f0",
-      "title_orig": "US kills five in attack on alleged drug boats, searches for survivors",
+      "title_orig": "US kills five in attack on alleged drug boats, search for survivors ongoing",
       "summary_orig": "Latest attacks bring total number of boat strikes to 33 and the number of people killed to at least 112 since September.",
       "lang": "en",
-      "title_en": "US kills five in attack on alleged drug boats, searches for survivors",
+      "title_en": "US kills five in attack on alleged drug boats, search for survivors ongoing",
       "summary_en": "Latest attacks bring total number of boat strikes to 33 and the number of people killed to at least 112 since September.",
-      "title": "US kills five in attack on alleged drug boats, searches for survivors",
+      "title": "US kills five in attack on alleged drug boats, search for survivors ongoing",
       "summary": "Latest attacks bring total number of boat strikes to 33 and the number of people killed to at least 112 since September.",
       "url": "https://www.aljazeera.com/news/2026/1/1/us-kills-three-in-attack-on-alleged-drug-boats-searches-for-survivors?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -2631,22 +2649,31 @@
       "geo": {}
     },
     {
-      "id": "8619e8efae82d791",
-      "title_orig": "15 works set to enter the public domain in 2026 - including one Yorkshire literary giant",
-      "summary_orig": "As the clock strikes midnight on January 1, 2026, we celebrate Public Domain Day—the moment when the legal \"walls\" around thousands of creative works finally come down.",
+      "id": "407b04bf766c749a",
+      "title_orig": "Watch: Lonely robot’s quest for love at Auckland Airport",
+      "summary_orig": "Will WALL-E ever find his EVE?",
       "lang": "en",
-      "title_en": "15 works set to enter the public domain in 2026 - including one Yorkshire literary giant",
-      "summary_en": "As the clock strikes midnight on January 1, 2026, we celebrate Public Domain Day—the moment when the legal \"walls\" around thousands of creative works finally come down.",
-      "title": "15 works set to enter the public domain in 2026 - including one Yorkshire literary giant",
-      "summary": "As the clock strikes midnight on January 1, 2026, we celebrate Public Domain Day—the moment when the legal \"walls\" around thousands of creative works finally come down.",
-      "url": "https://www.yorkshireeveningpost.co.uk/whats-on/arts-and-entertainment/public-domain-works-2026-5457756",
-      "source": "Yorkshire Evening Post",
-      "published_at": "2025-12-31T05:30:36+00:00",
+      "title_en": "Watch: Lonely robot’s quest for love at Auckland Airport",
+      "summary_en": "Will WALL-E ever find his EVE?",
+      "title": "Watch: Lonely robot’s quest for love at Auckland Airport",
+      "summary": "Will WALL-E ever find his EVE?",
+      "url": "https://www.stuff.co.nz/nz-news/360919928/watch-lonely-robots-quest-love-auckland-airport",
+      "source": "Stuff - /",
+      "published_at": "2025-12-31T03:29:21+00:00",
       "tags": [
+        "AKL",
+        "New Zealand",
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
+      "geo": {
+        "airport": "Auckland",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "iata": "AKL",
+        "lat": -37.0082,
+        "lon": 174.785
+      }
     },
     {
       "id": "a0eff6c70b4c87cf",
