@@ -1,6 +1,123 @@
 {
-  "generated_at": "2026-01-01T13:16:17.682851+00:00",
+  "generated_at": "2026-01-01T13:57:01.720337+00:00",
   "items": [
+    {
+      "id": "5df7e63d7f08bd86",
+      "title_orig": "Warning for anyone using long-stay parking firms at UK airports",
+      "summary_orig": "One motorist, who had booked a meet-and-greet service to park his Volkswagen at Heathrow airport while he and his wife went on holiday, had their car stolen.",
+      "lang": "en",
+      "title_en": "Warning for anyone using long-stay parking firms at UK airports",
+      "summary_en": "One motorist, who had booked a meet-and-greet service to park his Volkswagen at Heathrow airport while he and his wife went on holiday, had their car stolen.",
+      "title": "Warning for anyone using long-stay parking firms at UK airports",
+      "summary": "One motorist, who had booked a meet-and-greet service to park his Volkswagen at Heathrow airport while he and his wife went on holiday, had their car stolen.",
+      "url": "https://www.birminghammail.co.uk/news/cost-of-living/warning-anyone-using-long-stay-33056885",
+      "source": "Birmingham Live - News",
+      "published_at": "2026-01-01T13:37:00+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "acfa300fd28e3c69",
+      "title_orig": "Seer slaps police officer in Vijayapura as he snatches phone during protest",
+      "summary_orig": "Sri Sanganabasaveshwar Swami of Hunshyal Math was among those protesting when the incident happened",
+      "lang": "en",
+      "title_en": "Seer slaps police officer in Vijayapura as he snatches phone during protest",
+      "summary_en": "Sri Sanganabasaveshwar Swami of Hunshyal Math was among those protesting when the incident happened",
+      "title": "Seer slaps police officer in Vijayapura as he snatches phone during protest",
+      "summary": "Sri Sanganabasaveshwar Swami of Hunshyal Math was among those protesting when the incident happened",
+      "url": "https://www.thehindu.com/news/national/karnataka/seer-slaps-police-officer-in-vijayapura-as-he-snatches-phone-during-protest/article70460565.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-01-01T13:27:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e940f669a39aa40e",
+      "title_orig": "Everything we know about the Swiss ski resort bar fire: Tragedy strikes New Year's Eve party",
+      "summary_orig": "Everyone we know so far about the tragic events at Le Constellation bar in Crans-Montana",
+      "lang": "en",
+      "title_en": "Everything we know about the Swiss ski resort bar fire: Tragedy strikes New Year's Eve party",
+      "summary_en": "Everyone we know so far about the tragic events at Le Constellation bar in Crans-Montana",
+      "title": "Everything we know about the Swiss ski resort bar fire: Tragedy strikes New Year's Eve party",
+      "summary": "Everyone we know so far about the tragic events at Le Constellation bar in Crans-Montana",
+      "url": "https://www.standard.co.uk/news/world/everything-we-know-about-the-swiss-ski-resort-fire-tragedy-b1264605.html",
+      "source": "The Standard News",
+      "published_at": "2026-01-01T13:27:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4a13df2e390c2b26",
+      "title_orig": "Russia says 20 killed in Ukrainian strike in occupied Kherson region",
+      "summary_orig": "It comes as Ukrainian President Volodymyr Zelenskyy says Russia is bringing the conflict \"into the new year\" with a barrage of drone strikes on the country's energy infrastructure.",
+      "lang": "en",
+      "title_en": "Russia says 20 killed in Ukrainian strike in occupied Kherson region",
+      "summary_en": "It comes as Ukrainian President Volodymyr Zelenskyy says Russia is bringing the conflict \"into the new year\" with a barrage of drone strikes on the country's energy infrastructure.",
+      "title": "Russia says 20 killed in Ukrainian strike in occupied Kherson region",
+      "summary": "It comes as Ukrainian President Volodymyr Zelenskyy says Russia is bringing the conflict \"into the new year\" with a barrage of drone strikes on the country's energy infrastructure.",
+      "url": "https://www.abc.net.au/news/2026-01-02/russia-says-ukrainian-strike-kills-20-in-occupied-region/106193226",
+      "source": "Just In",
+      "published_at": "2026-01-01T13:26:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "67f8fdc1fb9f211a",
+      "title_orig": "Who are the Palestine Action hunger strikers?",
+      "summary_orig": "Four activists from the proscribed Palestine Action group in the UK are still on hunger strikes in prison.",
+      "lang": "en",
+      "title_en": "Who are the Palestine Action hunger strikers?",
+      "summary_en": "Four activists from the proscribed Palestine Action group in the UK are still on hunger strikes in prison.",
+      "title": "Who are the Palestine Action hunger strikers?",
+      "summary": "Four activists from the proscribed Palestine Action group in the UK are still on hunger strikes in prison.",
+      "url": "https://www.aljazeera.com/news/2026/1/1/who-are-the-palestine-action-hunger-strikers?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-01-01T13:25:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "5841e4cc118a9828",
+      "title_orig": "Russia says it will give US proof of attempted Ukrainian strike on Putin residence",
+      "summary_orig": "Ukraine and Western countries have disputed Russia’s account of the alleged attempted strike.",
+      "lang": "en",
+      "title_en": "Russia says it will give US proof of attempted Ukrainian strike on Putin residence",
+      "summary_en": "Ukraine and Western countries have disputed Russia’s account of the alleged attempted strike.",
+      "title": "Russia says it will give US proof of attempted Ukrainian strike on Putin residence",
+      "summary": "Ukraine and Western countries have disputed Russia’s account of the alleged attempted strike.",
+      "url": "https://www.straitstimes.com/world/europe/russia-says-it-will-give-u-s-proof-of-attempted-ukrainian-strike-on-putin-residence",
+      "source": "The Straits Times World News",
+      "published_at": "2026-01-01T13:14:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "7856c62ff60da678",
       "title_orig": "Activists stage protests in Belagavi against VB-G RAM G Act",
@@ -139,24 +256,6 @@
       "url": "https://www.kxan.com/news/national-news/obamacare-subsidies-expire-premiums-spike-for-millions-what-to-know/",
       "source": "KXAN Austin",
       "published_at": "2026-01-01T12:37:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d033c7e8cacc4f2c",
-      "title_orig": "Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks",
-      "summary_orig": "KYIV, Ukraine (AP) — Russian officials on Thursday said a Ukrainian drone strike killed 24 people and wounded at least…",
-      "lang": "en",
-      "title_en": "Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks",
-      "summary_en": "KYIV, Ukraine (AP) — Russian officials on Thursday said a Ukrainian drone strike killed 24 people and wounded at least…",
-      "title": "Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks",
-      "summary": "KYIV, Ukraine (AP) — Russian officials on Thursday said a Ukrainian drone strike killed 24 people and wounded at least…",
-      "url": "https://wtop.com/russia-ukraine-war-news/2026/01/russia-says-ukrainian-drone-strike-kills-24-in-occupied-ukraine-as-tensions-grow-amid-peace-talks/",
-      "source": "WTOP News",
-      "published_at": "2026-01-01T12:34:43+00:00",
       "tags": [
         "airport/security"
       ],
@@ -308,24 +407,6 @@
       "geo": {}
     },
     {
-      "id": "11e5383be6d7c2e4",
-      "title_orig": "Nurse soaked in blood flees horror hospital attack after she's 'beaten nearly to death'",
-      "summary_orig": "A nurse was caught up in a hospital horror when six people were hurt during a 'rampage'",
-      "lang": "en",
-      "title_en": "Nurse soaked in blood flees horror hospital attack after she's 'beaten nearly to death'",
-      "summary_en": "A nurse was caught up in a hospital horror when six people were hurt during a 'rampage'",
-      "title": "Nurse soaked in blood flees horror hospital attack after she's 'beaten nearly to death'",
-      "summary": "A nurse was caught up in a hospital horror when six people were hurt during a 'rampage'",
-      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/nurse-soaked-blood-flees-horror-36482303",
-      "source": "Daily Record - Home",
-      "published_at": "2026-01-01T11:41:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1a0e1cae12c977f8",
       "title_orig": "Russia carries war into 2026 with over 200 drones launched at Ukraine, Zelenskyy says",
       "summary_orig": "Ukrainian president said on Thursday that Russia targeted energy infrastructure with over 200 drones in the latest strike on New Year's Eve.",
@@ -398,17 +479,17 @@
       "geo": {}
     },
     {
-      "id": "5eb791c93b6f1f7d",
+      "id": "d033c7e8cacc4f2c",
       "title_orig": "Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks",
-      "summary_orig": "Russian officials say that a Ukrainian attack killed 24 people in a Russian-occupied village in Ukraine’s Kherson region, as tensions between the two nations continue to spike despite diplomats hailing productive peace talks.",
+      "summary_orig": "KYIV, Ukraine (AP) — Russian officials on Thursday said a Ukrainian drone strike killed 24 people and wounded at least…",
       "lang": "en",
       "title_en": "Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks",
-      "summary_en": "Russian officials say that a Ukrainian attack killed 24 people in a Russian-occupied village in Ukraine’s Kherson region, as tensions between the two nations continue to spike despite diplomats hailing productive peace talks.",
+      "summary_en": "KYIV, Ukraine (AP) — Russian officials on Thursday said a Ukrainian drone strike killed 24 people and wounded at least…",
       "title": "Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks",
-      "summary": "Russian officials say that a Ukrainian attack killed 24 people in a Russian-occupied village in Ukraine’s Kherson region, as tensions between the two nations continue to spike despite diplomats hailing productive peace talks.",
-      "url": "https://www.seattletimes.com/nation-world/world/russia-says-ukrainian-drone-strike-kills-24-in-occupied-ukraine-as-tensions-grow-amid-peace-talks/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-01T11:22:10+00:00",
+      "summary": "KYIV, Ukraine (AP) — Russian officials on Thursday said a Ukrainian drone strike killed 24 people and wounded at least…",
+      "url": "https://wtop.com/russia-ukraine-war-news/2026/01/russia-says-ukrainian-drone-strike-kills-24-in-occupied-ukraine-as-tensions-grow-amid-peace-talks/",
+      "source": "WTOP News",
+      "published_at": "2026-01-01T11:22:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -535,6 +616,24 @@
       "url": "https://www.nottinghampost.com/sport/football/transfer-news/nottingham-forest-transfers-strand-larsen-10732529",
       "source": "Nottinghamshire Live - frontpage",
       "published_at": "2026-01-01T10:58:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b537a1e748c38e06",
+      "title_orig": "La CIA evalúa que Ucrania no tenía como objetivo una residencia de Putin en ataque con drones",
+      "summary_orig": "La CIA ha evaluado que Ucrania no estaba apuntando a una residencia utilizada por el presidente de Rusia Vladimir Putin…",
+      "lang": "es",
+      "title_en": "CIA assesses Ukraine did not target Putin's residence in drone attack",
+      "summary_en": "The CIA has assessed that Ukraine was not targeting a residence used by Russian President Vladimir Putin…",
+      "title": "CIA assesses Ukraine did not target Putin's residence in drone attack",
+      "summary": "The CIA has assessed that Ukraine was not targeting a residence used by Russian President Vladimir Putin…",
+      "url": "https://wtop.com/news/2026/01/la-cia-evalua-que-ucrania-no-tenia-como-objetivo-una-residencia-de-putin-en-ataque-con-drones/",
+      "source": "WTOP News",
+      "published_at": "2026-01-01T10:56:46+00:00",
       "tags": [
         "airport/security"
       ],
@@ -929,24 +1028,6 @@
       "geo": {}
     },
     {
-      "id": "1099fa0032c5d569",
-      "title_orig": "Volunteer in Iran’s Revolutionary Guard reportedly killed during widening protests",
-      "summary_orig": "Authorities in Iran say a volunteer member of the Revolutionary Guard has been killed during protests over the country's struggling economy.",
-      "lang": "en",
-      "title_en": "Volunteer in Iran’s Revolutionary Guard reportedly killed during widening protests",
-      "summary_en": "Authorities in Iran say a volunteer member of the Revolutionary Guard has been killed during protests over the country's struggling economy.",
-      "title": "Volunteer in Iran’s Revolutionary Guard reportedly killed during widening protests",
-      "summary": "Authorities in Iran say a volunteer member of the Revolutionary Guard has been killed during protests over the country's struggling economy.",
-      "url": "https://www.seattletimes.com/nation-world/volunteer-in-irans-revolutionary-guard-reportedly-killed-during-widening-protests/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-01T05:50:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1264469ade0faf52",
       "title_orig": "Sydney welcomes 2026 with spectacular fireworks display as world rings in new year",
       "summary_orig": "An hour before midnight, the victims of the Bondi Beach attack – during which 15 were killed and 40 injured – were commemorated with a minute of silence",
@@ -963,51 +1044,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "adb6eeea5bceaade",
-      "title_orig": "Newborn taken to Palghar hospital with severe injuries; police suspect mother’s role",
-      "summary_orig": "Police suspect that stray animals attacked the baby while she was left unattended",
-      "lang": "en",
-      "title_en": "Newborn taken to Palghar hospital with severe injuries; police suspect mother’s role",
-      "summary_en": "Police suspect that stray animals attacked the baby while she was left unattended",
-      "title": "Newborn taken to Palghar hospital with severe injuries; police suspect mother’s role",
-      "summary": "Police suspect that stray animals attacked the baby while she was left unattended",
-      "url": "https://www.thehindu.com/news/national/maharashtra/newborn-taken-to-palghar-hospital-with-severe-injuries-police-suspect-mothers-role/article70459478.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-01-01T05:26:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ce848007e0f575b7",
-      "title_orig": "Passenger held with gold worth ₹3.89 crore at Mumbai airport",
-      "summary_orig": "Directorate of Revenue Intelligence has claimed to have busted a gold smuggling syndicate after a passenger who arrived from Bahrain was intercepted",
-      "lang": "en",
-      "title_en": "Passenger held with gold worth ₹3.89 crore at Mumbai airport",
-      "summary_en": "Directorate of Revenue Intelligence has claimed to have busted a gold smuggling syndicate after a passenger who arrived from Bahrain was intercepted",
-      "title": "Passenger held with gold worth ₹3.89 crore at Mumbai airport",
-      "summary": "Directorate of Revenue Intelligence has claimed to have busted a gold smuggling syndicate after a passenger who arrived from Bahrain was intercepted",
-      "url": "https://www.thehindu.com/news/cities/mumbai/passenger-held-with-gold-worth-389-crore-at-mumbai-airport/article70459431.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-01-01T05:12:46+00:00",
-      "tags": [
-        "BOM",
-        "India",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Chhatrapati Shivaji",
-        "city": "Mumbai",
-        "country": "India",
-        "iata": "BOM",
-        "lat": 19.0896,
-        "lon": 72.8656
-      }
     },
     {
       "id": "d1b8a97546d3305c",
@@ -1172,24 +1208,6 @@
       "geo": {}
     },
     {
-      "id": "81f16a859ce9baad",
-      "title_orig": "US military strikes 5 more alleged drug boats, killing 8 and possibly leaving survivors",
-      "summary_orig": "The U.S. military said Wednesday it struck five alleged drug-smuggling boats over two days, killing a total of eight people while others jumped overboard and may have survived.",
-      "lang": "en",
-      "title_en": "US military strikes 5 more alleged drug boats, killing 8 and possibly leaving survivors",
-      "summary_en": "The U.S. military said Wednesday it struck five alleged drug-smuggling boats over two days, killing a total of eight people while others jumped overboard and may have survived.",
-      "title": "US military strikes 5 more alleged drug boats, killing 8 and possibly leaving survivors",
-      "summary": "The U.S. military said Wednesday it struck five alleged drug-smuggling boats over two days, killing a total of eight people while others jumped overboard and may have survived.",
-      "url": "https://www.startribune.com/us-military-strikes-three-more-alleged-drug-boats-killing-3-and-possibly-leaving-survivors/601555554",
-      "source": "Startribune News",
-      "published_at": "2026-01-01T02:25:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7fbd7b8e1f956c7e",
       "title_orig": "US Coast Guard searches for survivors after strike on alleged drug boat convoy",
       "summary_orig": "The United States Coast Guard is searching for survivors of a US military strike against a convoy of suspected drug vessels in the Pacific Ocean, US officials said on ‍Wednesday.\nPresident Donald Trump’s administration has carried out more than 30 strikes against suspected drug boats in the Caribbean and Pacific since September in a campaign that has killed at least 110 people.\nIn a statement, the US military’s Southern Command said the military had carried out ⁠a strike against three...",
@@ -1309,24 +1327,6 @@
       "url": "https://www.straitstimes.com/world/united-states/trump-says-national-guard-being-removed-from-chicago-la-and-portland",
       "source": "The Straits Times World News",
       "published_at": "2026-01-01T00:10:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9c141037310aaadd",
-      "title_orig": "Anyone flying a drone warned as new laws come into effect today",
-      "summary_orig": "The law has changed when it comes to flying drones in public",
-      "lang": "en",
-      "title_en": "Anyone flying a drone warned as new laws come into effect today",
-      "summary_en": "The law has changed when it comes to flying drones in public",
-      "title": "Anyone flying a drone warned as new laws come into effect today",
-      "summary": "The law has changed when it comes to flying drones in public",
-      "url": "https://www.bristolpost.co.uk/news/uk-world-news/anyone-flying-drone-warned-new-10728052",
-      "source": "Bristol Post - News",
-      "published_at": "2026-01-01T00:02:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1532,24 +1532,6 @@
       "geo": {}
     },
     {
-      "id": "ae14617b7e2b66cf",
-      "title_orig": "Pa. Game Commission searching for coyote that attacked person",
-      "summary_orig": "The Chester County Health Department reported that it is not known whether the coyote is rabid.",
-      "lang": "en",
-      "title_en": "Pa. Game Commission searching for coyote that attacked person",
-      "summary_en": "The Chester County Health Department reported that it is not known whether the coyote is rabid.",
-      "title": "Pa. Game Commission searching for coyote that attacked person",
-      "summary": "The Chester County Health Department reported that it is not known whether the coyote is rabid.",
-      "url": "https://www.pennlive.com/news/2025/12/pa-game-commission-searching-for-coyote-that-attacked-person.html",
-      "source": "pennlive.com",
-      "published_at": "2025-12-31T21:39:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "94a2f42d9cb4ea14",
       "title_orig": "Trump elevates social media posts attacking the Kennedys as family mourns cancer death of JFK’s 35-year-old granddaughter",
       "summary_orig": "President Donald Trump reacts to death of journalist Tatiana Schlossberg from blood cancer by posting screenshots of criticism of her famous political family",
@@ -1579,24 +1561,6 @@
       "url": "https://ktla.com/news/local-news/southern-california-man-arrested-in-unprovoked-and-brutal-assault-that-killed-another-man-police-say/",
       "source": "KTLA",
       "published_at": "2025-12-31T21:24:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "eeafb961beff83b4",
-      "title_orig": "Russian drone attack injures 3 Ukrainian children as Putin expresses confidence in victory",
-      "summary_orig": "As its invasion approaches four years, it has also intensified targeting of energy infrastructure, seeking to deny Ukrainians heat and running water in the bitter winter months.",
-      "lang": "en",
-      "title_en": "Russian drone attack injures 3 Ukrainian children as Putin expresses confidence in victory",
-      "summary_en": "As its invasion approaches four years, it has also intensified targeting of energy infrastructure, seeking to deny Ukrainians heat and running water in the bitter winter months.",
-      "title": "Russian drone attack injures 3 Ukrainian children as Putin expresses confidence in victory",
-      "summary": "As its invasion approaches four years, it has also intensified targeting of energy infrastructure, seeking to deny Ukrainians heat and running water in the bitter winter months.",
-      "url": "https://www.pennlive.com/nation-world/2025/12/russian-drone-attack-injures-3-ukrainian-children-as-putin-expresses-confidence-in-victory.html",
-      "source": "pennlive.com",
-      "published_at": "2025-12-31T21:20:22+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1637,24 +1601,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d748001b85c3a7c0",
-      "title_orig": "Sydney New Year’s Eve strikes sombre tone as fireworks follow minute’s silence for Bondi",
-      "summary_orig": "Terror attack victims remembered with menorah projected on to Harbour Bridge before dazzling display Get our breaking news email , free app or daily news podcast Australia paused to show solidarity with the Jewish community as New Year’s Eve festivities rolled across the nation. Weeks on from the Bondi Beach terrorist attack , hundreds of thousands of people around Sydney Harbour observed a minute’s silence and shone a collective, defiant light after the recent atrocity. Continue reading...",
-      "lang": "en",
-      "title_en": "Sydney New Year’s Eve strikes sombre tone as fireworks follow minute’s silence for Bondi",
-      "summary_en": "Terror attack victims remembered with menorah projected on to Harbour Bridge before dazzling display Get our breaking news email , free app or daily news podcast Australia paused to show solidarity with the Jewish community as New Year’s Eve festivities rolled across the nation. Weeks on from the Bondi Beach terrorist attack , hundreds of thousands of people around Sydney Harbour observed a minute’s silence and shone a collective, defiant light after the recent atrocity. Continue reading...",
-      "title": "Sydney New Year’s Eve strikes sombre tone as fireworks follow minute’s silence for Bondi",
-      "summary": "Terror attack victims remembered with menorah projected on to Harbour Bridge before dazzling display Get our breaking news email , free app or daily news podcast Australia paused to show solidarity with the Jewish community as New Year’s Eve festivities rolled across the nation. Weeks on from the Bondi Beach terrorist attack , hundreds of thousands of people around Sydney Harbour observed a minute’s silence and shone a collective, defiant light after the recent atrocity. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/31/sydney-new-years-eve-sees-more-sombre-tone-fireworks-follow-minutes-silence-bondi-ntwnfb",
-      "source": "World news | The Guardian",
-      "published_at": "2025-12-31T20:36:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2099,24 +2045,6 @@
       "geo": {}
     },
     {
-      "id": "be0724e066427b2e",
-      "title_orig": "Storm to soak Southern California through New Year's Day; evacuation warnings issued",
-      "summary_orig": "A storm system moving into Southern California on Wednesday will bring rain to most of the region through New Year's Day, prompting evacuation warnings for the recent burn scar areas. Light showers were already falling in some areas, including South Gate in southeast Los Angeles County, early Wednesday morning. Forecasters expect the light rain to [...]",
-      "lang": "en",
-      "title_en": "Storm to soak Southern California through New Year's Day; evacuation warnings issued",
-      "summary_en": "A storm system moving into Southern California on Wednesday will bring rain to most of the region through New Year's Day, prompting evacuation warnings for the recent burn scar areas. Light showers were already falling in some areas, including South Gate in southeast Los Angeles County, early Wednesday morning. Forecasters expect the light rain to [...]",
-      "title": "Storm to soak Southern California through New Year's Day; evacuation warnings issued",
-      "summary": "A storm system moving into Southern California on Wednesday will bring rain to most of the region through New Year's Day, prompting evacuation warnings for the recent burn scar areas. Light showers were already falling in some areas, including South Gate in southeast Los Angeles County, early Wednesday morning. Forecasters expect the light rain to [...]",
-      "url": "https://ktla.com/news/california/arriving-storm-to-soak-southern-california-through-new-years-day/",
-      "source": "KTLA",
-      "published_at": "2025-12-31T13:53:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2caa8b044c24758f",
       "title_orig": "Goa Cardinal slams ‘unwarranted attacks' during Christmas celebrations",
       "summary_orig": "The Cardinal lamented that the authorities were failing at their “constitutional responsibility and moral accountability and to act decisively”",
@@ -2366,24 +2294,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "0dfb0aea23fc9fb0",
-      "title_orig": "The 9 at 9: New Year's Eve",
-      "summary_orig": "Dog attacks on postal workers, road policing and Eurostar services resume",
-      "lang": "en",
-      "title_en": "The 9 at 9: New Year's Eve",
-      "summary_en": "Dog attacks on postal workers, road policing and Eurostar services resume",
-      "title": "The 9 at 9: New Year's Eve",
-      "summary": "Dog attacks on postal workers, road policing and Eurostar services resume",
-      "url": "https://www.thejournal.ie/8-at-8-3112-6915263-Dec2025/",
-      "source": "TheJournal.ie",
-      "published_at": "2025-12-31T09:02:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
