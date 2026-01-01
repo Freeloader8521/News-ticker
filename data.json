@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-01-01T07:01:39.595621+00:00",
+  "generated_at": "2026-01-01T07:24:55.078704+00:00",
   "items": [
+    {
+      "id": "7443c4b8f09f3258",
+      "title_orig": "Kansas City & Cleveland Airports Deal With Security Threats On New Year’s Eve",
+      "summary_orig": "The results of the threats targeted towards these two airports, and how this affects air travel.",
+      "lang": "en",
+      "title_en": "Kansas City & Cleveland Airports Deal With Security Threats On New Year’s Eve",
+      "summary_en": "The results of the threats targeted towards these two airports, and how this affects air travel.",
+      "title": "Kansas City & Cleveland Airports Deal With Security Threats On New Year’s Eve",
+      "summary": "The results of the threats targeted towards these two airports, and how this affects air travel.",
+      "url": "https://simpleflying.com/kansas-city-cleveland-airport-security-threats-nye/",
+      "source": "Simple Flying",
+      "published_at": "2026-01-01T06:57:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "692b71006c286866",
+      "title_orig": "Gold dust inside capsules inside tumbler: Big bust worth  ₹3.89 crore at Mumbai airport",
+      "summary_orig": "A search of his luggage revealed 12 capsules containing gold dust mixed with wax, weighing a total of 3.05 kg.",
+      "lang": "en",
+      "title_en": "Gold dust inside capsules inside tumbler: Big bust worth  ₹3.89 crore at Mumbai airport",
+      "summary_en": "A search of his luggage revealed 12 capsules containing gold dust mixed with wax, weighing a total of 3.05 kg.",
+      "title": "Gold dust inside capsules inside tumbler: Big bust worth  ₹3.89 crore at Mumbai airport",
+      "summary": "A search of his luggage revealed 12 capsules containing gold dust mixed with wax, weighing a total of 3.05 kg.",
+      "url": "https://www.hindustantimes.com/india-news/gold-dust-inside-capsules-inside-tumbler-big-bust-worth-rs-3-89-crore-at-mumbai-airport-101767246195111.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2026-01-01T06:44:37+00:00",
+      "tags": [
+        "BOM",
+        "India",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Chhatrapati Shivaji",
+        "city": "Mumbai",
+        "country": "India",
+        "iata": "BOM",
+        "lat": 19.0896,
+        "lon": 72.8656
+      }
+    },
     {
       "id": "9e5517dbbcf34103",
       "title_orig": "US military says 8 dead in US strikes on alleged drug boats",
@@ -13,6 +58,24 @@
       "url": "https://www.dawn.com/news/1964455/us-military-says-8-dead-in-us-strikes-on-alleged-drug-boats",
       "source": "Dawn - Home",
       "published_at": "2026-01-01T06:16:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1099fa0032c5d569",
+      "title_orig": "Volunteer in Iran’s Revolutionary Guard reportedly killed during widening protests",
+      "summary_orig": "Authorities in Iran say a volunteer member of the Revolutionary Guard has been killed during protests over the country's struggling economy.",
+      "lang": "en",
+      "title_en": "Volunteer in Iran’s Revolutionary Guard reportedly killed during widening protests",
+      "summary_en": "Authorities in Iran say a volunteer member of the Revolutionary Guard has been killed during protests over the country's struggling economy.",
+      "title": "Volunteer in Iran’s Revolutionary Guard reportedly killed during widening protests",
+      "summary": "Authorities in Iran say a volunteer member of the Revolutionary Guard has been killed during protests over the country's struggling economy.",
+      "url": "https://www.seattletimes.com/nation-world/volunteer-in-irans-revolutionary-guard-reportedly-killed-during-widening-protests/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-01T05:50:03+00:00",
       "tags": [
         "airport/security"
       ],
@@ -714,24 +777,6 @@
       "geo": {}
     },
     {
-      "id": "70c4abec337eb829",
-      "title_orig": "US attacks 'narco-trafficking' boats in international waters",
-      "summary_orig": "US military forces have carried out strikes against three boats in international waters in the Pacific Ocean. Eight people are reported to have survived.",
-      "lang": "en",
-      "title_en": "US attacks 'narco-trafficking' boats in international waters",
-      "summary_en": "US military forces have carried out strikes against three boats in international waters in the Pacific Ocean. Eight people are reported to have survived.",
-      "title": "US attacks 'narco-trafficking' boats in international waters",
-      "summary": "US military forces have carried out strikes against three boats in international waters in the Pacific Ocean. Eight people are reported to have survived.",
-      "url": "https://www.abc.net.au/news/2026-01-01/us-strikes-boats-in-international-waters-looking-for-survivors/106191618",
-      "source": "Just In",
-      "published_at": "2025-12-31T22:32:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7c4efe82e72a1ccc",
       "title_orig": "‘Monster’ with sex-crime history accused of new Portland attack; victim speaks out",
       "summary_orig": "Armando Duran-Maya was previously sentenced to 9½ years in prison in 2007.",
@@ -768,17 +813,17 @@
       "geo": {}
     },
     {
-      "id": "9bd890739ad0a9ae",
-      "title_orig": "Liverpool star Alexander Isak shows true colours as Tottenham player reveals apology text",
-      "summary_orig": "The Liverpool striker is set for some time out on the side-lines after suffering a fractured fibula and an ankle injury during their 2-1 win over Tottenham.",
+      "id": "f77bc8456945b4e9",
+      "title_orig": "US military strikes 5 more alleged drug boats, killing 8 and possibly leaving survivors",
+      "summary_orig": "The U.S. military says it has struck five alleged drug-smuggling boats over two days.",
       "lang": "en",
-      "title_en": "Liverpool star Alexander Isak shows true colours as Tottenham player reveals apology text",
-      "summary_en": "The Liverpool striker is set for some time out on the side-lines after suffering a fractured fibula and an ankle injury during their 2-1 win over Tottenham.",
-      "title": "Liverpool star Alexander Isak shows true colours as Tottenham player reveals apology text",
-      "summary": "The Liverpool striker is set for some time out on the side-lines after suffering a fractured fibula and an ankle injury during their 2-1 win over Tottenham.",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alexander-isak-liverpool-injury-message-33149281",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2025-12-31T22:05:15+00:00",
+      "title_en": "US military strikes 5 more alleged drug boats, killing 8 and possibly leaving survivors",
+      "summary_en": "The U.S. military says it has struck five alleged drug-smuggling boats over two days.",
+      "title": "US military strikes 5 more alleged drug boats, killing 8 and possibly leaving survivors",
+      "summary": "The U.S. military says it has struck five alleged drug-smuggling boats over two days.",
+      "url": "https://www.seattletimes.com/nation-world/nation/us-military-strikes-three-more-alleged-drug-boats-killing-3-and-possibly-leaving-survivors/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2025-12-31T22:10:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1305,24 +1350,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "c3d15a06d846f3cb",
-      "title_orig": "Boy, 16, arrested and bomb squad called in after ‘explosive materials’ found in Blackpool",
-      "summary_orig": "Officers found 'a quantity of items of concern' at a terraced home on Gloucester Avenue in Blackpool",
-      "lang": "en",
-      "title_en": "Boy, 16, arrested and bomb squad called in after ‘explosive materials’ found in Blackpool",
-      "summary_en": "Officers found 'a quantity of items of concern' at a terraced home on Gloucester Avenue in Blackpool",
-      "title": "Boy, 16, arrested and bomb squad called in after ‘explosive materials’ found in Blackpool",
-      "summary": "Officers found 'a quantity of items of concern' at a terraced home on Gloucester Avenue in Blackpool",
-      "url": "https://metro.co.uk/2025/12/31/boy-16-arrested-bomb-squad-called-explosive-materials-found-blackpool-25959474/",
-      "source": "Metro",
-      "published_at": "2025-12-31T17:30:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2181,6 +2208,24 @@
       "geo": {}
     },
     {
+      "id": "151b481e35219c03",
+      "title_orig": "Leeds Bradford Airport hails 'busiest year ever' with 4.29m passengers - as night-flight hearing costs revealed",
+      "summary_orig": "Leeds Bradford Airport has hailed its \"busiest year ever\" after delivering record passenger numbers and increased turnover and profits.",
+      "lang": "en",
+      "title_en": "Leeds Bradford Airport hails 'busiest year ever' with 4.29m passengers - as night-flight hearing costs revealed",
+      "summary_en": "Leeds Bradford Airport has hailed its \"busiest year ever\" after delivering record passenger numbers and increased turnover and profits.",
+      "title": "Leeds Bradford Airport hails 'busiest year ever' with 4.29m passengers - as night-flight hearing costs revealed",
+      "summary": "Leeds Bradford Airport has hailed its \"busiest year ever\" after delivering record passenger numbers and increased turnover and profits.",
+      "url": "https://www.yorkshireeveningpost.co.uk/business/leeds-bradford-airport-hails-busiest-year-ever-with-429m-passengers-as-night-flight-hearing-costs-revealed-5459248",
+      "source": "Yorkshire Evening Post",
+      "published_at": "2025-12-31T09:50:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "a6d658ee16c35743",
       "title_orig": "Tatiana Schlossberg, granddaughter of JFK, dies at 35 after terminal cancer diagnosis",
       "summary_orig": "‘Our beautiful Tatiana passed away this morning. She will always be in our hearts,’ read a family statement",
@@ -2316,24 +2361,6 @@
       "geo": {}
     },
     {
-      "id": "c92610a3de2b62ba",
-      "title_orig": "German dog owners plans to sit out New Year's Eve in airport hotels",
-      "summary_orig": "As Germans prepare to set off more than 40,000 tonnes of pyrotechnics on New Year's Eve, Anja Gerauer is plotting her escape, hoping to shield her dog Joy from a night of noisy trauma.",
-      "lang": "en",
-      "title_en": "German dog owners plans to sit out New Year's Eve in airport hotels",
-      "summary_en": "As Germans prepare to set off more than 40,000 tonnes of pyrotechnics on New Year's Eve, Anja Gerauer is plotting her escape, hoping to shield her dog Joy from a night of noisy trauma.",
-      "title": "German dog owners plans to sit out New Year's Eve in airport hotels",
-      "summary": "As Germans prepare to set off more than 40,000 tonnes of pyrotechnics on New Year's Eve, Anja Gerauer is plotting her escape, hoping to shield her dog Joy from a night of noisy trauma.",
-      "url": "https://www.thelocal.de/20251231/german-dog-owners-plans-to-sit-out-new-years-eve-in-airport-hotels",
-      "source": "The Local Germany",
-      "published_at": "2025-12-31T08:14:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4a04c740cf52bfbd",
       "title_orig": "Major protests break out across Iran as government seeks rare dialogue with demonstrators",
       "summary_orig": "Iran’s regime faces mounting pressure from below as Trump and Netanyahu weigh fresh strikes",
@@ -2365,24 +2392,6 @@
       "published_at": "2025-12-31T07:25:01+00:00",
       "tags": [
         "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "68234bfd5c6777da",
-      "title_orig": "Quad in Beijing? Envoys of member countries hold rare publicised meeting in China",
-      "summary_orig": "The meeting took place on Tuesday at the US Embassy in Beijing, according to a post on X with a photo by the American Ambassador to China, David Perdue.",
-      "lang": "en",
-      "title_en": "Quad in Beijing? Envoys of member countries hold rare publicised meeting in China",
-      "summary_en": "The meeting took place on Tuesday at the US Embassy in Beijing, according to a post on X with a photo by the American Ambassador to China, David Perdue.",
-      "title": "Quad in Beijing? Envoys of member countries hold rare publicised meeting in China",
-      "summary": "The meeting took place on Tuesday at the US Embassy in Beijing, according to a post on X with a photo by the American Ambassador to China, David Perdue.",
-      "url": "https://www.hindustantimes.com/india-news/quad-in-beijing-envoys-of-member-countries-hold-rare-publicised-meeting-in-china-101767164219393.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2025-12-31T07:07:32+00:00",
-      "tags": [
-        "diplomatic"
       ],
       "type": "local news",
       "geo": {}
