@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-01-02T22:20:33.351856+00:00",
+  "generated_at": "2026-01-02T22:51:00.199601+00:00",
   "items": [
+    {
+      "id": "bd9cd6b2cab50ed6",
+      "title_orig": "Hiker killed in suspected mountain lion attack in Colorado",
+      "summary_orig": "The woman was found unresponsive by other hikers with injuries consistent with a mountain lion attack, authorities say.",
+      "lang": "en",
+      "title_en": "Hiker killed in suspected mountain lion attack in Colorado",
+      "summary_en": "The woman was found unresponsive by other hikers with injuries consistent with a mountain lion attack, authorities say.",
+      "title": "Hiker killed in suspected mountain lion attack in Colorado",
+      "summary": "The woman was found unresponsive by other hikers with injuries consistent with a mountain lion attack, authorities say.",
+      "url": "https://www.abc.net.au/news/2026-01-03/woman-killed-by-mountain-lion-in-colorado/106196130",
+      "source": "Just In",
+      "published_at": "2026-01-02T22:33:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e29e07fb48b7bc9a",
+      "title_orig": "Air India pilot removed from flight at Vancouver airport before takeoff",
+      "summary_orig": "In a statement to the media, Air India said the flight from Vancouver to Delhi experienced a 'last-minute delay,' and an alternate pilot was brought in to operate the flight.",
+      "lang": "en",
+      "title_en": "Air India pilot removed from flight at Vancouver airport before takeoff",
+      "summary_en": "In a statement to the media, Air India said the flight from Vancouver to Delhi experienced a 'last-minute delay,' and an alternate pilot was brought in to operate the flight.",
+      "title": "Air India pilot removed from flight at Vancouver airport before takeoff",
+      "summary": "In a statement to the media, Air India said the flight from Vancouver to Delhi experienced a 'last-minute delay,' and an alternate pilot was brought in to operate the flight.",
+      "url": "https://globalnews.ca/news/11597577/air-india-pilot-removed-flight-vancouver-airport-takeoff/",
+      "source": "globalnews.ca",
+      "published_at": "2026-01-02T22:19:49+00:00",
+      "tags": [
+        "Canada",
+        "YVR",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Vancouver",
+        "city": "Vancouver",
+        "country": "Canada",
+        "iata": "YVR",
+        "lat": 49.1967,
+        "lon": -123.1815
+      }
+    },
     {
       "id": "10e843a2e2c5826e",
       "title_orig": "Zelensky proposes appointing First Deputy PM Fedorov as Ukraine’s new defence minister",
@@ -13,6 +58,78 @@
       "url": "https://www.scmp.com/news/world/europe/article/3338585/zelensky-proposes-appointing-first-deputy-pm-fedorov-ukraines-new-defence-minister?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-01-02T22:11:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c323b371ff191659",
+      "title_orig": "US judge orders DC pipe bomber to remain in custody ahead of trial",
+      "summary_orig": "Prosecutors say Brian Cole confessed to planting bomb while parroting Trump's false claims 2020 election was stolen.",
+      "lang": "en",
+      "title_en": "US judge orders DC pipe bomber to remain in custody ahead of trial",
+      "summary_en": "Prosecutors say Brian Cole confessed to planting bomb while parroting Trump's false claims 2020 election was stolen.",
+      "title": "US judge orders DC pipe bomber to remain in custody ahead of trial",
+      "summary": "Prosecutors say Brian Cole confessed to planting bomb while parroting Trump's false claims 2020 election was stolen.",
+      "url": "https://www.aljazeera.com/news/2026/1/2/us-judge-orders-dc-pipe-bomber-to-remain-in-custody-ahead-of-trial?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-01-02T22:11:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "976381d0574076b2",
+      "title_orig": "BBC settles with 7 October survivors for filming home ‘without permission’",
+      "summary_orig": "Jewish family say crew did not seek consent to film inside their home days after it was wrecked by Hamas in southern Israel The BBC has said it has reached a settlement with a Jewish family who survived Hamas’s 7 October attacks in southern Israel after a news crew filmed inside their destroyed home. The reporting team, which included senior correspondent Jeremy Bowen, entered the Horenstein family’s home in the days after the attacks in 2023. Continue reading...",
+      "lang": "en",
+      "title_en": "BBC settles with 7 October survivors for filming home ‘without permission’",
+      "summary_en": "Jewish family say crew did not seek consent to film inside their home days after it was wrecked by Hamas in southern Israel The BBC has said it has reached a settlement with a Jewish family who survived Hamas’s 7 October attacks in southern Israel after a news crew filmed inside their destroyed home. The reporting team, which included senior correspondent Jeremy Bowen, entered the Horenstein family’s home in the days after the attacks in 2023. Continue reading...",
+      "title": "BBC settles with 7 October survivors for filming home ‘without permission’",
+      "summary": "Jewish family say crew did not seek consent to film inside their home days after it was wrecked by Hamas in southern Israel The BBC has said it has reached a settlement with a Jewish family who survived Hamas’s 7 October attacks in southern Israel after a news crew filmed inside their destroyed home. The reporting team, which included senior correspondent Jeremy Bowen, entered the Horenstein family’s home in the days after the attacks in 2023. Continue reading...",
+      "url": "https://www.theguardian.com/media/2026/jan/02/bbc-settles-with-7-october-survivors-for-filming-home-without-permission",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-02T22:08:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "17662affe603f209",
+      "title_orig": "18 arrested in Assam for burning couple alive over witchcraft suspicion",
+      "summary_orig": "The victims were allegedly attacked inside their home before being set on fire, resulting in their deaths, police said.",
+      "lang": "en",
+      "title_en": "18 arrested in Assam for burning couple alive over witchcraft suspicion",
+      "summary_en": "The victims were allegedly attacked inside their home before being set on fire, resulting in their deaths, police said.",
+      "title": "18 arrested in Assam for burning couple alive over witchcraft suspicion",
+      "summary": "The victims were allegedly attacked inside their home before being set on fire, resulting in their deaths, police said.",
+      "url": "https://www.hindustantimes.com/india-news/18-arrested-in-assam-for-burning-couple-alive-over-witchcraft-suspicion-101767377566242.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2026-01-02T22:06:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8684582b64b1377d",
+      "title_orig": "Leão strike takes AC Milan to the top of Serie A",
+      "summary_orig": "CAGLIARI, Italy (AP) — A second half goal from Rafael Leão gave AC Milan a 1-0 win at Cagliari and…",
+      "lang": "en",
+      "title_en": "Leão strike takes AC Milan to the top of Serie A",
+      "summary_en": "CAGLIARI, Italy (AP) — A second half goal from Rafael Leão gave AC Milan a 1-0 win at Cagliari and…",
+      "title": "Leão strike takes AC Milan to the top of Serie A",
+      "summary": "CAGLIARI, Italy (AP) — A second half goal from Rafael Leão gave AC Milan a 1-0 win at Cagliari and…",
+      "url": "https://wtop.com/sports/2026/01/leao-strike-takes-ac-milan-to-the-top-of-serie-a/",
+      "source": "WTOP News",
+      "published_at": "2026-01-02T22:05:19+00:00",
       "tags": [
         "airport/security"
       ],
@@ -362,6 +479,42 @@
       "geo": {}
     },
     {
+      "id": "de26bca23309b879",
+      "title_orig": "Katie Wilson sworn in as Seattle mayor: ‘This is your city’",
+      "summary_orig": "Wilson acknowledged the transition she will undergo from someone accustomed to protesting to leading the city on projects that weren't always part of her fight.",
+      "lang": "en",
+      "title_en": "Katie Wilson sworn in as Seattle mayor: ‘This is your city’",
+      "summary_en": "Wilson acknowledged the transition she will undergo from someone accustomed to protesting to leading the city on projects that weren't always part of her fight.",
+      "title": "Katie Wilson sworn in as Seattle mayor: ‘This is your city’",
+      "summary": "Wilson acknowledged the transition she will undergo from someone accustomed to protesting to leading the city on projects that weren't always part of her fight.",
+      "url": "https://www.seattletimes.com/seattle-news/politics/katie-wilson-sworn-in-as-seattle-mayor-this-is-your-city/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-02T19:17:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9b46493d9df34d92",
+      "title_orig": "Evidence mounts of U.S. strike inside Venezuela amid rising tensions",
+      "summary_orig": "The apparent strike would mark the first known instance of U.S. forces hitting a land-based target as part of a campaign across the Caribbean and eastern Pacific.",
+      "lang": "en",
+      "title_en": "Evidence mounts of U.S. strike inside Venezuela amid rising tensions",
+      "summary_en": "The apparent strike would mark the first known instance of U.S. forces hitting a land-based target as part of a campaign across the Caribbean and eastern Pacific.",
+      "title": "Evidence mounts of U.S. strike inside Venezuela amid rising tensions",
+      "summary": "The apparent strike would mark the first known instance of U.S. forces hitting a land-based target as part of a campaign across the Caribbean and eastern Pacific.",
+      "url": "https://www.seattletimes.com/nation-world/evidence-mounts-of-u-s-strike-inside-venezuela-amid-rising-tensions/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-02T19:14:39+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "1a700914c2823c88",
       "title_orig": "DC pipe bomb suspect must remain in jail before trial, judge rules",
       "summary_orig": "Brian Cole, accused of planting bombs before Capitol attack, presents ‘intolerable risk of danger’, court finds A federal magistrate judge has ruled that the man accused of planting pipe bombs outside the Democratic and Republican headquarters the night before the 6 January Capitol attack must remain in custody while awaiting trial. In a memorandum opinion , the court determined that Brian Cole Jr, 30, of Woodbridge, Virginia, “poses an intolerable risk of danger to the community if released”, granting the government’s motion for pretrial detention. Continue reading...",
@@ -445,6 +598,24 @@
       "url": "https://www.birminghammail.co.uk/news/midlands-news/exact-date-uk-snow-bomb-33159014",
       "source": "Birmingham Live - News",
       "published_at": "2026-01-02T18:58:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8c14a529398eaeeb",
+      "title_orig": "Judge refuses to order release of man charged with planting pipe bombs on eve of Capitol riot",
+      "summary_orig": "A federal magistrate judge has refused to order the pretrial release of a man charged with planting two pipe bombs outside the headquarters of the Democratic and Republican national parties on the eve of the Capitol riot on Jan. 6, 2021.",
+      "lang": "en",
+      "title_en": "Judge refuses to order release of man charged with planting pipe bombs on eve of Capitol riot",
+      "summary_en": "A federal magistrate judge has refused to order the pretrial release of a man charged with planting two pipe bombs outside the headquarters of the Democratic and Republican national parties on the eve of the Capitol riot on Jan. 6, 2021.",
+      "title": "Judge refuses to order release of man charged with planting pipe bombs on eve of Capitol riot",
+      "summary": "A federal magistrate judge has refused to order the pretrial release of a man charged with planting two pipe bombs outside the headquarters of the Democratic and Republican national parties on the eve of the Capitol riot on Jan. 6, 2021.",
+      "url": "https://www.seattletimes.com/nation-world/nation/judge-refuses-to-order-release-of-man-charged-with-planting-pipe-bombs-on-eve-of-capitol-riot/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-02T18:48:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -596,24 +767,6 @@
       "geo": {}
     },
     {
-      "id": "02313e95a4f48dfb",
-      "title_orig": "Solo female hiker killed in suspected mountain lion attack",
-      "summary_orig": "It is the first fatal attack by one of the predators in the US state of Colorado in more than 25 years.",
-      "lang": "en",
-      "title_en": "Solo female hiker killed in suspected mountain lion attack",
-      "summary_en": "It is the first fatal attack by one of the predators in the US state of Colorado in more than 25 years.",
-      "title": "Solo female hiker killed in suspected mountain lion attack",
-      "summary": "It is the first fatal attack by one of the predators in the US state of Colorado in more than 25 years.",
-      "url": "https://www.stuff.co.nz/world-news/360920347/woman-killed-suspected-mountain-lion-attack-while-hiking-northern-colorado",
-      "source": "Stuff - /",
-      "published_at": "2026-01-02T18:28:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4b7bf28215150273",
       "title_orig": "Jan 6 pipe bomb suspect to remain in jail ahead of trial",
       "summary_orig": "Judge ‘lacks confidence’ that releasing Brian J. Cole Jr. before trial ‘can reasonably guard against the risk of future danger’",
@@ -715,6 +868,24 @@
       "url": "https://www.straitstimes.com/world/united-states/us-says-it-thwarted-potential-isis-inspired-new-years-eve-attack-in-north-carolina",
       "source": "The Straits Times World News",
       "published_at": "2026-01-02T17:55:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "42afe432b38ab62c",
+      "title_orig": "Man fought off a mountain lion weeks before a suspected fatal Colorado attack",
+      "summary_orig": "A suspected deadly mountain lion attack on New Year’s Day that killed a woman hiking alone was preceded by another harrowing encounter in the same area.",
+      "lang": "en",
+      "title_en": "Man fought off a mountain lion weeks before a suspected fatal Colorado attack",
+      "summary_en": "A suspected deadly mountain lion attack on New Year’s Day that killed a woman hiking alone was preceded by another harrowing encounter in the same area.",
+      "title": "Man fought off a mountain lion weeks before a suspected fatal Colorado attack",
+      "summary": "A suspected deadly mountain lion attack on New Year’s Day that killed a woman hiking alone was preceded by another harrowing encounter in the same area.",
+      "url": "https://www.seattletimes.com/nation-world/nation/suspected-deadly-mountain-lion-attack-in-colorado-is-not-the-first-such-harrowing-encounter/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-02T17:46:25+00:00",
       "tags": [
         "airport/security"
       ],
@@ -877,6 +1048,24 @@
       "url": "https://www.kgw.com/article/news/nation-world/fbi-terrorism-plot-new-years-eve/507-430f4529-7b1f-4f8c-981b-989d6f4a488f",
       "source": "KGW RSS Feed: news",
       "published_at": "2026-01-02T17:12:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1b3495fd8db2b34d",
+      "title_orig": "FBI says it disrupted a New Year’s Eve attack plan inspired by Islamic State group",
+      "summary_orig": "The FBI says it has disrupted a plot to attack a North Carolina grocery store on New Year’s Eve, arresting a man they say was inspired by the Islamic State group.",
+      "lang": "en",
+      "title_en": "FBI says it disrupted a New Year’s Eve attack plan inspired by Islamic State group",
+      "summary_en": "The FBI says it has disrupted a plot to attack a North Carolina grocery store on New Year’s Eve, arresting a man they say was inspired by the Islamic State group.",
+      "title": "FBI says it disrupted a New Year’s Eve attack plan inspired by Islamic State group",
+      "summary": "The FBI says it has disrupted a plot to attack a North Carolina grocery store on New Year’s Eve, arresting a man they say was inspired by the Islamic State group.",
+      "url": "https://www.seattletimes.com/nation-world/nation/fbi-says-it-disrupted-a-potential-new-years-eve-attack-inspired-by-islamic-state-group/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-02T17:12:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1922,24 +2111,6 @@
       "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
       "published_at": "2026-01-02T10:55:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "26341e25a71718b2",
-      "title_orig": "Trump and top Iranian official exchange threats over protests in Iran",
-      "summary_orig": "US president says Washington will intervene if Tehran violently suppresses protests over high prices.",
-      "lang": "en",
-      "title_en": "Trump and top Iranian official exchange threats over protests in Iran",
-      "summary_en": "US president says Washington will intervene if Tehran violently suppresses protests over high prices.",
-      "title": "Trump and top Iranian official exchange threats over protests in Iran",
-      "summary": "US president says Washington will intervene if Tehran violently suppresses protests over high prices.",
-      "url": "https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-01-02T10:37:19+00:00",
       "tags": [
         "airport/security"
       ],
