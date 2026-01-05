@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-05T07:54:17.495004+00:00",
+  "generated_at": "2026-01-05T08:29:10.209130+00:00",
   "items": [
     {
       "id": "3f5c068ed29994cf",
@@ -12,10 +12,164 @@
       "summary": "A coalition of civic groups on Monday chanted anti-U.S. slogans to protest against the U.S. capture of Venezuelan President Nicolas Maduro outside the U.S. Embassy in Seoul, condemning U.S. President Donald Trump over a military strike. The rally involving 38 civic organizations took place after Trump announced Saturday that Maduro and his wife were taken into U.S. custody through a military raid in Caracas. Acting Venezuelan Ambassador to South Korea Natasha Faria Fernandez attended the rally and called for Maduro's immediate release while accusing the U.S. government of violating the U.N. Charter. Kwon Young-kook, leader of the left-wing Justice Party, called on the South Korean government to voice opposition to what he called the U.S. invasion of the South American nation at the rally. On Sunday, South Korea's foreign ministry urged all involved parties in the situation in Venezuela to ease tensions in the region. Another rally involving an umbrella group representing 267 civic organizations took place near the embassy the same day, with participants strongly condemning the U.S. milita",
       "url": "https://www.koreatimes.co.kr/southkorea/society/20260105/civic-groups-rally-against-trumps-capture-of-venezuelas-maduro-near-us-embassy-in-seoul?utm_source=rss",
       "source": "Korea Times News",
-      "published_at": "2026-01-05T07:52:03+00:00",
+      "published_at": "2026-01-05T08:27:02+00:00",
       "tags": [
         "airport/security",
         "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "beecd39bc8a22cb2",
+      "title_orig": "Alan Shearer makes prediction over Ruben Amorim’s future after rant against Man Utd hierarchy",
+      "summary_orig": "The Portuguese launched an explosive attack after United's draw with Leeds.",
+      "lang": "en",
+      "title_en": "Alan Shearer makes prediction over Ruben Amorim’s future after rant against Man Utd hierarchy",
+      "summary_en": "The Portuguese launched an explosive attack after United's draw with Leeds.",
+      "title": "Alan Shearer makes prediction over Ruben Amorim’s future after rant against Man Utd hierarchy",
+      "summary": "The Portuguese launched an explosive attack after United's draw with Leeds.",
+      "url": "https://metro.co.uk/2026/01/05/alan-shearer-makes-prediction-ruben-amorims-future-rant-man-utd-hierarchy-26077253/",
+      "source": "Metro",
+      "published_at": "2026-01-05T08:15:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bb4a2c00a40542dd",
+      "title_orig": "Cuba confirms 32 officers were killed during US attack on Venezuela",
+      "summary_orig": "Cuba’s government has announced two days of mourning",
+      "lang": "en",
+      "title_en": "Cuba confirms 32 officers were killed during US attack on Venezuela",
+      "summary_en": "Cuba’s government has announced two days of mourning",
+      "title": "Cuba confirms 32 officers were killed during US attack on Venezuela",
+      "summary": "Cuba’s government has announced two days of mourning",
+      "url": "https://www.independent.co.uk/news/world/americas/cubans-killed-in-venezuela-trump-b2894421.html",
+      "source": "The Independent World",
+      "published_at": "2026-01-05T08:13:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d2d7ece5e684095a",
+      "title_orig": "Hundreds of flights cancelled as snow hits airport schedules including at Heathrow",
+      "summary_orig": "Amsterdam’s Schiphol airport cancels 450 ‌flights on Monday morning due to snow ​and icy ​weather",
+      "lang": "en",
+      "title_en": "Hundreds of flights cancelled as snow hits airport schedules including at Heathrow",
+      "summary_en": "Amsterdam’s Schiphol airport cancels 450 ‌flights on Monday morning due to snow ​and icy ​weather",
+      "title": "Hundreds of flights cancelled as snow hits airport schedules including at Heathrow",
+      "summary": "Amsterdam’s Schiphol airport cancels 450 ‌flights on Monday morning due to snow ​and icy ​weather",
+      "url": "https://www.standard.co.uk/news/transport/flights-cancelled-snow-weather-heathrow-schipol-aberdeen-b1264943.html",
+      "source": "The Standard News",
+      "published_at": "2026-01-05T08:05:39+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "16058d11182dde96",
+      "title_orig": "Midland school forced to stay shut after hack attack",
+      "summary_orig": "Pupils set for at least another two days off after Christmas as systems targeted by cyber criminals",
+      "lang": "en",
+      "title_en": "Midland school forced to stay shut after hack attack",
+      "summary_en": "Pupils set for at least another two days off after Christmas as systems targeted by cyber criminals",
+      "title": "Midland school forced to stay shut after hack attack",
+      "summary": "Pupils set for at least another two days off after Christmas as systems targeted by cyber criminals",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/midland-school-forced-stay-shut-33165710",
+      "source": "Birmingham Live - News",
+      "published_at": "2026-01-05T08:01:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ac900e7037301a74",
+      "title_orig": "Venezuela live updates: interim president offers to ‘collaborate’ with US after Trump warns of further strikes",
+      "summary_orig": "Delcy Rodríguez adopts conciliatory tone as she stands in for Nicolás Maduro after Venezuelan leader captured by American forces and brought to US Tense calm spreads at border with Colombia after Maduro capture Analysis: European leaders appear torn in face of new world order A UK minister would not be drawn into saying whether his government believes the US capture of Venezuela’s president was influenced by the country’s rich oil reserves . Asked on Sky News why he thought Donald Trump had captured Nicolás Maduro and said America would “run” Venezuela, Home Office minister Mike Tapp said: “ This is for Donald Trump to answer , and I think he has said in his press conference, which I watched with interest around narco-terrorism and that threat.” Continue reading...",
+      "lang": "en",
+      "title_en": "Venezuela live updates: interim president offers to ‘collaborate’ with US after Trump warns of further strikes",
+      "summary_en": "Delcy Rodríguez adopts conciliatory tone as she stands in for Nicolás Maduro after Venezuelan leader captured by American forces and brought to US Tense calm spreads at border with Colombia after Maduro capture Analysis: European leaders appear torn in face of new world order A UK minister would not be drawn into saying whether his government believes the US capture of Venezuela’s president was influenced by the country’s rich oil reserves . Asked on Sky News why he thought Donald Trump had captured Nicolás Maduro and said America would “run” Venezuela, Home Office minister Mike Tapp said: “ This is for Donald Trump to answer , and I think he has said in his press conference, which I watched with interest around narco-terrorism and that threat.” Continue reading...",
+      "title": "Venezuela live updates: interim president offers to ‘collaborate’ with US after Trump warns of further strikes",
+      "summary": "Delcy Rodríguez adopts conciliatory tone as she stands in for Nicolás Maduro after Venezuelan leader captured by American forces and brought to US Tense calm spreads at border with Colombia after Maduro capture Analysis: European leaders appear torn in face of new world order A UK minister would not be drawn into saying whether his government believes the US capture of Venezuela’s president was influenced by the country’s rich oil reserves . Asked on Sky News why he thought Donald Trump had captured Nicolás Maduro and said America would “run” Venezuela, Home Office minister Mike Tapp said: “ This is for Donald Trump to answer , and I think he has said in his press conference, which I watched with interest around narco-terrorism and that threat.” Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/jan/05/venezuela-live-updates-trump-us-interim-president-collaborate",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-05T08:00:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "88bfe3ed20410790",
+      "title_orig": "Spanish protesters slam 'imperialist aggression' in Venezuela",
+      "summary_orig": "Around a thousand people gathered outside the US embassy in Madrid on Sunday to blast \"imperialist aggression\" after US special forces seized Venezuelan President Nicolas Maduro in a military operation.",
+      "lang": "en",
+      "title_en": "Spanish protesters slam 'imperialist aggression' in Venezuela",
+      "summary_en": "Around a thousand people gathered outside the US embassy in Madrid on Sunday to blast \"imperialist aggression\" after US special forces seized Venezuelan President Nicolas Maduro in a military operation.",
+      "title": "Spanish protesters slam 'imperialist aggression' in Venezuela",
+      "summary": "Around a thousand people gathered outside the US embassy in Madrid on Sunday to blast \"imperialist aggression\" after US special forces seized Venezuelan President Nicolas Maduro in a military operation.",
+      "url": "https://www.thelocal.es/20260105/spanish-protesters-slam-imperialist-aggression-in-venezuela",
+      "source": "The Local Spain",
+      "published_at": "2026-01-05T07:53:43+00:00",
+      "tags": [
+        "airport/security",
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5a19f688d8984224",
+      "title_orig": "Criminal barristers to strike indefinitely over NI justice system ‘crisis’",
+      "summary_orig": "Barristers say fees for legally aided criminal work have not been increased since 2005, making them worth just 50% of their original value.",
+      "lang": "en",
+      "title_en": "Criminal barristers to strike indefinitely over NI justice system ‘crisis’",
+      "summary_en": "Barristers say fees for legally aided criminal work have not been increased since 2005, making them worth just 50% of their original value.",
+      "title": "Criminal barristers to strike indefinitely over NI justice system ‘crisis’",
+      "summary": "Barristers say fees for legally aided criminal work have not been increased since 2005, making them worth just 50% of their original value.",
+      "url": "https://www.standard.co.uk/news/uk/criminal-bar-association-northern-ireland-bar-council-psni-stormont-b1264934.html",
+      "source": "The Standard News",
+      "published_at": "2026-01-05T07:53:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ba9a0f1e248c1d05",
+      "title_orig": "Edinburgh's Heriot-Watt University staff could strike after budget cuts and job losses",
+      "summary_orig": "Staff at Heriot-Watt University are voting on possible action",
+      "lang": "en",
+      "title_en": "Edinburgh's Heriot-Watt University staff could strike after budget cuts and job losses",
+      "summary_en": "Staff at Heriot-Watt University are voting on possible action",
+      "title": "Edinburgh's Heriot-Watt University staff could strike after budget cuts and job losses",
+      "summary": "Staff at Heriot-Watt University are voting on possible action",
+      "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/edinburghs-heriot-watt-university-staff-33165596",
+      "source": "Edinburgh Live - News",
+      "published_at": "2026-01-05T07:43:17+00:00",
+      "tags": [
+        "airport/security"
       ],
       "type": "local news",
       "geo": {}
@@ -36,24 +190,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ac900e7037301a74",
-      "title_orig": "Venezuela live updates: interim president offers to ‘collaborate’ with US after Trump warns of further strikes",
-      "summary_orig": "Delcy Rodríguez adopts conciliatory tone as she stands in for Nicolás Maduro after Venezuelan leader captured by American forces and brought to US Tense calm spreads at border with Colombia after Maduro capture Analysis: European leaders appear torn in face of new world order Prosecutors say Nicolás Maduro is the kingpin of a cartel of Venezuelan political and military officials who have conspired for decades with drug trafficking groups and US-designated terrorist organisations to flood the America with thousands of tonnes of cocaine. As Reuters reports, Maduro was first indicted in 2020 as part of a long-running narcotics trafficking case against current and former Venezuelan officials and Colombian guerrillas. Continue reading...",
-      "lang": "en",
-      "title_en": "Venezuela live updates: interim president offers to ‘collaborate’ with US after Trump warns of further strikes",
-      "summary_en": "Delcy Rodríguez adopts conciliatory tone as she stands in for Nicolás Maduro after Venezuelan leader captured by American forces and brought to US Tense calm spreads at border with Colombia after Maduro capture Analysis: European leaders appear torn in face of new world order Prosecutors say Nicolás Maduro is the kingpin of a cartel of Venezuelan political and military officials who have conspired for decades with drug trafficking groups and US-designated terrorist organisations to flood the America with thousands of tonnes of cocaine. As Reuters reports, Maduro was first indicted in 2020 as part of a long-running narcotics trafficking case against current and former Venezuelan officials and Colombian guerrillas. Continue reading...",
-      "title": "Venezuela live updates: interim president offers to ‘collaborate’ with US after Trump warns of further strikes",
-      "summary": "Delcy Rodríguez adopts conciliatory tone as she stands in for Nicolás Maduro after Venezuelan leader captured by American forces and brought to US Tense calm spreads at border with Colombia after Maduro capture Analysis: European leaders appear torn in face of new world order Prosecutors say Nicolás Maduro is the kingpin of a cartel of Venezuelan political and military officials who have conspired for decades with drug trafficking groups and US-designated terrorist organisations to flood the America with thousands of tonnes of cocaine. As Reuters reports, Maduro was first indicted in 2020 as part of a long-running narcotics trafficking case against current and former Venezuelan officials and Colombian guerrillas. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/jan/05/venezuela-live-updates-trump-us-interim-president-collaborate",
-      "source": "World news | The Guardian",
-      "published_at": "2026-01-05T07:33:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -120,31 +256,22 @@
       "geo": {}
     },
     {
-      "id": "d2d7ece5e684095a",
-      "title_orig": "Hundreds of flights cancelled as snow hits airport schedules including at Heathrow",
-      "summary_orig": "Amsterdam’s Schiphol airport cancels 450 ‌flights on Monday morning due to snow ​and icy ​weather",
+      "id": "57c39fa4e376130e",
+      "title_orig": "Thirty-two Cubans killed during US attack on Venezuela",
+      "summary_orig": "Cuba's president said military and intelligence operatives were providing protection to captured leader Nicolás Maduro.",
       "lang": "en",
-      "title_en": "Hundreds of flights cancelled as snow hits airport schedules including at Heathrow",
-      "summary_en": "Amsterdam’s Schiphol airport cancels 450 ‌flights on Monday morning due to snow ​and icy ​weather",
-      "title": "Hundreds of flights cancelled as snow hits airport schedules including at Heathrow",
-      "summary": "Amsterdam’s Schiphol airport cancels 450 ‌flights on Monday morning due to snow ​and icy ​weather",
-      "url": "https://www.standard.co.uk/news/transport/flights-cancelled-snow-weather-heathrow-schipol-aberdeen-b1264943.html",
-      "source": "The Standard News",
-      "published_at": "2026-01-05T07:26:46+00:00",
+      "title_en": "Thirty-two Cubans killed during US attack on Venezuela",
+      "summary_en": "Cuba's president said military and intelligence operatives were providing protection to captured leader Nicolás Maduro.",
+      "title": "Thirty-two Cubans killed during US attack on Venezuela",
+      "summary": "Cuba's president said military and intelligence operatives were providing protection to captured leader Nicolás Maduro.",
+      "url": "https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-01-05T07:23:24+00:00",
       "tags": [
-        "LHR",
-        "United Kingdom",
         "airport/security"
       ],
       "type": "local news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
+      "geo": {}
     },
     {
       "id": "983c3b9b972dda3b",
@@ -356,24 +483,6 @@
       "url": "https://www.scmp.com/news/us/diplomacy/article/3338740/us-captures-venezuelas-nicolas-maduro-everything-you-need-know?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-01-05T06:26:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bb4a2c00a40542dd",
-      "title_orig": "Cuba confirms 32 officers were killed during US attack on Venezuela",
-      "summary_orig": "Cuba’s government announced two days of mourning",
-      "lang": "en",
-      "title_en": "Cuba confirms 32 officers were killed during US attack on Venezuela",
-      "summary_en": "Cuba’s government announced two days of mourning",
-      "title": "Cuba confirms 32 officers were killed during US attack on Venezuela",
-      "summary": "Cuba’s government announced two days of mourning",
-      "url": "https://www.independent.co.uk/news/world/americas/cubans-killed-in-venezuela-trump-b2894421.html",
-      "source": "The Independent World",
-      "published_at": "2026-01-05T06:25:31+00:00",
       "tags": [
         "airport/security"
       ],
@@ -651,24 +760,6 @@
       "geo": {}
     },
     {
-      "id": "3053ca412bd4beb9",
-      "title_orig": "Trial begins for officer accused of failing to protect children during Uvalde school shooting",
-      "summary_orig": "One of the first police officers to respond to the 2022 school shooting in Uvalde, Texas, goes on trial Monday on charges that he failed to protect children during the attack, when authorities waited more than an hour to confront the gunman.",
-      "lang": "en",
-      "title_en": "Trial begins for officer accused of failing to protect children during Uvalde school shooting",
-      "summary_en": "One of the first police officers to respond to the 2022 school shooting in Uvalde, Texas, goes on trial Monday on charges that he failed to protect children during the attack, when authorities waited more than an hour to confront the gunman.",
-      "title": "Trial begins for officer accused of failing to protect children during Uvalde school shooting",
-      "summary": "One of the first police officers to respond to the 2022 school shooting in Uvalde, Texas, goes on trial Monday on charges that he failed to protect children during the attack, when authorities waited more than an hour to confront the gunman.",
-      "url": "https://www.seattletimes.com/nation-world/nation/trial-begins-for-officer-accused-of-failing-to-protect-children-during-uvalde-school-shooting/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-05T05:04:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d84859408f5e417d",
       "title_orig": "US says it now 'runs' Venezuela. Here's the key points to unpack",
       "summary_orig": "These are the key points to get up to speed with what we know about the US strikes on Venezuela and the current state of play after its president was ousted and removed from the country.",
@@ -924,12 +1015,12 @@
     {
       "id": "2fdbe4b5a2c08414",
       "title_orig": "Trump ramps up pressure on Iran after fresh clashes erupt",
-      "summary_orig": "Deadly clashes between protesters and security forces flared again in Iran on Sunday, rights groups and local media said, as demonstrations triggered by anger over rising living costs entered a second week. At least 12 people have been killed. US President Donald Trump warned that Iran would get \"hit very hard\" by the United States if more protesters die.",
+      "summary_orig": "Deadly clashes between Iranian protesters and security forces flared again on Sunday, rights groups and local media said, as demonstrations triggered by anger over rising living costs entered a second week. At least 12 people have been killed. US President Donald Trump warned that Iran would get \"hit very hard\" by the United States if more protesters die.",
       "lang": "en",
       "title_en": "Trump ramps up pressure on Iran after fresh clashes erupt",
-      "summary_en": "Deadly clashes between protesters and security forces flared again in Iran on Sunday, rights groups and local media said, as demonstrations triggered by anger over rising living costs entered a second week. At least 12 people have been killed. US President Donald Trump warned that Iran would get \"hit very hard\" by the United States if more protesters die.",
+      "summary_en": "Deadly clashes between Iranian protesters and security forces flared again on Sunday, rights groups and local media said, as demonstrations triggered by anger over rising living costs entered a second week. At least 12 people have been killed. US President Donald Trump warned that Iran would get \"hit very hard\" by the United States if more protesters die.",
       "title": "Trump ramps up pressure on Iran after fresh clashes erupt",
-      "summary": "Deadly clashes between protesters and security forces flared again in Iran on Sunday, rights groups and local media said, as demonstrations triggered by anger over rising living costs entered a second week. At least 12 people have been killed. US President Donald Trump warned that Iran would get \"hit very hard\" by the United States if more protesters die.",
+      "summary": "Deadly clashes between Iranian protesters and security forces flared again on Sunday, rights groups and local media said, as demonstrations triggered by anger over rising living costs entered a second week. At least 12 people have been killed. US President Donald Trump warned that Iran would get \"hit very hard\" by the United States if more protesters die.",
       "url": "https://www.france24.com/en/middle-east/20260105-donald-trump-iran-clashes",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2026-01-05T03:47:04+00:00",
@@ -937,42 +1028,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "bd75a2a534e90d76",
-      "title_orig": "Washington Huskies men mount late rally but drop Big Ten matchup with Indiana",
-      "summary_orig": "The Washington men couldn’t slow down Indiana's perimeter attack, and the Huskies' late comeback bid fell short in a 90-80 road loss Sunday night.",
-      "lang": "en",
-      "title_en": "Washington Huskies men mount late rally but drop Big Ten matchup with Indiana",
-      "summary_en": "The Washington men couldn’t slow down Indiana's perimeter attack, and the Huskies' late comeback bid fell short in a 90-80 road loss Sunday night.",
-      "title": "Washington Huskies men mount late rally but drop Big Ten matchup with Indiana",
-      "summary": "The Washington men couldn’t slow down Indiana's perimeter attack, and the Huskies' late comeback bid fell short in a 90-80 road loss Sunday night.",
-      "url": "https://www.seattletimes.com/sports/uw-husky-basketball/washington-huskies-men-rally-late-but-drop-big-ten-matchup-with-indiana/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-05T03:38:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "67e2e10dcf6c2221",
-      "title_orig": "WA protest: ‘Trump is burning our money to undermine sovereign nations’",
-      "summary_orig": "Dozens gathered in Tacoma to call on Washington's elected leaders to push back against U.S. imperialism.",
-      "lang": "en",
-      "title_en": "WA protest: ‘Trump is burning our money to undermine sovereign nations’",
-      "summary_en": "Dozens gathered in Tacoma to call on Washington's elected leaders to push back against U.S. imperialism.",
-      "title": "WA protest: ‘Trump is burning our money to undermine sovereign nations’",
-      "summary": "Dozens gathered in Tacoma to call on Washington's elected leaders to push back against U.S. imperialism.",
-      "url": "https://www.seattletimes.com/seattle-news/politics/wa-protest-trump-is-burning-our-money-to-undermine-sovereign-nations/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-05T03:02:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1031,12 +1086,12 @@
     },
     {
       "id": "16c66fa72027fc67",
-      "title_orig": "North Korea's Kim oversees hypersonic missile test, warns of 'geopolitical crisis'",
+      "title_orig": "North Korea's Kim oversees hypersonic missile test amid 'geopolitical crisis'",
       "summary_orig": "North Korean leader Kim Jong Un oversaw the launch of “cutting-edge” hypersonic missiles to ready the country’s nuclear forces for war, state media said on Monday, citing an urgent “geopolitical crisis” after a US strike on Venezuela. Seoul and Tokyo detected two ballistic launches near Pyongyang.",
       "lang": "en",
-      "title_en": "North Korea's Kim oversees hypersonic missile test, warns of 'geopolitical crisis'",
+      "title_en": "North Korea's Kim oversees hypersonic missile test amid 'geopolitical crisis'",
       "summary_en": "North Korean leader Kim Jong Un oversaw the launch of “cutting-edge” hypersonic missiles to ready the country’s nuclear forces for war, state media said on Monday, citing an urgent “geopolitical crisis” after a US strike on Venezuela. Seoul and Tokyo detected two ballistic launches near Pyongyang.",
-      "title": "North Korea's Kim oversees hypersonic missile test, warns of 'geopolitical crisis'",
+      "title": "North Korea's Kim oversees hypersonic missile test amid 'geopolitical crisis'",
       "summary": "North Korean leader Kim Jong Un oversaw the launch of “cutting-edge” hypersonic missiles to ready the country’s nuclear forces for war, state media said on Monday, citing an urgent “geopolitical crisis” after a US strike on Venezuela. Seoul and Tokyo detected two ballistic launches near Pyongyang.",
       "url": "https://www.france24.com/en/asia-pacific/20260105-north-korea-hypersonic-missiles-nuclear-forces",
       "source": "France 24 - International breaking news, top stories and headlines",
@@ -1149,24 +1204,6 @@
       "url": "https://www.hindustantimes.com/india-news/validation-flight-lands-at-ap-s-bhogapuram-airport-101767556069350.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2026-01-05T01:32:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "662a362d17987ced",
-      "title_orig": "Trump says that Ukraine didn’t target Putin residence in a drone strike as Kremlin claims",
-      "summary_orig": "President Donald Trump said that U.S. national security officials have determined that Ukraine did not target a residence belonging to Russian President Vladimir Putin in a drone attack last week.",
-      "lang": "en",
-      "title_en": "Trump says that Ukraine didn’t target Putin residence in a drone strike as Kremlin claims",
-      "summary_en": "President Donald Trump said that U.S. national security officials have determined that Ukraine did not target a residence belonging to Russian President Vladimir Putin in a drone attack last week.",
-      "title": "Trump says that Ukraine didn’t target Putin residence in a drone strike as Kremlin claims",
-      "summary": "President Donald Trump said that U.S. national security officials have determined that Ukraine did not target a residence belonging to Russian President Vladimir Putin in a drone attack last week.",
-      "url": "https://www.seattletimes.com/nation-world/nation/trump-says-that-ukraine-didnt-target-putin-residence-in-a-drone-strike-as-kremlin-claims/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-05T01:31:13+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1297,24 +1334,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "5a19f688d8984224",
-      "title_orig": "Criminal barristers to strike indefinitely over justice system ‘crisis’",
-      "summary_orig": "Barristers say fees for legally aided criminal work have not been increased since 2005, making them worth just 50% of their original value.",
-      "lang": "en",
-      "title_en": "Criminal barristers to strike indefinitely over justice system ‘crisis’",
-      "summary_en": "Barristers say fees for legally aided criminal work have not been increased since 2005, making them worth just 50% of their original value.",
-      "title": "Criminal barristers to strike indefinitely over justice system ‘crisis’",
-      "summary": "Barristers say fees for legally aided criminal work have not been increased since 2005, making them worth just 50% of their original value.",
-      "url": "https://www.standard.co.uk/news/uk/criminal-bar-association-northern-ireland-bar-council-psni-stormont-b1264934.html",
-      "source": "The Standard News",
-      "published_at": "2026-01-05T00:01:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1473,24 +1492,6 @@
       "url": "https://www.aljazeera.com/news/2026/1/4/israel-kills-two-people-in-new-attack-on-southern-lebanon?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
       "published_at": "2026-01-04T22:33:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "0ffa9d7e9929804f",
-      "title_orig": "Venezuelans under TPS can apply for refugee status, Kristi Noem says",
-      "summary_orig": "Homeland security secretary says Venezuelan leader needs to protect America against drug trafficking and terrorists Kristi Noem , the US homeland security secretary, said on Sunday that the US wants a leader in Venezuela who will be “a partner that understands that we’re going to protect America” to stop drug trafficking and “terrorists from coming into our country”. Noem indicated in an interview on Fox News Sunday that the immigration status of Venezuelan nationals living in the US under temporary protected status (TPS) was part of an administration-wide decision-making process that her department would follow. Continue reading...",
-      "lang": "en",
-      "title_en": "Venezuelans under TPS can apply for refugee status, Kristi Noem says",
-      "summary_en": "Homeland security secretary says Venezuelan leader needs to protect America against drug trafficking and terrorists Kristi Noem , the US homeland security secretary, said on Sunday that the US wants a leader in Venezuela who will be “a partner that understands that we’re going to protect America” to stop drug trafficking and “terrorists from coming into our country”. Noem indicated in an interview on Fox News Sunday that the immigration status of Venezuelan nationals living in the US under temporary protected status (TPS) was part of an administration-wide decision-making process that her department would follow. Continue reading...",
-      "title": "Venezuelans under TPS can apply for refugee status, Kristi Noem says",
-      "summary": "Homeland security secretary says Venezuelan leader needs to protect America against drug trafficking and terrorists Kristi Noem , the US homeland security secretary, said on Sunday that the US wants a leader in Venezuela who will be “a partner that understands that we’re going to protect America” to stop drug trafficking and “terrorists from coming into our country”. Noem indicated in an interview on Fox News Sunday that the immigration status of Venezuelan nationals living in the US under temporary protected status (TPS) was part of an administration-wide decision-making process that her department would follow. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/jan/04/kristi-noem-venezuela-leader-tps-refugee",
-      "source": "World news | The Guardian",
-      "published_at": "2026-01-04T21:51:27+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1787,12 +1788,12 @@
     },
     {
       "id": "95c473972aa899ee",
-      "title_orig": "The key questions on Trump's actions on Venezuela",
+      "title_orig": "Ros Atkins: The key questions on Venezuela",
       "summary_orig": "Analysis Editor Ros Atkins looks at the key questions following US strikes on Venezuela and seizure of its president.",
       "lang": "en",
-      "title_en": "The key questions on Trump's actions on Venezuela",
+      "title_en": "Ros Atkins: The key questions on Venezuela",
       "summary_en": "Analysis Editor Ros Atkins looks at the key questions following US strikes on Venezuela and seizure of its president.",
-      "title": "The key questions on Trump's actions on Venezuela",
+      "title": "Ros Atkins: The key questions on Venezuela",
       "summary": "Analysis Editor Ros Atkins looks at the key questions following US strikes on Venezuela and seizure of its president.",
       "url": "https://www.bbc.com/news/videos/c0mkvn8w3w4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -2290,24 +2291,6 @@
       "geo": {}
     },
     {
-      "id": "92b25780d1f91050",
-      "title_orig": "Hundreds gather at Freedom Park to protest illegal treatment of stray dogs",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Hundreds gather at Freedom Park to protest illegal treatment of stray dogs",
-      "summary_en": "",
-      "title": "Hundreds gather at Freedom Park to protest illegal treatment of stray dogs",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/karnataka/hundreds-gather-at-freedom-park-to-protest-illegal-treatment-of-stray-dogs/article70471375.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-01-04T15:36:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b883a8256a9b9a8e",
       "title_orig": "Watch: Maduro lands in Upstate NY after US capture, strikes on Venezuela",
       "summary_orig": "The Venezuelan leader and his wife face U.S. charges of a narco-terrorism conspiracy.",
@@ -2706,24 +2689,6 @@
       "url": "https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2026-01-04T10:57:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c85a0ab7a8f286c5",
-      "title_orig": "Thailand accuses Cambodia of war crimes",
-      "summary_orig": "Thailand has accused Cambodia of war crimes and violations of international humanitarian law in attacking Thai civilian areas and discarding the bodies of its own soldiers on the battlefield.",
-      "lang": "en",
-      "title_en": "Thailand accuses Cambodia of war crimes",
-      "summary_en": "Thailand has accused Cambodia of war crimes and violations of international humanitarian law in attacking Thai civilian areas and discarding the bodies of its own soldiers on the battlefield.",
-      "title": "Thailand accuses Cambodia of war crimes",
-      "summary": "Thailand has accused Cambodia of war crimes and violations of international humanitarian law in attacking Thai civilian areas and discarding the bodies of its own soldiers on the battlefield.",
-      "url": "https://www.bangkokpost.com/thailand/general/3168528/thailand-accuses-cambodia-of-war-crimes",
-      "source": "Bangkokpost.com : Top Stories",
-      "published_at": "2026-01-04T10:41:00+00:00",
       "tags": [
         "airport/security"
       ],
