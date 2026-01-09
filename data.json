@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-01-09T07:02:39.025215+00:00",
+  "generated_at": "2026-01-09T07:27:29.376969+00:00",
   "items": [
+    {
+      "id": "61e3939b11edf962",
+      "title_orig": "Russia hits Ukraine with Oreshnik hypersonic missile: defence ministry",
+      "summary_orig": "Russia's defence ministry says it has carried out a massive overnight strike on energy facilities and drone manufacturing sites in the Ukraine.",
+      "lang": "en",
+      "title_en": "Russia hits Ukraine with Oreshnik hypersonic missile: defence ministry",
+      "summary_en": "Russia's defence ministry says it has carried out a massive overnight strike on energy facilities and drone manufacturing sites in the Ukraine.",
+      "title": "Russia hits Ukraine with Oreshnik hypersonic missile: defence ministry",
+      "summary": "Russia's defence ministry says it has carried out a massive overnight strike on energy facilities and drone manufacturing sites in the Ukraine.",
+      "url": "https://www.abc.net.au/news/2026-01-09/russia-says-it-hit-ukraine-with-oreshnik-hypersonic-missile/106214842",
+      "source": "Just In",
+      "published_at": "2026-01-09T07:11:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ab0e81468bc0ee88",
+      "title_orig": "Today In Italy: A roundup of the latest news on Friday",
+      "summary_orig": "Airline and transport strikes begin, weather warnings issued for Storm Goretti, and more news from Italy on Friday.",
+      "lang": "en",
+      "title_en": "Today In Italy: A roundup of the latest news on Friday",
+      "summary_en": "Airline and transport strikes begin, weather warnings issued for Storm Goretti, and more news from Italy on Friday.",
+      "title": "Today In Italy: A roundup of the latest news on Friday",
+      "summary": "Airline and transport strikes begin, weather warnings issued for Storm Goretti, and more news from Italy on Friday.",
+      "url": "https://www.thelocal.it/20260109/today-in-italy-a-roundup-of-the-latest-news-on-friday-95",
+      "source": "The Local Italy",
+      "published_at": "2026-01-09T07:09:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9b48bf6dbcf16740",
+      "title_orig": "Protest in Hyderabad’s Ashok Nagar over delay in Telangana Govt’s job calendar leads to detentions",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Protest in Hyderabad’s Ashok Nagar over delay in Telangana Govt’s job calendar leads to detentions",
+      "summary_en": "",
+      "title": "Protest in Hyderabad’s Ashok Nagar over delay in Telangana Govt’s job calendar leads to detentions",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/protest-in-hyderabads-ashok-nagar-over-delay-in-telangana-govts-job-calendar-leads-to-detentions/article70488062.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-01-09T07:06:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "76f66beed70cf1fe",
       "title_orig": "Russia says it fired its Oreshnik hypersonic missile at Ukraine",
@@ -12,11 +66,110 @@
       "summary": "Jan 9 - The Russian military said on Friday that it had fired its hypersonic Oreshnik missile at a target in Ukraine as part of what it said was a massive overnight strike on energy facilities and drone manufacturing sites there.",
       "url": "https://www.straitstimes.com/world/europe/russia-says-it-fired-its-oreshnik-hypersonic-missile-at-ukraine",
       "source": "The Straits Times World News",
-      "published_at": "2026-01-09T06:56:27+00:00",
+      "published_at": "2026-01-09T07:06:28+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "152c453651fc897f",
+      "title_orig": "Storm Goretti LIVE: Thousands of homes left without power as life-threatening 'weather bomb' hits UK",
+      "summary_orig": "‘Multi-hazard’ weather event hits UK with 100mph winds, heavy snow and torrential rain expected",
+      "lang": "en",
+      "title_en": "Storm Goretti LIVE: Thousands of homes left without power as life-threatening 'weather bomb' hits UK",
+      "summary_en": "‘Multi-hazard’ weather event hits UK with 100mph winds, heavy snow and torrential rain expected",
+      "title": "Storm Goretti LIVE: Thousands of homes left without power as life-threatening 'weather bomb' hits UK",
+      "summary": "‘Multi-hazard’ weather event hits UK with 100mph winds, heavy snow and torrential rain expected",
+      "url": "https://www.standard.co.uk/news/uk/storm-goretti-latest-updates-wind-snow-met-office-b1265611.html",
+      "source": "The Standard News",
+      "published_at": "2026-01-09T06:57:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "adf3eec5e319cc52",
+      "title_orig": "Air India flights to London Heathrow, Birmingham diverted due to bad weather",
+      "summary_orig": "One of the diverted Air India flights were headed to London's Heathrow airport and another to Birmingham.",
+      "lang": "en",
+      "title_en": "Air India flights to London Heathrow, Birmingham diverted due to bad weather",
+      "summary_en": "One of the diverted Air India flights were headed to London's Heathrow airport and another to Birmingham.",
+      "title": "Air India flights to London Heathrow, Birmingham diverted due to bad weather",
+      "summary": "One of the diverted Air India flights were headed to London's Heathrow airport and another to Birmingham.",
+      "url": "https://www.hindustantimes.com/india-news/air-india-flights-to-gatwick-birmingham-diverted-due-to-bad-weather-101767940644794.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2026-01-09T06:57:23+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "f14b583eb86dd1dd",
+      "title_orig": "TMC MPs stage protest outside Home Ministry office over raids on I-PAC, detained",
+      "summary_orig": "TMC MPs O'Brien, Satabdi Roy, Mahua Moitra, Bapi Haldar, Saket Gokhale, Pratima Mondal, Kirti Azad and Sharmila Sarkar were among those who took part in the protest.",
+      "lang": "en",
+      "title_en": "TMC MPs stage protest outside Home Ministry office over raids on I-PAC, detained",
+      "summary_en": "TMC MPs O'Brien, Satabdi Roy, Mahua Moitra, Bapi Haldar, Saket Gokhale, Pratima Mondal, Kirti Azad and Sharmila Sarkar were among those who took part in the protest.",
+      "title": "TMC MPs stage protest outside Home Ministry office over raids on I-PAC, detained",
+      "summary": "TMC MPs O'Brien, Satabdi Roy, Mahua Moitra, Bapi Haldar, Saket Gokhale, Pratima Mondal, Kirti Azad and Sharmila Sarkar were among those who took part in the protest.",
+      "url": "https://www.thehindu.com/news/national/tmc-mps-stage-protest-outside-home-ministry-office-over-raids-on-i-pac-detained/article70489711.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-01-09T06:55:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "77de7dad4a170789",
+      "title_orig": "Trump ‘hopes’ Xi doesn’t attack Taiwan after US raid on Venezuela",
+      "summary_orig": "President dismisses suggestion his attack on South American adversary could set precedent for Beijing to move against Taiwan",
+      "lang": "en",
+      "title_en": "Trump ‘hopes’ Xi doesn’t attack Taiwan after US raid on Venezuela",
+      "summary_en": "President dismisses suggestion his attack on South American adversary could set precedent for Beijing to move against Taiwan",
+      "title": "Trump ‘hopes’ Xi doesn’t attack Taiwan after US raid on Venezuela",
+      "summary": "President dismisses suggestion his attack on South American adversary could set precedent for Beijing to move against Taiwan",
+      "url": "https://www.independent.co.uk/asia/china/trump-taiwan-attack-china-venezuela-latest-b2897268.html",
+      "source": "The Independent World",
+      "published_at": "2026-01-09T06:52:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9a9393976fcde01e",
+      "title_orig": "Australia news live: black Saturday-affected towns told to leave before predicted wind change causes ‘dangerous’ fire conditions",
+      "summary_orig": "About 35,000 customers without electricity across Victoria, with energy companies working to safely restore power. Follow today’s news live Get our breaking news email , free app or daily news podcast Attorney general says PM took ‘time to get this right’ before calling Bondi royal commission Michelle Rowland, the attorney general, said the prime minister had taken “time to get this right” as the government prepared to call a federal royal commission after the Bondi terror attack. The prime minister and the government have listened to people, particularly the Australian Jewish community, and that listening has not been about politics, it’s about getting The right outcome for our national unity and our national security. This is an opportunity not only for voices to be heard in the form of a royal commission, but also to take recommendations forward and also to continue the important work that the government has been doing in the last four weeks or so to ensure that our response to this prioritises national security and social cohesion in the long term. Continue reading...",
+      "lang": "en",
+      "title_en": "Australia news live: black Saturday-affected towns told to leave before predicted wind change causes ‘dangerous’ fire conditions",
+      "summary_en": "About 35,000 customers without electricity across Victoria, with energy companies working to safely restore power. Follow today’s news live Get our breaking news email , free app or daily news podcast Attorney general says PM took ‘time to get this right’ before calling Bondi royal commission Michelle Rowland, the attorney general, said the prime minister had taken “time to get this right” as the government prepared to call a federal royal commission after the Bondi terror attack. The prime minister and the government have listened to people, particularly the Australian Jewish community, and that listening has not been about politics, it’s about getting The right outcome for our national unity and our national security. This is an opportunity not only for voices to be heard in the form of a royal commission, but also to take recommendations forward and also to continue the important work that the government has been doing in the last four weeks or so to ensure that our response to this prioritises national security and social cohesion in the long term. Continue reading...",
+      "title": "Australia news live: black Saturday-affected towns told to leave before predicted wind change causes ‘dangerous’ fire conditions",
+      "summary": "About 35,000 customers without electricity across Victoria, with energy companies working to safely restore power. Follow today’s news live Get our breaking news email , free app or daily news podcast Attorney general says PM took ‘time to get this right’ before calling Bondi royal commission Michelle Rowland, the attorney general, said the prime minister had taken “time to get this right” as the government prepared to call a federal royal commission after the Bondi terror attack. The prime minister and the government have listened to people, particularly the Australian Jewish community, and that listening has not been about politics, it’s about getting The right outcome for our national unity and our national security. This is an opportunity not only for voices to be heard in the form of a royal commission, but also to take recommendations forward and also to continue the important work that the government has been doing in the last four weeks or so to ensure that our response to this prioritises national security and social cohesion in the long term. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/09/australia-news-live-victoria-catastrophic-bushfire-fire-ban-heatwave-tropical-cyclone-floods-royal-commission-antisemitism-bondi-anthony-albanese-ntwnfb",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-09T06:50:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -71,24 +224,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9a9393976fcde01e",
-      "title_orig": "Australia news live: black Saturday-affected towns told to leave before predicted wind change causes ‘dangerous’ fire conditions",
-      "summary_orig": "About 35,000 customers without electricity across Victoria, with energy companies working to safely restore power. Follow today’s news live Get our breaking news email , free app or daily news podcast Attorney general says PM took ‘time to get this right’ before calling Bondi royal commission Michelle Rowland, the attorney general, said the prime minister had taken “time to get this right” as the government prepared to call a federal royal commission after the Bondi terror attack. The prime minister and the government have listened to people, particularly the Australian Jewish community, and that listening has not been about politics, it’s about getting The right outcome for our national unity and our national security. This is an opportunity not only for voices to be heard in the form of a royal commission, but also to take recommendations forward and also to continue the important work that the government has been doing in the last four weeks or so to ensure that our response to this prioritises national security and social cohesion in the long term. Continue reading...",
-      "lang": "en",
-      "title_en": "Australia news live: black Saturday-affected towns told to leave before predicted wind change causes ‘dangerous’ fire conditions",
-      "summary_en": "About 35,000 customers without electricity across Victoria, with energy companies working to safely restore power. Follow today’s news live Get our breaking news email , free app or daily news podcast Attorney general says PM took ‘time to get this right’ before calling Bondi royal commission Michelle Rowland, the attorney general, said the prime minister had taken “time to get this right” as the government prepared to call a federal royal commission after the Bondi terror attack. The prime minister and the government have listened to people, particularly the Australian Jewish community, and that listening has not been about politics, it’s about getting The right outcome for our national unity and our national security. This is an opportunity not only for voices to be heard in the form of a royal commission, but also to take recommendations forward and also to continue the important work that the government has been doing in the last four weeks or so to ensure that our response to this prioritises national security and social cohesion in the long term. Continue reading...",
-      "title": "Australia news live: black Saturday-affected towns told to leave before predicted wind change causes ‘dangerous’ fire conditions",
-      "summary": "About 35,000 customers without electricity across Victoria, with energy companies working to safely restore power. Follow today’s news live Get our breaking news email , free app or daily news podcast Attorney general says PM took ‘time to get this right’ before calling Bondi royal commission Michelle Rowland, the attorney general, said the prime minister had taken “time to get this right” as the government prepared to call a federal royal commission after the Bondi terror attack. The prime minister and the government have listened to people, particularly the Australian Jewish community, and that listening has not been about politics, it’s about getting The right outcome for our national unity and our national security. This is an opportunity not only for voices to be heard in the form of a royal commission, but also to take recommendations forward and also to continue the important work that the government has been doing in the last four weeks or so to ensure that our response to this prioritises national security and social cohesion in the long term. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/09/australia-news-live-victoria-catastrophic-bushfire-fire-ban-heatwave-tropical-cyclone-floods-royal-commission-antisemitism-bondi-anthony-albanese-ntwnfb",
-      "source": "World news | The Guardian",
-      "published_at": "2026-01-09T06:35:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -184,24 +319,6 @@
       "url": "https://www.theguardian.com/us-news/live/2026/jan/08/minneapolis-shooting-ice-minnesota-protests-vigils-donald-trump-latest-news-updates",
       "source": "World news | The Guardian",
       "published_at": "2026-01-09T06:26:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "690295d09d4efb7d",
-      "title_orig": "Storm Goretti live: danger to life warning as heavy rain, strong winds and snow batter UK",
-      "summary_orig": "Red and amber weather warnings have been issued across the UK as Storm Goretti evolves into a ‘weather bomb’ Here are some of the latest images coming in as Storm Goretti pummels the UK. And one from France of a huge wave crashing on the jetty of the harbour of Le Conquet, western France, as Goretti was announced to be approaching the country’s northern coasts. Continue reading...",
-      "lang": "en",
-      "title_en": "Storm Goretti live: danger to life warning as heavy rain, strong winds and snow batter UK",
-      "summary_en": "Red and amber weather warnings have been issued across the UK as Storm Goretti evolves into a ‘weather bomb’ Here are some of the latest images coming in as Storm Goretti pummels the UK. And one from France of a huge wave crashing on the jetty of the harbour of Le Conquet, western France, as Goretti was announced to be approaching the country’s northern coasts. Continue reading...",
-      "title": "Storm Goretti live: danger to life warning as heavy rain, strong winds and snow batter UK",
-      "summary": "Red and amber weather warnings have been issued across the UK as Storm Goretti evolves into a ‘weather bomb’ Here are some of the latest images coming in as Storm Goretti pummels the UK. And one from France of a huge wave crashing on the jetty of the harbour of Le Conquet, western France, as Goretti was announced to be approaching the country’s northern coasts. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/live/2026/jan/09/storm-goretti-live-news-updates-uk-weather-snow-latest-met-office-warnings",
-      "source": "World news | The Guardian",
-      "published_at": "2026-01-09T06:24:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -544,12 +661,12 @@
     },
     {
       "id": "69ba0febde981300",
-      "title_orig": "Protesters decry Border Patrol shooting in Portland; arrests made at ICE building",
+      "title_orig": "Protesters decry Border Patrol shooting in Portland; arrests made outside ICE building",
       "summary_orig": "The shooting quickly rekindled mass protests outside a Portland Immigration and Customs Enforcement facility that had dwindled.",
       "lang": "en",
-      "title_en": "Protesters decry Border Patrol shooting in Portland; arrests made at ICE building",
+      "title_en": "Protesters decry Border Patrol shooting in Portland; arrests made outside ICE building",
       "summary_en": "The shooting quickly rekindled mass protests outside a Portland Immigration and Customs Enforcement facility that had dwindled.",
-      "title": "Protesters decry Border Patrol shooting in Portland; arrests made at ICE building",
+      "title": "Protesters decry Border Patrol shooting in Portland; arrests made outside ICE building",
       "summary": "The shooting quickly rekindled mass protests outside a Portland Immigration and Customs Enforcement facility that had dwindled.",
       "url": "https://www.oregonlive.com/portland/2026/01/protesters-decry-border-patrol-shooting-in-portland-arrests-made-at-ice-building.html",
       "source": "oregonlive.com",
@@ -1537,7 +1654,7 @@
       "id": "8184baf42ed6411a",
       "title_orig": "Denver Summit FC signs Stanford star foward Jasmine Aikey",
       "summary_orig": "Stanford's star striker is coming to Denver.",
-      "lang": "da",
+      "lang": "en",
       "title_en": "Denver Summit FC signs Stanford star foward Jasmine Aikey",
       "summary_en": "Stanford's star striker is coming to Denver.",
       "title": "Denver Summit FC signs Stanford star foward Jasmine Aikey",
@@ -1793,42 +1910,6 @@
         "lat": 53.3652,
         "lon": -2.2727
       }
-    },
-    {
-      "id": "152c453651fc897f",
-      "title_orig": "Storm Goretti LIVE: Thousands of homes left without power as life-threatening 'weather bomb' hits UK",
-      "summary_orig": "‘Multi-hazard’ weather event hits UK with 100mph winds, heavy snow and torrential rain expected",
-      "lang": "en",
-      "title_en": "Storm Goretti LIVE: Thousands of homes left without power as life-threatening 'weather bomb' hits UK",
-      "summary_en": "‘Multi-hazard’ weather event hits UK with 100mph winds, heavy snow and torrential rain expected",
-      "title": "Storm Goretti LIVE: Thousands of homes left without power as life-threatening 'weather bomb' hits UK",
-      "summary": "‘Multi-hazard’ weather event hits UK with 100mph winds, heavy snow and torrential rain expected",
-      "url": "https://www.standard.co.uk/news/uk/storm-goretti-latest-updates-wind-snow-met-office-b1265611.html",
-      "source": "The Standard News",
-      "published_at": "2026-01-08T21:58:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1d4374b32602ecdd",
-      "title_orig": "'Airport brain': The weird things Aussie travellers leave behind every year",
-      "summary_orig": "From tablets, headphones and laptops to prams, vacuum cleaners and even a prosthetic leg — these are the items being left behind each year at major airports.",
-      "lang": "en",
-      "title_en": "'Airport brain': The weird things Aussie travellers leave behind every year",
-      "summary_en": "From tablets, headphones and laptops to prams, vacuum cleaners and even a prosthetic leg — these are the items being left behind each year at major airports.",
-      "title": "'Airport brain': The weird things Aussie travellers leave behind every year",
-      "summary": "From tablets, headphones and laptops to prams, vacuum cleaners and even a prosthetic leg — these are the items being left behind each year at major airports.",
-      "url": "https://www.abc.net.au/news/2026-01-09/airport-lost-luggage-auctions/106078890",
-      "source": "Just In",
-      "published_at": "2026-01-08T21:47:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "43f107e6e99aa0e7",
@@ -2542,24 +2623,6 @@
       "geo": {}
     },
     {
-      "id": "7d12a4ada2e5b705",
-      "title_orig": "Iran experiencing nationwide internet blackout, monitor says",
-      "summary_orig": "NetBlocks says the apparent blackout follows 'a series of escalating digital censorship measures targeting protests'.",
-      "lang": "en",
-      "title_en": "Iran experiencing nationwide internet blackout, monitor says",
-      "summary_en": "NetBlocks says the apparent blackout follows 'a series of escalating digital censorship measures targeting protests'.",
-      "title": "Iran experiencing nationwide internet blackout, monitor says",
-      "summary": "NetBlocks says the apparent blackout follows 'a series of escalating digital censorship measures targeting protests'.",
-      "url": "https://www.aljazeera.com/news/2026/1/8/iran-experiencing-nationwide-internet-blackout-monitor-says?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-01-08T17:58:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "5893e025416edc67",
       "title_orig": "One million spent hours without heat and water after Russian strikes, Ukraine says",
       "summary_orig": "Efforts are continuing to restore services in Dnipropetrovsk, officials say, after wide-spread attacks in the southeast.",
@@ -2773,24 +2836,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "481101aebe194634",
-      "title_orig": "Inside Iran's nationwide protests: Security forces attack hospital after protests in western Iran",
-      "summary_orig": "Videos verified by the Observers team show Iranian security forces attacking a hospital in Ilam, Iran, on the night of 3-4 January. The footage shows security forces firing shotguns and tear gas as they attempt to detain injured protesters. Earlier in the day, security forces opened fire on a protest in the nearby town of Arkavaz. The protests began in December 2025, driven by Iran’s economic crisis, and have spread nationwide. HRANA says at least 36 protesters have been killed so far. France24 Observers journalist Ershad Alijani explains.",
-      "lang": "en",
-      "title_en": "Inside Iran's nationwide protests: Security forces attack hospital after protests in western Iran",
-      "summary_en": "Videos verified by the Observers team show Iranian security forces attacking a hospital in Ilam, Iran, on the night of 3-4 January. The footage shows security forces firing shotguns and tear gas as they attempt to detain injured protesters. Earlier in the day, security forces opened fire on a protest in the nearby town of Arkavaz. The protests began in December 2025, driven by Iran’s economic crisis, and have spread nationwide. HRANA says at least 36 protesters have been killed so far. France24 Observers journalist Ershad Alijani explains.",
-      "title": "Inside Iran's nationwide protests: Security forces attack hospital after protests in western Iran",
-      "summary": "Videos verified by the Observers team show Iranian security forces attacking a hospital in Ilam, Iran, on the night of 3-4 January. The footage shows security forces firing shotguns and tear gas as they attempt to detain injured protesters. Earlier in the day, security forces opened fire on a protest in the nearby town of Arkavaz. The protests began in December 2025, driven by Iran’s economic crisis, and have spread nationwide. HRANA says at least 36 protesters have been killed so far. France24 Observers journalist Ershad Alijani explains.",
-      "url": "https://www.france24.com/en/inside-iran-s-nationwide-protests-security-forces-attack-hospital-after-protests-in-western-iran",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-01-08T16:13:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3418,24 +3463,6 @@
       "url": "https://www.standard.co.uk/news/world/moment-woman-fatally-shot-ice-minneapolis-raid-protests-b1265486.html",
       "source": "The Standard News",
       "published_at": "2026-01-08T10:54:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8347fa337310ba7b",
-      "title_orig": "Terrorists using BYC’s platform to induct Balochistan’s youth into their networks: CTD official",
-      "summary_orig": "Balochistan Counter-Terrorism Department’s (CTD) Deputy Inspector General (DIG) Aitzaz Goraya on Thursday said terrorists were using the platform of Balochistan Yakjehti Committee (BYC) to induct youth into their networks. Goraya made the remarks while addressing a joint press conference alongside Balochistan Additional Chief Secretary Hamza Shafqaat in Quetta, where he gave details about a terrorist arrested during an operation in Panjgur. According to Goraya, the CTD, police and law enforcement agencies arrested a man, Sajid Ahmad alias Shahwaiz, who was a resident of Turbat during the operation. He said the man had received a Master’s degree in Sociology from the International Islamic University in Islamabad, then worked on contract at Zubaida Jalal Government College for three years, before teaching at the University of Turbat. The CTD DIG said Sajid had “remained with BYC and was in constant communication with its leadership”. “One thing that has surfaced prominently is the role of the BYC. Every man or child who is facilitating or [is involved in] what they call a sharing network or intelligence network […] they are somehow linked to the BYC,“ the CTD DIG said. “Besides Sajid, we have also arrested three others against whom we are registering FIRs (first information reports),” Goraya added. He said that one of them was 18-year-old Sarfaraz, who was a resident of Kharan and had been tasked with conducting a recce of the police and their polio duties. “He was also first made to join the BYC, involved in their protests and roadblocks,” the CTD official said, adding that the person who inducted him into BYC was Jahanzaib alias Mehrbaan, aged 20 years. Jahanzaib “not only remained involved in recce but also transportation, including one instance where he transported Rs0.6million of extortion money from Quetta and another when he transported Rs1m, as well as medicines”, DIG Goraya said. He further said that Jahanzaib had been involved in BYC’s roadblocks in Noshki and Kharan. “He participated in the BYC’s so-called missing persons protests and properly organised who to bring and what to post on social media,” the DIG said. According to Goraya, Jahanzaib also “inducted” 18-year-old Bezan into the BYC, following which he joined the so-called Baloch Liberation Army (BLA). Bezan’s brother Shafqat Yar was killed in firing when the Levies force was attacked in Khad Kocha, DIG Goraya said. “He (Bezan) was first inducted into BYC, then he went into BLA.” “All these are those people and children who were subverted, and their minds were used to take them to the other side and assigned these small tasks,” he said. “ Fitna al-Hindustan , they say we do not induct children, we do not use women or children, but again and again we have said — even today we are telling you with evidence — that they first use the platform of BYC and then they take them forward by using children,” the DIG stated. The state has designated Balochistan-based terrorist groups as Fitna-al-Hindustan to highlight India’s alleged role in terrorism and destabilisation across Pakistan. Goraya said there was a “proper network being run that depends on underage children, as they are not thoroughly checked when going to schools and colleges“. “We must bring these things into their parents’ knowledge,” he stressed, adding that such youngsters would be taken to internment and rehabilitation centres that were being established in Quetta and Turbat, “so we can check how much their minds have been subverted”. “We will hold dialogue with them, provide psychological treatment, and involve their parents and society’s notables. We will take them ahead as an improved, responsible citizen,” the CTD DIG said. He said the terrorists subverted educated people, who had even remained on the government’s payroll, and through them, “many children and students — innocent minds who do not have a sense of what to do — they recruit them to BYC first to brainwash them and then properly induct them into the organisation”. In a joint press conference held with provincial government spokesperson Shahid Rind in April last year, DIG Goraya had questioned the legitimacy of BYC, later stating that it is not a registered organisation. The same month, when a protest drive had paralysed the province , Balochistan Chief Minister Sarfraz Bugti termed BYC activists as “abettors” of separatists. Sajid involved with BLA, BLF According to DIG Goraya, Sajid, who was apprehended from Panjgur, had been involved with the BLA and the banned Baloch Liberation Front (BLF). “Their sharing network includes recce of different locations in Turbat by marking them on Google Earth, which he shared with his commander Dostain in our neighbouring country.” The CTD complex, roads going to and from the Turbat airport, and an under-construction high court were among the locations where Sajid allegedly carried out reconnaissance. Goraya detailed that the items recovered from Sajid’s vehicle when he was apprehended included a rocket-propelled grenade, five rockets, two M-16 rifles with 23 magazines and 800 rounds, 20 hand grenades with 22 fuses, 30 C4 explosive slabs, one jacket, remote controls, 13 UBGL rounds, a compass, helmets and 30 feet of detonating cord. Sajid was heading from Panjgur towards Turbat, the officer said. “Not only did [Sajid] share things with them (BYC), but also remained involved in writing subversive literature for them and also posted it on different social media websites and carried out recruitment,” the DIG said. “Other than that, on motivation, Balaj joined BYC, Jalal joined BYC, Hamal joined too, and Hamal also properly joined BLA and remained in contact with him (Sajid). “He (Hamal) also went with him (Sajid) to meet Dostain in our neighbouring country using different routes.” According to DIG Goraya, forensics of Sajid’s mobile phone revealed that a “lot of material of smuggling, also known as Zambad , also came with him, even to the extent of extremely sophisticated weapons, equipment, which were brought through those Zambad and given to their members”. The CTD official said Sajid’s sister-in-law had also been a part of BYC and houses were acquired under her name to dump and transport materials from there. ‘100 persons abroad conspiring against Pakistan’ Meanwhile, the additional chief secretary said a “Red Notice Cell has been activated”, which included the prosecutor general and officials of the CTD and the home department. “They have prepared lists. There are more than 100 people who are abroad and conspiring against Pakistan, promoting and sponsoring terrorist activities in Pakistan, lobbying and doing propaganda,” Shafqaat said. He noted that a court order was needed to forward any person’s name to Interpol. The official explained that to issue a “red notice” for someone, the Balochistan government would first file a charge sheet in the court, which would then declare the person as a proclaimed offender, after which the government would approach the interior ministry to take the process forward. Shafqaat stated that the federal and provincial governments were arranging for more funds to strengthen the CTD. He highlighted that one of the “biggest successful steps” taken in 2025 by the provincial government was the establishment of Provincial Intelligence Fusion and Threat Assessment Centre ( Piftac ), which has been fully functional since December. “We will now establish it on the district level. We are hopeful that by March, all our intelligence and actions will be coordinated.” “Detention centres have been established. Two amendments have been made in the Anti-Terrorism Act, and we will be launching faceless courts in two months,” Shafqaat said.",
-      "lang": "en",
-      "title_en": "Terrorists using BYC’s platform to induct Balochistan’s youth into their networks: CTD official",
-      "summary_en": "Balochistan Counter-Terrorism Department’s (CTD) Deputy Inspector General (DIG) Aitzaz Goraya on Thursday said terrorists were using the platform of Balochistan Yakjehti Committee (BYC) to induct youth into their networks. Goraya made the remarks while addressing a joint press conference alongside Balochistan Additional Chief Secretary Hamza Shafqaat in Quetta, where he gave details about a terrorist arrested during an operation in Panjgur. According to Goraya, the CTD, police and law enforcement agencies arrested a man, Sajid Ahmad alias Shahwaiz, who was a resident of Turbat during the operation. He said the man had received a Master’s degree in Sociology from the International Islamic University in Islamabad, then worked on contract at Zubaida Jalal Government College for three years, before teaching at the University of Turbat. The CTD DIG said Sajid had “remained with BYC and was in constant communication with its leadership”. “One thing that has surfaced prominently is the role of the BYC. Every man or child who is facilitating or [is involved in] what they call a sharing network or intelligence network […] they are somehow linked to the BYC,“ the CTD DIG said. “Besides Sajid, we have also arrested three others against whom we are registering FIRs (first information reports),” Goraya added. He said that one of them was 18-year-old Sarfaraz, who was a resident of Kharan and had been tasked with conducting a recce of the police and their polio duties. “He was also first made to join the BYC, involved in their protests and roadblocks,” the CTD official said, adding that the person who inducted him into BYC was Jahanzaib alias Mehrbaan, aged 20 years. Jahanzaib “not only remained involved in recce but also transportation, including one instance where he transported Rs0.6million of extortion money from Quetta and another when he transported Rs1m, as well as medicines”, DIG Goraya said. He further said that Jahanzaib had been involved in BYC’s roadblocks in Noshki and Kharan. “He participated in the BYC’s so-called missing persons protests and properly organised who to bring and what to post on social media,” the DIG said. According to Goraya, Jahanzaib also “inducted” 18-year-old Bezan into the BYC, following which he joined the so-called Baloch Liberation Army (BLA). Bezan’s brother Shafqat Yar was killed in firing when the Levies force was attacked in Khad Kocha, DIG Goraya said. “He (Bezan) was first inducted into BYC, then he went into BLA.” “All these are those people and children who were subverted, and their minds were used to take them to the other side and assigned these small tasks,” he said. “ Fitna al-Hindustan , they say we do not induct children, we do not use women or children, but again and again we have said — even today we are telling you with evidence — that they first use the platform of BYC and then they take them forward by using children,” the DIG stated. The state has designated Balochistan-based terrorist groups as Fitna-al-Hindustan to highlight India’s alleged role in terrorism and destabilisation across Pakistan. Goraya said there was a “proper network being run that depends on underage children, as they are not thoroughly checked when going to schools and colleges“. “We must bring these things into their parents’ knowledge,” he stressed, adding that such youngsters would be taken to internment and rehabilitation centres that were being established in Quetta and Turbat, “so we can check how much their minds have been subverted”. “We will hold dialogue with them, provide psychological treatment, and involve their parents and society’s notables. We will take them ahead as an improved, responsible citizen,” the CTD DIG said. He said the terrorists subverted educated people, who had even remained on the government’s payroll, and through them, “many children and students — innocent minds who do not have a sense of what to do — they recruit them to BYC first to brainwash them and then properly induct them into the organisation”. In a joint press conference held with provincial government spokesperson Shahid Rind in April last year, DIG Goraya had questioned the legitimacy of BYC, later stating that it is not a registered organisation. The same month, when a protest drive had paralysed the province , Balochistan Chief Minister Sarfraz Bugti termed BYC activists as “abettors” of separatists. Sajid involved with BLA, BLF According to DIG Goraya, Sajid, who was apprehended from Panjgur, had been involved with the BLA and the banned Baloch Liberation Front (BLF). “Their sharing network includes recce of different locations in Turbat by marking them on Google Earth, which he shared with his commander Dostain in our neighbouring country.” The CTD complex, roads going to and from the Turbat airport, and an under-construction high court were among the locations where Sajid allegedly carried out reconnaissance. Goraya detailed that the items recovered from Sajid’s vehicle when he was apprehended included a rocket-propelled grenade, five rockets, two M-16 rifles with 23 magazines and 800 rounds, 20 hand grenades with 22 fuses, 30 C4 explosive slabs, one jacket, remote controls, 13 UBGL rounds, a compass, helmets and 30 feet of detonating cord. Sajid was heading from Panjgur towards Turbat, the officer said. “Not only did [Sajid] share things with them (BYC), but also remained involved in writing subversive literature for them and also posted it on different social media websites and carried out recruitment,” the DIG said. “Other than that, on motivation, Balaj joined BYC, Jalal joined BYC, Hamal joined too, and Hamal also properly joined BLA and remained in contact with him (Sajid). “He (Hamal) also went with him (Sajid) to meet Dostain in our neighbouring country using different routes.” According to DIG Goraya, forensics of Sajid’s mobile phone revealed that a “lot of material of smuggling, also known as Zambad , also came with him, even to the extent of extremely sophisticated weapons, equipment, which were brought through those Zambad and given to their members”. The CTD official said Sajid’s sister-in-law had also been a part of BYC and houses were acquired under her name to dump and transport materials from there. ‘100 persons abroad conspiring against Pakistan’ Meanwhile, the additional chief secretary said a “Red Notice Cell has been activated”, which included the prosecutor general and officials of the CTD and the home department. “They have prepared lists. There are more than 100 people who are abroad and conspiring against Pakistan, promoting and sponsoring terrorist activities in Pakistan, lobbying and doing propaganda,” Shafqaat said. He noted that a court order was needed to forward any person’s name to Interpol. The official explained that to issue a “red notice” for someone, the Balochistan government would first file a charge sheet in the court, which would then declare the person as a proclaimed offender, after which the government would approach the interior ministry to take the process forward. Shafqaat stated that the federal and provincial governments were arranging for more funds to strengthen the CTD. He highlighted that one of the “biggest successful steps” taken in 2025 by the provincial government was the establishment of Provincial Intelligence Fusion and Threat Assessment Centre ( Piftac ), which has been fully functional since December. “We will now establish it on the district level. We are hopeful that by March, all our intelligence and actions will be coordinated.” “Detention centres have been established. Two amendments have been made in the Anti-Terrorism Act, and we will be launching faceless courts in two months,” Shafqaat said.",
-      "title": "Terrorists using BYC’s platform to induct Balochistan’s youth into their networks: CTD official",
-      "summary": "Balochistan Counter-Terrorism Department’s (CTD) Deputy Inspector General (DIG) Aitzaz Goraya on Thursday said terrorists were using the platform of Balochistan Yakjehti Committee (BYC) to induct youth into their networks. Goraya made the remarks while addressing a joint press conference alongside Balochistan Additional Chief Secretary Hamza Shafqaat in Quetta, where he gave details about a terrorist arrested during an operation in Panjgur. According to Goraya, the CTD, police and law enforcement agencies arrested a man, Sajid Ahmad alias Shahwaiz, who was a resident of Turbat during the operation. He said the man had received a Master’s degree in Sociology from the International Islamic University in Islamabad, then worked on contract at Zubaida Jalal Government College for three years, before teaching at the University of Turbat. The CTD DIG said Sajid had “remained with BYC and was in constant communication with its leadership”. “One thing that has surfaced prominently is the role of the BYC. Every man or child who is facilitating or [is involved in] what they call a sharing network or intelligence network […] they are somehow linked to the BYC,“ the CTD DIG said. “Besides Sajid, we have also arrested three others against whom we are registering FIRs (first information reports),” Goraya added. He said that one of them was 18-year-old Sarfaraz, who was a resident of Kharan and had been tasked with conducting a recce of the police and their polio duties. “He was also first made to join the BYC, involved in their protests and roadblocks,” the CTD official said, adding that the person who inducted him into BYC was Jahanzaib alias Mehrbaan, aged 20 years. Jahanzaib “not only remained involved in recce but also transportation, including one instance where he transported Rs0.6million of extortion money from Quetta and another when he transported Rs1m, as well as medicines”, DIG Goraya said. He further said that Jahanzaib had been involved in BYC’s roadblocks in Noshki and Kharan. “He participated in the BYC’s so-called missing persons protests and properly organised who to bring and what to post on social media,” the DIG said. According to Goraya, Jahanzaib also “inducted” 18-year-old Bezan into the BYC, following which he joined the so-called Baloch Liberation Army (BLA). Bezan’s brother Shafqat Yar was killed in firing when the Levies force was attacked in Khad Kocha, DIG Goraya said. “He (Bezan) was first inducted into BYC, then he went into BLA.” “All these are those people and children who were subverted, and their minds were used to take them to the other side and assigned these small tasks,” he said. “ Fitna al-Hindustan , they say we do not induct children, we do not use women or children, but again and again we have said — even today we are telling you with evidence — that they first use the platform of BYC and then they take them forward by using children,” the DIG stated. The state has designated Balochistan-based terrorist groups as Fitna-al-Hindustan to highlight India’s alleged role in terrorism and destabilisation across Pakistan. Goraya said there was a “proper network being run that depends on underage children, as they are not thoroughly checked when going to schools and colleges“. “We must bring these things into their parents’ knowledge,” he stressed, adding that such youngsters would be taken to internment and rehabilitation centres that were being established in Quetta and Turbat, “so we can check how much their minds have been subverted”. “We will hold dialogue with them, provide psychological treatment, and involve their parents and society’s notables. We will take them ahead as an improved, responsible citizen,” the CTD DIG said. He said the terrorists subverted educated people, who had even remained on the government’s payroll, and through them, “many children and students — innocent minds who do not have a sense of what to do — they recruit them to BYC first to brainwash them and then properly induct them into the organisation”. In a joint press conference held with provincial government spokesperson Shahid Rind in April last year, DIG Goraya had questioned the legitimacy of BYC, later stating that it is not a registered organisation. The same month, when a protest drive had paralysed the province , Balochistan Chief Minister Sarfraz Bugti termed BYC activists as “abettors” of separatists. Sajid involved with BLA, BLF According to DIG Goraya, Sajid, who was apprehended from Panjgur, had been involved with the BLA and the banned Baloch Liberation Front (BLF). “Their sharing network includes recce of different locations in Turbat by marking them on Google Earth, which he shared with his commander Dostain in our neighbouring country.” The CTD complex, roads going to and from the Turbat airport, and an under-construction high court were among the locations where Sajid allegedly carried out reconnaissance. Goraya detailed that the items recovered from Sajid’s vehicle when he was apprehended included a rocket-propelled grenade, five rockets, two M-16 rifles with 23 magazines and 800 rounds, 20 hand grenades with 22 fuses, 30 C4 explosive slabs, one jacket, remote controls, 13 UBGL rounds, a compass, helmets and 30 feet of detonating cord. Sajid was heading from Panjgur towards Turbat, the officer said. “Not only did [Sajid] share things with them (BYC), but also remained involved in writing subversive literature for them and also posted it on different social media websites and carried out recruitment,” the DIG said. “Other than that, on motivation, Balaj joined BYC, Jalal joined BYC, Hamal joined too, and Hamal also properly joined BLA and remained in contact with him (Sajid). “He (Hamal) also went with him (Sajid) to meet Dostain in our neighbouring country using different routes.” According to DIG Goraya, forensics of Sajid’s mobile phone revealed that a “lot of material of smuggling, also known as Zambad , also came with him, even to the extent of extremely sophisticated weapons, equipment, which were brought through those Zambad and given to their members”. The CTD official said Sajid’s sister-in-law had also been a part of BYC and houses were acquired under her name to dump and transport materials from there. ‘100 persons abroad conspiring against Pakistan’ Meanwhile, the additional chief secretary said a “Red Notice Cell has been activated”, which included the prosecutor general and officials of the CTD and the home department. “They have prepared lists. There are more than 100 people who are abroad and conspiring against Pakistan, promoting and sponsoring terrorist activities in Pakistan, lobbying and doing propaganda,” Shafqaat said. He noted that a court order was needed to forward any person’s name to Interpol. The official explained that to issue a “red notice” for someone, the Balochistan government would first file a charge sheet in the court, which would then declare the person as a proclaimed offender, after which the government would approach the interior ministry to take the process forward. Shafqaat stated that the federal and provincial governments were arranging for more funds to strengthen the CTD. He highlighted that one of the “biggest successful steps” taken in 2025 by the provincial government was the establishment of Provincial Intelligence Fusion and Threat Assessment Centre ( Piftac ), which has been fully functional since December. “We will now establish it on the district level. We are hopeful that by March, all our intelligence and actions will be coordinated.” “Detention centres have been established. Two amendments have been made in the Anti-Terrorism Act, and we will be launching faceless courts in two months,” Shafqaat said.",
-      "url": "https://www.dawn.com/news/1965813/terrorists-using-bycs-platform-to-induct-balochistans-youth-into-their-networks-ctd-official",
-      "source": "Dawn - Home",
-      "published_at": "2026-01-08T10:51:27+00:00",
       "tags": [
         "airport/security"
       ],
