@@ -1,18 +1,504 @@
 {
-  "generated_at": "2026-01-15T17:08:19.338140+00:00",
+  "generated_at": "2026-01-15T18:02:42.454529+00:00",
   "items": [
     {
-      "id": "5c02e3534620e286",
-      "title_orig": "Israeli strikes kill five in Gaza, say local health authorities",
-      "summary_orig": "CAIRO, Jan 15 - Two Israeli airstrikes killed five people, including a 16-year-old, in Deir al-Balah on Thursday, said local health authorities.",
+      "id": "cb5388863596fdbd",
+      "title_orig": "Senior Hamas figure killed in Israeli air strike in Gaza",
+      "summary_orig": "CAIRO, Jan 15 - A senior figure in the armed wing of Hamas was among seven people killed on Thursday in a pair of Israeli airstrikes in Deir al-Balah in the central Gaza Strip, a Hamas source said.",
       "lang": "en",
-      "title_en": "Israeli strikes kill five in Gaza, say local health authorities",
-      "summary_en": "CAIRO, Jan 15 - Two Israeli airstrikes killed five people, including a 16-year-old, in Deir al-Balah on Thursday, said local health authorities.",
-      "title": "Israeli strikes kill five in Gaza, say local health authorities",
-      "summary": "CAIRO, Jan 15 - Two Israeli airstrikes killed five people, including a 16-year-old, in Deir al-Balah on Thursday, said local health authorities.",
-      "url": "https://www.straitstimes.com/world/middle-east/israeli-strikes-kill-five-in-gaza-say-local-health-authorities",
+      "title_en": "Senior Hamas figure killed in Israeli air strike in Gaza",
+      "summary_en": "CAIRO, Jan 15 - A senior figure in the armed wing of Hamas was among seven people killed on Thursday in a pair of Israeli airstrikes in Deir al-Balah in the central Gaza Strip, a Hamas source said.",
+      "title": "Senior Hamas figure killed in Israeli air strike in Gaza",
+      "summary": "CAIRO, Jan 15 - A senior figure in the armed wing of Hamas was among seven people killed on Thursday in a pair of Israeli airstrikes in Deir al-Balah in the central Gaza Strip, a Hamas source said.",
+      "url": "https://www.straitstimes.com/world/middle-east/senior-hamas-figure-killed-in-israeli-air-strike-in-gaza",
       "source": "The Straits Times World News",
-      "published_at": "2026-01-15T17:00:58+00:00",
+      "published_at": "2026-01-15T17:55:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "224461c3caec56f5",
+      "title_orig": "Manchester Airport drop off and pick up: Information issued to blue badge holders",
+      "summary_orig": "The airport has issued important information for those travelling with blue badges",
+      "lang": "en",
+      "title_en": "Manchester Airport drop off and pick up: Information issued to blue badge holders",
+      "summary_en": "The airport has issued important information for those travelling with blue badges",
+      "title": "Manchester Airport drop off and pick up: Information issued to blue badge holders",
+      "summary": "The airport has issued important information for those travelling with blue badges",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-airport-drop-pick-up-33241050",
+      "source": "MEN - News",
+      "published_at": "2026-01-15T17:52:28+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "11e68f1e065d1ee3",
+      "title_orig": "Toronto child welfare workers consider strike action over workload",
+      "summary_orig": "Staff at the Toronto Children's Aid Society will decide whether or not to a strike mandate in bargaining as they push for better work conditions and balance.",
+      "lang": "en",
+      "title_en": "Toronto child welfare workers consider strike action over workload",
+      "summary_en": "Staff at the Toronto Children's Aid Society will decide whether or not to a strike mandate in bargaining as they push for better work conditions and balance.",
+      "title": "Toronto child welfare workers consider strike action over workload",
+      "summary": "Staff at the Toronto Children's Aid Society will decide whether or not to a strike mandate in bargaining as they push for better work conditions and balance.",
+      "url": "https://globalnews.ca/news/11613630/toronto-child-welfare-workers-consider-strike-action-over-workload-pay/",
+      "source": "globalnews.ca",
+      "published_at": "2026-01-15T17:52:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c4f5369fcb6caaba",
+      "title_orig": "Idrissa Gueye on verge of dream moment he always wanted for Everton's Iliman Ndiaye",
+      "summary_orig": "The experienced midfielder has acted as a guide for Ndiaye since the attacking midfielder joined the Blues",
+      "lang": "en",
+      "title_en": "Idrissa Gueye on verge of dream moment he always wanted for Everton's Iliman Ndiaye",
+      "summary_en": "The experienced midfielder has acted as a guide for Ndiaye since the attacking midfielder joined the Blues",
+      "title": "Idrissa Gueye on verge of dream moment he always wanted for Everton's Iliman Ndiaye",
+      "summary": "The experienced midfielder has acted as a guide for Ndiaye since the attacking midfielder joined the Blues",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/idrissa-gueye-verge-dream-moment-33239246",
+      "source": "Liverpool Echo - Home",
+      "published_at": "2026-01-15T17:52:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "df9c73c850c1498f",
+      "title_orig": "Iran Backpedals on Executions Threat but Casts Protesters As ‘Terrorists’",
+      "summary_orig": "Iran’s judiciary said there was no death penalty issued for Erfan Soltani, whose case drew international outcry. Analysts say the government is using fear and intimidation to keep people off the streets.",
+      "lang": "en",
+      "title_en": "Iran Backpedals on Executions Threat but Casts Protesters As ‘Terrorists’",
+      "summary_en": "Iran’s judiciary said there was no death penalty issued for Erfan Soltani, whose case drew international outcry. Analysts say the government is using fear and intimidation to keep people off the streets.",
+      "title": "Iran Backpedals on Executions Threat but Casts Protesters As ‘Terrorists’",
+      "summary": "Iran’s judiciary said there was no death penalty issued for Erfan Soltani, whose case drew international outcry. Analysts say the government is using fear and intimidation to keep people off the streets.",
+      "url": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-erfan-soltani-execution.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-15T17:50:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "993ab64e96ad59c5",
+      "title_orig": "What caused the Verizon outage?",
+      "summary_orig": "The phone company hasn't publicly stated what caused tens of thousands of people to lose service Wednesday, but reports indicate it wasn't a cyberattack.",
+      "lang": "en",
+      "title_en": "What caused the Verizon outage?",
+      "summary_en": "The phone company hasn't publicly stated what caused tens of thousands of people to lose service Wednesday, but reports indicate it wasn't a cyberattack.",
+      "title": "What caused the Verizon outage?",
+      "summary": "The phone company hasn't publicly stated what caused tens of thousands of people to lose service Wednesday, but reports indicate it wasn't a cyberattack.",
+      "url": "https://www.kgw.com/article/news/nation-world/what-caused-the-verizon-outage-wednesday/507-3b466cd8-7ac4-4dba-bb2b-d375929ab678",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-01-15T17:49:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7c47d230de8ee85f",
+      "title_orig": "Mother says son was ‘savagely bitten’ at Toronto-area group home amid staff strike",
+      "summary_orig": "The mother of a man living in a Toronto-area group home at the centre of a bitter labour dispute says she is seeking accountability after he was \"savagely bitten\" on the neck.",
+      "lang": "en",
+      "title_en": "Mother says son was ‘savagely bitten’ at Toronto-area group home amid staff strike",
+      "summary_en": "The mother of a man living in a Toronto-area group home at the centre of a bitter labour dispute says she is seeking accountability after he was \"savagely bitten\" on the neck.",
+      "title": "Mother says son was ‘savagely bitten’ at Toronto-area group home amid staff strike",
+      "summary": "The mother of a man living in a Toronto-area group home at the centre of a bitter labour dispute says she is seeking accountability after he was \"savagely bitten\" on the neck.",
+      "url": "https://globalnews.ca/news/11614942/son-bitten-toronto-group-home/",
+      "source": "globalnews.ca",
+      "published_at": "2026-01-15T17:45:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3aed22db55c60509",
+      "title_orig": "‘Those are the people who keep you alive:’ Nurses push back after Trump admin excludes them from ‘professional’ status",
+      "summary_orig": "As a strike rages in NYC, nurses on opposite sides of the country tell Rhian Lubin how the Education Department’s plan to cap federal loans for graduate nursing degrees poses a grave threat to the future of healthcare",
+      "lang": "en",
+      "title_en": "‘Those are the people who keep you alive:’ Nurses push back after Trump admin excludes them from ‘professional’ status",
+      "summary_en": "As a strike rages in NYC, nurses on opposite sides of the country tell Rhian Lubin how the Education Department’s plan to cap federal loans for graduate nursing degrees poses a grave threat to the future of healthcare",
+      "title": "‘Those are the people who keep you alive:’ Nurses push back after Trump admin excludes them from ‘professional’ status",
+      "summary": "As a strike rages in NYC, nurses on opposite sides of the country tell Rhian Lubin how the Education Department’s plan to cap federal loans for graduate nursing degrees poses a grave threat to the future of healthcare",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/nursing-trump-professional-degree-graduate-loans-b2899892.html",
+      "source": "The Independent World",
+      "published_at": "2026-01-15T17:45:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d15e9af15fc6fe1f",
+      "title_orig": "Keeping Burke open contributes to Cleveland’s economy. Lakefront trails won’t: Letter to the Editor",
+      "summary_orig": "Burke Lakefront Airport serves a greater purpose than that of the Browns stadium. Flights in and out of Cleveland, business trips, direct flights serving Cleveland hospitals, and so much more. Bottom line: More business for central and downtown Cleveland, writes Dennis Lambert of North Olmsted in a letter to the editor.",
+      "lang": "en",
+      "title_en": "Keeping Burke open contributes to Cleveland’s economy. Lakefront trails won’t: Letter to the Editor",
+      "summary_en": "Burke Lakefront Airport serves a greater purpose than that of the Browns stadium. Flights in and out of Cleveland, business trips, direct flights serving Cleveland hospitals, and so much more. Bottom line: More business for central and downtown Cleveland, writes Dennis Lambert of North Olmsted in a letter to the editor.",
+      "title": "Keeping Burke open contributes to Cleveland’s economy. Lakefront trails won’t: Letter to the Editor",
+      "summary": "Burke Lakefront Airport serves a greater purpose than that of the Browns stadium. Flights in and out of Cleveland, business trips, direct flights serving Cleveland hospitals, and so much more. Bottom line: More business for central and downtown Cleveland, writes Dennis Lambert of North Olmsted in a letter to the editor.",
+      "url": "https://www.cleveland.com/letters/2026/01/keeping-burke-open-contributes-to-clevelands-economy-lakefront-trails-wont.html",
+      "source": "cleveland.com",
+      "published_at": "2026-01-15T17:44:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fb0f3a97eb23440d",
+      "title_orig": "Robert Jenrick attacks Tories as ‘failed’ party as he defects to Reform",
+      "summary_orig": "It comes after the Newark MP was sacked from the Tory frontbench by Kemi Badenoch.",
+      "lang": "en",
+      "title_en": "Robert Jenrick attacks Tories as ‘failed’ party as he defects to Reform",
+      "summary_en": "It comes after the Newark MP was sacked from the Tory frontbench by Kemi Badenoch.",
+      "title": "Robert Jenrick attacks Tories as ‘failed’ party as he defects to Reform",
+      "summary": "It comes after the Newark MP was sacked from the Tory frontbench by Kemi Badenoch.",
+      "url": "https://www.standard.co.uk/news/politics/robert-jenrick-kemi-badenoch-tories-nigel-farage-reform-uk-b1266723.html",
+      "source": "The Standard News",
+      "published_at": "2026-01-15T17:40:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "480b1ab7c9b7307a",
+      "title_orig": "Ukrainian street cleaner pauses briefly during drone strike but then gets back to business",
+      "summary_orig": "'Your courage today has impressed everyone in Ukraine. I want to thank you for serving the community and for your work.'",
+      "lang": "en",
+      "title_en": "Ukrainian street cleaner pauses briefly during drone strike but then gets back to business",
+      "summary_en": "'Your courage today has impressed everyone in Ukraine. I want to thank you for serving the community and for your work.'",
+      "title": "Ukrainian street cleaner pauses briefly during drone strike but then gets back to business",
+      "summary": "'Your courage today has impressed everyone in Ukraine. I want to thank you for serving the community and for your work.'",
+      "url": "https://metro.co.uk/2026/01/15/ukrainian-street-cleaner-pauses-briefly-drone-strike-gets-back-business-26309605/",
+      "source": "Metro",
+      "published_at": "2026-01-15T17:40:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7cfdafc1edd77807",
+      "title_orig": "Trump threatens to invoke Insurrection Act over protests in Minneapolis – US politics live",
+      "summary_orig": "Homeland security secretary Kristi Noem says she spoke to Trump about invoking Insurrection Act, saying ‘that certainly is within the president’s constitutional authority’ Trump threatens to use Insurrection Act in Minnesota People affected by the US visa freeze: share your experience Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
+      "lang": "en",
+      "title_en": "Trump threatens to invoke Insurrection Act over protests in Minneapolis – US politics live",
+      "summary_en": "Homeland security secretary Kristi Noem says she spoke to Trump about invoking Insurrection Act, saying ‘that certainly is within the president’s constitutional authority’ Trump threatens to use Insurrection Act in Minnesota People affected by the US visa freeze: share your experience Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
+      "title": "Trump threatens to invoke Insurrection Act over protests in Minneapolis – US politics live",
+      "summary": "Homeland security secretary Kristi Noem says she spoke to Trump about invoking Insurrection Act, saying ‘that certainly is within the president’s constitutional authority’ Trump threatens to use Insurrection Act in Minnesota People affected by the US visa freeze: share your experience Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/15/us-politics-latest-news-updates-donald-trump-venezuela-maria-corina-machado",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-15T17:39:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "10e137978101d7a9",
+      "title_orig": "Israel and Arab Nations Ask Trump to Refrain From Attacking Iran",
+      "summary_orig": "Prime Minister Benjamin Netanyahu of Israel asked the president to postpone any planned attack. Israeli and Arab officials fear Iran could retaliate by striking their countries.",
+      "lang": "en",
+      "title_en": "Israel and Arab Nations Ask Trump to Refrain From Attacking Iran",
+      "summary_en": "Prime Minister Benjamin Netanyahu of Israel asked the president to postpone any planned attack. Israeli and Arab officials fear Iran could retaliate by striking their countries.",
+      "title": "Israel and Arab Nations Ask Trump to Refrain From Attacking Iran",
+      "summary": "Prime Minister Benjamin Netanyahu of Israel asked the president to postpone any planned attack. Israeli and Arab officials fear Iran could retaliate by striking their countries.",
+      "url": "https://www.nytimes.com/2026/01/15/us/politics/trump-iran-israel-us.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-15T17:39:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "8b757062b514d5a4",
+      "title_orig": "G7 threatens more sanctions for Iran amid ’high level of reported deaths and injuries’ - live",
+      "summary_orig": "G7 members ‘remain prepared to impose additional restrictive measures if Iran continues to crack down on protests and dissent’ Trump says Iran has told him ‘killing has stopped’ as he pulls back from strike threats Families of protesters killed in Iran tell of heartbreak Trump has told Reuters in that Iranian opposition figure Reza Pahlavi “seems very nice” but expressed uncertainty over whether Pahlavi would be able to muster support within Iran to eventually take over. Trump said it is possible the government in Tehran could fall due to the protests, but that in truth “any regime can fail”. Continue reading...",
+      "lang": "en",
+      "title_en": "G7 threatens more sanctions for Iran amid ’high level of reported deaths and injuries’ - live",
+      "summary_en": "G7 members ‘remain prepared to impose additional restrictive measures if Iran continues to crack down on protests and dissent’ Trump says Iran has told him ‘killing has stopped’ as he pulls back from strike threats Families of protesters killed in Iran tell of heartbreak Trump has told Reuters in that Iranian opposition figure Reza Pahlavi “seems very nice” but expressed uncertainty over whether Pahlavi would be able to muster support within Iran to eventually take over. Trump said it is possible the government in Tehran could fall due to the protests, but that in truth “any regime can fail”. Continue reading...",
+      "title": "G7 threatens more sanctions for Iran amid ’high level of reported deaths and injuries’ - live",
+      "summary": "G7 members ‘remain prepared to impose additional restrictive measures if Iran continues to crack down on protests and dissent’ Trump says Iran has told him ‘killing has stopped’ as he pulls back from strike threats Families of protesters killed in Iran tell of heartbreak Trump has told Reuters in that Iranian opposition figure Reza Pahlavi “seems very nice” but expressed uncertainty over whether Pahlavi would be able to muster support within Iran to eventually take over. Trump said it is possible the government in Tehran could fall due to the protests, but that in truth “any regime can fail”. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/jan/15/trump-iran-protests-usa-response-airspace-killings-live-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-15T17:38:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "d6880b9da6d6f0e5",
+      "title_orig": "Remains of 32 Cuban officers killed during strike on Venezuela repatriated as US threat lingers",
+      "summary_orig": "HAVANA (AP) — Cuban soldiers wearing white gloves marched out of a plane on Thursday carrying urns with the remains…",
+      "lang": "en",
+      "title_en": "Remains of 32 Cuban officers killed during strike on Venezuela repatriated as US threat lingers",
+      "summary_en": "HAVANA (AP) — Cuban soldiers wearing white gloves marched out of a plane on Thursday carrying urns with the remains…",
+      "title": "Remains of 32 Cuban officers killed during strike on Venezuela repatriated as US threat lingers",
+      "summary": "HAVANA (AP) — Cuban soldiers wearing white gloves marched out of a plane on Thursday carrying urns with the remains…",
+      "url": "https://wtop.com/world/2026/01/bodies-of-32-cuban-officers-killed-during-us-strike-on-venezuela-repatriated-as-us-threat-lingers/",
+      "source": "WTOP News",
+      "published_at": "2026-01-15T17:36:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5626cd0395d8851a",
+      "title_orig": "Will the US use cyberwarfare to ‘help’ Iranian protesters?",
+      "summary_orig": "The United States has repeatedly said that it will send \"help\" to Iranian protesters as demonstrations across the country have led to the death of at least 3,428 people. As Iranian authorities use internet blackouts to quell dissent, the US may resort to cyberwarfare instead of physical strikes.",
+      "lang": "en",
+      "title_en": "Will the US use cyberwarfare to ‘help’ Iranian protesters?",
+      "summary_en": "The United States has repeatedly said that it will send \"help\" to Iranian protesters as demonstrations across the country have led to the death of at least 3,428 people. As Iranian authorities use internet blackouts to quell dissent, the US may resort to cyberwarfare instead of physical strikes.",
+      "title": "Will the US use cyberwarfare to ‘help’ Iranian protesters?",
+      "summary": "The United States has repeatedly said that it will send \"help\" to Iranian protesters as demonstrations across the country have led to the death of at least 3,428 people. As Iranian authorities use internet blackouts to quell dissent, the US may resort to cyberwarfare instead of physical strikes.",
+      "url": "https://www.france24.com/en/asia-pacific/20260115-will-the-us-use-cyberwarfare-help-iranian-protesters",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-01-15T17:31:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1aeb75616deb33d7",
+      "title_orig": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
+      "summary_orig": "The incident comes as President Donald Trump threatens to use the Insurrection Act on protesters.",
+      "lang": "en",
+      "title_en": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
+      "summary_en": "The incident comes as President Donald Trump threatens to use the Insurrection Act on protesters.",
+      "title": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
+      "summary": "The incident comes as President Donald Trump threatens to use the Insurrection Act on protesters.",
+      "url": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-01-15T17:22:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ba8d55a2e2b98c6b",
+      "title_orig": "Cuba Receives Remains of 32 Citizens Killed in U.S. Strikes in Venezuela",
+      "summary_orig": "The Cubans had served as part of the security detail of Nicolás Maduro, Venezuela’s ousted president.",
+      "lang": "en",
+      "title_en": "Cuba Receives Remains of 32 Citizens Killed in U.S. Strikes in Venezuela",
+      "summary_en": "The Cubans had served as part of the security detail of Nicolás Maduro, Venezuela’s ousted president.",
+      "title": "Cuba Receives Remains of 32 Citizens Killed in U.S. Strikes in Venezuela",
+      "summary": "The Cubans had served as part of the security detail of Nicolás Maduro, Venezuela’s ousted president.",
+      "url": "https://www.nytimes.com/2026/01/15/world/americas/cuba-remains-venezuela-strikes-maduro.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-15T17:15:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "b639abe18568ecd6",
+      "title_orig": "Knifeman Simon McHugh told friend 'you're going to die today' before frenzied Carlton attack",
+      "summary_orig": "Ex-soldier Simon McHugh stabbed the victim repeatedly to his face, neck, chest, back and legs before fleeing and breaking into an innocent couple's home",
+      "lang": "en",
+      "title_en": "Knifeman Simon McHugh told friend 'you're going to die today' before frenzied Carlton attack",
+      "summary_en": "Ex-soldier Simon McHugh stabbed the victim repeatedly to his face, neck, chest, back and legs before fleeing and breaking into an innocent couple's home",
+      "title": "Knifeman Simon McHugh told friend 'you're going to die today' before frenzied Carlton attack",
+      "summary": "Ex-soldier Simon McHugh stabbed the victim repeatedly to his face, neck, chest, back and legs before fleeing and breaking into an innocent couple's home",
+      "url": "https://www.nottinghampost.com/news/local-news/knifeman-simon-mchugh-told-friend-10758091",
+      "source": "Nottinghamshire Live - frontpage",
+      "published_at": "2026-01-15T17:15:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2a6beeb0c16c9ec1",
+      "title_orig": "NASA's SpaceX Crew-11 splashes down off San Diego coast",
+      "summary_orig": "The SpaceX spacecraft landed in the Pacific as part of NASA's first medical evacuation.",
+      "lang": "en",
+      "title_en": "NASA's SpaceX Crew-11 splashes down off San Diego coast",
+      "summary_en": "The SpaceX spacecraft landed in the Pacific as part of NASA's first medical evacuation.",
+      "title": "NASA's SpaceX Crew-11 splashes down off San Diego coast",
+      "summary": "The SpaceX spacecraft landed in the Pacific as part of NASA's first medical evacuation.",
+      "url": "https://fox5sandiego.com/news/local-news/san-diego/nasa-spacex-crew-11-landing/",
+      "source": "FOX 5 San Diego & KUSI News",
+      "published_at": "2026-01-15T17:14:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f3abe65e9c5d6716",
+      "title_orig": "'I'm ready' - Facundo Buonanotte's first words at Leeds United after transfer U-turn",
+      "summary_orig": "The attacking playmaker says he only had eyes for Leeds this January",
+      "lang": "en",
+      "title_en": "'I'm ready' - Facundo Buonanotte's first words at Leeds United after transfer U-turn",
+      "summary_en": "The attacking playmaker says he only had eyes for Leeds this January",
+      "title": "'I'm ready' - Facundo Buonanotte's first words at Leeds United after transfer U-turn",
+      "summary": "The attacking playmaker says he only had eyes for Leeds this January",
+      "url": "https://www.leeds-live.co.uk/sport/leeds-united/im-ready-facundo-buonanottes-first-33240791",
+      "source": "Leeds Live - frontpage",
+      "published_at": "2026-01-15T17:10:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "55b048277ed45973",
+      "title_orig": "Dying man made final cry for help after Exmouth stabbing",
+      "summary_orig": "Denva Smith tried to run from attackers but made a 'fatal error', a murder trial was told",
+      "lang": "en",
+      "title_en": "Dying man made final cry for help after Exmouth stabbing",
+      "summary_en": "Denva Smith tried to run from attackers but made a 'fatal error', a murder trial was told",
+      "title": "Dying man made final cry for help after Exmouth stabbing",
+      "summary": "Denva Smith tried to run from attackers but made a 'fatal error', a murder trial was told",
+      "url": "https://www.devonlive.com/news/devon-news/dying-man-made-final-cry-10757951",
+      "source": "Devon Live - frontpage",
+      "published_at": "2026-01-15T17:09:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5aba766a9c171a38",
+      "title_orig": "Live: Trump threatens Insurrection Act as federal agent shoots man over alleged attack",
+      "summary_orig": "The Department of Homeland Security said a federal law enforcement officer is in the hospital after being attacked with a snow shovel. A car chase followed a “targeted” traffic stop.",
+      "lang": "en",
+      "title_en": "Live: Trump threatens Insurrection Act as federal agent shoots man over alleged attack",
+      "summary_en": "The Department of Homeland Security said a federal law enforcement officer is in the hospital after being attacked with a snow shovel. A car chase followed a “targeted” traffic stop.",
+      "title": "Live: Trump threatens Insurrection Act as federal agent shoots man over alleged attack",
+      "summary": "The Department of Homeland Security said a federal law enforcement officer is in the hospital after being attacked with a snow shovel. A car chase followed a “targeted” traffic stop.",
+      "url": "https://www.startribune.com/ice-raids-minnesota/601546426",
+      "source": "Startribune News",
+      "published_at": "2026-01-15T17:07:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5d485d2792047f45",
+      "title_orig": "Ukraine-Russia war latest: Trump claims it is Zelensky, not Putin, holding up peace deal",
+      "summary_orig": "Bizarre claim comes after Zelensky was forced to declare a power sector state of emergency due to repeated Russian attacks",
+      "lang": "en",
+      "title_en": "Ukraine-Russia war latest: Trump claims it is Zelensky, not Putin, holding up peace deal",
+      "summary_en": "Bizarre claim comes after Zelensky was forced to declare a power sector state of emergency due to repeated Russian attacks",
+      "title": "Ukraine-Russia war latest: Trump claims it is Zelensky, not Putin, holding up peace deal",
+      "summary": "Bizarre claim comes after Zelensky was forced to declare a power sector state of emergency due to repeated Russian attacks",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-state-of-emergency-b2900864.html",
+      "source": "The Independent World",
+      "published_at": "2026-01-15T17:04:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8f2c0295bc5be18f",
+      "title_orig": "Why Israel Is Wary of Intervening in Iran",
+      "summary_orig": "Israel is unlikely to do much to try to precipitate a regime change in Iran, seeing the government as far from the brink of collapse and the current protests as insufficient to push it to that point.",
+      "lang": "en",
+      "title_en": "Why Israel Is Wary of Intervening in Iran",
+      "summary_en": "Israel is unlikely to do much to try to precipitate a regime change in Iran, seeing the government as far from the brink of collapse and the current protests as insufficient to push it to that point.",
+      "title": "Why Israel Is Wary of Intervening in Iran",
+      "summary": "Israel is unlikely to do much to try to precipitate a regime change in Iran, seeing the government as far from the brink of collapse and the current protests as insufficient to push it to that point.",
+      "url": "https://www.nytimes.com/2026/01/15/world/middleeast/israel-iran-protests-netanyahu.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-15T17:03:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "2f6badcd02e6809e",
+      "title_orig": "'Hundreds' receive penalties for illegal parking on Surrey streets near Heathrow Airport",
+      "summary_orig": "Many would park on residential streets near Heathrow, causing a \"horrendous\" impact on local's lives, with some reportedly witnessing people urinating outside their homes",
+      "lang": "en",
+      "title_en": "'Hundreds' receive penalties for illegal parking on Surrey streets near Heathrow Airport",
+      "summary_en": "Many would park on residential streets near Heathrow, causing a \"horrendous\" impact on local's lives, with some reportedly witnessing people urinating outside their homes",
+      "title": "'Hundreds' receive penalties for illegal parking on Surrey streets near Heathrow Airport",
+      "summary": "Many would park on residential streets near Heathrow, causing a \"horrendous\" impact on local's lives, with some reportedly witnessing people urinating outside their homes",
+      "url": "https://www.getsurrey.co.uk/news/surrey-news/hundreds-receive-penalties-illegal-parking-33237655",
+      "source": "Surrey Live - Home",
+      "published_at": "2026-01-15T17:00:00+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "f08aa7d67fc9f1ba",
+      "title_orig": "Leeds United transfer latest as Fiorentina shortlist star and £40m striker offered",
+      "summary_orig": "Leeds United have been linked with a number of arrivals and exits at Elland Road this month as the January transfer window heats up, as the Peacocks aim to remain in the Premier League for 2026/27",
+      "lang": "en",
+      "title_en": "Leeds United transfer latest as Fiorentina shortlist star and £40m striker offered",
+      "summary_en": "Leeds United have been linked with a number of arrivals and exits at Elland Road this month as the January transfer window heats up, as the Peacocks aim to remain in the Premier League for 2026/27",
+      "title": "Leeds United transfer latest as Fiorentina shortlist star and £40m striker offered",
+      "summary": "Leeds United have been linked with a number of arrivals and exits at Elland Road this month as the January transfer window heats up, as the Peacocks aim to remain in the Premier League for 2026/27",
+      "url": "https://www.leeds-live.co.uk/sport/leeds-united/leeds-united-transfers-strand-larsen-33237301",
+      "source": "Leeds Live - frontpage",
+      "published_at": "2026-01-15T17:00:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -56,39 +542,21 @@
       "geo": {}
     },
     {
-      "id": "a08bdd8f2fc4abda",
-      "title_orig": "The Latest: UN Security Council to discuss Iran’s deadly protests after US request",
-      "summary_orig": "The U.N. Security Council scheduled an emergency meeting Thursday to discuss Iran’s deadly protests at the request of the United…",
+      "id": "ed631a4212975cee",
+      "title_orig": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
+      "summary_orig": "Protests continue across state and governor urges peace one week after an ICE agent shot and killed Renee Good Donald Trump threatened on Thursday to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social on Thursday morning, Trump said he would institute the Insurrection Act and “quickly put an end to the travesty that is taking place” in Minnesota if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
       "lang": "en",
-      "title_en": "The Latest: UN Security Council to discuss Iran’s deadly protests after US request",
-      "summary_en": "The U.N. Security Council scheduled an emergency meeting Thursday to discuss Iran’s deadly protests at the request of the United…",
-      "title": "The Latest: UN Security Council to discuss Iran’s deadly protests after US request",
-      "summary": "The U.N. Security Council scheduled an emergency meeting Thursday to discuss Iran’s deadly protests at the request of the United…",
-      "url": "https://wtop.com/national/2026/01/the-latest-un-security-council-to-discuss-irans-deadly-protests-after-us-request/",
-      "source": "WTOP News",
-      "published_at": "2026-01-15T16:53:55+00:00",
+      "title_en": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
+      "summary_en": "Protests continue across state and governor urges peace one week after an ICE agent shot and killed Renee Good Donald Trump threatened on Thursday to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social on Thursday morning, Trump said he would institute the Insurrection Act and “quickly put an end to the travesty that is taking place” in Minnesota if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
+      "title": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
+      "summary": "Protests continue across state and governor urges peace one week after an ICE agent shot and killed Renee Good Donald Trump threatened on Thursday to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social on Thursday morning, Trump said he would institute the Insurrection Act and “quickly put an end to the travesty that is taking place” in Minnesota if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/jan/15/trump-insurrection-act-minnesota-ice-protests",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-15T16:54:00+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d6880b9da6d6f0e5",
-      "title_orig": "Remains of 32 Cuban officers killed during strike on Venezuela repatriated as US threat lingers",
-      "summary_orig": "HAVANA (AP) — Cuban soldiers wearing white gloves marched out of a plane on Thursday carrying urns with the remains…",
-      "lang": "en",
-      "title_en": "Remains of 32 Cuban officers killed during strike on Venezuela repatriated as US threat lingers",
-      "summary_en": "HAVANA (AP) — Cuban soldiers wearing white gloves marched out of a plane on Thursday carrying urns with the remains…",
-      "title": "Remains of 32 Cuban officers killed during strike on Venezuela repatriated as US threat lingers",
-      "summary": "HAVANA (AP) — Cuban soldiers wearing white gloves marched out of a plane on Thursday carrying urns with the remains…",
-      "url": "https://wtop.com/world/2026/01/bodies-of-32-cuban-officers-killed-during-us-strike-on-venezuela-repatriated-as-us-threat-lingers/",
-      "source": "WTOP News",
-      "published_at": "2026-01-15T16:53:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -129,42 +597,6 @@
       "geo": {}
     },
     {
-      "id": "326dd2da889e0930",
-      "title_orig": "Trump threatens to use the Insurrection Act to end protests in Minneapolis",
-      "summary_orig": "The president's threat comes a day after a federal immigration officer shot and wounded a Minneapolis man who had attacked the officer with a shovel and broom handle.",
-      "lang": "en",
-      "title_en": "Trump threatens to use the Insurrection Act to end protests in Minneapolis",
-      "summary_en": "The president's threat comes a day after a federal immigration officer shot and wounded a Minneapolis man who had attacked the officer with a shovel and broom handle.",
-      "title": "Trump threatens to use the Insurrection Act to end protests in Minneapolis",
-      "summary": "The president's threat comes a day after a federal immigration officer shot and wounded a Minneapolis man who had attacked the officer with a shovel and broom handle.",
-      "url": "https://wtop.com/national/2026/01/fear-and-anger-spread-after-another-immigration-shooting-in-minneapolis/",
-      "source": "WTOP News",
-      "published_at": "2026-01-15T16:50:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8f2c0295bc5be18f",
-      "title_orig": "Why Israel Is Wary of Intervening in Iran",
-      "summary_orig": "Israel is unlikely to do much to try to precipitate a regime change in Iran, seeing the government as far from the brink of collapse and the current protests as insufficient to push it to that point.",
-      "lang": "en",
-      "title_en": "Why Israel Is Wary of Intervening in Iran",
-      "summary_en": "Israel is unlikely to do much to try to precipitate a regime change in Iran, seeing the government as far from the brink of collapse and the current protests as insufficient to push it to that point.",
-      "title": "Why Israel Is Wary of Intervening in Iran",
-      "summary": "Israel is unlikely to do much to try to precipitate a regime change in Iran, seeing the government as far from the brink of collapse and the current protests as insufficient to push it to that point.",
-      "url": "https://www.nytimes.com/2026/01/15/world/middleeast/israel-iran-protests-netanyahu.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-15T16:47:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "5c5e048fa5a67805",
       "title_orig": "Celtic in 'initial' Callum Wilson transfer enquiry as striker sees West Ham exit silence broken",
       "summary_orig": "The England international is in talks to rip up his Hammers deal this month",
@@ -183,17 +615,17 @@
       "geo": {}
     },
     {
-      "id": "7cfdafc1edd77807",
-      "title_orig": "Trump threatens to invoke Insurrection Act over protests in Minneapolis – US politics live",
-      "summary_orig": "Homeland security secretary Kristi Noem says she spoke to Trump about invoking Insurrection Act, saying ‘that certainly is within the president’s constitutional authority’ Trump threatens to use Insurrection Act in Minnesota Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
+      "id": "5a789f4419a42e8e",
+      "title_orig": "Security and ethnic dimensions of Iran crisis spark warnings across the region",
+      "summary_orig": "Saudi Arabia, Qatar and Oman have led efforts to talk President Donald Trump out of a US attack on Iran, according to news reports. Turkey is also concerned about a collapse of central authority in Iran. FRANCE 24’s Leela Jacinto explains the ethnic dimension of security concerns in Middle East capitals.",
       "lang": "en",
-      "title_en": "Trump threatens to invoke Insurrection Act over protests in Minneapolis – US politics live",
-      "summary_en": "Homeland security secretary Kristi Noem says she spoke to Trump about invoking Insurrection Act, saying ‘that certainly is within the president’s constitutional authority’ Trump threatens to use Insurrection Act in Minnesota Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
-      "title": "Trump threatens to invoke Insurrection Act over protests in Minneapolis – US politics live",
-      "summary": "Homeland security secretary Kristi Noem says she spoke to Trump about invoking Insurrection Act, saying ‘that certainly is within the president’s constitutional authority’ Trump threatens to use Insurrection Act in Minnesota Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/15/us-politics-latest-news-updates-donald-trump-venezuela-maria-corina-machado",
-      "source": "World news | The Guardian",
-      "published_at": "2026-01-15T16:39:18+00:00",
+      "title_en": "Security and ethnic dimensions of Iran crisis spark warnings across the region",
+      "summary_en": "Saudi Arabia, Qatar and Oman have led efforts to talk President Donald Trump out of a US attack on Iran, according to news reports. Turkey is also concerned about a collapse of central authority in Iran. FRANCE 24’s Leela Jacinto explains the ethnic dimension of security concerns in Middle East capitals.",
+      "title": "Security and ethnic dimensions of Iran crisis spark warnings across the region",
+      "summary": "Saudi Arabia, Qatar and Oman have led efforts to talk President Donald Trump out of a US attack on Iran, according to news reports. Turkey is also concerned about a collapse of central authority in Iran. FRANCE 24’s Leela Jacinto explains the ethnic dimension of security concerns in Middle East capitals.",
+      "url": "https://www.france24.com/en/security-and-ethnic-dimensions-of-iran-crisis-spark-warnings-across-the-region",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-01-15T16:34:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -363,42 +795,6 @@
       "geo": {}
     },
     {
-      "id": "5d485d2792047f45",
-      "title_orig": "Ukraine-Russia war latest: Trump claims it is Zelensky, not Putin, holding up peace deal",
-      "summary_orig": "Bizarre claim comes after Zelensky was forced to declare a power sector state of emergency due to repeated Russian attacks",
-      "lang": "en",
-      "title_en": "Ukraine-Russia war latest: Trump claims it is Zelensky, not Putin, holding up peace deal",
-      "summary_en": "Bizarre claim comes after Zelensky was forced to declare a power sector state of emergency due to repeated Russian attacks",
-      "title": "Ukraine-Russia war latest: Trump claims it is Zelensky, not Putin, holding up peace deal",
-      "summary": "Bizarre claim comes after Zelensky was forced to declare a power sector state of emergency due to repeated Russian attacks",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-state-of-emergency-b2900864.html",
-      "source": "The Independent World",
-      "published_at": "2026-01-15T16:08:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5aba766a9c171a38",
-      "title_orig": "Live: Trump threatens Insurrection Act as federal agent shoots man over alleged attack",
-      "summary_orig": "The Department of Homeland Security said a federal law enforcement officer is in the hospital after being attacked with a snow shovel. A car chase followed a “targeted” traffic stop.",
-      "lang": "en",
-      "title_en": "Live: Trump threatens Insurrection Act as federal agent shoots man over alleged attack",
-      "summary_en": "The Department of Homeland Security said a federal law enforcement officer is in the hospital after being attacked with a snow shovel. A car chase followed a “targeted” traffic stop.",
-      "title": "Live: Trump threatens Insurrection Act as federal agent shoots man over alleged attack",
-      "summary": "The Department of Homeland Security said a federal law enforcement officer is in the hospital after being attacked with a snow shovel. A car chase followed a “targeted” traffic stop.",
-      "url": "https://www.startribune.com/ice-raids-minnesota/601546426",
-      "source": "Startribune News",
-      "published_at": "2026-01-15T16:03:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "906174b8f297594d",
       "title_orig": "Did Palestine Action hunger strikers achieve their goals?",
       "summary_orig": "Their cause drew global attention and they influenced a £2bn defence contract decision but some key demands were not met Three Palestine Action protesters end their hunger strike As the hunger strike by Palestine Action-affiliated prisoners dragged on, it seemed to be moving towards an inexorable and grim conclusion . With those taking part steadfast in their demands and ministers refusing to even meet their representatives, it began to seem that only a death might end the protest; and even then it was unclear what the others refusing food would do. Continue reading...",
@@ -450,24 +846,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8b757062b514d5a4",
-      "title_orig": "G7 threatens more sanctions for Iran amid ’high level of reported deaths and injuries’ - live",
-      "summary_orig": "G7 members ‘remain prepared to impose additional restrictive measures if Iran continues to crack down on protests and dissent’ Trump has told Reuters in that Iranian opposition figure Reza Pahlavi “seems very nice” but expressed uncertainty over whether Pahlavi would be able to muster support within Iran to eventually take over. Trump said it is possible the government in Tehran could fall due to the protests, but that in truth “any regime can fail”. Continue reading...",
-      "lang": "en",
-      "title_en": "G7 threatens more sanctions for Iran amid ’high level of reported deaths and injuries’ - live",
-      "summary_en": "G7 members ‘remain prepared to impose additional restrictive measures if Iran continues to crack down on protests and dissent’ Trump has told Reuters in that Iranian opposition figure Reza Pahlavi “seems very nice” but expressed uncertainty over whether Pahlavi would be able to muster support within Iran to eventually take over. Trump said it is possible the government in Tehran could fall due to the protests, but that in truth “any regime can fail”. Continue reading...",
-      "title": "G7 threatens more sanctions for Iran amid ’high level of reported deaths and injuries’ - live",
-      "summary": "G7 members ‘remain prepared to impose additional restrictive measures if Iran continues to crack down on protests and dissent’ Trump has told Reuters in that Iranian opposition figure Reza Pahlavi “seems very nice” but expressed uncertainty over whether Pahlavi would be able to muster support within Iran to eventually take over. Trump said it is possible the government in Tehran could fall due to the protests, but that in truth “any regime can fail”. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/jan/15/trump-iran-protests-usa-response-airspace-killings-live-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2026-01-15T15:58:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -732,17 +1110,17 @@
       "geo": {}
     },
     {
-      "id": "1aeb75616deb33d7",
-      "title_orig": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
-      "summary_orig": "The incident comes as President Donald Trump threatens to use the Insurrection Act on protesters.",
+      "id": "1318853374d54d31",
+      "title_orig": "The EU’s little-known way to save Greenland without NATO",
+      "summary_orig": "Denmark could trigger the EU's little-known Article 42.7 if the U.S. attacks Greenland. But it would face high legal, political and military hurdles.",
       "lang": "en",
-      "title_en": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
-      "summary_en": "The incident comes as President Donald Trump threatens to use the Insurrection Act on protesters.",
-      "title": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
-      "summary": "The incident comes as President Donald Trump threatens to use the Insurrection Act on protesters.",
-      "url": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-01-15T15:38:41+00:00",
+      "title_en": "The EU’s little-known way to save Greenland without NATO",
+      "summary_en": "Denmark could trigger the EU's little-known Article 42.7 if the U.S. attacks Greenland. But it would face high legal, political and military hurdles.",
+      "title": "The EU’s little-known way to save Greenland without NATO",
+      "summary": "Denmark could trigger the EU's little-known Article 42.7 if the U.S. attacks Greenland. But it would face high legal, political and military hurdles.",
+      "url": "https://www.politico.eu/article/5-things-to-know-about-the-eu-common-defense-clause/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "source": "POLITICO",
+      "published_at": "2026-01-15T15:38:16+00:00",
       "tags": [
         "airport/security"
       ],
@@ -885,24 +1263,6 @@
       "geo": {}
     },
     {
-      "id": "c4f5369fcb6caaba",
-      "title_orig": "Idrissa Gueye on verge of dream moment he always wanted for Everton teammate Iliman Ndiaye",
-      "summary_orig": "The experienced midfielder has acted as a guide for Ndiaye since the attacking midfielder joined the Blues",
-      "lang": "en",
-      "title_en": "Idrissa Gueye on verge of dream moment he always wanted for Everton teammate Iliman Ndiaye",
-      "summary_en": "The experienced midfielder has acted as a guide for Ndiaye since the attacking midfielder joined the Blues",
-      "title": "Idrissa Gueye on verge of dream moment he always wanted for Everton teammate Iliman Ndiaye",
-      "summary": "The experienced midfielder has acted as a guide for Ndiaye since the attacking midfielder joined the Blues",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/idrissa-gueye-verge-dream-moment-33239246",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2026-01-15T15:28:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "fb1835c54aff8a77",
       "title_orig": "Trump’s bluffs: Why US strike on Iran remains real threat",
       "summary_orig": "From Venezuela and Iran, Trump has attacked countries in the past when diplomacy appeared to be working.",
@@ -918,24 +1278,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "11acb8bdb8628f0a",
-      "title_orig": "Decision taken on Cardiff City striker as announcement made",
-      "summary_orig": "An announcement has been made on the forward",
-      "lang": "en",
-      "title_en": "Decision taken on Cardiff City striker as announcement made",
-      "summary_en": "An announcement has been made on the forward",
-      "title": "Decision taken on Cardiff City striker as announcement made",
-      "summary": "An announcement has been made on the forward",
-      "url": "https://www.walesonline.co.uk/sport/football/transfer-news/decision-taken-cardiff-city-striker-33239476",
-      "source": "WalesOnline - Home",
-      "published_at": "2026-01-15T15:20:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -957,24 +1299,6 @@
       "geo": {}
     },
     {
-      "id": "35cb23aebd1fb82d",
-      "title_orig": "Sick astronaut returns to Earth with crew in NASA’s 1st medical evacuation",
-      "summary_orig": "It was an unexpected finish to a mission that began in August and left the orbiting International Space Station with only one American and two Russians on board.",
-      "lang": "en",
-      "title_en": "Sick astronaut returns to Earth with crew in NASA’s 1st medical evacuation",
-      "summary_en": "It was an unexpected finish to a mission that began in August and left the orbiting International Space Station with only one American and two Russians on board.",
-      "title": "Sick astronaut returns to Earth with crew in NASA’s 1st medical evacuation",
-      "summary": "It was an unexpected finish to a mission that began in August and left the orbiting International Space Station with only one American and two Russians on board.",
-      "url": "https://globalnews.ca/news/11614554/iss-crew-return-earth-sick-medical-evacuation-nasa/",
-      "source": "globalnews.ca",
-      "published_at": "2026-01-15T15:16:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3c8de321c8ce6611",
       "title_orig": "MPs ‘gaslighting’ council finance boss says during budget clashes",
       "summary_orig": "Dudley Council's Conservative finance chief launches a blistering attack on Labour MPs claiming the borough will be £76m better off",
@@ -990,24 +1314,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ed631a4212975cee",
-      "title_orig": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
-      "summary_orig": "Protests continue across state and governor urges peace one week after an ICE agent shot and killed Renee Good Donald Trump threatened on Thursday to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social on Thursday morning, Trump said he would institute the Insurrection Act and “quickly put an end to the travesty that is taking place” in Minnesota if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
-      "lang": "en",
-      "title_en": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
-      "summary_en": "Protests continue across state and governor urges peace one week after an ICE agent shot and killed Renee Good Donald Trump threatened on Thursday to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social on Thursday morning, Trump said he would institute the Insurrection Act and “quickly put an end to the travesty that is taking place” in Minnesota if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
-      "title": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
-      "summary": "Protests continue across state and governor urges peace one week after an ICE agent shot and killed Renee Good Donald Trump threatened on Thursday to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social on Thursday morning, Trump said he would institute the Insurrection Act and “quickly put an end to the travesty that is taking place” in Minnesota if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/jan/15/trump-insurrection-act-minnesota-ice-protests",
-      "source": "World news | The Guardian",
-      "published_at": "2026-01-15T15:13:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1170,24 +1476,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "482bbef80494f4b3",
-      "title_orig": "More than 100 asylum seekers stage ‘one in, one out’ protests at detention centres",
-      "summary_orig": "Officers with riot shields, dogs and teargas called in to quell action at Harmondsworth and Brook House facilities More than 100 asylum seekers held at two immigration detention centres have staged overnight protests against the UK’s controversial “one in, one out” scheme with France. Officers with riot shields, dogs and teargas arrived to quell the protests. Continue reading...",
-      "lang": "en",
-      "title_en": "More than 100 asylum seekers stage ‘one in, one out’ protests at detention centres",
-      "summary_en": "Officers with riot shields, dogs and teargas called in to quell action at Harmondsworth and Brook House facilities More than 100 asylum seekers held at two immigration detention centres have staged overnight protests against the UK’s controversial “one in, one out” scheme with France. Officers with riot shields, dogs and teargas arrived to quell the protests. Continue reading...",
-      "title": "More than 100 asylum seekers stage ‘one in, one out’ protests at detention centres",
-      "summary": "Officers with riot shields, dogs and teargas called in to quell action at Harmondsworth and Brook House facilities More than 100 asylum seekers held at two immigration detention centres have staged overnight protests against the UK’s controversial “one in, one out” scheme with France. Officers with riot shields, dogs and teargas arrived to quell the protests. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/jan/15/asylum-seekers-one-in-one-out-protest-immigration-detention-centres",
-      "source": "UK news | The Guardian",
-      "published_at": "2026-01-15T14:51:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1371,35 +1659,17 @@
       "geo": {}
     },
     {
-      "id": "3aed22db55c60509",
-      "title_orig": "‘Those are the people who keep you alive:’ Nurses push back after Trump admin excludes them from ‘professional’ status",
-      "summary_orig": "As a strike rages in NYC, nurses on opposite sides of the country tell Rhian Lubin how the Education Department’s plan to cap federal loans for graduate nursing degrees poses a grave threat to the future of healthcare",
+      "id": "57810f3e9365a423",
+      "title_orig": "Trump threatens to use the Insurrection Act to quell protests in Minneapolis",
+      "summary_orig": "The president's threat comes a day after a federal immigration officer shot and wounded a Minneapolis man whom authorities said had attacked the officer with a shovel and broom handle.",
       "lang": "en",
-      "title_en": "‘Those are the people who keep you alive:’ Nurses push back after Trump admin excludes them from ‘professional’ status",
-      "summary_en": "As a strike rages in NYC, nurses on opposite sides of the country tell Rhian Lubin how the Education Department’s plan to cap federal loans for graduate nursing degrees poses a grave threat to the future of healthcare",
-      "title": "‘Those are the people who keep you alive:’ Nurses push back after Trump admin excludes them from ‘professional’ status",
-      "summary": "As a strike rages in NYC, nurses on opposite sides of the country tell Rhian Lubin how the Education Department’s plan to cap federal loans for graduate nursing degrees poses a grave threat to the future of healthcare",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/nursing-trump-professional-degree-graduate-loans-b2899892.html",
-      "source": "The Independent World",
-      "published_at": "2026-01-15T14:16:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1f3964c3a7dce823",
-      "title_orig": "Pictured: Man who 'dressed in disguise' before stabbing wife to death in shop",
-      "summary_orig": "The 47-year-old bought a block of knives from Asda and duct tape from Poundland before the attack",
-      "lang": "en",
-      "title_en": "Pictured: Man who 'dressed in disguise' before stabbing wife to death in shop",
-      "summary_en": "The 47-year-old bought a block of knives from Asda and duct tape from Poundland before the attack",
-      "title": "Pictured: Man who 'dressed in disguise' before stabbing wife to death in shop",
-      "summary": "The 47-year-old bought a block of knives from Asda and duct tape from Poundland before the attack",
-      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/pictured-man-who-dressed-disguise-33238539",
-      "source": "MEN - News",
-      "published_at": "2026-01-15T14:11:19+00:00",
+      "title_en": "Trump threatens to use the Insurrection Act to quell protests in Minneapolis",
+      "summary_en": "The president's threat comes a day after a federal immigration officer shot and wounded a Minneapolis man whom authorities said had attacked the officer with a shovel and broom handle.",
+      "title": "Trump threatens to use the Insurrection Act to quell protests in Minneapolis",
+      "summary": "The president's threat comes a day after a federal immigration officer shot and wounded a Minneapolis man whom authorities said had attacked the officer with a shovel and broom handle.",
+      "url": "https://www.latimes.com/world-nation/story/2026-01-15/trump-threatens-insurrection-act-to-end-protests-in-minneapolis",
+      "source": "World & Nation",
+      "published_at": "2026-01-15T14:22:31+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1686,42 +1956,6 @@
       "geo": {}
     },
     {
-      "id": "df9c73c850c1498f",
-      "title_orig": "Iran Says It Will Not Execute Protester Amid International Outcry",
-      "summary_orig": "The judiciary said that Erfan Soltani was not sentenced to death, Iranian state media reported. His case has drawn attention to the fate of the arrested demonstrators.",
-      "lang": "en",
-      "title_en": "Iran Says It Will Not Execute Protester Amid International Outcry",
-      "summary_en": "The judiciary said that Erfan Soltani was not sentenced to death, Iranian state media reported. His case has drawn attention to the fate of the arrested demonstrators.",
-      "title": "Iran Says It Will Not Execute Protester Amid International Outcry",
-      "summary": "The judiciary said that Erfan Soltani was not sentenced to death, Iranian state media reported. His case has drawn attention to the fate of the arrested demonstrators.",
-      "url": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-erfan-soltani-execution.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-15T13:07:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "dfc21ee1536c4cfc",
-      "title_orig": "Trump threatens to use the Insurrection Act to end protests in Minneapolis",
-      "summary_orig": "Trump made the threat after a federal officer shot a man in the leg in Minneapolis on Wednesday.",
-      "lang": "en",
-      "title_en": "Trump threatens to use the Insurrection Act to end protests in Minneapolis",
-      "summary_en": "Trump made the threat after a federal officer shot a man in the leg in Minneapolis on Wednesday.",
-      "title": "Trump threatens to use the Insurrection Act to end protests in Minneapolis",
-      "summary": "Trump made the threat after a federal officer shot a man in the leg in Minneapolis on Wednesday.",
-      "url": "https://www.denverpost.com/2026/01/15/second-federal-officer-shooting-minneapolis/",
-      "source": "The Denver Post",
-      "published_at": "2026-01-15T13:03:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1b0b2f13efaf1539",
       "title_orig": "Panic grips Kashmiri parents as wards go incommunicado after Iran internet shutdown, street protests",
       "summary_orig": "The Jammu and Kashmir Students Association (JKSA) claimed that the first batch of students is likely to return to India on Friday (January 16, 2026)",
@@ -1742,12 +1976,12 @@
     {
       "id": "ce45314c1b9e9489",
       "title_orig": "Spain’s meteorologists subjected to ‘alarming’ rise in hate speech, minister warns",
-      "summary_orig": "Environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work Europe live – latest updates Spain’s environment minister has written to prosecutors to warn of “an alarming increase” in hate speech and social media attacks directed against climate science communicators, meteorologists and researchers. In a letter sent to hate crimes prosecutors on Wednesday, Sara Aagesen said a number of recent reports examined by the ministry had detected a “significant increase” in the hostile language that climate experts are subjected to on digital platforms. Continue reading...",
+      "summary_orig": "Environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work Spain’s environment minister has written to prosecutors to warn of “an alarming increase” in hate speech and social media attacks directed against climate science communicators, meteorologists and researchers. In a letter sent to hate crimes prosecutors on Wednesday, Sara Aagesen said a number of recent reports examined by the ministry had detected a “significant increase” in the hostile language that climate experts are subjected to on digital platforms. Continue reading...",
       "lang": "en",
       "title_en": "Spain’s meteorologists subjected to ‘alarming’ rise in hate speech, minister warns",
-      "summary_en": "Environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work Europe live – latest updates Spain’s environment minister has written to prosecutors to warn of “an alarming increase” in hate speech and social media attacks directed against climate science communicators, meteorologists and researchers. In a letter sent to hate crimes prosecutors on Wednesday, Sara Aagesen said a number of recent reports examined by the ministry had detected a “significant increase” in the hostile language that climate experts are subjected to on digital platforms. Continue reading...",
+      "summary_en": "Environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work Spain’s environment minister has written to prosecutors to warn of “an alarming increase” in hate speech and social media attacks directed against climate science communicators, meteorologists and researchers. In a letter sent to hate crimes prosecutors on Wednesday, Sara Aagesen said a number of recent reports examined by the ministry had detected a “significant increase” in the hostile language that climate experts are subjected to on digital platforms. Continue reading...",
       "title": "Spain’s meteorologists subjected to ‘alarming’ rise in hate speech, minister warns",
-      "summary": "Environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work Europe live – latest updates Spain’s environment minister has written to prosecutors to warn of “an alarming increase” in hate speech and social media attacks directed against climate science communicators, meteorologists and researchers. In a letter sent to hate crimes prosecutors on Wednesday, Sara Aagesen said a number of recent reports examined by the ministry had detected a “significant increase” in the hostile language that climate experts are subjected to on digital platforms. Continue reading...",
+      "summary": "Environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work Spain’s environment minister has written to prosecutors to warn of “an alarming increase” in hate speech and social media attacks directed against climate science communicators, meteorologists and researchers. In a letter sent to hate crimes prosecutors on Wednesday, Sara Aagesen said a number of recent reports examined by the ministry had detected a “significant increase” in the hostile language that climate experts are subjected to on digital platforms. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns",
       "source": "World news | The Guardian",
       "published_at": "2026-01-15T13:01:41+00:00",
@@ -1755,24 +1989,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "fd03dc73c59f8c71",
-      "title_orig": "Country Western crooners, IMAX otters and more things to do in Denver this week",
-      "summary_orig": "Plus: a protest-music workshop and immersive theater and art from The Impliers.",
-      "lang": "en",
-      "title_en": "Country Western crooners, IMAX otters and more things to do in Denver this week",
-      "summary_en": "Plus: a protest-music workshop and immersive theater and art from The Impliers.",
-      "title": "Country Western crooners, IMAX otters and more things to do in Denver this week",
-      "summary": "Plus: a protest-music workshop and immersive theater and art from The Impliers.",
-      "url": "https://www.denverpost.com/2026/01/15/things-to-do-denver-country-music-imax/",
-      "source": "The Denver Post",
-      "published_at": "2026-01-15T13:00:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1867,24 +2083,6 @@
       "geo": {}
     },
     {
-      "id": "a25d26bca5c234fb",
-      "title_orig": "Man jailed after brutal attack led to neighbour’s wrongful armed arrest",
-      "summary_orig": "Daniel Conroy had told officers the neighbour attacked his partner with a knife",
-      "lang": "en",
-      "title_en": "Man jailed after brutal attack led to neighbour’s wrongful armed arrest",
-      "summary_en": "Daniel Conroy had told officers the neighbour attacked his partner with a knife",
-      "title": "Man jailed after brutal attack led to neighbour’s wrongful armed arrest",
-      "summary": "Daniel Conroy had told officers the neighbour attacked his partner with a knife",
-      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/man-jailed-after-brutal-attack-33236513",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-01-15T12:28:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c5cfb8a31b09eeb6",
       "title_orig": "Leeds United set to sign Premier League attacker with agreement reached",
       "summary_orig": "Leeds United have kick-started their January transfer window by reaching a verbal agreement for a Premier League proven attacking-midfielder, as Daniel Farke looks for a comfortable finish to 2025/26",
@@ -1932,24 +2130,6 @@
       "url": "https://www.straitstimes.com/world/middle-east/trump-sees-iranian-crackdown-easing-tehran-denies-man-to-be-executed",
       "source": "The Straits Times World News",
       "published_at": "2026-01-15T12:10:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3329e29e938d8671",
-      "title_orig": "4 astronauts return to Earth early in NASA’s first medical evacuation",
-      "summary_orig": "One of the astronauts was taken to a hospital immediately after splashdown.",
-      "lang": "en",
-      "title_en": "4 astronauts return to Earth early in NASA’s first medical evacuation",
-      "summary_en": "One of the astronauts was taken to a hospital immediately after splashdown.",
-      "title": "4 astronauts return to Earth early in NASA’s first medical evacuation",
-      "summary": "One of the astronauts was taken to a hospital immediately after splashdown.",
-      "url": "https://www.pennlive.com/nation-world/2026/01/4-astronauts-return-to-earth-early-in-nasas-first-medical-evacuation.html",
-      "source": "pennlive.com",
-      "published_at": "2026-01-15T12:08:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2029,42 +2209,6 @@
       "geo": {}
     },
     {
-      "id": "f16adf840c17b20a",
-      "title_orig": "Haiti: Gang leader reportedly targeted in drone operation",
-      "summary_orig": "According to Haitian media, notorious gang leader Jimmy \"Barbecue\" Cherizier's Port-au-Prince home was targeted in a drone operation. Branding himself as an anti-elite revolutionary, \"Barbecue\" is accused of a wide range of crimes and is thought to have played a key role in the 2018 La Saline Massacre.\n \n#haiti #cherizier #gangviolence",
-      "lang": "en",
-      "title_en": "Haiti: Gang leader reportedly targeted in drone operation",
-      "summary_en": "According to Haitian media, notorious gang leader Jimmy \"Barbecue\" Cherizier's Port-au-Prince home was targeted in a drone operation. Branding himself as an anti-elite revolutionary, \"Barbecue\" is accused of a wide range of crimes and is thought to have played a key role in the 2018 La Saline Massacre.\n \n#haiti #cherizier #gangviolence",
-      "title": "Haiti: Gang leader reportedly targeted in drone operation",
-      "summary": "According to Haitian media, notorious gang leader Jimmy \"Barbecue\" Cherizier's Port-au-Prince home was targeted in a drone operation. Branding himself as an anti-elite revolutionary, \"Barbecue\" is accused of a wide range of crimes and is thought to have played a key role in the 2018 La Saline Massacre.\n \n#haiti #cherizier #gangviolence",
-      "url": "https://www.france24.com/en/video/20260115-haiti-gang-leader-targeted-in-drone-operation",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-01-15T11:55:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "a2270c40a9bac69e",
-      "title_orig": "Donald Trump softens rhetoric on intervention after anti-government protests",
-      "summary_orig": "U.S. ⁠President Donald Trump said he had been told that killings in Iran’s crackdown on protests were easing and that he believed there was no current plan for large-scale executions, adopting a wait-and-see posture after  earlier threatening intervention. analysis by Leela Jacinto, FRANCE 24 international affairs editor.",
-      "lang": "en",
-      "title_en": "Donald Trump softens rhetoric on intervention after anti-government protests",
-      "summary_en": "U.S. ⁠President Donald Trump said he had been told that killings in Iran’s crackdown on protests were easing and that he believed there was no current plan for large-scale executions, adopting a wait-and-see posture after  earlier threatening intervention. analysis by Leela Jacinto, FRANCE 24 international affairs editor.",
-      "title": "Donald Trump softens rhetoric on intervention after anti-government protests",
-      "summary": "U.S. ⁠President Donald Trump said he had been told that killings in Iran’s crackdown on protests were easing and that he believed there was no current plan for large-scale executions, adopting a wait-and-see posture after  earlier threatening intervention. analysis by Leela Jacinto, FRANCE 24 international affairs editor.",
-      "url": "https://www.france24.com/en/donald-trump-softens-rhetoric-on-intervention-after-anti-government-protests",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-01-15T11:51:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "3fdda808f38a1109",
       "title_orig": "What David Datro Fofana has said about Chelsea exit amid Derby County and Celtic transfer links",
       "summary_orig": "Derby County have been credited with an interest in a striker surplus to requirements at Chelsea - with Celtic also hovering",
@@ -2130,24 +2274,6 @@
       "url": "https://www.straitstimes.com/world/europe/poland-will-not-send-soldiers-to-greenland-polish-pm-says",
       "source": "The Straits Times World News",
       "published_at": "2026-01-15T11:11:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "35e848142e77e806",
-      "title_orig": "Picture shows 'very large' WW2 bomb in Exmouth harbour",
-      "summary_orig": "The evacuation zone around the bomb has been growing",
-      "lang": "en",
-      "title_en": "Picture shows 'very large' WW2 bomb in Exmouth harbour",
-      "summary_en": "The evacuation zone around the bomb has been growing",
-      "title": "Picture shows 'very large' WW2 bomb in Exmouth harbour",
-      "summary": "The evacuation zone around the bomb has been growing",
-      "url": "https://www.devonlive.com/news/devon-news/picture-shows-very-large-ww2-10756819",
-      "source": "Devon Live - frontpage",
-      "published_at": "2026-01-15T11:10:52+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2335,24 +2461,6 @@
       "geo": {}
     },
     {
-      "id": "fea0e90fae4e277e",
-      "title_orig": "Lebanese fear US has given green light for Israeli escalation",
-      "summary_orig": "Israel has attacked south Lebanon dozens of times recently, as locals fear a renewed military escalation.",
-      "lang": "en",
-      "title_en": "Lebanese fear US has given green light for Israeli escalation",
-      "summary_en": "Israel has attacked south Lebanon dozens of times recently, as locals fear a renewed military escalation.",
-      "title": "Lebanese fear US has given green light for Israeli escalation",
-      "summary": "Israel has attacked south Lebanon dozens of times recently, as locals fear a renewed military escalation.",
-      "url": "https://www.aljazeera.com/features/2026/1/15/lebanese-fear-us-has-given-green-light-for-israeli-escalation?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-01-15T10:46:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "888c4684b9bd7daf",
       "title_orig": "No selfies, please: Dolomites push back against overtourism ahead of Winter Olympics",
       "summary_orig": "Overcrowding has led to erosion of trails and increased littering, with residents protesting.",
@@ -2472,24 +2580,6 @@
       "url": "https://www.thejournal.ie/readme/palestine-action-hunger-strike-6926148-Jan2026/",
       "source": "TheJournal.ie",
       "published_at": "2026-01-15T10:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a0adfdbded620e49",
-      "title_orig": "Iran protests show bitter schism among exiled opposition factions",
-      "summary_orig": "Some support Mr Reza Pahlavi, son of the ousted shah, while others back an organised leftist group.",
-      "lang": "en",
-      "title_en": "Iran protests show bitter schism among exiled opposition factions",
-      "summary_en": "Some support Mr Reza Pahlavi, son of the ousted shah, while others back an organised leftist group.",
-      "title": "Iran protests show bitter schism among exiled opposition factions",
-      "summary": "Some support Mr Reza Pahlavi, son of the ousted shah, while others back an organised leftist group.",
-      "url": "https://www.straitstimes.com/world/middle-east/iran-protests-show-bitter-schism-among-exiled-opposition-factions",
-      "source": "The Straits Times World News",
-      "published_at": "2026-01-15T09:55:57+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3209,24 +3299,6 @@
       "geo": {}
     },
     {
-      "id": "b1ad942a57423e92",
-      "title_orig": "Punjab govt will buy only electric or hybrid cars",
-      "summary_orig": "• ‘Bans’ purchase of petrol, diesel vehicles to ‘cut emissions’ • Approval for new fuel pumps linked to installation of EV charging units • S&GAD yet to notify policy • Minister says move part of ‘smog mitigation measures’ LAHORE: The Punjab government on Wednesday announced a complete ban on the purchase of petrol and diesel vehicles across its departments, allowing only electric or hybrid modes of transportation in a move aimed at cutting emissions and accelerating the transition to clean transport. The announcement was made by Chief Secretary Zahid Akhtar Zaman in a statement issued here. However, it added that vehicles deployed for field duties had been exempted from the restriction. Mr Zaman noted that a comprehensive electric vehicle (EV) policy for the province was expected to be announced shortly. He said the policy would reflect the provincial government’s commitment to environmental protection and the promotion of green energy. New petrol pumps As part of the same initiative, the approval of no-objection certificates (NOCs) for new petrol pumps has been made conditional on the installation of electric vehicle charging units. “No new petrol pump will be allowed to operate without EV charging facilities,” the chief secretary stated. The statement added that NOCs had already been issued through the e-Biz Portal for 170 new petrol pumps across 31 cities in Punjab, all of which are required to install EV charging units. These include 29 petrol pumps in Faisalabad, 14 in Lahore, 10 in Bahawalpur, nine each in Khanewal and Bahawalnagar, eight each in Rawalpindi and Jhang, and seven each in Toba Tek Singh, Mianwali, Kasur, and Chiniot. However, the chief secretary did not respond to a question on whether the policy decision banning the purchase of petrol and diesel vehicles was taken at any formal forum or was merely a statement. S&GAD yet to notify move It is learnt that no notification regarding the policy change banning the procurement of petrol and diesel vehicles and promoting the procurement of electric and hybrid vehicles has been issued by the Services and General Administration Department (S&GAD). When contacted, an S&GAD Transport Wing official told Dawn that the department had neither received any formal approval for the change in policy nor issued any notification in this regard. Answering a question, the official said discussions on shifting to electric and hybrid vehicles had been underway in the department for quite some time, in line with environmental and climate change initiatives. The official added that the policy would take effect once formal approval is granted by the chief minister following the required process. The S&GAD would then issue a formal notification to launch the new policy. ‘Combating smog’ During a meeting with American business leaders, Senior Punjab Minister Marriyum Aurangzeb said the provincial government would now purchase only hybrid and electric vehicles as part of its smog mitigation measures. “The government has decided to replace petrol vehicles in the official fleet with hybrid and electric vehicles,” she said. According to a statement, the US delegation was given a comprehensive briefing on Chief Minister Maryam Nawaz’s vision and policy initiatives. It added that the American business leaders commended CM Maryam’s governance reforms and environmental policies. They were informed about the provincial government’s policies and enforcement measures related to the shift towards electric and hybrid transport, brick kiln mechanisation, e-transport, official use of super seeders, and other practical reforms. “For the first time, sectoral-level anti-smog measures have been introduced in Lahore, with the Planning and Development Department designated as the central policy hub,” Ms Aurangzeb said, adding that the city’s air quality had shown marked improvement. To combat smog, she said, 41 monitoring stations had been installed, with the number set to reach 100 by June. The minister added that surveillance was being carried out through drones and thermal cameras. “A Smog War Room is monitoring industries, brick kilns, and vehicles around the clock, while Punjab Climate Watch is fully operational.” The minister told the delegation that to control crop burning, 5,000 super seeders had been provided to farmers at a 60 per cent subsidy. “A Nasa [US space agency] report has confirmed a 60 per cent reduction in smog levels.,” she said. She further said 1,000 e-buses had been added across Punjab, with a decision taken to procure an additional 10,000 this year. Published in Dawn, January 15th, 2026",
-      "lang": "en",
-      "title_en": "Punjab govt will buy only electric or hybrid cars",
-      "summary_en": "• ‘Bans’ purchase of petrol, diesel vehicles to ‘cut emissions’ • Approval for new fuel pumps linked to installation of EV charging units • S&GAD yet to notify policy • Minister says move part of ‘smog mitigation measures’ LAHORE: The Punjab government on Wednesday announced a complete ban on the purchase of petrol and diesel vehicles across its departments, allowing only electric or hybrid modes of transportation in a move aimed at cutting emissions and accelerating the transition to clean transport. The announcement was made by Chief Secretary Zahid Akhtar Zaman in a statement issued here. However, it added that vehicles deployed for field duties had been exempted from the restriction. Mr Zaman noted that a comprehensive electric vehicle (EV) policy for the province was expected to be announced shortly. He said the policy would reflect the provincial government’s commitment to environmental protection and the promotion of green energy. New petrol pumps As part of the same initiative, the approval of no-objection certificates (NOCs) for new petrol pumps has been made conditional on the installation of electric vehicle charging units. “No new petrol pump will be allowed to operate without EV charging facilities,” the chief secretary stated. The statement added that NOCs had already been issued through the e-Biz Portal for 170 new petrol pumps across 31 cities in Punjab, all of which are required to install EV charging units. These include 29 petrol pumps in Faisalabad, 14 in Lahore, 10 in Bahawalpur, nine each in Khanewal and Bahawalnagar, eight each in Rawalpindi and Jhang, and seven each in Toba Tek Singh, Mianwali, Kasur, and Chiniot. However, the chief secretary did not respond to a question on whether the policy decision banning the purchase of petrol and diesel vehicles was taken at any formal forum or was merely a statement. S&GAD yet to notify move It is learnt that no notification regarding the policy change banning the procurement of petrol and diesel vehicles and promoting the procurement of electric and hybrid vehicles has been issued by the Services and General Administration Department (S&GAD). When contacted, an S&GAD Transport Wing official told Dawn that the department had neither received any formal approval for the change in policy nor issued any notification in this regard. Answering a question, the official said discussions on shifting to electric and hybrid vehicles had been underway in the department for quite some time, in line with environmental and climate change initiatives. The official added that the policy would take effect once formal approval is granted by the chief minister following the required process. The S&GAD would then issue a formal notification to launch the new policy. ‘Combating smog’ During a meeting with American business leaders, Senior Punjab Minister Marriyum Aurangzeb said the provincial government would now purchase only hybrid and electric vehicles as part of its smog mitigation measures. “The government has decided to replace petrol vehicles in the official fleet with hybrid and electric vehicles,” she said. According to a statement, the US delegation was given a comprehensive briefing on Chief Minister Maryam Nawaz’s vision and policy initiatives. It added that the American business leaders commended CM Maryam’s governance reforms and environmental policies. They were informed about the provincial government’s policies and enforcement measures related to the shift towards electric and hybrid transport, brick kiln mechanisation, e-transport, official use of super seeders, and other practical reforms. “For the first time, sectoral-level anti-smog measures have been introduced in Lahore, with the Planning and Development Department designated as the central policy hub,” Ms Aurangzeb said, adding that the city’s air quality had shown marked improvement. To combat smog, she said, 41 monitoring stations had been installed, with the number set to reach 100 by June. The minister added that surveillance was being carried out through drones and thermal cameras. “A Smog War Room is monitoring industries, brick kilns, and vehicles around the clock, while Punjab Climate Watch is fully operational.” The minister told the delegation that to control crop burning, 5,000 super seeders had been provided to farmers at a 60 per cent subsidy. “A Nasa [US space agency] report has confirmed a 60 per cent reduction in smog levels.,” she said. She further said 1,000 e-buses had been added across Punjab, with a decision taken to procure an additional 10,000 this year. Published in Dawn, January 15th, 2026",
-      "title": "Punjab govt will buy only electric or hybrid cars",
-      "summary": "• ‘Bans’ purchase of petrol, diesel vehicles to ‘cut emissions’ • Approval for new fuel pumps linked to installation of EV charging units • S&GAD yet to notify policy • Minister says move part of ‘smog mitigation measures’ LAHORE: The Punjab government on Wednesday announced a complete ban on the purchase of petrol and diesel vehicles across its departments, allowing only electric or hybrid modes of transportation in a move aimed at cutting emissions and accelerating the transition to clean transport. The announcement was made by Chief Secretary Zahid Akhtar Zaman in a statement issued here. However, it added that vehicles deployed for field duties had been exempted from the restriction. Mr Zaman noted that a comprehensive electric vehicle (EV) policy for the province was expected to be announced shortly. He said the policy would reflect the provincial government’s commitment to environmental protection and the promotion of green energy. New petrol pumps As part of the same initiative, the approval of no-objection certificates (NOCs) for new petrol pumps has been made conditional on the installation of electric vehicle charging units. “No new petrol pump will be allowed to operate without EV charging facilities,” the chief secretary stated. The statement added that NOCs had already been issued through the e-Biz Portal for 170 new petrol pumps across 31 cities in Punjab, all of which are required to install EV charging units. These include 29 petrol pumps in Faisalabad, 14 in Lahore, 10 in Bahawalpur, nine each in Khanewal and Bahawalnagar, eight each in Rawalpindi and Jhang, and seven each in Toba Tek Singh, Mianwali, Kasur, and Chiniot. However, the chief secretary did not respond to a question on whether the policy decision banning the purchase of petrol and diesel vehicles was taken at any formal forum or was merely a statement. S&GAD yet to notify move It is learnt that no notification regarding the policy change banning the procurement of petrol and diesel vehicles and promoting the procurement of electric and hybrid vehicles has been issued by the Services and General Administration Department (S&GAD). When contacted, an S&GAD Transport Wing official told Dawn that the department had neither received any formal approval for the change in policy nor issued any notification in this regard. Answering a question, the official said discussions on shifting to electric and hybrid vehicles had been underway in the department for quite some time, in line with environmental and climate change initiatives. The official added that the policy would take effect once formal approval is granted by the chief minister following the required process. The S&GAD would then issue a formal notification to launch the new policy. ‘Combating smog’ During a meeting with American business leaders, Senior Punjab Minister Marriyum Aurangzeb said the provincial government would now purchase only hybrid and electric vehicles as part of its smog mitigation measures. “The government has decided to replace petrol vehicles in the official fleet with hybrid and electric vehicles,” she said. According to a statement, the US delegation was given a comprehensive briefing on Chief Minister Maryam Nawaz’s vision and policy initiatives. It added that the American business leaders commended CM Maryam’s governance reforms and environmental policies. They were informed about the provincial government’s policies and enforcement measures related to the shift towards electric and hybrid transport, brick kiln mechanisation, e-transport, official use of super seeders, and other practical reforms. “For the first time, sectoral-level anti-smog measures have been introduced in Lahore, with the Planning and Development Department designated as the central policy hub,” Ms Aurangzeb said, adding that the city’s air quality had shown marked improvement. To combat smog, she said, 41 monitoring stations had been installed, with the number set to reach 100 by June. The minister added that surveillance was being carried out through drones and thermal cameras. “A Smog War Room is monitoring industries, brick kilns, and vehicles around the clock, while Punjab Climate Watch is fully operational.” The minister told the delegation that to control crop burning, 5,000 super seeders had been provided to farmers at a 60 per cent subsidy. “A Nasa [US space agency] report has confirmed a 60 per cent reduction in smog levels.,” she said. She further said 1,000 e-buses had been added across Punjab, with a decision taken to procure an additional 10,000 this year. Published in Dawn, January 15th, 2026",
-      "url": "https://www.dawn.com/news/1967002/punjab-govt-will-buy-only-electric-or-hybrid-cars",
-      "source": "Dawn - Home",
-      "published_at": "2026-01-15T02:45:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8dbb2302940e79b3",
       "title_orig": "'Very serious, not getting much information': Shashi Tharoor flags concerns amid Iran protests, unrest",
       "summary_orig": "Tharoor further stated that the coming days would be critical for the Khamenei regime, which is facing \"difficult circumstances\".",
@@ -3364,24 +3436,6 @@
       "url": "https://www.hindustantimes.com/india-news/air-india-indigo-issues-travel-advisory-after-iran-airspace-closure-amid-protests-101768436011500.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2026-01-15T00:27:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4270eb4dc8a049c0",
-      "title_orig": "Venezuela war powers resolution fails in Senate as 2 Republicans bow to Trump pressure",
-      "summary_orig": "Senate Republicans have voted to dismiss a war powers resolution that would have limited Trump’s ability to conduct further attacks on Venezuela.",
-      "lang": "en",
-      "title_en": "Venezuela war powers resolution fails in Senate as 2 Republicans bow to Trump pressure",
-      "summary_en": "Senate Republicans have voted to dismiss a war powers resolution that would have limited Trump’s ability to conduct further attacks on Venezuela.",
-      "title": "Venezuela war powers resolution fails in Senate as 2 Republicans bow to Trump pressure",
-      "summary": "Senate Republicans have voted to dismiss a war powers resolution that would have limited Trump’s ability to conduct further attacks on Venezuela.",
-      "url": "https://www.kgw.com/article/syndication/associatedpress/senate-readies-vote-on-venezuela-war-powers-as-trump-pressures-gop-defectors/616-1ed30deb-f75f-40a8-9dc3-026659ef5b55",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-01-15T00:11:20+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3625,12 +3679,12 @@
     {
       "id": "1e8e895d4f2f2f30",
       "title_orig": "'I carried my wife's body for an hour and a half' - BBC hears stories of protesters killed in Iran",
-      "summary_orig": "BBC Persian has received dozens of accounts from inside Iran. Defiant despite potential repercussions, the witnesses said they wanted to ensure the rest of the world knew of the violence against the protesters.",
+      "summary_orig": "BBC Persian has received dozens of accounts from inside Iran, with witnesses saying they want to ensure the world knew of the violence against protesters.",
       "lang": "en",
       "title_en": "'I carried my wife's body for an hour and a half' - BBC hears stories of protesters killed in Iran",
-      "summary_en": "BBC Persian has received dozens of accounts from inside Iran. Defiant despite potential repercussions, the witnesses said they wanted to ensure the rest of the world knew of the violence against the protesters.",
+      "summary_en": "BBC Persian has received dozens of accounts from inside Iran, with witnesses saying they want to ensure the world knew of the violence against protesters.",
       "title": "'I carried my wife's body for an hour and a half' - BBC hears stories of protesters killed in Iran",
-      "summary": "BBC Persian has received dozens of accounts from inside Iran. Defiant despite potential repercussions, the witnesses said they wanted to ensure the rest of the world knew of the violence against the protesters.",
+      "summary": "BBC Persian has received dozens of accounts from inside Iran, with witnesses saying they want to ensure the world knew of the violence against protesters.",
       "url": "https://www.bbc.com/news/articles/c8e54zp5j6no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2026-01-14T20:35:49+00:00",
@@ -3713,24 +3767,6 @@
       "geo": {}
     },
     {
-      "id": "3fd74ee1c9f72252",
-      "title_orig": "Starlink reportedly made free in Iran - but protesters are taking huge risks by using it",
-      "summary_orig": "The satellite technology has become a vital communications lifeline after the government shut down the internet last week.",
-      "lang": "en",
-      "title_en": "Starlink reportedly made free in Iran - but protesters are taking huge risks by using it",
-      "summary_en": "The satellite technology has become a vital communications lifeline after the government shut down the internet last week.",
-      "title": "Starlink reportedly made free in Iran - but protesters are taking huge risks by using it",
-      "summary": "The satellite technology has become a vital communications lifeline after the government shut down the internet last week.",
-      "url": "https://www.bbc.com/news/articles/c0r4veg0rrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-01-14T18:15:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1e15d9b757255f02",
       "title_orig": "'Pushing for a loan' - Leeds United's Harry Gray on Rotherham United move and men's game readiness",
       "summary_orig": "Leeds United striker Harry Gray says he was pushing for a loan move this month and believes time at Rotherham United will be better for him than more youth football.",
@@ -3778,24 +3814,6 @@
       "url": "https://press.un.org/en/2026/sc16274.doc.htm",
       "source": "UN Meetings Coverage and Press Releases",
       "published_at": "2026-01-14T17:23:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8aab9a00e495f58d",
-      "title_orig": "Tehran morgue videos show the brutality of Iran's crackdown on protesters",
-      "summary_orig": "Distressing footage reveals nearly 200 bodies with one victim identified as young as 16.",
-      "lang": "en",
-      "title_en": "Tehran morgue videos show the brutality of Iran's crackdown on protesters",
-      "summary_en": "Distressing footage reveals nearly 200 bodies with one victim identified as young as 16.",
-      "title": "Tehran morgue videos show the brutality of Iran's crackdown on protesters",
-      "summary": "Distressing footage reveals nearly 200 bodies with one victim identified as young as 16.",
-      "url": "https://www.bbc.com/news/articles/cly3xpyvxzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-01-14T16:58:31+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4187,24 +4205,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f26d2bae8c47f4a1",
-      "title_orig": "Farmers leave Paris but tensions rise in Toulouse over EU-Mercosur trade deal",
-      "summary_orig": "Farmers from FNSEA and Jeunes Agriculteurs unions left Paris after protesting rising costs. Tractors entered Toulouse, defying a local ban, under police watch.",
-      "lang": "en",
-      "title_en": "Farmers leave Paris but tensions rise in Toulouse over EU-Mercosur trade deal",
-      "summary_en": "Farmers from FNSEA and Jeunes Agriculteurs unions left Paris after protesting rising costs. Tractors entered Toulouse, defying a local ban, under police watch.",
-      "title": "Farmers leave Paris but tensions rise in Toulouse over EU-Mercosur trade deal",
-      "summary": "Farmers from FNSEA and Jeunes Agriculteurs unions left Paris after protesting rising costs. Tractors entered Toulouse, defying a local ban, under police watch.",
-      "url": "http://www.euronews.com/video/2026/01/14/farmers-leave-paris-but-tensions-rise-in-toulouse-over-eu-mercosur-trade-deal",
-      "source": "News | Euronews RSS",
-      "published_at": "2026-01-14T08:54:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
