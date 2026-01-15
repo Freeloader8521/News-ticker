@@ -1,6 +1,276 @@
 {
-  "generated_at": "2026-01-15T20:23:38.613586+00:00",
+  "generated_at": "2026-01-15T20:53:21.354953+00:00",
   "items": [
+    {
+      "id": "aa06ab193ec5a78b",
+      "title_orig": "Canada says citizen killed by Iranian authorities during protests",
+      "summary_orig": "Canadian Foreign Minister Anita Anand announced the death on X.",
+      "lang": "en",
+      "title_en": "Canada says citizen killed by Iranian authorities during protests",
+      "summary_en": "Canadian Foreign Minister Anita Anand announced the death on X.",
+      "title": "Canada says citizen killed by Iranian authorities during protests",
+      "summary": "Canadian Foreign Minister Anita Anand announced the death on X.",
+      "url": "https://www.straitstimes.com/world/canada-says-citizen-killed-by-iranian-authorities-during-protests",
+      "source": "The Straits Times World News",
+      "published_at": "2026-01-15T20:47:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d6880b9da6d6f0e5",
+      "title_orig": "Remains of 32 Cuban officers killed during strike on Venezuela repatriated as US threat lingers",
+      "summary_orig": "HAVANA (AP) — Trumpets and drums played solemnly at Havana’s airport Thursday as white-gloved Cuban soldiers marched out of a…",
+      "lang": "en",
+      "title_en": "Remains of 32 Cuban officers killed during strike on Venezuela repatriated as US threat lingers",
+      "summary_en": "HAVANA (AP) — Trumpets and drums played solemnly at Havana’s airport Thursday as white-gloved Cuban soldiers marched out of a…",
+      "title": "Remains of 32 Cuban officers killed during strike on Venezuela repatriated as US threat lingers",
+      "summary": "HAVANA (AP) — Trumpets and drums played solemnly at Havana’s airport Thursday as white-gloved Cuban soldiers marched out of a…",
+      "url": "https://wtop.com/world/2026/01/bodies-of-32-cuban-officers-killed-during-us-strike-on-venezuela-repatriated-as-us-threat-lingers/",
+      "source": "WTOP News",
+      "published_at": "2026-01-15T20:45:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "dccfdbcfd9965fba",
+      "title_orig": "Iran’s nationwide protests appear increasingly smothered after crackdown and internet outage",
+      "summary_orig": "DUBAI, United Arab Emirates (AP) — The nationwide protests challenging Iran’s theocracy appeared increasingly smothered Thursday, a week after authorities…",
+      "lang": "en",
+      "title_en": "Iran’s nationwide protests appear increasingly smothered after crackdown and internet outage",
+      "summary_en": "DUBAI, United Arab Emirates (AP) — The nationwide protests challenging Iran’s theocracy appeared increasingly smothered Thursday, a week after authorities…",
+      "title": "Iran’s nationwide protests appear increasingly smothered after crackdown and internet outage",
+      "summary": "DUBAI, United Arab Emirates (AP) — The nationwide protests challenging Iran’s theocracy appeared increasingly smothered Thursday, a week after authorities…",
+      "url": "https://wtop.com/world/2026/01/iran-further-extends-an-order-closing-its-airspace-to-commercial-aircraft-as-tensions-remain-high/",
+      "source": "WTOP News",
+      "published_at": "2026-01-15T20:44:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "df7770732d81f967",
+      "title_orig": "Fan protest against kickoff times interrupts Bundesliga game between Augsburg and Union Berlin",
+      "summary_orig": "AUGSBURG, Germany (AP) — Toy balls and other objects flew onto the field as fans protesting the Bundesliga’s scheduling forced…",
+      "lang": "en",
+      "title_en": "Fan protest against kickoff times interrupts Bundesliga game between Augsburg and Union Berlin",
+      "summary_en": "AUGSBURG, Germany (AP) — Toy balls and other objects flew onto the field as fans protesting the Bundesliga’s scheduling forced…",
+      "title": "Fan protest against kickoff times interrupts Bundesliga game between Augsburg and Union Berlin",
+      "summary": "AUGSBURG, Germany (AP) — Toy balls and other objects flew onto the field as fans protesting the Bundesliga’s scheduling forced…",
+      "url": "https://wtop.com/sports/2026/01/fan-protest-against-kickoff-times-interrupts-bundesliga-game-between-augsburg-and-union-berlin/",
+      "source": "WTOP News",
+      "published_at": "2026-01-15T20:43:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2632f01ff88b1416",
+      "title_orig": "Robert Jenrick attacks Tories as ‘failed’ party as he defects to Reform",
+      "summary_orig": "Robert Jenrick has criticised the Tories after being sacked",
+      "lang": "en",
+      "title_en": "Robert Jenrick attacks Tories as ‘failed’ party as he defects to Reform",
+      "summary_en": "Robert Jenrick has criticised the Tories after being sacked",
+      "title": "Robert Jenrick attacks Tories as ‘failed’ party as he defects to Reform",
+      "summary": "Robert Jenrick has criticised the Tories after being sacked",
+      "url": "https://www.walesonline.co.uk/news/politics/robert-jenrick-attacks-tories-failed-33241297",
+      "source": "WalesOnline - Home",
+      "published_at": "2026-01-15T20:40:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "081668662070f4dd",
+      "title_orig": "China-linked hackers used Venezuela-themed phishing to target US agencies: report",
+      "summary_orig": "A hacker group with links to China recently used Venezuela-themed phishing emails in a malware campaign targeting US government-related entities, as cyberattack campaigns increasingly leverage geopolitical materials, according to Swiss cybersecurity firm Acronis.\nA malware campaign has used recent developments between the US and Venezuela as “thematic lures” to attack US government and policy-related entities with a back door that has espionage-focused capabilities, including basic remote...",
+      "lang": "en",
+      "title_en": "China-linked hackers used Venezuela-themed phishing to target US agencies: report",
+      "summary_en": "A hacker group with links to China recently used Venezuela-themed phishing emails in a malware campaign targeting US government-related entities, as cyberattack campaigns increasingly leverage geopolitical materials, according to Swiss cybersecurity firm Acronis.\nA malware campaign has used recent developments between the US and Venezuela as “thematic lures” to attack US government and policy-related entities with a back door that has espionage-focused capabilities, including basic remote...",
+      "title": "China-linked hackers used Venezuela-themed phishing to target US agencies: report",
+      "summary": "A hacker group with links to China recently used Venezuela-themed phishing emails in a malware campaign targeting US government-related entities, as cyberattack campaigns increasingly leverage geopolitical materials, according to Swiss cybersecurity firm Acronis.\nA malware campaign has used recent developments between the US and Venezuela as “thematic lures” to attack US government and policy-related entities with a back door that has espionage-focused capabilities, including basic remote...",
+      "url": "https://www.scmp.com/news/china/article/3340071/china-linked-hackers-used-venezuela-themed-phishing-target-us-agencies-report?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2026-01-15T20:39:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "091d7ffc9d144b93",
+      "title_orig": "Netanyahu ‘persuaded Trump’ to call off air strikes on Iran with last ditch phone call",
+      "summary_orig": "With embassies being evacuated and airspace being cleared, strikes on Iran seemed likely",
+      "lang": "en",
+      "title_en": "Netanyahu ‘persuaded Trump’ to call off air strikes on Iran with last ditch phone call",
+      "summary_en": "With embassies being evacuated and airspace being cleared, strikes on Iran seemed likely",
+      "title": "Netanyahu ‘persuaded Trump’ to call off air strikes on Iran with last ditch phone call",
+      "summary": "With embassies being evacuated and airspace being cleared, strikes on Iran seemed likely",
+      "url": "https://metro.co.uk/2026/01/15/netanyahu-persuaded-trump-call-off-air-strikes-iran-last-ditch-phone-call-26313344/",
+      "source": "Metro",
+      "published_at": "2026-01-15T20:35:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "74baa09089baacc7",
+      "title_orig": "As immigration agents police Minneapolis protests, experts warn of training gaps and the rising risk",
+      "summary_orig": "Federal immigration agents deployed to Minneapolis have used aggressive crowd-control tactics — including pointing rifles at demonstrators and deploying chemical…",
+      "lang": "en",
+      "title_en": "As immigration agents police Minneapolis protests, experts warn of training gaps and the rising risk",
+      "summary_en": "Federal immigration agents deployed to Minneapolis have used aggressive crowd-control tactics — including pointing rifles at demonstrators and deploying chemical…",
+      "title": "As immigration agents police Minneapolis protests, experts warn of training gaps and the rising risk",
+      "summary": "Federal immigration agents deployed to Minneapolis have used aggressive crowd-control tactics — including pointing rifles at demonstrators and deploying chemical…",
+      "url": "https://wtop.com/national/2026/01/as-immigration-agents-police-minneapolis-protests-experts-warn-of-training-gaps-and-the-rising-risk/",
+      "source": "WTOP News",
+      "published_at": "2026-01-15T20:29:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8be4a3472146c5f8",
+      "title_orig": "As immigration agents police Minneapolis protests, experts warn of training gaps and the rising risk",
+      "summary_orig": "Federal immigration agents deployed to Minneapolis have used aggressive crowd-control tactics — including pointing rifles at demonstrators and deploying chemical irritants — actions the government says are necessary to protect officers from violent attacks and growing protests.",
+      "lang": "en",
+      "title_en": "As immigration agents police Minneapolis protests, experts warn of training gaps and the rising risk",
+      "summary_en": "Federal immigration agents deployed to Minneapolis have used aggressive crowd-control tactics — including pointing rifles at demonstrators and deploying chemical irritants — actions the government says are necessary to protect officers from violent attacks and growing protests.",
+      "title": "As immigration agents police Minneapolis protests, experts warn of training gaps and the rising risk",
+      "summary": "Federal immigration agents deployed to Minneapolis have used aggressive crowd-control tactics — including pointing rifles at demonstrators and deploying chemical irritants — actions the government says are necessary to protect officers from violent attacks and growing protests.",
+      "url": "https://www.seattletimes.com/nation-world/nation/as-immigration-agents-police-minneapolis-protests-experts-warn-of-training-gaps-and-the-rising-risk/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-15T20:28:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a08bdd8f2fc4abda",
+      "title_orig": "The Latest: UN Security Council to discuss Iran’s deadly protests after US request",
+      "summary_orig": "The U.N. Security Council scheduled an emergency meeting Thursday to discuss Iran’s deadly protests at the request of the United…",
+      "lang": "en",
+      "title_en": "The Latest: UN Security Council to discuss Iran’s deadly protests after US request",
+      "summary_en": "The U.N. Security Council scheduled an emergency meeting Thursday to discuss Iran’s deadly protests at the request of the United…",
+      "title": "The Latest: UN Security Council to discuss Iran’s deadly protests after US request",
+      "summary": "The U.N. Security Council scheduled an emergency meeting Thursday to discuss Iran’s deadly protests at the request of the United…",
+      "url": "https://wtop.com/national/2026/01/the-latest-un-security-council-to-discuss-irans-deadly-protests-after-us-request/",
+      "source": "WTOP News",
+      "published_at": "2026-01-15T20:27:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "dcd0616f3c42b5be",
+      "title_orig": "Robert Jenrick attacks Tories as he joins Reform after sacking over 'secret' defection plot",
+      "summary_orig": "Nigel Farage unveils former Tory leadership hopeful as new member of Reform in highest profile defection yet to his party",
+      "lang": "en",
+      "title_en": "Robert Jenrick attacks Tories as he joins Reform after sacking over 'secret' defection plot",
+      "summary_en": "Nigel Farage unveils former Tory leadership hopeful as new member of Reform in highest profile defection yet to his party",
+      "title": "Robert Jenrick attacks Tories as he joins Reform after sacking over 'secret' defection plot",
+      "summary": "Nigel Farage unveils former Tory leadership hopeful as new member of Reform in highest profile defection yet to his party",
+      "url": "https://www.standard.co.uk/news/politics/kemi-badenoch-sacks-robert-jenrick-reform-defection-plot-b1266622.html",
+      "source": "The Standard News",
+      "published_at": "2026-01-15T20:23:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "59986d321b99c836",
+      "title_orig": "Uganda’s Election Goes Ahead, Despite Major Delays at the Polls",
+      "summary_orig": "Technical failures at polling places caused major disruptions, and the opposition has warned of protests and government vote rigging.",
+      "lang": "en",
+      "title_en": "Uganda’s Election Goes Ahead, Despite Major Delays at the Polls",
+      "summary_en": "Technical failures at polling places caused major disruptions, and the opposition has warned of protests and government vote rigging.",
+      "title": "Uganda’s Election Goes Ahead, Despite Major Delays at the Polls",
+      "summary": "Technical failures at polling places caused major disruptions, and the opposition has warned of protests and government vote rigging.",
+      "url": "https://www.nytimes.com/2026/01/15/world/africa/uganda-election-museveni.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-15T20:20:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "b9efdb36996bfadd",
+      "title_orig": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
+      "summary_orig": "Multiple sources have told BBC Persian that security forces will not release bodies unless relatives hand over money.",
+      "lang": "en",
+      "title_en": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
+      "summary_en": "Multiple sources have told BBC Persian that security forces will not release bodies unless relatives hand over money.",
+      "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
+      "summary": "Multiple sources have told BBC Persian that security forces will not release bodies unless relatives hand over money.",
+      "url": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-01-15T20:19:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7cfdafc1edd77807",
+      "title_orig": "Minnesota governor calls on Trump to ‘turn the temperature down’; teargas used on Minneapolis protesters – live",
+      "summary_orig": "Tim Walz urges US president to ‘stop this campaign of retribution’, hours before agents use teargas to disperse protesters outside federal building Trump threatens to use Insurrection Act in Minnesota People affected by the US visa freeze: share your experience Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
+      "lang": "en",
+      "title_en": "Minnesota governor calls on Trump to ‘turn the temperature down’; teargas used on Minneapolis protesters – live",
+      "summary_en": "Tim Walz urges US president to ‘stop this campaign of retribution’, hours before agents use teargas to disperse protesters outside federal building Trump threatens to use Insurrection Act in Minnesota People affected by the US visa freeze: share your experience Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
+      "title": "Minnesota governor calls on Trump to ‘turn the temperature down’; teargas used on Minneapolis protesters – live",
+      "summary": "Tim Walz urges US president to ‘stop this campaign of retribution’, hours before agents use teargas to disperse protesters outside federal building Trump threatens to use Insurrection Act in Minnesota People affected by the US visa freeze: share your experience Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/15/us-politics-latest-news-updates-donald-trump-venezuela-maria-corina-machado",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-15T20:13:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "bdd31ee287fc9c08",
+      "title_orig": "Trump threatens to invoke rare 1807 law in Minnesota as Stephen Miller calls protestors ‘insurrectionists’: Live updates",
+      "summary_orig": "Venezuelan opposition leader Maria Corina Machado greeted supporters outside Capitol Hill after having lunch with Trump",
+      "lang": "en",
+      "title_en": "Trump threatens to invoke rare 1807 law in Minnesota as Stephen Miller calls protestors ‘insurrectionists’: Live updates",
+      "summary_en": "Venezuelan opposition leader Maria Corina Machado greeted supporters outside Capitol Hill after having lunch with Trump",
+      "title": "Trump threatens to invoke rare 1807 law in Minnesota as Stephen Miller calls protestors ‘insurrectionists’: Live updates",
+      "summary": "Venezuelan opposition leader Maria Corina Machado greeted supporters outside Capitol Hill after having lunch with Trump",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-white-house-live-updates-b2901214.html",
+      "source": "The Independent World",
+      "published_at": "2026-01-15T20:12:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "e072ee1876856c72",
       "title_orig": "Ontario man accused of assaulting someone for ice fishing too close: police",
@@ -71,24 +341,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3067884e0577b7fc",
-      "title_orig": "Australia news live: court challenge over Melbourne stop-and-search powers continues",
-      "summary_orig": "Victoria police to be cross-examined in court action by human rights group. Follow updates live Get our breaking news email , free app or daily news podcast The assistant commissioner for Victoria police is set to be cross-examined in federal court this morning as a constitutional challenge by a trio of activists looks at whether a declaration of Melbourne’s CBD as a designated area for four months was legal. It is the second day of a two-day hearing. Constitutional arguments were laid out by counsel from both sides yesterday, focusing on how the implied freedom of political communication can be interpreted by police; and whether a protester wearing face-coverings should be considered a form of “political expression” or if they may be concealing their identity to commit a crime. Continue reading...",
-      "lang": "en",
-      "title_en": "Australia news live: court challenge over Melbourne stop-and-search powers continues",
-      "summary_en": "Victoria police to be cross-examined in court action by human rights group. Follow updates live Get our breaking news email , free app or daily news podcast The assistant commissioner for Victoria police is set to be cross-examined in federal court this morning as a constitutional challenge by a trio of activists looks at whether a declaration of Melbourne’s CBD as a designated area for four months was legal. It is the second day of a two-day hearing. Constitutional arguments were laid out by counsel from both sides yesterday, focusing on how the implied freedom of political communication can be interpreted by police; and whether a protester wearing face-coverings should be considered a form of “political expression” or if they may be concealing their identity to commit a crime. Continue reading...",
-      "title": "Australia news live: court challenge over Melbourne stop-and-search powers continues",
-      "summary": "Victoria police to be cross-examined in court action by human rights group. Follow updates live Get our breaking news email , free app or daily news podcast The assistant commissioner for Victoria police is set to be cross-examined in federal court this morning as a constitutional challenge by a trio of activists looks at whether a declaration of Melbourne’s CBD as a designated area for four months was legal. It is the second day of a two-day hearing. Constitutional arguments were laid out by counsel from both sides yesterday, focusing on how the implied freedom of political communication can be interpreted by police; and whether a protester wearing face-coverings should be considered a form of “political expression” or if they may be concealing their identity to commit a crime. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/16/hate-speech-legislation-political-reaction-anthony-albanese-labor-sussan-ley-coalition-greens-adelaide-festival-writers-week-backlash-sydney-protest-ban-ntwnfb",
-      "source": "World news | The Guardian",
-      "published_at": "2026-01-15T19:58:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -274,12 +526,12 @@
     {
       "id": "ed631a4212975cee",
       "title_orig": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
-      "summary_orig": "Protests continue across state as governor urges peace a week after ICE agent shot and killed Renee Good Donald Trump has threatened to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social, Trump said he would use the Insurrection Act and “quickly put an end to the travesty that is taking place” if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
+      "summary_orig": "Protests continue across state as governor urges peace a week after ICE agent shot and killed Renee Good People affected by the US visa freeze: share your experience Donald Trump has threatened to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social, Trump said he would use the Insurrection Act and “quickly put an end to the travesty that is taking place” if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
       "lang": "en",
       "title_en": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
-      "summary_en": "Protests continue across state as governor urges peace a week after ICE agent shot and killed Renee Good Donald Trump has threatened to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social, Trump said he would use the Insurrection Act and “quickly put an end to the travesty that is taking place” if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
+      "summary_en": "Protests continue across state as governor urges peace a week after ICE agent shot and killed Renee Good People affected by the US visa freeze: share your experience Donald Trump has threatened to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social, Trump said he would use the Insurrection Act and “quickly put an end to the travesty that is taking place” if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
       "title": "Trump threatens to use Insurrection Act in Minnesota in response to ICE protests",
-      "summary": "Protests continue across state as governor urges peace a week after ICE agent shot and killed Renee Good Donald Trump has threatened to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social, Trump said he would use the Insurrection Act and “quickly put an end to the travesty that is taking place” if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
+      "summary": "Protests continue across state as governor urges peace a week after ICE agent shot and killed Renee Good People affected by the US visa freeze: share your experience Donald Trump has threatened to invoke the Insurrection Act in Minnesota in response to protests in Minneapolis against federal immigration enforcement operations, as Minnesota’s governor, Tim Walz, overnight urged demonstrators in Minneapolis to be peaceful amid escalating tensions. In a post on Truth Social, Trump said he would use the Insurrection Act and “quickly put an end to the travesty that is taking place” if the “corrupt politicians of Minnesota don’t obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of ICE”. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/jan/15/trump-insurrection-act-minnesota-ice-protests",
       "source": "World news | The Guardian",
       "published_at": "2026-01-15T19:26:47+00:00",
@@ -722,24 +974,6 @@
       "geo": {}
     },
     {
-      "id": "d7d0183667b9bc06",
-      "title_orig": "Robert Jenrick attacks Tories as ‘failed’ party as he defects to Reform",
-      "summary_orig": "It comes after the Newark MP was sacked from the Tory frontbench by Kemi Badenoch.",
-      "lang": "en",
-      "title_en": "Robert Jenrick attacks Tories as ‘failed’ party as he defects to Reform",
-      "summary_en": "It comes after the Newark MP was sacked from the Tory frontbench by Kemi Badenoch.",
-      "title": "Robert Jenrick attacks Tories as ‘failed’ party as he defects to Reform",
-      "summary": "It comes after the Newark MP was sacked from the Tory frontbench by Kemi Badenoch.",
-      "url": "https://www.standard.co.uk/news/politics/robert-jenrick-tories-kemi-badenoch-nigel-farage-reform-uk-b1266723.html",
-      "source": "The Standard News",
-      "published_at": "2026-01-15T18:37:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "64a9401b814bfe61",
       "title_orig": "Trump ramps up threats against Minnesota protestors and mulls invoking centuries-old Insurrection Act",
       "summary_orig": "The Act has not been invoked since the 1992 LA riots in California.",
@@ -1107,6 +1341,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ca08b2952dd55050",
+      "title_orig": "Gulf states and Turkey warned Trump strikes on Iran could lead to major conflict",
+      "summary_orig": "US allies’ lobbying appears to have helped persuade president to hold off for now on military assault Saudi Arabia, Qatar, Turkey and Oman urged Donald Trump not to launch airstrikes against Iran in a last-minute lobbying campaign prompted by fears that an attack by Washington would lead to a major and intractable conflict across the Middle East. The warnings of chaos from the longstanding US allies appear to have helped persuade Trump late on Wednesday to hold off for the moment on a military assault. In the case of Saudi Arabia, its reticence led it to deny the US use of its airspace to mount any attacks. Continue reading...",
+      "lang": "en",
+      "title_en": "Gulf states and Turkey warned Trump strikes on Iran could lead to major conflict",
+      "summary_en": "US allies’ lobbying appears to have helped persuade president to hold off for now on military assault Saudi Arabia, Qatar, Turkey and Oman urged Donald Trump not to launch airstrikes against Iran in a last-minute lobbying campaign prompted by fears that an attack by Washington would lead to a major and intractable conflict across the Middle East. The warnings of chaos from the longstanding US allies appear to have helped persuade Trump late on Wednesday to hold off for the moment on a military assault. In the case of Saudi Arabia, its reticence led it to deny the US use of its airspace to mount any attacks. Continue reading...",
+      "title": "Gulf states and Turkey warned Trump strikes on Iran could lead to major conflict",
+      "summary": "US allies’ lobbying appears to have helped persuade president to hold off for now on military assault Saudi Arabia, Qatar, Turkey and Oman urged Donald Trump not to launch airstrikes against Iran in a last-minute lobbying campaign prompted by fears that an attack by Washington would lead to a major and intractable conflict across the Middle East. The warnings of chaos from the longstanding US allies appear to have helped persuade Trump late on Wednesday to hold off for the moment on a military assault. In the case of Saudi Arabia, its reticence led it to deny the US use of its airspace to mount any attacks. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jan/15/gulf-states-and-turkey-urged-trump-not-to-launch-strikes-against-iran",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-15T17:39:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1877,12 +2129,12 @@
     {
       "id": "171f9d1b605e0b81",
       "title_orig": "ATR sees strong U.S. market potential as JSX showcases ATR 42-600",
-      "summary_orig": "Joining JSX this week to celebrate the US public charter carrier’s first 30-seat ATR 42-600, which has plied the Santa Monica-Las Vegas route since December, ATR doubled down on its message that the U.S. market holds “strong potential” for the turboprop. “T]he retirement of aging 50-seat regional jets is creating a connectivity gap that turboprops... The post ATR sees strong U.S. market potential as JSX showcases ATR 42-600 appeared first on Runway Girl .",
+      "summary_orig": "Joining JSX this week in Santa Monica to celebrate the US public charter carrier’s first 30-seat ATR 42-600, ATR doubled down on its message that the U.S. market holds “strong potential” for turboprops. “T]he retirement of aging 50-seat regional jets is creating a connectivity gap that turboprops are uniquely positioned to fill, offering airlines an... The post ATR sees strong U.S. market potential as JSX showcases ATR 42-600 appeared first on Runway Girl .",
       "lang": "en",
       "title_en": "ATR sees strong U.S. market potential as JSX showcases ATR 42-600",
-      "summary_en": "Joining JSX this week to celebrate the US public charter carrier’s first 30-seat ATR 42-600, which has plied the Santa Monica-Las Vegas route since December, ATR doubled down on its message that the U.S. market holds “strong potential” for the turboprop. “T]he retirement of aging 50-seat regional jets is creating a connectivity gap that turboprops... The post ATR sees strong U.S. market potential as JSX showcases ATR 42-600 appeared first on Runway Girl .",
+      "summary_en": "Joining JSX this week in Santa Monica to celebrate the US public charter carrier’s first 30-seat ATR 42-600, ATR doubled down on its message that the U.S. market holds “strong potential” for turboprops. “T]he retirement of aging 50-seat regional jets is creating a connectivity gap that turboprops are uniquely positioned to fill, offering airlines an... The post ATR sees strong U.S. market potential as JSX showcases ATR 42-600 appeared first on Runway Girl .",
       "title": "ATR sees strong U.S. market potential as JSX showcases ATR 42-600",
-      "summary": "Joining JSX this week to celebrate the US public charter carrier’s first 30-seat ATR 42-600, which has plied the Santa Monica-Las Vegas route since December, ATR doubled down on its message that the U.S. market holds “strong potential” for the turboprop. “T]he retirement of aging 50-seat regional jets is creating a connectivity gap that turboprops... The post ATR sees strong U.S. market potential as JSX showcases ATR 42-600 appeared first on Runway Girl .",
+      "summary": "Joining JSX this week in Santa Monica to celebrate the US public charter carrier’s first 30-seat ATR 42-600, ATR doubled down on its message that the U.S. market holds “strong potential” for turboprops. “T]he retirement of aging 50-seat regional jets is creating a connectivity gap that turboprops are uniquely positioned to fill, offering airlines an... The post ATR sees strong U.S. market potential as JSX showcases ATR 42-600 appeared first on Runway Girl .",
       "url": "https://runwaygirlnetwork.com/2026/01/atr-sees-strong-u-s-market-potential-as-jsx-showcases-atr-42-600/",
       "source": "Runway Girl",
       "published_at": "2026-01-15T15:31:42+00:00",
@@ -2073,24 +2325,6 @@
       "geo": {}
     },
     {
-      "id": "482bbef80494f4b3",
-      "title_orig": "More than 100 asylum seekers stage ‘one in, one out’ protests at detention centres",
-      "summary_orig": "Officers with riot shields, dogs and teargas called in to quell action at Harmondsworth and Brook House facilities More than 100 asylum seekers held at two immigration detention centres have staged overnight protests against the UK’s controversial “one in, one out” scheme with France. Officers with riot shields, dogs and teargas arrived to quell the protests. Continue reading...",
-      "lang": "en",
-      "title_en": "More than 100 asylum seekers stage ‘one in, one out’ protests at detention centres",
-      "summary_en": "Officers with riot shields, dogs and teargas called in to quell action at Harmondsworth and Brook House facilities More than 100 asylum seekers held at two immigration detention centres have staged overnight protests against the UK’s controversial “one in, one out” scheme with France. Officers with riot shields, dogs and teargas arrived to quell the protests. Continue reading...",
-      "title": "More than 100 asylum seekers stage ‘one in, one out’ protests at detention centres",
-      "summary": "Officers with riot shields, dogs and teargas called in to quell action at Harmondsworth and Brook House facilities More than 100 asylum seekers held at two immigration detention centres have staged overnight protests against the UK’s controversial “one in, one out” scheme with France. Officers with riot shields, dogs and teargas arrived to quell the protests. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/jan/15/asylum-seekers-one-in-one-out-protest-immigration-detention-centres",
-      "source": "UK news | The Guardian",
-      "published_at": "2026-01-15T14:51:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "d2c03ea4d72bc4ce",
       "title_orig": "Israeli military attacks villages in Lebanon’s Bekaa Valley",
       "summary_orig": "Tensions are rising as Israel's army carries out near-daily attacks on Lebanon in violation of 2024 Hezbollah ceasefire.",
@@ -2174,24 +2408,6 @@
       "url": "https://www.devonlive.com/news/thousands-unable-return-home-ww2-10757709",
       "source": "Devon Live - frontpage",
       "published_at": "2026-01-15T14:38:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4a288c15ced59c2e",
-      "title_orig": "Trump threatens to ‘put an end’ to protests in Minneapolis",
-      "summary_orig": "He's threatened to invoke the Insurrection Act, allowing him to deploy troops.",
-      "lang": "en",
-      "title_en": "Trump threatens to ‘put an end’ to protests in Minneapolis",
-      "summary_en": "He's threatened to invoke the Insurrection Act, allowing him to deploy troops.",
-      "title": "Trump threatens to ‘put an end’ to protests in Minneapolis",
-      "summary": "He's threatened to invoke the Insurrection Act, allowing him to deploy troops.",
-      "url": "https://www.pennlive.com/nation-world/2026/01/trump-threatens-to-put-an-end-to-protests-in-minneapolis.html",
-      "source": "pennlive.com",
-      "published_at": "2026-01-15T14:30:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2956,31 +3172,13 @@
       "geo": {}
     },
     {
-      "id": "888c4684b9bd7daf",
-      "title_orig": "No selfies, please: Dolomites push back against overtourism ahead of Winter Olympics",
-      "summary_orig": "Overcrowding has led to erosion of trails and increased littering, with residents protesting.",
-      "lang": "en",
-      "title_en": "No selfies, please: Dolomites push back against overtourism ahead of Winter Olympics",
-      "summary_en": "Overcrowding has led to erosion of trails and increased littering, with residents protesting.",
-      "title": "No selfies, please: Dolomites push back against overtourism ahead of Winter Olympics",
-      "summary": "Overcrowding has led to erosion of trails and increased littering, with residents protesting.",
-      "url": "https://www.straitstimes.com/world/europe/no-selfies-please-dolomites-push-back-against-overtourism-ahead-of-games",
-      "source": "The Straits Times World News",
-      "published_at": "2026-01-15T10:40:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5cebf7f15ec03c5b",
-      "title_orig": "Astronauts return to Earth after first ever medical evacuation from space station",
+      "title_orig": "Watch: Astronauts return to Earth after medical evacuation",
       "summary_orig": "Four astronauts who left the International Space Station (ISS) a month early due to one of the crew members falling ill have returned to Earth on Thursday.",
       "lang": "en",
-      "title_en": "Astronauts return to Earth after first ever medical evacuation from space station",
+      "title_en": "Watch: Astronauts return to Earth after medical evacuation",
       "summary_en": "Four astronauts who left the International Space Station (ISS) a month early due to one of the crew members falling ill have returned to Earth on Thursday.",
-      "title": "Astronauts return to Earth after first ever medical evacuation from space station",
+      "title": "Watch: Astronauts return to Earth after medical evacuation",
       "summary": "Four astronauts who left the International Space Station (ISS) a month early due to one of the crew members falling ill have returned to Earth on Thursday.",
       "url": "https://www.bbc.com/news/videos/c89q0y5xd79o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -3262,24 +3460,6 @@
       "geo": {}
     },
     {
-      "id": "b573f04c5b665fca",
-      "title_orig": "Astronauts return to Earth in NASA’s first medical evacuation",
-      "summary_orig": "A capsule carrying four International Space Station crew members has splashed down in the Pacific, bringing their mission to an end more than a month early.",
-      "lang": "en",
-      "title_en": "Astronauts return to Earth in NASA’s first medical evacuation",
-      "summary_en": "A capsule carrying four International Space Station crew members has splashed down in the Pacific, bringing their mission to an end more than a month early.",
-      "title": "Astronauts return to Earth in NASA’s first medical evacuation",
-      "summary": "A capsule carrying four International Space Station crew members has splashed down in the Pacific, bringing their mission to an end more than a month early.",
-      "url": "https://www.abc.net.au/news/2026-01-15/four-astronauts-splashdown-to-earth-after-medical-evacuation/106234844",
-      "source": "Just In",
-      "published_at": "2026-01-15T08:49:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3c316d5d3161c6f6",
       "title_orig": "The 9 at 9: Thursday",
       "summary_orig": "X restricts Grok’s photo editing after backlash, fresh protests in Minneapolis and report finds Irish public overestimates immigration levels.",
@@ -3469,24 +3649,6 @@
       "geo": {}
     },
     {
-      "id": "9ce574ff8116bdb9",
-      "title_orig": "Anti-ICE demonstrator blinded by federal agent in Santa Ana speaks out",
-      "summary_orig": "A demonstrator blinded by a less lethal munition during an anti-ICE protest outside the federal building in Santa Ana late last week is speaking out about the harrowing ordeal.   Kaden Rummler, 21, a self-described leftist and member of an activist group called “Dare to Struggle,” was participating in the Jan. 9 protest sparked by the fatal shooting of Renee Good in Minneapolis at the hands of [...]",
-      "lang": "en",
-      "title_en": "Anti-ICE demonstrator blinded by federal agent in Santa Ana speaks out",
-      "summary_en": "A demonstrator blinded by a less lethal munition during an anti-ICE protest outside the federal building in Santa Ana late last week is speaking out about the harrowing ordeal.   Kaden Rummler, 21, a self-described leftist and member of an activist group called “Dare to Struggle,” was participating in the Jan. 9 protest sparked by the fatal shooting of Renee Good in Minneapolis at the hands of [...]",
-      "title": "Anti-ICE demonstrator blinded by federal agent in Santa Ana speaks out",
-      "summary": "A demonstrator blinded by a less lethal munition during an anti-ICE protest outside the federal building in Santa Ana late last week is speaking out about the harrowing ordeal.   Kaden Rummler, 21, a self-described leftist and member of an activist group called “Dare to Struggle,” was participating in the Jan. 9 protest sparked by the fatal shooting of Renee Good in Minneapolis at the hands of [...]",
-      "url": "https://ktla.com/news/local-news/anti-ice-demonstrator-blinded-by-federal-agent-in-santa-ana-protest-speaks-out/",
-      "source": "KTLA",
-      "published_at": "2026-01-15T07:06:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7c277184eec538b5",
       "title_orig": "Edinburgh 'gangland war' boss Ross McGill has summit with mobster to plan new attacks",
       "summary_orig": "An underworld source revealed the pair had a long conversation on the phone to discuss the way forward.",
@@ -3643,24 +3805,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-zelensky-state-of-emergency-b2900881.html",
       "source": "The Independent World",
       "published_at": "2026-01-15T04:59:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "68558891c4842d30",
-      "title_orig": "Federal officer shoots person in leg after being attacked during Minneapolis arrest, officials say",
-      "summary_orig": "MINNEAPOLIS (AP) — A federal officer shot a man in the leg in Minneapolis after being attacked with a shovel and broom handle while trying to make an arrest Wednesday, officials said. Smoke filled the street near the site of the shooting as federal officers and protesters squared off. A group of officers wearing gas [...]",
-      "lang": "en",
-      "title_en": "Federal officer shoots person in leg after being attacked during Minneapolis arrest, officials say",
-      "summary_en": "MINNEAPOLIS (AP) — A federal officer shot a man in the leg in Minneapolis after being attacked with a shovel and broom handle while trying to make an arrest Wednesday, officials said. Smoke filled the street near the site of the shooting as federal officers and protesters squared off. A group of officers wearing gas [...]",
-      "title": "Federal officer shoots person in leg after being attacked during Minneapolis arrest, officials say",
-      "summary": "MINNEAPOLIS (AP) — A federal officer shot a man in the leg in Minneapolis after being attacked with a shovel and broom handle while trying to make an arrest Wednesday, officials said. Smoke filled the street near the site of the shooting as federal officers and protesters squared off. A group of officers wearing gas [...]",
-      "url": "https://www.kxan.com/news/national-news/ap-no-immediate-judicial-decision-on-a-request-to-stop-the-immigration-crackdown-in-minnesota/",
-      "source": "KXAN Austin",
-      "published_at": "2026-01-15T04:05:41+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3931,24 +4075,6 @@
       "url": "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/martin-oneill-gives-frank-verdict-on-celtic-as-new-striker-target-enters-frame-5476021",
       "source": "The Scotsman",
       "published_at": "2026-01-14T23:12:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4e0f92e6886f29b2",
-      "title_orig": "Execution of protestor postponed as Iran accused of mass killings on 'unprecedented scale'",
-      "summary_orig": "Amnesty International accused Iranian authorities of committing mass unlawful killings “on an unprecedented scale,” citing verified videos and eyewitness accounts",
-      "lang": "en",
-      "title_en": "Execution of protestor postponed as Iran accused of mass killings on 'unprecedented scale'",
-      "summary_en": "Amnesty International accused Iranian authorities of committing mass unlawful killings “on an unprecedented scale,” citing verified videos and eyewitness accounts",
-      "title": "Execution of protestor postponed as Iran accused of mass killings on 'unprecedented scale'",
-      "summary": "Amnesty International accused Iranian authorities of committing mass unlawful killings “on an unprecedented scale,” citing verified videos and eyewitness accounts",
-      "url": "https://www.thejournal.ie/execution-of-protestor-postponed-as-amnesty-accuses-iran-of-unprecedented-level-of-brutality-6927170-Jan2026/",
-      "source": "TheJournal.ie",
-      "published_at": "2026-01-14T23:07:47+00:00",
       "tags": [
         "airport/security"
       ],
