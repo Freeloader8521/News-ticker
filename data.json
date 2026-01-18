@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-01-18T19:41:38.137410+00:00",
+  "generated_at": "2026-01-18T20:21:47.280588+00:00",
   "items": [
+    {
+      "id": "0d107204c84d1187",
+      "title_orig": "Live: Parliament returns to pay tribute to victims of Bondi terror attack",
+      "summary_orig": "Parliament has returned ahead of schedule to honour the victims of the Bondi terror attack. Follow live.",
+      "lang": "en",
+      "title_en": "Live: Parliament returns to pay tribute to victims of Bondi terror attack",
+      "summary_en": "Parliament has returned ahead of schedule to honour the victims of the Bondi terror attack. Follow live.",
+      "title": "Live: Parliament returns to pay tribute to victims of Bondi terror attack",
+      "summary": "Parliament has returned ahead of schedule to honour the victims of the Bondi terror attack. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-01-19/federal-politics-live-blog-jan-19/106243354",
+      "source": "Just In",
+      "published_at": "2026-01-18T20:02:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b3e7de062c82dd43",
+      "title_orig": "Pentagon could deploy troops to Minnesota protests, US officials say",
+      "summary_orig": "The possible deployment comes after US President Donald Trump threatened to invoke the Insurrection Act to quell anti-ICE protests in the state.",
+      "lang": "en",
+      "title_en": "Pentagon could deploy troops to Minnesota protests, US officials say",
+      "summary_en": "The possible deployment comes after US President Donald Trump threatened to invoke the Insurrection Act to quell anti-ICE protests in the state.",
+      "title": "Pentagon could deploy troops to Minnesota protests, US officials say",
+      "summary": "The possible deployment comes after US President Donald Trump threatened to invoke the Insurrection Act to quell anti-ICE protests in the state.",
+      "url": "https://www.abc.net.au/news/2026-01-19/pentagon-readies-troops-for-minnesota-deployment/106243210",
+      "source": "Just In",
+      "published_at": "2026-01-18T19:43:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a1fc1b5e700611f7",
+      "title_orig": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
+      "summary_orig": "“There is massive disappointment and disillusionment,” one Tehran resident said. A human rights group acknowledged that demonstrations had been subdued since Sunday, with thousands of people detained.",
+      "lang": "en",
+      "title_en": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
+      "summary_en": "“There is massive disappointment and disillusionment,” one Tehran resident said. A human rights group acknowledged that demonstrations had been subdued since Sunday, with thousands of people detained.",
+      "title": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
+      "summary": "“There is massive disappointment and disillusionment,” one Tehran resident said. A human rights group acknowledged that demonstrations had been subdued since Sunday, with thousands of people detained.",
+      "url": "https://www.nytimes.com/2026/01/16/world/middleeast/iran-protests-deadly-crackdown.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-18T19:39:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f3efe335a26969df",
+      "title_orig": "Guatemalan police free hostages in prison as attacks kill 3 officers",
+      "summary_orig": "ESCUINTLA, Guatemala (AP) — Hundreds of anti-riot police entered a maximum security prison in Guatemala early Sunday to free guards…",
+      "lang": "en",
+      "title_en": "Guatemalan police free hostages in prison as attacks kill 3 officers",
+      "summary_en": "ESCUINTLA, Guatemala (AP) — Hundreds of anti-riot police entered a maximum security prison in Guatemala early Sunday to free guards…",
+      "title": "Guatemalan police free hostages in prison as attacks kill 3 officers",
+      "summary": "ESCUINTLA, Guatemala (AP) — Hundreds of anti-riot police entered a maximum security prison in Guatemala early Sunday to free guards…",
+      "url": "https://wtop.com/world/2026/01/guatemalan-police-free-hostages-in-a-maximum-security-prison/",
+      "source": "WTOP News",
+      "published_at": "2026-01-18T19:36:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "5984e2250c70c89f",
       "title_orig": "$1 Million A Day: TSA Flags Suspicious Cash Outflow At Minneapolis–St. Paul Airport",
@@ -21,12 +93,12 @@
     },
     {
       "id": "7efadccede8bc4dd",
-      "title_orig": "Parents of Bondi attack youngest victim pay tribute to her sister's saviour",
+      "title_orig": "Matilda's parents pay tribute to woman who saved her sister during Bondi attack",
       "summary_orig": "The parents of 10-year-old Matilda, the youngest victim of the Bondi terror attack, recall the final moments leading up to shooting, paying tribute to the woman who saved their younger daughter.",
       "lang": "en",
-      "title_en": "Parents of Bondi attack youngest victim pay tribute to her sister's saviour",
+      "title_en": "Matilda's parents pay tribute to woman who saved her sister during Bondi attack",
       "summary_en": "The parents of 10-year-old Matilda, the youngest victim of the Bondi terror attack, recall the final moments leading up to shooting, paying tribute to the woman who saved their younger daughter.",
-      "title": "Parents of Bondi attack youngest victim pay tribute to her sister's saviour",
+      "title": "Matilda's parents pay tribute to woman who saved her sister during Bondi attack",
       "summary": "The parents of 10-year-old Matilda, the youngest victim of the Bondi terror attack, recall the final moments leading up to shooting, paying tribute to the woman who saved their younger daughter.",
       "url": "https://www.abc.net.au/news/2026-01-19/parents-bondi-terror-attack-youngest-victim-matilda-speak-out/106240460",
       "source": "Just In",
@@ -84,24 +156,6 @@
       "summary": "DUBAI, United Arab Emirates (AP) — A U.S.-based activist agency said Sunday it has verified at least 3,766 deaths during a wave of protests that swept Iran and led to a bloody crackdown, and fears the number could be significantly higher. The Human Rights Activists News Agency posted the revised figure, up from the previous [...]",
       "url": "https://ktla.com/news/nationworld/ap-us-based-activist-agency-says-it-has-verified-3766-deaths-from-iran-protests/",
       "source": "KTLA",
-      "published_at": "2026-01-18T19:09:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "259f6e11e07565ce",
-      "title_orig": "US-based activist agency says it has verified 3,766 deaths from Iran protests",
-      "summary_orig": "DUBAI, United Arab Emirates (AP) — A U.S.-based activist agency said Sunday it has verified at least 3,766 deaths during…",
-      "lang": "en",
-      "title_en": "US-based activist agency says it has verified 3,766 deaths from Iran protests",
-      "summary_en": "DUBAI, United Arab Emirates (AP) — A U.S.-based activist agency said Sunday it has verified at least 3,766 deaths during…",
-      "title": "US-based activist agency says it has verified 3,766 deaths from Iran protests",
-      "summary": "DUBAI, United Arab Emirates (AP) — A U.S.-based activist agency said Sunday it has verified at least 3,766 deaths during…",
-      "url": "https://wtop.com/world/2026/01/us-based-activist-agency-says-it-has-verified-3766-deaths-from-iran-protests/",
-      "source": "WTOP News",
       "published_at": "2026-01-18T19:09:36+00:00",
       "tags": [
         "airport/security"
@@ -233,24 +287,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a1fc1b5e700611f7",
-      "title_orig": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
-      "summary_orig": "“There is massive disappointment and disillusionment,” one Tehran resident said. A human rights group acknowledged that demonstrations had been subdued since Sunday, with thousands of people detained.",
-      "lang": "en",
-      "title_en": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
-      "summary_en": "“There is massive disappointment and disillusionment,” one Tehran resident said. A human rights group acknowledged that demonstrations had been subdued since Sunday, with thousands of people detained.",
-      "title": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
-      "summary": "“There is massive disappointment and disillusionment,” one Tehran resident said. A human rights group acknowledged that demonstrations had been subdued since Sunday, with thousands of people detained.",
-      "url": "https://www.nytimes.com/2026/01/16/world/middleeast/iran-protests-deadly-crackdown.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-18T18:05:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1280,24 +1316,6 @@
       "geo": {}
     },
     {
-      "id": "493831b3a70284ed",
-      "title_orig": "Brown: Our weary state must find shared reality amid chaos and fear",
-      "summary_orig": "The 1916 miners’ strike showed the depths of division a community can sink to — and yet recover.",
-      "lang": "en",
-      "title_en": "Brown: Our weary state must find shared reality amid chaos and fear",
-      "summary_en": "The 1916 miners’ strike showed the depths of division a community can sink to — and yet recover.",
-      "title": "Brown: Our weary state must find shared reality amid chaos and fear",
-      "summary": "The 1916 miners’ strike showed the depths of division a community can sink to — and yet recover.",
-      "url": "https://www.startribune.com/minneapolis-ice-surge-greater-minnesota/601565114",
-      "source": "Startribune News",
-      "published_at": "2026-01-18T10:59:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2a74b52b9c5592c9",
       "title_orig": "Al Jazeera reports from Greenland’s capital as thousands protest US threats",
       "summary_orig": "Thousands of Greenlanders have protested US President Donald Trump’s repeated threats to seize control of their homeland",
@@ -1421,24 +1439,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "db0530438c68a127",
-      "title_orig": "Two killed, dozens wounded in large Russian drone attacks across Ukraine",
-      "summary_orig": "More than 200,000 people in the Russian-occupied part of Zaporizhia are without power after a Ukrainian strike.",
-      "lang": "en",
-      "title_en": "Two killed, dozens wounded in large Russian drone attacks across Ukraine",
-      "summary_en": "More than 200,000 people in the Russian-occupied part of Zaporizhia are without power after a Ukrainian strike.",
-      "title": "Two killed, dozens wounded in large Russian drone attacks across Ukraine",
-      "summary": "More than 200,000 people in the Russian-occupied part of Zaporizhia are without power after a Ukrainian strike.",
-      "url": "https://www.aljazeera.com/news/2026/1/18/two-killed-dozens-wounded-in-large-russian-drone-attacks-across-ukraine?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-01-18T09:49:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3020,6 +3020,24 @@
       "geo": {}
     },
     {
+      "id": "2cf595e87598abc1",
+      "title_orig": "Press Release: Eutelsat taps MaiaSpace for future LEO satellite launches",
+      "summary_orig": "Eutelsat and MaiaSpace have signed a multi-launch agreement for the future launch of LEO satellites, starting in 2027. The agreement adds to Eutelsat’s options for access to space, providing additional assurance of operational continuity for customers of its OneWeb constellation. Founded in April 2022, MaiaSpace designs, manufactures, commercializes, and operates the first reusable and eco-designed... The post Press Release: Eutelsat taps MaiaSpace for future LEO satellite launches appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "Press Release: Eutelsat taps MaiaSpace for future LEO satellite launches",
+      "summary_en": "Eutelsat and MaiaSpace have signed a multi-launch agreement for the future launch of LEO satellites, starting in 2027. The agreement adds to Eutelsat’s options for access to space, providing additional assurance of operational continuity for customers of its OneWeb constellation. Founded in April 2022, MaiaSpace designs, manufactures, commercializes, and operates the first reusable and eco-designed... The post Press Release: Eutelsat taps MaiaSpace for future LEO satellite launches appeared first on Runway Girl .",
+      "title": "Press Release: Eutelsat taps MaiaSpace for future LEO satellite launches",
+      "summary": "Eutelsat and MaiaSpace have signed a multi-launch agreement for the future launch of LEO satellites, starting in 2027. The agreement adds to Eutelsat’s options for access to space, providing additional assurance of operational continuity for customers of its OneWeb constellation. Founded in April 2022, MaiaSpace designs, manufactures, commercializes, and operates the first reusable and eco-designed... The post Press Release: Eutelsat taps MaiaSpace for future LEO satellite launches appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2026/01/eutelsat-launch-agreement-maiaspace/",
+      "source": "Runway Girl",
+      "published_at": "2026-01-16T14:00:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "bced08d755974444",
       "title_orig": "War in Ukraine: How Kyiv copes with winter power outages",
       "summary_orig": "Ukraine faces another harsh winter as Russian strikes leave Kyiv without stable electricity or heating. Residents rely on emergency centres to cope with the cold.",
@@ -3632,24 +3650,6 @@
       "geo": {}
     },
     {
-      "id": "b07098c671160564",
-      "title_orig": "Birmingham airport closed due to radar failure caused by power outage",
-      "summary_orig": "BIRMINGHAM — Hundreds of passengers faced significant travel disruption on Sunday night, January 11, 2026, after Birmingham Airport (BHX) was forced to suspend all incoming flights due to a major radar failure. The technical outage, which began late in the evening, left aircraft circling in holding patterns before being diverted to alternative hubs across the […] The post Birmingham airport closed due to radar failure caused by power outage appeared first on AIRLIVE .",
-      "lang": "en",
-      "title_en": "Birmingham airport closed due to radar failure caused by power outage",
-      "summary_en": "BIRMINGHAM — Hundreds of passengers faced significant travel disruption on Sunday night, January 11, 2026, after Birmingham Airport (BHX) was forced to suspend all incoming flights due to a major radar failure. The technical outage, which began late in the evening, left aircraft circling in holding patterns before being diverted to alternative hubs across the […] The post Birmingham airport closed due to radar failure caused by power outage appeared first on AIRLIVE .",
-      "title": "Birmingham airport closed due to radar failure caused by power outage",
-      "summary": "BIRMINGHAM — Hundreds of passengers faced significant travel disruption on Sunday night, January 11, 2026, after Birmingham Airport (BHX) was forced to suspend all incoming flights due to a major radar failure. The technical outage, which began late in the evening, left aircraft circling in holding patterns before being diverted to alternative hubs across the […] The post Birmingham airport closed due to radar failure caused by power outage appeared first on AIRLIVE .",
-      "url": "https://airlive.net/news/2026/01/12/birmingham-airport-closed-due-to-radar-failure-caused-by-power-outage/",
-      "source": "AIRLIVE",
-      "published_at": "2026-01-12T07:44:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3cb4589daa5d05b1",
       "title_orig": "Thousands gather statewide in anti-ICE protests, including hundreds in Huntington Beach",
       "summary_orig": "Anti-ICE protests in some 60 cities of California were largely peaceful statewide, although marked by moments of tension, anger and sporadic vandalism.",
@@ -3715,24 +3715,6 @@
       "url": "https://www.latimes.com/world-nation/story/2026-01-09/irans-supreme-leader-vows-to-crack-down-on-protesters-blames-trump",
       "source": "World & Nation",
       "published_at": "2026-01-09T18:31:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b1adca8d78dae900",
-      "title_orig": "Service oddities mar otherwise solid American Airlines JFK-HND flight",
-      "summary_orig": "Despite American Airlines’ hub status in New York, I rarely find myself flying the carrier’s mainline network. But the US major’s addition of a nonstop linking Tokyo Haneda with JFK, plus an appealing miles redemption rate, was all I needed to come back to AA. After initially booking a premium economy seat on Haneda-JFK for... The post Service oddities mar otherwise solid American Airlines JFK-HND flight appeared first on Runway Girl .",
-      "lang": "en",
-      "title_en": "Service oddities mar otherwise solid American Airlines JFK-HND flight",
-      "summary_en": "Despite American Airlines’ hub status in New York, I rarely find myself flying the carrier’s mainline network. But the US major’s addition of a nonstop linking Tokyo Haneda with JFK, plus an appealing miles redemption rate, was all I needed to come back to AA. After initially booking a premium economy seat on Haneda-JFK for... The post Service oddities mar otherwise solid American Airlines JFK-HND flight appeared first on Runway Girl .",
-      "title": "Service oddities mar otherwise solid American Airlines JFK-HND flight",
-      "summary": "Despite American Airlines’ hub status in New York, I rarely find myself flying the carrier’s mainline network. But the US major’s addition of a nonstop linking Tokyo Haneda with JFK, plus an appealing miles redemption rate, was all I needed to come back to AA. After initially booking a premium economy seat on Haneda-JFK for... The post Service oddities mar otherwise solid American Airlines JFK-HND flight appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2026/01/service-oddities-mar-otherwise-solid-american-airlines-jfk-hnd-flight/",
-      "source": "Runway Girl",
-      "published_at": "2026-01-09T18:13:10+00:00",
       "tags": [
         "airport/security"
       ],
