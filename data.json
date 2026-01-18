@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-01-18T20:21:47.280588+00:00",
+  "generated_at": "2026-01-18T20:48:36.890188+00:00",
   "items": [
+    {
+      "id": "eaa7f860f3633b8a",
+      "title_orig": "Chile Wildfires Kill 16 and Force Wide Evacuation",
+      "summary_orig": "One mayor pleaded with the national government for help as flames destroyed entire neighborhoods in the southern region of Biobío.",
+      "lang": "en",
+      "title_en": "Chile Wildfires Kill 16 and Force Wide Evacuation",
+      "summary_en": "One mayor pleaded with the national government for help as flames destroyed entire neighborhoods in the southern region of Biobío.",
+      "title": "Chile Wildfires Kill 16 and Force Wide Evacuation",
+      "summary": "One mayor pleaded with the national government for help as flames destroyed entire neighborhoods in the southern region of Biobío.",
+      "url": "https://www.nytimes.com/2026/01/18/world/americas/chile-wildfires.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-18T20:35:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "d6da0c04cee66138",
+      "title_orig": "Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
+      "summary_orig": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News.",
+      "lang": "en",
+      "title_en": "Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
+      "summary_en": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News.",
+      "title": "Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
+      "summary": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News.",
+      "url": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-01-18T20:30:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b8401f8eb90fb1c7",
+      "title_orig": "JetBlue flight B61058 to JFK is declaring an emergency after circling following departure",
+      "summary_orig": "A JetBlue flight from Oranjestad to New York has declaring an emergency after takeoff from Aruba. JetBlue flight B61058 departed Oranjestad, Aruba at 13:59 AST to New York JFK Airport. The Airbus A321neo (registration N2086J) took off form runway 11 then stopped the climb at only 6,000 feet before circling as the crew was dealing […] The post JetBlue flight B61058 to JFK is declaring an emergency after circling following departure appeared first on AIRLIVE .",
+      "lang": "en",
+      "title_en": "JetBlue flight B61058 to JFK is declaring an emergency after circling following departure",
+      "summary_en": "A JetBlue flight from Oranjestad to New York has declaring an emergency after takeoff from Aruba. JetBlue flight B61058 departed Oranjestad, Aruba at 13:59 AST to New York JFK Airport. The Airbus A321neo (registration N2086J) took off form runway 11 then stopped the climb at only 6,000 feet before circling as the crew was dealing […] The post JetBlue flight B61058 to JFK is declaring an emergency after circling following departure appeared first on AIRLIVE .",
+      "title": "JetBlue flight B61058 to JFK is declaring an emergency after circling following departure",
+      "summary": "A JetBlue flight from Oranjestad to New York has declaring an emergency after takeoff from Aruba. JetBlue flight B61058 departed Oranjestad, Aruba at 13:59 AST to New York JFK Airport. The Airbus A321neo (registration N2086J) took off form runway 11 then stopped the climb at only 6,000 feet before circling as the crew was dealing […] The post JetBlue flight B61058 to JFK is declaring an emergency after circling following departure appeared first on AIRLIVE .",
+      "url": "https://airlive.net/emergency/2026/01/18/jetblue-flight-b61058-to-jfk-is-declaring-an-emergency-after-circling-following-departure/",
+      "source": "AIRLIVE",
+      "published_at": "2026-01-18T20:13:25+00:00",
+      "tags": [
+        "JFK",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "John F. Kennedy",
+        "city": "New York",
+        "country": "United States",
+        "iata": "JFK",
+        "lat": 40.6413,
+        "lon": -73.7781
+      }
+    },
     {
       "id": "0d107204c84d1187",
       "title_orig": "Live: Parliament returns to pay tribute to victims of Bondi terror attack",
@@ -53,24 +116,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f3efe335a26969df",
-      "title_orig": "Guatemalan police free hostages in prison as attacks kill 3 officers",
-      "summary_orig": "ESCUINTLA, Guatemala (AP) — Hundreds of anti-riot police entered a maximum security prison in Guatemala early Sunday to free guards…",
-      "lang": "en",
-      "title_en": "Guatemalan police free hostages in prison as attacks kill 3 officers",
-      "summary_en": "ESCUINTLA, Guatemala (AP) — Hundreds of anti-riot police entered a maximum security prison in Guatemala early Sunday to free guards…",
-      "title": "Guatemalan police free hostages in prison as attacks kill 3 officers",
-      "summary": "ESCUINTLA, Guatemala (AP) — Hundreds of anti-riot police entered a maximum security prison in Guatemala early Sunday to free guards…",
-      "url": "https://wtop.com/world/2026/01/guatemalan-police-free-hostages-in-a-maximum-security-prison/",
-      "source": "WTOP News",
-      "published_at": "2026-01-18T19:36:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -290,24 +335,6 @@
       "geo": {}
     },
     {
-      "id": "eaa7f860f3633b8a",
-      "title_orig": "Chile Wildfires Kill 16 and Force Wide Evacuation",
-      "summary_orig": "One mayor pleaded with the national government for help as flames destroyed entire neighborhoods in the southern region of Biobío.",
-      "lang": "en",
-      "title_en": "Chile Wildfires Kill 16 and Force Wide Evacuation",
-      "summary_en": "One mayor pleaded with the national government for help as flames destroyed entire neighborhoods in the southern region of Biobío.",
-      "title": "Chile Wildfires Kill 16 and Force Wide Evacuation",
-      "summary": "One mayor pleaded with the national government for help as flames destroyed entire neighborhoods in the southern region of Biobío.",
-      "url": "https://www.nytimes.com/2026/01/18/world/americas/chile-wildfires.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-18T17:58:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "b83ddc12470086f8",
       "title_orig": "Suspect 'set themselves on fire' after family home 'petrol bombed'",
       "summary_orig": "Those inside were forced to flee after a window was smashed and the home was deliberately set alight",
@@ -409,24 +436,6 @@
       "url": "https://www.dailyrecord.co.uk/news/uk-world-news/horror-after-home-target-petrol-36572257",
       "source": "Daily Record - Home",
       "published_at": "2026-01-18T17:30:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c16581465f445c3c",
-      "title_orig": "Boy in critical condition after shark attack at Sydney Harbour beach",
-      "summary_orig": "A boy is in critical condition after being bitten multiple times by what is believed to have been a large shark at an eastern suburbs beach on Sydney Harbour.",
-      "lang": "en",
-      "title_en": "Boy in critical condition after shark attack at Sydney Harbour beach",
-      "summary_en": "A boy is in critical condition after being bitten multiple times by what is believed to have been a large shark at an eastern suburbs beach on Sydney Harbour.",
-      "title": "Boy in critical condition after shark attack at Sydney Harbour beach",
-      "summary": "A boy is in critical condition after being bitten multiple times by what is believed to have been a large shark at an eastern suburbs beach on Sydney Harbour.",
-      "url": "https://www.stuff.co.nz/world-news/360926229/boy-critical-condition-after-shark-attack-sydney-harbour-beach",
-      "source": "Stuff - /",
-      "published_at": "2026-01-18T17:28:01+00:00",
       "tags": [
         "airport/security"
       ],
@@ -740,24 +749,6 @@
       "geo": {}
     },
     {
-      "id": "4b58a78d23eab8c1",
-      "title_orig": "Jake Lang’s anti-Islam rally chased off by Minneapolis protesters",
-      "summary_orig": "Below-zero windchills didn’t deter hundreds of protesters rallying against Lang and his handful of supporters in downtown Minneapolis.",
-      "lang": "en",
-      "title_en": "Jake Lang’s anti-Islam rally chased off by Minneapolis protesters",
-      "summary_en": "Below-zero windchills didn’t deter hundreds of protesters rallying against Lang and his handful of supporters in downtown Minneapolis.",
-      "title": "Jake Lang’s anti-Islam rally chased off by Minneapolis protesters",
-      "summary": "Below-zero windchills didn’t deter hundreds of protesters rallying against Lang and his handful of supporters in downtown Minneapolis.",
-      "url": "https://www.startribune.com/jake-lang-minneapolis-protest-counterprotest-ice-anti-islam-march-chased-off-saturday/601566132",
-      "source": "Startribune News",
-      "published_at": "2026-01-18T15:15:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "570adb171ece4bab",
       "title_orig": "Deviation by pilot of Bengaluru-bound flight damaged runway edge lights at Chennai airport, finds DGCA",
       "summary_orig": "",
@@ -805,24 +796,6 @@
       "url": "https://www.dawn.com/news/1967684/iran-considers-gradually-restoring-internet-after-shutdown",
       "source": "Dawn - Home",
       "published_at": "2026-01-18T14:51:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d2b1699d44d04ce9",
-      "title_orig": "Unknown assailants blow up another key bridge in North Waziristan’s Mir Ali, cutting off access and sparking anger",
-      "summary_orig": "NORTH WAZIRISTAN: Another key bridge was blown up using explosives in the Mir Ali tehsil of Khyber Pakhtunkhwa’s North Waziristan district, causing severe difficulties for residents and triggering widespread anger. According to the police, the explosion occurred in Khushhali (Makinah) village of Mir Ali, where unidentified assailants carried out the blast late at night, destroying the bridge and cutting off the area’s land connectivity with nearby settlements, markets and agricultural lands. Soon after the incident, police and security forces cordoned off the area and launched an investigation. Per a police statement, the destruction of the bridge has paralysed daily life. Residents say that school-going children, patients, the elderly and women are the worst affected, while agricultural activities and local businesses have also suffered heavily. With no alternative routes available, ambulances and other emergency services are facing serious hurdles, adding to public distress. Expressing strong resentment, local tribal elder Malik Din Sardar said, “This bridge was the lifeline of our area. Now it has become extremely difficult to transport patients to hospitals. How long will we keep paying the price for such actions?” He questioned why ordinary citizens are made to suffer losses and hardships for no fault of their own. Social activist Jalal Khan said, “We had pinned our hopes on peace, but repeated destruction of bridges shows that the hardships of common people are being ignored.” Residents of the area strongly condemned the incident and demanded the immediate arrest of those responsible, urgent reconstruction of the bridge on an emergency basis, and improved long-term security arrangements to prevent such incidents in the future. Police said the nature of the explosives used in the blast was being determined, evidence had been collected, and investigations were underway from multiple angles. Official sources said search operations and intelligence-based actions had been intensified to bring the perpetrators to justice, while the restoration of a temporary alternative route for public convenience was also under consideration. KP has seen a rise in attacks targeting infrastructure in recent months. On January 15, another important bridge over the Kurram River was destroyed with explosives. Work on that bridge has yet to begin. Due to the prolonged hardships, many local tribes have reportedly started migrating to safer areas. On Dec 7, terrorists blew up a link bridge in the Mamandkhel area of the Bannu district using explosive material, affecting public movement in the area. Within a span of a week, Mir Ali tehsil later witnessed two incidents of terrorists blowing up government schools. November also saw two incidents of terrorists attempting to blow up bridges in Bannu. One plot was foiled by the police’s bomb disposal squad, while the improvised explosive device in the other detonated prematurely, killing the attacker. A series of such incidents has not only raised serious questions about the security situation but has also made life increasingly difficult for ordinary citizens. Public circles have urged the federal and provincial governments to ensure the protection of critical infrastructure in North Waziristan, provide immediate compensation for losses, and take concrete and effective measures to restore peace and order.",
-      "lang": "en",
-      "title_en": "Unknown assailants blow up another key bridge in North Waziristan’s Mir Ali, cutting off access and sparking anger",
-      "summary_en": "NORTH WAZIRISTAN: Another key bridge was blown up using explosives in the Mir Ali tehsil of Khyber Pakhtunkhwa’s North Waziristan district, causing severe difficulties for residents and triggering widespread anger. According to the police, the explosion occurred in Khushhali (Makinah) village of Mir Ali, where unidentified assailants carried out the blast late at night, destroying the bridge and cutting off the area’s land connectivity with nearby settlements, markets and agricultural lands. Soon after the incident, police and security forces cordoned off the area and launched an investigation. Per a police statement, the destruction of the bridge has paralysed daily life. Residents say that school-going children, patients, the elderly and women are the worst affected, while agricultural activities and local businesses have also suffered heavily. With no alternative routes available, ambulances and other emergency services are facing serious hurdles, adding to public distress. Expressing strong resentment, local tribal elder Malik Din Sardar said, “This bridge was the lifeline of our area. Now it has become extremely difficult to transport patients to hospitals. How long will we keep paying the price for such actions?” He questioned why ordinary citizens are made to suffer losses and hardships for no fault of their own. Social activist Jalal Khan said, “We had pinned our hopes on peace, but repeated destruction of bridges shows that the hardships of common people are being ignored.” Residents of the area strongly condemned the incident and demanded the immediate arrest of those responsible, urgent reconstruction of the bridge on an emergency basis, and improved long-term security arrangements to prevent such incidents in the future. Police said the nature of the explosives used in the blast was being determined, evidence had been collected, and investigations were underway from multiple angles. Official sources said search operations and intelligence-based actions had been intensified to bring the perpetrators to justice, while the restoration of a temporary alternative route for public convenience was also under consideration. KP has seen a rise in attacks targeting infrastructure in recent months. On January 15, another important bridge over the Kurram River was destroyed with explosives. Work on that bridge has yet to begin. Due to the prolonged hardships, many local tribes have reportedly started migrating to safer areas. On Dec 7, terrorists blew up a link bridge in the Mamandkhel area of the Bannu district using explosive material, affecting public movement in the area. Within a span of a week, Mir Ali tehsil later witnessed two incidents of terrorists blowing up government schools. November also saw two incidents of terrorists attempting to blow up bridges in Bannu. One plot was foiled by the police’s bomb disposal squad, while the improvised explosive device in the other detonated prematurely, killing the attacker. A series of such incidents has not only raised serious questions about the security situation but has also made life increasingly difficult for ordinary citizens. Public circles have urged the federal and provincial governments to ensure the protection of critical infrastructure in North Waziristan, provide immediate compensation for losses, and take concrete and effective measures to restore peace and order.",
-      "title": "Unknown assailants blow up another key bridge in North Waziristan’s Mir Ali, cutting off access and sparking anger",
-      "summary": "NORTH WAZIRISTAN: Another key bridge was blown up using explosives in the Mir Ali tehsil of Khyber Pakhtunkhwa’s North Waziristan district, causing severe difficulties for residents and triggering widespread anger. According to the police, the explosion occurred in Khushhali (Makinah) village of Mir Ali, where unidentified assailants carried out the blast late at night, destroying the bridge and cutting off the area’s land connectivity with nearby settlements, markets and agricultural lands. Soon after the incident, police and security forces cordoned off the area and launched an investigation. Per a police statement, the destruction of the bridge has paralysed daily life. Residents say that school-going children, patients, the elderly and women are the worst affected, while agricultural activities and local businesses have also suffered heavily. With no alternative routes available, ambulances and other emergency services are facing serious hurdles, adding to public distress. Expressing strong resentment, local tribal elder Malik Din Sardar said, “This bridge was the lifeline of our area. Now it has become extremely difficult to transport patients to hospitals. How long will we keep paying the price for such actions?” He questioned why ordinary citizens are made to suffer losses and hardships for no fault of their own. Social activist Jalal Khan said, “We had pinned our hopes on peace, but repeated destruction of bridges shows that the hardships of common people are being ignored.” Residents of the area strongly condemned the incident and demanded the immediate arrest of those responsible, urgent reconstruction of the bridge on an emergency basis, and improved long-term security arrangements to prevent such incidents in the future. Police said the nature of the explosives used in the blast was being determined, evidence had been collected, and investigations were underway from multiple angles. Official sources said search operations and intelligence-based actions had been intensified to bring the perpetrators to justice, while the restoration of a temporary alternative route for public convenience was also under consideration. KP has seen a rise in attacks targeting infrastructure in recent months. On January 15, another important bridge over the Kurram River was destroyed with explosives. Work on that bridge has yet to begin. Due to the prolonged hardships, many local tribes have reportedly started migrating to safer areas. On Dec 7, terrorists blew up a link bridge in the Mamandkhel area of the Bannu district using explosive material, affecting public movement in the area. Within a span of a week, Mir Ali tehsil later witnessed two incidents of terrorists blowing up government schools. November also saw two incidents of terrorists attempting to blow up bridges in Bannu. One plot was foiled by the police’s bomb disposal squad, while the improvised explosive device in the other detonated prematurely, killing the attacker. A series of such incidents has not only raised serious questions about the security situation but has also made life increasingly difficult for ordinary citizens. Public circles have urged the federal and provincial governments to ensure the protection of critical infrastructure in North Waziristan, provide immediate compensation for losses, and take concrete and effective measures to restore peace and order.",
-      "url": "https://www.dawn.com/news/1967682/unknown-assailants-blow-up-another-key-bridge-in-north-waziristans-mir-ali-cutting-off-access-and-sparking-anger",
-      "source": "Dawn - Home",
-      "published_at": "2026-01-18T14:49:31+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1316,24 +1289,6 @@
       "geo": {}
     },
     {
-      "id": "2a74b52b9c5592c9",
-      "title_orig": "Al Jazeera reports from Greenland’s capital as thousands protest US threats",
-      "summary_orig": "Thousands of Greenlanders have protested US President Donald Trump’s repeated threats to seize control of their homeland",
-      "lang": "en",
-      "title_en": "Al Jazeera reports from Greenland’s capital as thousands protest US threats",
-      "summary_en": "Thousands of Greenlanders have protested US President Donald Trump’s repeated threats to seize control of their homeland",
-      "title": "Al Jazeera reports from Greenland’s capital as thousands protest US threats",
-      "summary": "Thousands of Greenlanders have protested US President Donald Trump’s repeated threats to seize control of their homeland",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/al-jazeera-reports-from-greenlands-capital-as-thousands-protest-us-threats?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-01-18T10:51:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "911c0e8778634b87",
       "title_orig": "Boy, 12, fights for life after shark mauls both legs at Sydney beach",
       "summary_orig": "Five friends watched in horror as attack unfolded at popular Nielsen Park before desperately trying to help",
@@ -1461,13 +1416,13 @@
     },
     {
       "id": "ad6ce59eab170321",
-      "title_orig": "Live: At least 5,000 people have been killed during Iran's nationwide protests, official says",
-      "summary_orig": "Iranian authorities have verified that at least 5,000 people have been killed during nationwide protests, an official told Reuters on Sunday, including some 500 members of the security forces. Thousands marched in cities across Europe on Saturday in solidarity with Iran's anti-government protesters. Follow our live blog for the latest.",
+      "title_orig": "At least 5,000 people have been killed during Iran's nationwide protests, official says",
+      "summary_orig": "Iranian authorities have verified that at least 5,000 people have been killed during nationwide protests, an official told Reuters on Sunday, including some 500 members of the security forces. Thousands marched in cities across Europe on Saturday in solidarity with Iran's anti-government protesters. Read our liveblog to see how the day's events unfolded.",
       "lang": "en",
-      "title_en": "Live: At least 5,000 people have been killed during Iran's nationwide protests, official says",
-      "summary_en": "Iranian authorities have verified that at least 5,000 people have been killed during nationwide protests, an official told Reuters on Sunday, including some 500 members of the security forces. Thousands marched in cities across Europe on Saturday in solidarity with Iran's anti-government protesters. Follow our live blog for the latest.",
-      "title": "Live: At least 5,000 people have been killed during Iran's nationwide protests, official says",
-      "summary": "Iranian authorities have verified that at least 5,000 people have been killed during nationwide protests, an official told Reuters on Sunday, including some 500 members of the security forces. Thousands marched in cities across Europe on Saturday in solidarity with Iran's anti-government protesters. Follow our live blog for the latest.",
+      "title_en": "At least 5,000 people have been killed during Iran's nationwide protests, official says",
+      "summary_en": "Iranian authorities have verified that at least 5,000 people have been killed during nationwide protests, an official told Reuters on Sunday, including some 500 members of the security forces. Thousands marched in cities across Europe on Saturday in solidarity with Iran's anti-government protesters. Read our liveblog to see how the day's events unfolded.",
+      "title": "At least 5,000 people have been killed during Iran's nationwide protests, official says",
+      "summary": "Iranian authorities have verified that at least 5,000 people have been killed during nationwide protests, an official told Reuters on Sunday, including some 500 members of the security forces. Thousands marched in cities across Europe on Saturday in solidarity with Iran's anti-government protesters. Read our liveblog to see how the day's events unfolded.",
       "url": "https://www.france24.com/en/asia-pacific/20260118-live-iran-nationwide-protests-official",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2026-01-18T09:31:58+00:00",
@@ -1547,24 +1502,6 @@
         "diplomatic"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "09eb224a6131182c",
-      "title_orig": "Tourists urged to avoid WA national park amid Emergency level bushfire",
-      "summary_orig": "Tourists are warned to avoid Fitzgerald River National Park, 500 kilometres south-east of Perth, as a bushfire burning in the park is escalated to an Emergency Warning and evacuation centres open.",
-      "lang": "en",
-      "title_en": "Tourists urged to avoid WA national park amid Emergency level bushfire",
-      "summary_en": "Tourists are warned to avoid Fitzgerald River National Park, 500 kilometres south-east of Perth, as a bushfire burning in the park is escalated to an Emergency Warning and evacuation centres open.",
-      "title": "Tourists urged to avoid WA national park amid Emergency level bushfire",
-      "summary": "Tourists are warned to avoid Fitzgerald River National Park, 500 kilometres south-east of Perth, as a bushfire burning in the park is escalated to an Emergency Warning and evacuation centres open.",
-      "url": "https://www.abc.net.au/news/2026-01-18/bushfire-fitzgerald-national-park-wa-south-coast/106242528",
-      "source": "Just In",
-      "published_at": "2026-01-18T09:17:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1685,24 +1622,6 @@
       "geo": {}
     },
     {
-      "id": "e7e4b7587386b03a",
-      "title_orig": "Dozens gather to protest fishing ban as premier defends 'tough decisions'",
-      "summary_orig": "Dozens of disgruntled fishers have journeyed through the streets of Perth to protest against the state government's decision to ban demersal fishing, as the WA Premier Roger Cook confirmed he planned to meet with the industry.",
-      "lang": "en",
-      "title_en": "Dozens gather to protest fishing ban as premier defends 'tough decisions'",
-      "summary_en": "Dozens of disgruntled fishers have journeyed through the streets of Perth to protest against the state government's decision to ban demersal fishing, as the WA Premier Roger Cook confirmed he planned to meet with the industry.",
-      "title": "Dozens gather to protest fishing ban as premier defends 'tough decisions'",
-      "summary": "Dozens of disgruntled fishers have journeyed through the streets of Perth to protest against the state government's decision to ban demersal fishing, as the WA Premier Roger Cook confirmed he planned to meet with the industry.",
-      "url": "https://www.abc.net.au/news/2026-01-18/wa-fishing-ban-protest-dozens-gather-ozone-park/104760976",
-      "source": "Just In",
-      "published_at": "2026-01-18T08:19:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "86a5deae7a4552dc",
       "title_orig": "France’s Embassy in Iraq Is a Spoil of Antisemitism, Jewish Family Charges",
       "summary_orig": "A Jewish family that fled Iraq generations ago rented its home to France for use as an embassy, but Paris long ago stopped paying it rent, after Iraq stripped Jews of property.",
@@ -1804,24 +1723,6 @@
       "url": "https://www.leeds-live.co.uk/sport/leeds-united/leeds-united-transfer-state-play-33252292",
       "source": "Leeds Live - frontpage",
       "published_at": "2026-01-18T07:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d6da0c04cee66138",
-      "title_orig": "Around 1,500 soldiers on standby for deployment to Minneapolis, officials say",
-      "summary_orig": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News.",
-      "lang": "en",
-      "title_en": "Around 1,500 soldiers on standby for deployment to Minneapolis, officials say",
-      "summary_en": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News.",
-      "title": "Around 1,500 soldiers on standby for deployment to Minneapolis, officials say",
-      "summary": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News.",
-      "url": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-01-18T07:28:47+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2552,6 +2453,24 @@
       "geo": {}
     },
     {
+      "id": "4474fad38b5d164d",
+      "title_orig": "India fines IndiGo record $2.45m after December flight cancellations",
+      "summary_orig": "India’s aviation regulator on Saturday fined IndiGo a record 222 million Indian rupees ($2.45m) for poor pilot roster planning that led to mass flight cancellations in December. The regulator also issued warnings to senior personnel, including to Chief Operating Officer Isidre Porqueras and to Jason Herter, senior vice president of operations control centre, with directions to IndiGo to relieve Herter “of current operational responsibilities”. A government source said the fine was the largest to date. IndiGo has been ordered to provide a bank guarantee of $5.51m in favour of the Directorate General of Civil Aviation, to ensure “compliance with the directives and long-term systemic correction,” the regulator said. IndiGo said in a statement that the board and management were “committed to taking full cognisance of the orders and will, in a thoughtful and timely manner, take appropriate measures”. India’s largest airline cancelled about 4,500 flights in the initial weeks of December, leaving tens of thousands of passengers stranded all over the country and leading to chaos at airports.",
+      "lang": "en",
+      "title_en": "India fines IndiGo record $2.45m after December flight cancellations",
+      "summary_en": "India’s aviation regulator on Saturday fined IndiGo a record 222 million Indian rupees ($2.45m) for poor pilot roster planning that led to mass flight cancellations in December. The regulator also issued warnings to senior personnel, including to Chief Operating Officer Isidre Porqueras and to Jason Herter, senior vice president of operations control centre, with directions to IndiGo to relieve Herter “of current operational responsibilities”. A government source said the fine was the largest to date. IndiGo has been ordered to provide a bank guarantee of $5.51m in favour of the Directorate General of Civil Aviation, to ensure “compliance with the directives and long-term systemic correction,” the regulator said. IndiGo said in a statement that the board and management were “committed to taking full cognisance of the orders and will, in a thoughtful and timely manner, take appropriate measures”. India’s largest airline cancelled about 4,500 flights in the initial weeks of December, leaving tens of thousands of passengers stranded all over the country and leading to chaos at airports.",
+      "title": "India fines IndiGo record $2.45m after December flight cancellations",
+      "summary": "India’s aviation regulator on Saturday fined IndiGo a record 222 million Indian rupees ($2.45m) for poor pilot roster planning that led to mass flight cancellations in December. The regulator also issued warnings to senior personnel, including to Chief Operating Officer Isidre Porqueras and to Jason Herter, senior vice president of operations control centre, with directions to IndiGo to relieve Herter “of current operational responsibilities”. A government source said the fine was the largest to date. IndiGo has been ordered to provide a bank guarantee of $5.51m in favour of the Directorate General of Civil Aviation, to ensure “compliance with the directives and long-term systemic correction,” the regulator said. IndiGo said in a statement that the board and management were “committed to taking full cognisance of the orders and will, in a thoughtful and timely manner, take appropriate measures”. India’s largest airline cancelled about 4,500 flights in the initial weeks of December, leaving tens of thousands of passengers stranded all over the country and leading to chaos at airports.",
+      "url": "https://www.dawn.com/news/1967501/india-fines-indigo-record-245m-after-december-flight-cancellations",
+      "source": "Dawn - Home",
+      "published_at": "2026-01-17T16:36:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "e093e95879dbdf43",
       "title_orig": "Speaker Sadiq says statements against Pakistan, armed forces will not be allowed in National Assembly",
       "summary_orig": "Speaker Ayaz Sadiq on Saturday said that statements against Pakistan, the judiciary or the armed forces would not be allowed on the floor of the National Assembly. According to a handout issued by the NA Secretariat, the speaker made the remarks while visiting the National College of Arts (NCA) in Lahore. “Negative or controversial remarks on the role of the judiciary, the armed forces of Pakistan and judges are unacceptable,” he said. He further stated that any kind of remarks against the armed forces was “intolerable”. He further stated that only those remarks that fell within the ambit of the law and the Constitution would be allowed. “Those who speak against Pakistan will not be allowed to express their views on the floor of the National Assembly,” he was quoted as saying. Sadiq further asserted that as the NA speaker, he would continue to play an impartial role. He further said that in a democratic society, protesting was a citizen’s right. However, this protest should be peaceful and remain within the ambit of the law and the Constitution, he said. “There is no room for arson, damage to life and property or vandalism,” Sadiq was quoted as saying, adding that the “use of sticks and weapons” was a threat to the rule of law. The development comes a little over a month after Senate Deputy Chairman Syedal Khan Nasar barred criticism of “national heroes” and political leadership in the House. “You cannot speak against political heroes who suffered martyrdom, went into exile, worked for the nation and the country, conducted nuclear tests, and made [the] nuclear bomb,” he had remarked just after finishing the day’s agenda amid voices of dissent from the opposition benches. He had later vowed to enforce his ruling. In an informal conversation with media persons at the Parliament House, he had made it clear that derogatory or disrespectful remarks against national heroes whether from the armed forces, politics, judiciary, or any national institution cannot be tolerated within the House. “Every member has the right to express views, but that right must be exercised within the constitutional framework, rules of procedure, and established parliamentary traditions,” he had emphasised.",
@@ -2653,24 +2572,6 @@
       "url": "https://www.thejournal.ie/iran-supreme-leader-protests-crackdown-6930048-Jan2026/",
       "source": "TheJournal.ie",
       "published_at": "2026-01-17T14:33:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6ccdd9743d33acaf",
-      "title_orig": "Iran’s supreme leader blames Trump for inciting deadly protests",
-      "summary_orig": "The protests, which erupted on Dec 28, have led to 3,090 deaths, according to a US-based rights group.",
-      "lang": "en",
-      "title_en": "Iran’s supreme leader blames Trump for inciting deadly protests",
-      "summary_en": "The protests, which erupted on Dec 28, have led to 3,090 deaths, according to a US-based rights group.",
-      "title": "Iran’s supreme leader blames Trump for inciting deadly protests",
-      "summary": "The protests, which erupted on Dec 28, have led to 3,090 deaths, according to a US-based rights group.",
-      "url": "https://www.straitstimes.com/world/middle-east/irans-leader-khamenei-blames-trump-for-inciting-deadly-protests",
-      "source": "The Straits Times World News",
-      "published_at": "2026-01-17T13:51:56+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3272,6 +3173,42 @@
       "geo": {}
     },
     {
+      "id": "e99f7febb7b3fbb8",
+      "title_orig": "Press Release: Eve secures funds from EXIM, Private Export Funding",
+      "summary_orig": "Eve Air Mobility (“Eve”) has advanced its mission to revolutionize urban air mobility, revealing an agreement with the Export-Import Bank of the United States (EXIM Bank) and the Private Export Funding Corporation (PEFCO) to provide financing for expenses with U.S. suppliers working on Eve’s electric Vehicle Take-Off and Landing (eVTOL) program. The company will use... The post Press Release: Eve secures funds from EXIM, Private Export Funding appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "Press Release: Eve secures funds from EXIM, Private Export Funding",
+      "summary_en": "Eve Air Mobility (“Eve”) has advanced its mission to revolutionize urban air mobility, revealing an agreement with the Export-Import Bank of the United States (EXIM Bank) and the Private Export Funding Corporation (PEFCO) to provide financing for expenses with U.S. suppliers working on Eve’s electric Vehicle Take-Off and Landing (eVTOL) program. The company will use... The post Press Release: Eve secures funds from EXIM, Private Export Funding appeared first on Runway Girl .",
+      "title": "Press Release: Eve secures funds from EXIM, Private Export Funding",
+      "summary": "Eve Air Mobility (“Eve”) has advanced its mission to revolutionize urban air mobility, revealing an agreement with the Export-Import Bank of the United States (EXIM Bank) and the Private Export Funding Corporation (PEFCO) to provide financing for expenses with U.S. suppliers working on Eve’s electric Vehicle Take-Off and Landing (eVTOL) program. The company will use... The post Press Release: Eve secures funds from EXIM, Private Export Funding appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2026/01/press-release-eve-secures-funds-from-exim-bank-private-export-funding/",
+      "source": "Runway Girl",
+      "published_at": "2026-01-15T16:39:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f0c0c23afc04ec74",
+      "title_orig": "Press Release: CesiumAstro lands historic $200m from EXIM",
+      "summary_orig": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced it secured a historic $200 million financing package from the Export-Import Bank of the United States (EXIM), in partnership with J.P. Morgan — the largest financing ever completed under EXIM’s “Make More in America” (MMIA) Initiative and one of the... The post Press Release: CesiumAstro lands historic $200m from EXIM appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "Press Release: CesiumAstro lands historic $200m from EXIM",
+      "summary_en": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced it secured a historic $200 million financing package from the Export-Import Bank of the United States (EXIM), in partnership with J.P. Morgan — the largest financing ever completed under EXIM’s “Make More in America” (MMIA) Initiative and one of the... The post Press Release: CesiumAstro lands historic $200m from EXIM appeared first on Runway Girl .",
+      "title": "Press Release: CesiumAstro lands historic $200m from EXIM",
+      "summary": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced it secured a historic $200 million financing package from the Export-Import Bank of the United States (EXIM), in partnership with J.P. Morgan — the largest financing ever completed under EXIM’s “Make More in America” (MMIA) Initiative and one of the... The post Press Release: CesiumAstro lands historic $200m from EXIM appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2026/01/cesiumastro-lands-record-200m-government-financing/",
+      "source": "Runway Girl",
+      "published_at": "2026-01-15T16:21:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "520dbc3b8223de6f",
       "title_orig": "Press Release: Air France enhances IFE with Apple TV content",
       "summary_orig": "As of January, Air France is teaming up with award-winning streaming service Apple TV to enhance its in-flight entertainment offer. Over 45 hours of original content including multiple global hit series are now available for all passengers on the airline’s long-haul flights. Customers can also enjoy free access to Apple TV directly via Air France’s... The post Press Release: Air France enhances IFE with Apple TV content appeared first on Runway Girl .",
@@ -3661,42 +3598,6 @@
       "url": "https://www.latimes.com/california/story/2026-01-11/statewide-anti-ice-protests-including-hundreds-in-huntington-beach",
       "source": "World & Nation",
       "published_at": "2026-01-12T01:10:34+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cf670bffde8313ad",
-      "title_orig": "Press Release: Allegiant to acquire Sun Country",
-      "summary_orig": "Allegiant and Sun Country Airlines today announced a definitive merger agreement under which Allegiant will acquire Sun Country in a cash and stock transaction at an implied value of $18.89 per Sun Country share. Sun Country shareholders will receive 0.1557 shares of Allegiant common stock and $4.10 in cash for each Sun Country share owned,... The post Press Release: Allegiant to acquire Sun Country appeared first on Runway Girl .",
-      "lang": "en",
-      "title_en": "Press Release: Allegiant to acquire Sun Country",
-      "summary_en": "Allegiant and Sun Country Airlines today announced a definitive merger agreement under which Allegiant will acquire Sun Country in a cash and stock transaction at an implied value of $18.89 per Sun Country share. Sun Country shareholders will receive 0.1557 shares of Allegiant common stock and $4.10 in cash for each Sun Country share owned,... The post Press Release: Allegiant to acquire Sun Country appeared first on Runway Girl .",
-      "title": "Press Release: Allegiant to acquire Sun Country",
-      "summary": "Allegiant and Sun Country Airlines today announced a definitive merger agreement under which Allegiant will acquire Sun Country in a cash and stock transaction at an implied value of $18.89 per Sun Country share. Sun Country shareholders will receive 0.1557 shares of Allegiant common stock and $4.10 in cash for each Sun Country share owned,... The post Press Release: Allegiant to acquire Sun Country appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2026/01/allegiant-to-acquire-ultra-low-cost-carrier-sun-country/",
-      "source": "Runway Girl",
-      "published_at": "2026-01-11T12:03:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e836ac61804b928e",
-      "title_orig": "IndiGo inducts India’s first Airbus A321XLR",
-      "summary_orig": "Fast-growing IndiGo has welcomed India’s first Airbus A321XLR to its fleet, with CEO Pieter Elbers calling the event “an important milestone as we prepare to redefine long-haul travel for India.” The airline plans to press the 195-seat aircraft into service on flights from Mumbai to Athens on January 23, followed a day later by a... The post IndiGo inducts India’s first Airbus A321XLR appeared first on Runway Girl .",
-      "lang": "en",
-      "title_en": "IndiGo inducts India’s first Airbus A321XLR",
-      "summary_en": "Fast-growing IndiGo has welcomed India’s first Airbus A321XLR to its fleet, with CEO Pieter Elbers calling the event “an important milestone as we prepare to redefine long-haul travel for India.” The airline plans to press the 195-seat aircraft into service on flights from Mumbai to Athens on January 23, followed a day later by a... The post IndiGo inducts India’s first Airbus A321XLR appeared first on Runway Girl .",
-      "title": "IndiGo inducts India’s first Airbus A321XLR",
-      "summary": "Fast-growing IndiGo has welcomed India’s first Airbus A321XLR to its fleet, with CEO Pieter Elbers calling the event “an important milestone as we prepare to redefine long-haul travel for India.” The airline plans to press the 195-seat aircraft into service on flights from Mumbai to Athens on January 23, followed a day later by a... The post IndiGo inducts India’s first Airbus A321XLR appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2026/01/indigo-inducts-indias-first-a321xlr-with-recaro-seats-throughout/",
-      "source": "Runway Girl",
-      "published_at": "2026-01-10T22:14:10+00:00",
       "tags": [
         "airport/security"
       ],
