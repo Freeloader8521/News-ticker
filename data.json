@@ -1,18 +1,72 @@
 {
-  "generated_at": "2026-01-23T22:49:43.551073+00:00",
+  "generated_at": "2026-01-23T23:21:40.786510+00:00",
   "items": [
     {
-      "id": "719786a468cf709e",
-      "title_orig": "Minnesota activist releases video of arrest after manipulated White House version",
-      "summary_orig": "MINNEAPOLIS (AP) — A Minnesota activist who was charged for her role in an anti-immigration enforcement protest at a church…",
+      "id": "f55e39fae79d9ea7",
+      "title_orig": "US carries out first known strike on alleged drug boat since Maduro’s capture",
+      "summary_orig": "U.S. Southern Command said the strike killed two people and left one survivor.",
       "lang": "en",
-      "title_en": "Minnesota activist releases video of arrest after manipulated White House version",
-      "summary_en": "MINNEAPOLIS (AP) — A Minnesota activist who was charged for her role in an anti-immigration enforcement protest at a church…",
-      "title": "Minnesota activist releases video of arrest after manipulated White House version",
-      "summary": "MINNEAPOLIS (AP) — A Minnesota activist who was charged for her role in an anti-immigration enforcement protest at a church…",
-      "url": "https://wtop.com/national/2026/01/minnesota-activist-releases-video-of-arrest-after-manipulated-white-house-version/",
-      "source": "WTOP News",
-      "published_at": "2026-01-23T22:36:22+00:00",
+      "title_en": "US carries out first known strike on alleged drug boat since Maduro’s capture",
+      "summary_en": "U.S. Southern Command said the strike killed two people and left one survivor.",
+      "title": "US carries out first known strike on alleged drug boat since Maduro’s capture",
+      "summary": "U.S. Southern Command said the strike killed two people and left one survivor.",
+      "url": "https://www.denverpost.com/2026/01/23/trump-cartels-boat-strike-since-maduro-capture/",
+      "source": "The Denver Post",
+      "published_at": "2026-01-23T23:09:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "90ff57e5afca7593",
+      "title_orig": "Manhunt widens for alleged triple murderer accused of shooting pregnant woman in remote NSW",
+      "summary_orig": "Lake Cargelligo is no longer in lockdown as police search properties at Euabalong, about 30km north A gunman suspected of killing his pregnant former partner and two others in remote NSW remains on the run, as police revealed he reported to local officers as part of his bail conditions only hours before the shootings. Julian Ingram, 37, was last seen driving out of Lake Cargelligo, in the NSW central west, on Thursday. Police suspect he is armed with at least one firearm, but confirmed he has never held a firearms licence. Continue reading...",
+      "lang": "en",
+      "title_en": "Manhunt widens for alleged triple murderer accused of shooting pregnant woman in remote NSW",
+      "summary_en": "Lake Cargelligo is no longer in lockdown as police search properties at Euabalong, about 30km north A gunman suspected of killing his pregnant former partner and two others in remote NSW remains on the run, as police revealed he reported to local officers as part of his bail conditions only hours before the shootings. Julian Ingram, 37, was last seen driving out of Lake Cargelligo, in the NSW central west, on Thursday. Police suspect he is armed with at least one firearm, but confirmed he has never held a firearms licence. Continue reading...",
+      "title": "Manhunt widens for alleged triple murderer accused of shooting pregnant woman in remote NSW",
+      "summary": "Lake Cargelligo is no longer in lockdown as police search properties at Euabalong, about 30km north A gunman suspected of killing his pregnant former partner and two others in remote NSW remains on the run, as police revealed he reported to local officers as part of his bail conditions only hours before the shootings. Julian Ingram, 37, was last seen driving out of Lake Cargelligo, in the NSW central west, on Thursday. Police suspect he is armed with at least one firearm, but confirmed he has never held a firearms licence. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/24/lake-cargelligo-julian-ingram-search-widens-nsw-police-ntwnfb",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-23T23:04:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a36fdade1d437aab",
+      "title_orig": "US military says it struck vessel in eastern Pacific, killing two people",
+      "summary_orig": "Since September, military has carried out more than 30 strikes against boats that it alleges smuggle drugs The US military said on Friday that it carried out a strike on a vessel in the eastern Pacific, killing two people. “Intelligence confirmed the vessel was transiting along known narco-trafficking routes in the eastern Pacific and was engaged in narco-trafficking operations,” the military said in a statement . Continue reading...",
+      "lang": "en",
+      "title_en": "US military says it struck vessel in eastern Pacific, killing two people",
+      "summary_en": "Since September, military has carried out more than 30 strikes against boats that it alleges smuggle drugs The US military said on Friday that it carried out a strike on a vessel in the eastern Pacific, killing two people. “Intelligence confirmed the vessel was transiting along known narco-trafficking routes in the eastern Pacific and was engaged in narco-trafficking operations,” the military said in a statement . Continue reading...",
+      "title": "US military says it struck vessel in eastern Pacific, killing two people",
+      "summary": "Since September, military has carried out more than 30 strikes against boats that it alleges smuggle drugs The US military said on Friday that it carried out a strike on a vessel in the eastern Pacific, killing two people. “Intelligence confirmed the vessel was transiting along known narco-trafficking routes in the eastern Pacific and was engaged in narco-trafficking operations,” the military said in a statement . Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/jan/23/us-military-strike-vessel-eastern-pacific",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-23T23:00:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "2e1fbac316584475",
+      "title_orig": "Cold weather linked to heart attack risk, Central Texas doctor explains",
+      "summary_orig": "AUSTIN (KXAN) -- Cold weather is linked to increased risk of heart attacks, according to a study published from the American College of Cardiology. The study shows a spike in hospitalizations for heart attacks two to six days after spells of cold temperatures. \"We did know that cold affects heart health, but this large scale study proved [...]",
+      "lang": "en",
+      "title_en": "Cold weather linked to heart attack risk, Central Texas doctor explains",
+      "summary_en": "AUSTIN (KXAN) -- Cold weather is linked to increased risk of heart attacks, according to a study published from the American College of Cardiology. The study shows a spike in hospitalizations for heart attacks two to six days after spells of cold temperatures. \"We did know that cold affects heart health, but this large scale study proved [...]",
+      "title": "Cold weather linked to heart attack risk, Central Texas doctor explains",
+      "summary": "AUSTIN (KXAN) -- Cold weather is linked to increased risk of heart attacks, according to a study published from the American College of Cardiology. The study shows a spike in hospitalizations for heart attacks two to six days after spells of cold temperatures. \"We did know that cold affects heart health, but this large scale study proved [...]",
+      "url": "https://www.kxan.com/news/simplehealth/cold-weather-linked-to-heart-attack-risk-central-texas-doctor-explains/",
+      "source": "KXAN Austin",
+      "published_at": "2026-01-23T22:57:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -30,11 +84,29 @@
       "summary": "Labor unions and progressive organizations have called on workers across the state to stay home in an ‘economic blackout’ Full report: Economic blackout in Minnesota to protest against ICE: ‘No work, no school, no shopping Talks between Russia, Ukraine and the United States have begun in Abu Dhabi, according to the United Arab Emirates’ ministry of foreign affairs. The UAE is hosting a rare set of trilateral talks, bringing together negotiators from Russia, Ukraine , and the US. The talks have started today, and are scheduled to continue over the next two days. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/jan/23/ice-immigration-protests-trump-minnesota-economic-blackout-latest-news",
       "source": "World news | The Guardian",
-      "published_at": "2026-01-23T22:35:01+00:00",
+      "published_at": "2026-01-23T22:55:21+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f85f5a644e3f0525",
+      "title_orig": "Ospreys earn draw on the pitch as fans protest after week of bombshell news",
+      "summary_orig": "Fans lit up the stadium in defiance at the 11th minute, but it was business as usual on the pitch",
+      "lang": "en",
+      "title_en": "Ospreys earn draw on the pitch as fans protest after week of bombshell news",
+      "summary_en": "Fans lit up the stadium in defiance at the 11th minute, but it was business as usual on the pitch",
+      "title": "Ospreys earn draw on the pitch as fans protest after week of bombshell news",
+      "summary": "Fans lit up the stadium in defiance at the 11th minute, but it was business as usual on the pitch",
+      "url": "https://www.walesonline.co.uk/sport/rugby/rugby-match-reports/ospreys-earn-draw-pitch-fans-33294257",
+      "source": "WalesOnline - Home",
+      "published_at": "2026-01-23T22:49:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -128,24 +200,6 @@
       "geo": {}
     },
     {
-      "id": "c1b7757bdd1f8275",
-      "title_orig": "Minnesotans strike to protest ICE surge in state: ‘No work, no school, no shopping’",
-      "summary_orig": "Organizers demand ICE leave state and agency be investigated for constitutional violations ICE protests – live updates Tens of thousands of Minnesotans marched in Minneapolis and otherwise participated in an economic blackout on Friday to protest against the Immigration and Customs Enforcement (ICE) surge in the state. About 100 clergy members were arrested by police during the action, video footage showed. Continue reading...",
-      "lang": "en",
-      "title_en": "Minnesotans strike to protest ICE surge in state: ‘No work, no school, no shopping’",
-      "summary_en": "Organizers demand ICE leave state and agency be investigated for constitutional violations ICE protests – live updates Tens of thousands of Minnesotans marched in Minneapolis and otherwise participated in an economic blackout on Friday to protest against the Immigration and Customs Enforcement (ICE) surge in the state. About 100 clergy members were arrested by police during the action, video footage showed. Continue reading...",
-      "title": "Minnesotans strike to protest ICE surge in state: ‘No work, no school, no shopping’",
-      "summary": "Organizers demand ICE leave state and agency be investigated for constitutional violations ICE protests – live updates Tens of thousands of Minnesotans marched in Minneapolis and otherwise participated in an economic blackout on Friday to protest against the Immigration and Customs Enforcement (ICE) surge in the state. About 100 clergy members were arrested by police during the action, video footage showed. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/jan/23/minnesota-economic-blackout-ice-protests",
-      "source": "World news | The Guardian",
-      "published_at": "2026-01-23T22:12:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "30d4812d507f2ddb",
       "title_orig": "Man detained by ICE, DPS after traffic stop for alleged window tint violation, DPS says",
       "summary_orig": "The Texas Department of Public Safety told said Wednesday that a \"strike team\" working with Immigration and Customs Enforcement agents detained a 29-year-old man after a traffic stop in Williamson County on Monday.",
@@ -175,24 +229,6 @@
       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3341073/russia-and-ukraine-sit-tense-talks-thorny-territorial-issue?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-01-23T22:02:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d04ccde7c71fef4d",
-      "title_orig": "Suspect pleads not guilty in violent Beverly Hills murder",
-      "summary_orig": "The man accused of beating and fatally running over another person during a shocking daytime attack in Beverly Hills last week has pleaded not guilty to a murder charge, prosecutors confirmed Friday. The Beverly Hills Police Department said officers were called around 12:42 p.m. Jan. 16 after multiple 911 callers reported a suspect with a [...]",
-      "lang": "en",
-      "title_en": "Suspect pleads not guilty in violent Beverly Hills murder",
-      "summary_en": "The man accused of beating and fatally running over another person during a shocking daytime attack in Beverly Hills last week has pleaded not guilty to a murder charge, prosecutors confirmed Friday. The Beverly Hills Police Department said officers were called around 12:42 p.m. Jan. 16 after multiple 911 callers reported a suspect with a [...]",
-      "title": "Suspect pleads not guilty in violent Beverly Hills murder",
-      "summary": "The man accused of beating and fatally running over another person during a shocking daytime attack in Beverly Hills last week has pleaded not guilty to a murder charge, prosecutors confirmed Friday. The Beverly Hills Police Department said officers were called around 12:42 p.m. Jan. 16 after multiple 911 callers reported a suspect with a [...]",
-      "url": "https://ktla.com/news/local-news/suspect-pleads-not-guilty-in-violent-beverly-hills-murder/",
-      "source": "KTLA",
-      "published_at": "2026-01-23T22:01:47+00:00",
       "tags": [
         "airport/security"
       ],
