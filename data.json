@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-01-24T23:20:16.568455+00:00",
+  "generated_at": "2026-01-24T23:46:28.521442+00:00",
   "items": [
+    {
+      "id": "85a95e09fd7cd13f",
+      "title_orig": "Man is shot and killed during Minneapolis immigration crackdown, National Guard activated",
+      "summary_orig": "MINNEAPOLIS (AP) — A federal immigration officer shot and killed a man Saturday in Minneapolis, drawing hundreds of protesters onto…",
+      "lang": "en",
+      "title_en": "Man is shot and killed during Minneapolis immigration crackdown, National Guard activated",
+      "summary_en": "MINNEAPOLIS (AP) — A federal immigration officer shot and killed a man Saturday in Minneapolis, drawing hundreds of protesters onto…",
+      "title": "Man is shot and killed during Minneapolis immigration crackdown, National Guard activated",
+      "summary": "MINNEAPOLIS (AP) — A federal immigration officer shot and killed a man Saturday in Minneapolis, drawing hundreds of protesters onto…",
+      "url": "https://wtop.com/national/2026/01/federal-officers-shot-another-person-in-minneapolis-amid-immigration-crackdown-governor-says/",
+      "source": "WTOP News",
+      "published_at": "2026-01-24T23:31:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "8682cf325ac02ff0",
       "title_orig": "Delta flight diverts to Syracuse after in-flight medical emergency",
@@ -53,24 +71,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "033ab5f17f7cd41a",
-      "title_orig": "A man fatally shot by a federal officer in Minnesota worked as an ICU nurse, his parents say",
-      "summary_orig": "A federal immigration officer fatally shot a man in Minneapolis on Saturday, drawing hundreds of protesters onto the frigidly cold…",
-      "lang": "en",
-      "title_en": "A man fatally shot by a federal officer in Minnesota worked as an ICU nurse, his parents say",
-      "summary_en": "A federal immigration officer fatally shot a man in Minneapolis on Saturday, drawing hundreds of protesters onto the frigidly cold…",
-      "title": "A man fatally shot by a federal officer in Minnesota worked as an ICU nurse, his parents say",
-      "summary": "A federal immigration officer fatally shot a man in Minneapolis on Saturday, drawing hundreds of protesters onto the frigidly cold…",
-      "url": "https://wtop.com/national/2026/01/governor-a-person-has-been-shot-killed-by-federal-officers-in-minnesota-amid-immigration-crackdown/",
-      "source": "WTOP News",
-      "published_at": "2026-01-24T22:58:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -470,6 +470,24 @@
       "geo": {}
     },
     {
+      "id": "46e90352bd91e339",
+      "title_orig": "Federal immigration agents kill another US citizen in Minneapolis, sparking protests",
+      "summary_orig": "US officials said the man, who has not been named, was armed.",
+      "lang": "en",
+      "title_en": "Federal immigration agents kill another US citizen in Minneapolis, sparking protests",
+      "summary_en": "US officials said the man, who has not been named, was armed.",
+      "title": "Federal immigration agents kill another US citizen in Minneapolis, sparking protests",
+      "summary": "US officials said the man, who has not been named, was armed.",
+      "url": "https://www.straitstimes.com/world/united-states/federal-agents-fatally-shoot-second-person-in-minneapolis-amid-immigration-crackdown",
+      "source": "The Straits Times World News",
+      "published_at": "2026-01-24T18:13:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "569c37695e858c76",
       "title_orig": "Palestine protest speaker 'cannot process' loss of friends in Gaza",
       "summary_orig": "Crowds marched through Dublin today to demand government action and sanctions against Israel.",
@@ -748,24 +766,6 @@
         "lat": 51.47,
         "lon": -0.4543
       }
-    },
-    {
-      "id": "27b802bf5773b20e",
-      "title_orig": "Two days of peace talks end as Russia continues Ukraine attacks",
-      "summary_orig": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
-      "lang": "en",
-      "title_en": "Two days of peace talks end as Russia continues Ukraine attacks",
-      "summary_en": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
-      "title": "Two days of peace talks end as Russia continues Ukraine attacks",
-      "summary": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
-      "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-01-24T16:56:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "02fc0f33379ef72d",
