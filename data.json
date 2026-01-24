@@ -1,15 +1,33 @@
 {
-  "generated_at": "2026-01-24T18:57:26.711522+00:00",
+  "generated_at": "2026-01-24T19:17:51.132429+00:00",
   "items": [
     {
-      "id": "5aba766a9c171a38",
-      "title_orig": "Live: Federal agents shot and killed Minneapolis man, DHS officials say he was armed",
-      "summary_orig": "A bystander video shows several agents wrestled with man on a city sidewalk moments before the shooting. Police chief Brian O’Hara issued a plea for calm, as protesters gathered at the scene: “Please do not destroy our own city.”",
+      "id": "85a95e09fd7cd13f",
+      "title_orig": "Police chief calls for calm after a man is shot and killed during Minneapolis immigration crackdown",
+      "summary_orig": "MINNEAPOLIS (AP) — Federal immigration officers shot and killed a man Saturday in Minneapolis, drawing hundreds of protesters in a…",
       "lang": "en",
-      "title_en": "Live: Federal agents shot and killed Minneapolis man, DHS officials say he was armed",
-      "summary_en": "A bystander video shows several agents wrestled with man on a city sidewalk moments before the shooting. Police chief Brian O’Hara issued a plea for calm, as protesters gathered at the scene: “Please do not destroy our own city.”",
-      "title": "Live: Federal agents shot and killed Minneapolis man, DHS officials say he was armed",
-      "summary": "A bystander video shows several agents wrestled with man on a city sidewalk moments before the shooting. Police chief Brian O’Hara issued a plea for calm, as protesters gathered at the scene: “Please do not destroy our own city.”",
+      "title_en": "Police chief calls for calm after a man is shot and killed during Minneapolis immigration crackdown",
+      "summary_en": "MINNEAPOLIS (AP) — Federal immigration officers shot and killed a man Saturday in Minneapolis, drawing hundreds of protesters in a…",
+      "title": "Police chief calls for calm after a man is shot and killed during Minneapolis immigration crackdown",
+      "summary": "MINNEAPOLIS (AP) — Federal immigration officers shot and killed a man Saturday in Minneapolis, drawing hundreds of protesters in a…",
+      "url": "https://wtop.com/national/2026/01/federal-officers-shot-another-person-in-minneapolis-amid-immigration-crackdown-governor-says/",
+      "source": "WTOP News",
+      "published_at": "2026-01-24T18:51:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5aba766a9c171a38",
+      "title_orig": "Live: Federal agents shot and killed Minneapolis man; DHS officials say he was armed",
+      "summary_orig": "A bystander video shows several agents wrestling with the man on a city sidewalk moments before the shooting. Police chief Brian O’Hara issued a plea for calm as protesters gathered at the scene: “Please do not destroy our own city.”",
+      "lang": "en",
+      "title_en": "Live: Federal agents shot and killed Minneapolis man; DHS officials say he was armed",
+      "summary_en": "A bystander video shows several agents wrestling with the man on a city sidewalk moments before the shooting. Police chief Brian O’Hara issued a plea for calm as protesters gathered at the scene: “Please do not destroy our own city.”",
+      "title": "Live: Federal agents shot and killed Minneapolis man; DHS officials say he was armed",
+      "summary": "A bystander video shows several agents wrestling with the man on a city sidewalk moments before the shooting. Police chief Brian O’Hara issued a plea for calm as protesters gathered at the scene: “Please do not destroy our own city.”",
       "url": "https://www.startribune.com/ice-raids-minnesota/601546426",
       "source": "Startribune News",
       "published_at": "2026-01-24T18:47:27+00:00",
@@ -85,24 +103,6 @@
       "url": "https://www.denverpost.com/2026/01/24/denver-dia-flights-canceled-weather/",
       "source": "The Denver Post",
       "published_at": "2026-01-24T18:29:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "85a95e09fd7cd13f",
-      "title_orig": "Police chief calls for calm after a man is shot and killed during Minneapolis immigration crackdown",
-      "summary_orig": "MINNEAPOLIS (AP) — Federal immigration officers shot and killed a man Saturday in Minneapolis, drawing hundreds of protesters in a…",
-      "lang": "en",
-      "title_en": "Police chief calls for calm after a man is shot and killed during Minneapolis immigration crackdown",
-      "summary_en": "MINNEAPOLIS (AP) — Federal immigration officers shot and killed a man Saturday in Minneapolis, drawing hundreds of protesters in a…",
-      "title": "Police chief calls for calm after a man is shot and killed during Minneapolis immigration crackdown",
-      "summary": "MINNEAPOLIS (AP) — Federal immigration officers shot and killed a man Saturday in Minneapolis, drawing hundreds of protesters in a…",
-      "url": "https://wtop.com/national/2026/01/federal-officers-shot-another-person-in-minneapolis-amid-immigration-crackdown-governor-says/",
-      "source": "WTOP News",
-      "published_at": "2026-01-24T18:12:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -328,12 +328,12 @@
     },
     {
       "id": "07481cc47dbac313",
-      "title_orig": "ICE agents shoot and kill man at  Minnesota protest as person cries 'not again'",
+      "title_orig": "ICE agents shoot and kill US citizen at Minnesota protest as person cries 'not again'",
       "summary_orig": "Disturbing video footage appears to show four ICE agents wrestling a man to the ground in Minneapolis",
       "lang": "en",
-      "title_en": "ICE agents shoot and kill man at  Minnesota protest as person cries 'not again'",
+      "title_en": "ICE agents shoot and kill US citizen at Minnesota protest as person cries 'not again'",
       "summary_en": "Disturbing video footage appears to show four ICE agents wrestling a man to the ground in Minneapolis",
-      "title": "ICE agents shoot and kill man at  Minnesota protest as person cries 'not again'",
+      "title": "ICE agents shoot and kill US citizen at Minnesota protest as person cries 'not again'",
       "summary": "Disturbing video footage appears to show four ICE agents wrestling a man to the ground in Minneapolis",
       "url": "https://www.dailyrecord.co.uk/news/uk-world-news/ice-agents-shoot-kill-man-36608776",
       "source": "Daily Record - Home",
@@ -571,12 +571,12 @@
     },
     {
       "id": "6fd081443a32258b",
-      "title_orig": "US federal agents kill second person during Minneapolis immigration crackdown",
+      "title_orig": "Man shot dead by US immigration agents in Minneapolis as police chief warn of 'volatile' scene",
       "summary_orig": "Federal immigration agents shot dead a man during an operation in Minneapolis on Saturday, officials said, as police chief Brian O’Hara described an “incredibly volatile scene” and urged residents to avoid the area amid protests against the Trump administration’s immigration crackdown.",
       "lang": "en",
-      "title_en": "US federal agents kill second person during Minneapolis immigration crackdown",
+      "title_en": "Man shot dead by US immigration agents in Minneapolis as police chief warn of 'volatile' scene",
       "summary_en": "Federal immigration agents shot dead a man during an operation in Minneapolis on Saturday, officials said, as police chief Brian O’Hara described an “incredibly volatile scene” and urged residents to avoid the area amid protests against the Trump administration’s immigration crackdown.",
-      "title": "US federal agents kill second person during Minneapolis immigration crackdown",
+      "title": "Man shot dead by US immigration agents in Minneapolis as police chief warn of 'volatile' scene",
       "summary": "Federal immigration agents shot dead a man during an operation in Minneapolis on Saturday, officials said, as police chief Brian O’Hara described an “incredibly volatile scene” and urged residents to avoid the area amid protests against the Trump administration’s immigration crackdown.",
       "url": "https://www.france24.com/en/americas/20260124-us-federal-agents-carry-out-another-horrific-shooting-minneapolis-governor",
       "source": "France 24 - International breaking news, top stories and headlines",
@@ -635,6 +635,24 @@
       "url": "https://ktla.com/news/federal-officers-shot-another-person-in-minneapolis-amid-immigration-crackdown-governor-says/",
       "source": "KTLA",
       "published_at": "2026-01-24T16:33:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c60500d50afc2e55",
+      "title_orig": "Police chief calls for calm after a man is shot and killed during Minneapolis immigration crackdown",
+      "summary_orig": "Federal immigration officers have shot and killed a man in Minneapolis, drawing hundreds of protesters in a city already shaken by another fatal shooting weeks earlier.",
+      "lang": "en",
+      "title_en": "Police chief calls for calm after a man is shot and killed during Minneapolis immigration crackdown",
+      "summary_en": "Federal immigration officers have shot and killed a man in Minneapolis, drawing hundreds of protesters in a city already shaken by another fatal shooting weeks earlier.",
+      "title": "Police chief calls for calm after a man is shot and killed during Minneapolis immigration crackdown",
+      "summary": "Federal immigration officers have shot and killed a man in Minneapolis, drawing hundreds of protesters in a city already shaken by another fatal shooting weeks earlier.",
+      "url": "https://www.seattletimes.com/nation-world/nation/federal-officers-shot-another-person-in-minneapolis-amid-immigration-crackdown-governor-says/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-24T16:25:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -905,24 +923,6 @@
       "url": "https://www.thehindu.com/news/national/telangana/trash-collector-falls-into-compactor-machine-at-ghmc-transfer-station-in-yousufguda-dies/article70546929.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2026-01-24T15:31:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6a0695687a135d12",
-      "title_orig": "Ukraine, Russia conclude second day of US-led peace talks in Abu Dhabi",
-      "summary_orig": "Zelenskyy says trilateral negotiations were constructive, with more meetings possible next week, despite massive Russian airstrikes overnight.",
-      "lang": "en",
-      "title_en": "Ukraine, Russia conclude second day of US-led peace talks in Abu Dhabi",
-      "summary_en": "Zelenskyy says trilateral negotiations were constructive, with more meetings possible next week, despite massive Russian airstrikes overnight.",
-      "title": "Ukraine, Russia conclude second day of US-led peace talks in Abu Dhabi",
-      "summary": "Zelenskyy says trilateral negotiations were constructive, with more meetings possible next week, despite massive Russian airstrikes overnight.",
-      "url": "https://www.politico.eu/article/ukraine-russia-second-day-us-peace-talks-abu-dhabi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "source": "POLITICO",
-      "published_at": "2026-01-24T15:22:37+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1389,24 +1389,6 @@
       "geo": {}
     },
     {
-      "id": "907110af478a2d6b",
-      "title_orig": "Minneapolis residents shelter immigrant children separated from parents and sought by federal agents",
-      "summary_orig": "As more than 2,000 federal agents surge in Minneapolis in an immigration crackdown and clash with protesters on the streets, countless residents are also quietly resisting the operation through grassroots networks sheltering and supporting immigrants.",
-      "lang": "en",
-      "title_en": "Minneapolis residents shelter immigrant children separated from parents and sought by federal agents",
-      "summary_en": "As more than 2,000 federal agents surge in Minneapolis in an immigration crackdown and clash with protesters on the streets, countless residents are also quietly resisting the operation through grassroots networks sheltering and supporting immigrants.",
-      "title": "Minneapolis residents shelter immigrant children separated from parents and sought by federal agents",
-      "summary": "As more than 2,000 federal agents surge in Minneapolis in an immigration crackdown and clash with protesters on the streets, countless residents are also quietly resisting the operation through grassroots networks sheltering and supporting immigrants.",
-      "url": "https://www.seattletimes.com/nation-world/nation/minneapolis-residents-shelter-immigrant-children-separated-from-parents-and-sought-by-federal-agents/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-24T13:27:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "891289cd70c29456",
       "title_orig": "‘Massive’ Russian strikes on Ukraine hit negotiation table as well as people, Kyiv says – as it happened",
       "summary_orig": "this blog is now closed, you can read more on this story here India and Europe hope to strike the “mother of all deals” when EU chiefs meet prime minister Narendra Modi in New Delhi next week, as the two economic behemoths seek to forge closer ties, AFP reports. Facing challenges from China and the United States, India and the European Union have been negotiating a massive free trade pact – and talks, first launched about two decades ago, are nearing the finishing line. Continue reading...",
@@ -1542,7 +1524,7 @@
       "title": "Welsh first minister: Senedd election should not be referendum on Starmer",
       "summary": "Exclusive: Eluned Morgan says it is not time for protest votes when the economy and public services are at stake The Labour first minister of Wales has urged voters not to treat the May elections as a referendum on Keir Starmer, calling on them to focus on the country’s future instead, with the party on course for a fight for third place. Eluned Morgan said it was not the time to send a protest vote to the prime minister when two pro-independence parties – Plaid Cymru and the Greens – could end up in power and so much was at stake for the economy and public services. Continue reading...",
       "url": "https://www.theguardian.com/politics/2026/jan/24/welsh-first-minister-senedd-election-not-referendum-starmer",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-01-24T12:00:39+00:00",
       "tags": [
         "airport/security"
@@ -2192,24 +2174,6 @@
       "url": "https://www.hindustantimes.com/india-news/maharashtra-govt-with-iit-bombay-building-ai-tool-to-identify-illegal-bangladeshis-101769212761109.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2026-01-24T05:36:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9f804476cd4a66f5",
-      "title_orig": "More rain expected at the Mount as recovery continues, East Coast landslide risks prompt evacuations",
-      "summary_orig": "According to MetService there will be periods of fine weather which should help emergency services, but there will be a few showers late morning and in the afternoon.",
-      "lang": "en",
-      "title_en": "More rain expected at the Mount as recovery continues, East Coast landslide risks prompt evacuations",
-      "summary_en": "According to MetService there will be periods of fine weather which should help emergency services, but there will be a few showers late morning and in the afternoon.",
-      "title": "More rain expected at the Mount as recovery continues, East Coast landslide risks prompt evacuations",
-      "summary": "According to MetService there will be periods of fine weather which should help emergency services, but there will be a few showers late morning and in the afternoon.",
-      "url": "https://www.stuff.co.nz/nz-news/360926209/northland-expecting-heavy-downfall-locals-deal-sundays-flood-waters",
-      "source": "Stuff - /",
-      "published_at": "2026-01-24T05:25:52+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2967,24 +2931,6 @@
       "url": "https://www.leicestermercury.co.uk/news/leicester-news/leicester-doctor-suffers-heart-attack-10773418",
       "source": "Leicestershire Live - frontpage",
       "published_at": "2026-01-23T19:07:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8ce44f9557201aff",
-      "title_orig": "Man who stabbed woman to death in frenzied attack at London bus stop is given hospital order",
-      "summary_orig": "Jala Debella, 25, of Colindale, Barnet, has been handed an indefinite hospital order and could be re-tried if doctors deem him fit enough to stand trial",
-      "lang": "en",
-      "title_en": "Man who stabbed woman to death in frenzied attack at London bus stop is given hospital order",
-      "summary_en": "Jala Debella, 25, of Colindale, Barnet, has been handed an indefinite hospital order and could be re-tried if doctors deem him fit enough to stand trial",
-      "title": "Man who stabbed woman to death in frenzied attack at London bus stop is given hospital order",
-      "summary": "Jala Debella, 25, of Colindale, Barnet, has been handed an indefinite hospital order and could be re-tried if doctors deem him fit enough to stand trial",
-      "url": "https://www.standard.co.uk/news/crime/man-stabbed-woman-death-attack-london-bus-stop-hospital-order-b1267891.html",
-      "source": "The Standard News",
-      "published_at": "2026-01-23T18:53:59+00:00",
       "tags": [
         "airport/security"
       ],
