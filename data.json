@@ -1,23 +1,86 @@
 {
-  "generated_at": "2026-01-24T16:53:25.035161+00:00",
+  "generated_at": "2026-01-24T17:19:00.292748+00:00",
   "items": [
     {
-      "id": "ea7144af12fd2300",
-      "title_orig": "Federal officers shoot another person in Minneapolis during protests: governor",
-      "summary_orig": "Protesters have gathered daily since 37-year-old mother of three Renee Good was killed by an ICE officer.",
+      "id": "279e7ce0228fbed1",
+      "title_orig": "Residents say owners knew of safety risks months before NDG evacuation",
+      "summary_orig": "An engineering report commissioned by the owner and dated Nov. 3 described the building as critical and called for the immediate evacuation of all occupants.",
       "lang": "en",
-      "title_en": "Federal officers shoot another person in Minneapolis during protests: governor",
-      "summary_en": "Protesters have gathered daily since 37-year-old mother of three Renee Good was killed by an ICE officer.",
-      "title": "Federal officers shoot another person in Minneapolis during protests: governor",
-      "summary": "Protesters have gathered daily since 37-year-old mother of three Renee Good was killed by an ICE officer.",
-      "url": "https://www.pennlive.com/nation-world/2026/01/federal-officers-shoot-another-person-in-minneapolis-during-protests-governor.html",
-      "source": "pennlive.com",
-      "published_at": "2026-01-24T16:37:35+00:00",
+      "title_en": "Residents say owners knew of safety risks months before NDG evacuation",
+      "summary_en": "An engineering report commissioned by the owner and dated Nov. 3 described the building as critical and called for the immediate evacuation of all occupants.",
+      "title": "Residents say owners knew of safety risks months before NDG evacuation",
+      "summary": "An engineering report commissioned by the owner and dated Nov. 3 described the building as critical and called for the immediate evacuation of all occupants.",
+      "url": "https://globalnews.ca/news/11636095/evacuated-ndg-residents-say-owners-knew-safety-risks/",
+      "source": "globalnews.ca",
+      "published_at": "2026-01-24T17:13:32+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "local news",
       "geo": {}
+    },
+    {
+      "id": "3fb478da498ca62e",
+      "title_orig": "Minneapolis shooting live: city officials report another incident ‘involving federal law enforcement’",
+      "summary_orig": "Shooting comes less than three weeks after Renee Good was shot and killed by an ICE officer in the city Minnesotans have been protesting against the White House’s decision to flood the relatively small, liberal midwestern city of Minneapolis with federal immigration enforcement personnel in recent weeks. Those demonstrations have become a daily constant in much greater volume since an ICE officer shot dead resident (and US citizen) Renee Good on 7 January instead of stepping out of the way of her departing car. Continue reading...",
+      "lang": "en",
+      "title_en": "Minneapolis shooting live: city officials report another incident ‘involving federal law enforcement’",
+      "summary_en": "Shooting comes less than three weeks after Renee Good was shot and killed by an ICE officer in the city Minnesotans have been protesting against the White House’s decision to flood the relatively small, liberal midwestern city of Minneapolis with federal immigration enforcement personnel in recent weeks. Those demonstrations have become a daily constant in much greater volume since an ICE officer shot dead resident (and US citizen) Renee Good on 7 January instead of stepping out of the way of her departing car. Continue reading...",
+      "title": "Minneapolis shooting live: city officials report another incident ‘involving federal law enforcement’",
+      "summary": "Shooting comes less than three weeks after Renee Good was shot and killed by an ICE officer in the city Minnesotans have been protesting against the White House’s decision to flood the relatively small, liberal midwestern city of Minneapolis with federal immigration enforcement personnel in recent weeks. Those demonstrations have become a daily constant in much greater volume since an ICE officer shot dead resident (and US citizen) Renee Good on 7 January instead of stepping out of the way of her departing car. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
+      "source": "World news | The Guardian",
+      "published_at": "2026-01-24T17:06:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6bfee264c0ea3c78",
+      "title_orig": "Iranians gather in Dublin to demand expulsion of diplomats",
+      "summary_orig": "A demonstration in solidarity with Iranian protesters took place on O’Connell Street this afternoon.",
+      "lang": "en",
+      "title_en": "Iranians gather in Dublin to demand expulsion of diplomats",
+      "summary_en": "A demonstration in solidarity with Iranian protesters took place on O’Connell Street this afternoon.",
+      "title": "Iranians gather in Dublin to demand expulsion of diplomats",
+      "summary": "A demonstration in solidarity with Iranian protesters took place on O’Connell Street this afternoon.",
+      "url": "https://www.thejournal.ie/iran-protest-dublin-6937244-Jan2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-01-24T17:04:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7092aa0836219a79",
+      "title_orig": "Heathrow Airport ditches 100ml liquid container limit",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Heathrow Airport ditches 100ml liquid container limit",
+      "summary_en": "",
+      "title": "Heathrow Airport ditches 100ml liquid container limit",
+      "summary": "",
+      "url": "https://metro.co.uk/2026/01/24/heathrow-airport-ditches-100ml-liquid-container-limit-26490358/",
+      "source": "Metro",
+      "published_at": "2026-01-24T17:01:28+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
     },
     {
       "id": "feb1d5ba615ecde7",
@@ -30,7 +93,79 @@
       "summary": "Second day of landmark negotiations came as dozens injured and one killed in major Russian missile and drone attack, according to Ukrainian officials",
       "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-peace-talks-uae-b2906094.html",
       "source": "The Independent World",
-      "published_at": "2026-01-24T16:31:52+00:00",
+      "published_at": "2026-01-24T16:58:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "27b802bf5773b20e",
+      "title_orig": "Two days of peace talks end as Russia continues Ukraine attacks",
+      "summary_orig": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
+      "lang": "en",
+      "title_en": "Two days of peace talks end as Russia continues Ukraine attacks",
+      "summary_en": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
+      "title": "Two days of peace talks end as Russia continues Ukraine attacks",
+      "summary": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
+      "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-01-24T16:56:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b3df35f1abbeef71",
+      "title_orig": "Hamilton Accies 2 Cove Rangers 0: St Johnstone-linked striker climbs off bench to help land vital victory",
+      "summary_orig": "Accies struck twice in the second half to grab a vital three points in their League One survival bid",
+      "lang": "en",
+      "title_en": "Hamilton Accies 2 Cove Rangers 0: St Johnstone-linked striker climbs off bench to help land vital victory",
+      "summary_en": "Accies struck twice in the second half to grab a vital three points in their League One survival bid",
+      "title": "Hamilton Accies 2 Cove Rangers 0: St Johnstone-linked striker climbs off bench to help land vital victory",
+      "summary": "Accies struck twice in the second half to grab a vital three points in their League One survival bid",
+      "url": "https://www.dailyrecord.co.uk/sport/local-sport/hamilton-accies-2-cove-rangers-36608825",
+      "source": "Daily Record - Home",
+      "published_at": "2026-01-24T16:56:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "cef5818e838f38b7",
+      "title_orig": "Deputy First Minister joins protest against local hospital closure",
+      "summary_orig": "Hundreds of people in Maesteg joined a protest to save their local hospital site as Deputy First Minister and local MS for Ogmore Huw Irranca-Davies said local people must be part of any decisions",
+      "lang": "en",
+      "title_en": "Deputy First Minister joins protest against local hospital closure",
+      "summary_en": "Hundreds of people in Maesteg joined a protest to save their local hospital site as Deputy First Minister and local MS for Ogmore Huw Irranca-Davies said local people must be part of any decisions",
+      "title": "Deputy First Minister joins protest against local hospital closure",
+      "summary": "Hundreds of people in Maesteg joined a protest to save their local hospital site as Deputy First Minister and local MS for Ogmore Huw Irranca-Davies said local people must be part of any decisions",
+      "url": "https://www.walesonline.co.uk/news/wales-news/deputy-first-minister-joins-protest-33295944",
+      "source": "WalesOnline - Home",
+      "published_at": "2026-01-24T16:48:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ea7144af12fd2300",
+      "title_orig": "Federal officers shoot another person in Minneapolis during protests: governor",
+      "summary_orig": "Protesters have gathered daily since 37-year-old mother of three Renee Good was killed by an ICE officer.",
+      "lang": "en",
+      "title_en": "Federal officers shoot another person in Minneapolis during protests: governor",
+      "summary_en": "Protesters have gathered daily since 37-year-old mother of three Renee Good was killed by an ICE officer.",
+      "title": "Federal officers shoot another person in Minneapolis during protests: governor",
+      "summary": "Protesters have gathered daily since 37-year-old mother of three Renee Good was killed by an ICE officer.",
+      "url": "https://www.pennlive.com/nation-world/2026/01/federal-officers-shoot-another-person-in-minneapolis-during-protests-governor.html",
+      "source": "pennlive.com",
+      "published_at": "2026-01-24T16:37:35+00:00",
       "tags": [
         "airport/security"
       ],
@@ -56,6 +191,42 @@
       "geo": {}
     },
     {
+      "id": "e34e0edc54a11e99",
+      "title_orig": "Tehran warn it will treat any US strike as an \"all-out-war\"",
+      "summary_orig": "Iran will treat any attack \"as an all-out war against us,\" a senior Iranian official said on Friday, ahead of the arrival of a U.S. military aircraft carrier strike group and other assets in the Middle East in the coming days.\n\n\"This military buildup - we hope it is not intended for real confrontation - but our military is ready for the worst-case scenario. This is why everything is on high alert in Iran,\" said the senior Iranian official, speaking on condition of anonymity. Shirli Sitbon reports.",
+      "lang": "en",
+      "title_en": "Tehran warn it will treat any US strike as an \"all-out-war\"",
+      "summary_en": "Iran will treat any attack \"as an all-out war against us,\" a senior Iranian official said on Friday, ahead of the arrival of a U.S. military aircraft carrier strike group and other assets in the Middle East in the coming days.\n\n\"This military buildup - we hope it is not intended for real confrontation - but our military is ready for the worst-case scenario. This is why everything is on high alert in Iran,\" said the senior Iranian official, speaking on condition of anonymity. Shirli Sitbon reports.",
+      "title": "Tehran warn it will treat any US strike as an \"all-out-war\"",
+      "summary": "Iran will treat any attack \"as an all-out war against us,\" a senior Iranian official said on Friday, ahead of the arrival of a U.S. military aircraft carrier strike group and other assets in the Middle East in the coming days.\n\n\"This military buildup - we hope it is not intended for real confrontation - but our military is ready for the worst-case scenario. This is why everything is on high alert in Iran,\" said the senior Iranian official, speaking on condition of anonymity. Shirli Sitbon reports.",
+      "url": "https://www.france24.com/en/tehran-warn-it-will-treat-any-us-strike-as-an-all-out-war",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-01-24T16:14:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "31e91267937f94b0",
+      "title_orig": "'Brutal' attack on Ukraine amid talks",
+      "summary_orig": "The first three-way talks between Russia, Ukraine and the US have ended with no apparent breakthrough, following renewed Russian bombardment of Ukrainian targets. France24 correspondent Gulliver Cragg tells us more.",
+      "lang": "en",
+      "title_en": "'Brutal' attack on Ukraine amid talks",
+      "summary_en": "The first three-way talks between Russia, Ukraine and the US have ended with no apparent breakthrough, following renewed Russian bombardment of Ukrainian targets. France24 correspondent Gulliver Cragg tells us more.",
+      "title": "'Brutal' attack on Ukraine amid talks",
+      "summary": "The first three-way talks between Russia, Ukraine and the US have ended with no apparent breakthrough, following renewed Russian bombardment of Ukrainian targets. France24 correspondent Gulliver Cragg tells us more.",
+      "url": "https://www.france24.com/en/brutal-attack-on-ukraine-amid-talks",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-01-24T16:11:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "40c03ac36a126b90",
       "title_orig": "Harper Beckham breaks silence with Romeo post after Brooklyn's attack on parents",
       "summary_orig": "Harper Beckham has made her first Instagram post since brother Brooklyn's controversial statement about parents David and Victoria - congratulating Romeo on Paris Fashion Week",
@@ -71,6 +242,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9192c4d6b2d3b2fc",
+      "title_orig": "US tightens military posture near Iran",
+      "summary_orig": "As the United States maintains pressure and threats against Iran, the Islamic Republic has warned that “any attack against it will be considered a total war.” Some airlines subsequently announced the suspension of their Middle East routes; Air France had done the same, but as of midday the company has announced that it will resume its service to Dubai. France24 correspondent Reza Sayah speaks to us for the first time sinche the internet blockade from Tehran.",
+      "lang": "en",
+      "title_en": "US tightens military posture near Iran",
+      "summary_en": "As the United States maintains pressure and threats against Iran, the Islamic Republic has warned that “any attack against it will be considered a total war.” Some airlines subsequently announced the suspension of their Middle East routes; Air France had done the same, but as of midday the company has announced that it will resume its service to Dubai. France24 correspondent Reza Sayah speaks to us for the first time sinche the internet blockade from Tehran.",
+      "title": "US tightens military posture near Iran",
+      "summary": "As the United States maintains pressure and threats against Iran, the Islamic Republic has warned that “any attack against it will be considered a total war.” Some airlines subsequently announced the suspension of their Middle East routes; Air France had done the same, but as of midday the company has announced that it will resume its service to Dubai. France24 correspondent Reza Sayah speaks to us for the first time sinche the internet blockade from Tehran.",
+      "url": "https://www.france24.com/en/us-tightens-military-posture-near-iran",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-01-24T16:07:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -211,24 +400,6 @@
       "url": "https://simpleflying.com/car-crashes-delta-check-in-detroit-metro-airport/",
       "source": "Simple Flying",
       "published_at": "2026-01-24T15:36:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "27b802bf5773b20e",
-      "title_orig": "Two days of peace talks end as Russia continues Ukraine attacks",
-      "summary_orig": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
-      "lang": "en",
-      "title_en": "Two days of peace talks end as Russia continues Ukraine attacks",
-      "summary_en": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
-      "title": "Two days of peace talks end as Russia continues Ukraine attacks",
-      "summary": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
-      "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-01-24T15:33:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -425,24 +596,6 @@
       "geo": {}
     },
     {
-      "id": "9021d694241ab1f7",
-      "title_orig": "Wife of Uganda’s opposition leader recounts how armed men attacked her at her home",
-      "summary_orig": "Armed men have attacked the home of Ugandan opposition leader Bobi Wine, targeting his wife, Barbara Kyagulanyi.",
-      "lang": "en",
-      "title_en": "Wife of Uganda’s opposition leader recounts how armed men attacked her at her home",
-      "summary_en": "Armed men have attacked the home of Ugandan opposition leader Bobi Wine, targeting his wife, Barbara Kyagulanyi.",
-      "title": "Wife of Uganda’s opposition leader recounts how armed men attacked her at her home",
-      "summary": "Armed men have attacked the home of Ugandan opposition leader Bobi Wine, targeting his wife, Barbara Kyagulanyi.",
-      "url": "https://www.seattletimes.com/nation-world/wife-of-ugandas-opposition-leader-recounts-how-armed-men-attacked-her-at-her-home/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-24T14:51:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "19683bd6a867575b",
       "title_orig": "Israeli drone strike kills two children collecting firewood in Gaza",
       "summary_orig": "The attack hits civilians gathering firewood near Kamal Adwan Hospital in northern Gaza, sources say.",
@@ -605,24 +758,6 @@
       "geo": {}
     },
     {
-      "id": "2c02cfb03b655bf0",
-      "title_orig": "Seeing ghosts? Why it’s right to be jittery about an ICE crackdown",
-      "summary_orig": "Seattle put four schools on lockdown due to fears of immigration roundups. They were wrong. But ICE's own Washington data shows there's good reason to be on edge, writes columnist Danny Westneat.",
-      "lang": "en",
-      "title_en": "Seeing ghosts? Why it’s right to be jittery about an ICE crackdown",
-      "summary_en": "Seattle put four schools on lockdown due to fears of immigration roundups. They were wrong. But ICE's own Washington data shows there's good reason to be on edge, writes columnist Danny Westneat.",
-      "title": "Seeing ghosts? Why it’s right to be jittery about an ICE crackdown",
-      "summary": "Seattle put four schools on lockdown due to fears of immigration roundups. They were wrong. But ICE's own Washington data shows there's good reason to be on edge, writes columnist Danny Westneat.",
-      "url": "https://www.seattletimes.com/seattle-news/seeing-ghosts-why-its-right-to-be-jittery-about-an-ice-crackdown/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-24T14:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "dcb36e338bdd1ecb",
       "title_orig": "Putin sours peace talks with overnight drone strikes in Ukraine",
       "summary_orig": "The bombardment damaged a maternity hospital.",
@@ -778,24 +913,6 @@
       "url": "https://www.abc.net.au/news/2026-01-25/russia-attacks-ukraine-amid-peace-talks-with-united-states/106266046",
       "source": "Just In",
       "published_at": "2026-01-24T13:27:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "907110af478a2d6b",
-      "title_orig": "Minneapolis residents shelter immigrant children separated from parents and sought by federal agents",
-      "summary_orig": "As more than 2,000 federal agents surge in Minneapolis in an immigration crackdown and clash with protesters on the streets, countless residents are also quietly resisting the operation through grassroots networks sheltering and supporting immigrants.",
-      "lang": "en",
-      "title_en": "Minneapolis residents shelter immigrant children separated from parents and sought by federal agents",
-      "summary_en": "As more than 2,000 federal agents surge in Minneapolis in an immigration crackdown and clash with protesters on the streets, countless residents are also quietly resisting the operation through grassroots networks sheltering and supporting immigrants.",
-      "title": "Minneapolis residents shelter immigrant children separated from parents and sought by federal agents",
-      "summary": "As more than 2,000 federal agents surge in Minneapolis in an immigration crackdown and clash with protesters on the streets, countless residents are also quietly resisting the operation through grassroots networks sheltering and supporting immigrants.",
-      "url": "https://www.seattletimes.com/nation-world/nation/minneapolis-residents-shelter-immigrant-children-separated-from-parents-and-sought-by-federal-agents/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-24T13:27:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1016,24 +1133,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "e3feaf98e89cbb83",
-      "title_orig": "Next UK snow bomb will be 18 inches deep and last for 24 hours non-stop",
-      "summary_orig": "WX Charts maps and charts show the UK could be buried under up to 18 inches",
-      "lang": "en",
-      "title_en": "Next UK snow bomb will be 18 inches deep and last for 24 hours non-stop",
-      "summary_en": "WX Charts maps and charts show the UK could be buried under up to 18 inches",
-      "title": "Next UK snow bomb will be 18 inches deep and last for 24 hours non-stop",
-      "summary": "WX Charts maps and charts show the UK could be buried under up to 18 inches",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/next-uk-snow-bomb-18-33295111",
-      "source": "Birmingham Live - News",
-      "published_at": "2026-01-24T11:41:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1505,24 +1604,6 @@
       "geo": {}
     },
     {
-      "id": "1f40f71690f17dca",
-      "title_orig": "Air France resumes service to Dubai, KLM suspends Middle East flights as US forces head to Gulf",
-      "summary_orig": "Air France resumed its service to Dubai on Saturday after temporarily suspending it the previous day amid heightened US-Iran tensions. Dutch airline KLM has halted several flights passing over the Middle East as a US \"armada\" heads toward the Gulf over Iran's bloody crackdown on protests.",
-      "lang": "en",
-      "title_en": "Air France resumes service to Dubai, KLM suspends Middle East flights as US forces head to Gulf",
-      "summary_en": "Air France resumed its service to Dubai on Saturday after temporarily suspending it the previous day amid heightened US-Iran tensions. Dutch airline KLM has halted several flights passing over the Middle East as a US \"armada\" heads toward the Gulf over Iran's bloody crackdown on protests.",
-      "title": "Air France resumes service to Dubai, KLM suspends Middle East flights as US forces head to Gulf",
-      "summary": "Air France resumed its service to Dubai on Saturday after temporarily suspending it the previous day amid heightened US-Iran tensions. Dutch airline KLM has halted several flights passing over the Middle East as a US \"armada\" heads toward the Gulf over Iran's bloody crackdown on protests.",
-      "url": "https://www.france24.com/en/europe/20260124-air-france-halts-service-to-dubai-klm-suspends-middle-east-flights",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-01-24T08:03:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "a70f47cca09450f9",
       "title_orig": "Why a top-six finish for Hibs would feel like anything but success as star man makes 'not looking back' claim",
       "summary_orig": "Former Aberdeen attacker McGrath closing in on personal goals target",
@@ -1592,24 +1673,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3f80f361f4bb55e6",
-      "title_orig": "Thousands protest Minneapolis immigration crackdown, detention of five-year-old boy",
-      "summary_orig": "Thousands of people on Friday protested against the Trump administration's immigration crackdown in Minneapolis amid anger over the detention of a five-year-old immigrant boy. Images of pre-schooler Liam Conejo Ramos being held by immigration officers have rekindled public outrage at Immigration and Customs Enforcement (ICE).",
-      "lang": "en",
-      "title_en": "Thousands protest Minneapolis immigration crackdown, detention of five-year-old boy",
-      "summary_en": "Thousands of people on Friday protested against the Trump administration's immigration crackdown in Minneapolis amid anger over the detention of a five-year-old immigrant boy. Images of pre-schooler Liam Conejo Ramos being held by immigration officers have rekindled public outrage at Immigration and Customs Enforcement (ICE).",
-      "title": "Thousands protest Minneapolis immigration crackdown, detention of five-year-old boy",
-      "summary": "Thousands of people on Friday protested against the Trump administration's immigration crackdown in Minneapolis amid anger over the detention of a five-year-old immigrant boy. Images of pre-schooler Liam Conejo Ramos being held by immigration officers have rekindled public outrage at Immigration and Customs Enforcement (ICE).",
-      "url": "https://www.france24.com/en/americas/20260124-thousands-protest-against-us-immigration-crackdown-child-s-detention",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-01-24T06:54:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1721,24 +1784,6 @@
       "geo": {}
     },
     {
-      "id": "8b741f10e6f8fa4a",
-      "title_orig": "Iran’s military-grade crackdown expands from Kurdish areas – and Kurds fear the worst",
-      "summary_orig": "The Iranian regime’s recent crackdown on protests in Tehran and the country’s central region featured the use of military weapons, such as automatic or semi-automatic machine guns, that were previously only deployed in the remote northwestern Kurdish areas, according to Amnesty International. For Iran’s overlooked Kurdish minority, it could mean there’s worse to come.",
-      "lang": "en",
-      "title_en": "Iran’s military-grade crackdown expands from Kurdish areas – and Kurds fear the worst",
-      "summary_en": "The Iranian regime’s recent crackdown on protests in Tehran and the country’s central region featured the use of military weapons, such as automatic or semi-automatic machine guns, that were previously only deployed in the remote northwestern Kurdish areas, according to Amnesty International. For Iran’s overlooked Kurdish minority, it could mean there’s worse to come.",
-      "title": "Iran’s military-grade crackdown expands from Kurdish areas – and Kurds fear the worst",
-      "summary": "The Iranian regime’s recent crackdown on protests in Tehran and the country’s central region featured the use of military weapons, such as automatic or semi-automatic machine guns, that were previously only deployed in the remote northwestern Kurdish areas, according to Amnesty International. For Iran’s overlooked Kurdish minority, it could mean there’s worse to come.",
-      "url": "https://www.france24.com/en/middle-east/20260124-iran-s-military-grade-crackdown-expands-from-kurdish-areas-%E2%80%93-and-kurds-fear-the-worst",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-01-24T05:48:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "30f550e04d38da5f",
       "title_orig": "Maharashtra govt with IIT-Bombay building AI tool to ‘identify’ illegal Bangladeshis",
       "summary_orig": "During the launch of the Mahayuti manifesto on January 11, chief minister Devendra Fadnavis said, “We’ll free Mumbai from Bangladeshis.",
@@ -1758,12 +1803,12 @@
     },
     {
       "id": "9f804476cd4a66f5",
-      "title_orig": "Slip risks prompt East Coast evacuations after names of six victims in Mount Maunganui landslide revealed",
+      "title_orig": "Slip risks prompt East Coast evacuations after names of Mount landslide victims revealed",
       "summary_orig": "Evacuations are underway on the East Coast in Onepoto and parts of Te Araroa due to landslide risks from the hills above.",
       "lang": "en",
-      "title_en": "Slip risks prompt East Coast evacuations after names of six victims in Mount Maunganui landslide revealed",
+      "title_en": "Slip risks prompt East Coast evacuations after names of Mount landslide victims revealed",
       "summary_en": "Evacuations are underway on the East Coast in Onepoto and parts of Te Araroa due to landslide risks from the hills above.",
-      "title": "Slip risks prompt East Coast evacuations after names of six victims in Mount Maunganui landslide revealed",
+      "title": "Slip risks prompt East Coast evacuations after names of Mount landslide victims revealed",
       "summary": "Evacuations are underway on the East Coast in Onepoto and parts of Te Araroa due to landslide risks from the hills above.",
       "url": "https://www.stuff.co.nz/nz-news/360926209/northland-expecting-heavy-downfall-locals-deal-sundays-flood-waters",
       "source": "Stuff - /",
@@ -2334,24 +2379,6 @@
       "geo": {}
     },
     {
-      "id": "114f9158974e4856",
-      "title_orig": "US kills 2 in first known strike on alleged drug boat since Maduro’s capture",
-      "summary_orig": "The US military said on Friday that it had carried out a deadly strike on a vessel accused of trafficking drugs in the eastern Pacific Ocean, the first known attack since the raid that captured Venezuelan President Nicolas Maduro earlier this month.\nUS Southern Command said on social media that the boat was “engaged in narco-trafficking operations” and that the strike killed two people and left one survivor.\nIt said it notified the coastguard to launch search and rescue operations for that...",
-      "lang": "en",
-      "title_en": "US kills 2 in first known strike on alleged drug boat since Maduro’s capture",
-      "summary_en": "The US military said on Friday that it had carried out a deadly strike on a vessel accused of trafficking drugs in the eastern Pacific Ocean, the first known attack since the raid that captured Venezuelan President Nicolas Maduro earlier this month.\nUS Southern Command said on social media that the boat was “engaged in narco-trafficking operations” and that the strike killed two people and left one survivor.\nIt said it notified the coastguard to launch search and rescue operations for that...",
-      "title": "US kills 2 in first known strike on alleged drug boat since Maduro’s capture",
-      "summary": "The US military said on Friday that it had carried out a deadly strike on a vessel accused of trafficking drugs in the eastern Pacific Ocean, the first known attack since the raid that captured Venezuelan President Nicolas Maduro earlier this month.\nUS Southern Command said on social media that the boat was “engaged in narco-trafficking operations” and that the strike killed two people and left one survivor.\nIt said it notified the coastguard to launch search and rescue operations for that...",
-      "url": "https://www.scmp.com/news/world/americas/article/3341076/us-kills-2-first-known-strike-alleged-drug-boat-maduros-capture?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2026-01-23T23:31:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "aab9ec05beaf2689",
       "title_orig": "One survivor reported, two killed in US boat strike in the eastern Pacific",
       "summary_orig": "The latest bombing brings the death toll from US boat strikes to 125 since September, raising human rights concerns.",
@@ -2658,24 +2685,6 @@
       "geo": {}
     },
     {
-      "id": "2babdee192c13e23",
-      "title_orig": "Russia’s attacks have devastated Ukraine’s energy grid – and history explains why",
-      "summary_orig": "For decades Ukraine’s energy system was linked to Russia as part of a centralised grid",
-      "lang": "en",
-      "title_en": "Russia’s attacks have devastated Ukraine’s energy grid – and history explains why",
-      "summary_en": "For decades Ukraine’s energy system was linked to Russia as part of a centralised grid",
-      "title": "Russia’s attacks have devastated Ukraine’s energy grid – and history explains why",
-      "summary": "For decades Ukraine’s energy system was linked to Russia as part of a centralised grid",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-ukraine-energy-grid-attacks-soviet-b2906585.html",
-      "source": "The Independent World",
-      "published_at": "2026-01-23T17:04:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "dcbcf596bb083c7a",
       "title_orig": "Edinburgh man who tried to kill teenager in 'serious and violent' Portobello attack jailed",
       "summary_orig": "A man who tried to kill a teenager during a ‘serious and violent’ attack in Portobello has been jailed.",
@@ -2892,24 +2901,6 @@
       "geo": {}
     },
     {
-      "id": "321f8df0ebc75b3b",
-      "title_orig": "Danish troops were 'combat ready' in Greenland",
-      "summary_orig": "Troops sent to Greenland by Copenhagen were ordered to be combat ready in case the United States attacked the autonomous Danish territory, Danish public broadcaster DR reported on Friday.",
-      "lang": "en",
-      "title_en": "Danish troops were 'combat ready' in Greenland",
-      "summary_en": "Troops sent to Greenland by Copenhagen were ordered to be combat ready in case the United States attacked the autonomous Danish territory, Danish public broadcaster DR reported on Friday.",
-      "title": "Danish troops were 'combat ready' in Greenland",
-      "summary": "Troops sent to Greenland by Copenhagen were ordered to be combat ready in case the United States attacked the autonomous Danish territory, Danish public broadcaster DR reported on Friday.",
-      "url": "https://www.thelocal.dk/20260123/danish-troops-were-combat-ready-in-greenland",
-      "source": "The Local Denmark",
-      "published_at": "2026-01-23T12:56:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e6db847cccee6c9b",
       "title_orig": "Edinburgh man's scissors attack on two teens at Portobello beach caught on camera",
       "summary_orig": "Amar Mudawi, 22, wounded his victims near Portobello Beach.",
@@ -2982,24 +2973,6 @@
       "geo": {}
     },
     {
-      "id": "2154839aefdcb131",
-      "title_orig": "'Not all EES machines work': Your views on the Entry/Exit System in Spain",
-      "summary_orig": "We asked our readers what their experiences of the new Entry/Exit System passport at Spanish airports have been since the launch last October, including how long they had to queue and if the passport and fingerprint scanning machines were working.",
-      "lang": "en",
-      "title_en": "'Not all EES machines work': Your views on the Entry/Exit System in Spain",
-      "summary_en": "We asked our readers what their experiences of the new Entry/Exit System passport at Spanish airports have been since the launch last October, including how long they had to queue and if the passport and fingerprint scanning machines were working.",
-      "title": "'Not all EES machines work': Your views on the Entry/Exit System in Spain",
-      "summary": "We asked our readers what their experiences of the new Entry/Exit System passport at Spanish airports have been since the launch last October, including how long they had to queue and if the passport and fingerprint scanning machines were working.",
-      "url": "https://www.thelocal.es/20260123/not-all-ees-machines-work-your-views-on-the-entry-exit-system-in-spain",
-      "source": "The Local Spain",
-      "published_at": "2026-01-23T09:54:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4d3ddf81fbba973b",
       "title_orig": "Leeds United's Jorgen Strand Larsen transfer bid as deal for £40m man develops",
       "summary_orig": "Leeds United have made a formal move for the Wolverhampton Wanderers striker",
@@ -3033,24 +3006,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "74aba4464f38d4ce",
-      "title_orig": "On-ramps to Berlin's ring road blocked by famers' protests on Friday",
-      "summary_orig": "Commuters and travellers in Berlin faced traffic jams and delays on Friday as farmers blocked key access roads to the city’s ring motorway.",
-      "lang": "en",
-      "title_en": "On-ramps to Berlin's ring road blocked by famers' protests on Friday",
-      "summary_en": "Commuters and travellers in Berlin faced traffic jams and delays on Friday as farmers blocked key access roads to the city’s ring motorway.",
-      "title": "On-ramps to Berlin's ring road blocked by famers' protests on Friday",
-      "summary": "Commuters and travellers in Berlin faced traffic jams and delays on Friday as farmers blocked key access roads to the city’s ring motorway.",
-      "url": "https://www.thelocal.de/20260123/on-ramps-to-berlins-ring-road-blocked-by-famers-protests-on-friday",
-      "source": "The Local Germany",
-      "published_at": "2026-01-23T08:45:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -3315,24 +3270,6 @@
       }
     },
     {
-      "id": "791ef34da063555b",
-      "title_orig": "19-year-old jailed for plot to attack Stockholm festival",
-      "summary_orig": "A Stockholm court on Wednesday jailed a 19-year-old for nearly eight years for having plotted to attack a culture festival on behalf of the Islamic State.",
-      "lang": "en",
-      "title_en": "19-year-old jailed for plot to attack Stockholm festival",
-      "summary_en": "A Stockholm court on Wednesday jailed a 19-year-old for nearly eight years for having plotted to attack a culture festival on behalf of the Islamic State.",
-      "title": "19-year-old jailed for plot to attack Stockholm festival",
-      "summary": "A Stockholm court on Wednesday jailed a 19-year-old for nearly eight years for having plotted to attack a culture festival on behalf of the Islamic State.",
-      "url": "https://www.thelocal.se/20260121/19-year-old-jailed-for-plot-to-attack-stockholm-festival",
-      "source": "The Local Sweden",
-      "published_at": "2026-01-21T15:40:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "df5bfc78f1135b0a",
       "title_orig": "Senior Pilot under investigation after punching his First Officer at LAX after argument over taxi speed",
       "summary_orig": "LOS ANGELES – In a rare and disturbing breach of cockpit professionalism, EVA Air has suspended a senior pilot following allegations that he physically assaulted his first officer during a taxiing maneuver at Los Angeles International Airport (LAX). The Taiwanese carrier confirmed it has launched an immediate internal investigation into the incident, which reportedly saw […] The post Senior Pilot under investigation after punching his First Officer at LAX after argument over taxi speed appeared first on AIRLIVE .",
@@ -3358,24 +3295,6 @@
         "lat": 33.9416,
         "lon": -118.4085
       }
-    },
-    {
-      "id": "3cd6a89bf15ecddb",
-      "title_orig": "Spain's train drivers call strike to protest railway decay after triple crash",
-      "summary_orig": "Following three separate derailments in three days, two of them deadly, Spanish train engine drivers are planning a nationwide strike to protest the “unacceptable” deterioration of the country’s railway system.",
-      "lang": "en",
-      "title_en": "Spain's train drivers call strike to protest railway decay after triple crash",
-      "summary_en": "Following three separate derailments in three days, two of them deadly, Spanish train engine drivers are planning a nationwide strike to protest the “unacceptable” deterioration of the country’s railway system.",
-      "title": "Spain's train drivers call strike to protest railway decay after triple crash",
-      "summary": "Following three separate derailments in three days, two of them deadly, Spanish train engine drivers are planning a nationwide strike to protest the “unacceptable” deterioration of the country’s railway system.",
-      "url": "https://www.thelocal.es/20260121/spains-train-drivers-call-strike-to-protest-railway-decay-after-triple-crash",
-      "source": "The Local Spain",
-      "published_at": "2026-01-21T12:27:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "94f9241f298cc55a",
@@ -3479,24 +3398,6 @@
       "url": "https://www.latimes.com/world-nation/story/2026-01-20/emirati-rescue-saudi-fury-middle-east-heavyweights-split-over-yemen",
       "source": "World & Nation",
       "published_at": "2026-01-20T11:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d22883249d003fc3",
-      "title_orig": "CALENDAR: The transport strikes to expect in Italy in February 2026",
-      "summary_orig": "A handful of strikes have been announced for February in Italy, affecting air travel, trains, and local public transport.",
-      "lang": "en",
-      "title_en": "CALENDAR: The transport strikes to expect in Italy in February 2026",
-      "summary_en": "A handful of strikes have been announced for February in Italy, affecting air travel, trains, and local public transport.",
-      "title": "CALENDAR: The transport strikes to expect in Italy in February 2026",
-      "summary": "A handful of strikes have been announced for February in Italy, affecting air travel, trains, and local public transport.",
-      "url": "https://www.thelocal.it/20260120/key-dates-the-transport-strikes-to-expect-in-italy-in-february-2026",
-      "source": "The Local Italy",
-      "published_at": "2026-01-20T10:05:24+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3839,24 +3740,6 @@
       "url": "https://www.latimes.com/opinion/story/2026-01-08/trump-america-first-foreign-policy-venezuela-greenland",
       "source": "World & Nation",
       "published_at": "2026-01-08T11:02:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9630c8ff6c6f4b35",
-      "title_orig": "LISTED: The big changes for travel in Germany in 2026",
-      "summary_orig": "The 'Deutschlandticket' price rises, EES system launches at all entry points, German airports get new flights and Deutsche Bahn introduces more international routes - here's a breakdown of all the changes to travel and transport in Germany in 2026.",
-      "lang": "en",
-      "title_en": "LISTED: The big changes for travel in Germany in 2026",
-      "summary_en": "The 'Deutschlandticket' price rises, EES system launches at all entry points, German airports get new flights and Deutsche Bahn introduces more international routes - here's a breakdown of all the changes to travel and transport in Germany in 2026.",
-      "title": "LISTED: The big changes for travel in Germany in 2026",
-      "summary": "The 'Deutschlandticket' price rises, EES system launches at all entry points, German airports get new flights and Deutsche Bahn introduces more international routes - here's a breakdown of all the changes to travel and transport in Germany in 2026.",
-      "url": "https://www.thelocal.de/20251208/listed-the-big-changes-for-travel-in-germany-in-2026",
-      "source": "The Local Germany",
-      "published_at": "2025-12-08T16:12:38+00:00",
       "tags": [
         "airport/security"
       ],
