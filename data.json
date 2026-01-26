@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T20:54:41.946439+00:00",
+  "generated_at": "2026-01-26T21:23:49.137417+00:00",
   "items": [
     {
       "id": "c3c15df73edd7fbc",
@@ -12,7 +12,7 @@
       "summary": "SEOUL/HO CHI MINH CITY — The funeral of former Prime Minister Lee Hae-chan, who died while visiting Vietnam, will be held for five days this week in the combined format of a \"social funeral\" and an \"institutional funeral,\" in consideration of his contribution to society, according to officials. Lee, who was serving as a senior vice president of the Peaceful Unification Advisory Council (PUAC), died at a hospital in Ho Chi Minh City on Sunday after suffering cardiac arrest. The funeral, to be hosted by PUAC and the ruling Democratic Party, will be held from Tuesday to Saturday, according to PUAC officials. Lee's body is expected to arrive at Incheon International Airport early Tuesday before being transported to the funeral venue. PUAC officials said the service will take the format of a social funeral, a ceremony to mourn the death of an influential figure who made contributions to society, and also that of an institutional funeral, put together by a specific organization to honor the deceased. The funeral period is also longer than the usual three-day service in South Korea. PUAC said",
       "url": "https://www.koreatimes.co.kr/southkorea/20260127/ex-pm-lee-hae-chans-5-day-funeral-to-be-held-later-this-week?utm_source=rss",
       "source": "Korea Times News",
-      "published_at": "2026-01-26T20:47:02+00:00",
+      "published_at": "2026-01-26T21:22:03+00:00",
       "tags": [
         "ICN",
         "South Korea",
@@ -29,6 +29,141 @@
       }
     },
     {
+      "id": "039bc93ac6d80ce8",
+      "title_orig": "KFAN’s Paul Allen apologizes for on-air comments about ‘paid protesters’",
+      "summary_orig": "The longtime Vikings announcer is taking a few days off after facing national criticism.",
+      "lang": "en",
+      "title_en": "KFAN’s Paul Allen apologizes for on-air comments about ‘paid protesters’",
+      "summary_en": "The longtime Vikings announcer is taking a few days off after facing national criticism.",
+      "title": "KFAN’s Paul Allen apologizes for on-air comments about ‘paid protesters’",
+      "summary": "The longtime Vikings announcer is taking a few days off after facing national criticism.",
+      "url": "https://www.startribune.com/kfans-paul-allen-apologizes-for-on-air-comments-about-paid-protesters/601571085",
+      "source": "Startribune News",
+      "published_at": "2026-01-26T21:11:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9adad87db824094c",
+      "title_orig": "Trump could rein in ICE operation as shooting outrage intensifies",
+      "summary_orig": "The Trump administration indicates it could rein in its Minnesota immigration crackdown as public outrage intensifies after a federal agent killed a protester.",
+      "lang": "en",
+      "title_en": "Trump could rein in ICE operation as shooting outrage intensifies",
+      "summary_en": "The Trump administration indicates it could rein in its Minnesota immigration crackdown as public outrage intensifies after a federal agent killed a protester.",
+      "title": "Trump could rein in ICE operation as shooting outrage intensifies",
+      "summary": "The Trump administration indicates it could rein in its Minnesota immigration crackdown as public outrage intensifies after a federal agent killed a protester.",
+      "url": "https://www.abc.net.au/news/2026-01-27/trump-may-rein-in-ice-crackdown-minneapolis-st-paul/106272218",
+      "source": "Just In",
+      "published_at": "2026-01-26T21:11:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2567a32a1bc052ec",
+      "title_orig": "At least six killed after private jet crashes during winter storm at airport in Bangor, Maine",
+      "summary_orig": "A Bombardier Challenger 600 crashed Sunday night during a winter storm shortly after takeoff at an airport in Bangor, Maine.",
+      "lang": "en",
+      "title_en": "At least six killed after private jet crashes during winter storm at airport in Bangor, Maine",
+      "summary_en": "A Bombardier Challenger 600 crashed Sunday night during a winter storm shortly after takeoff at an airport in Bangor, Maine.",
+      "title": "At least six killed after private jet crashes during winter storm at airport in Bangor, Maine",
+      "summary": "A Bombardier Challenger 600 crashed Sunday night during a winter storm shortly after takeoff at an airport in Bangor, Maine.",
+      "url": "https://www.kgw.com/article/news/nation-world/bangor-international-airport-private-jet-crash-faa-ntsb-investigation/507-1cd6ae15-289a-4b03-9721-38d255c70e4c",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-01-26T21:11:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "44cdf8ad11c89d0b",
+      "title_orig": "Chicago O'Hare to Become World's Busiest Airport in H1 2026",
+      "summary_orig": "Chicago O'Hare International Airport is set to surpass Atlanta as the world's busiest airport in the first half of 2026, with over 218,000 one-way flights scheduled.",
+      "lang": "en",
+      "title_en": "Chicago O'Hare to Become World's Busiest Airport in H1 2026",
+      "summary_en": "Chicago O'Hare International Airport is set to surpass Atlanta as the world's busiest airport in the first half of 2026, with over 218,000 one-way flights scheduled.",
+      "title": "Chicago O'Hare to Become World's Busiest Airport in H1 2026",
+      "summary": "Chicago O'Hare International Airport is set to surpass Atlanta as the world's busiest airport in the first half of 2026, with over 218,000 one-way flights scheduled.",
+      "url": "https://simpleflying.com/atlanta-dethroned-worlds-new-busiest-airport-2026/",
+      "source": "Simple Flying",
+      "published_at": "2026-01-26T21:02:00+00:00",
+      "tags": [
+        "ORD",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "O'Hare",
+        "city": "Chicago",
+        "country": "United States",
+        "iata": "ORD",
+        "lat": 41.9742,
+        "lon": -87.9073
+      }
+    },
+    {
+      "id": "f28aee23f2855490",
+      "title_orig": "The Latest: White House distances Trump from ‘assassin’ remarks on killed Minneapolis protestor",
+      "summary_orig": "The White House on Monday made an effort to distance President Donald Trump from comments made by several members of…",
+      "lang": "en",
+      "title_en": "The Latest: White House distances Trump from ‘assassin’ remarks on killed Minneapolis protestor",
+      "summary_en": "The White House on Monday made an effort to distance President Donald Trump from comments made by several members of…",
+      "title": "The Latest: White House distances Trump from ‘assassin’ remarks on killed Minneapolis protestor",
+      "summary": "The White House on Monday made an effort to distance President Donald Trump from comments made by several members of…",
+      "url": "https://wtop.com/national/2026/01/the-latest-democrats-vow-to-oppose-homeland-security-funds-after-minnesota-shooting/",
+      "source": "WTOP News",
+      "published_at": "2026-01-26T20:57:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "66e872e07a5db22f",
+      "title_orig": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
+      "summary_orig": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
+      "lang": "en",
+      "title_en": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
+      "summary_en": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
+      "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
+      "summary": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
+      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html",
+      "source": "NYT > World News",
+      "published_at": "2026-01-26T20:50:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "9c09cb7a10323843",
+      "title_orig": "Indian Embassy in Yemen celebrates Republic Day for first time in 10 years",
+      "summary_orig": "In a post on X, the officials wrote, “Flying the Indian Flag High! For the first time in more than 10 years, Republic Day was celebrated in Yemen.”",
+      "lang": "en",
+      "title_en": "Indian Embassy in Yemen celebrates Republic Day for first time in 10 years",
+      "summary_en": "In a post on X, the officials wrote, “Flying the Indian Flag High! For the first time in more than 10 years, Republic Day was celebrated in Yemen.”",
+      "title": "Indian Embassy in Yemen celebrates Republic Day for first time in 10 years",
+      "summary": "In a post on X, the officials wrote, “Flying the Indian Flag High! For the first time in more than 10 years, Republic Day was celebrated in Yemen.”",
+      "url": "https://www.hindustantimes.com/india-news/indian-embassy-in-yemen-celebrates-republic-day-for-first-time-in-10-years-101769459863920.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2026-01-26T20:42:48+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "cdf3fad67eaab7de",
       "title_orig": "MAGA provocateurs want whistles used by Minnesota protesters to be ‘considered a violent weapon’",
       "summary_orig": "‘High IQ people don’t respond well to shrill noises,’ Mike Cernovich tweeted before taking aim at the ‘hearing loss causing machines that terrorists use against ICE.’",
@@ -40,6 +175,24 @@
       "url": "https://www.independent.co.uk/news/world/americas/us-politics/minnesota-ice-protests-whistles-maga-b2908005.html",
       "source": "The Independent World",
       "published_at": "2026-01-26T20:37:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d3597165b3f8dab3",
+      "title_orig": "Anti-Trump protest held in Dublin amid immigration crackdown",
+      "summary_orig": "A student from Minneapolis thanked protesters who attended the gathering in Dublin.",
+      "lang": "en",
+      "title_en": "Anti-Trump protest held in Dublin amid immigration crackdown",
+      "summary_en": "A student from Minneapolis thanked protesters who attended the gathering in Dublin.",
+      "title": "Anti-Trump protest held in Dublin amid immigration crackdown",
+      "summary": "A student from Minneapolis thanked protesters who attended the gathering in Dublin.",
+      "url": "https://www.standard.co.uk/news/uk/minneapolis-dublin-donald-trump-people-minnesota-b1268239.html",
+      "source": "The Standard News",
+      "published_at": "2026-01-26T20:36:35+00:00",
       "tags": [
         "airport/security"
       ],
@@ -83,6 +236,24 @@
       "geo": {}
     },
     {
+      "id": "2531a4d10f564cbc",
+      "title_orig": "Video evidence of Alex Pretti’s killing contradicts Trump administration’s account",
+      "summary_orig": "37 year old ICU nurse Alex Pretti was shot and killed in Minneapolis, just week's after Renee Good's fatal shooting in the same city. The Department of Homeland Security claims Pretti was \"brandishing\" a gun, a \"domestic terrorist\" and aggressively approaching federal agents...but video evidence directly contradicts the Trump administration's \"official\" version of events. Vedika Bahl goes through multiple angles of the incident in Truth or Fake.",
+      "lang": "en",
+      "title_en": "Video evidence of Alex Pretti’s killing contradicts Trump administration’s account",
+      "summary_en": "37 year old ICU nurse Alex Pretti was shot and killed in Minneapolis, just week's after Renee Good's fatal shooting in the same city. The Department of Homeland Security claims Pretti was \"brandishing\" a gun, a \"domestic terrorist\" and aggressively approaching federal agents...but video evidence directly contradicts the Trump administration's \"official\" version of events. Vedika Bahl goes through multiple angles of the incident in Truth or Fake.",
+      "title": "Video evidence of Alex Pretti’s killing contradicts Trump administration’s account",
+      "summary": "37 year old ICU nurse Alex Pretti was shot and killed in Minneapolis, just week's after Renee Good's fatal shooting in the same city. The Department of Homeland Security claims Pretti was \"brandishing\" a gun, a \"domestic terrorist\" and aggressively approaching federal agents...but video evidence directly contradicts the Trump administration's \"official\" version of events. Vedika Bahl goes through multiple angles of the incident in Truth or Fake.",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260126-video-evidence-of-alex-pretti-s-killing-contradicts-trump-administration-s-account",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-01-26T20:33:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "264665547a34f8a2",
       "title_orig": "Maine airport jet crash: What we know so far",
       "summary_orig": "A private jet crashed during takeoff at Bangor International Airport in Maine, killing seven and injuring one amid a powerful winter storm.",
@@ -119,6 +290,24 @@
       "geo": {}
     },
     {
+      "id": "12bec4c27f3184bd",
+      "title_orig": "Trump administration's response to Alex Pretti killing 'raises questions of principles vs hypocrisy'",
+      "summary_orig": "Speaking with FRANCE 24's Mark Owen, David Schultz, Professor of Political Science at Hamline University, says that the Trump administration response to the killing of ICU nurse Alex Pretti during the protests in Minneapolis 'raises questions of principles versus hypocrisy' in relation to gun ownership.",
+      "lang": "en",
+      "title_en": "Trump administration's response to Alex Pretti killing 'raises questions of principles vs hypocrisy'",
+      "summary_en": "Speaking with FRANCE 24's Mark Owen, David Schultz, Professor of Political Science at Hamline University, says that the Trump administration response to the killing of ICU nurse Alex Pretti during the protests in Minneapolis 'raises questions of principles versus hypocrisy' in relation to gun ownership.",
+      "title": "Trump administration's response to Alex Pretti killing 'raises questions of principles vs hypocrisy'",
+      "summary": "Speaking with FRANCE 24's Mark Owen, David Schultz, Professor of Political Science at Hamline University, says that the Trump administration response to the killing of ICU nurse Alex Pretti during the protests in Minneapolis 'raises questions of principles versus hypocrisy' in relation to gun ownership.",
+      "url": "https://www.france24.com/en/trump-administration-s-response-to-alex-pretti-killing-raises-questions-of-principles-vs-hypocrisy",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-01-26T20:32:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "dc24a2d5e24ff775",
       "title_orig": "White House attacks ‘sensationalist’ media over Alex Pretti coverage",
       "summary_orig": "The White House attacked the \"liberal biased media\" in response to a leading question about the killing of Alex Pretti.",
@@ -137,24 +326,6 @@
       "geo": {}
     },
     {
-      "id": "039bc93ac6d80ce8",
-      "title_orig": "KFAN’s Paul Allen apologizes for on-air comments about ‘paid protesters’",
-      "summary_orig": "The longtime Vikings announcer is taking a few days off after facing national criticism.",
-      "lang": "en",
-      "title_en": "KFAN’s Paul Allen apologizes for on-air comments about ‘paid protesters’",
-      "summary_en": "The longtime Vikings announcer is taking a few days off after facing national criticism.",
-      "title": "KFAN’s Paul Allen apologizes for on-air comments about ‘paid protesters’",
-      "summary": "The longtime Vikings announcer is taking a few days off after facing national criticism.",
-      "url": "https://www.startribune.com/kfans-paul-allen-apologizes-for-on-air-comments-about-paid-protesters/601571085",
-      "source": "Startribune News",
-      "published_at": "2026-01-26T20:25:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e35e3799cea8a2f7",
       "title_orig": "The Latest: White House distances Trump from ‘assassin’ remarks on killed Minneapolis protestor",
       "summary_orig": "The White House on Monday made an effort to distance President Donald Trump from comments made by several members of his administration that criminalized Minneapolis protester Alex Pretti, who was shot and killed Saturday by a Border Patrol officer",
@@ -165,24 +336,6 @@
       "summary": "The White House on Monday made an effort to distance President Donald Trump from comments made by several members of his administration that criminalized Minneapolis protester Alex Pretti, who was shot and killed Saturday by a Border Patrol officer",
       "url": "https://www.independent.co.uk/news/world/americas/minnesota-white-house-minneapolis-tom-homan-trump-b2908047.html",
       "source": "The Independent World",
-      "published_at": "2026-01-26T20:23:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f28aee23f2855490",
-      "title_orig": "The Latest: White House distances Trump from ‘assassin’ remarks on killed Minneapolis protestor",
-      "summary_orig": "The White House on Monday made an effort to distance President Donald Trump from comments made by several members of…",
-      "lang": "en",
-      "title_en": "The Latest: White House distances Trump from ‘assassin’ remarks on killed Minneapolis protestor",
-      "summary_en": "The White House on Monday made an effort to distance President Donald Trump from comments made by several members of…",
-      "title": "The Latest: White House distances Trump from ‘assassin’ remarks on killed Minneapolis protestor",
-      "summary": "The White House on Monday made an effort to distance President Donald Trump from comments made by several members of…",
-      "url": "https://wtop.com/national/2026/01/the-latest-democrats-vow-to-oppose-homeland-security-funds-after-minnesota-shooting/",
-      "source": "WTOP News",
       "published_at": "2026-01-26T20:23:58+00:00",
       "tags": [
         "airport/security"
@@ -364,24 +517,6 @@
       "url": "https://www.abc.net.au/news/2026-01-27/nsw-tiktok-account-celebrates-bondi-attack-banned/106269032",
       "source": "Just In",
       "published_at": "2026-01-26T19:27:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "19e8a62b7e2b026f",
-      "title_orig": "Sea-Tac Airport sees ‘domino effect’ from winter storm flight cancellations",
-      "summary_orig": "Nearly 40 flights were canceled at Seattle-Tacoma International Airport by 9 a.m. Monday, with more possible by the end of the day, an airport spokesperson said.",
-      "lang": "en",
-      "title_en": "Sea-Tac Airport sees ‘domino effect’ from winter storm flight cancellations",
-      "summary_en": "Nearly 40 flights were canceled at Seattle-Tacoma International Airport by 9 a.m. Monday, with more possible by the end of the day, an airport spokesperson said.",
-      "title": "Sea-Tac Airport sees ‘domino effect’ from winter storm flight cancellations",
-      "summary": "Nearly 40 flights were canceled at Seattle-Tacoma International Airport by 9 a.m. Monday, with more possible by the end of the day, an airport spokesperson said.",
-      "url": "https://www.seattletimes.com/life/travel/sea-tac-airport-sees-domino-effect-from-winter-storm-flight-cancellations/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-26T19:21:53+00:00",
       "tags": [
         "airport/security"
       ],
@@ -686,24 +821,6 @@
       }
     },
     {
-      "id": "66e872e07a5db22f",
-      "title_orig": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
-      "summary_orig": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
-      "lang": "en",
-      "title_en": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
-      "summary_en": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
-      "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
-      "summary": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
-      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-26T18:26:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "f6c3a3a5423d489d",
       "title_orig": "San Diego attorney responds to rising tensions between ICE and protestors in  Minneapolis",
       "summary_orig": "San Diego immigration attorney Esther Valdes Clayton addresses the protests against U.S. Immigration and Customs Enforcement agents in Minneapolis following the shooting death of Alex Pretti.",
@@ -920,24 +1037,6 @@
       "geo": {}
     },
     {
-      "id": "8945739e7535fb50",
-      "title_orig": "Seven killed and one injured in private jet crash in Maine during snowstorm",
-      "summary_orig": "Aircraft crashed at airport in Bangor, which has received about 10in of snow as deadly storm pummels US Seven people were killed and a crew member survived with serious injuries when a private business jet crashed in a snowstorm at Maine ’s Bangor international airport, the US Federal Aviation Administration (FAA) says. The Bombardier Challenger 600 carrying eight people crashed on takeoff at about 7.45pm on Sunday night as Bangor, the rest of the New England region, and much of the country grappled with a deadly, massive winter storm . The airport, about 200 miles (320km) north of Boston, shut down after the crash. Continue reading...",
-      "lang": "en",
-      "title_en": "Seven killed and one injured in private jet crash in Maine during snowstorm",
-      "summary_en": "Aircraft crashed at airport in Bangor, which has received about 10in of snow as deadly storm pummels US Seven people were killed and a crew member survived with serious injuries when a private business jet crashed in a snowstorm at Maine ’s Bangor international airport, the US Federal Aviation Administration (FAA) says. The Bombardier Challenger 600 carrying eight people crashed on takeoff at about 7.45pm on Sunday night as Bangor, the rest of the New England region, and much of the country grappled with a deadly, massive winter storm . The airport, about 200 miles (320km) north of Boston, shut down after the crash. Continue reading...",
-      "title": "Seven killed and one injured in private jet crash in Maine during snowstorm",
-      "summary": "Aircraft crashed at airport in Bangor, which has received about 10in of snow as deadly storm pummels US Seven people were killed and a crew member survived with serious injuries when a private business jet crashed in a snowstorm at Maine ’s Bangor international airport, the US Federal Aviation Administration (FAA) says. The Bombardier Challenger 600 carrying eight people crashed on takeoff at about 7.45pm on Sunday night as Bangor, the rest of the New England region, and much of the country grappled with a deadly, massive winter storm . The airport, about 200 miles (320km) north of Boston, shut down after the crash. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/jan/26/private-aircraft-crashes-maine-winter-storm",
-      "source": "World news | The Guardian",
-      "published_at": "2026-01-26T17:34:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "cba0f0a4a0f721c8",
       "title_orig": "Lawyer for ICE agent who killed Renee Good drops out of Minnesota governor race to protest ‘retribution’ against state",
       "summary_orig": "Chris Madel represented Jonathan Ross, the immigration agent who killed mother-of-three Renee Good",
@@ -1129,24 +1228,6 @@
       "url": "https://www.leeds-live.co.uk/sport/leeds-united/gary-linekers-things-changed-message-33305233",
       "source": "Leeds Live - frontpage",
       "published_at": "2026-01-26T16:48:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2567a32a1bc052ec",
-      "title_orig": "FAA: 7 killed, 1 injured in private jet crash at airport in Bangor, Maine",
-      "summary_orig": "A Bombardier Challenger 600 carrying eight people crashed Sunday night during a winter storm shortly after takeoff at an airport in Bangor, Maine.",
-      "lang": "en",
-      "title_en": "FAA: 7 killed, 1 injured in private jet crash at airport in Bangor, Maine",
-      "summary_en": "A Bombardier Challenger 600 carrying eight people crashed Sunday night during a winter storm shortly after takeoff at an airport in Bangor, Maine.",
-      "title": "FAA: 7 killed, 1 injured in private jet crash at airport in Bangor, Maine",
-      "summary": "A Bombardier Challenger 600 carrying eight people crashed Sunday night during a winter storm shortly after takeoff at an airport in Bangor, Maine.",
-      "url": "https://www.kgw.com/article/news/nation-world/bangor-international-airport-private-jet-crash-faa-ntsb-investigation/507-1cd6ae15-289a-4b03-9721-38d255c70e4c",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-01-26T16:47:30+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1457,6 +1538,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c2b65997d3e57e6a",
+      "title_orig": "Iran's state TV airs several ‘forced confessions’ after protest crackdown, activists say",
+      "summary_orig": "Iranian state television in recent weeks has aired an \"unprecedented\" number of coerced televised confessions following the latest deadly crackdown on anti-regime protests, according to human rights groups. Activists say the \"forced confessions\" are extracted by psychological and physical torture, and are a familiar tactic used in the past by Iranian authorities.",
+      "lang": "en",
+      "title_en": "Iran's state TV airs several ‘forced confessions’ after protest crackdown, activists say",
+      "summary_en": "Iranian state television in recent weeks has aired an \"unprecedented\" number of coerced televised confessions following the latest deadly crackdown on anti-regime protests, according to human rights groups. Activists say the \"forced confessions\" are extracted by psychological and physical torture, and are a familiar tactic used in the past by Iranian authorities.",
+      "title": "Iran's state TV airs several ‘forced confessions’ after protest crackdown, activists say",
+      "summary": "Iranian state television in recent weeks has aired an \"unprecedented\" number of coerced televised confessions following the latest deadly crackdown on anti-regime protests, according to human rights groups. Activists say the \"forced confessions\" are extracted by psychological and physical torture, and are a familiar tactic used in the past by Iranian authorities.",
+      "url": "https://www.france24.com/en/middle-east/20260126-iranian-state-tv-airs-several-forced-confessions-after-protest-crackdown-activists-say",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-01-26T15:51:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2866,24 +2965,6 @@
       "url": "https://runwaygirlnetwork.com/2026/01/embraer-brings-new-generation-power-duo-e195-e2-and-kc-390-millennium-to-the-singapore-airshow/",
       "source": "Runway Girl",
       "published_at": "2026-01-26T00:00:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a6bb6298fec8a55a",
-      "title_orig": "K’taka governor details speech row, walkout in report to President",
-      "summary_orig": "Gehlot reported to President Murmu on his curtailed address amid protests, objecting to a Congress-led draft speech criticizing the Union government.",
-      "lang": "en",
-      "title_en": "K’taka governor details speech row, walkout in report to President",
-      "summary_en": "Gehlot reported to President Murmu on his curtailed address amid protests, objecting to a Congress-led draft speech criticizing the Union government.",
-      "title": "K’taka governor details speech row, walkout in report to President",
-      "summary": "Gehlot reported to President Murmu on his curtailed address amid protests, objecting to a Congress-led draft speech criticizing the Union government.",
-      "url": "https://www.hindustantimes.com/india-news/ktaka-governor-details-speech-row-walkout-in-report-to-president-101769365936548.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2026-01-25T23:32:06+00:00",
       "tags": [
         "airport/security"
       ],
