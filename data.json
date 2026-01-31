@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-01-31T16:58:43.278807+00:00",
+  "generated_at": "2026-01-31T17:24:13.715181+00:00",
   "items": [
+    {
+      "id": "242f351e9d3cc5f5",
+      "title_orig": "Danish veterans protest outside US Embassy over Trump administration’s Greenland plans",
+      "summary_orig": "COPENHAGEN, Denmark (AP) — Hundreds of Danish veterans — many of whom fought alongside U.S. troops — and thousands of…",
+      "lang": "en",
+      "title_en": "Danish veterans protest outside US Embassy over Trump administration’s Greenland plans",
+      "summary_en": "COPENHAGEN, Denmark (AP) — Hundreds of Danish veterans — many of whom fought alongside U.S. troops — and thousands of…",
+      "title": "Danish veterans protest outside US Embassy over Trump administration’s Greenland plans",
+      "summary": "COPENHAGEN, Denmark (AP) — Hundreds of Danish veterans — many of whom fought alongside U.S. troops — and thousands of…",
+      "url": "https://wtop.com/world/2026/01/danish-veterans-stage-protest-outside-us-embassy/",
+      "source": "WTOP News",
+      "published_at": "2026-01-31T17:04:08+00:00",
+      "tags": [
+        "airport/security",
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3b0898e8253c9ce9",
+      "title_orig": "Protesters ‘breach’ federal building in Eugene; police declare riot",
+      "summary_orig": "Federal officers reportedly used tear gas to try to prevent people from entering the building.",
+      "lang": "en",
+      "title_en": "Protesters ‘breach’ federal building in Eugene; police declare riot",
+      "summary_en": "Federal officers reportedly used tear gas to try to prevent people from entering the building.",
+      "title": "Protesters ‘breach’ federal building in Eugene; police declare riot",
+      "summary": "Federal officers reportedly used tear gas to try to prevent people from entering the building.",
+      "url": "https://www.oregonlive.com/news/2026/01/protesters-breach-federal-building-in-eugene-police-declare-riot.html",
+      "source": "oregonlive.com",
+      "published_at": "2026-01-31T16:59:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "272839a4571901d7",
+      "title_orig": "London protests LIVE: Peter Tatchell arrested as thousands of pro-Palestine and Ukip protesters descend on capital",
+      "summary_orig": "Conditions mean both sets of protesters are obliged to remain in areas defined by police",
+      "lang": "en",
+      "title_en": "London protests LIVE: Peter Tatchell arrested as thousands of pro-Palestine and Ukip protesters descend on capital",
+      "summary_en": "Conditions mean both sets of protesters are obliged to remain in areas defined by police",
+      "title": "London protests LIVE: Peter Tatchell arrested as thousands of pro-Palestine and Ukip protesters descend on capital",
+      "summary": "Conditions mean both sets of protesters are obliged to remain in areas defined by police",
+      "url": "https://www.standard.co.uk/news/london/london-protests-police-brace-palestine-ukip-rallies-planned-b1269036.html",
+      "source": "The Standard News",
+      "published_at": "2026-01-31T16:59:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8d86f78890f2d43f",
+      "title_orig": "Young people are staging virtual ICE raids and protests on popular gaming platform",
+      "summary_orig": "Videos of immigration enforcement roleplays within the popular Brookhaven game have garnered millions of views despite violating community standards.",
+      "lang": "en",
+      "title_en": "Young people are staging virtual ICE raids and protests on popular gaming platform",
+      "summary_en": "Videos of immigration enforcement roleplays within the popular Brookhaven game have garnered millions of views despite violating community standards.",
+      "title": "Young people are staging virtual ICE raids and protests on popular gaming platform",
+      "summary": "Videos of immigration enforcement roleplays within the popular Brookhaven game have garnered millions of views despite violating community standards.",
+      "url": "https://www.syracuse.com/us-news/2026/01/young-people-are-staging-virtual-ice-raids-and-protests-on-popular-gaming-platform.html",
+      "source": "syracuse.com",
+      "published_at": "2026-01-31T16:54:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e698c7112a936ffe",
+      "title_orig": "More NCP merger claims surface after Sharad Pawar's February 12 bombshell",
+      "summary_orig": "According to Shashikant Shinde, eight to ten meetings had been held in the three months prior to Ajit Pawar's January 17 meeting with Sharad Pawar.",
+      "lang": "en",
+      "title_en": "More NCP merger claims surface after Sharad Pawar's February 12 bombshell",
+      "summary_en": "According to Shashikant Shinde, eight to ten meetings had been held in the three months prior to Ajit Pawar's January 17 meeting with Sharad Pawar.",
+      "title": "More NCP merger claims surface after Sharad Pawar's February 12 bombshell",
+      "summary": "According to Shashikant Shinde, eight to ten meetings had been held in the three months prior to Ajit Pawar's January 17 meeting with Sharad Pawar.",
+      "url": "https://www.hindustantimes.com/india-news/sharad-pawar-merger-claims-surface-sunetra-pawar-oath-taking-ajit-pawar-101769876954063.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2026-01-31T16:52:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "476e43ddcbe4ea89",
       "title_orig": "Israel Launches Attack in Gaza",
@@ -345,24 +436,6 @@
       "geo": {}
     },
     {
-      "id": "272839a4571901d7",
-      "title_orig": "London protests LIVE: Peter Tatchell arrested as thousands of pro-Palestine and Ukip protesters descend on capital",
-      "summary_orig": "Conditions mean both sets of protesters are obliged to remain in areas defined by police",
-      "lang": "en",
-      "title_en": "London protests LIVE: Peter Tatchell arrested as thousands of pro-Palestine and Ukip protesters descend on capital",
-      "summary_en": "Conditions mean both sets of protesters are obliged to remain in areas defined by police",
-      "title": "London protests LIVE: Peter Tatchell arrested as thousands of pro-Palestine and Ukip protesters descend on capital",
-      "summary": "Conditions mean both sets of protesters are obliged to remain in areas defined by police",
-      "url": "https://www.standard.co.uk/news/london/london-protests-police-brace-palestine-ukip-rallies-planned-b1269036.html",
-      "source": "The Standard News",
-      "published_at": "2026-01-31T15:48:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1cc3088c0ddebaad",
       "title_orig": "Customer attacks worker at Shell gas station in Brook Park",
       "summary_orig": "A worker inside Shell, 13030 Brookpark Road, was attacked by an unidentified customer at about 11:30 p.m. Jan. 14.",
@@ -392,6 +465,24 @@
       "url": "https://www.dailyrecord.co.uk/sport/football/football-transfer-news/rangers-handed-cameron-archer-transfer-36648549",
       "source": "Daily Record - Home",
       "published_at": "2026-01-31T15:38:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "17072e498928adb8",
+      "title_orig": "How bomb cyclones form and create dangerous conditions",
+      "summary_orig": "Meteorologists sometimes warn of a winter storm that could “bomb out” or become a bomb cyclone.",
+      "lang": "en",
+      "title_en": "How bomb cyclones form and create dangerous conditions",
+      "summary_en": "Meteorologists sometimes warn of a winter storm that could “bomb out” or become a bomb cyclone.",
+      "title": "How bomb cyclones form and create dangerous conditions",
+      "summary": "Meteorologists sometimes warn of a winter storm that could “bomb out” or become a bomb cyclone.",
+      "url": "https://www.seattletimes.com/nation-world/how-bomb-cyclones-form-and-create-dangerous-conditions-2/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-31T15:37:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -669,6 +760,24 @@
       "geo": {}
     },
     {
+      "id": "bff374e0adc0ba01",
+      "title_orig": "As officials disparage Pretti and Good, families of Black people killed by police have déjà vu",
+      "summary_orig": "The shooting deaths of white protesters Alex Pretti and Renee Good by federal officers in Minneapolis have followed a playbook that is painfully familiar to Black Americans.",
+      "lang": "en",
+      "title_en": "As officials disparage Pretti and Good, families of Black people killed by police have déjà vu",
+      "summary_en": "The shooting deaths of white protesters Alex Pretti and Renee Good by federal officers in Minneapolis have followed a playbook that is painfully familiar to Black Americans.",
+      "title": "As officials disparage Pretti and Good, families of Black people killed by police have déjà vu",
+      "summary": "The shooting deaths of white protesters Alex Pretti and Renee Good by federal officers in Minneapolis have followed a playbook that is painfully familiar to Black Americans.",
+      "url": "https://www.seattletimes.com/nation-world/nation/as-officials-disparage-pretti-and-good-families-of-black-people-killed-by-police-have-deja-vu/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-31T14:01:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "5ab7c7b3ab9d2c70",
       "title_orig": "The future of AI in music? US and China strike different chords",
       "summary_orig": "Dressed like 1970s rock stars evoking bands like Creedence Clearwater Revival, The Velvet Sundown look the part of a real band – with one key difference: despite millions of listeners, they do not exist. The group is generated by artificial intelligence.\nAI-generated music is exploding, with the rapid expansion of platforms like the United States’ Suno and Udio, as well as China’s Mureka. From creation to copyright, the technology is making waves globally. But the US and China are approaching it...",
@@ -680,6 +789,24 @@
       "url": "https://www.scmp.com/news/china/article/3341893/future-ai-music-us-and-china-strike-different-chords?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-01-31T14:00:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "66e9ad0414b22022",
+      "title_orig": "Seattle’s ‘prosperity bomb’ may finally be fizzling. So now what?",
+      "summary_orig": "It’s the awkward thing about the affordability debate. Nothing makes a city cheaper faster than an economic bust.",
+      "lang": "en",
+      "title_en": "Seattle’s ‘prosperity bomb’ may finally be fizzling. So now what?",
+      "summary_en": "It’s the awkward thing about the affordability debate. Nothing makes a city cheaper faster than an economic bust.",
+      "title": "Seattle’s ‘prosperity bomb’ may finally be fizzling. So now what?",
+      "summary": "It’s the awkward thing about the affordability debate. Nothing makes a city cheaper faster than an economic bust.",
+      "url": "https://www.seattletimes.com/seattle-news/seattles-prosperity-bomb-may-finally-be-fizzling-so-now-what/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-31T14:00:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -885,24 +1012,6 @@
       "geo": {}
     },
     {
-      "id": "4c72477874e4bfcd",
-      "title_orig": "Car torched in Glasgow residential street firebomb attack as 'children slept nearby'",
-      "summary_orig": "Police have launched a probe into the 'wilful fire' in the Pollok area of the city.",
-      "lang": "en",
-      "title_en": "Car torched in Glasgow residential street firebomb attack as 'children slept nearby'",
-      "summary_en": "Police have launched a probe into the 'wilful fire' in the Pollok area of the city.",
-      "title": "Car torched in Glasgow residential street firebomb attack as 'children slept nearby'",
-      "summary": "Police have launched a probe into the 'wilful fire' in the Pollok area of the city.",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/car-torched-glasgow-residential-street-36647769",
-      "source": "Daily Record - Home",
-      "published_at": "2026-01-31T12:57:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ea5ad309ee701ad3",
       "title_orig": "Israel eyes regime change in Iran - and is counting on Trump to make it happen",
       "summary_orig": "Analysts believe PM Netanyahu is urging the US towards maximalist strikes.",
@@ -914,24 +1023,6 @@
       "url": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2026-01-31T12:52:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "71f8a2811cc7e02d",
-      "title_orig": "Celtic striker scramble surges amid Nardin Mulahusejnovic transfer 'talks' as Kasper Hogh drops major clue",
-      "summary_orig": "The Noah FC striker is the latest name to be tipped for a move to Celtic Park",
-      "lang": "en",
-      "title_en": "Celtic striker scramble surges amid Nardin Mulahusejnovic transfer 'talks' as Kasper Hogh drops major clue",
-      "summary_en": "The Noah FC striker is the latest name to be tipped for a move to Celtic Park",
-      "title": "Celtic striker scramble surges amid Nardin Mulahusejnovic transfer 'talks' as Kasper Hogh drops major clue",
-      "summary": "The Noah FC striker is the latest name to be tipped for a move to Celtic Park",
-      "url": "https://www.dailyrecord.co.uk/sport/football/football-transfer-news/celtic-transfer-mulahusejnovic-hogh-fofana-36647955",
-      "source": "Daily Record - Home",
-      "published_at": "2026-01-31T12:50:42+00:00",
       "tags": [
         "airport/security"
       ],
@@ -975,19 +1066,20 @@
       "geo": {}
     },
     {
-      "id": "09073eb7907cd1c0",
-      "title_orig": "Abuser killed heavily pregnant girlfriend’s unborn baby in harrowing attack",
-      "summary_orig": "",
+      "id": "1d359f7b674f8271",
+      "title_orig": "Danish veterans protest outside US Embassy over Trump administration’s Greenland plans",
+      "summary_orig": "Hundreds of Danish veterans have staged a silent protest outside the U.S. Embassy in Copenhagen.",
       "lang": "en",
-      "title_en": "Abuser killed heavily pregnant girlfriend’s unborn baby in harrowing attack",
-      "summary_en": "",
-      "title": "Abuser killed heavily pregnant girlfriend’s unborn baby in harrowing attack",
-      "summary": "",
-      "url": "https://metro.co.uk/2026/01/31/abuser-killed-heavily-pregnant-girlfriends-unborn-baby-harrowing-attack-26629686/",
-      "source": "Metro",
-      "published_at": "2026-01-31T12:22:51+00:00",
+      "title_en": "Danish veterans protest outside US Embassy over Trump administration’s Greenland plans",
+      "summary_en": "Hundreds of Danish veterans have staged a silent protest outside the U.S. Embassy in Copenhagen.",
+      "title": "Danish veterans protest outside US Embassy over Trump administration’s Greenland plans",
+      "summary": "Hundreds of Danish veterans have staged a silent protest outside the U.S. Embassy in Copenhagen.",
+      "url": "https://www.seattletimes.com/nation-world/nation/danish-veterans-stage-protest-outside-us-embassy/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-01-31T12:29:42+00:00",
       "tags": [
-        "airport/security"
+        "airport/security",
+        "diplomatic"
       ],
       "type": "local news",
       "geo": {}
@@ -1719,24 +1811,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "db7ce338fb1c17a9",
-      "title_orig": "Wave of Israeli air strikes hit southern Lebanon despite ceasefire",
-      "summary_orig": "Israeli air strikes pound areas in southern Lebanon in violation of the November 2024 ceasefire with Hezbollah.",
-      "lang": "en",
-      "title_en": "Wave of Israeli air strikes hit southern Lebanon despite ceasefire",
-      "summary_en": "Israeli air strikes pound areas in southern Lebanon in violation of the November 2024 ceasefire with Hezbollah.",
-      "title": "Wave of Israeli air strikes hit southern Lebanon despite ceasefire",
-      "summary": "Israeli air strikes pound areas in southern Lebanon in violation of the November 2024 ceasefire with Hezbollah.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/31/wave-of-israeli-air-strikes-hit-southern-lebanon-despite-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-01-31T06:42:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2577,24 +2651,6 @@
       "geo": {}
     },
     {
-      "id": "d9bfb61d05aba7a6",
-      "title_orig": "Trump says Iran wants deal, US ‘armada’ larger than in Venezuela raid",
-      "summary_orig": "United States President Donald Trump said on Friday that he believed Tehran wanted to make a deal to avoid military action, adding that the US “armada” near Iran was bigger than the one he dispatched to topple Venezuela’s leader. The development came hours after Iran’s Foreign Minister Abbas Araghchi said Tehran is prepared to resume talks with Washington, but they should be fair and not include Iran’s defence capabilities. Trump made these remarks while addressing reporters in the Oval Office of the White House. “We have a large armada, flotilla, you can call it whatever you want, heading to Iran right now. Even larger than what we had in Venezuela,” the president stated. “Hopefully, we’ll make a deal. If we do make a deal, that’s good; if we don’t make a deal, we’ll see what happens,” Trump added. Asked if Iran had been given any deadline for a deal on its nuclear programme, ballistic missiles and other issues, Trump replied, “Only they know for sure.” He added that he had communicated that directly. “We’ll see how it all works out. They have to float someplace, so they might as well float near Iran,” Trump said, replying to a question about pulling back the US presence. However, he cited what he said was Iran’s decision to halt executions of protesters as evidence to show Tehran was ready to comply. “I can say this, they do want to make a deal,” Trump said. Trump declined to say whether, if Iran did not reach a deal, he planned a repeat of the dramatic operation in Venezuela, in which US forces captured President Nicolas Maduro. “I don’t want to talk about anything having to do with what I’m doing militarily,” he said.",
-      "lang": "en",
-      "title_en": "Trump says Iran wants deal, US ‘armada’ larger than in Venezuela raid",
-      "summary_en": "United States President Donald Trump said on Friday that he believed Tehran wanted to make a deal to avoid military action, adding that the US “armada” near Iran was bigger than the one he dispatched to topple Venezuela’s leader. The development came hours after Iran’s Foreign Minister Abbas Araghchi said Tehran is prepared to resume talks with Washington, but they should be fair and not include Iran’s defence capabilities. Trump made these remarks while addressing reporters in the Oval Office of the White House. “We have a large armada, flotilla, you can call it whatever you want, heading to Iran right now. Even larger than what we had in Venezuela,” the president stated. “Hopefully, we’ll make a deal. If we do make a deal, that’s good; if we don’t make a deal, we’ll see what happens,” Trump added. Asked if Iran had been given any deadline for a deal on its nuclear programme, ballistic missiles and other issues, Trump replied, “Only they know for sure.” He added that he had communicated that directly. “We’ll see how it all works out. They have to float someplace, so they might as well float near Iran,” Trump said, replying to a question about pulling back the US presence. However, he cited what he said was Iran’s decision to halt executions of protesters as evidence to show Tehran was ready to comply. “I can say this, they do want to make a deal,” Trump said. Trump declined to say whether, if Iran did not reach a deal, he planned a repeat of the dramatic operation in Venezuela, in which US forces captured President Nicolas Maduro. “I don’t want to talk about anything having to do with what I’m doing militarily,” he said.",
-      "title": "Trump says Iran wants deal, US ‘armada’ larger than in Venezuela raid",
-      "summary": "United States President Donald Trump said on Friday that he believed Tehran wanted to make a deal to avoid military action, adding that the US “armada” near Iran was bigger than the one he dispatched to topple Venezuela’s leader. The development came hours after Iran’s Foreign Minister Abbas Araghchi said Tehran is prepared to resume talks with Washington, but they should be fair and not include Iran’s defence capabilities. Trump made these remarks while addressing reporters in the Oval Office of the White House. “We have a large armada, flotilla, you can call it whatever you want, heading to Iran right now. Even larger than what we had in Venezuela,” the president stated. “Hopefully, we’ll make a deal. If we do make a deal, that’s good; if we don’t make a deal, we’ll see what happens,” Trump added. Asked if Iran had been given any deadline for a deal on its nuclear programme, ballistic missiles and other issues, Trump replied, “Only they know for sure.” He added that he had communicated that directly. “We’ll see how it all works out. They have to float someplace, so they might as well float near Iran,” Trump said, replying to a question about pulling back the US presence. However, he cited what he said was Iran’s decision to halt executions of protesters as evidence to show Tehran was ready to comply. “I can say this, they do want to make a deal,” Trump said. Trump declined to say whether, if Iran did not reach a deal, he planned a repeat of the dramatic operation in Venezuela, in which US forces captured President Nicolas Maduro. “I don’t want to talk about anything having to do with what I’m doing militarily,” he said.",
-      "url": "https://www.dawn.com/news/1969950/trump-says-iran-wants-deal-us-armada-larger-than-in-venezuela-raid",
-      "source": "Dawn - Home",
-      "published_at": "2026-01-30T18:12:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "381959bb186b38f6",
       "title_orig": "Israel accepts health authorities’ Gaza death toll is broadly accurate, saying 70,000 have died",
       "summary_orig": "Israeli military’s U-turn in accepting official figures comes after years of attacking data as ‘Hamas propaganda’ Israel’s military has accepted the death toll compiled by health authorities in Gaza is broadly accurate, marking a U-turn after years of official attacks on the data. A senior security official briefed Israeli journalists, saying about 70,000 Palestinians had been killed by Israeli attacks on the territory since October 2023, excluding those missing. Continue reading...",
@@ -2649,24 +2705,6 @@
       "geo": {}
     },
     {
-      "id": "bc0381ca4e9977f0",
-      "title_orig": "Journalist Don Lemon charged with federal civil rights crimes in anti-ICE church protest",
-      "summary_orig": "Civil rights leader Rev. Al Sharpton called Lemon’s arrest “alarming” saying the Trump administration is using a “sledge hammer” on “the knees of the First Amendment.”",
-      "lang": "en",
-      "title_en": "Journalist Don Lemon charged with federal civil rights crimes in anti-ICE church protest",
-      "summary_en": "Civil rights leader Rev. Al Sharpton called Lemon’s arrest “alarming” saying the Trump administration is using a “sledge hammer” on “the knees of the First Amendment.”",
-      "title": "Journalist Don Lemon charged with federal civil rights crimes in anti-ICE church protest",
-      "summary": "Civil rights leader Rev. Al Sharpton called Lemon’s arrest “alarming” saying the Trump administration is using a “sledge hammer” on “the knees of the First Amendment.”",
-      "url": "https://www.oregonlive.com/politics/2026/01/don-lemon-arrest-sparks-first-amendment-debate-after-minnesota-church-protest.html",
-      "source": "oregonlive.com",
-      "published_at": "2026-01-30T17:19:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "9018362983901b8b",
       "title_orig": "Transfer Window RECAP: Scotland striker in EPL link, Rangers eye £15m ace, Bowie move imminent",
       "summary_orig": "The latest Scottish transfer headlines, completed deals and rumours as we enter the final four days of the winter transfer window.",
@@ -2678,6 +2716,24 @@
       "url": "https://www.scotsman.com/sport/football/scottish-premiership/latest-premiership-news/transfer-window-recap-scotland-striker-in-epl-link-rangers-eye-ps15m-ace-bowie-move-imminent-5495935",
       "source": "The Scotsman",
       "published_at": "2026-01-30T17:08:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6fed7146696ebe4b",
+      "title_orig": "US sanctions Iran interior minister after protest crackdown",
+      "summary_orig": "Thousands were killed during recent anti-government protests in Iran.",
+      "lang": "en",
+      "title_en": "US sanctions Iran interior minister after protest crackdown",
+      "summary_en": "Thousands were killed during recent anti-government protests in Iran.",
+      "title": "US sanctions Iran interior minister after protest crackdown",
+      "summary": "Thousands were killed during recent anti-government protests in Iran.",
+      "url": "https://www.straitstimes.com/world/middle-east/us-imposes-sanctions-on-irans-interior-minister-businessman",
+      "source": "The Straits Times World News",
+      "published_at": "2026-01-30T16:50:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2732,6 +2788,24 @@
       "url": "https://www.leeds-live.co.uk/sport/leeds-united/rob-edwards-delivers-jorgen-strand-33335163",
       "source": "Leeds Live - frontpage",
       "published_at": "2026-01-30T16:03:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8461bc84b98b900c",
+      "title_orig": "Press Release: Alaska Airlines unveils Global Training Center",
+      "summary_orig": "Thousands of Alaska Airlines and Hawaiian Airlines employees will now undergo training in a new 660,000 square foot, state-of-the-art facility, which officially opened its doors today. The facility will be a hub for flight attendants, pilots, customer service agents and more, and will centralize operations into one space. “The Global Training Center is spectacular and... The post Press Release: Alaska Airlines unveils Global Training Center appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "Press Release: Alaska Airlines unveils Global Training Center",
+      "summary_en": "Thousands of Alaska Airlines and Hawaiian Airlines employees will now undergo training in a new 660,000 square foot, state-of-the-art facility, which officially opened its doors today. The facility will be a hub for flight attendants, pilots, customer service agents and more, and will centralize operations into one space. “The Global Training Center is spectacular and... The post Press Release: Alaska Airlines unveils Global Training Center appeared first on Runway Girl .",
+      "title": "Press Release: Alaska Airlines unveils Global Training Center",
+      "summary": "Thousands of Alaska Airlines and Hawaiian Airlines employees will now undergo training in a new 660,000 square foot, state-of-the-art facility, which officially opened its doors today. The facility will be a hub for flight attendants, pilots, customer service agents and more, and will centralize operations into one space. “The Global Training Center is spectacular and... The post Press Release: Alaska Airlines unveils Global Training Center appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2026/01/alaska-airlines-unveils-global-training-center/",
+      "source": "Runway Girl",
+      "published_at": "2026-01-30T16:00:45+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3118,6 +3192,24 @@
       "geo": {}
     },
     {
+      "id": "b6d93b981acda95b",
+      "title_orig": "Press Release: Air India converts 15 A321neo orders to A321XLR",
+      "summary_orig": "Air India, India’s leading global airline, today announced the conversion of 15 of its current orders for Airbus A321neo aircraft to the advanced Airbus A321XLR (Extra Long Range) variant. The conversion of the orders was announced today on the sidelines of Wings India 2026, a one of Asia’s premier civil aviation events, in Hyderabad. The... The post Press Release: Air India converts 15 A321neo orders to A321XLR appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "Press Release: Air India converts 15 A321neo orders to A321XLR",
+      "summary_en": "Air India, India’s leading global airline, today announced the conversion of 15 of its current orders for Airbus A321neo aircraft to the advanced Airbus A321XLR (Extra Long Range) variant. The conversion of the orders was announced today on the sidelines of Wings India 2026, a one of Asia’s premier civil aviation events, in Hyderabad. The... The post Press Release: Air India converts 15 A321neo orders to A321XLR appeared first on Runway Girl .",
+      "title": "Press Release: Air India converts 15 A321neo orders to A321XLR",
+      "summary": "Air India, India’s leading global airline, today announced the conversion of 15 of its current orders for Airbus A321neo aircraft to the advanced Airbus A321XLR (Extra Long Range) variant. The conversion of the orders was announced today on the sidelines of Wings India 2026, a one of Asia’s premier civil aviation events, in Hyderabad. The... The post Press Release: Air India converts 15 A321neo orders to A321XLR appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2026/01/air-india-converts-15-airbus-a321neo-a321xlr/",
+      "source": "Runway Girl",
+      "published_at": "2026-01-29T21:00:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "42e7509ab11c9795",
       "title_orig": "Moscow Airport Sells for Half Off, a Sign of Russia’s Global Isolation",
       "summary_orig": "The government opened the sale to cut-rate bidding for Domodedovo Airport after it received no offers at its initial asking price of $1.7 billion.",
@@ -3188,6 +3280,33 @@
       ],
       "type": "major news",
       "geo": {}
+    },
+    {
+      "id": "fab16e644ba45a5f",
+      "title_orig": "Press Release: Atlanta rewrites the baggage journey with reclaim, SITA",
+      "summary_orig": "Passenger surges at terminals can lead to chaos. Long queues at bag drops put pressure on infrastructure and staff, resulting in long waits for passengers, potential missed connections, and frustration. To address this, a new solution developed by reclaim in collaboration with SITA is now live at Atlanta Hartsfield-Jackson International Airport (ATL), letting passengers hand... The post Press Release: Atlanta rewrites the baggage journey with reclaim, SITA appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "Press Release: Atlanta rewrites the baggage journey with reclaim, SITA",
+      "summary_en": "Passenger surges at terminals can lead to chaos. Long queues at bag drops put pressure on infrastructure and staff, resulting in long waits for passengers, potential missed connections, and frustration. To address this, a new solution developed by reclaim in collaboration with SITA is now live at Atlanta Hartsfield-Jackson International Airport (ATL), letting passengers hand... The post Press Release: Atlanta rewrites the baggage journey with reclaim, SITA appeared first on Runway Girl .",
+      "title": "Press Release: Atlanta rewrites the baggage journey with reclaim, SITA",
+      "summary": "Passenger surges at terminals can lead to chaos. Long queues at bag drops put pressure on infrastructure and staff, resulting in long waits for passengers, potential missed connections, and frustration. To address this, a new solution developed by reclaim in collaboration with SITA is now live at Atlanta Hartsfield-Jackson International Airport (ATL), letting passengers hand... The post Press Release: Atlanta rewrites the baggage journey with reclaim, SITA appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2026/01/atlanta-rewrites-the-baggage-journey/",
+      "source": "Runway Girl",
+      "published_at": "2026-01-29T14:00:12+00:00",
+      "tags": [
+        "ATL",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Hartsfield–Jackson",
+        "city": "Atlanta",
+        "country": "United States",
+        "iata": "ATL",
+        "lat": 33.6407,
+        "lon": -84.4277
+      }
     },
     {
       "id": "6facff29c0fab995",
@@ -3679,60 +3798,6 @@
       "url": "https://airlive.net/accident/2026/01/26/a-bombardier-challenger-600-ended-upside-down-after-it-crashed-during-take-off-from-bangor-airport/",
       "source": "AIRLIVE",
       "published_at": "2026-01-26T07:22:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "27f32d0b47443b5a",
-      "title_orig": "Press Release: Embraer brings E195-E2 and KC-390 to Singapore Airshow",
-      "summary_orig": "Embraer today announced its presence at the 10th edition of the Singapore Airshow, taking place from February 3 to 8. The company will display the world’s quietest, most fuel-efficient aircraft, the E195-E2, and the versatile multi-mission KC-390 Millennium tactical transport aircraft, which was built and designed in the 21st century. Embraer’s strong presence at the... The post Press Release: Embraer brings E195-E2 and KC-390 to Singapore Airshow appeared first on Runway Girl .",
-      "lang": "en",
-      "title_en": "Press Release: Embraer brings E195-E2 and KC-390 to Singapore Airshow",
-      "summary_en": "Embraer today announced its presence at the 10th edition of the Singapore Airshow, taking place from February 3 to 8. The company will display the world’s quietest, most fuel-efficient aircraft, the E195-E2, and the versatile multi-mission KC-390 Millennium tactical transport aircraft, which was built and designed in the 21st century. Embraer’s strong presence at the... The post Press Release: Embraer brings E195-E2 and KC-390 to Singapore Airshow appeared first on Runway Girl .",
-      "title": "Press Release: Embraer brings E195-E2 and KC-390 to Singapore Airshow",
-      "summary": "Embraer today announced its presence at the 10th edition of the Singapore Airshow, taking place from February 3 to 8. The company will display the world’s quietest, most fuel-efficient aircraft, the E195-E2, and the versatile multi-mission KC-390 Millennium tactical transport aircraft, which was built and designed in the 21st century. Embraer’s strong presence at the... The post Press Release: Embraer brings E195-E2 and KC-390 to Singapore Airshow appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2026/01/embraer-brings-new-generation-power-duo-e195-e2-and-kc-390-millennium-to-the-singapore-airshow/",
-      "source": "Runway Girl",
-      "published_at": "2026-01-26T00:00:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f0922436406fc6b1",
-      "title_orig": "KLM offers Viasat-powered free Wi-Fi on European flights",
-      "summary_orig": "KLM Royal Dutch Airlines, a longtime customer of Viasat inflight connectivity for its narrowbody and regional aircraft, has started offering free Wi-Fi on European flights to members of its Flying Blue loyalty program. “Throughout the flight, passengers can email, browse the Internet, listen to music, play games, watch movies, and stream TV series — without... The post KLM offers Viasat-powered free Wi-Fi on European flights appeared first on Runway Girl .",
-      "lang": "en",
-      "title_en": "KLM offers Viasat-powered free Wi-Fi on European flights",
-      "summary_en": "KLM Royal Dutch Airlines, a longtime customer of Viasat inflight connectivity for its narrowbody and regional aircraft, has started offering free Wi-Fi on European flights to members of its Flying Blue loyalty program. “Throughout the flight, passengers can email, browse the Internet, listen to music, play games, watch movies, and stream TV series — without... The post KLM offers Viasat-powered free Wi-Fi on European flights appeared first on Runway Girl .",
-      "title": "KLM offers Viasat-powered free Wi-Fi on European flights",
-      "summary": "KLM Royal Dutch Airlines, a longtime customer of Viasat inflight connectivity for its narrowbody and regional aircraft, has started offering free Wi-Fi on European flights to members of its Flying Blue loyalty program. “Throughout the flight, passengers can email, browse the Internet, listen to music, play games, watch movies, and stream TV series — without... The post KLM offers Viasat-powered free Wi-Fi on European flights appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2026/01/klm-offers-viasat-powered-free-wi-fi-on-european-flights/",
-      "source": "Runway Girl",
-      "published_at": "2026-01-24T18:32:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2078b9116b30c7ae",
-      "title_orig": "Press Release: Air India refreshes beverage collection with global flair",
-      "summary_orig": "Air India, India’s leading global airline, today unveiled a completely refreshed beverage collection, one that brings together some of the world’s most celebrated wines and spirits at 35,000 feet on international routes. This premium ensemble of globally acclaimed labels has been thoughtfully curated to elevate the inflight experience. The new selection features a fine balance of classic... The post Press Release: Air India refreshes beverage collection with global flair appeared first on Runway Girl .",
-      "lang": "en",
-      "title_en": "Press Release: Air India refreshes beverage collection with global flair",
-      "summary_en": "Air India, India’s leading global airline, today unveiled a completely refreshed beverage collection, one that brings together some of the world’s most celebrated wines and spirits at 35,000 feet on international routes. This premium ensemble of globally acclaimed labels has been thoughtfully curated to elevate the inflight experience. The new selection features a fine balance of classic... The post Press Release: Air India refreshes beverage collection with global flair appeared first on Runway Girl .",
-      "title": "Press Release: Air India refreshes beverage collection with global flair",
-      "summary": "Air India, India’s leading global airline, today unveiled a completely refreshed beverage collection, one that brings together some of the world’s most celebrated wines and spirits at 35,000 feet on international routes. This premium ensemble of globally acclaimed labels has been thoughtfully curated to elevate the inflight experience. The new selection features a fine balance of classic... The post Press Release: Air India refreshes beverage collection with global flair appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2026/01/air-india-refreshes-beverage-collection-with-global-flair/",
-      "source": "Runway Girl",
-      "published_at": "2026-01-24T00:09:53+00:00",
       "tags": [
         "airport/security"
       ],
