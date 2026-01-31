@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-01-31T05:04:42.600314+00:00",
+  "generated_at": "2026-01-31T05:43:37.498485+00:00",
   "items": [
+    {
+      "id": "842bba13eb60ee15",
+      "title_orig": "Protesters reportedly breach Eugene's federal building, police say",
+      "summary_orig": "Eugene police declared the activity a riot after several demonstrators breached the federal building; officers later tear-gassed the crowds.",
+      "lang": "en",
+      "title_en": "Protesters reportedly breach Eugene's federal building, police say",
+      "summary_en": "Eugene police declared the activity a riot after several demonstrators breached the federal building; officers later tear-gassed the crowds.",
+      "title": "Protesters reportedly breach Eugene's federal building, police say",
+      "summary": "Eugene police declared the activity a riot after several demonstrators breached the federal building; officers later tear-gassed the crowds.",
+      "url": "https://www.kgw.com/article/news/local/protesters-reportedly-breach-eugene-federal-building/283-773aa62d-94a2-4c29-9eac-f4b567cbaecf",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-01-31T05:09:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "d6c5ae9a23ebf16b",
       "title_orig": "Why is my migraine worse in summer?",
@@ -11,7 +29,7 @@
       "title": "Why is my migraine worse in summer?",
       "summary": "For people with migraine, summer can be a double-edged sword. You may be able to relax but glare, heat, and changes to sleeping and diet can make attacks more likely or more severe.",
       "url": "https://www.abc.net.au/news/2026-01-31/why-is-my-migraine-worse-in-summer/106281460",
-      "source": "ABC News",
+      "source": "Just In",
       "published_at": "2026-01-31T04:58:54+00:00",
       "tags": [
         "airport/security"
@@ -20,17 +38,35 @@
       "geo": {}
     },
     {
-      "id": "842bba13eb60ee15",
-      "title_orig": "Protesters reportedly breach Eugene's federal building",
-      "summary_orig": "Eugene police declared the activity a riot after several demonstrators breached the federal building with staff inside around 6 p.m.",
+      "id": "b5fa38d82de1dc45",
+      "title_orig": "St. Paul Police Department denies data requests about confrontation with protesters",
+      "summary_orig": "An ICE raid in November on St. Paul’s East Side drew protesters, who clashed with city police.",
       "lang": "en",
-      "title_en": "Protesters reportedly breach Eugene's federal building",
-      "summary_en": "Eugene police declared the activity a riot after several demonstrators breached the federal building with staff inside around 6 p.m.",
-      "title": "Protesters reportedly breach Eugene's federal building",
-      "summary": "Eugene police declared the activity a riot after several demonstrators breached the federal building with staff inside around 6 p.m.",
-      "url": "https://www.kgw.com/article/news/local/protesters-reportedly-breach-eugene-federal-building/283-773aa62d-94a2-4c29-9eac-f4b567cbaecf",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-01-31T04:42:15+00:00",
+      "title_en": "St. Paul Police Department denies data requests about confrontation with protesters",
+      "summary_en": "An ICE raid in November on St. Paul’s East Side drew protesters, who clashed with city police.",
+      "title": "St. Paul Police Department denies data requests about confrontation with protesters",
+      "summary": "An ICE raid in November on St. Paul’s East Side drew protesters, who clashed with city police.",
+      "url": "https://www.startribune.com/st-paul-police-ice-protest-body-camera-chemicals-data-request-denied-investigation/601574402",
+      "source": "Startribune News",
+      "published_at": "2026-01-31T04:34:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "33b55884fee027e5",
+      "title_orig": "US cities hold anti-ICE protests during nationwide day of action",
+      "summary_orig": "Demonstrations were held to protest the fatal shootings of Renee Good and Alex Pretti by federal agents in Minneapolis.",
+      "lang": "en",
+      "title_en": "US cities hold anti-ICE protests during nationwide day of action",
+      "summary_en": "Demonstrations were held to protest the fatal shootings of Renee Good and Alex Pretti by federal agents in Minneapolis.",
+      "title": "US cities hold anti-ICE protests during nationwide day of action",
+      "summary": "Demonstrations were held to protest the fatal shootings of Renee Good and Alex Pretti by federal agents in Minneapolis.",
+      "url": "https://www.bbc.com/news/articles/c78vgnz3z6eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-01-31T04:27:58+00:00",
       "tags": [
         "airport/security"
       ],
@@ -353,24 +389,6 @@
       "geo": {}
     },
     {
-      "id": "c95e16967b2810a2",
-      "title_orig": "Seattle businesses shutter for nationwide anti-ICE protest",
-      "summary_orig": "Dozens of Washington small businesses closed Friday in solidarity with Minneapolis and the burgeoning general strike.",
-      "lang": "en",
-      "title_en": "Seattle businesses shutter for nationwide anti-ICE protest",
-      "summary_en": "Dozens of Washington small businesses closed Friday in solidarity with Minneapolis and the burgeoning general strike.",
-      "title": "Seattle businesses shutter for nationwide anti-ICE protest",
-      "summary": "Dozens of Washington small businesses closed Friday in solidarity with Minneapolis and the burgeoning general strike.",
-      "url": "https://www.seattletimes.com/seattle-news/seattle-businesses-shutter-friday-for-nationwide-anti-ice-protest/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-31T02:14:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "db5c217b473216fe",
       "title_orig": "Russia and Ukraine halt energy strikes, but differences emerge on moratorium",
       "summary_orig": "Moscow said the pause would end Sunday while Kyiv indicated the halt would be in effect for a week.",
@@ -632,24 +650,6 @@
       "geo": {}
     },
     {
-      "id": "cfdb6c506a58ae24",
-      "title_orig": "Tacoma man attacked 3 with knife before fatal shooting by Pierce County deputy",
-      "summary_orig": "Alrico Ray Coleman, 34, questioned a man about his religious beliefs moments before attacking him and his dog without warning, investigators said.",
-      "lang": "en",
-      "title_en": "Tacoma man attacked 3 with knife before fatal shooting by Pierce County deputy",
-      "summary_en": "Alrico Ray Coleman, 34, questioned a man about his religious beliefs moments before attacking him and his dog without warning, investigators said.",
-      "title": "Tacoma man attacked 3 with knife before fatal shooting by Pierce County deputy",
-      "summary": "Alrico Ray Coleman, 34, questioned a man about his religious beliefs moments before attacking him and his dog without warning, investigators said.",
-      "url": "https://www.seattletimes.com/seattle-news/law-justice/tacoma-man-attacked-3-with-knife-before-fatal-shooting-by-pierce-county-deputy/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-31T00:36:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5613c9202c9c067d",
       "title_orig": "PHOTOS: Immigration protests in Denver as part of nationwide protests in opposition of the Trump administration’s policies.",
       "summary_orig": "Two immigration protests in Denver on Friday, Jan. 30 2026, one student-led protest at the State Capitol and a march through downtown Denver and another protest at La Alma Park.",
@@ -848,33 +848,6 @@
       "geo": {}
     },
     {
-      "id": "a372ac8e0442c522",
-      "title_orig": "Georgia city warns against drinking tap water after Atlanta airport fuel spill",
-      "summary_orig": "A town south of Atlanta has advised its residents not to drink their tap water after a fuel spill at Atlanta’s airport may have contaminated the Flint River.",
-      "lang": "en",
-      "title_en": "Georgia city warns against drinking tap water after Atlanta airport fuel spill",
-      "summary_en": "A town south of Atlanta has advised its residents not to drink their tap water after a fuel spill at Atlanta’s airport may have contaminated the Flint River.",
-      "title": "Georgia city warns against drinking tap water after Atlanta airport fuel spill",
-      "summary": "A town south of Atlanta has advised its residents not to drink their tap water after a fuel spill at Atlanta’s airport may have contaminated the Flint River.",
-      "url": "https://www.seattletimes.com/nation-world/nation/georgia-city-warns-against-drinking-tap-water-after-atlanta-airport-fuel-spill/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-30T23:34:07+00:00",
-      "tags": [
-        "ATL",
-        "United States",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Hartsfield–Jackson",
-        "city": "Atlanta",
-        "country": "United States",
-        "iata": "ATL",
-        "lat": 33.6407,
-        "lon": -84.4277
-      }
-    },
-    {
       "id": "d08aed9108e41e3d",
       "title_orig": "US man escapes execution for dumping girl, 5, to be killed by alligators",
       "summary_orig": "The man who dumped a five-year-old girl in the Everglades – leaving her to be killed by alligators – had his life spared by a jury on Friday afternoon in a Miami-Dade courtroom.\nHarrel Braddy, 76, sat quietly when the verdict was read, briefly putting down his head before looking up at the ceiling. His eyes appeared to water. Braddy hugged his lawyers as the jury walked out of the courtroom.\nThe girl’s mother, who testified about the horrific details of Braddy’s attack, was not in the...",
@@ -886,24 +859,6 @@
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3341912/us-man-escapes-execution-dumping-girl-5-be-killed-alligators?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-01-30T23:18:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5385957d4d026f7b",
-      "title_orig": "Young people are protesting ICE and reenacting immigration raids in online gaming platform Roblox",
-      "summary_orig": "Some young people on Roblox, the popular online gaming platform, have been using a roleplaying game to embody Immigration and Customs Enforcement officers.",
-      "lang": "en",
-      "title_en": "Young people are protesting ICE and reenacting immigration raids in online gaming platform Roblox",
-      "summary_en": "Some young people on Roblox, the popular online gaming platform, have been using a roleplaying game to embody Immigration and Customs Enforcement officers.",
-      "title": "Young people are protesting ICE and reenacting immigration raids in online gaming platform Roblox",
-      "summary": "Some young people on Roblox, the popular online gaming platform, have been using a roleplaying game to embody Immigration and Customs Enforcement officers.",
-      "url": "https://www.seattletimes.com/business/young-people-are-protesting-ice-and-reenacting-immigration-raids-in-online-gaming-platform-roblox/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-30T23:06:04+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1012,24 +967,6 @@
       "url": "https://fox5sandiego.com/news/local-news/people-rally-in-san-diego-in-solidarity-with-minnesota/",
       "source": "FOX 5 San Diego & KUSI News",
       "published_at": "2026-01-30T22:59:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cdb22d4178243ca6",
-      "title_orig": "Photos of nationwide protests spurred by recent killings by ICE agents in Minnesota",
-      "summary_orig": "Protesters across the United States staged a nationwide “blackout” strike calling for no work, no school and no shopping to oppose the Trump administration’s immigration enforcement. ___ This is a photo gallery curated by AP photo editors.",
-      "lang": "en",
-      "title_en": "Photos of nationwide protests spurred by recent killings by ICE agents in Minnesota",
-      "summary_en": "Protesters across the United States staged a nationwide “blackout” strike calling for no work, no school and no shopping to oppose the Trump administration’s immigration enforcement. ___ This is a photo gallery curated by AP photo editors.",
-      "title": "Photos of nationwide protests spurred by recent killings by ICE agents in Minnesota",
-      "summary": "Protesters across the United States staged a nationwide “blackout” strike calling for no work, no school and no shopping to oppose the Trump administration’s immigration enforcement. ___ This is a photo gallery curated by AP photo editors.",
-      "url": "https://www.seattletimes.com/business/photos-of-nationwide-protests-spurred-by-recent-killings-by-ice-agents-in-minnesota/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-01-30T22:30:11+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2514,24 +2451,6 @@
       "geo": {}
     },
     {
-      "id": "a9932cf91eaf888d",
-      "title_orig": "Love Island All Stars bombshells forced to make huge decision over villa",
-      "summary_orig": "It comes as one Love Island star looks to be in trouble",
-      "lang": "en",
-      "title_en": "Love Island All Stars bombshells forced to make huge decision over villa",
-      "summary_en": "It comes as one Love Island star looks to be in trouble",
-      "title": "Love Island All Stars bombshells forced to make huge decision over villa",
-      "summary": "It comes as one Love Island star looks to be in trouble",
-      "url": "https://www.bristolpost.co.uk/news/celebs-tv/love-island-stars-bombshells-forced-10786572",
-      "source": "Bristol Post - News",
-      "published_at": "2026-01-30T13:03:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a0a96a6cebcbb582",
       "title_orig": "Police hunt two men after pub bottle attack nearly blinds victim in South Elmsall",
       "summary_orig": "Detectives investigating a serious assault in South Elmsall in 2024 have released images of two suspects they are still searching for.",
@@ -3665,24 +3584,6 @@
         "lat": 51.47,
         "lon": -0.4543
       }
-    },
-    {
-      "id": "53a5403f31b37ef6",
-      "title_orig": "How Computer Warfare Is Becoming Part of the Pentagon’s Arsenal",
-      "summary_orig": "The military tested a new approach in Venezuela and during strikes on Iranian nuclear facilities.",
-      "lang": "en",
-      "title_en": "How Computer Warfare Is Becoming Part of the Pentagon’s Arsenal",
-      "summary_en": "The military tested a new approach in Venezuela and during strikes on Iranian nuclear facilities.",
-      "title": "How Computer Warfare Is Becoming Part of the Pentagon’s Arsenal",
-      "summary": "The military tested a new approach in Venezuela and during strikes on Iranian nuclear facilities.",
-      "url": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
-      "source": "NYT > World News",
-      "published_at": "2026-01-27T19:50:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
     },
     {
       "id": "8d002962866cd6cd",
