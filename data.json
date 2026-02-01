@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-02-01T19:05:47.240246+00:00",
+  "generated_at": "2026-02-01T19:30:46.840951+00:00",
   "items": [
+    {
+      "id": "82d89b36372ce98c",
+      "title_orig": "Dominic Solanke provides injury update after Tottenham draw with Man City",
+      "summary_orig": "Yet another fitness concern for the striker.",
+      "lang": "en",
+      "title_en": "Dominic Solanke provides injury update after Tottenham draw with Man City",
+      "summary_en": "Yet another fitness concern for the striker.",
+      "title": "Dominic Solanke provides injury update after Tottenham draw with Man City",
+      "summary": "Yet another fitness concern for the striker.",
+      "url": "https://metro.co.uk/2026/02/01/dominic-solanke-provides-injury-update-tottenham-draw-man-city-26653889/",
+      "source": "Metro",
+      "published_at": "2026-02-01T19:23:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "afb124f956cbc3f7",
+      "title_orig": "'Cynical and targeted' Russian strike on Ukrainian bus kills 12",
+      "summary_orig": "A series of attacks across Ukraine comes ahead of US-brokered trilateral talks between Ukraine and Russia set for the coming week.",
+      "lang": "en",
+      "title_en": "'Cynical and targeted' Russian strike on Ukrainian bus kills 12",
+      "summary_en": "A series of attacks across Ukraine comes ahead of US-brokered trilateral talks between Ukraine and Russia set for the coming week.",
+      "title": "'Cynical and targeted' Russian strike on Ukrainian bus kills 12",
+      "summary": "A series of attacks across Ukraine comes ahead of US-brokered trilateral talks between Ukraine and Russia set for the coming week.",
+      "url": "https://www.abc.net.au/news/2026-02-02/russian-strike-on-ukrainian-mining-bus/106293870",
+      "source": "Just In",
+      "published_at": "2026-02-01T19:23:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a56bb902a3e65b96",
+      "title_orig": "Security breach at Valencia Airport triggers flight delay after a man climbs on a Vueling A320",
+      "summary_orig": "VALENCIA — Travelers at Valencia International Airport (VLC) witnessed a bizarre scene this Saturday afternoon when a man bypassed security, gained access to the restricted apron area, and scaled a commercial aircraft. The intruder reportedly climbed onto the roof of a Vueling Airbus A320 that was idling on the tarmac. The aircraft was prepared for […] The post Security breach at Valencia Airport triggers flight delay after a man climbs on a Vueling A320 appeared first on AIRLIVE .",
+      "lang": "en",
+      "title_en": "Security breach at Valencia Airport triggers flight delay after a man climbs on a Vueling A320",
+      "summary_en": "VALENCIA — Travelers at Valencia International Airport (VLC) witnessed a bizarre scene this Saturday afternoon when a man bypassed security, gained access to the restricted apron area, and scaled a commercial aircraft. The intruder reportedly climbed onto the roof of a Vueling Airbus A320 that was idling on the tarmac. The aircraft was prepared for […] The post Security breach at Valencia Airport triggers flight delay after a man climbs on a Vueling A320 appeared first on AIRLIVE .",
+      "title": "Security breach at Valencia Airport triggers flight delay after a man climbs on a Vueling A320",
+      "summary": "VALENCIA — Travelers at Valencia International Airport (VLC) witnessed a bizarre scene this Saturday afternoon when a man bypassed security, gained access to the restricted apron area, and scaled a commercial aircraft. The intruder reportedly climbed onto the roof of a Vueling Airbus A320 that was idling on the tarmac. The aircraft was prepared for […] The post Security breach at Valencia Airport triggers flight delay after a man climbs on a Vueling A320 appeared first on AIRLIVE .",
+      "url": "https://airlive.net/incident/2026/02/01/security-breach-at-valencia-airport-triggers-flight-delay-after-a-man-climbed-on-a-vueling-a320/",
+      "source": "AIRLIVE",
+      "published_at": "2026-02-01T19:11:10+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "589ec4ea7ff8ad12",
+      "title_orig": "Celtic agree 2 deals, Rangers eye striker, Hibs land target, Dons raid Bundesliga - Scottish transfers",
+      "summary_orig": "Latest Scottish transfer news and speculation",
+      "lang": "en",
+      "title_en": "Celtic agree 2 deals, Rangers eye striker, Hibs land target, Dons raid Bundesliga - Scottish transfers",
+      "summary_en": "Latest Scottish transfer news and speculation",
+      "title": "Celtic agree 2 deals, Rangers eye striker, Hibs land target, Dons raid Bundesliga - Scottish transfers",
+      "summary": "Latest Scottish transfer news and speculation",
+      "url": "https://www.scotsman.com/sport/football/celtic-agree-2-deals-rangers-eye-striker-hibs-land-target-dons-raid-bundesliga-scottish-transfers-5498044",
+      "source": "The Scotsman",
+      "published_at": "2026-02-01T19:08:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "91ffbf4b781e0441",
+      "title_orig": "Russia Strikes Ukraine’s Energy Sector, Killing 12 Miners",
+      "summary_orig": "The attack comes during a winter freeze and despite efforts by President Trump and others to get the two countries to negotiate a truce.",
+      "lang": "en",
+      "title_en": "Russia Strikes Ukraine’s Energy Sector, Killing 12 Miners",
+      "summary_en": "The attack comes during a winter freeze and despite efforts by President Trump and others to get the two countries to negotiate a truce.",
+      "title": "Russia Strikes Ukraine’s Energy Sector, Killing 12 Miners",
+      "summary": "The attack comes during a winter freeze and despite efforts by President Trump and others to get the two countries to negotiate a truce.",
+      "url": "https://www.nytimes.com/2026/02/01/world/europe/russia-strikes-ukraine-energy-sector-killing-12-miners.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-01T19:08:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "5bc85e28b0c02069",
       "title_orig": "Syria arrests group behind Mezzeh airport attacks, weapons traced to Hezbollah",
@@ -31,6 +130,24 @@
       "url": "https://www.dawn.com/news/1970413/trump-hopeful-of-iran-deal-after-tehran-warns-of-regional-war",
       "source": "Dawn - Home",
       "published_at": "2026-02-01T19:00:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e41d3aa89d82c623",
+      "title_orig": "Iranian protester Erfan Soltani released on bail, reports say",
+      "summary_orig": "Reports in January had said he was due to be executed after his arrest in connection with anti-government protests.",
+      "lang": "en",
+      "title_en": "Iranian protester Erfan Soltani released on bail, reports say",
+      "summary_en": "Reports in January had said he was due to be executed after his arrest in connection with anti-government protests.",
+      "title": "Iranian protester Erfan Soltani released on bail, reports say",
+      "summary": "Reports in January had said he was due to be executed after his arrest in connection with anti-government protests.",
+      "url": "https://www.bbc.com/news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-02-01T19:00:01+00:00",
       "tags": [
         "airport/security"
       ],
@@ -471,7 +588,7 @@
       "title": "UK hospitality firms demand more help with business rates amid questions over Heathrow discount",
       "summary": "Airports identified as biggest winners of government’s £4.3bn support package with Heathrow alone taking £900m discount Struggling hotels, restaurants and nightclubs are calling for more financial help with business rates after it emerged that Heathrow is among the biggest beneficiaries of a multibillion-pound package of state support. The UK’s biggest airport is in line for a discount of nearly £900m on its rates bill over the next three years. That is a fifth of the total £4.3bn “transitional relief” fund announced by the chancellor in the budget for all businesses facing big bill increases. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/feb/01/uk-business-rates-rachel-reeves-relief-fund-heathrow-hospitality",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-02-01T16:52:33+00:00",
       "tags": [
         "LHR",
@@ -616,13 +733,13 @@
     },
     {
       "id": "1ec6cb233b414786",
-      "title_orig": "Many dead and injured in Russian strikes as Zelenskyy announces Feb 4-5 talks in Abu Dhabi",
-      "summary_orig": "The attacks hitting a miners's bus in Pavlohrad, Dnipropetrovsk Oblast, and a maternity hospital in Zaporizhzhia come as Ukraine's President announced trilateral peace talks in the UAE next week.",
+      "title_orig": "Russian strike on Ukrainian bus kills 15 miners, injures seven others",
+      "summary_orig": "The attacks hitting a miners' bus in Pavlohrad in the Dnipropetrovsk region, and a maternity hospital in Zaporizhzhia, come as Ukraine's president announced trilateral peace talks in the United Arab Emirates.",
       "lang": "en",
-      "title_en": "Many dead and injured in Russian strikes as Zelenskyy announces Feb 4-5 talks in Abu Dhabi",
-      "summary_en": "The attacks hitting a miners's bus in Pavlohrad, Dnipropetrovsk Oblast, and a maternity hospital in Zaporizhzhia come as Ukraine's President announced trilateral peace talks in the UAE next week.",
-      "title": "Many dead and injured in Russian strikes as Zelenskyy announces Feb 4-5 talks in Abu Dhabi",
-      "summary": "The attacks hitting a miners's bus in Pavlohrad, Dnipropetrovsk Oblast, and a maternity hospital in Zaporizhzhia come as Ukraine's President announced trilateral peace talks in the UAE next week.",
+      "title_en": "Russian strike on Ukrainian bus kills 15 miners, injures seven others",
+      "summary_en": "The attacks hitting a miners' bus in Pavlohrad in the Dnipropetrovsk region, and a maternity hospital in Zaporizhzhia, come as Ukraine's president announced trilateral peace talks in the United Arab Emirates.",
+      "title": "Russian strike on Ukrainian bus kills 15 miners, injures seven others",
+      "summary": "The attacks hitting a miners' bus in Pavlohrad in the Dnipropetrovsk region, and a maternity hospital in Zaporizhzhia, come as Ukraine's president announced trilateral peace talks in the United Arab Emirates.",
       "url": "http://www.euronews.com/2026/02/01/many-dead-and-injured-in-russian-strikes-as-zelenskyy-announces-feb-4-5-talks-in-abu-dhabi",
       "source": "News | Euronews RSS",
       "published_at": "2026-02-01T16:30:22+00:00",
@@ -1137,24 +1254,6 @@
       "geo": {}
     },
     {
-      "id": "8f5dbaf117c80ea4",
-      "title_orig": "Striker linked with late transfer as boss quits hours after Swansea City defeat",
-      "summary_orig": "The latest Swansea City news from SA1",
-      "lang": "en",
-      "title_en": "Striker linked with late transfer as boss quits hours after Swansea City defeat",
-      "summary_en": "The latest Swansea City news from SA1",
-      "title": "Striker linked with late transfer as boss quits hours after Swansea City defeat",
-      "summary": "The latest Swansea City news from SA1",
-      "url": "https://www.walesonline.co.uk/sport/football/transfer-news/striker-linked-late-transfer-coach-33341395",
-      "source": "WalesOnline - Home",
-      "published_at": "2026-02-01T13:39:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "15ab201d933a8df9",
       "title_orig": "Clifton man taken to hospital after 'nasty' late-night glass bottle attack",
       "summary_orig": "He had cuts to his face and injuries to his head, arms and hands",
@@ -1166,24 +1265,6 @@
       "url": "https://www.nottinghampost.com/news/nottingham-news/clifton-man-taken-hospital-after-10789204",
       "source": "Nottinghamshire Live - frontpage",
       "published_at": "2026-02-01T13:26:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "589ec4ea7ff8ad12",
-      "title_orig": "Celtic agree 2 deals, Rangers eye striker, Hibs land target, Dons raid Bundesliga - Scottish transfers",
-      "summary_orig": "Latest Scottish transfer news and speculation",
-      "lang": "en",
-      "title_en": "Celtic agree 2 deals, Rangers eye striker, Hibs land target, Dons raid Bundesliga - Scottish transfers",
-      "summary_en": "Latest Scottish transfer news and speculation",
-      "title": "Celtic agree 2 deals, Rangers eye striker, Hibs land target, Dons raid Bundesliga - Scottish transfers",
-      "summary": "Latest Scottish transfer news and speculation",
-      "url": "https://www.scotsman.com/sport/football/celtic-agree-2-deals-rangers-eye-striker-hibs-land-target-dons-raid-bundesliga-scottish-transfers-5498044",
-      "source": "The Scotsman",
-      "published_at": "2026-02-01T13:24:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1688,24 +1769,6 @@
       "url": "https://www.hindustantimes.com/india-news/frivolous-claims-india-rejects-pakistans-baseless-claims-on-balochistan-attack-101769932330782.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2026-02-01T07:54:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ea674152fbed670a",
-      "title_orig": "Belfast city centre attack: Three council workers hospitalised as police hunt two suspects",
-      "summary_orig": "The three council workers were assaulted early yesterday morning",
-      "lang": "en",
-      "title_en": "Belfast city centre attack: Three council workers hospitalised as police hunt two suspects",
-      "summary_en": "The three council workers were assaulted early yesterday morning",
-      "title": "Belfast city centre attack: Three council workers hospitalised as police hunt two suspects",
-      "summary": "The three council workers were assaulted early yesterday morning",
-      "url": "https://www.belfastlive.co.uk/news/belfast-news/belfast-city-centre-attack-three-33340350",
-      "source": "BelfastLive - Home",
-      "published_at": "2026-02-01T07:51:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2517,24 +2580,6 @@
       "url": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2026-01-31T12:52:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5b7e3804adeac916",
-      "title_orig": "Drone strikes in Ethiopia's Tigray region kill one, injure another",
-      "summary_orig": "Jan 31 - One person was killed and another injured in drone strikes in Ethiopia's northern Tigray region on Saturday, a senior Tigrayan official and a humanitarian worker said, in another sign of renewed conflict between regional and national forces.",
-      "lang": "en",
-      "title_en": "Drone strikes in Ethiopia's Tigray region kill one, injure another",
-      "summary_en": "Jan 31 - One person was killed and another injured in drone strikes in Ethiopia's northern Tigray region on Saturday, a senior Tigrayan official and a humanitarian worker said, in another sign of renewed conflict between regional and national forces.",
-      "title": "Drone strikes in Ethiopia's Tigray region kill one, injure another",
-      "summary": "Jan 31 - One person was killed and another injured in drone strikes in Ethiopia's northern Tigray region on Saturday, a senior Tigrayan official and a humanitarian worker said, in another sign of renewed conflict between regional and national forces.",
-      "url": "https://www.straitstimes.com/world/drone-strikes-in-ethiopias-tigray-region-kill-one-injure-another",
-      "source": "The Straits Times World News",
-      "published_at": "2026-01-31T12:15:34+00:00",
       "tags": [
         "airport/security"
       ],
