@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T19:36:50.520535+00:00",
+  "generated_at": "2026-02-08T19:54:24.937907+00:00",
   "items": [
     {
       "id": "a8968afc0a5c8c3b",
@@ -35,6 +35,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "007c095ca24735ed",
+      "title_orig": "Trump calls Hunter Hess ‘a real loser’ for skier’s ambivalence about representing US",
+      "summary_orig": "US president attacks freestyle skier in post Hess had said representing the US was ‘a little hard’ Donald Trump responded to Hunter Hess on Truth Social on Sunday, calling the Olympian a “real loser” and criticizing comments the US freestyle skier made in a press conference days earlier. Hess was asked in a press conference on Wednesday what it was like to represent the US in the Olympics given the current situation in the country, which has included ICE raids in Minnesota and a number of geopolitical crises . Hess said representing the US at the 2026 Winter Olympics brought up “mixed emotions” and that it was “a little hard.” Continue reading...",
+      "lang": "en",
+      "title_en": "Trump calls Hunter Hess ‘a real loser’ for skier’s ambivalence about representing US",
+      "summary_en": "US president attacks freestyle skier in post Hess had said representing the US was ‘a little hard’ Donald Trump responded to Hunter Hess on Truth Social on Sunday, calling the Olympian a “real loser” and criticizing comments the US freestyle skier made in a press conference days earlier. Hess was asked in a press conference on Wednesday what it was like to represent the US in the Olympics given the current situation in the country, which has included ICE raids in Minnesota and a number of geopolitical crises . Hess said representing the US at the 2026 Winter Olympics brought up “mixed emotions” and that it was “a little hard.” Continue reading...",
+      "title": "Trump calls Hunter Hess ‘a real loser’ for skier’s ambivalence about representing US",
+      "summary": "US president attacks freestyle skier in post Hess had said representing the US was ‘a little hard’ Donald Trump responded to Hunter Hess on Truth Social on Sunday, calling the Olympian a “real loser” and criticizing comments the US freestyle skier made in a press conference days earlier. Hess was asked in a press conference on Wednesday what it was like to represent the US in the Olympics given the current situation in the country, which has included ICE raids in Minnesota and a number of geopolitical crises . Hess said representing the US at the 2026 Winter Olympics brought up “mixed emotions” and that it was “a little hard.” Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/feb/08/donald-trump-hunter-hess-olympics",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-08T19:20:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -2799,33 +2817,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "a802e63a807b3598",
-      "title_orig": "Manchester ATC notified after Jet2 pilot becomes incapacitated on final approach, triggering emergency",
-      "summary_orig": "MANCHESTER – A Jet2 flight arriving from the Canary Islands was forced to declare an emergency on Tuesday evening after one of its pilots became incapacitated during the final approach to Manchester Airport. Incident Overview Flight LS980, operated by an Airbus A321 (registration G-SUNU), departed Lanzarote (ACE) at 15:45 WET. The flight proceeded normally across […] The post Manchester ATC notified after Jet2 pilot becomes incapacitated on final approach, triggering emergency appeared first on AIRLIVE .",
-      "lang": "en",
-      "title_en": "Manchester ATC notified after Jet2 pilot becomes incapacitated on final approach, triggering emergency",
-      "summary_en": "MANCHESTER – A Jet2 flight arriving from the Canary Islands was forced to declare an emergency on Tuesday evening after one of its pilots became incapacitated during the final approach to Manchester Airport. Incident Overview Flight LS980, operated by an Airbus A321 (registration G-SUNU), departed Lanzarote (ACE) at 15:45 WET. The flight proceeded normally across […] The post Manchester ATC notified after Jet2 pilot becomes incapacitated on final approach, triggering emergency appeared first on AIRLIVE .",
-      "title": "Manchester ATC notified after Jet2 pilot becomes incapacitated on final approach, triggering emergency",
-      "summary": "MANCHESTER – A Jet2 flight arriving from the Canary Islands was forced to declare an emergency on Tuesday evening after one of its pilots became incapacitated during the final approach to Manchester Airport. Incident Overview Flight LS980, operated by an Airbus A321 (registration G-SUNU), departed Lanzarote (ACE) at 15:45 WET. The flight proceeded normally across […] The post Manchester ATC notified after Jet2 pilot becomes incapacitated on final approach, triggering emergency appeared first on AIRLIVE .",
-      "url": "https://airlive.net/emergency/2026/02/03/manchester-atc-notified-after-jet2-pilot-becomes-incapacitated-on-final-approach-triggering-emergency/",
-      "source": "AIRLIVE",
-      "published_at": "2026-02-03T20:36:40+00:00",
-      "tags": [
-        "MAN",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN",
-        "lat": 53.3652,
-        "lon": -2.2727
-      }
     },
     {
       "id": "a056aff3c63b40a4",
