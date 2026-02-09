@@ -1,18 +1,702 @@
 {
-  "generated_at": "2026-02-09T15:35:55.559985+00:00",
+  "generated_at": "2026-02-09T17:50:32.878623+00:00",
   "items": [
+    {
+      "id": "b17d2645399a562e",
+      "title_orig": "Why Anas Sarwar's attack on Keir Starmer was delusional and hypocritical",
+      "summary_orig": "Both Keir Starmer and Anas Sarwar have made bad errors of misjudgment about Peter Mandelson",
+      "lang": "en",
+      "title_en": "Why Anas Sarwar's attack on Keir Starmer was delusional and hypocritical",
+      "summary_en": "Both Keir Starmer and Anas Sarwar have made bad errors of misjudgment about Peter Mandelson",
+      "title": "Why Anas Sarwar's attack on Keir Starmer was delusional and hypocritical",
+      "summary": "Both Keir Starmer and Anas Sarwar have made bad errors of misjudgment about Peter Mandelson",
+      "url": "https://www.scotsman.com/news/opinion/columnists/why-anas-sarwars-attack-on-keir-starmer-was-delusional-and-hypocritical-5509305",
+      "source": "The Scotsman",
+      "published_at": "2026-02-09T17:32:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d4e57f5896327bef",
+      "title_orig": "Flight declares emergency over UK minutes after take-off after fire reported",
+      "summary_orig": "National News: Air Portugal flight TP1329 to Porto was forced to make an emergency return to London Gatwick Airport",
+      "lang": "en",
+      "title_en": "Flight declares emergency over UK minutes after take-off after fire reported",
+      "summary_en": "National News: Air Portugal flight TP1329 to Porto was forced to make an emergency return to London Gatwick Airport",
+      "title": "Flight declares emergency over UK minutes after take-off after fire reported",
+      "summary": "National News: Air Portugal flight TP1329 to Porto was forced to make an emergency return to London Gatwick Airport",
+      "url": "https://www.cornwalllive.com/news/uk-world-news/flight-declares-emergency-over-uk-10805149",
+      "source": "Cornwall Live - frontpage",
+      "published_at": "2026-02-09T17:28:42+00:00",
+      "tags": [
+        "LGW",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Gatwick",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LGW",
+        "lat": 51.1537,
+        "lon": -0.1821
+      }
+    },
+    {
+      "id": "fdeb85153eb23978",
+      "title_orig": "Strike decisively against terrorism, Jammu and Kashmir Lieutenant Governor tells police",
+      "summary_orig": "Manoj Sinha advises police to collaborate with every individual in society to eradicate terror networks; death anniversary of Afzal Guru passes off peacefully in Kashmir, with no shutdown call",
+      "lang": "en",
+      "title_en": "Strike decisively against terrorism, Jammu and Kashmir Lieutenant Governor tells police",
+      "summary_en": "Manoj Sinha advises police to collaborate with every individual in society to eradicate terror networks; death anniversary of Afzal Guru passes off peacefully in Kashmir, with no shutdown call",
+      "title": "Strike decisively against terrorism, Jammu and Kashmir Lieutenant Governor tells police",
+      "summary": "Manoj Sinha advises police to collaborate with every individual in society to eradicate terror networks; death anniversary of Afzal Guru passes off peacefully in Kashmir, with no shutdown call",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/strike-decisively-against-terrorism-jammu-and-kashmir-lieutenant-governor-tells-police/article70611977.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-02-09T17:28:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "94e906ddc9f0fb5e",
+      "title_orig": "'Tragic' true crime series examines 'shocking' murder of man whose wife hired rappers to kill him",
+      "summary_orig": "The woman was convicted of driving a car into her husband after he was attacked by the rappers",
+      "lang": "en",
+      "title_en": "'Tragic' true crime series examines 'shocking' murder of man whose wife hired rappers to kill him",
+      "summary_en": "The woman was convicted of driving a car into her husband after he was attacked by the rappers",
+      "title": "'Tragic' true crime series examines 'shocking' murder of man whose wife hired rappers to kill him",
+      "summary": "The woman was convicted of driving a car into her husband after he was attacked by the rappers",
+      "url": "https://www.manchestereveningnews.co.uk/news/tv/tragic-true-crime-series-examines-33392708",
+      "source": "MEN - News",
+      "published_at": "2026-02-09T17:27:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "39d0b7f53dcce5e5",
+      "title_orig": "Airport safety concerns ground flights from remote British overseas island of St Helena",
+      "summary_orig": "Residents on the remote British overseas territory have been left stranded after fire safety concerns grounded flights.",
+      "lang": "en",
+      "title_en": "Airport safety concerns ground flights from remote British overseas island of St Helena",
+      "summary_en": "Residents on the remote British overseas territory have been left stranded after fire safety concerns grounded flights.",
+      "title": "Airport safety concerns ground flights from remote British overseas island of St Helena",
+      "summary": "Residents on the remote British overseas territory have been left stranded after fire safety concerns grounded flights.",
+      "url": "https://www.bbc.com/news/articles/c20z4p01qndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-02-09T17:25:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "cbd0dd8bb7566c1c",
+      "title_orig": "'Bomb' in duck pond turns out to be fire extinguisher",
+      "summary_orig": "Explosive ordnance disposal units assessed the item",
+      "lang": "en",
+      "title_en": "'Bomb' in duck pond turns out to be fire extinguisher",
+      "summary_en": "Explosive ordnance disposal units assessed the item",
+      "title": "'Bomb' in duck pond turns out to be fire extinguisher",
+      "summary": "Explosive ordnance disposal units assessed the item",
+      "url": "https://www.cornwalllive.com/news/cornwall-news/bomb-duck-pond-turns-out-10805087",
+      "source": "Cornwall Live - frontpage",
+      "published_at": "2026-02-09T17:25:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "aec75cbd6db7a86f",
+      "title_orig": "NYC nurses reach a deal to end a strike at 2 major hospitals while walkout continues at another",
+      "summary_orig": "NEW YORK (AP) — Nurses and two major hospital systems in New York City have reached a deal to end…",
+      "lang": "en",
+      "title_en": "NYC nurses reach a deal to end a strike at 2 major hospitals while walkout continues at another",
+      "summary_en": "NEW YORK (AP) — Nurses and two major hospital systems in New York City have reached a deal to end…",
+      "title": "NYC nurses reach a deal to end a strike at 2 major hospitals while walkout continues at another",
+      "summary": "NEW YORK (AP) — Nurses and two major hospital systems in New York City have reached a deal to end…",
+      "url": "https://wtop.com/national/2026/02/nyc-nurses-reach-a-deal-to-end-a-strike-at-2-major-hospitals-while-walkout-continues-at-another/",
+      "source": "WTOP News",
+      "published_at": "2026-02-09T17:21:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "cc2a5c2771719936",
+      "title_orig": "Words exchanged, car kicked before man accused of assaulting girl at Buda student walk-out",
+      "summary_orig": "Police made and arrest and released new details after a fight broke out between a man and a group of juveniles during a student-led walkout protest in Buda. The students were protesting Immigration and Customs Enforcement (ICE) on Monday, Feb 2 when an argument escalated to physical violence, according to Buda PD.",
+      "lang": "en",
+      "title_en": "Words exchanged, car kicked before man accused of assaulting girl at Buda student walk-out",
+      "summary_en": "Police made and arrest and released new details after a fight broke out between a man and a group of juveniles during a student-led walkout protest in Buda. The students were protesting Immigration and Customs Enforcement (ICE) on Monday, Feb 2 when an argument escalated to physical violence, according to Buda PD.",
+      "title": "Words exchanged, car kicked before man accused of assaulting girl at Buda student walk-out",
+      "summary": "Police made and arrest and released new details after a fight broke out between a man and a group of juveniles during a student-led walkout protest in Buda. The students were protesting Immigration and Customs Enforcement (ICE) on Monday, Feb 2 when an argument escalated to physical violence, according to Buda PD.",
+      "url": "https://www.kxan.com/news/local/buda/words-exchanged-car-kicked-before-man-accused-of-assaulting-girl-at-buda-student-walk-out/",
+      "source": "KXAN Austin",
+      "published_at": "2026-02-09T17:10:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "21d6e528e349f7ae",
+      "title_orig": "Update: Wie gut ist Deutschland auf einen russischen Angriff vorbereitet?",
+      "summary_orig": "PRÄSENTIERT VON NETFLIX.",
+      "lang": "de",
+      "title_en": "Update: How well prepared is Germany for a Russian attack?",
+      "summary_en": "PRESENTED BY NETFLIX.",
+      "title": "Update: How well prepared is Germany for a Russian attack?",
+      "summary": "PRESENTED BY NETFLIX.",
+      "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-wie-gut-ist-deutschland-auf-einen-russischen-angriff-vorbereitet/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "source": "POLITICO",
+      "published_at": "2026-02-09T17:07:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "ce94fff5ebdaae91",
       "title_orig": "Fatal drone strikes on civilians persist in Sudan's Kordofan, UN says",
-      "summary_orig": "GENEVA, Feb 9 - The U.N. rights chief said on Monday that fatal drone strikes on civilians are persisting even after Sudan's army broke long sieges of southern cities held by RSF paramilitary forces.",
+      "summary_orig": "GENEVA, Feb 9 - The U.N. rights chief said on Monday that fatal drone strikes on civilians in Sudan are continuing even after the army broke prolonged sieges of southern cities held by the RSF paramilitary forces.",
       "lang": "en",
       "title_en": "Fatal drone strikes on civilians persist in Sudan's Kordofan, UN says",
-      "summary_en": "GENEVA, Feb 9 - The U.N. rights chief said on Monday that fatal drone strikes on civilians are persisting even after Sudan's army broke long sieges of southern cities held by RSF paramilitary forces.",
+      "summary_en": "GENEVA, Feb 9 - The U.N. rights chief said on Monday that fatal drone strikes on civilians in Sudan are continuing even after the army broke prolonged sieges of southern cities held by the RSF paramilitary forces.",
       "title": "Fatal drone strikes on civilians persist in Sudan's Kordofan, UN says",
-      "summary": "GENEVA, Feb 9 - The U.N. rights chief said on Monday that fatal drone strikes on civilians are persisting even after Sudan's army broke long sieges of southern cities held by RSF paramilitary forces.",
+      "summary": "GENEVA, Feb 9 - The U.N. rights chief said on Monday that fatal drone strikes on civilians in Sudan are continuing even after the army broke prolonged sieges of southern cities held by the RSF paramilitary forces.",
       "url": "https://www.straitstimes.com/world/fatal-drone-strikes-on-civilians-persist-in-sudans-kordofan-un-says",
       "source": "The Straits Times World News",
-      "published_at": "2026-02-09T15:19:54+00:00",
+      "published_at": "2026-02-09T17:04:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f1d63b1e3c083122",
+      "title_orig": "NYC nurses reach deal to end strike at 2 major hospitals; walkout continues at another",
+      "summary_orig": "A walkout began nearly a month ago.",
+      "lang": "en",
+      "title_en": "NYC nurses reach deal to end strike at 2 major hospitals; walkout continues at another",
+      "summary_en": "A walkout began nearly a month ago.",
+      "title": "NYC nurses reach deal to end strike at 2 major hospitals; walkout continues at another",
+      "summary": "A walkout began nearly a month ago.",
+      "url": "https://www.syracuse.com/state/2026/02/nyc-nurses-reach-deal-to-end-strike-at-2-major-hospitals-walkout-continues-at-another.html",
+      "source": "syracuse.com",
+      "published_at": "2026-02-09T17:02:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3783a41dda4bde43",
+      "title_orig": "How Can Fighter Jets Evade Radar?",
+      "summary_orig": "Modern fighter jets typically don't fly under the radar as they use to, now they hide from, clutter, confuse, and attack the radar.",
+      "lang": "en",
+      "title_en": "How Can Fighter Jets Evade Radar?",
+      "summary_en": "Modern fighter jets typically don't fly under the radar as they use to, now they hide from, clutter, confuse, and attack the radar.",
+      "title": "How Can Fighter Jets Evade Radar?",
+      "summary": "Modern fighter jets typically don't fly under the radar as they use to, now they hide from, clutter, confuse, and attack the radar.",
+      "url": "https://simpleflying.com/how-fighter-jets-evade-radar/",
+      "source": "Simple Flying",
+      "published_at": "2026-02-09T17:01:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "22764603d83c2e55",
+      "title_orig": "Scottish politics today: Anas Sarwar drops bombshell as Keir Starmer rallies support",
+      "summary_orig": "The Record brings you its daily 5pm briefing of the top stories in Scottish politics.",
+      "lang": "en",
+      "title_en": "Scottish politics today: Anas Sarwar drops bombshell as Keir Starmer rallies support",
+      "summary_en": "The Record brings you its daily 5pm briefing of the top stories in Scottish politics.",
+      "title": "Scottish politics today: Anas Sarwar drops bombshell as Keir Starmer rallies support",
+      "summary": "The Record brings you its daily 5pm briefing of the top stories in Scottish politics.",
+      "url": "https://www.dailyrecord.co.uk/news/politics/scottish-politics-today-anas-sarwar-36695176",
+      "source": "Daily Record - Home",
+      "published_at": "2026-02-09T17:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e99a70ed3d91a52e",
+      "title_orig": "‘Made me feel proudly American’: stars react to Bad Bunny’s Super Bowl show",
+      "summary_orig": "While Trump has attacked the Grammy-winning Puerto Rican star, celebrities have come out in force to support the half-time show As blue, red and white fireworks filled the sky at the end of Bad Bunny ’s Super Bowl half-time show, a message filled the screen in all capitals: “The only thing more powerful than hate is love.” It was the enduring statement from a 13-minute spectacle that invited an estimated 135.4 million viewers into Bad Bunny’s world, with richly textured references to politics, history and Puerto Rican culture. The artist born Benito Antonio Martínez Ocasio transformed the pitch of the Levi’s Stadium in Santa Clara, California, into his own love letter to the island, with cinematic set pieces including sugarcane fields, a house party, and a lively wedding ceremony featuring a surprise performance by Lady Gaga . Continue reading...",
+      "lang": "en",
+      "title_en": "‘Made me feel proudly American’: stars react to Bad Bunny’s Super Bowl show",
+      "summary_en": "While Trump has attacked the Grammy-winning Puerto Rican star, celebrities have come out in force to support the half-time show As blue, red and white fireworks filled the sky at the end of Bad Bunny ’s Super Bowl half-time show, a message filled the screen in all capitals: “The only thing more powerful than hate is love.” It was the enduring statement from a 13-minute spectacle that invited an estimated 135.4 million viewers into Bad Bunny’s world, with richly textured references to politics, history and Puerto Rican culture. The artist born Benito Antonio Martínez Ocasio transformed the pitch of the Levi’s Stadium in Santa Clara, California, into his own love letter to the island, with cinematic set pieces including sugarcane fields, a house party, and a lively wedding ceremony featuring a surprise performance by Lady Gaga . Continue reading...",
+      "title": "‘Made me feel proudly American’: stars react to Bad Bunny’s Super Bowl show",
+      "summary": "While Trump has attacked the Grammy-winning Puerto Rican star, celebrities have come out in force to support the half-time show As blue, red and white fireworks filled the sky at the end of Bad Bunny ’s Super Bowl half-time show, a message filled the screen in all capitals: “The only thing more powerful than hate is love.” It was the enduring statement from a 13-minute spectacle that invited an estimated 135.4 million viewers into Bad Bunny’s world, with richly textured references to politics, history and Puerto Rican culture. The artist born Benito Antonio Martínez Ocasio transformed the pitch of the Levi’s Stadium in Santa Clara, California, into his own love letter to the island, with cinematic set pieces including sugarcane fields, a house party, and a lively wedding ceremony featuring a surprise performance by Lady Gaga . Continue reading...",
+      "url": "https://www.theguardian.com/music/2026/feb/09/reactions-bad-bunny-super-bowl-halftime-show",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-09T16:48:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6f923c0dfa98376a",
+      "title_orig": "Man accused of planning school attack headed to trial in Macomb County",
+      "summary_orig": "The St. Clair Shores man faces three felony charges: intentional threat to commit violence against a school with specific intent to carry out the act, using a computer to commit a crime and felony firearm.",
+      "lang": "en",
+      "title_en": "Man accused of planning school attack headed to trial in Macomb County",
+      "summary_en": "The St. Clair Shores man faces three felony charges: intentional threat to commit violence against a school with specific intent to carry out the act, using a computer to commit a crime and felony firearm.",
+      "title": "Man accused of planning school attack headed to trial in Macomb County",
+      "summary": "The St. Clair Shores man faces three felony charges: intentional threat to commit violence against a school with specific intent to carry out the act, using a computer to commit a crime and felony firearm.",
+      "url": "https://www.mlive.com/news/detroit/2026/02/man-accused-of-planning-school-attack-headed-to-trial-in-macomb-county.html",
+      "source": "mlive.com",
+      "published_at": "2026-02-09T16:46:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a1e4f4b86d9de1f2",
+      "title_orig": "Coast Guard limits Fairport Harbor ice-breaking operations",
+      "summary_orig": "The U.S. Coast Guard has limited its ice-breaking operations in Fairport Harbor and the Grand River this winter because of reduced water depths caused by shoaling.",
+      "lang": "en",
+      "title_en": "Coast Guard limits Fairport Harbor ice-breaking operations",
+      "summary_en": "The U.S. Coast Guard has limited its ice-breaking operations in Fairport Harbor and the Grand River this winter because of reduced water depths caused by shoaling.",
+      "title": "Coast Guard limits Fairport Harbor ice-breaking operations",
+      "summary": "The U.S. Coast Guard has limited its ice-breaking operations in Fairport Harbor and the Grand River this winter because of reduced water depths caused by shoaling.",
+      "url": "https://www.cleveland.com/news/2026/02/coast-guard-limits-fairport-harbor-ice-breaking-operations.html",
+      "source": "cleveland.com",
+      "published_at": "2026-02-09T16:42:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "20d5b16619573378",
+      "title_orig": "Laurentian University faculty strike over as new agreement is ratified",
+      "summary_orig": "The Laurentian University Faculty Association says the school characterized the deal as \"a final 'take it or leave it offer,'\" and the union didn't offer a recommendation.",
+      "lang": "en",
+      "title_en": "Laurentian University faculty strike over as new agreement is ratified",
+      "summary_en": "The Laurentian University Faculty Association says the school characterized the deal as \"a final 'take it or leave it offer,'\" and the union didn't offer a recommendation.",
+      "title": "Laurentian University faculty strike over as new agreement is ratified",
+      "summary": "The Laurentian University Faculty Association says the school characterized the deal as \"a final 'take it or leave it offer,'\" and the union didn't offer a recommendation.",
+      "url": "https://globalnews.ca/news/11659340/laurentian-university-faculty-strike-over-as-new-agreement-is-ratified/",
+      "source": "globalnews.ca",
+      "published_at": "2026-02-09T16:39:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8c5881821d42d6b6",
+      "title_orig": "I went to first Wetherspoons outside UK and Ireland - 'makes me proud to be British'",
+      "summary_orig": "The first ever Wetherspoon pub outside of the UK and Ireland has opened at Alicante Airport in Spain - and I was there to see what customers really thought",
+      "lang": "en",
+      "title_en": "I went to first Wetherspoons outside UK and Ireland - 'makes me proud to be British'",
+      "summary_en": "The first ever Wetherspoon pub outside of the UK and Ireland has opened at Alicante Airport in Spain - and I was there to see what customers really thought",
+      "title": "I went to first Wetherspoons outside UK and Ireland - 'makes me proud to be British'",
+      "summary": "The first ever Wetherspoon pub outside of the UK and Ireland has opened at Alicante Airport in Spain - and I was there to see what customers really thought",
+      "url": "https://www.liverpoolecho.co.uk/travel/went-first-wetherspoons-outside-uk-33392331",
+      "source": "Liverpool Echo - Home",
+      "published_at": "2026-02-09T16:38:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e656ff5a8e6fc915",
+      "title_orig": "Lithuania wargames security incident on Russian Kaliningrad transit train",
+      "summary_orig": "Lithuania staged a drill on Monday involving a Russian train incident in Kaliningrad as tensions rise, while Polish K2 tank exercises boosted NATO’s eastern flank.",
+      "lang": "en",
+      "title_en": "Lithuania wargames security incident on Russian Kaliningrad transit train",
+      "summary_en": "Lithuania staged a drill on Monday involving a Russian train incident in Kaliningrad as tensions rise, while Polish K2 tank exercises boosted NATO’s eastern flank.",
+      "title": "Lithuania wargames security incident on Russian Kaliningrad transit train",
+      "summary": "Lithuania staged a drill on Monday involving a Russian train incident in Kaliningrad as tensions rise, while Polish K2 tank exercises boosted NATO’s eastern flank.",
+      "url": "http://www.euronews.com/2026/02/09/lithuania-wargames-security-incident-on-russian-kaliningrad-transit-train",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-02-09T16:37:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e4e934c53ab2a3d4",
+      "title_orig": "Khawaja Asif stresses need for national identity as NA passes resolution condemning Islamabad suicide attack",
+      "summary_orig": "ISLAMABAD: Defence Minister Khawaja Asif on Monday stressed the need for a national identity as the National Assembly passed a resolution condemning the attack at an imambargah in Islamabad. Speaking on the floor of the house, Asif said, “It is very important that we have a national identity on which no one disagrees.” Talking about terrorism, he said, “The spike in terrorism in the country; I am sad to say that we are not even united in the condemnation of terrorism.” He said that in order to protect political interests, some refrained from attending the funerals of martyrs. “At least on national issues — all of us sitting here, regardless of which party they belong to … this is one thing on which there needs to be consensus on and that is Pakistan and its integrity as well as respect for those sacrificing their lives,” he said. In his remarks, the minister said that two dictators in the past had joined the war in Afghanistan to please a superpower. He said terrorism was a blowback of mistakes committed by dictators in the past. The minister said religious hatred was being fanned in Pakistan under an international conspiracy. He said the last four presidents of the United States were responsible for the killings of millions of Muslims. “But we always try to get support from the world powers,” he added. He said India was sponsoring terrorism in Pakistan, adding that it was the need of the hour that all Pakistanis be united to foil India’s plan. He said that the Afghan government in the past had agreed with Pakistan’s stance but now were reluctant to give any guarantee for controlling terrorism. “Now, India is using Afghan terrorists against us. India is fighting a proxy war in Pakistan,” he added. He said there were differences among our religious sects which could be sorted out in Parliament instead of in mosques and imambargahs. “Let us make this parliament functional in a real manner,” he added. “History gives us an opportunity for course correction but we have to be loyal to the Constitution. All issues can be resolved here. All problems can be addressed if our politics becomes subservient to the state. Our loyalties to the motherland should not be conditional,” he said. Leader of the Opposition in the National Assembly Mehmood Khan Achakzai, in his speech, said that a three-day debate should be held on terrorism. He said all stakeholders should sit together to find solutions to the problems plaguing the country. He also offered unconditional support to the government for strengthening Parliament. “If today we decide that Parliament will be the hub of power and all decisions will be taken here, all our problems will be resolved,” he added. He also urged the government to ask the United Nations secretary general to hold an international conference on Afghanistan. Meanwhile, the NA also passed a resolution condemning the suicide bombing at Imambargah Khadijah-tul-Kubra in Islamabad on February 6. The resolution — tabled by PML-N lawmaker Hameed Hussain — called the attack “a direct attack on the Constitution of Pakistan, religious freedom, national security and interfaith harmony”. “This house demands that the suicide bombers, facilitators, planners and patrons involved in this incident be exposed and brought to justice,” it said. It further demanded indicriminate action be taken against banned organisations and their networks, social media propaganda and public activities. “Effective and permanent arrangements should be made for the security of places of worship, especially mosques and imambargahs,” the resolution added. “Immediate and adequate financial assistance should be provided to the families of martyrs, while the injured should be provided with the best medical facilities,” it further demanded. The resolution further called for an effective counterterrorism strategy at the national level, which should be practically implemented by authorities. “This house reiterates its resolve that terrorism, sectarianism and hate-based violence will not be tolerated in Pakistan, and will ensure the protection of lives and property of the citizens at all costs,” it said.",
+      "lang": "en",
+      "title_en": "Khawaja Asif stresses need for national identity as NA passes resolution condemning Islamabad suicide attack",
+      "summary_en": "ISLAMABAD: Defence Minister Khawaja Asif on Monday stressed the need for a national identity as the National Assembly passed a resolution condemning the attack at an imambargah in Islamabad. Speaking on the floor of the house, Asif said, “It is very important that we have a national identity on which no one disagrees.” Talking about terrorism, he said, “The spike in terrorism in the country; I am sad to say that we are not even united in the condemnation of terrorism.” He said that in order to protect political interests, some refrained from attending the funerals of martyrs. “At least on national issues — all of us sitting here, regardless of which party they belong to … this is one thing on which there needs to be consensus on and that is Pakistan and its integrity as well as respect for those sacrificing their lives,” he said. In his remarks, the minister said that two dictators in the past had joined the war in Afghanistan to please a superpower. He said terrorism was a blowback of mistakes committed by dictators in the past. The minister said religious hatred was being fanned in Pakistan under an international conspiracy. He said the last four presidents of the United States were responsible for the killings of millions of Muslims. “But we always try to get support from the world powers,” he added. He said India was sponsoring terrorism in Pakistan, adding that it was the need of the hour that all Pakistanis be united to foil India’s plan. He said that the Afghan government in the past had agreed with Pakistan’s stance but now were reluctant to give any guarantee for controlling terrorism. “Now, India is using Afghan terrorists against us. India is fighting a proxy war in Pakistan,” he added. He said there were differences among our religious sects which could be sorted out in Parliament instead of in mosques and imambargahs. “Let us make this parliament functional in a real manner,” he added. “History gives us an opportunity for course correction but we have to be loyal to the Constitution. All issues can be resolved here. All problems can be addressed if our politics becomes subservient to the state. Our loyalties to the motherland should not be conditional,” he said. Leader of the Opposition in the National Assembly Mehmood Khan Achakzai, in his speech, said that a three-day debate should be held on terrorism. He said all stakeholders should sit together to find solutions to the problems plaguing the country. He also offered unconditional support to the government for strengthening Parliament. “If today we decide that Parliament will be the hub of power and all decisions will be taken here, all our problems will be resolved,” he added. He also urged the government to ask the United Nations secretary general to hold an international conference on Afghanistan. Meanwhile, the NA also passed a resolution condemning the suicide bombing at Imambargah Khadijah-tul-Kubra in Islamabad on February 6. The resolution — tabled by PML-N lawmaker Hameed Hussain — called the attack “a direct attack on the Constitution of Pakistan, religious freedom, national security and interfaith harmony”. “This house demands that the suicide bombers, facilitators, planners and patrons involved in this incident be exposed and brought to justice,” it said. It further demanded indicriminate action be taken against banned organisations and their networks, social media propaganda and public activities. “Effective and permanent arrangements should be made for the security of places of worship, especially mosques and imambargahs,” the resolution added. “Immediate and adequate financial assistance should be provided to the families of martyrs, while the injured should be provided with the best medical facilities,” it further demanded. The resolution further called for an effective counterterrorism strategy at the national level, which should be practically implemented by authorities. “This house reiterates its resolve that terrorism, sectarianism and hate-based violence will not be tolerated in Pakistan, and will ensure the protection of lives and property of the citizens at all costs,” it said.",
+      "title": "Khawaja Asif stresses need for national identity as NA passes resolution condemning Islamabad suicide attack",
+      "summary": "ISLAMABAD: Defence Minister Khawaja Asif on Monday stressed the need for a national identity as the National Assembly passed a resolution condemning the attack at an imambargah in Islamabad. Speaking on the floor of the house, Asif said, “It is very important that we have a national identity on which no one disagrees.” Talking about terrorism, he said, “The spike in terrorism in the country; I am sad to say that we are not even united in the condemnation of terrorism.” He said that in order to protect political interests, some refrained from attending the funerals of martyrs. “At least on national issues — all of us sitting here, regardless of which party they belong to … this is one thing on which there needs to be consensus on and that is Pakistan and its integrity as well as respect for those sacrificing their lives,” he said. In his remarks, the minister said that two dictators in the past had joined the war in Afghanistan to please a superpower. He said terrorism was a blowback of mistakes committed by dictators in the past. The minister said religious hatred was being fanned in Pakistan under an international conspiracy. He said the last four presidents of the United States were responsible for the killings of millions of Muslims. “But we always try to get support from the world powers,” he added. He said India was sponsoring terrorism in Pakistan, adding that it was the need of the hour that all Pakistanis be united to foil India’s plan. He said that the Afghan government in the past had agreed with Pakistan’s stance but now were reluctant to give any guarantee for controlling terrorism. “Now, India is using Afghan terrorists against us. India is fighting a proxy war in Pakistan,” he added. He said there were differences among our religious sects which could be sorted out in Parliament instead of in mosques and imambargahs. “Let us make this parliament functional in a real manner,” he added. “History gives us an opportunity for course correction but we have to be loyal to the Constitution. All issues can be resolved here. All problems can be addressed if our politics becomes subservient to the state. Our loyalties to the motherland should not be conditional,” he said. Leader of the Opposition in the National Assembly Mehmood Khan Achakzai, in his speech, said that a three-day debate should be held on terrorism. He said all stakeholders should sit together to find solutions to the problems plaguing the country. He also offered unconditional support to the government for strengthening Parliament. “If today we decide that Parliament will be the hub of power and all decisions will be taken here, all our problems will be resolved,” he added. He also urged the government to ask the United Nations secretary general to hold an international conference on Afghanistan. Meanwhile, the NA also passed a resolution condemning the suicide bombing at Imambargah Khadijah-tul-Kubra in Islamabad on February 6. The resolution — tabled by PML-N lawmaker Hameed Hussain — called the attack “a direct attack on the Constitution of Pakistan, religious freedom, national security and interfaith harmony”. “This house demands that the suicide bombers, facilitators, planners and patrons involved in this incident be exposed and brought to justice,” it said. It further demanded indicriminate action be taken against banned organisations and their networks, social media propaganda and public activities. “Effective and permanent arrangements should be made for the security of places of worship, especially mosques and imambargahs,” the resolution added. “Immediate and adequate financial assistance should be provided to the families of martyrs, while the injured should be provided with the best medical facilities,” it further demanded. The resolution further called for an effective counterterrorism strategy at the national level, which should be practically implemented by authorities. “This house reiterates its resolve that terrorism, sectarianism and hate-based violence will not be tolerated in Pakistan, and will ensure the protection of lives and property of the citizens at all costs,” it said.",
+      "url": "https://www.dawn.com/news/1972085/khawaja-asif-stresses-need-for-national-identity-as-na-passes-resolution-condemning-islamabad-suicide-attack",
+      "source": "Dawn - Home",
+      "published_at": "2026-02-09T16:35:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "53b99c1f8e3820d7",
+      "title_orig": "'Dereliction of duty' not to take up US St Patrick’s Day trip, says Minister",
+      "summary_orig": "Last week Ms O’Neill said she would take “international factors” into account when deciding whether to attend. She did not attend last year in protest over Gaza, and she said the situation has since “got even worse”.",
+      "lang": "en",
+      "title_en": "'Dereliction of duty' not to take up US St Patrick’s Day trip, says Minister",
+      "summary_en": "Last week Ms O’Neill said she would take “international factors” into account when deciding whether to attend. She did not attend last year in protest over Gaza, and she said the situation has since “got even worse”.",
+      "title": "'Dereliction of duty' not to take up US St Patrick’s Day trip, says Minister",
+      "summary": "Last week Ms O’Neill said she would take “international factors” into account when deciding whether to attend. She did not attend last year in protest over Gaza, and she said the situation has since “got even worse”.",
+      "url": "https://www.belfastlive.co.uk/news/northern-ireland/dereliction-duty-not-take-up-33392285",
+      "source": "BelfastLive - Home",
+      "published_at": "2026-02-09T16:34:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8f145dba994bae8e",
+      "title_orig": "Protesters in Australia rally against Israeli president’s visit",
+      "summary_orig": "Protesters took to the streets across Australia to rally against the visit of Israeli President Isaac Herzog.",
+      "lang": "en",
+      "title_en": "Protesters in Australia rally against Israeli president’s visit",
+      "summary_en": "Protesters took to the streets across Australia to rally against the visit of Israeli President Isaac Herzog.",
+      "title": "Protesters in Australia rally against Israeli president’s visit",
+      "summary": "Protesters took to the streets across Australia to rally against the visit of Israeli President Isaac Herzog.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/9/protesters-in-australia-rally-against-israeli-presidents-visit?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-02-09T16:21:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6e0abf2d17c0903f",
+      "title_orig": "Manchester Airport issues half term warning as rail disruption expected",
+      "summary_orig": "Nearly one million passengers are expected to pass through the airport this February half term",
+      "lang": "en",
+      "title_en": "Manchester Airport issues half term warning as rail disruption expected",
+      "summary_en": "Nearly one million passengers are expected to pass through the airport this February half term",
+      "title": "Manchester Airport issues half term warning as rail disruption expected",
+      "summary": "Nearly one million passengers are expected to pass through the airport this February half term",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-airport-issues-half-term-33391727",
+      "source": "MEN - News",
+      "published_at": "2026-02-09T16:16:25+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "3904cfbed97ea7a3",
+      "title_orig": "Fisherfolk protest at site of proposed Mamallan Reservoir",
+      "summary_orig": "According to a community leader, the fishing community was not given any opportunity to raise objections to the project that will lead to thousands of families losing their livelihoods",
+      "lang": "en",
+      "title_en": "Fisherfolk protest at site of proposed Mamallan Reservoir",
+      "summary_en": "According to a community leader, the fishing community was not given any opportunity to raise objections to the project that will lead to thousands of families losing their livelihoods",
+      "title": "Fisherfolk protest at site of proposed Mamallan Reservoir",
+      "summary": "According to a community leader, the fishing community was not given any opportunity to raise objections to the project that will lead to thousands of families losing their livelihoods",
+      "url": "https://www.thehindu.com/news/cities/chennai/fisherfolk-protest-at-site-of-proposed-mamallan-reservoir/article70611935.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-02-09T16:13:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a9a8e63aefea4920",
+      "title_orig": "Jimmy Lai sentenced: What happened to other HK pro-democracy protesters?",
+      "summary_orig": "Jimmy Lai, 78, has been sentenced to 20 years. We look at what happened to major democratic Hong Kong protesters.",
+      "lang": "en",
+      "title_en": "Jimmy Lai sentenced: What happened to other HK pro-democracy protesters?",
+      "summary_en": "Jimmy Lai, 78, has been sentenced to 20 years. We look at what happened to major democratic Hong Kong protesters.",
+      "title": "Jimmy Lai sentenced: What happened to other HK pro-democracy protesters?",
+      "summary": "Jimmy Lai, 78, has been sentenced to 20 years. We look at what happened to major democratic Hong Kong protesters.",
+      "url": "https://www.aljazeera.com/news/2026/2/9/jimmy-lai-sentenced-whats-happened-to-other-hk-pro-democracy-protesters?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-02-09T16:12:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "d8b5bb7ca0643556",
+      "title_orig": "Bomb squad called to suspect device in duck pond",
+      "summary_orig": "The area has been cordoned off all day",
+      "lang": "en",
+      "title_en": "Bomb squad called to suspect device in duck pond",
+      "summary_en": "The area has been cordoned off all day",
+      "title": "Bomb squad called to suspect device in duck pond",
+      "summary": "The area has been cordoned off all day",
+      "url": "https://www.cornwalllive.com/news/cornwall-news/bomb-squad-called-suspect-device-10804541",
+      "source": "Cornwall Live - frontpage",
+      "published_at": "2026-02-09T16:06:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4078f758a3fdcaf2",
+      "title_orig": "Army officer told wife attack was ‘like Lee Rigby’, court hears",
+      "summary_orig": "Lieutenant Colonel Mark Teeton tearfully told of being ‘forever in gratitude’ to the ‘heroes’, including his wife Eileen, who came to his aid.",
+      "lang": "en",
+      "title_en": "Army officer told wife attack was ‘like Lee Rigby’, court hears",
+      "summary_en": "Lieutenant Colonel Mark Teeton tearfully told of being ‘forever in gratitude’ to the ‘heroes’, including his wife Eileen, who came to his aid.",
+      "title": "Army officer told wife attack was ‘like Lee Rigby’, court hears",
+      "summary": "Lieutenant Colonel Mark Teeton tearfully told of being ‘forever in gratitude’ to the ‘heroes’, including his wife Eileen, who came to his aid.",
+      "url": "https://www.standard.co.uk/news/crime/british-army-lee-rigby-maidstone-crown-court-chatham-afghanistan-b1270261.html",
+      "source": "The Standard News",
+      "published_at": "2026-02-09T16:05:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fdbfa12620508d08",
+      "title_orig": "One of the nation’s largest school districts shuts down as teachers strike over healthcare costs",
+      "summary_orig": "The union’s proposal includes a 9% pay rise over two years, which would necessitate an additional $92 million annually for the district",
+      "lang": "en",
+      "title_en": "One of the nation’s largest school districts shuts down as teachers strike over healthcare costs",
+      "summary_en": "The union’s proposal includes a 9% pay rise over two years, which would necessitate an additional $92 million annually for the district",
+      "title": "One of the nation’s largest school districts shuts down as teachers strike over healthcare costs",
+      "summary": "The union’s proposal includes a 9% pay rise over two years, which would necessitate an additional $92 million annually for the district",
+      "url": "https://www.independent.co.uk/news/world/americas/san-francisco-teacher-strike-health-care-costs-b2916817.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-09T16:01:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "142155587b0f2991",
+      "title_orig": "Blood pressure warning to anyone with an Apple smartwatch",
+      "summary_orig": "Not all people with high blood pressure will receive a notification and the Apple Watch cannot detect heart attacks",
+      "lang": "en",
+      "title_en": "Blood pressure warning to anyone with an Apple smartwatch",
+      "summary_en": "Not all people with high blood pressure will receive a notification and the Apple Watch cannot detect heart attacks",
+      "title": "Blood pressure warning to anyone with an Apple smartwatch",
+      "summary": "Not all people with high blood pressure will receive a notification and the Apple Watch cannot detect heart attacks",
+      "url": "https://www.devonlive.com/news/health/blood-pressure-warning-anyone-apple-10804494",
+      "source": "Devon Live - frontpage",
+      "published_at": "2026-02-09T16:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "140281deb06baa6c",
+      "title_orig": "Wales plans to give Cardiff Airport a £71.50 subsidy for every new passenger, claims rival Bristol",
+      "summary_orig": "Welsh Government plans to provide a £205.2m subsidy to Cardiff Airport has been legally challenged by Bristol Airport",
+      "lang": "en",
+      "title_en": "Wales plans to give Cardiff Airport a £71.50 subsidy for every new passenger, claims rival Bristol",
+      "summary_en": "Welsh Government plans to provide a £205.2m subsidy to Cardiff Airport has been legally challenged by Bristol Airport",
+      "title": "Wales plans to give Cardiff Airport a £71.50 subsidy for every new passenger, claims rival Bristol",
+      "summary": "Welsh Government plans to provide a £205.2m subsidy to Cardiff Airport has been legally challenged by Bristol Airport",
+      "url": "https://www.walesonline.co.uk/news/wales-news/wales-plans-give-cardiff-airport-33391234",
+      "source": "WalesOnline - Home",
+      "published_at": "2026-02-09T15:55:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b478526b12ee1c7a",
+      "title_orig": "Kaiser Permanente pharmacy, lab employees join Southern California strike",
+      "summary_orig": "Thousands of workers at Kaiser Permanente pharmacies and laboratories in Southern California began a strike over unfair labor practices in Southern California on Monday.  This strike comes as more than 30,000 other Kaiser employees, namely nurses and healthcare professionals with the UNAC/UHCP union, enter the third week of a strike over similar issues that started [...]",
+      "lang": "en",
+      "title_en": "Kaiser Permanente pharmacy, lab employees join Southern California strike",
+      "summary_en": "Thousands of workers at Kaiser Permanente pharmacies and laboratories in Southern California began a strike over unfair labor practices in Southern California on Monday.  This strike comes as more than 30,000 other Kaiser employees, namely nurses and healthcare professionals with the UNAC/UHCP union, enter the third week of a strike over similar issues that started [...]",
+      "title": "Kaiser Permanente pharmacy, lab employees join Southern California strike",
+      "summary": "Thousands of workers at Kaiser Permanente pharmacies and laboratories in Southern California began a strike over unfair labor practices in Southern California on Monday.  This strike comes as more than 30,000 other Kaiser employees, namely nurses and healthcare professionals with the UNAC/UHCP union, enter the third week of a strike over similar issues that started [...]",
+      "url": "https://ktla.com/news/california/kaiser-permanente-pharmacy-lab-employees-begin-unfair-labor-strike-in-southern-california/",
+      "source": "KTLA",
+      "published_at": "2026-02-09T15:51:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0d64649cb78a1f85",
+      "title_orig": "Singhbhum chamber plea to start regional air services from Jamshedpur",
+      "summary_orig": "Manav Kedia, president of the Singhbhum Chamber of Commerce proposed starting regional air services from Tata Steel's Sonari airport to enhance connectivity.",
+      "lang": "en",
+      "title_en": "Singhbhum chamber plea to start regional air services from Jamshedpur",
+      "summary_en": "Manav Kedia, president of the Singhbhum Chamber of Commerce proposed starting regional air services from Tata Steel's Sonari airport to enhance connectivity.",
+      "title": "Singhbhum chamber plea to start regional air services from Jamshedpur",
+      "summary": "Manav Kedia, president of the Singhbhum Chamber of Commerce proposed starting regional air services from Tata Steel's Sonari airport to enhance connectivity.",
+      "url": "https://www.hindustantimes.com/india-news/singhbhum-chamber-plea-to-start-regional-air-services-from-jamshedpur-101770651672190.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2026-02-09T15:50:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4d5614c83c8c9fd0",
+      "title_orig": "GPS, drone survey identifies tax evasion in 10,000 properties",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "GPS, drone survey identifies tax evasion in 10,000 properties",
+      "summary_en": "",
+      "title": "GPS, drone survey identifies tax evasion in 10,000 properties",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/karnataka/gps-drone-survey-identifies-tax-evasion-in-10000-properties/article70611876.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-02-09T15:46:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "065ceebca6be741d",
+      "title_orig": "Action sought against YSRCP leaders over alleged adulteration of Tirumala laddu",
+      "summary_orig": "Religious leaders and devotees stage protest at Alipiri in Tirupati, demand fast-track court and probe by a sitting judge into alleged use of adulterated ghee in laddu Prasadam during the previous regime",
+      "lang": "en",
+      "title_en": "Action sought against YSRCP leaders over alleged adulteration of Tirumala laddu",
+      "summary_en": "Religious leaders and devotees stage protest at Alipiri in Tirupati, demand fast-track court and probe by a sitting judge into alleged use of adulterated ghee in laddu Prasadam during the previous regime",
+      "title": "Action sought against YSRCP leaders over alleged adulteration of Tirumala laddu",
+      "summary": "Religious leaders and devotees stage protest at Alipiri in Tirupati, demand fast-track court and probe by a sitting judge into alleged use of adulterated ghee in laddu Prasadam during the previous regime",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/action-sought-against-ysrcp-leaders-over-alleged-adulteration-of-tirumala-laddu/article70611214.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-02-09T15:46:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b558fb8f27cc4831",
+      "title_orig": "Iran arrests leading reformists close to the country’s president",
+      "summary_orig": "Detentions of senior Reformists Front figures follow criticism of the authorities’ handling of recent protests The head of Iran’s Reformists Front, the organisation instrumental in securing the election of the country’s president, Masoud Pezeshkian, has been arrested by the Islamic Revolutionary Guards Corps (IRGC) in a move that is likely to exacerbate tensions over the handling of recent street protests. Azar Mansouri, the secretary general of the Islamic Iran People party, had expressed deep sorrow at protesters’ deaths, and said nothing could justify such a catastrophe. She had not in public called for the supreme leader, Ali Khamenei, to resign. Continue reading...",
+      "lang": "en",
+      "title_en": "Iran arrests leading reformists close to the country’s president",
+      "summary_en": "Detentions of senior Reformists Front figures follow criticism of the authorities’ handling of recent protests The head of Iran’s Reformists Front, the organisation instrumental in securing the election of the country’s president, Masoud Pezeshkian, has been arrested by the Islamic Revolutionary Guards Corps (IRGC) in a move that is likely to exacerbate tensions over the handling of recent street protests. Azar Mansouri, the secretary general of the Islamic Iran People party, had expressed deep sorrow at protesters’ deaths, and said nothing could justify such a catastrophe. She had not in public called for the supreme leader, Ali Khamenei, to resign. Continue reading...",
+      "title": "Iran arrests leading reformists close to the country’s president",
+      "summary": "Detentions of senior Reformists Front figures follow criticism of the authorities’ handling of recent protests The head of Iran’s Reformists Front, the organisation instrumental in securing the election of the country’s president, Masoud Pezeshkian, has been arrested by the Islamic Revolutionary Guards Corps (IRGC) in a move that is likely to exacerbate tensions over the handling of recent street protests. Azar Mansouri, the secretary general of the Islamic Iran People party, had expressed deep sorrow at protesters’ deaths, and said nothing could justify such a catastrophe. She had not in public called for the supreme leader, Ali Khamenei, to resign. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/feb/09/iran-arrests-leading-reformists-close-to-the-countrys-president",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-09T15:41:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "878e5e54e2b2cf2d",
+      "title_orig": "Sister pays tribute to 'mischievous' brother killed in Birmingham supermarket car park 'attack'",
+      "summary_orig": "The sister of Danny Lewis who died after a suspected attack in a supermarket car park off Soho Road said: \"We are all struggling to come to terms with what has happened, it's so cruel\"",
+      "lang": "en",
+      "title_en": "Sister pays tribute to 'mischievous' brother killed in Birmingham supermarket car park 'attack'",
+      "summary_en": "The sister of Danny Lewis who died after a suspected attack in a supermarket car park off Soho Road said: \"We are all struggling to come to terms with what has happened, it's so cruel\"",
+      "title": "Sister pays tribute to 'mischievous' brother killed in Birmingham supermarket car park 'attack'",
+      "summary": "The sister of Danny Lewis who died after a suspected attack in a supermarket car park off Soho Road said: \"We are all struggling to come to terms with what has happened, it's so cruel\"",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/sister-pays-tribute-mischievous-brother-33391438",
+      "source": "Birmingham Live - News",
+      "published_at": "2026-02-09T15:37:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bed23a42c9b5dae0",
+      "title_orig": "Woman says US Marshal kicked her dog and broke his rib during boyfriend’s arrest: ‘This is abuse’",
+      "summary_orig": "The Marshals Service says the miniature schnauzer puppy was “aggressively” trying to attack their working dog during the incident in Tennessee",
+      "lang": "en",
+      "title_en": "Woman says US Marshal kicked her dog and broke his rib during boyfriend’s arrest: ‘This is abuse’",
+      "summary_en": "The Marshals Service says the miniature schnauzer puppy was “aggressively” trying to attack their working dog during the incident in Tennessee",
+      "title": "Woman says US Marshal kicked her dog and broke his rib during boyfriend’s arrest: ‘This is abuse’",
+      "summary": "The Marshals Service says the miniature schnauzer puppy was “aggressively” trying to attack their working dog during the incident in Tennessee",
+      "url": "https://www.independent.co.uk/news/world/americas/crime/us-marshal-dog-kick-tennessee-arrest-b2916640.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-09T15:34:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "79ba07516e7ba4bf",
+      "title_orig": "Digbeth bar attack probe as police issue CCTV appeal",
+      "summary_orig": "Police said a man was punched in the face, causing him to fall at Nortons bar in Digbeth",
+      "lang": "en",
+      "title_en": "Digbeth bar attack probe as police issue CCTV appeal",
+      "summary_en": "Police said a man was punched in the face, causing him to fall at Nortons bar in Digbeth",
+      "title": "Digbeth bar attack probe as police issue CCTV appeal",
+      "summary": "Police said a man was punched in the face, causing him to fall at Nortons bar in Digbeth",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/digbeth-bar-attack-probe-police-33391097",
+      "source": "Birmingham Live - News",
+      "published_at": "2026-02-09T15:27:16+00:00",
       "tags": [
         "airport/security"
       ],
@@ -53,24 +737,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7cbd5f5609433cff",
-      "title_orig": "San Francisco teachers begin first strike in nearly 50 years",
-      "summary_orig": "Thousands walk out after talks with district failed to reach agreement on wages, healthcare and resources for special needs students Thousands of public schoolteachers in San Francisco went on strike on Monday, the first public schoolteachers strike in the city in nearly 50 years. The strike comes after teachers and the district failed to reach an agreement over higher wages, health benefits and more resources for special needs students. The San Francisco Unified School District closed all its 120 schools and said it would offer independent study to some of the district’s 50,000 students. Continue reading...",
-      "lang": "en",
-      "title_en": "San Francisco teachers begin first strike in nearly 50 years",
-      "summary_en": "Thousands walk out after talks with district failed to reach agreement on wages, healthcare and resources for special needs students Thousands of public schoolteachers in San Francisco went on strike on Monday, the first public schoolteachers strike in the city in nearly 50 years. The strike comes after teachers and the district failed to reach an agreement over higher wages, health benefits and more resources for special needs students. The San Francisco Unified School District closed all its 120 schools and said it would offer independent study to some of the district’s 50,000 students. Continue reading...",
-      "title": "San Francisco teachers begin first strike in nearly 50 years",
-      "summary": "Thousands walk out after talks with district failed to reach agreement on wages, healthcare and resources for special needs students Thousands of public schoolteachers in San Francisco went on strike on Monday, the first public schoolteachers strike in the city in nearly 50 years. The strike comes after teachers and the district failed to reach an agreement over higher wages, health benefits and more resources for special needs students. The San Francisco Unified School District closed all its 120 schools and said it would offer independent study to some of the district’s 50,000 students. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/feb/09/san-francisco-teachers-strike",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-09T15:14:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -148,12 +814,12 @@
     {
       "id": "f9c1643e2c401b07",
       "title_orig": "Wife of Kent Army officer pushed attacker off husband as he ‘carved at his face’, court hears",
-      "summary_orig": "The wife of a British Army officer was \"remarkable\" in pushing a knife attacker from her husband as she saw him \"carving at his face and neck\", a court heard.",
+      "summary_orig": "Anthony Esan is set to be sentenced at Maidstone Crown Court for the attempted murder",
       "lang": "en",
       "title_en": "Wife of Kent Army officer pushed attacker off husband as he ‘carved at his face’, court hears",
-      "summary_en": "The wife of a British Army officer was \"remarkable\" in pushing a knife attacker from her husband as she saw him \"carving at his face and neck\", a court heard.",
+      "summary_en": "Anthony Esan is set to be sentenced at Maidstone Crown Court for the attempted murder",
       "title": "Wife of Kent Army officer pushed attacker off husband as he ‘carved at his face’, court hears",
-      "summary": "The wife of a British Army officer was \"remarkable\" in pushing a knife attacker from her husband as she saw him \"carving at his face and neck\", a court heard.",
+      "summary": "Anthony Esan is set to be sentenced at Maidstone Crown Court for the attempted murder",
       "url": "https://www.kentlive.news/news/kent-news/wife-kent-army-officer-pushed-10804347",
       "source": "Kent Live - frontpage",
       "published_at": "2026-02-09T14:53:36+00:00",
@@ -182,60 +848,6 @@
       "geo": {}
     },
     {
-      "id": "ce30778f6f6e300b",
-      "title_orig": "Villagers protest against closure of government school",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Villagers protest against closure of government school",
-      "summary_en": "",
-      "title": "Villagers protest against closure of government school",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/karnataka/villagers-protest-against-closure-of-government-school/article70611512.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-02-09T14:32:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7c73b923a89f45b4",
-      "title_orig": "Bomb squad lock down Scots housing estate amid 'possible ordnance'",
-      "summary_orig": "Reports have been made of a bomb on Linburn Road in Dunfermline.",
-      "lang": "en",
-      "title_en": "Bomb squad lock down Scots housing estate amid 'possible ordnance'",
-      "summary_en": "Reports have been made of a bomb on Linburn Road in Dunfermline.",
-      "title": "Bomb squad lock down Scots housing estate amid 'possible ordnance'",
-      "summary": "Reports have been made of a bomb on Linburn Road in Dunfermline.",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/bomb-squad-lock-down-scots-36693911",
-      "source": "Daily Record - Home",
-      "published_at": "2026-02-09T14:22:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "243811a6796bcb9b",
-      "title_orig": "Army officer told wife attack was ‘like Lee Rigby’, court hears",
-      "summary_orig": "Lieutenant Colonel Mark Teeton tearfully told of being ‘forever in gratitude’ to the ‘heroes’, including his wife Eileen, who came to his aid.",
-      "lang": "en",
-      "title_en": "Army officer told wife attack was ‘like Lee Rigby’, court hears",
-      "summary_en": "Lieutenant Colonel Mark Teeton tearfully told of being ‘forever in gratitude’ to the ‘heroes’, including his wife Eileen, who came to his aid.",
-      "title": "Army officer told wife attack was ‘like Lee Rigby’, court hears",
-      "summary": "Lieutenant Colonel Mark Teeton tearfully told of being ‘forever in gratitude’ to the ‘heroes’, including his wife Eileen, who came to his aid.",
-      "url": "https://www.standard.co.uk/news/crime/british-army-lee-rigby-maidstone-crown-court-chatham-iraq-b1270261.html",
-      "source": "The Standard News",
-      "published_at": "2026-02-09T14:15:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3e6900774787d63d",
       "title_orig": "Ukraine-Russia war latest: Child among four killed after Russian drone and missile strikes on Kharkiv and Odesa",
       "summary_orig": "At least 36 people were injured according to a tally of updates by Ukrainian authorities",
@@ -247,24 +859,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-general-trump-zelensky-b2916426.html",
       "source": "The Independent World",
       "published_at": "2026-02-09T14:11:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "dc5bfb86cc9c25dc",
-      "title_orig": "Bihar Government says will probe into foreigners’ visit to Gopalganj during 1990-2015; Opposition protests over ‘deteriorating’ law and order situation",
-      "summary_orig": "Deputy Chief Minister Samrat Choudhary says out of total 173 foreign nationals who visited the district during 1990-2015, 168 were from Pakistan. Opposition members protest over issues such as deteriorating law and order situation, surge in rape and death cases, and arrest of Pappu Yadav",
-      "lang": "en",
-      "title_en": "Bihar Government says will probe into foreigners’ visit to Gopalganj during 1990-2015; Opposition protests over ‘deteriorating’ law and order situation",
-      "summary_en": "Deputy Chief Minister Samrat Choudhary says out of total 173 foreign nationals who visited the district during 1990-2015, 168 were from Pakistan. Opposition members protest over issues such as deteriorating law and order situation, surge in rape and death cases, and arrest of Pappu Yadav",
-      "title": "Bihar Government says will probe into foreigners’ visit to Gopalganj during 1990-2015; Opposition protests over ‘deteriorating’ law and order situation",
-      "summary": "Deputy Chief Minister Samrat Choudhary says out of total 173 foreign nationals who visited the district during 1990-2015, 168 were from Pakistan. Opposition members protest over issues such as deteriorating law and order situation, surge in rape and death cases, and arrest of Pappu Yadav",
-      "url": "https://www.thehindu.com/news/national/other-states/bihar-government-says-will-probe-into-foreigners-visit-to-gopalganj-during-1990-2015-opposition-protests-over-deteriorating-law-and-order-situation/article70611070.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-02-09T14:11:20+00:00",
       "tags": [
         "airport/security"
       ],
@@ -308,24 +902,6 @@
       "geo": {}
     },
     {
-      "id": "6f20b48276d80df9",
-      "title_orig": "Whistle becomes key tool in protests against Trump’s ICE crackdown",
-      "summary_orig": "Protesters have been blowing whistles to alert people to agents’ presence – and that has upset figures on the right When Justin Vernon of Bon Iver appeared on the red carpet at the Grammy awards he was wearing an accessory that has become a must-carry for activists in neighborhoods targeted by ICE: a whistle . The whistle has become a key part in the defense against Donald Trump’s aggressive immigration crackdown, used to alert people to the presence of agents. But it has also become a target for the right, who have branded whistles “hearing-loss-causing machines” and said the act of blowing a whistle may constitute “assault”. Continue reading...",
-      "lang": "en",
-      "title_en": "Whistle becomes key tool in protests against Trump’s ICE crackdown",
-      "summary_en": "Protesters have been blowing whistles to alert people to agents’ presence – and that has upset figures on the right When Justin Vernon of Bon Iver appeared on the red carpet at the Grammy awards he was wearing an accessory that has become a must-carry for activists in neighborhoods targeted by ICE: a whistle . The whistle has become a key part in the defense against Donald Trump’s aggressive immigration crackdown, used to alert people to the presence of agents. But it has also become a target for the right, who have branded whistles “hearing-loss-causing machines” and said the act of blowing a whistle may constitute “assault”. Continue reading...",
-      "title": "Whistle becomes key tool in protests against Trump’s ICE crackdown",
-      "summary": "Protesters have been blowing whistles to alert people to agents’ presence – and that has upset figures on the right When Justin Vernon of Bon Iver appeared on the red carpet at the Grammy awards he was wearing an accessory that has become a must-carry for activists in neighborhoods targeted by ICE: a whistle . The whistle has become a key part in the defense against Donald Trump’s aggressive immigration crackdown, used to alert people to the presence of agents. But it has also become a target for the right, who have branded whistles “hearing-loss-causing machines” and said the act of blowing a whistle may constitute “assault”. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/feb/09/whistle-protest-trump-ice",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-09T14:00:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "835a6c56a2063b91",
       "title_orig": "Queensland government to introduce new gun control laws advocates criticise as ‘weakest in Australia’",
       "summary_orig": "Under proposed changes in response to Bondi terror attack only Australian citizens will be able to obtain a gun licence, with no cap on number of weapons Get our breaking news email , free app or daily news podcast Queensland will be left with “the weakest guns laws in Australia”, according to gun control advocates, after the premier rejected increased limits on the number or type of firearms that people can own. On Monday, David Crisafulli and the police minister, Dan Purdie, announced what they called the second part of a three-part policy response to the Bondi shootings. Continue reading...",
@@ -341,42 +917,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "bb7a0e577dd43e3c",
-      "title_orig": "Judge rules WA asylum-seeker’s imprisonment illegal after 7 months",
-      "summary_orig": "The detainment of Joswar Slater Rodriguez Torres in June sparked a big protest in Spokane, as residents swarmed the ICE office.",
-      "lang": "en",
-      "title_en": "Judge rules WA asylum-seeker’s imprisonment illegal after 7 months",
-      "summary_en": "The detainment of Joswar Slater Rodriguez Torres in June sparked a big protest in Spokane, as residents swarmed the ICE office.",
-      "title": "Judge rules WA asylum-seeker’s imprisonment illegal after 7 months",
-      "summary": "The detainment of Joswar Slater Rodriguez Torres in June sparked a big protest in Spokane, as residents swarmed the ICE office.",
-      "url": "https://www.seattletimes.com/seattle-news/northwest/judge-rules-wa-asylum-seekers-imprisonment-illegal-after-7-months/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-09T14:00:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b9197d95ed7507e7",
-      "title_orig": "Seahawks’ Kenneth Walker III runs all over Patriots in Super Bowl",
-      "summary_orig": "The Patriots were able to slow the Seahawks' passing attack down, but it didn't matter thanks to Kenneth Walker III.",
-      "lang": "en",
-      "title_en": "Seahawks’ Kenneth Walker III runs all over Patriots in Super Bowl",
-      "summary_en": "The Patriots were able to slow the Seahawks' passing attack down, but it didn't matter thanks to Kenneth Walker III.",
-      "title": "Seahawks’ Kenneth Walker III runs all over Patriots in Super Bowl",
-      "summary": "The Patriots were able to slow the Seahawks' passing attack down, but it didn't matter thanks to Kenneth Walker III.",
-      "url": "https://www.seattletimes.com/sports/seahawks/seahawks-kenneth-walker-iii-runs-all-over-patriots-in-super-bowl/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-09T14:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -416,24 +956,6 @@
       "geo": {}
     },
     {
-      "id": "bbc6b5790815b5da",
-      "title_orig": "U.S. ski resorts turn to drones to make it snow amid dire drought",
-      "summary_orig": "Resorts are seeking solutions to freshen up the brown slopes spanning the American West. Drones are part of a controversial practice known as seeding.",
-      "lang": "en",
-      "title_en": "U.S. ski resorts turn to drones to make it snow amid dire drought",
-      "summary_en": "Resorts are seeking solutions to freshen up the brown slopes spanning the American West. Drones are part of a controversial practice known as seeding.",
-      "title": "U.S. ski resorts turn to drones to make it snow amid dire drought",
-      "summary": "Resorts are seeking solutions to freshen up the brown slopes spanning the American West. Drones are part of a controversial practice known as seeding.",
-      "url": "https://www.seattletimes.com/nation-world/u-s-ski-resorts-turn-to-drones-to-make-it-snow-amid-dire-drought/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-09T13:55:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b53c430fef25bb68",
       "title_orig": "Manchester Airport's 'make sure' warning to families",
       "summary_orig": "Millions of families across the UK will be enjoying a holiday this month",
@@ -459,42 +981,6 @@
         "lat": 53.3652,
         "lon": -2.2727
       }
-    },
-    {
-      "id": "0ffdb4b03db49720",
-      "title_orig": "Trade unions call for strike on February 12",
-      "summary_orig": "Trade unions want the government to repeal the four labour codes and withdraw several proposed and existing policies affecting workers and farmers.",
-      "lang": "en",
-      "title_en": "Trade unions call for strike on February 12",
-      "summary_en": "Trade unions want the government to repeal the four labour codes and withdraw several proposed and existing policies affecting workers and farmers.",
-      "title": "Trade unions call for strike on February 12",
-      "summary": "Trade unions want the government to repeal the four labour codes and withdraw several proposed and existing policies affecting workers and farmers.",
-      "url": "https://www.thehindu.com/news/national/karnataka/trade-unions-call-for-strike-on-february-12/article70610837.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-02-09T13:50:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "12eb450ef9f17088",
-      "title_orig": "San Francisco public schoolteachers strike over wages and health benefits",
-      "summary_orig": "Thousands of public schoolteachers in San Francisco have gone on strike for the first time in nearly 50 years.",
-      "lang": "en",
-      "title_en": "San Francisco public schoolteachers strike over wages and health benefits",
-      "summary_en": "Thousands of public schoolteachers in San Francisco have gone on strike for the first time in nearly 50 years.",
-      "title": "San Francisco public schoolteachers strike over wages and health benefits",
-      "summary": "Thousands of public schoolteachers in San Francisco have gone on strike for the first time in nearly 50 years.",
-      "url": "https://www.seattletimes.com/nation-world/nation/san-francisco-public-schoolteachers-strike-over-wages-and-health-benefits/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-09T13:36:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "2ba42730036b6d27",
@@ -616,24 +1102,6 @@
       "url": "https://www.aljazeera.com/opinions/2026/2/9/i-am-one-of-22000-gaza-patients-waiting-in-desperation-for-evacuation?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
       "published_at": "2026-02-09T12:57:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "b956157160e3c5d9",
-      "title_orig": "Iran sentences Nobel laureate Narges Mohammadi to 7 more years in prison",
-      "summary_orig": "Iran sentenced Nobel Peace Prize laureate Narges Mohammadi to over seven more years in prison after she began a hunger strike, supporters said Sunday, as Tehran cracks down on all dissent following nationwide protests and the deaths of thousands at the hands of security forces.",
-      "lang": "en",
-      "title_en": "Iran sentences Nobel laureate Narges Mohammadi to 7 more years in prison",
-      "summary_en": "Iran sentenced Nobel Peace Prize laureate Narges Mohammadi to over seven more years in prison after she began a hunger strike, supporters said Sunday, as Tehran cracks down on all dissent following nationwide protests and the deaths of thousands at the hands of security forces.",
-      "title": "Iran sentences Nobel laureate Narges Mohammadi to 7 more years in prison",
-      "summary": "Iran sentenced Nobel Peace Prize laureate Narges Mohammadi to over seven more years in prison after she began a hunger strike, supporters said Sunday, as Tehran cracks down on all dissent following nationwide protests and the deaths of thousands at the hands of security forces.",
-      "url": "https://www.france24.com/en/video/20260209-iran-sentences-nobel-laureate-narges-mohammadi-to-7-more-years-in-prison",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-02-09T12:55:48+00:00",
       "tags": [
         "airport/security"
       ],
@@ -803,24 +1271,6 @@
       "geo": {}
     },
     {
-      "id": "850ff3ee79488ca7",
-      "title_orig": "Pakistan says Afghanistan has created conditions ‘similar to or worse than’ pre-9/11 attacks",
-      "summary_orig": "Pakistan’s president warns that the Taliban's government in Afghanistan has created conditions “similar to or worse than” those before the 9/11 attacks in 2001.",
-      "lang": "en",
-      "title_en": "Pakistan says Afghanistan has created conditions ‘similar to or worse than’ pre-9/11 attacks",
-      "summary_en": "Pakistan’s president warns that the Taliban's government in Afghanistan has created conditions “similar to or worse than” those before the 9/11 attacks in 2001.",
-      "title": "Pakistan says Afghanistan has created conditions ‘similar to or worse than’ pre-9/11 attacks",
-      "summary": "Pakistan’s president warns that the Taliban's government in Afghanistan has created conditions “similar to or worse than” those before the 9/11 attacks in 2001.",
-      "url": "https://www.seattletimes.com/nation-world/pakistan-says-afghanistan-has-created-conditions-similar-to-or-worse-than-pre-9-11-attacks/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-09T12:37:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8544e85e32acf4a8",
       "title_orig": "Wizz Air flight intercepted by fighter jets after WiFi renamed 'terrorist'",
       "summary_orig": "Fighter jets were scrambled to intercept the service after a a major security scare [NATIONAL NEWS]",
@@ -929,24 +1379,6 @@
       "geo": {}
     },
     {
-      "id": "671371521f618aa1",
-      "title_orig": "Dramatic or distracting? Olympic drone footage catches the eye",
-      "summary_orig": "If you were watching the downhill skiing or luge at Milan-Cortina 2026 over the weekend, you will have noticed the dramatic new camera angles being provided at these Games.",
-      "lang": "en",
-      "title_en": "Dramatic or distracting? Olympic drone footage catches the eye",
-      "summary_en": "If you were watching the downhill skiing or luge at Milan-Cortina 2026 over the weekend, you will have noticed the dramatic new camera angles being provided at these Games.",
-      "title": "Dramatic or distracting? Olympic drone footage catches the eye",
-      "summary": "If you were watching the downhill skiing or luge at Milan-Cortina 2026 over the weekend, you will have noticed the dramatic new camera angles being provided at these Games.",
-      "url": "https://www.bbc.com/sport/articles/c0rjwee0g45o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-02-09T11:59:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7972d736d405b232",
       "title_orig": "Child among 4 killed in latest Russian missile and drone barrage: Ukraine",
       "summary_orig": "Ukraine's foreign minister calls for complete EU entry ban on Russians participating in the war.",
@@ -994,24 +1426,6 @@
       "url": "https://www.standard.co.uk/news/crime/edinburgh-crown-office-b1270211.html",
       "source": "The Standard News",
       "published_at": "2026-02-09T11:16:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "993d7484eb689e2f",
-      "title_orig": "EasyJet plane forced to turn back following 'extraordinary' bird strike 20 minutes in",
-      "summary_orig": "The EasyJet flight returned to Amsterdam around 20 minutes after taking off",
-      "lang": "en",
-      "title_en": "EasyJet plane forced to turn back following 'extraordinary' bird strike 20 minutes in",
-      "summary_en": "The EasyJet flight returned to Amsterdam around 20 minutes after taking off",
-      "title": "EasyJet plane forced to turn back following 'extraordinary' bird strike 20 minutes in",
-      "summary": "The EasyJet flight returned to Amsterdam around 20 minutes after taking off",
-      "url": "https://www.liverpoolecho.co.uk/news/easyjet-plane-forced-turn-back-33388417",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-02-09T11:09:15+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1074,13 +1488,13 @@
     },
     {
       "id": "23fbe18ef34d7bac",
-      "title_orig": "Spain's train drivers start three-day strike after deadly accidents",
-      "summary_orig": "Spanish train drivers began a three-day strike on Monday, demanding greater safety for their profession after two accidents claimed 47 lives last month, leaving thousands of passengers stranded.",
+      "title_orig": "Spain's train drivers call off three-day strike after deadly accidents",
+      "summary_orig": "Unions and Spanish train drivers have called off the rail strike that began this Monday and was initially scheduled to last until Wednesday February 11th.",
       "lang": "en",
-      "title_en": "Spain's train drivers start three-day strike after deadly accidents",
-      "summary_en": "Spanish train drivers began a three-day strike on Monday, demanding greater safety for their profession after two accidents claimed 47 lives last month, leaving thousands of passengers stranded.",
-      "title": "Spain's train drivers start three-day strike after deadly accidents",
-      "summary": "Spanish train drivers began a three-day strike on Monday, demanding greater safety for their profession after two accidents claimed 47 lives last month, leaving thousands of passengers stranded.",
+      "title_en": "Spain's train drivers call off three-day strike after deadly accidents",
+      "summary_en": "Unions and Spanish train drivers have called off the rail strike that began this Monday and was initially scheduled to last until Wednesday February 11th.",
+      "title": "Spain's train drivers call off three-day strike after deadly accidents",
+      "summary": "Unions and Spanish train drivers have called off the rail strike that began this Monday and was initially scheduled to last until Wednesday February 11th.",
       "url": "https://www.thelocal.es/20260209/spains-train-drivers-start-three-day-strike-after-deadly-accidents",
       "source": "The Local Spain",
       "published_at": "2026-02-09T10:53:56+00:00",
@@ -1109,39 +1523,21 @@
       "geo": {}
     },
     {
-      "id": "abcb3770a0ae4af3",
-      "title_orig": "EasyJet Belfast-bound flight forced to turn back over 'bird-strike'",
-      "summary_orig": "The plane was diverted back to its departing airport following the incident where it was checked out by engineers",
+      "id": "7c919850608e3eda",
+      "title_orig": "Germany indicts Ukrainian over parcel bomb allegations tied to Russia",
+      "summary_orig": "BERLIN, Feb 9 - Germany has indicted a Ukrainian national in connection with allegations of a plot linked to Russian intelligence to detonate parcel packages in Europe, German prosecutors said in a statement on Monday.",
       "lang": "en",
-      "title_en": "EasyJet Belfast-bound flight forced to turn back over 'bird-strike'",
-      "summary_en": "The plane was diverted back to its departing airport following the incident where it was checked out by engineers",
-      "title": "EasyJet Belfast-bound flight forced to turn back over 'bird-strike'",
-      "summary": "The plane was diverted back to its departing airport following the incident where it was checked out by engineers",
-      "url": "https://www.belfastlive.co.uk/news/uk-world-news/easyjet-statement-after-belfast-bound-33387879",
-      "source": "BelfastLive - Home",
-      "published_at": "2026-02-09T10:43:00+00:00",
+      "title_en": "Germany indicts Ukrainian over parcel bomb allegations tied to Russia",
+      "summary_en": "BERLIN, Feb 9 - Germany has indicted a Ukrainian national in connection with allegations of a plot linked to Russian intelligence to detonate parcel packages in Europe, German prosecutors said in a statement on Monday.",
+      "title": "Germany indicts Ukrainian over parcel bomb allegations tied to Russia",
+      "summary": "BERLIN, Feb 9 - Germany has indicted a Ukrainian national in connection with allegations of a plot linked to Russian intelligence to detonate parcel packages in Europe, German prosecutors said in a statement on Monday.",
+      "url": "https://www.straitstimes.com/world/europe/germany-indicts-ukrainian-over-parcel-bomb-allegations-tied-to-russia",
+      "source": "The Straits Times World News",
+      "published_at": "2026-02-09T10:39:45+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9a2595b87a83f514",
-      "title_orig": "Thousands protest against Israeli President Herzog’s Australia visit",
-      "summary_orig": "Demonstrators risk arrest if they join a pro-Palestine march from Sydney Town Hall to New South Wales Parliament.",
-      "lang": "en",
-      "title_en": "Thousands protest against Israeli President Herzog’s Australia visit",
-      "summary_en": "Demonstrators risk arrest if they join a pro-Palestine march from Sydney Town Hall to New South Wales Parliament.",
-      "title": "Thousands protest against Israeli President Herzog’s Australia visit",
-      "summary": "Demonstrators risk arrest if they join a pro-Palestine march from Sydney Town Hall to New South Wales Parliament.",
-      "url": "https://www.aljazeera.com/news/2026/2/9/thousands-protest-against-israeli-president-herzogs-australia-visit?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-02-09T10:31:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1307,24 +1703,6 @@
       "geo": {}
     },
     {
-      "id": "eba5553778597b36",
-      "title_orig": "Spanish trains halted as drivers start strike over deadly accidents in January",
-      "summary_orig": "Transport Minister Oscar Puente held failed talks with the unions over the weekend to stop the walkout.",
-      "lang": "en",
-      "title_en": "Spanish trains halted as drivers start strike over deadly accidents in January",
-      "summary_en": "Transport Minister Oscar Puente held failed talks with the unions over the weekend to stop the walkout.",
-      "title": "Spanish trains halted as drivers start strike over deadly accidents in January",
-      "summary": "Transport Minister Oscar Puente held failed talks with the unions over the weekend to stop the walkout.",
-      "url": "https://www.straitstimes.com/world/europe/spanish-trains-halted-as-drivers-start-strike-over-accidents",
-      "source": "The Straits Times World News",
-      "published_at": "2026-02-09T07:57:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4008f403523bdbd6",
       "title_orig": "Today in Spain: A roundup of the latest news on Monday",
       "summary_orig": "Three-day high-speed rail strike kicks off in Spain, Socialists the big losers as far-right Vox make huge gains at Aragón regional election, Musk attacks Spain's Labour Minister Díaz and more news on Monday February 9th.",
@@ -1433,24 +1811,6 @@
       "geo": {}
     },
     {
-      "id": "fb3c126b5595ef9f",
-      "title_orig": "How is Birmingham's bin strike going to be resolved?",
-      "summary_orig": "With no end in sight to the year long dispute the BBC looks at what has to happen for it to end.",
-      "lang": "en",
-      "title_en": "How is Birmingham's bin strike going to be resolved?",
-      "summary_en": "With no end in sight to the year long dispute the BBC looks at what has to happen for it to end.",
-      "title": "How is Birmingham's bin strike going to be resolved?",
-      "summary": "With no end in sight to the year long dispute the BBC looks at what has to happen for it to end.",
-      "url": "https://www.bbc.com/news/articles/c041wg4vn7ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-02-09T06:23:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f4070cfd7aba1c5d",
       "title_orig": "Security forces continue search-and-cordon ops in J&K's Kishtwar under Operation Trashi-I",
       "summary_orig": "Troops of 7 Assam Rifles are continuously carrying out intensive searches deep inside the jungles to trace the terrorists believed to be hiding in the area.",
@@ -1469,24 +1829,6 @@
       "geo": {}
     },
     {
-      "id": "b558fb8f27cc4831",
-      "title_orig": "Iran arrests leading reformists close to the country’s president",
-      "summary_orig": "Detentions of senior Reformists Front figures follow criticism of the authorities’ handling of recent protests The head of Iran’s Reformists Front, the organisation that was instrumental in securing the election of the country’s president, Masoud Pezeshkian, has been arrested by the Islamic Revolutionary Guards Corps in a move that will probably deepen the tensions over the handling of the recent street protests. Azar Mansouri, the secretary general of the Islamic Iran People party, had expressed deep sorrow at protesters’ deaths, and said nothing could justify such a catastrophe. She had not in public called for the supreme leader, Ali Khamenei, to resign. Continue reading...",
-      "lang": "en",
-      "title_en": "Iran arrests leading reformists close to the country’s president",
-      "summary_en": "Detentions of senior Reformists Front figures follow criticism of the authorities’ handling of recent protests The head of Iran’s Reformists Front, the organisation that was instrumental in securing the election of the country’s president, Masoud Pezeshkian, has been arrested by the Islamic Revolutionary Guards Corps in a move that will probably deepen the tensions over the handling of the recent street protests. Azar Mansouri, the secretary general of the Islamic Iran People party, had expressed deep sorrow at protesters’ deaths, and said nothing could justify such a catastrophe. She had not in public called for the supreme leader, Ali Khamenei, to resign. Continue reading...",
-      "title": "Iran arrests leading reformists close to the country’s president",
-      "summary": "Detentions of senior Reformists Front figures follow criticism of the authorities’ handling of recent protests The head of Iran’s Reformists Front, the organisation that was instrumental in securing the election of the country’s president, Masoud Pezeshkian, has been arrested by the Islamic Revolutionary Guards Corps in a move that will probably deepen the tensions over the handling of the recent street protests. Azar Mansouri, the secretary general of the Islamic Iran People party, had expressed deep sorrow at protesters’ deaths, and said nothing could justify such a catastrophe. She had not in public called for the supreme leader, Ali Khamenei, to resign. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/feb/09/iran-arrests-leading-reformists-close-to-the-countrys-president",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-09T06:00:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "2d07d9ee6b5808e2",
       "title_orig": "Glasgow area MPs urge Glasgow Airport to U-turn on drop off charge increase",
       "summary_orig": "The airport announced last week that it would raise the fee for drivers dropping off or picking up passengers for 15 minutes from £6 to £7.",
@@ -1498,24 +1840,6 @@
       "url": "https://www.scotsman.com/politics/glasgow-area-mps-urge-glasgow-airport-to-u-turn-on-drop-off-charge-increase-5507652",
       "source": "The Scotsman",
       "published_at": "2026-02-09T06:00:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "fe0594dddad44aed",
-      "title_orig": "Cornwall Council due to drop Newquay airport's subsidised flights to London",
-      "summary_orig": "If the service continues it is likely to cost taxpayers between £14 million and £16 million over the next four years",
-      "lang": "en",
-      "title_en": "Cornwall Council due to drop Newquay airport's subsidised flights to London",
-      "summary_en": "If the service continues it is likely to cost taxpayers between £14 million and £16 million over the next four years",
-      "title": "Cornwall Council due to drop Newquay airport's subsidised flights to London",
-      "summary": "If the service continues it is likely to cost taxpayers between £14 million and £16 million over the next four years",
-      "url": "https://www.cornwalllive.com/news/cornwall-news/cornwall-council-due-drop-newquay-10800690",
-      "source": "Cornwall Live - frontpage",
-      "published_at": "2026-02-09T06:00:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1631,24 +1955,6 @@
       "geo": {}
     },
     {
-      "id": "18ba8ea1de5362e4",
-      "title_orig": "'He just wants to taunt us': Families say Christchurch terrorist showed 'no remorse'",
-      "summary_orig": "Terrorist’s “judgement and ability to make informed choices impacted” by prison, says psychologist.",
-      "lang": "en",
-      "title_en": "'He just wants to taunt us': Families say Christchurch terrorist showed 'no remorse'",
-      "summary_en": "Terrorist’s “judgement and ability to make informed choices impacted” by prison, says psychologist.",
-      "title": "'He just wants to taunt us': Families say Christchurch terrorist showed 'no remorse'",
-      "summary": "Terrorist’s “judgement and ability to make informed choices impacted” by prison, says psychologist.",
-      "url": "https://www.stuff.co.nz/nz-news/360933868/no-remorse-families-respond-after-christchurch-terrorist-addresses-appeal-hearing",
-      "source": "Stuff - /",
-      "published_at": "2026-02-09T04:00:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "201e9af26aeedbd6",
       "title_orig": "Angry Indian farmers want minister’s ouster over US trade deal",
       "summary_orig": "• Opposition claims Modi surrendered to Trump over Epstein files • Growers fears the disastrous impact of the agreement; nationwide protests set for Feb 12 NEW DELHI: Indian farmers on Monday slammed a new US trade deal as “a surrender to multinational agricultural giants”, calling for the commerce minister’s resignation as Congress accused Indian Prime Minister Narendra Modi of capitulating to US President Donald Trump over the “Epstein files ” release. Congress leaders claimed an Indian minister, a businessman and individuals close to the prime minister were mentioned in the files, along with Modi. According to a report in The Hindu , the Samyukt Kisan Morcha (SKM) demanded Commerce Minister Piyush Goyal’s immediate resignation as soon as he explained the details of the bilateral pact. Leaders of the union representing apple and cotton growers said any relaxation on the import of cotton would be disastrous for the economies of Jammu and Kashmir, Him­­­­achal Pradesh, Mah­ar­ashtra and Gujarat. Talking to reporters at a press conference on Saturday, SKM leaders called the framework for the interim agreement on bilateral trade a “total surrender” to America’s agriculture sector. They cited the inclusion of dried distillers’ grains, red sorghum for animal feed, tree nuts, fresh and processed fruit, soybean oil, wine and spirits in the joint statement. The leaders warned that the animal feed market would be completely monopolised by US companies. SKM leaders urged farmers across the country to join protest demonstrations on Feb 12 and to support a general strike of workers as a “befitting reply to the anti-people Modi government”. The leaders said Goyal’s claim that the agriculture and dairy sectors were excluded from the agreement was incorrect. “Dairy products are part of the FTAs signed with the UK, New Zealand and European Union and the fresh revelations have undoubtedly proved the Commerce Minister is consciously propagating falsehood and betraying the farmers and the entire people,” the SKM statement said. “SKM considers the role of Commerce Minister as a traitor and demands his immediate resignation.” The organisation demanded that Prime Minister Modi desist from signing the India-US Free Trade Agreement or face “massive pan-India united mass struggles”. Farmers’ leaders highlighted tariff disparities, noting that US tariffs on Indian goods rose from zero in 2023-24 to 18pc, while Indian tariff rates on US agriculture products dropped from between 30pc and 150pc to zero. They said this would make Indian agriculture hang by the noose of US MNCs. The SKM also questioned Goyal’s position that the animal husbandry sector had requested imported feed. The group said poultry groups were the ones demanding feed based on maize and soybean to reduce minimum support prices for domestic crops. “We have heard that the animal feed in US may contain non-vegetarian items too. Why does the government want our cows to eat non-vegetarian food?” asked Rakesh Tikait, a prominent SKM leader. The statement also targeted the ruling party’s ideological parent organisation. “The RSS had been claiming no import of milk of animals fed with meat. That was a non-tariff barrier,” the statement said. “Now, the RSS has been made to eat its own claim by ‘Master’ Donald Trump and they have cowed down completely.” M.Y. Tarigami, leader of the Apple Farmers Federation of India and a Jammu and Kashmir lawmaker, said the trade deal would devastate regional economies. “We have been facing problems in apple cultivation due to lack of marketing facilities and climatic challenges,” Tarigami said. “Farmers in both the states are already in distress. This announcement will be a huge setback for apple and tree nut growers.” “In a state like Jammu and Kashmir, where there are no other economic avenues such as industry, the only source of income was cultivation of apples and dry fruits,” Tarigami added. “The Union government does not care about farmers here and is working for their masters in the United States.” Protesting against the government’s lack of transparency regarding the deal, the Congress party on Friday displayed a poster reading “Trap Deal” at the main entrance of the Parliament complex. Congress President Mallikarjun Kharge told reporters that President Trump pressured Modi into signing the deal because of the Epstein files. “The truth is that over the past few days, Narendra Modi has been troubled because matters related to him have come up in the Epstein files. After that, Narendra Modi surrendered before Trump and struck a trade deal,” Kharge said. “He sacrificed the country’s farmers. Modi is making our people poor and making America’s farmers rich.” Published in Dawn, February 9th, 2026",
@@ -1660,24 +1966,6 @@
       "url": "https://www.dawn.com/news/1971935/angry-indian-farmers-want-ministers-ouster-over-us-trade-deal",
       "source": "Dawn - Home",
       "published_at": "2026-02-09T03:13:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "623af21638e0ba46",
-      "title_orig": "Spanish train drivers to begin nationwide strike after fatal crashes",
-      "summary_orig": "Striking drivers are demanding increased investment and maintenance, and the hiring of more staff.",
-      "lang": "en",
-      "title_en": "Spanish train drivers to begin nationwide strike after fatal crashes",
-      "summary_en": "Striking drivers are demanding increased investment and maintenance, and the hiring of more staff.",
-      "title": "Spanish train drivers to begin nationwide strike after fatal crashes",
-      "summary": "Striking drivers are demanding increased investment and maintenance, and the hiring of more staff.",
-      "url": "https://www.bbc.com/news/articles/czx7l7r9gyro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-02-09T03:00:05+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1750,24 +2038,6 @@
       "url": "https://www.bbc.com/news/articles/cew8vldpzdyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2026-02-09T00:09:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d0ee224ed4e5ed51",
-      "title_orig": "2 Section III girls bowling powers work their way back to states: ‘I want to be top dog’ (44 photos)",
-      "summary_orig": "The state tournament is March 13-15 at Strike-n-Spare Lanes.",
-      "lang": "en",
-      "title_en": "2 Section III girls bowling powers work their way back to states: ‘I want to be top dog’ (44 photos)",
-      "summary_en": "The state tournament is March 13-15 at Strike-n-Spare Lanes.",
-      "title": "2 Section III girls bowling powers work their way back to states: ‘I want to be top dog’ (44 photos)",
-      "summary": "The state tournament is March 13-15 at Strike-n-Spare Lanes.",
-      "url": "https://www.syracuse.com/highschoolsports/2026/02/two-section-iii-girls-bowling-powers-work-their-way-back-to-states-i-want-to-be-top-dog-all-the-time-photos.html",
-      "source": "syracuse.com",
-      "published_at": "2026-02-08T23:29:15+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1937,60 +2207,6 @@
       "geo": {}
     },
     {
-      "id": "d649d6cb94c9a3fb",
-      "title_orig": "Russia names three suspects in shooting of general",
-      "summary_orig": "The suspects include the alleged gunman, Lyubomir Korba, whom Russia says fled to the UAE after the attack.",
-      "lang": "en",
-      "title_en": "Russia names three suspects in shooting of general",
-      "summary_en": "The suspects include the alleged gunman, Lyubomir Korba, whom Russia says fled to the UAE after the attack.",
-      "title": "Russia names three suspects in shooting of general",
-      "summary": "The suspects include the alleged gunman, Lyubomir Korba, whom Russia says fled to the UAE after the attack.",
-      "url": "https://www.bbc.com/news/articles/cy7j6xe8862o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-02-08T17:21:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c3faa41c788ce31a",
-      "title_orig": "'Let's see': Rangers reveal plan for 'legend' James Tavernier after milestone strike as injury update provided",
-      "summary_orig": "Rangers head coach Danny Rohl discussed skipper’s impending contract expiry",
-      "lang": "en",
-      "title_en": "'Let's see': Rangers reveal plan for 'legend' James Tavernier after milestone strike as injury update provided",
-      "summary_en": "Rangers head coach Danny Rohl discussed skipper’s impending contract expiry",
-      "title": "'Let's see': Rangers reveal plan for 'legend' James Tavernier after milestone strike as injury update provided",
-      "summary": "Rangers head coach Danny Rohl discussed skipper’s impending contract expiry",
-      "url": "https://www.scotsman.com/sport/football/rangers/latest-rangers-news/lets-see-rangers-reveal-plan-for-legend-james-tavernier-after-milestone-strike-as-injury-update-provided-5507814",
-      "source": "The Scotsman",
-      "published_at": "2026-02-08T17:17:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f6830c7baff730ad",
-      "title_orig": "Rangers player ratings v Queen's Park: Ibrox trio get top marks as Rohl ensures lightning doesn't strike twice",
-      "summary_orig": "Rangers wallop struggling Spiders to ease into the Scottish Cup’s last eight",
-      "lang": "en",
-      "title_en": "Rangers player ratings v Queen's Park: Ibrox trio get top marks as Rohl ensures lightning doesn't strike twice",
-      "summary_en": "Rangers wallop struggling Spiders to ease into the Scottish Cup’s last eight",
-      "title": "Rangers player ratings v Queen's Park: Ibrox trio get top marks as Rohl ensures lightning doesn't strike twice",
-      "summary": "Rangers wallop struggling Spiders to ease into the Scottish Cup’s last eight",
-      "url": "https://www.scotsman.com/sport/football/rangers/latest-rangers-news/rangers-player-ratings-v-queens-park-ibrox-trio-get-top-marks-as-rohl-ensures-lightning-doesnt-strike-twice-5507567",
-      "source": "The Scotsman",
-      "published_at": "2026-02-08T17:09:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7a2f9541391421fc",
       "title_orig": "#PaxEx Podcast: IdeaNova and the bright ideas shaping IFEC",
       "summary_orig": "Welcome to the #PaxEx Podcast, which tracks the evolution of the airline passenger experience and aviation’s sustainability initiatives. With nearly two decades of experience in IT security and secure video streaming, Illinois-based software company IdeaNova has made a name for itself as a trusted partner to airlines, IFE firms and inflight connectivity providers. But even... The post #PaxEx Podcast: IdeaNova and the bright ideas shaping IFEC appeared first on Runway Girl .",
@@ -2002,24 +2218,6 @@
       "url": "https://runwaygirlnetwork.com/2026/02/paxex-podcast-ideanova-and-the-bright-ideas-shaping-ifec/",
       "source": "Runway Girl",
       "published_at": "2026-02-08T16:43:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "915af962fcee05c5",
-      "title_orig": "Gunmen kill three and abduct Catholic priest in deadly attack in Nigeria",
-      "summary_orig": "The attack took place in southern Nigeria on Saturday morning",
-      "lang": "en",
-      "title_en": "Gunmen kill three and abduct Catholic priest in deadly attack in Nigeria",
-      "summary_en": "The attack took place in southern Nigeria on Saturday morning",
-      "title": "Gunmen kill three and abduct Catholic priest in deadly attack in Nigeria",
-      "summary": "The attack took place in southern Nigeria on Saturday morning",
-      "url": "https://www.independent.co.uk/news/world/africa/nigeria-gunmen-catholic-priest-abducted-b2916212.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-08T16:43:01+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2117,24 +2315,6 @@
       "geo": {}
     },
     {
-      "id": "20ae791b62c4b472",
-      "title_orig": "Cardiologist warns two ongoing symptoms could signal a 'silent' heart attack",
-      "summary_orig": "Silent heart attacks might be diagnosed during a routine check-up months later",
-      "lang": "en",
-      "title_en": "Cardiologist warns two ongoing symptoms could signal a 'silent' heart attack",
-      "summary_en": "Silent heart attacks might be diagnosed during a routine check-up months later",
-      "title": "Cardiologist warns two ongoing symptoms could signal a 'silent' heart attack",
-      "summary": "Silent heart attacks might be diagnosed during a routine check-up months later",
-      "url": "https://www.getsurrey.co.uk/news/health/cardiologist-warns-two-ongoing-symptoms-33364042",
-      "source": "Surrey Live - Home",
-      "published_at": "2026-02-08T06:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "6cef8b1eec7271c8",
       "title_orig": "Leeds United's Friday night vibes bring season best but one player's challenge clear",
       "summary_orig": "Leeds' striker has been challenged to bring more",
@@ -2222,24 +2402,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "ba2e1c451a9a17fe",
-      "title_orig": "Leeds United striker view leaves Andy Gray shocked at Richard Keys comment",
-      "summary_orig": "Dominic Calvert‑Lewin has been outstanding for Leeds United, and a former Premier League striker has suggested he should be considered by Thomas Tuchel for the World Cup.",
-      "lang": "en",
-      "title_en": "Leeds United striker view leaves Andy Gray shocked at Richard Keys comment",
-      "summary_en": "Dominic Calvert‑Lewin has been outstanding for Leeds United, and a former Premier League striker has suggested he should be considered by Thomas Tuchel for the World Cup.",
-      "title": "Leeds United striker view leaves Andy Gray shocked at Richard Keys comment",
-      "summary": "Dominic Calvert‑Lewin has been outstanding for Leeds United, and a former Premier League striker has suggested he should be considered by Thomas Tuchel for the World Cup.",
-      "url": "https://www.leeds-live.co.uk/sport/leeds-united/dominic-calvert-lewin-leeds-united-33383727",
-      "source": "Leeds Live - frontpage",
-      "published_at": "2026-02-07T20:42:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2495,24 +2657,6 @@
       "geo": {}
     },
     {
-      "id": "e7c1c4005797e32e",
-      "title_orig": "France and Canada Open Consulates in Greenland, Following Trump Threats",
-      "summary_orig": "Greenland’s mini diplomatic scene is about to get more lively as Canada and France set up consulates, following threats by President Trump to take over the island.",
-      "lang": "en",
-      "title_en": "France and Canada Open Consulates in Greenland, Following Trump Threats",
-      "summary_en": "Greenland’s mini diplomatic scene is about to get more lively as Canada and France set up consulates, following threats by President Trump to take over the island.",
-      "title": "France and Canada Open Consulates in Greenland, Following Trump Threats",
-      "summary": "Greenland’s mini diplomatic scene is about to get more lively as Canada and France set up consulates, following threats by President Trump to take over the island.",
-      "url": "https://www.nytimes.com/2026/02/06/world/europe/besides-stars-and-stripes-a-few-new-flags-are-flying-in-greenland.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-06T22:14:23+00:00",
-      "tags": [
-        "diplomatic"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "164b6c24830b3213",
       "title_orig": "Canadian flag raised as consulate opens in Greenland",
       "summary_orig": "Canada and France opened a consulate in Nuuk, Greenland, where Canadian Foreign Minister Anita Anand raised the Canadian flag during an official ceremony.",
@@ -2616,24 +2760,6 @@
       "published_at": "2026-02-06T16:09:51+00:00",
       "tags": [
         "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "24dfe2c27dd8f521",
-      "title_orig": "France becomes first EU country to open a consulate in Greenland",
-      "summary_orig": "The French consulate opened this Friday in the capital, Nuuk, amid geopolitical tensions surrounding the Arctic island.",
-      "lang": "en",
-      "title_en": "France becomes first EU country to open a consulate in Greenland",
-      "summary_en": "The French consulate opened this Friday in the capital, Nuuk, amid geopolitical tensions surrounding the Arctic island.",
-      "title": "France becomes first EU country to open a consulate in Greenland",
-      "summary": "The French consulate opened this Friday in the capital, Nuuk, amid geopolitical tensions surrounding the Arctic island.",
-      "url": "http://www.euronews.com/2026/02/06/france-becomes-first-eu-country-to-open-a-consulate-in-greenland",
-      "source": "News | Euronews RSS",
-      "published_at": "2026-02-06T16:05:04+00:00",
-      "tags": [
-        "diplomatic"
       ],
       "type": "major news",
       "geo": {}
@@ -3032,24 +3158,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "c923468c6dcf05f3",
-      "title_orig": "44 Scotland Street. The Prime of Bertie Pollock, Chapter 6: Mother issues",
-      "summary_orig": "Bertie Pollock (7), was the son of Stuart and Irene Pollock; grandson of Nicola Pollock (the ex-wife of a Portuguese wine producer, Abril Tamares de Lumiares, and now proprietor of the Glasgow pie company, Inclusive Pies, formerly Pies for Protestants). He was also the older brother of Ulysses Pollock and the best friend – by a long chalk – of Ranald Braveheart Macpherson, a boy of the same age as himself who lived on the other side of town, in Morningside, a suburb of Edinburgh that was as much a state of mind as a geographical location. Other people featured in Bertie’s firmament included two girls, Olive and Pansy, who were in the same class as he was at the Steiner School, and who made for a fearsome duo in the school playground, an alliance, one of the teachers observed in a moment of unguarded frankness, of Goneril and Lucrezia di Borgia.",
-      "lang": "en",
-      "title_en": "44 Scotland Street. The Prime of Bertie Pollock, Chapter 6: Mother issues",
-      "summary_en": "Bertie Pollock (7), was the son of Stuart and Irene Pollock; grandson of Nicola Pollock (the ex-wife of a Portuguese wine producer, Abril Tamares de Lumiares, and now proprietor of the Glasgow pie company, Inclusive Pies, formerly Pies for Protestants). He was also the older brother of Ulysses Pollock and the best friend – by a long chalk – of Ranald Braveheart Macpherson, a boy of the same age as himself who lived on the other side of town, in Morningside, a suburb of Edinburgh that was as much a state of mind as a geographical location. Other people featured in Bertie’s firmament included two girls, Olive and Pansy, who were in the same class as he was at the Steiner School, and who made for a fearsome duo in the school playground, an alliance, one of the teachers observed in a moment of unguarded frankness, of Goneril and Lucrezia di Borgia.",
-      "title": "44 Scotland Street. The Prime of Bertie Pollock, Chapter 6: Mother issues",
-      "summary": "Bertie Pollock (7), was the son of Stuart and Irene Pollock; grandson of Nicola Pollock (the ex-wife of a Portuguese wine producer, Abril Tamares de Lumiares, and now proprietor of the Glasgow pie company, Inclusive Pies, formerly Pies for Protestants). He was also the older brother of Ulysses Pollock and the best friend – by a long chalk – of Ranald Braveheart Macpherson, a boy of the same age as himself who lived on the other side of town, in Morningside, a suburb of Edinburgh that was as much a state of mind as a geographical location. Other people featured in Bertie’s firmament included two girls, Olive and Pansy, who were in the same class as he was at the Steiner School, and who made for a fearsome duo in the school playground, an alliance, one of the teachers observed in a moment of unguarded frankness, of Goneril and Lucrezia di Borgia.",
-      "url": "https://www.scotsman.com/arts-and-culture/books/44-scotland-street-the-prime-of-bertie-pollock-chapter-6-mother-issues-5490793",
-      "source": "The Scotsman",
-      "published_at": "2026-01-30T15:00:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
