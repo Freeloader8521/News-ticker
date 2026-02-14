@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-02-14T17:01:41.497202+00:00",
+  "generated_at": "2026-02-14T17:27:09.109705+00:00",
   "items": [
+    {
+      "id": "9859c2a2378ba415",
+      "title_orig": "Canada wants Iran government change, increases sanctions",
+      "summary_orig": "TORONTO, Feb 14 - Canadian Foreign Affairs Minister Anita Anand said Canada wants a change of government in Iran but would not say whether it would support a U.S. military strike, the Globe and Mail reported on Saturday.",
+      "lang": "en",
+      "title_en": "Canada wants Iran government change, increases sanctions",
+      "summary_en": "TORONTO, Feb 14 - Canadian Foreign Affairs Minister Anita Anand said Canada wants a change of government in Iran but would not say whether it would support a U.S. military strike, the Globe and Mail reported on Saturday.",
+      "title": "Canada wants Iran government change, increases sanctions",
+      "summary": "TORONTO, Feb 14 - Canadian Foreign Affairs Minister Anita Anand said Canada wants a change of government in Iran but would not say whether it would support a U.S. military strike, the Globe and Mail reported on Saturday.",
+      "url": "https://www.straitstimes.com/world/middle-east/canada-wants-iran-government-change-increases-sanctions",
+      "source": "The Straits Times World News",
+      "published_at": "2026-02-14T17:21:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e703da589aa6d49c",
+      "title_orig": "Airspace over Dublin Airport closed at intervals this morning due to air control staffing issues",
+      "summary_orig": "Areas of Irish airspace have been closed more than 10 times since the beginning of the year due to staff shortages in air traffic control, The Journal reported earlier this week.",
+      "lang": "en",
+      "title_en": "Airspace over Dublin Airport closed at intervals this morning due to air control staffing issues",
+      "summary_en": "Areas of Irish airspace have been closed more than 10 times since the beginning of the year due to staff shortages in air traffic control, The Journal reported earlier this week.",
+      "title": "Airspace over Dublin Airport closed at intervals this morning due to air control staffing issues",
+      "summary": "Areas of Irish airspace have been closed more than 10 times since the beginning of the year due to staff shortages in air traffic control, The Journal reported earlier this week.",
+      "url": "https://www.thejournal.ie/airspace-closed-dublin-airport-staffing-6957484-Feb2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-02-14T17:20:05+00:00",
+      "tags": [
+        "DUB",
+        "Ireland",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dublin",
+        "city": "Dublin",
+        "country": "Ireland",
+        "iata": "DUB",
+        "lat": 53.4213,
+        "lon": -6.2701
+      }
+    },
+    {
+      "id": "8258a442058baa47",
+      "title_orig": "Missing Bengaluru student in US: CS seeks MEA intervention",
+      "summary_orig": "On Saturday, the Consulate General of India in San Francisco confirmed that it is actively coordinating with local authorities in the United States in connection with the disappearance Saketh",
+      "lang": "en",
+      "title_en": "Missing Bengaluru student in US: CS seeks MEA intervention",
+      "summary_en": "On Saturday, the Consulate General of India in San Francisco confirmed that it is actively coordinating with local authorities in the United States in connection with the disappearance Saketh",
+      "title": "Missing Bengaluru student in US: CS seeks MEA intervention",
+      "summary": "On Saturday, the Consulate General of India in San Francisco confirmed that it is actively coordinating with local authorities in the United States in connection with the disappearance Saketh",
+      "url": "https://www.thehindu.com/news/national/karnataka/missing-bengaluru-student-in-us-cs-seeks-mea-intervention/article70632752.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-02-14T17:14:22+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "19ed763a93ceac89",
+      "title_orig": "10 Osmania University students booked following protest",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "10 Osmania University students booked following protest",
+      "summary_en": "",
+      "title": "10 Osmania University students booked following protest",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/telangana/10-osmania-university-students-booked-following-protest/article70632819.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-02-14T17:13:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "aca8788775c01b8d",
+      "title_orig": "Ryanair flight heading for South West Airport diverted to Madrid",
+      "summary_orig": "Passengers remained on the plane as luggage was removed",
+      "lang": "en",
+      "title_en": "Ryanair flight heading for South West Airport diverted to Madrid",
+      "summary_en": "Passengers remained on the plane as luggage was removed",
+      "title": "Ryanair flight heading for South West Airport diverted to Madrid",
+      "summary": "Passengers remained on the plane as luggage was removed",
+      "url": "https://www.bristolpost.co.uk/news/local-news/ryanair-flight-heading-south-west-10815769",
+      "source": "Bristol Post - News",
+      "published_at": "2026-02-14T17:07:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "57939a7db4b6cbec",
       "title_orig": "Karachi police clash with Jamaat-i-Islami workers outside Sindh Assembly",
@@ -13,6 +112,60 @@
       "url": "https://www.dawn.com/news/1973198/karachi-police-clash-with-jamaat-i-islami-workers-outside-sindh-assembly",
       "source": "Dawn - Home",
       "published_at": "2026-02-14T16:57:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "19bf1a147c45233e",
+      "title_orig": "Airport delays possible with partial government shutdown over Homeland Security funding",
+      "summary_orig": "Airline industry groups warn the shutdown threatens to disrupt air travel as the spring break travel period approaches. The shutdown of the Department of Homeland Security  took effect at 12 a.m.",
+      "lang": "en",
+      "title_en": "Airport delays possible with partial government shutdown over Homeland Security funding",
+      "summary_en": "Airline industry groups warn the shutdown threatens to disrupt air travel as the spring break travel period approaches. The shutdown of the Department of Homeland Security  took effect at 12 a.m.",
+      "title": "Airport delays possible with partial government shutdown over Homeland Security funding",
+      "summary": "Airline industry groups warn the shutdown threatens to disrupt air travel as the spring break travel period approaches. The shutdown of the Department of Homeland Security  took effect at 12 a.m.",
+      "url": "https://www.mlive.com/news/2026/02/airport-delays-possible-with-partial-government-shutdown-over-homeland-security-funding.html",
+      "source": "mlive.com",
+      "published_at": "2026-02-14T16:56:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "52b690f49a813501",
+      "title_orig": "Hibs v St Mirren ratings and report as new boys find net in much-needed bounce-back victory",
+      "summary_orig": "Irish teenager gets top marks for marking first start with goal - and super sub Suto strikes again",
+      "lang": "en",
+      "title_en": "Hibs v St Mirren ratings and report as new boys find net in much-needed bounce-back victory",
+      "summary_en": "Irish teenager gets top marks for marking first start with goal - and super sub Suto strikes again",
+      "title": "Hibs v St Mirren ratings and report as new boys find net in much-needed bounce-back victory",
+      "summary": "Irish teenager gets top marks for marking first start with goal - and super sub Suto strikes again",
+      "url": "https://www.edinburghnews.scotsman.com/sport/football/hibs/hibs-v-st-mirren-ratings-report-new-boys-find-net-scoring-easter-road-5598397",
+      "source": "Edinburgh News",
+      "published_at": "2026-02-14T16:54:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "daf87c45f153f627",
+      "title_orig": "Navalny died after being poisoned with dart frog toxin by Russia, UK says",
+      "summary_orig": "Britain and its allies said only Russia would have the ‘means, motive and disregard’ to launch such an attack – as his widow calls for Putin to be held accountable",
+      "lang": "en",
+      "title_en": "Navalny died after being poisoned with dart frog toxin by Russia, UK says",
+      "summary_en": "Britain and its allies said only Russia would have the ‘means, motive and disregard’ to launch such an attack – as his widow calls for Putin to be held accountable",
+      "title": "Navalny died after being poisoned with dart frog toxin by Russia, UK says",
+      "summary": "Britain and its allies said only Russia would have the ‘means, motive and disregard’ to launch such an attack – as his widow calls for Putin to be held accountable",
+      "url": "https://www.independent.co.uk/news/world/europe/navalny-death-poison-russia-putin-kremlin-b2920427.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-14T16:51:02+00:00",
       "tags": [
         "airport/security"
       ],
@@ -182,24 +335,6 @@
       "geo": {}
     },
     {
-      "id": "daf87c45f153f627",
-      "title_orig": "Navalny died after being poisoned with dart frog toxin by Russia, UK says",
-      "summary_orig": "Britain and its allies said only Russia would have the ‘means, motive and disregard’ to launch such an attack – as his widow calls for Putin to be held accountable",
-      "lang": "en",
-      "title_en": "Navalny died after being poisoned with dart frog toxin by Russia, UK says",
-      "summary_en": "Britain and its allies said only Russia would have the ‘means, motive and disregard’ to launch such an attack – as his widow calls for Putin to be held accountable",
-      "title": "Navalny died after being poisoned with dart frog toxin by Russia, UK says",
-      "summary": "Britain and its allies said only Russia would have the ‘means, motive and disregard’ to launch such an attack – as his widow calls for Putin to be held accountable",
-      "url": "https://www.independent.co.uk/news/world/europe/navalny-death-poison-russia-putin-kremlin-b2920427.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-14T16:21:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a37466bae9bbe4c3",
       "title_orig": "US military used Anthropic’s AI model Claude in Venezuela raid, report says",
       "summary_orig": "Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies Claude, the AI model developed by Anthropic , was used by the US military during its operation to kidnap Nicolás Maduro from Venezuela, the Wall Street Journal revealed on Saturday, a high-profile example of how the US defence department is using artificial intelligence in its operations. The US raid on Venezuela involved bombing across the capital, Caracas, and the killing of 83 people, according to Venezuela’s defence ministry. Anthropic’s terms of use prohibit the use of Claude for violent ends, for the development of weapons or for conducting surveillance. Continue reading...",
@@ -247,6 +382,24 @@
       "url": "https://www.thehindu.com/news/national/kerala/four-arrested-in-thiruvananthapuram-apartment-robbery-case/article70632832.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2026-02-14T16:03:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d9599e0bab12e0da",
+      "title_orig": "US military reports a series of airstrikes against Islamic State targets in Syria",
+      "summary_orig": "The U.S. military is reporting a series of strikes against Islamic State group targets in Syria.",
+      "lang": "en",
+      "title_en": "US military reports a series of airstrikes against Islamic State targets in Syria",
+      "summary_en": "The U.S. military is reporting a series of strikes against Islamic State group targets in Syria.",
+      "title": "US military reports a series of airstrikes against Islamic State targets in Syria",
+      "summary": "The U.S. military is reporting a series of strikes against Islamic State group targets in Syria.",
+      "url": "https://www.seattletimes.com/nation-world/nation/us-military-reports-a-series-of-airstrikes-against-islamic-state-targets-in-syria/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-14T16:01:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -473,7 +626,7 @@
       "id": "044b50b87e853cd0",
       "title_orig": "US strikes second ‘drug boat’ in one week leaving 133 dead",
       "summary_orig": "",
-      "lang": "en",
+      "lang": "af",
       "title_en": "US strikes second ‘drug boat’ in one week leaving 133 dead",
       "summary_en": "",
       "title": "US strikes second ‘drug boat’ in one week leaving 133 dead",
@@ -976,6 +1129,24 @@
       "url": "https://www.standard.co.uk/news/politics/shabana-mahmood-palestine-action-mps-labour-government-labour-b1271022.html",
       "source": "The Standard News",
       "published_at": "2026-02-14T08:50:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e1133c1a8d1012bb",
+      "title_orig": "Drone strikes kill 2 in Ukraine and Russia ahead of US-brokered peace talks in Geneva",
+      "summary_orig": "Drone strikes killed one person in Ukraine and another in Russia on Saturday ahead of fresh U.S.-brokered peace talks.",
+      "lang": "en",
+      "title_en": "Drone strikes kill 2 in Ukraine and Russia ahead of US-brokered peace talks in Geneva",
+      "summary_en": "Drone strikes killed one person in Ukraine and another in Russia on Saturday ahead of fresh U.S.-brokered peace talks.",
+      "title": "Drone strikes kill 2 in Ukraine and Russia ahead of US-brokered peace talks in Geneva",
+      "summary": "Drone strikes killed one person in Ukraine and another in Russia on Saturday ahead of fresh U.S.-brokered peace talks.",
+      "url": "https://www.seattletimes.com/nation-world/a-russian-drone-strike-kills-1-in-odesa-ahead-of-us-brokered-peace-talks-in-geneva/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-14T08:43:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2740,24 +2911,6 @@
       "url": "https://airlive.net/accident/2026/02/10/breaking-a-starsky-aviation-aircraft-has-crashed-near-mogadishu-shoreline/",
       "source": "AIRLIVE",
       "published_at": "2026-02-10T10:54:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6622c29dba57cf06",
-      "title_orig": "Former TV weatherman buys back family land for ‘a bucolic lifestyle’",
-      "summary_orig": "Seventeen years after Jim Hickey and wife Sue bought their hangar apartment at New Plymouth Airport, they’re going back to Jim’s roots.",
-      "lang": "en",
-      "title_en": "Former TV weatherman buys back family land for ‘a bucolic lifestyle’",
-      "summary_en": "Seventeen years after Jim Hickey and wife Sue bought their hangar apartment at New Plymouth Airport, they’re going back to Jim’s roots.",
-      "title": "Former TV weatherman buys back family land for ‘a bucolic lifestyle’",
-      "summary": "Seventeen years after Jim Hickey and wife Sue bought their hangar apartment at New Plymouth Airport, they’re going back to Jim’s roots.",
-      "url": "https://www.stuff.co.nz/home-property/360936525/former-tv-weatherman-jim-hickey-buys-back-family-land-bucolic-lifestyle",
-      "source": "Stuff - /",
-      "published_at": "2026-02-10T02:57:30+00:00",
       "tags": [
         "airport/security"
       ],
