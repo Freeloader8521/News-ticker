@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-02-15T23:25:31.706588+00:00",
+  "generated_at": "2026-02-15T23:56:04.045554+00:00",
   "items": [
+    {
+      "id": "bf8db5c36c825998",
+      "title_orig": "The power of the storm - a 202kph gust; a 7.5m wave; a month’s worth of rain",
+      "summary_orig": "Evacuations, flooding, power outages and major travel disruption in Wellington as severe weather strikes much of NZ.",
+      "lang": "en",
+      "title_en": "The power of the storm - a 202kph gust; a 7.5m wave; a month’s worth of rain",
+      "summary_en": "Evacuations, flooding, power outages and major travel disruption in Wellington as severe weather strikes much of NZ.",
+      "title": "The power of the storm - a 202kph gust; a 7.5m wave; a month’s worth of rain",
+      "summary": "Evacuations, flooding, power outages and major travel disruption in Wellington as severe weather strikes much of NZ.",
+      "url": "https://www.stuff.co.nz/nz-news/360937669/new-zealand-weather-live-blog",
+      "source": "Stuff - /",
+      "published_at": "2026-02-15T23:34:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "beb026d235b90879",
+      "title_orig": "Iran Protester Dies in Custody, Raising Fears of Execution",
+      "summary_orig": "Rights groups are investigating the death of Ali Rahbar as a potential extrajudicial killing. Iran denies executions have taken place.",
+      "lang": "en",
+      "title_en": "Iran Protester Dies in Custody, Raising Fears of Execution",
+      "summary_en": "Rights groups are investigating the death of Ali Rahbar as a potential extrajudicial killing. Iran denies executions have taken place.",
+      "title": "Iran Protester Dies in Custody, Raising Fears of Execution",
+      "summary": "Rights groups are investigating the death of Ali Rahbar as a potential extrajudicial killing. Iran denies executions have taken place.",
+      "url": "https://www.nytimes.com/2026/02/15/world/middleeast/ali-rahbar-iran-protester.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-15T23:22:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "eb1ac3abcc759b88",
+      "title_orig": "Ukraine-Russia war latest: Kyiv drone strikes hit Black Sea ports ahead of crucial US-backed peace talks",
+      "summary_orig": "Another round of US-brokered peace talks will take place on Tuesday and Wednesday in Geneva",
+      "lang": "en",
+      "title_en": "Ukraine-Russia war latest: Kyiv drone strikes hit Black Sea ports ahead of crucial US-backed peace talks",
+      "summary_en": "Another round of US-brokered peace talks will take place on Tuesday and Wednesday in Geneva",
+      "title": "Ukraine-Russia war latest: Kyiv drone strikes hit Black Sea ports ahead of crucial US-backed peace talks",
+      "summary": "Another round of US-brokered peace talks will take place on Tuesday and Wednesday in Geneva",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-zelensky-peace-talks-offensive-latest-b2920743.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-15T23:21:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "efc1dd472809ea9e",
+      "title_orig": "New anti-government chants in Tehran after giant rallies abroad: reports",
+      "summary_orig": "Iran's current leadership was shaken by protest movement that peaked in January and were repressed by security forces in a crackdown that left thousands dead.",
+      "lang": "en",
+      "title_en": "New anti-government chants in Tehran after giant rallies abroad: reports",
+      "summary_en": "Iran's current leadership was shaken by protest movement that peaked in January and were repressed by security forces in a crackdown that left thousands dead.",
+      "title": "New anti-government chants in Tehran after giant rallies abroad: reports",
+      "summary": "Iran's current leadership was shaken by protest movement that peaked in January and were repressed by security forces in a crackdown that left thousands dead.",
+      "url": "https://www.japantimes.co.jp/news/2026/02/16/world/politics/anti-government-tehran-rallies/",
+      "source": "Latest articles - The Japan Times",
+      "published_at": "2026-02-15T23:11:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "1bf19027994c9afd",
       "title_orig": "Travel Insiders: Where this airport boss goes for a change of climate",
@@ -31,24 +103,6 @@
       "url": "https://www.abc.net.au/news/2026-02-16/israeli-air-strikes-days-before-board-of-peace-meeting/106348162",
       "source": "Just In",
       "published_at": "2026-02-15T22:58:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bf8db5c36c825998",
-      "title_orig": "Floods, power outages, smashed buildings - the Wellington area’s been hit hard",
-      "summary_orig": "Evacuations, flooding, power outages and major travel disruption in Wellington as severe weather strikes much of NZ.",
-      "lang": "en",
-      "title_en": "Floods, power outages, smashed buildings - the Wellington area’s been hit hard",
-      "summary_en": "Evacuations, flooding, power outages and major travel disruption in Wellington as severe weather strikes much of NZ.",
-      "title": "Floods, power outages, smashed buildings - the Wellington area’s been hit hard",
-      "summary": "Evacuations, flooding, power outages and major travel disruption in Wellington as severe weather strikes much of NZ.",
-      "url": "https://www.stuff.co.nz/nz-news/360937669/new-zealand-weather-live-blog",
-      "source": "Stuff - /",
-      "published_at": "2026-02-15T22:56:51+00:00",
       "tags": [
         "airport/security"
       ],
@@ -794,24 +848,6 @@
       "geo": {}
     },
     {
-      "id": "eb1ac3abcc759b88",
-      "title_orig": "Ukraine-Russia war latest: Moscow and Kyiv trade deadly strikes ahead of US-backed peace talks",
-      "summary_orig": "Another round of US-brokered peace talks will take place on Tuesday and Wednesday in Geneva",
-      "lang": "en",
-      "title_en": "Ukraine-Russia war latest: Moscow and Kyiv trade deadly strikes ahead of US-backed peace talks",
-      "summary_en": "Another round of US-brokered peace talks will take place on Tuesday and Wednesday in Geneva",
-      "title": "Ukraine-Russia war latest: Moscow and Kyiv trade deadly strikes ahead of US-backed peace talks",
-      "summary": "Another round of US-brokered peace talks will take place on Tuesday and Wednesday in Geneva",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-zelensky-peace-talks-offensive-latest-b2920743.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-15T16:00:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ad14b32bc68f8cab",
       "title_orig": "Finn Russell gets Scotland Six Nations Valentine's Day love bomb but concerns grow over injuries",
       "summary_orig": "Stand-off shines to leave Townsend purring over performance",
@@ -863,24 +899,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "beb026d235b90879",
-      "title_orig": "Iran Protester Dies in Custody, Raising Fears of Execution",
-      "summary_orig": "Rights groups are investigating the death of Ali Rahbar as a potential extrajudicial killing. Iran denies executions have taken place.",
-      "lang": "en",
-      "title_en": "Iran Protester Dies in Custody, Raising Fears of Execution",
-      "summary_en": "Rights groups are investigating the death of Ali Rahbar as a potential extrajudicial killing. Iran denies executions have taken place.",
-      "title": "Iran Protester Dies in Custody, Raising Fears of Execution",
-      "summary": "Rights groups are investigating the death of Ali Rahbar as a potential extrajudicial killing. Iran denies executions have taken place.",
-      "url": "https://www.nytimes.com/2026/02/15/world/middleeast/ali-rahbar-iran-protester.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-15T15:32:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1460,24 +1478,6 @@
       "geo": {}
     },
     {
-      "id": "1284d10fc6ac9d48",
-      "title_orig": "On the Agenda: What's happening in Italy this week",
-      "summary_orig": "From air travel strikes to Lent celebrations, here's what to expect in Italy this week.",
-      "lang": "en",
-      "title_en": "On the Agenda: What's happening in Italy this week",
-      "summary_en": "From air travel strikes to Lent celebrations, here's what to expect in Italy this week.",
-      "title": "On the Agenda: What's happening in Italy this week",
-      "summary": "From air travel strikes to Lent celebrations, here's what to expect in Italy this week.",
-      "url": "https://www.thelocal.it/20260215/on-the-agenda-whats-happening-in-italy-this-week-160",
-      "source": "The Local Italy",
-      "published_at": "2026-02-15T07:58:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "26e0da21a84f01f0",
       "title_orig": "‘White-Collar’ terror probe: Doctors formed outfit ‘Ansar Interim’ for J-K, hinterland strikes",
       "summary_orig": "The case, which is now being probed by the NIA, also brings to light that Dr Umer-un Nabi -- the man behind the wheel of the explosive-laden car.",
@@ -1705,24 +1705,6 @@
       "url": "https://www.dawn.com/news/1973265/jail-is-a-place-for-worship-zardari-tells-imran",
       "source": "Dawn - Home",
       "published_at": "2026-02-15T05:14:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2b005a1c7ccfdbdf",
-      "title_orig": "Phoenix blown off top spot as Mariners strike in Porirua wind",
-      "summary_orig": "Wellington Phoenix have sunk to second on the A-League Women table after suffering a 2-1 defeat against the Central Coast Mariners in atrocious conditions.",
-      "lang": "en",
-      "title_en": "Phoenix blown off top spot as Mariners strike in Porirua wind",
-      "summary_en": "Wellington Phoenix have sunk to second on the A-League Women table after suffering a 2-1 defeat against the Central Coast Mariners in atrocious conditions.",
-      "title": "Phoenix blown off top spot as Mariners strike in Porirua wind",
-      "summary": "Wellington Phoenix have sunk to second on the A-League Women table after suffering a 2-1 defeat against the Central Coast Mariners in atrocious conditions.",
-      "url": "https://www.stuff.co.nz/sport/360935244/stunning-free-kick-ends-phoenixs-run-rain-swept-porirua-park",
-      "source": "Stuff - /",
-      "published_at": "2026-02-15T05:01:37+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1964,24 +1946,6 @@
       "geo": {}
     },
     {
-      "id": "a4ae11d50d3ddba3",
-      "title_orig": "Airlines told to cancel Paris flights on Sunday amid snow warnings in France",
-      "summary_orig": "The French civil aviation authority has told airlines to restrict flights in and out of Paris airports on Sunday because of predicted snow and ice.",
-      "lang": "en",
-      "title_en": "Airlines told to cancel Paris flights on Sunday amid snow warnings in France",
-      "summary_en": "The French civil aviation authority has told airlines to restrict flights in and out of Paris airports on Sunday because of predicted snow and ice.",
-      "title": "Airlines told to cancel Paris flights on Sunday amid snow warnings in France",
-      "summary": "The French civil aviation authority has told airlines to restrict flights in and out of Paris airports on Sunday because of predicted snow and ice.",
-      "url": "https://www.thelocal.fr/20260214/airlines-told-to-cancel-paris-flights-on-sunday-amid-snow-warnings-in-france",
-      "source": "The Local France",
-      "published_at": "2026-02-14T18:38:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e703da589aa6d49c",
       "title_orig": "Airspace over Dublin Airport closed at intervals this morning due to air control staffing issues",
       "summary_orig": "Areas of Irish airspace have been closed more than 10 times since the beginning of the year due to staff shortages in air traffic control, The Journal reported earlier this week.",
@@ -2024,24 +1988,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "134b039789daab85",
-      "title_orig": "Stray dog attack kills five-year-old girl in Uttar Pradesh's Dhaneipur",
-      "summary_orig": "Despite being rushed to a health center, she succumbed to her injuries. Local officials promised to take action against the stray dogs.",
-      "lang": "en",
-      "title_en": "Stray dog attack kills five-year-old girl in Uttar Pradesh's Dhaneipur",
-      "summary_en": "Despite being rushed to a health center, she succumbed to her injuries. Local officials promised to take action against the stray dogs.",
-      "title": "Stray dog attack kills five-year-old girl in Uttar Pradesh's Dhaneipur",
-      "summary": "Despite being rushed to a health center, she succumbed to her injuries. Local officials promised to take action against the stray dogs.",
-      "url": "https://www.hindustantimes.com/india-news/stray-dog-attack-kills-five-year-old-girl-in-uttar-pradeshs-dhaneipur-101771084079749.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2026-02-14T15:54:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2195,42 +2141,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "78db656a8b80042f",
-      "title_orig": "Water leak and ticket fraud charges add to Louvre woes",
-      "summary_orig": "After a break-in and strikes, a ticket fraud scandal and a water leak on Friday brought new troubles to France's Louvre museum.",
-      "lang": "en",
-      "title_en": "Water leak and ticket fraud charges add to Louvre woes",
-      "summary_en": "After a break-in and strikes, a ticket fraud scandal and a water leak on Friday brought new troubles to France's Louvre museum.",
-      "title": "Water leak and ticket fraud charges add to Louvre woes",
-      "summary": "After a break-in and strikes, a ticket fraud scandal and a water leak on Friday brought new troubles to France's Louvre museum.",
-      "url": "https://www.thelocal.fr/20260214/water-leak-and-ticket-fraud-charges-add-to-louvre-woes",
-      "source": "The Local France",
-      "published_at": "2026-02-14T08:39:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cd5f38e3aa92e325",
-      "title_orig": "German spy chief warns of Russian threat to local polls",
-      "summary_orig": "Germany's foreign intelligence chief warned Friday that Russia is planning to target high-stakes regional elections this year with \"hybrid\" attacks, and called for Berlin to consider \"counter-measures\" against the growing threat.",
-      "lang": "en",
-      "title_en": "German spy chief warns of Russian threat to local polls",
-      "summary_en": "Germany's foreign intelligence chief warned Friday that Russia is planning to target high-stakes regional elections this year with \"hybrid\" attacks, and called for Berlin to consider \"counter-measures\" against the growing threat.",
-      "title": "German spy chief warns of Russian threat to local polls",
-      "summary": "Germany's foreign intelligence chief warned Friday that Russia is planning to target high-stakes regional elections this year with \"hybrid\" attacks, and called for Berlin to consider \"counter-measures\" against the growing threat.",
-      "url": "https://www.thelocal.de/20260214/german-spy-chief-warns-of-russian-threat-to-local-polls",
-      "source": "The Local Germany",
-      "published_at": "2026-02-14T08:30:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2486,24 +2396,6 @@
       "geo": {}
     },
     {
-      "id": "10e8cddebe51ec6b",
-      "title_orig": "UPDATE: Flights resume at Cologne-Bonn airport after security incident",
-      "summary_orig": "Passengers flying from Cologne-Bonn airport were facing disruption on Friday after flights were grounded due to a security incident that may have been connected to a technical issue.",
-      "lang": "en",
-      "title_en": "UPDATE: Flights resume at Cologne-Bonn airport after security incident",
-      "summary_en": "Passengers flying from Cologne-Bonn airport were facing disruption on Friday after flights were grounded due to a security incident that may have been connected to a technical issue.",
-      "title": "UPDATE: Flights resume at Cologne-Bonn airport after security incident",
-      "summary": "Passengers flying from Cologne-Bonn airport were facing disruption on Friday after flights were grounded due to a security incident that may have been connected to a technical issue.",
-      "url": "https://www.thelocal.de/20260213/breaking-flights-suspended-at-cologne-bonn-airport-due-to-security-incident",
-      "source": "The Local Germany",
-      "published_at": "2026-02-13T08:08:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "da25e66e943fc16d",
       "title_orig": "Press Release: Air Canada discloses order for eight Airbus A350-1000s",
       "summary_orig": "Air Canada has disclosed a firm order for eight Airbus A350-1000 aircraft, marking a pivotal upgrade to the airline’s long-haul fleet strategy with an additional commitment to Airbus widebody aircraft. The order was listed as undisclosed in November 2025.  The A350-1000’s economics and lower operating costs will deliver a significant competitive advantage to Air Canada.... The post Press Release: Air Canada discloses order for eight Airbus A350-1000s appeared first on Runway Girl .",
@@ -2551,24 +2443,6 @@
       "url": "https://runwaygirlnetwork.com/2026/02/passenger-experience-conference-2026-wellness-sustainability/",
       "source": "Runway Girl",
       "published_at": "2026-02-12T14:00:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "55b017ea1597076b",
-      "title_orig": "Flights in Denmark cancelled amid major Lufthansa strike",
-      "summary_orig": "A strike at Germany's largest airline Lufthansa on Thursday has resulted in a number of flight cancellations in Denmark.",
-      "lang": "en",
-      "title_en": "Flights in Denmark cancelled amid major Lufthansa strike",
-      "summary_en": "A strike at Germany's largest airline Lufthansa on Thursday has resulted in a number of flight cancellations in Denmark.",
-      "title": "Flights in Denmark cancelled amid major Lufthansa strike",
-      "summary": "A strike at Germany's largest airline Lufthansa on Thursday has resulted in a number of flight cancellations in Denmark.",
-      "url": "https://www.thelocal.dk/20260212/flights-in-denmark-cancelled-amid-major-lufthansa-strike",
-      "source": "The Local Denmark",
-      "published_at": "2026-02-12T12:11:02+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3010,24 +2884,6 @@
       "url": "https://www.latimes.com/california/story/2026-01-27/hollywood-burbank-airport-could-be-at-risk-of-midair-collision-u-s-transportation-official-says",
       "source": "World & Nation",
       "published_at": "2026-01-28T04:23:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d22883249d003fc3",
-      "title_orig": "UPDATED: The transport strikes to expect in Italy in February 2026",
-      "summary_orig": "A handful of strikes have been announced for February in Italy, affecting air travel, trains, and local public transport.",
-      "lang": "en",
-      "title_en": "UPDATED: The transport strikes to expect in Italy in February 2026",
-      "summary_en": "A handful of strikes have been announced for February in Italy, affecting air travel, trains, and local public transport.",
-      "title": "UPDATED: The transport strikes to expect in Italy in February 2026",
-      "summary": "A handful of strikes have been announced for February in Italy, affecting air travel, trains, and local public transport.",
-      "url": "https://www.thelocal.it/20260120/key-dates-the-transport-strikes-to-expect-in-italy-in-february-2026",
-      "source": "The Local Italy",
-      "published_at": "2026-01-20T09:05:24+00:00",
       "tags": [
         "airport/security"
       ],
