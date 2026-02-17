@@ -1,6 +1,186 @@
 {
-  "generated_at": "2026-02-17T21:09:26.959551+00:00",
+  "generated_at": "2026-02-17T22:00:11.397060+00:00",
   "items": [
+    {
+      "id": "741d34949cd996af",
+      "title_orig": "Shooter killed ex-wife and son in Rhode Island ice rink attack, police say",
+      "summary_orig": "The Pawtucket police chief identified the two victims who died in the shooting Tuesday. Three more victims are still in the hospital.",
+      "lang": "en",
+      "title_en": "Shooter killed ex-wife and son in Rhode Island ice rink attack, police say",
+      "summary_en": "The Pawtucket police chief identified the two victims who died in the shooting Tuesday. Three more victims are still in the hospital.",
+      "title": "Shooter killed ex-wife and son in Rhode Island ice rink attack, police say",
+      "summary": "The Pawtucket police chief identified the two victims who died in the shooting Tuesday. Three more victims are still in the hospital.",
+      "url": "https://www.kgw.com/article/news/nation-world/pawtucket-shooting-ice-rink-victims-update/507-09057324-3a9a-4151-ad64-8cb451c4c2e1",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-02-17T21:44:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8ad8015fcb5c84ae",
+      "title_orig": "Anaheim man pleads not guilty to posting threats against VP Vance during Disneyland visit",
+      "summary_orig": "An Anaheim man accused of posting online death threats against Vice President J.D. Vance during a family trip to Disneyland last year has pleaded not guilty. Back in July 2025, Marco Aguayo allegedly posted a pipe bomb threat on the theme park’s Instagram on the same day the vice president and his family were visiting [...]",
+      "lang": "en",
+      "title_en": "Anaheim man pleads not guilty to posting threats against VP Vance during Disneyland visit",
+      "summary_en": "An Anaheim man accused of posting online death threats against Vice President J.D. Vance during a family trip to Disneyland last year has pleaded not guilty. Back in July 2025, Marco Aguayo allegedly posted a pipe bomb threat on the theme park’s Instagram on the same day the vice president and his family were visiting [...]",
+      "title": "Anaheim man pleads not guilty to posting threats against VP Vance during Disneyland visit",
+      "summary": "An Anaheim man accused of posting online death threats against Vice President J.D. Vance during a family trip to Disneyland last year has pleaded not guilty. Back in July 2025, Marco Aguayo allegedly posted a pipe bomb threat on the theme park’s Instagram on the same day the vice president and his family were visiting [...]",
+      "url": "https://ktla.com/news/orange-county/anaheim-man-pleads-not-guilty-to-posting-threats-against-vp-vance-during-disneyland-visit/",
+      "source": "KTLA",
+      "published_at": "2026-02-17T21:31:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d83bb9b678b5cf3a",
+      "title_orig": "Ukraine-Russia war latest: Woman killed in latest Putin strikes after ‘tense’ US-backed talks in Geneva",
+      "summary_orig": "Moscow pressures Kyiv further with more than 400 drones and missiles",
+      "lang": "en",
+      "title_en": "Ukraine-Russia war latest: Woman killed in latest Putin strikes after ‘tense’ US-backed talks in Geneva",
+      "summary_en": "Moscow pressures Kyiv further with more than 400 drones and missiles",
+      "title": "Ukraine-Russia war latest: Woman killed in latest Putin strikes after ‘tense’ US-backed talks in Geneva",
+      "summary": "Moscow pressures Kyiv further with more than 400 drones and missiles",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-map-offensive-putin-zelensky-news-b2921605.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-17T21:20:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "cef8784ff3f0f1fc",
+      "title_orig": "Police assessing records of private flights at Stansted after publication of Epstein files",
+      "summary_orig": "Move comes after Gordon Brown’s claim that files show sex offender used airport in Essex to ‘fly in girls’ Police are assessing information about private flights to and from Stansted airport after the publication of millions of files relating to the convicted sex offender Jeffrey Epstein. It comes after former prime minister Gordon Brown claimed that the newly published files showed in “graphic detail” how Epstein was able to use the Essex-based airport to “fly in girls from Latvia, Lithuania and Russia”. Continue reading...",
+      "lang": "en",
+      "title_en": "Police assessing records of private flights at Stansted after publication of Epstein files",
+      "summary_en": "Move comes after Gordon Brown’s claim that files show sex offender used airport in Essex to ‘fly in girls’ Police are assessing information about private flights to and from Stansted airport after the publication of millions of files relating to the convicted sex offender Jeffrey Epstein. It comes after former prime minister Gordon Brown claimed that the newly published files showed in “graphic detail” how Epstein was able to use the Essex-based airport to “fly in girls from Latvia, Lithuania and Russia”. Continue reading...",
+      "title": "Police assessing records of private flights at Stansted after publication of Epstein files",
+      "summary": "Move comes after Gordon Brown’s claim that files show sex offender used airport in Essex to ‘fly in girls’ Police are assessing information about private flights to and from Stansted airport after the publication of millions of files relating to the convicted sex offender Jeffrey Epstein. It comes after former prime minister Gordon Brown claimed that the newly published files showed in “graphic detail” how Epstein was able to use the Essex-based airport to “fly in girls from Latvia, Lithuania and Russia”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/feb/17/police-private-flights-stansted-publication-epstein-files",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-17T21:16:18+00:00",
+      "tags": [
+        "STN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Stansted",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "STN",
+        "lat": 51.885,
+        "lon": 0.235
+      }
+    },
+    {
+      "id": "54ba8327491c0c83",
+      "title_orig": "Independent journalist, Black Lives Matter co-founder plead not guilty to federal charges tied to St. Paul church protest",
+      "summary_orig": "Another protester pleaded not guilty to their charges during the brief arraignment.",
+      "lang": "en",
+      "title_en": "Independent journalist, Black Lives Matter co-founder plead not guilty to federal charges tied to St. Paul church protest",
+      "summary_en": "Another protester pleaded not guilty to their charges during the brief arraignment.",
+      "title": "Independent journalist, Black Lives Matter co-founder plead not guilty to federal charges tied to St. Paul church protest",
+      "summary": "Another protester pleaded not guilty to their charges during the brief arraignment.",
+      "url": "https://www.startribune.com/independent-journalist-black-lives-matter-co-founder-plead-not-guilty-to-federal-charges-tied-to-st-paul-church-protest/601583398",
+      "source": "Startribune News",
+      "published_at": "2026-02-17T21:14:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0ed3d3f70d59d953",
+      "title_orig": "Flood victims threatened with edged weapon outside evacuation centre",
+      "summary_orig": "As Daly River flood evacuees near their second full week in Darwin, residents staying at the showgrounds say they feel scared after a group was threatened with an edged weapon on Monday morning.",
+      "lang": "en",
+      "title_en": "Flood victims threatened with edged weapon outside evacuation centre",
+      "summary_en": "As Daly River flood evacuees near their second full week in Darwin, residents staying at the showgrounds say they feel scared after a group was threatened with an edged weapon on Monday morning.",
+      "title": "Flood victims threatened with edged weapon outside evacuation centre",
+      "summary": "As Daly River flood evacuees near their second full week in Darwin, residents staying at the showgrounds say they feel scared after a group was threatened with an edged weapon on Monday morning.",
+      "url": "https://www.abc.net.au/news/2026-02-18/nt-daly-river-flooding-foskey-evacuation-centre-weapon-incident/106354738",
+      "source": "Just In",
+      "published_at": "2026-02-17T21:12:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ded84c16d0f3b21d",
+      "title_orig": "Mountain town calls for change after cyclone cuts road again",
+      "summary_orig": "The remote mountain community of Eungella was cut off for the second time in three years after Cyclone Koji brought debris down on the range road. After years of inaction, the community want more options when severe weather strikes again.",
+      "lang": "en",
+      "title_en": "Mountain town calls for change after cyclone cuts road again",
+      "summary_en": "The remote mountain community of Eungella was cut off for the second time in three years after Cyclone Koji brought debris down on the range road. After years of inaction, the community want more options when severe weather strikes again.",
+      "title": "Mountain town calls for change after cyclone cuts road again",
+      "summary": "The remote mountain community of Eungella was cut off for the second time in three years after Cyclone Koji brought debris down on the range road. After years of inaction, the community want more options when severe weather strikes again.",
+      "url": "https://www.abc.net.au/news/2026-02-18/call-for-road-upgrades-after-cyclone-isolates-north-qld-town/106341980",
+      "source": "Just In",
+      "published_at": "2026-02-17T21:12:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8cebf25009142f38",
+      "title_orig": "Police are assessing claims ‘women flown into Stansted Airport’ on Epstein private flights",
+      "summary_orig": "Gordon Brown shocked to read emails about paedophile financier boasting he could transport girls from Latvia, Lithuania and Russia",
+      "lang": "en",
+      "title_en": "Police are assessing claims ‘women flown into Stansted Airport’ on Epstein private flights",
+      "summary_en": "Gordon Brown shocked to read emails about paedophile financier boasting he could transport girls from Latvia, Lithuania and Russia",
+      "title": "Police are assessing claims ‘women flown into Stansted Airport’ on Epstein private flights",
+      "summary": "Gordon Brown shocked to read emails about paedophile financier boasting he could transport girls from Latvia, Lithuania and Russia",
+      "url": "https://www.standard.co.uk/news/crime/essex-police-andrew-women-stansted-airport-jeffrey-epstein-private-flights-b1271417.html",
+      "source": "The Standard News",
+      "published_at": "2026-02-17T21:06:23+00:00",
+      "tags": [
+        "STN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Stansted",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "STN",
+        "lat": 51.885,
+        "lon": 0.235
+      }
+    },
+    {
+      "id": "7c5695726de4c943",
+      "title_orig": "Suspect in Taylor Swift Vienna concert plot faces terrorism charges",
+      "summary_orig": "Three Taylor Swift shows were canceled in Vienna in August 2024 over fears of an attack.",
+      "lang": "en",
+      "title_en": "Suspect in Taylor Swift Vienna concert plot faces terrorism charges",
+      "summary_en": "Three Taylor Swift shows were canceled in Vienna in August 2024 over fears of an attack.",
+      "title": "Suspect in Taylor Swift Vienna concert plot faces terrorism charges",
+      "summary": "Three Taylor Swift shows were canceled in Vienna in August 2024 over fears of an attack.",
+      "url": "https://www.syracuse.com/entertainment/2026/02/suspect-in-taylor-swift-vienna-concert-plot-faces-terrorism-charges.html",
+      "source": "syracuse.com",
+      "published_at": "2026-02-17T21:03:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "3eaae4eb440e8628",
       "title_orig": "Video captures shocking broad daylight attack on New Westminster senior",
@@ -272,24 +452,6 @@
       "geo": {}
     },
     {
-      "id": "8f548fd8dcad27f9",
-      "title_orig": "Photos of rifles, drones and missile footage at the Defense Tech Expo Israel 2026",
-      "summary_orig": "TEL AVIV, Israel (AP) — Rifles are lifted from display racks, drones hover above exhibition stands and large screens loop footage of missile launches inside the halls of Expo Tel Aviv convention center as it hosts the Defense Tech Expo Israel 2026. The gathering brings together Israeli defense companies, foreign delegations and investors to present […]",
-      "lang": "en",
-      "title_en": "Photos of rifles, drones and missile footage at the Defense Tech Expo Israel 2026",
-      "summary_en": "TEL AVIV, Israel (AP) — Rifles are lifted from display racks, drones hover above exhibition stands and large screens loop footage of missile launches inside the halls of Expo Tel Aviv convention center as it hosts the Defense Tech Expo Israel 2026. The gathering brings together Israeli defense companies, foreign delegations and investors to present […]",
-      "title": "Photos of rifles, drones and missile footage at the Defense Tech Expo Israel 2026",
-      "summary": "TEL AVIV, Israel (AP) — Rifles are lifted from display racks, drones hover above exhibition stands and large screens loop footage of missile launches inside the halls of Expo Tel Aviv convention center as it hosts the Defense Tech Expo Israel 2026. The gathering brings together Israeli defense companies, foreign delegations and investors to present […]",
-      "url": "https://www.seattletimes.com/business/photos-of-rifles-drones-and-missile-footage-at-the-defense-tech-expo-israel-2026/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-17T19:22:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "416965687564fcb4",
       "title_orig": "Diggers at 'UK's worst illegal dump' in Wigan seen scrapping waste on King Charles' land",
       "summary_orig": "Drone images appear to show two excavators moving rubbish from one area of the sprawling site and dumping it on land belonging to the Duchy of Lancaster",
@@ -400,12 +562,12 @@
     {
       "id": "7d4c47af98f5fdd0",
       "title_orig": "France detains nine suspects over far-right activist's killing",
-      "summary_orig": "French authorities on Tuesday arrested nine people over the fatal beating of a 23-year-old far-right activist on the sidelines of a protest in Lyon last week, an attack that has heightened political tensions ahead of key elections.",
+      "summary_orig": "French authorities on Tuesday arrested nine people over the fatal beating of a 23-year-old far-right activist on the sidelines of a protest in Lyon last week. The attack has heightened political tensions ahead of key elections.",
       "lang": "en",
       "title_en": "France detains nine suspects over far-right activist's killing",
-      "summary_en": "French authorities on Tuesday arrested nine people over the fatal beating of a 23-year-old far-right activist on the sidelines of a protest in Lyon last week, an attack that has heightened political tensions ahead of key elections.",
+      "summary_en": "French authorities on Tuesday arrested nine people over the fatal beating of a 23-year-old far-right activist on the sidelines of a protest in Lyon last week. The attack has heightened political tensions ahead of key elections.",
       "title": "France detains nine suspects over far-right activist's killing",
-      "summary": "French authorities on Tuesday arrested nine people over the fatal beating of a 23-year-old far-right activist on the sidelines of a protest in Lyon last week, an attack that has heightened political tensions ahead of key elections.",
+      "summary": "French authorities on Tuesday arrested nine people over the fatal beating of a 23-year-old far-right activist on the sidelines of a protest in Lyon last week. The attack has heightened political tensions ahead of key elections.",
       "url": "https://www.france24.com/en/france/20260217-france-detains-four-suspects-over-far-right-activist-killing",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2026-02-17T18:58:46+00:00",
@@ -614,24 +776,6 @@
       "geo": {}
     },
     {
-      "id": "b44343ddaa4e6a55",
-      "title_orig": "Trump attacks Obama, Democrats in statement on death of Rev. Jesse Jackson",
-      "summary_orig": "In his statement, Trump claimed Jackson \"could not stand\" Obama, while also attacking Democrats.",
-      "lang": "en",
-      "title_en": "Trump attacks Obama, Democrats in statement on death of Rev. Jesse Jackson",
-      "summary_en": "In his statement, Trump claimed Jackson \"could not stand\" Obama, while also attacking Democrats.",
-      "title": "Trump attacks Obama, Democrats in statement on death of Rev. Jesse Jackson",
-      "summary": "In his statement, Trump claimed Jackson \"could not stand\" Obama, while also attacking Democrats.",
-      "url": "https://www.mlive.com/news/2026/02/trump-attacks-obama-democrats-in-statement-on-death-of-rev-jesse-jackson.html",
-      "source": "mlive.com",
-      "published_at": "2026-02-17T17:47:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8c7f495e62f64248",
       "title_orig": "Imran’s sisters, TTAP reject Naqvi’s account of events surrounding PTI founder’s medical examination",
       "summary_orig": "ISLAMABAD: Opposition alliance Tehreek Tahafuz Ayeen-i-Pakistan (TTAP), as well as incarcerated PTI founder Imran Khan’s sisters, rejected on Tuesday an account detailed by Interior Minister Mohsin Naqvi regarding the former prime minister’s medical examination. The TTAP particularly accused Naqvi of attempting to “distort” facts to “cover up the deteriorating health and treatment meted out to” the former prime minister. The allegations came in response to a press conference by Naqvi earlier in the day, who asserted that the government did not want to “politicise” the matter of PTI founder Imran Khan’s health and blamed the opposition for doing the same. The opposition, PTI and Imran’s family have voiced concerns over the former prime minister’s health after his eye ailment came to light late in January. Addressing the media in Lahore, Naqvi referred to the recent medical report prepared by a team of doctors who examined the jailed ex-premier on Sunday. “The medical report also came forward yesterday and everything is clear as per it. Neither we nor the government want to politicise this,” he said, adding that there were certain “requests” which the authorities allowed but were not suitable to publicise at the moment. “Putting up such a show is extremely inappropriate, especially misleading people,” the minister said. “Still, we picked our best government and private doctors because it had been three days and the checkup had not taken place,” he insisted. Naqvi said he then invited PTI Chairman Gohar Ali Khan to reach Rawalpindi’s Adiala jail on Sunday to witness Imran’s checkup but the former refused, citing party consultations. Detailing the communication between the authorities and the opposition, Naqvi said Gohar was given the time of 2:30pm. “We kept on waiting for an hour but Gohar sahib replied in the negative, that he has consulted with his party and would not be able to come.” “Our intention was that the checkup be performed in front of everyone,” he asserted, adding that the doctors were at the Adiala jail for about 1.25-1.5 hours for the examination. Naqvi stated that Gohar, along with the Senate and National Assembly opposition leaders — Allama Raja Nasir Abbas and Mehmood Khan Achakzai — and their preferred doctors, was then invited to Pakistan Institute of Medical Sciences (Pims) in Islamabad. There, the doctors who examined Imran briefed the opposition leaders as well as spoke on the phone to the “two doctors” named by the PTI, with each conversation lasting for about 45 minutes. “They asked each and everything,” Naqvi said about the PTI-recommended doctors. “Excellent. This is the best treatment. Even if we had to provide treatment, we would have done the same,” he quoted the doctors as saying. According to Naqvi, the opposition representatives also expressed satisfaction over the treatment and said they would inform their supporters about it. Asked about former KP chief minister Ali Amin Gandapur’s claims that Naqvi made unmatched efforts for Imran’s release, the minister said, “One thing, which is not new, is that I have believed from the first day that dialogue is the solution to everything. “This is not my personal opinion; the prime minister has also said what I say, and we are following those instructions. […] If you ask about my personal view, I always say talks are the [answer],” he said. Responding to another question, he said there were “sensible people” in every party and if they had been listened to, the “PTI would not have been in the current situation, nor would have done the May 9 things”. On whether any action was being taken against the former Adiala jail superintendent whom the PTI holds responsible for aggravating Imran’s health issue, Naqvi stated: “We will check with the Punjab government what they are doing on it. But they are on it.” ‘Politicians onboard but Aleema vetoed everything’ However, the minister claimed, Imran’s sister Aleema Khanum told the PTI that the “issue would die down” if the opposition accepted the government’s arrangements. “The medical checkup could not take place for three days just because of her. On one hand, they claim to have great empathy, relation and everything. On the other hand, politics has been done to the utmost over this.” The interior minister then questioned why roads were being blocked despite all the steps taken for Imran’s treatment. “If your intention was good, then you would have agreed on the first day. Almost all political leaders used to be on board but Aleema Khan sahiba vetoed them. She used to reject everything,” Naqvi said. “The problem is they want to cash this matter,” he contended. During his media talk, Naqvi recalled how the issue of Imran’s eye ailment came to light after the government confirmed that the PTI founder was taken to Pims for a minor procedure. He noted that the treatment was merely an injection that needed to be administered. The minister pointed out that “as a precaution, so there are no germs”, Imran was taken to the hospital, even though doctors suggested it could be done in jail. “I will tell you very clearly that when any prisoner needs treatment, it is our duty,” he affirmed, questioning whether all thousands of prisoners were accorded the same facilities as Imran was being provided. The interior minister said he believed that journalists should be provided with a tour of prisons so they could witness the facilities available there. Naqvi quipped that if the aim was political vendetta, then the first step would be to adopt a strict demeanour and restrict their facilities to what is provided to an ordinary prisoner as per the jail manual. “If we wanted to exact political revenge, the first step would be to [tighten] him,” he said. On the topic of the ongoing road blockades due to PTI protests, the minister said: “Our duty is to tell people to be aware of whatever cells in your party that are doing this; they are enemies of your people that have different objectives and want to do their own politics. “[…] It is now clear to me about at least some individuals that they are more worried about their politics than his (Imran’s) health.” The interior minister affirmed that the government would ensure the implementation of the recent Peshawar High Court (PHC) order that has directed the KP government and its police to reopen the roads. Demand for 1-week hospital admission Recalling previous contacts between the government and the opposition with the mediation of NA Speaker Sardar Ayaz Sadiq, Naqvi asserted: “We made one thing very clear that in the matter of treatment, we will provide whatever facility is available to any incarcerated person as per the Constitution and the law.” He stated that the government had sought the name of a “non-political” eye specialist for examining Imran, but the other side refused and insisted on a family member accompanying the doctor, which was also agreed to. “I am saying all this as it is on record and you can ask the PTI leaders about this,” the minister affirmed. He further said that the name of Kasim, who he said was a cousin, was also given by the party to come along, which was allowed. “When both things had taken place, they said ‘no, not like this, you must admit him to a hospital for a week and we will not accept anything else’,” Naqvi claimed. The minister said the authorities would “100 per cent” have Imran hospitalised for “even two weeks” given that the doctors recommended it. “But if the doctors do not recommend, then how can we have him admitted?” he asked. “It is not possible that just on your recommendation we admit him to hospital for one week.” Separately, Parliamentary Affairs Minister Tariq Fazal Chaudhry posted on social media platform X that Imran would be administered an injection in the next few days, and a second injection would be administered after a month. The minister said this was expected to lead to further improvement in Imran’s condition, adding: “His (Imran’s) treatment will continue at the best hospital of Islamabad/ Rawalpindi and under the supervision of expert doctors.” Chaudhry asserted that Imran’s family was taken into confidence at every stage. He further said: “The government clarifies that no negligence will be committed. All prisoners are equal for us and their health is the state’s responsibility. “Politicisation should be avoided on this matter, and baseless doubts should not be spread.” The minister alleged that the PTI was “giving a political colour to this sensitive matter to hide its internal divide”. TTAP terms Naqvi’s presser contrary to facts Opposition alliance Tehreek Tahafuz Ayeen-i-Pakistan (TTAP) termed Naqvi’s press conference “blatantly misleading and contrary to the facts”. In a statement, the opposition alliance said that the government was attempting to “distort” facts and create a “fabricated narrative to cover up the deteriorating health and treatment meted out to” the incarcerated former premier. “Concealing the facts from the nation is unacceptable,” the TTAP said. It added that the “distrust of government doctors and demand for the presence of Imran’s personal physician during the medical examination was not an act of stubbornness but rather a unanimous decision taken by his family, the leadership of PTI and the TTAP”. It said that only the incarcerated leader’s family “has the right to make a decision regarding his health”. The opposition alliance reiterated its demand for Imran’s personal physicians to be present, stressing that inviting the political leadership “was just a facade”. It also claimed that the “prolonged solitary confinement in which Imran has been kept comes under the category of torture, as per international human rights standards”. It recalled that Imran last met his personal physician in November 2024, while meetings with family “have remained suspended for two-and-a-half months”. It added that under such circumstances, “claiming that he was being given the best of facilities was a mockery of truth”. The TTAP warned the government “against attempts to suppress the truth, distort facts, and cover up rights violations”. Imran’s sisters dispute Naqvi’s account Separately, Imran’s sisters — Aleema, Uzma Khanum and Noreen Niazi — also disputed Naqvi’s account while addressing a press conference in Islamabad. First to speak among them, Aleema, said the daughter and sister-in-law of Imran’s wife, Bushra Bibi, had conveyed a message by the former premier after they met the latter at the Adiala jail today. Aleema said Imran had complained about the condition of his eye and asked for his reports to be shared with his personal physicians, Dr Faisal Sultan and Dr Aasim Yusuf. “Imran Khan has also said that his blood tests should be conducted and that the results be shared with his personal physicians,” Aleema added. “I ask why he is saying so,” she added, without further elaborating on the remark. She further said that Imran had stated that his vision had been perfect but he began facing problems around three months back. “He said he conveyed to the jail superintendent that he was unable to see, but no one bothered to provide him medical treatment for three weeks.” Aleema said Imran had also suggested initiating a case of criminal negligence against the jail superintendent. She maintained that “we had demanded that Imran be moved to Shifa International Hospital, and the government initially agreed to it. But, they suddenly said later that he would be moved to Al Shifa Eye Hospital”. Moreover, she continued, they had also shared the names with the government of the doctors they wanted to examine Imran. “But we were told that we should change the names, so we changed the names. Later, we suggested that Dr Nosherwan Barki be allowed to meet Imran Khan, but we got the message that it was not possible,” she claimed. Aleema also claimed that before leaving for a visit to Sri Lanka, Naqvi had given them the guarantee that Imran would be treated at Shifa International Hospital, but the commitment was not fulfilled. “They (government) said that [Imran’s] sisters will not be allowed to meet him. We accepted it and suggested that doctors should be allowed to meet Imran Khan, but that suggestion was also rejected,” she said. Aleema went on to say that if Naqvi was not afraid of Imran, he should allow moving the PTI founder to Shifa International. “They are scared of Imran Khan,” she asserted, urging “all Pakistanis” to raise their voice for the former premier. Speaking after Aleema, Uzma claimed she had received a “call from the government” and was informed that Imran’s cousin, Qasim Zaman, could be allowed to visit him. “I replied that Dr Barki and Dr Yusuf should be sent instead,” she said, further claiming that she was told that it was “not acceptable”. Uzma went on to claim that she was later informed that while Imran’s family would not be allowed access to him, Dr Yusuf could visit him. But, even he was not allowed, she added. She accused the doctors who had signed Imran’s medical report of “derailing their credibility”, saying that the report neither detailed any diagnosis nor any treatment plan. Uzma further maintained that “we have received messages from doctors from around the world that the report was not prepared by doctors. That is why we were demanding that at least one doctor of our choice be included in the medical board [for Imran]”. She also said that “an injection cannot be administered in jail”. “We do not know what kind of injection was administered to Imran. Was it an injection of poison?” she asked, adding that during her last meeting with Imran, he had expressed the fear that he would be killed in jail. PTI takes exception to minister’s remarks Meanwhile, the PTI took exception to Naqvi’s remarks regarding Imran, wherein he said that if the government wanted to harm the former premier it would have done so at the jail. “Given credible reports of vision loss, this statement is deeply alarming. A senior official openly implying deliberate worsening of custody conditions raises serious concerns about hidden mistreatment,” the party said on X. “Public threats on national TV make it legitimate to question humane treatment in prolonged solitary confinement without independent medical oversight, family contact or transparency,” the party said. “Prolonged solitary confinement is internationally recognised as harmful, especially with pre-existing conditions. Combined with deteriorating eyesight and treatment secrecy, the threat to ‘tighten’ conditions becomes far more sinister,” it said. “This is not mere rhetoric; it concerns actual custodial reality. A state claiming rule of law must prove it through actions, not threats. When power lacks transparency and such insinuations are normalised, the risk of custodial abuse becomes urgent and credible,” it added.",
@@ -668,24 +812,6 @@
       "geo": {}
     },
     {
-      "id": "7db4c884ce9e5557",
-      "title_orig": "Ohio Supreme Court strikes down media restrictions in FirstEnergy bribery trial",
-      "summary_orig": "The state's high court said media should be allowed to hear why certain witnesses don't want to be photographed or recorded.",
-      "lang": "en",
-      "title_en": "Ohio Supreme Court strikes down media restrictions in FirstEnergy bribery trial",
-      "summary_en": "The state's high court said media should be allowed to hear why certain witnesses don't want to be photographed or recorded.",
-      "title": "Ohio Supreme Court strikes down media restrictions in FirstEnergy bribery trial",
-      "summary": "The state's high court said media should be allowed to hear why certain witnesses don't want to be photographed or recorded.",
-      "url": "https://www.cleveland.com/court-justice/2026/02/ohio-supreme-court-strikes-down-media-restrictions-in-firstenergy-bribery-trial.html",
-      "source": "cleveland.com",
-      "published_at": "2026-02-17T17:31:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "66a942272b46c529",
       "title_orig": "Plans to set up permanent police drone team in Edinburgh under way according to report",
       "summary_orig": "Plans are under way to set up a permanent police drone team in Edinburgh, according to a policing body report.",
@@ -715,24 +841,6 @@
       "url": "https://www.yorkshireeveningpost.co.uk/news/politics/leeds-city-council-staff-to-vote-over-strike-action-in-dispute-5601349",
       "source": "Yorkshire Evening Post",
       "published_at": "2026-02-17T17:28:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "46c6a03c0fc8250b",
-      "title_orig": "Trump family business files for trademark rights on any airports using the president’s name",
-      "summary_orig": "The Trump family company wants to trademark the use of the president’s name on any airports but says it doesn’t plan on charging a fee — at least for a proposed renaming of one near his Florida home.",
-      "lang": "en",
-      "title_en": "Trump family business files for trademark rights on any airports using the president’s name",
-      "summary_en": "The Trump family company wants to trademark the use of the president’s name on any airports but says it doesn’t plan on charging a fee — at least for a proposed renaming of one near his Florida home.",
-      "title": "Trump family business files for trademark rights on any airports using the president’s name",
-      "summary": "The Trump family company wants to trademark the use of the president’s name on any airports but says it doesn’t plan on charging a fee — at least for a proposed renaming of one near his Florida home.",
-      "url": "https://www.seattletimes.com/business/trump-family-business-files-for-trademark-rights-on-any-airports-using-the-presidents-name/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-17T17:25:12+00:00",
       "tags": [
         "airport/security"
       ],
@@ -823,24 +931,6 @@
       "url": "https://www.belfastlive.co.uk/news/northern-ireland/co-tyrone-man-accused-attempted-33440899",
       "source": "BelfastLive - Home",
       "published_at": "2026-02-17T17:01:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d83bb9b678b5cf3a",
-      "title_orig": "Ukraine-Russia war latest: Putin launches 400 drones in huge attack hours before US-backed talks in Geneva",
-      "summary_orig": "Ukrainian forces assessed to have taken back over 78 sq miles as diplomats gather for talks in Geneva",
-      "lang": "en",
-      "title_en": "Ukraine-Russia war latest: Putin launches 400 drones in huge attack hours before US-backed talks in Geneva",
-      "summary_en": "Ukrainian forces assessed to have taken back over 78 sq miles as diplomats gather for talks in Geneva",
-      "title": "Ukraine-Russia war latest: Putin launches 400 drones in huge attack hours before US-backed talks in Geneva",
-      "summary": "Ukrainian forces assessed to have taken back over 78 sq miles as diplomats gather for talks in Geneva",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-map-offensive-putin-zelensky-news-b2921605.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-17T16:59:59+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1111,24 +1201,6 @@
       "url": "https://www.thelocal.it/20260217/key-dates-the-transport-strikes-to-expect-in-italy-in-march-2026",
       "source": "The Local Italy",
       "published_at": "2026-02-17T14:55:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0d4c932c0d5032db",
-      "title_orig": "Men face higher heart attack risk at younger ages: Study",
-      "summary_orig": "The differences in heart attack risk between men and women emerge at age 35, with men developing cardiovascular disease at an earlier age than women, according to new study published in the Journal of the American Heart Association.",
-      "lang": "en",
-      "title_en": "Men face higher heart attack risk at younger ages: Study",
-      "summary_en": "The differences in heart attack risk between men and women emerge at age 35, with men developing cardiovascular disease at an earlier age than women, according to new study published in the Journal of the American Heart Association.",
-      "title": "Men face higher heart attack risk at younger ages: Study",
-      "summary": "The differences in heart attack risk between men and women emerge at age 35, with men developing cardiovascular disease at an earlier age than women, according to new study published in the Journal of the American Heart Association.",
-      "url": "https://www.kxan.com/news/simplehealth/men-face-higher-heart-attack-risk-at-younger-ages-study/",
-      "source": "KXAN Austin",
-      "published_at": "2026-02-17T14:52:24+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1938,24 +2010,6 @@
       "geo": {}
     },
     {
-      "id": "39ec98da2cca03ec",
-      "title_orig": "US citizen jailed in Russia after trying to take Kalashnikov rifles out of Moscow airport",
-      "summary_orig": "The U.S. State Department advises against all travel to Russia and has repeatedly told its citizens to leave immediately",
-      "lang": "en",
-      "title_en": "US citizen jailed in Russia after trying to take Kalashnikov rifles out of Moscow airport",
-      "summary_en": "The U.S. State Department advises against all travel to Russia and has repeatedly told its citizens to leave immediately",
-      "title": "US citizen jailed in Russia after trying to take Kalashnikov rifles out of Moscow airport",
-      "summary": "The U.S. State Department advises against all travel to Russia and has repeatedly told its citizens to leave immediately",
-      "url": "https://www.independent.co.uk/news/world/europe/kalashnikov-gun-russia-man-jailed-b2921645.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-17T06:41:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "865dba9dbf262997",
       "title_orig": "Emile Heskey makes Leicester City offer to help club out of mess - but doesn't get response",
       "summary_orig": "The former Foxes striker wants to reconnect the fans with the club",
@@ -2555,24 +2609,6 @@
       "published_at": "2026-02-15T06:42:05+00:00",
       "tags": [
         "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "78f275b9d6c13569",
-      "title_orig": "No fuel, no tourists, no cash – this was the week the Cuban crisis got real",
-      "summary_orig": "Diplomats in Havana are preparing for an alternative Trump tactic: the country being starved until people take to the streets and the US can step in Among the verdant gardens of Havana’s diplomatic quarter, Siboney, ambassadors from countries traditionally allied to the United States are expressing increasing frustration with Washington’s attempt to unseat Cuba’s government, while simultaneously drawing up plans to draw down their missions. Cuba is in crisis. Already reeling from a four-year economic slump, worsened by hyper-inflation and the migration of nearly 20% of the population, the 67-year-old communist government is at its weakest. After Washington’s successful military operation against Cuba’s ally Venezuela at the beginning of January, the US administration is actively seeking regime change. Continue reading...",
-      "lang": "en",
-      "title_en": "No fuel, no tourists, no cash – this was the week the Cuban crisis got real",
-      "summary_en": "Diplomats in Havana are preparing for an alternative Trump tactic: the country being starved until people take to the streets and the US can step in Among the verdant gardens of Havana’s diplomatic quarter, Siboney, ambassadors from countries traditionally allied to the United States are expressing increasing frustration with Washington’s attempt to unseat Cuba’s government, while simultaneously drawing up plans to draw down their missions. Cuba is in crisis. Already reeling from a four-year economic slump, worsened by hyper-inflation and the migration of nearly 20% of the population, the 67-year-old communist government is at its weakest. After Washington’s successful military operation against Cuba’s ally Venezuela at the beginning of January, the US administration is actively seeking regime change. Continue reading...",
-      "title": "No fuel, no tourists, no cash – this was the week the Cuban crisis got real",
-      "summary": "Diplomats in Havana are preparing for an alternative Trump tactic: the country being starved until people take to the streets and the US can step in Among the verdant gardens of Havana’s diplomatic quarter, Siboney, ambassadors from countries traditionally allied to the United States are expressing increasing frustration with Washington’s attempt to unseat Cuba’s government, while simultaneously drawing up plans to draw down their missions. Cuba is in crisis. Already reeling from a four-year economic slump, worsened by hyper-inflation and the migration of nearly 20% of the population, the 67-year-old communist government is at its weakest. After Washington’s successful military operation against Cuba’s ally Venezuela at the beginning of January, the US administration is actively seeking regime change. Continue reading...",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/15/cuba-crisis-oil-shortage-venezuela-donald-trump-havana",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-15T06:00:15+00:00",
-      "tags": [
-        "diplomatic"
       ],
       "type": "major news",
       "geo": {}
