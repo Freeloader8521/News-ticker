@@ -1,6 +1,123 @@
 {
-  "generated_at": "2026-02-17T23:03:05.393647+00:00",
+  "generated_at": "2026-02-17T23:29:59.343520+00:00",
   "items": [
+    {
+      "id": "975e49daeb712cfe",
+      "title_orig": "U.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says",
+      "summary_orig": "The Iranian minister, Abbas Araghchi, said both sides had agreed on a “set of guiding principles.” President Trump has called on Iran to make an immediate accord or face a possible U.S. attack.",
+      "lang": "en",
+      "title_en": "U.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says",
+      "summary_en": "The Iranian minister, Abbas Araghchi, said both sides had agreed on a “set of guiding principles.” President Trump has called on Iran to make an immediate accord or face a possible U.S. attack.",
+      "title": "U.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says",
+      "summary": "The Iranian minister, Abbas Araghchi, said both sides had agreed on a “set of guiding principles.” President Trump has called on Iran to make an immediate accord or face a possible U.S. attack.",
+      "url": "https://www.nytimes.com/2026/02/17/us/politics/us-iran-nuclear-talks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-17T23:18:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "cef8784ff3f0f1fc",
+      "title_orig": "Police assessing records of private flights at Stansted after publication of Epstein files",
+      "summary_orig": "Move comes after Gordon Brown’s claim that files show sex offender used airport in Essex to ‘fly in girls’ Police are assessing information about private flights to and from Stansted airport following the publication of files relating to the convicted sex offender Jeffrey Epstein. It comes after former prime minister Gordon Brown claimed the documents showed in “graphic detail” how Epstein was able to use the Essex hub to “fly in girls from Latvia, Lithuania and Russia”. Continue reading...",
+      "lang": "en",
+      "title_en": "Police assessing records of private flights at Stansted after publication of Epstein files",
+      "summary_en": "Move comes after Gordon Brown’s claim that files show sex offender used airport in Essex to ‘fly in girls’ Police are assessing information about private flights to and from Stansted airport following the publication of files relating to the convicted sex offender Jeffrey Epstein. It comes after former prime minister Gordon Brown claimed the documents showed in “graphic detail” how Epstein was able to use the Essex hub to “fly in girls from Latvia, Lithuania and Russia”. Continue reading...",
+      "title": "Police assessing records of private flights at Stansted after publication of Epstein files",
+      "summary": "Move comes after Gordon Brown’s claim that files show sex offender used airport in Essex to ‘fly in girls’ Police are assessing information about private flights to and from Stansted airport following the publication of files relating to the convicted sex offender Jeffrey Epstein. It comes after former prime minister Gordon Brown claimed the documents showed in “graphic detail” how Epstein was able to use the Essex hub to “fly in girls from Latvia, Lithuania and Russia”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/feb/17/police-private-flights-stansted-publication-epstein-files",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-17T23:13:39+00:00",
+      "tags": [
+        "STN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Stansted",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "STN",
+        "lat": 51.885,
+        "lon": 0.235
+      }
+    },
+    {
+      "id": "3b92b61508c5e5d3",
+      "title_orig": "Trump family business files for trademark rights on any airports using the president’s name",
+      "summary_orig": "NEW YORK (AP) — The Trump family company has filed to trademark the use of the president’s name on airports…",
+      "lang": "en",
+      "title_en": "Trump family business files for trademark rights on any airports using the president’s name",
+      "summary_en": "NEW YORK (AP) — The Trump family company has filed to trademark the use of the president’s name on airports…",
+      "title": "Trump family business files for trademark rights on any airports using the president’s name",
+      "summary": "NEW YORK (AP) — The Trump family company has filed to trademark the use of the president’s name on airports…",
+      "url": "https://wtop.com/national/2026/02/trump-family-business-files-for-trademark-rights-on-any-airports-using-the-presidents-name/",
+      "source": "WTOP News",
+      "published_at": "2026-02-17T23:01:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8b9b95f0656d9336",
+      "title_orig": "‘You’ll have to go’: Landslide prompts evacuations on Dunedin street",
+      "summary_orig": "Evacuations are underway down a street in Dunedin following reports of a landslide near homes.",
+      "lang": "en",
+      "title_en": "‘You’ll have to go’: Landslide prompts evacuations on Dunedin street",
+      "summary_en": "Evacuations are underway down a street in Dunedin following reports of a landslide near homes.",
+      "title": "‘You’ll have to go’: Landslide prompts evacuations on Dunedin street",
+      "summary": "Evacuations are underway down a street in Dunedin following reports of a landslide near homes.",
+      "url": "https://www.stuff.co.nz/nz-news/360940200/landslide-prompts-evacuations-dunedin-street",
+      "source": "Stuff - /",
+      "published_at": "2026-02-17T22:59:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "448be25acd444f76",
+      "title_orig": "Strikes on 3 more alleged drug boats kill 11 people, US military says",
+      "summary_orig": "WASHINGTON (AP) — The U.S. military said Tuesday that it carried out strikes on three boats accused of smuggling drugs in Latin American waters, killing 11 people in one of the deadliest days of the Trump administration's monthslong campaign against alleged traffickers. The series of strikes conducted Monday brought the death toll to at least [...]",
+      "lang": "en",
+      "title_en": "Strikes on 3 more alleged drug boats kill 11 people, US military says",
+      "summary_en": "WASHINGTON (AP) — The U.S. military said Tuesday that it carried out strikes on three boats accused of smuggling drugs in Latin American waters, killing 11 people in one of the deadliest days of the Trump administration's monthslong campaign against alleged traffickers. The series of strikes conducted Monday brought the death toll to at least [...]",
+      "title": "Strikes on 3 more alleged drug boats kill 11 people, US military says",
+      "summary": "WASHINGTON (AP) — The U.S. military said Tuesday that it carried out strikes on three boats accused of smuggling drugs in Latin American waters, killing 11 people in one of the deadliest days of the Trump administration's monthslong campaign against alleged traffickers. The series of strikes conducted Monday brought the death toll to at least [...]",
+      "url": "https://www.kxan.com/news/political-news/ap-strikes-on-3-more-alleged-drug-boats-kill-11-people-us-military-says/",
+      "source": "KXAN Austin",
+      "published_at": "2026-02-17T22:58:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8fe438e59e53dcb8",
+      "title_orig": "Strikes on 3 more alleged drug boats kill 11 people, US military says",
+      "summary_orig": "WASHINGTON (AP) — The U.S. military said Tuesday that it carried out strikes on three boats accused of smuggling drugs…",
+      "lang": "en",
+      "title_en": "Strikes on 3 more alleged drug boats kill 11 people, US military says",
+      "summary_en": "WASHINGTON (AP) — The U.S. military said Tuesday that it carried out strikes on three boats accused of smuggling drugs…",
+      "title": "Strikes on 3 more alleged drug boats kill 11 people, US military says",
+      "summary": "WASHINGTON (AP) — The U.S. military said Tuesday that it carried out strikes on three boats accused of smuggling drugs…",
+      "url": "https://wtop.com/world/2026/02/strikes-on-3-more-alleged-drug-boats-kill-11-people-us-military-says/",
+      "source": "WTOP News",
+      "published_at": "2026-02-17T22:58:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "c7d8e7055f6d39c7",
       "title_orig": "Suspects arrested after entering Lincoln High School, prompting lockdown",
@@ -53,60 +170,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9e9d387b7f972ce6",
-      "title_orig": "Montgomery Co. panic button company aims to help schools respond in emergencies",
-      "summary_orig": "A Montgomery County company says a device already being tested in some schools could help staff quietly call for help when an emergency strikes.",
-      "lang": "en",
-      "title_en": "Montgomery Co. panic button company aims to help schools respond in emergencies",
-      "summary_en": "A Montgomery County company says a device already being tested in some schools could help staff quietly call for help when an emergency strikes.",
-      "title": "Montgomery Co. panic button company aims to help schools respond in emergencies",
-      "summary": "A Montgomery County company says a device already being tested in some schools could help staff quietly call for help when an emergency strikes.",
-      "url": "https://wtop.com/maryland/2026/02/montgomery-county-panic-button-company-aims-to-help-schools-respond-in-emergencies/",
-      "source": "WTOP News",
-      "published_at": "2026-02-17T22:35:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8b9b95f0656d9336",
-      "title_orig": "Landslide prompts evacuations on Dunedin street",
-      "summary_orig": "Evacuations are underway down a street in Dunedin following reports of a landslide near homes.",
-      "lang": "en",
-      "title_en": "Landslide prompts evacuations on Dunedin street",
-      "summary_en": "Evacuations are underway down a street in Dunedin following reports of a landslide near homes.",
-      "title": "Landslide prompts evacuations on Dunedin street",
-      "summary": "Evacuations are underway down a street in Dunedin following reports of a landslide near homes.",
-      "url": "https://www.stuff.co.nz/nz-news/360940200/landslide-prompts-evacuations-dunedin-street",
-      "source": "Stuff - /",
-      "published_at": "2026-02-17T22:32:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "975e49daeb712cfe",
-      "title_orig": "U.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says",
-      "summary_orig": "The Iranian minister, Abbas Araghchi, said both sides had agreed on a “set of guiding principles.” President Trump has called on Iran to make an immediate accord or face a possible U.S. attack.",
-      "lang": "en",
-      "title_en": "U.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says",
-      "summary_en": "The Iranian minister, Abbas Araghchi, said both sides had agreed on a “set of guiding principles.” President Trump has called on Iran to make an immediate accord or face a possible U.S. attack.",
-      "title": "U.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says",
-      "summary": "The Iranian minister, Abbas Araghchi, said both sides had agreed on a “set of guiding principles.” President Trump has called on Iran to make an immediate accord or face a possible U.S. attack.",
-      "url": "https://www.nytimes.com/2026/02/17/us/politics/us-iran-nuclear-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-17T22:27:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -189,33 +252,6 @@
       ],
       "type": "major news",
       "geo": {}
-    },
-    {
-      "id": "cef8784ff3f0f1fc",
-      "title_orig": "Police assessing records of private flights at Stansted after publication of Epstein files",
-      "summary_orig": "Move comes after Gordon Brown’s claim that files show sex offender used airport in Essex to ‘fly in girls’ Police are assessing information about private flights to and from Stansted airport following the publication of files relating to the convicted sex offender Jeffrey Epstein. It comes after former prime minister Gordon Brown claimed the documents showed in “graphic detail” how Epstein was able to use the Essex-based hub to “fly in girls from Latvia, Lithuania and Russia”. Continue reading...",
-      "lang": "en",
-      "title_en": "Police assessing records of private flights at Stansted after publication of Epstein files",
-      "summary_en": "Move comes after Gordon Brown’s claim that files show sex offender used airport in Essex to ‘fly in girls’ Police are assessing information about private flights to and from Stansted airport following the publication of files relating to the convicted sex offender Jeffrey Epstein. It comes after former prime minister Gordon Brown claimed the documents showed in “graphic detail” how Epstein was able to use the Essex-based hub to “fly in girls from Latvia, Lithuania and Russia”. Continue reading...",
-      "title": "Police assessing records of private flights at Stansted after publication of Epstein files",
-      "summary": "Move comes after Gordon Brown’s claim that files show sex offender used airport in Essex to ‘fly in girls’ Police are assessing information about private flights to and from Stansted airport following the publication of files relating to the convicted sex offender Jeffrey Epstein. It comes after former prime minister Gordon Brown claimed the documents showed in “graphic detail” how Epstein was able to use the Essex-based hub to “fly in girls from Latvia, Lithuania and Russia”. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/feb/17/police-private-flights-stansted-publication-epstein-files",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-17T21:56:19+00:00",
-      "tags": [
-        "STN",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "Stansted",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "STN",
-        "lat": 51.885,
-        "lon": 0.235
-      }
     },
     {
       "id": "c57d1c47319d4891",
@@ -643,24 +679,6 @@
       "url": "https://simpleflying.com/how-fast-b-2-spirit-bomber-fly/",
       "source": "Simple Flying",
       "published_at": "2026-02-17T19:01:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "448be25acd444f76",
-      "title_orig": "Strikes on 3 more alleged drug boats kill 11 people, US military says",
-      "summary_orig": "WASHINGTON (AP) — The U.S. military said Tuesday that it carried out strikes on three boats accused of smuggling drugs in Latin American waters, killing 11 people in one of the deadliest days of the Trump administration's monthslong campaign against alleged traffickers. The series of strikes conducted Monday brought the death toll to at least [...]",
-      "lang": "en",
-      "title_en": "Strikes on 3 more alleged drug boats kill 11 people, US military says",
-      "summary_en": "WASHINGTON (AP) — The U.S. military said Tuesday that it carried out strikes on three boats accused of smuggling drugs in Latin American waters, killing 11 people in one of the deadliest days of the Trump administration's monthslong campaign against alleged traffickers. The series of strikes conducted Monday brought the death toll to at least [...]",
-      "title": "Strikes on 3 more alleged drug boats kill 11 people, US military says",
-      "summary": "WASHINGTON (AP) — The U.S. military said Tuesday that it carried out strikes on three boats accused of smuggling drugs in Latin American waters, killing 11 people in one of the deadliest days of the Trump administration's monthslong campaign against alleged traffickers. The series of strikes conducted Monday brought the death toll to at least [...]",
-      "url": "https://www.kxan.com/news/political-news/ap-strikes-on-3-more-alleged-drug-boats-kill-11-people-us-military-says/",
-      "source": "KXAN Austin",
-      "published_at": "2026-02-17T19:00:48+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1895,24 +1913,6 @@
       "url": "https://www.thelocal.fr/20260217/france-loosens-rules-on-allowing-farmers-to-shoot-wolves",
       "source": "The Local France",
       "published_at": "2026-02-17T07:07:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6ddcfac4d3437d8e",
-      "title_orig": "Russia sentences US citizen to 4 years in jail for trying to take Kalashnikov stocks",
-      "summary_orig": "MOSCOW, Feb 17 - A Russian court has sentenced a U.S. citizen to four years in jail for trying to take the stocks of Kalashnikov assault rifles out of a Moscow airport, the RIA state news agency reported on Tuesday.",
-      "lang": "en",
-      "title_en": "Russia sentences US citizen to 4 years in jail for trying to take Kalashnikov stocks",
-      "summary_en": "MOSCOW, Feb 17 - A Russian court has sentenced a U.S. citizen to four years in jail for trying to take the stocks of Kalashnikov assault rifles out of a Moscow airport, the RIA state news agency reported on Tuesday.",
-      "title": "Russia sentences US citizen to 4 years in jail for trying to take Kalashnikov stocks",
-      "summary": "MOSCOW, Feb 17 - A Russian court has sentenced a U.S. citizen to four years in jail for trying to take the stocks of Kalashnikov assault rifles out of a Moscow airport, the RIA state news agency reported on Tuesday.",
-      "url": "https://www.straitstimes.com/world/russia-sentences-us-citizen-to-4-years-in-jail-for-trying-to-take-kalashnikov-stocks",
-      "source": "The Straits Times World News",
-      "published_at": "2026-02-17T07:00:32+00:00",
       "tags": [
         "airport/security"
       ],
