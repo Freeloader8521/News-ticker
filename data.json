@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-02-21T18:29:29.834150+00:00",
+  "generated_at": "2026-02-21T19:05:43.518201+00:00",
   "items": [
+    {
+      "id": "5a0163cfa04da776",
+      "title_orig": "At Least 10 Killed in Lebanon, Officials Say, After Israel Strikes Hezbollah",
+      "summary_orig": "The Lebanese militant group said eight of its members were among those killed late Friday. The attacks threaten to further destabilize an already tenuous cease-fire.",
+      "lang": "en",
+      "title_en": "At Least 10 Killed in Lebanon, Officials Say, After Israel Strikes Hezbollah",
+      "summary_en": "The Lebanese militant group said eight of its members were among those killed late Friday. The attacks threaten to further destabilize an already tenuous cease-fire.",
+      "title": "At Least 10 Killed in Lebanon, Officials Say, After Israel Strikes Hezbollah",
+      "summary": "The Lebanese militant group said eight of its members were among those killed late Friday. The attacks threaten to further destabilize an already tenuous cease-fire.",
+      "url": "https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-21T18:57:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "648a1fa484ceea4a",
+      "title_orig": "'She left a ticking timebomb': Elizabeth, Andrew and the monarchy's future",
+      "summary_orig": "It will be up to King Charles to shepherd his family's institution through its darkest hour. But could his own mother have done more to snuff out this crisis before he inherited it?",
+      "lang": "en",
+      "title_en": "'She left a ticking timebomb': Elizabeth, Andrew and the monarchy's future",
+      "summary_en": "It will be up to King Charles to shepherd his family's institution through its darkest hour. But could his own mother have done more to snuff out this crisis before he inherited it?",
+      "title": "'She left a ticking timebomb': Elizabeth, Andrew and the monarchy's future",
+      "summary": "It will be up to King Charles to shepherd his family's institution through its darkest hour. But could his own mother have done more to snuff out this crisis before he inherited it?",
+      "url": "https://www.abc.net.au/news/2026-02-22/queen-elizabeth-former-prince-andrew-and-epstein/106371728",
+      "source": "Just In",
+      "published_at": "2026-02-21T18:50:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9afb1b26e671d62d",
+      "title_orig": "Demonstrators march through London in protest against Iranian regime",
+      "summary_orig": "The protest lasted for just under five hours.",
+      "lang": "en",
+      "title_en": "Demonstrators march through London in protest against Iranian regime",
+      "summary_en": "The protest lasted for just under five hours.",
+      "title": "Demonstrators march through London in protest against Iranian regime",
+      "summary": "The protest lasted for just under five hours.",
+      "url": "https://www.standard.co.uk/news/uk/iranian-london-uk-government-downing-street-president-b1271956.html",
+      "source": "The Standard News",
+      "published_at": "2026-02-21T18:40:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "75e80d2ca50b8278",
+      "title_orig": "Fights, flags and farce: Ugly scenes as Britain First march through Manchester",
+      "summary_orig": "Several fights and skirmishes broke out as supporters of the far-right group clashed with counter-protesters",
+      "lang": "en",
+      "title_en": "Fights, flags and farce: Ugly scenes as Britain First march through Manchester",
+      "summary_en": "Several fights and skirmishes broke out as supporters of the far-right group clashed with counter-protesters",
+      "title": "Fights, flags and farce: Ugly scenes as Britain First march through Manchester",
+      "summary": "Several fights and skirmishes broke out as supporters of the far-right group clashed with counter-protesters",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/fights-flags-farce-ugly-scenes-33467640",
+      "source": "MEN - News",
+      "published_at": "2026-02-21T18:39:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "cb863ca650dba496",
       "title_orig": "Unseen photos of Manchester Airport from the 1970s and 1980s",
@@ -416,6 +488,24 @@
       "geo": {}
     },
     {
+      "id": "e6214d48c5cef4f2",
+      "title_orig": "Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest",
+      "summary_orig": "Pakistan's military says a suicide bomber has rammed an explosives-laden vehicle into a security convoy in northwest Pakistan bordering Afghanistan, killing two soldiers, including a lieutenant colonel.",
+      "lang": "en",
+      "title_en": "Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest",
+      "summary_en": "Pakistan's military says a suicide bomber has rammed an explosives-laden vehicle into a security convoy in northwest Pakistan bordering Afghanistan, killing two soldiers, including a lieutenant colonel.",
+      "title": "Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest",
+      "summary": "Pakistan's military says a suicide bomber has rammed an explosives-laden vehicle into a security convoy in northwest Pakistan bordering Afghanistan, killing two soldiers, including a lieutenant colonel.",
+      "url": "https://www.seattletimes.com/nation-world/suicide-bombing-kills-2-pakistani-soldiers-including-lieutenant-colonel-in-restive-northwest/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-21T16:37:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "f062ae3ca2bf494f",
       "title_orig": "Teen knifed to death outside mosque as two more hurt in street chaos",
       "summary_orig": "Police say there is currently no indication that the attack was racially or religiously motivated",
@@ -686,24 +776,6 @@
       "geo": {}
     },
     {
-      "id": "b0247db7062d42a8",
-      "title_orig": "Six arrested amid Britain First march and counter protests in Manchester city centre",
-      "summary_orig": "A 10-hour dispersal order is in place during the Britain First march in Manchester",
-      "lang": "en",
-      "title_en": "Six arrested amid Britain First march and counter protests in Manchester city centre",
-      "summary_en": "A 10-hour dispersal order is in place during the Britain First march in Manchester",
-      "title": "Six arrested amid Britain First march and counter protests in Manchester city centre",
-      "summary": "A 10-hour dispersal order is in place during the Britain First march in Manchester",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/six-arrested-amid-britain-first-33467152",
-      "source": "MEN - News",
-      "published_at": "2026-02-21T15:39:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "40925df815813bd7",
       "title_orig": "Top NATO allies believe cyberattacks on hospitals are an act of war. They’re still struggling to fight back.",
       "summary_orig": "State-linked hackers are increasingly targeting critical sectors with no signs of stopping.",
@@ -814,12 +886,12 @@
     {
       "id": "68e7a7151003a9f6",
       "title_orig": "4 dead in fiery single-vehicle crash near Long Beach Airport",
-      "summary_orig": "Four people were killed in a single-vehicle crash in Long Beach overnight, police say.   The Long Beach Police Department confirmed to KTLA that the crash was reported around 1:18 a.m. Saturday on Lakewood Boulevard near East Spring Street, which is adjacent to the Long Beach Airport.  “Four individuals were in the vehicle,” LBPD said. “Long Beach Fire Department personnel [...]",
+      "summary_orig": "Four people were killed in a single-vehicle crash in Long Beach overnight, police say.   The Long Beach Police Department confirmed to KTLA that the crash was reported around 1:18 a.m. Saturday on Lakewood Boulevard near East Spring Street, which is adjacent to the Long Beach Airport.  “Four individuals were in the vehicle,” LBPD said. “Long Beach Fire Department personnel [...]",
       "lang": "en",
       "title_en": "4 dead in fiery single-vehicle crash near Long Beach Airport",
-      "summary_en": "Four people were killed in a single-vehicle crash in Long Beach overnight, police say.   The Long Beach Police Department confirmed to KTLA that the crash was reported around 1:18 a.m. Saturday on Lakewood Boulevard near East Spring Street, which is adjacent to the Long Beach Airport.  “Four individuals were in the vehicle,” LBPD said. “Long Beach Fire Department personnel [...]",
+      "summary_en": "Four people were killed in a single-vehicle crash in Long Beach overnight, police say.   The Long Beach Police Department confirmed to KTLA that the crash was reported around 1:18 a.m. Saturday on Lakewood Boulevard near East Spring Street, which is adjacent to the Long Beach Airport.  “Four individuals were in the vehicle,” LBPD said. “Long Beach Fire Department personnel [...]",
       "title": "4 dead in fiery single-vehicle crash near Long Beach Airport",
-      "summary": "Four people were killed in a single-vehicle crash in Long Beach overnight, police say.   The Long Beach Police Department confirmed to KTLA that the crash was reported around 1:18 a.m. Saturday on Lakewood Boulevard near East Spring Street, which is adjacent to the Long Beach Airport.  “Four individuals were in the vehicle,” LBPD said. “Long Beach Fire Department personnel [...]",
+      "summary": "Four people were killed in a single-vehicle crash in Long Beach overnight, police say.   The Long Beach Police Department confirmed to KTLA that the crash was reported around 1:18 a.m. Saturday on Lakewood Boulevard near East Spring Street, which is adjacent to the Long Beach Airport.  “Four individuals were in the vehicle,” LBPD said. “Long Beach Fire Department personnel [...]",
       "url": "https://ktla.com/news/local-news/4-dead-in-fiery-single-vehicle-crash-near-long-beach-airport/",
       "source": "KTLA",
       "published_at": "2026-02-21T15:10:17+00:00",
@@ -1093,24 +1165,6 @@
       "url": "http://www.euronews.com/2026/02/21/hezbollah-says-israeli-strikes-on-eastern-lebanon-on-friday-have-killed-eight-of-its-membe",
       "source": "News | Euronews RSS",
       "published_at": "2026-02-21T13:01:34+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "93e44a1a860d85a3",
-      "title_orig": "DoJ cases against protesters keep collapsing as officers’ lies are exposed in court",
-      "summary_orig": "String of embarrassing defeats for prosecutors as experts condemn DoJ effort to cast people as ‘violent perpetrators’ Department of Justice prosecutors across the US have suffered a string of embarrassing defeats in their aggressive pursuit of criminal cases against people accused of “assaulting” and “impeding” federal officers. In recent months, the federal government has relentlessly prosecuted protesters, government critics, immigrants and others arrested during immigration operations, often accusing them of physically attacking officers or interfering with their duties. Continue reading...",
-      "lang": "en",
-      "title_en": "DoJ cases against protesters keep collapsing as officers’ lies are exposed in court",
-      "summary_en": "String of embarrassing defeats for prosecutors as experts condemn DoJ effort to cast people as ‘violent perpetrators’ Department of Justice prosecutors across the US have suffered a string of embarrassing defeats in their aggressive pursuit of criminal cases against people accused of “assaulting” and “impeding” federal officers. In recent months, the federal government has relentlessly prosecuted protesters, government critics, immigrants and others arrested during immigration operations, often accusing them of physically attacking officers or interfering with their duties. Continue reading...",
-      "title": "DoJ cases against protesters keep collapsing as officers’ lies are exposed in court",
-      "summary": "String of embarrassing defeats for prosecutors as experts condemn DoJ effort to cast people as ‘violent perpetrators’ Department of Justice prosecutors across the US have suffered a string of embarrassing defeats in their aggressive pursuit of criminal cases against people accused of “assaulting” and “impeding” federal officers. In recent months, the federal government has relentlessly prosecuted protesters, government critics, immigrants and others arrested during immigration operations, often accusing them of physically attacking officers or interfering with their duties. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/feb/21/doj-protesters-federal-agents-cases",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-21T13:00:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2037,24 +2091,6 @@
       "geo": {}
     },
     {
-      "id": "39ff5e80b834c6e9",
-      "title_orig": "Man who attacked teacher with tire iron sentenced to prison",
-      "summary_orig": "Brandon Quinn was sentenced to nearly six years in prison for the unprovoked beating at a Southeast Portland shelter.",
-      "lang": "en",
-      "title_en": "Man who attacked teacher with tire iron sentenced to prison",
-      "summary_en": "Brandon Quinn was sentenced to nearly six years in prison for the unprovoked beating at a Southeast Portland shelter.",
-      "title": "Man who attacked teacher with tire iron sentenced to prison",
-      "summary": "Brandon Quinn was sentenced to nearly six years in prison for the unprovoked beating at a Southeast Portland shelter.",
-      "url": "https://www.oregonlive.com/crime/2026/02/man-who-attacked-sleeping-teacher-with-tire-iron-heads-to-prison-victim-calls-sentence-a-little-too-short.html",
-      "source": "oregonlive.com",
-      "published_at": "2026-02-20T23:04:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f7778d24166e1364",
       "title_orig": "Trump says he is considering limited military strike on Iran",
       "summary_orig": "Trump's new threat came a day after he appeared to give Iran about 10 days to agree to a deal to curb its nuclear programme.",
@@ -2307,24 +2343,6 @@
       "geo": {}
     },
     {
-      "id": "6c3d9ee2a337c38f",
-      "title_orig": "Bodyguards for Azerbaijani president, in town for Trump’s Board of Peace, attack protesters in DC",
-      "summary_orig": "Demonstrators were outside hotel in Washington demanding the release of political prisoners in Azerbaijan Bodyguards traveling with the Azerbaijani president, who was visiting Washington for the inaugural meeting of Donald Trump ’s Board of Peace, punched, kicked and chased protesters outside a Washington hotel on Thursday, video footage shows . Demonstrators calling for the release of political prisoners were driven from the street near the motorcade of Ilham Aliyev, the Azerbaijani leader. Continue reading...",
-      "lang": "en",
-      "title_en": "Bodyguards for Azerbaijani president, in town for Trump’s Board of Peace, attack protesters in DC",
-      "summary_en": "Demonstrators were outside hotel in Washington demanding the release of political prisoners in Azerbaijan Bodyguards traveling with the Azerbaijani president, who was visiting Washington for the inaugural meeting of Donald Trump ’s Board of Peace, punched, kicked and chased protesters outside a Washington hotel on Thursday, video footage shows . Demonstrators calling for the release of political prisoners were driven from the street near the motorcade of Ilham Aliyev, the Azerbaijani leader. Continue reading...",
-      "title": "Bodyguards for Azerbaijani president, in town for Trump’s Board of Peace, attack protesters in DC",
-      "summary": "Demonstrators were outside hotel in Washington demanding the release of political prisoners in Azerbaijan Bodyguards traveling with the Azerbaijani president, who was visiting Washington for the inaugural meeting of Donald Trump ’s Board of Peace, punched, kicked and chased protesters outside a Washington hotel on Thursday, video footage shows . Demonstrators calling for the release of political prisoners were driven from the street near the motorcade of Ilham Aliyev, the Azerbaijani leader. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/feb/20/azerbaijan-trump-board-peace-protestors",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-20T15:52:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "49ecd3436481f999",
       "title_orig": "Iridium plans aviation disruption with Certus safety, space-based VHF",
       "summary_orig": "Iridium sees an opportunity to ‘disrupt the status quo’ in aviation now that its next-generation Certus satcom service is undergoing flight trials to support aircraft safety services and its joint venture partner Aireon is pursuing a space-based VHF initiative that will relieve VHF congestion using satellite links. The L-band Low Earth Orbit (LEO) satellite operator’s... The post Iridium plans aviation disruption with Certus safety, space-based VHF appeared first on Runway Girl .",
@@ -2471,24 +2489,6 @@
       "url": "https://www.hindustantimes.com/india-news/smriti-iranis-khisiyani-billi-dig-at-congs-shirtless-protest-at-ai-summit-101771590678891.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2026-02-20T14:24:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "eb66feeeb985c229",
-      "title_orig": "Shirtless vs ‘shameless’: Congress protest at AI summit in Delhi ignites major row",
-      "summary_orig": "“Doesn't the country's image get tarnished by bringing in a Chinese robot and claiming it as our own?” Congress spokesperson Supriya Shrinate posted on X.",
-      "lang": "en",
-      "title_en": "Shirtless vs ‘shameless’: Congress protest at AI summit in Delhi ignites major row",
-      "summary_en": "“Doesn't the country's image get tarnished by bringing in a Chinese robot and claiming it as our own?” Congress spokesperson Supriya Shrinate posted on X.",
-      "title": "Shirtless vs ‘shameless’: Congress protest at AI summit in Delhi ignites major row",
-      "summary": "“Doesn't the country's image get tarnished by bringing in a Chinese robot and claiming it as our own?” Congress spokesperson Supriya Shrinate posted on X.",
-      "url": "https://www.hindustantimes.com/india-news/shirtless-vs-shameless-congress-protest-at-ai-summit-in-delhi-ignites-major-row-101771596401410.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2026-02-20T14:20:28+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2682,24 +2682,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "3f45a82dd080f0e4",
-      "title_orig": "Rep. Juan Vargas joins downtown rally to protest ICE",
-      "summary_orig": "Rep. Juan Vargas attended a rally hosted by immigration advocates and labor leaders to support the immigrant community and protest ICE raids and arrests.",
-      "lang": "en",
-      "title_en": "Rep. Juan Vargas joins downtown rally to protest ICE",
-      "summary_en": "Rep. Juan Vargas attended a rally hosted by immigration advocates and labor leaders to support the immigrant community and protest ICE raids and arrests.",
-      "title": "Rep. Juan Vargas joins downtown rally to protest ICE",
-      "summary": "Rep. Juan Vargas attended a rally hosted by immigration advocates and labor leaders to support the immigrant community and protest ICE raids and arrests.",
-      "url": "https://fox5sandiego.com/news/local-news/rep-juan-vargas-joins-downtown-rally-to-protest-ice/",
-      "source": "FOX 5 San Diego & KUSI News",
-      "published_at": "2026-02-20T04:42:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
