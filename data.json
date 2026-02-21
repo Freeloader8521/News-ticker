@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-02-21T17:55:09.268521+00:00",
+  "generated_at": "2026-02-21T18:29:29.834150+00:00",
   "items": [
+    {
+      "id": "cb863ca650dba496",
+      "title_orig": "Unseen photos of Manchester Airport from the 1970s and 1980s",
+      "summary_orig": "The images capture daily life at the airport in the years before Terminal Two or the second runway were built",
+      "lang": "en",
+      "title_en": "Unseen photos of Manchester Airport from the 1970s and 1980s",
+      "summary_en": "The images capture daily life at the airport in the years before Terminal Two or the second runway were built",
+      "title": "Unseen photos of Manchester Airport from the 1970s and 1980s",
+      "summary": "The images capture daily life at the airport in the years before Terminal Two or the second runway were built",
+      "url": "https://www.manchestereveningnews.co.uk/news/nostalgia/gallery/unseen-photos-manchester-airport-1970s-33446467",
+      "source": "MEN - News",
+      "published_at": "2026-02-21T18:09:16+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "8af0f80e287ea1e8",
+      "title_orig": "Tammy Abraham makes 'best in the world' claim after salvaging Aston Villa point against Leeds",
+      "summary_orig": "Aston Villa striker Tammy Abraham is delighted to have hit the ground running on his return to the club",
+      "lang": "en",
+      "title_en": "Tammy Abraham makes 'best in the world' claim after salvaging Aston Villa point against Leeds",
+      "summary_en": "Aston Villa striker Tammy Abraham is delighted to have hit the ground running on his return to the club",
+      "title": "Tammy Abraham makes 'best in the world' claim after salvaging Aston Villa point against Leeds",
+      "summary": "Aston Villa striker Tammy Abraham is delighted to have hit the ground running on his return to the club",
+      "url": "https://www.birminghammail.co.uk/sport/football/football-news/tammy-abraham-makes-best-world-33467705",
+      "source": "Birmingham Live - Home",
+      "published_at": "2026-02-21T17:48:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "1c64075b2aedc653",
       "title_orig": "BJP holds nationwide demonstrations, political parties denounce Youth Congress protest at AI summit",
@@ -89,6 +134,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "44762c80e4d3e3f4",
+      "title_orig": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
+      "summary_orig": "Latest Israeli attacks bring total death toll in Gaza since October 'ceasefire' to 614.",
+      "lang": "en",
+      "title_en": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
+      "summary_en": "Latest Israeli attacks bring total death toll in Gaza since October 'ceasefire' to 614.",
+      "title": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
+      "summary": "Latest Israeli attacks bring total death toll in Gaza since October 'ceasefire' to 614.",
+      "url": "https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-02-21T17:27:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -911,24 +974,6 @@
       "geo": {}
     },
     {
-      "id": "e3490f8aed5428d2",
-      "title_orig": "Fights break out in Britain First march in Manchester as protesters clash",
-      "summary_orig": "The Britain First march is taking place in Manchester city centre",
-      "lang": "en",
-      "title_en": "Fights break out in Britain First march in Manchester as protesters clash",
-      "summary_en": "The Britain First march is taking place in Manchester city centre",
-      "title": "Fights break out in Britain First march in Manchester as protesters clash",
-      "summary": "The Britain First march is taking place in Manchester city centre",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/fights-break-out-britain-first-33466705",
-      "source": "MEN - News",
-      "published_at": "2026-02-21T14:06:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "65ca980a220a6232",
       "title_orig": "Indigenous protesters occupy Cargill's Santarem port terminal in Brazil",
       "summary_orig": "RIO DE JANEIRO, Feb 21 - Indigenous protesters have occupied Cargill's Santarem river port terminal in Brazil's Para state and \\\"completely\\\" interrupted operations at the site, the U.S. grain trader said in a statement on Saturday.",
@@ -1012,24 +1057,6 @@
       "url": "https://www.birminghammail.co.uk/news/midlands-news/worker-attacked-co-op-store-33466504",
       "source": "Birmingham Live - News",
       "published_at": "2026-02-21T13:16:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "16e521c8b2ef0858",
-      "title_orig": "Britain First protesters and police clash with arrests made before Manchester march",
-      "summary_orig": "A 10-hour dispersal order is in place during the Britain First march in Manchester",
-      "lang": "en",
-      "title_en": "Britain First protesters and police clash with arrests made before Manchester march",
-      "summary_en": "A 10-hour dispersal order is in place during the Britain First march in Manchester",
-      "title": "Britain First protesters and police clash with arrests made before Manchester march",
-      "summary": "A 10-hour dispersal order is in place during the Britain First march in Manchester",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/britain-first-manchester-march-arrests-33466494",
-      "source": "MEN - News",
-      "published_at": "2026-02-21T13:15:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1127,24 +1154,6 @@
       "geo": {}
     },
     {
-      "id": "98ad50b46decc49a",
-      "title_orig": "In pictures: Britain First and counter protests in Manchester city centre",
-      "summary_orig": "Far-right group Britain First are marching in Manchester today",
-      "lang": "en",
-      "title_en": "In pictures: Britain First and counter protests in Manchester city centre",
-      "summary_en": "Far-right group Britain First are marching in Manchester today",
-      "title": "In pictures: Britain First and counter protests in Manchester city centre",
-      "summary": "Far-right group Britain First are marching in Manchester today",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/gallery/pictures-britain-first-protest-manchester-33466352",
-      "source": "MEN - News",
-      "published_at": "2026-02-21T12:42:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "eebc70e9b9b45d59",
       "title_orig": "'Attempted murder' near Bristol Airport",
       "summary_orig": "Two people have been injured",
@@ -1160,24 +1169,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f280ec195e03c400",
-      "title_orig": "US man on ‘Dying to Serve’ tour dies after cancer fundraising hoax accusations",
-      "summary_orig": "Doug Ruch died in New Zealand in December after article called him a ‘conman’ but cause of death remains unknown A US man who spoke to various media outlets about having terminal cancer and raising money to travel for community service projects died shortly before Christmas in New Zealand – the day after an article by a journalist there accused him of actually being “an alleged serial conman”. Authorities in the US and New Zealand recently confirmed Douglas Lee “Doug” Ruch, 56, died in the city of Auckland on 18 December, months after his so-called “Dying to Serve” tour . The hundreds of thousands of dollars he raised on GoFundMe earned headlines in the Washington Post , National Public Radio and the Guardian. Continue reading...",
-      "lang": "en",
-      "title_en": "US man on ‘Dying to Serve’ tour dies after cancer fundraising hoax accusations",
-      "summary_en": "Doug Ruch died in New Zealand in December after article called him a ‘conman’ but cause of death remains unknown A US man who spoke to various media outlets about having terminal cancer and raising money to travel for community service projects died shortly before Christmas in New Zealand – the day after an article by a journalist there accused him of actually being “an alleged serial conman”. Authorities in the US and New Zealand recently confirmed Douglas Lee “Doug” Ruch, 56, died in the city of Auckland on 18 December, months after his so-called “Dying to Serve” tour . The hundreds of thousands of dollars he raised on GoFundMe earned headlines in the Washington Post , National Public Radio and the Guardian. Continue reading...",
-      "title": "US man on ‘Dying to Serve’ tour dies after cancer fundraising hoax accusations",
-      "summary": "Doug Ruch died in New Zealand in December after article called him a ‘conman’ but cause of death remains unknown A US man who spoke to various media outlets about having terminal cancer and raising money to travel for community service projects died shortly before Christmas in New Zealand – the day after an article by a journalist there accused him of actually being “an alleged serial conman”. Authorities in the US and New Zealand recently confirmed Douglas Lee “Doug” Ruch, 56, died in the city of Auckland on 18 December, months after his so-called “Dying to Serve” tour . The hundreds of thousands of dollars he raised on GoFundMe earned headlines in the Washington Post , National Public Radio and the Guardian. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/feb/21/dying-to-serve-tour-man-dies-cancer-hoax-accusations",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-21T12:00:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1498,24 +1489,6 @@
       "url": "https://www.hindustantimes.com/india-news/sepoys-of-lashkar-e-rahul-bjp-slams-congress-over-shirtless-protest-at-india-ai-summit-101771663392653.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2026-02-21T09:06:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "274f994d296bf189",
-      "title_orig": "Cutting Risks And Delays: Why Reagan National Just Replaced This 1950s-Era System",
-      "summary_orig": "The airport's air traffic control tower has long relied on this outdated system.",
-      "lang": "en",
-      "title_en": "Cutting Risks And Delays: Why Reagan National Just Replaced This 1950s-Era System",
-      "summary_en": "The airport's air traffic control tower has long relied on this outdated system.",
-      "title": "Cutting Risks And Delays: Why Reagan National Just Replaced This 1950s-Era System",
-      "summary": "The airport's air traffic control tower has long relied on this outdated system.",
-      "url": "https://simpleflying.com/cutting-risks-delays-why-reagan-national-replaced-1950s-system/",
-      "source": "Simple Flying",
-      "published_at": "2026-02-21T09:03:26+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1938,24 +1911,6 @@
       "geo": {}
     },
     {
-      "id": "ee5392b3de534f95",
-      "title_orig": "US military says it attacked vessel in Pacific Ocean, killing three people",
-      "summary_orig": "US military's Southern Command (SOUTHCOM) claimed the vessel was involved in drug trafficking, without providing proof.",
-      "lang": "en",
-      "title_en": "US military says it attacked vessel in Pacific Ocean, killing three people",
-      "summary_en": "US military's Southern Command (SOUTHCOM) claimed the vessel was involved in drug trafficking, without providing proof.",
-      "title": "US military says it attacked vessel in Pacific Ocean, killing three people",
-      "summary": "US military's Southern Command (SOUTHCOM) claimed the vessel was involved in drug trafficking, without providing proof.",
-      "url": "https://www.aljazeera.com/news/2026/2/21/us-military-says-it-attacked-vessel-in-pacific-ocean-killing-three-people?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-02-21T01:04:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "b1259513a0d76b53",
       "title_orig": "U.S. strikes on Iran could target individual leaders, officials say",
       "summary_orig": "The military options are the latest signs that the United States is preparing for a serious conflict with Iran should diplomatic efforts fail.",
@@ -2226,24 +2181,6 @@
       "geo": {}
     },
     {
-      "id": "6092da9a9773f7ef",
-      "title_orig": "US lawmakers plan Iran war powers vote as Trump weighs strikes",
-      "summary_orig": "WASHINGTON, Feb 20 - The U.S. Congress could vote as soon as next week on whether to block President Donald Trump's ability to strike Iran without lawmakers' approval, as the U.S. military prepares for a potential serious conflict with Iran if diplomatic efforts fail.",
-      "lang": "en",
-      "title_en": "US lawmakers plan Iran war powers vote as Trump weighs strikes",
-      "summary_en": "WASHINGTON, Feb 20 - The U.S. Congress could vote as soon as next week on whether to block President Donald Trump's ability to strike Iran without lawmakers' approval, as the U.S. military prepares for a potential serious conflict with Iran if diplomatic efforts fail.",
-      "title": "US lawmakers plan Iran war powers vote as Trump weighs strikes",
-      "summary": "WASHINGTON, Feb 20 - The U.S. Congress could vote as soon as next week on whether to block President Donald Trump's ability to strike Iran without lawmakers' approval, as the U.S. military prepares for a potential serious conflict with Iran if diplomatic efforts fail.",
-      "url": "https://www.straitstimes.com/world/middle-east/us-lawmakers-plan-iran-war-powers-vote-as-trump-weighs-strikes",
-      "source": "The Straits Times World News",
-      "published_at": "2026-02-20T19:51:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "65ae13f69cda5ef3",
       "title_orig": "UK joins European powers to build cheap drone defences inspired by Ukraine",
       "summary_orig": "The allies are pledging a speedy process to build the weapons together,",
@@ -2327,24 +2264,6 @@
       "url": "https://airlive.net/news/2026/02/20/palm-beach-international-one-step-closer-to-becoming-president-donald-j-trump-airport/",
       "source": "AIRLIVE",
       "published_at": "2026-02-20T18:37:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "764389149affd632",
-      "title_orig": "Stocks jump as Wall Street reacts to bombshell Supreme Court tariffs ruling",
-      "summary_orig": "More than $175 billion in US tariff collections may need to be refunded, economists warned",
-      "lang": "en",
-      "title_en": "Stocks jump as Wall Street reacts to bombshell Supreme Court tariffs ruling",
-      "summary_en": "More than $175 billion in US tariff collections may need to be refunded, economists warned",
-      "title": "Stocks jump as Wall Street reacts to bombshell Supreme Court tariffs ruling",
-      "summary": "More than $175 billion in US tariff collections may need to be refunded, economists warned",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/stocks-supreme-court-ruling-wall-street-b2924547.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-20T18:09:02+00:00",
       "tags": [
         "airport/security"
       ],
