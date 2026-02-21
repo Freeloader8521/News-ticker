@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-02-21T23:23:55.981585+00:00",
+  "generated_at": "2026-02-21T23:51:18.184309+00:00",
   "items": [
     {
       "id": "dbb7560bbe885ecd",
-      "title_orig": "Person injured in dog attack in Timaru",
+      "title_orig": "Person injured in another dog attack in Timaru",
       "summary_orig": "Emergency services were called to Andrew Street in the suburb of Marchwiel about 8.30pm on Saturday.",
       "lang": "en",
-      "title_en": "Person injured in dog attack in Timaru",
+      "title_en": "Person injured in another dog attack in Timaru",
       "summary_en": "Emergency services were called to Andrew Street in the suburb of Marchwiel about 8.30pm on Saturday.",
-      "title": "Person injured in dog attack in Timaru",
+      "title": "Person injured in another dog attack in Timaru",
       "summary": "Emergency services were called to Andrew Street in the suburb of Marchwiel about 8.30pm on Saturday.",
       "url": "https://www.stuff.co.nz/nz-news/360942014/person-injured-dog-attack-timaru",
       "source": "Stuff - /",
@@ -31,24 +31,6 @@
       "url": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-jp-morgan-bank-lawsuit-b2925087.html",
       "source": "The Independent World",
       "published_at": "2026-02-21T22:58:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ddf929f7f6a33825",
-      "title_orig": "Islamic State lashes out at Syria’s interim president as ‘puppet without a soul,’ urges new attacks",
-      "summary_orig": "BEIRUT (AP) — The Islamic State group has blasted Syria’s interim president calling him a “puppet without a soul” controlled…",
-      "lang": "en",
-      "title_en": "Islamic State lashes out at Syria’s interim president as ‘puppet without a soul,’ urges new attacks",
-      "summary_en": "BEIRUT (AP) — The Islamic State group has blasted Syria’s interim president calling him a “puppet without a soul” controlled…",
-      "title": "Islamic State lashes out at Syria’s interim president as ‘puppet without a soul,’ urges new attacks",
-      "summary": "BEIRUT (AP) — The Islamic State group has blasted Syria’s interim president calling him a “puppet without a soul” controlled…",
-      "url": "https://wtop.com/world/2026/02/islamic-state-lashes-out-at-syrias-interim-president-as-puppet-without-a-soul-urges-new-attacks/",
-      "source": "WTOP News",
-      "published_at": "2026-02-21T22:24:12+00:00",
       "tags": [
         "airport/security"
       ],
@@ -182,6 +164,24 @@
       "geo": {}
     },
     {
+      "id": "8530de4897c53e1e",
+      "title_orig": "Pakistan says it struck militant hideouts along Afghan border after surge in deadly attacks",
+      "summary_orig": "Pakistan’s Information Ministry says the military has carried out strikes along the border with neighboring Afghanistan, targeting hideouts of Pakistani militants it blames for recent attacks inside the country.",
+      "lang": "en",
+      "title_en": "Pakistan says it struck militant hideouts along Afghan border after surge in deadly attacks",
+      "summary_en": "Pakistan’s Information Ministry says the military has carried out strikes along the border with neighboring Afghanistan, targeting hideouts of Pakistani militants it blames for recent attacks inside the country.",
+      "title": "Pakistan says it struck militant hideouts along Afghan border after surge in deadly attacks",
+      "summary": "Pakistan’s Information Ministry says the military has carried out strikes along the border with neighboring Afghanistan, targeting hideouts of Pakistani militants it blames for recent attacks inside the country.",
+      "url": "https://www.seattletimes.com/nation-world/pakistan-says-it-struck-militant-hideouts-along-afghan-border-after-surge-in-deadly-attacks/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-21T22:03:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "277c29e9b342a0ac",
       "title_orig": "K-pop’s big freeze: are cracks in China’s cultural blockade a thaw?",
       "summary_orig": "While K-pop has conquered almost every corner of the globe, South Korea’s entertainment industry remains largely locked out of the Chinese market due to a geopolitical chill that has lingered for a decade.\nChina unofficially banned South Korean entertainment products in 2016 after Seoul deployed the US Terminal High Altitude Area Defence system (THAAD) despite Beijing’s objections. K-pop concerts were cancelled, South Korean dramas disappeared from Chinese streaming platforms, and South Korean...",
@@ -229,6 +229,42 @@
       "url": "https://www.belfastlive.co.uk/news/northern-ireland/security-incident-sees-police-put-33468262",
       "source": "BelfastLive - Home",
       "published_at": "2026-02-21T21:34:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c843f68a6471d82a",
+      "title_orig": "Islamic State lashes out at Syria’s interim president as ‘puppet without a soul,’ urges new attacks",
+      "summary_orig": "The Islamic State group has released a new audio message that attacks Syria’s interim president and urges supporters to strike Jewish and Western targets worldwide.",
+      "lang": "en",
+      "title_en": "Islamic State lashes out at Syria’s interim president as ‘puppet without a soul,’ urges new attacks",
+      "summary_en": "The Islamic State group has released a new audio message that attacks Syria’s interim president and urges supporters to strike Jewish and Western targets worldwide.",
+      "title": "Islamic State lashes out at Syria’s interim president as ‘puppet without a soul,’ urges new attacks",
+      "summary": "The Islamic State group has released a new audio message that attacks Syria’s interim president and urges supporters to strike Jewish and Western targets worldwide.",
+      "url": "https://www.seattletimes.com/nation-world/islamic-state-lashes-out-at-syrias-interim-president-as-puppet-without-a-soul-urges-new-attacks/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-21T21:14:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "dc366a62e84355c2",
+      "title_orig": "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack",
+      "summary_orig": "JPMorgan Chase now confirms it closed Donald Trump’s bank accounts after the Jan. 6 attack on the U.S. Capitol.",
+      "lang": "en",
+      "title_en": "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack",
+      "summary_en": "JPMorgan Chase now confirms it closed Donald Trump’s bank accounts after the Jan. 6 attack on the U.S. Capitol.",
+      "title": "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack",
+      "summary": "JPMorgan Chase now confirms it closed Donald Trump’s bank accounts after the Jan. 6 attack on the U.S. Capitol.",
+      "url": "https://www.seattletimes.com/business/jpmorgan-concedes-it-closed-trumps-accounts-after-jan-6-attack/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-21T20:59:12+00:00",
       "tags": [
         "airport/security"
       ],
@@ -494,24 +530,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "648a1fa484ceea4a",
-      "title_orig": "'She left a ticking timebomb': Elizabeth, Andrew and the monarchy's future",
-      "summary_orig": "It will be up to King Charles to shepherd his family's institution through its darkest hour. But could his own mother have done more to snuff out this crisis before he inherited it?",
-      "lang": "en",
-      "title_en": "'She left a ticking timebomb': Elizabeth, Andrew and the monarchy's future",
-      "summary_en": "It will be up to King Charles to shepherd his family's institution through its darkest hour. But could his own mother have done more to snuff out this crisis before he inherited it?",
-      "title": "'She left a ticking timebomb': Elizabeth, Andrew and the monarchy's future",
-      "summary": "It will be up to King Charles to shepherd his family's institution through its darkest hour. But could his own mother have done more to snuff out this crisis before he inherited it?",
-      "url": "https://www.abc.net.au/news/2026-02-22/queen-elizabeth-former-prince-andrew-and-epstein/106371728",
-      "source": "Just In",
-      "published_at": "2026-02-21T18:50:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -782,6 +800,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e6214d48c5cef4f2",
+      "title_orig": "Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest",
+      "summary_orig": "Pakistan's military says a suicide bomber has rammed an explosives-laden vehicle into a security convoy in northwest Pakistan bordering Afghanistan, killing two soldiers, including a lieutenant colonel.",
+      "lang": "en",
+      "title_en": "Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest",
+      "summary_en": "Pakistan's military says a suicide bomber has rammed an explosives-laden vehicle into a security convoy in northwest Pakistan bordering Afghanistan, killing two soldiers, including a lieutenant colonel.",
+      "title": "Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest",
+      "summary": "Pakistan's military says a suicide bomber has rammed an explosives-laden vehicle into a security convoy in northwest Pakistan bordering Afghanistan, killing two soldiers, including a lieutenant colonel.",
+      "url": "https://www.seattletimes.com/nation-world/suicide-bombing-kills-2-pakistani-soldiers-including-lieutenant-colonel-in-restive-northwest/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-21T16:37:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -2341,24 +2377,6 @@
         "lat": 51.1537,
         "lon": -0.1821
       }
-    },
-    {
-      "id": "549dd200bd9ed627",
-      "title_orig": "'BJP’s Kuki-Zo MLA, attacked by mob in 2023 ethnic violence, on ventilator'",
-      "summary_orig": "Vungzagin Valte, a BJP MLA from Thanlon assembly seat in Pherzawl district, was brutally assaulted by a mob in Imphal on May 4, 2023",
-      "lang": "en",
-      "title_en": "'BJP’s Kuki-Zo MLA, attacked by mob in 2023 ethnic violence, on ventilator'",
-      "summary_en": "Vungzagin Valte, a BJP MLA from Thanlon assembly seat in Pherzawl district, was brutally assaulted by a mob in Imphal on May 4, 2023",
-      "title": "'BJP’s Kuki-Zo MLA, attacked by mob in 2023 ethnic violence, on ventilator'",
-      "summary": "Vungzagin Valte, a BJP MLA from Thanlon assembly seat in Pherzawl district, was brutally assaulted by a mob in Imphal on May 4, 2023",
-      "url": "https://www.hindustantimes.com/india-news/bjp-s-kuki-zo-mla-attacked-by-mob-in-2023-ethnic-violence-on-ventilator-101771600113319.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2026-02-20T15:08:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "4d61e3bace5dd634",
