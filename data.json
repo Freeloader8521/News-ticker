@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-02-22T19:51:33.209905+00:00",
+  "generated_at": "2026-02-22T20:23:40.990567+00:00",
   "items": [
+    {
+      "id": "dd383b4a92e85c64",
+      "title_orig": "Airport shooting as armed gunmen open fire after drug lord El Mencho killed",
+      "summary_orig": "Armed men reportedly stormed Guadalajara International Airport in Mexico, discharging weapons as terrified passengers fled",
+      "lang": "en",
+      "title_en": "Airport shooting as armed gunmen open fire after drug lord El Mencho killed",
+      "summary_en": "Armed men reportedly stormed Guadalajara International Airport in Mexico, discharging weapons as terrified passengers fled",
+      "title": "Airport shooting as armed gunmen open fire after drug lord El Mencho killed",
+      "summary": "Armed men reportedly stormed Guadalajara International Airport in Mexico, discharging weapons as terrified passengers fled",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/airport-shooting-armed-gunmen-open-36764154",
+      "source": "Daily Record - Home",
+      "published_at": "2026-02-22T20:05:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6b5da45d8cd83e7f",
+      "title_orig": "Iran Students Protest for Second Day Despite State Crackdown",
+      "summary_orig": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes.",
+      "lang": "en",
+      "title_en": "Iran Students Protest for Second Day Despite State Crackdown",
+      "summary_en": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes.",
+      "title": "Iran Students Protest for Second Day Despite State Crackdown",
+      "summary": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes.",
+      "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-22T19:59:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1c0a091c2b260ef5",
+      "title_orig": "US-Iran nuclear talks to take place this week as Trump says he’s ‘considering’ military strikes",
+      "summary_orig": "Iran’s top diplomat expressed optimism, stating that a ‘good chance’ for a diplomatic resolution to the nuclear issue remained",
+      "lang": "en",
+      "title_en": "US-Iran nuclear talks to take place this week as Trump says he’s ‘considering’ military strikes",
+      "summary_en": "Iran’s top diplomat expressed optimism, stating that a ‘good chance’ for a diplomatic resolution to the nuclear issue remained",
+      "title": "US-Iran nuclear talks to take place this week as Trump says he’s ‘considering’ military strikes",
+      "summary": "Iran’s top diplomat expressed optimism, stating that a ‘good chance’ for a diplomatic resolution to the nuclear issue remained",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-us-nuclear-talks-geneva-trump-b2925377.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-22T19:57:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "cb123e2c381fbdf5",
       "title_orig": "Police officer killed, 24 people wounded in bomb explosions in Ukraine's Lviv",
@@ -13,6 +67,42 @@
       "url": "https://www.straitstimes.com/world/europe/police-officer-killed-24-people-injured-in-bombs-explosions-in-ukraines-lviv",
       "source": "The Straits Times World News",
       "published_at": "2026-02-22T19:46:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "09c59202ee7d0c46",
+      "title_orig": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
+      "summary_orig": "The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown.",
+      "lang": "en",
+      "title_en": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
+      "summary_en": "The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown.",
+      "title": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
+      "summary": "The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown.",
+      "url": "https://www.startribune.com/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/601586731",
+      "source": "Startribune News",
+      "published_at": "2026-02-22T19:45:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "923f4889a60a6009",
+      "title_orig": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
+      "summary_orig": "DALLAS (AP) — The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown. “ As staffing constraints arise, TSA will evaluate on a case-by-case basis and adjust operations [...]",
+      "lang": "en",
+      "title_en": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
+      "summary_en": "DALLAS (AP) — The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown. “ As staffing constraints arise, TSA will evaluate on a case-by-case basis and adjust operations [...]",
+      "title": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
+      "summary": "DALLAS (AP) — The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown. “ As staffing constraints arise, TSA will evaluate on a case-by-case basis and adjust operations [...]",
+      "url": "https://ktla.com/news/ap-us-news/ap-homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/",
+      "source": "KTLA",
+      "published_at": "2026-02-22T19:41:23+00:00",
       "tags": [
         "airport/security"
       ],
@@ -38,17 +128,17 @@
       "geo": {}
     },
     {
-      "id": "6b5da45d8cd83e7f",
-      "title_orig": "Iran Students Protest for Second Day Despite State Crackdown",
-      "summary_orig": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes.",
+      "id": "5f83422c33560bcc",
+      "title_orig": "Washington and Tehran to hold more nuclear talks as protests reignite in Iran",
+      "summary_orig": "Fresh Geneva negotiations suggest Trump’s team believes the Iranian government is making serious proposals Iran and the US are expected to meet for a further round of talks in Geneva this week in a sign that Donald Trump’s team believes Tehran is making serious proposals to dilute its stockpile of highly enriched uranium and show it is not seeking a nuclear weapon. As fears loomed of renewed conflict after Washington carried out a major redeployment of military assets to the region, the Iranian foreign minister, Abbas Araghchi, said he thought there was still a good chance of finding a diplomatic solution. Continue reading...",
       "lang": "en",
-      "title_en": "Iran Students Protest for Second Day Despite State Crackdown",
-      "summary_en": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes.",
-      "title": "Iran Students Protest for Second Day Despite State Crackdown",
-      "summary": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes.",
-      "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-22T19:37:44+00:00",
+      "title_en": "Washington and Tehran to hold more nuclear talks as protests reignite in Iran",
+      "summary_en": "Fresh Geneva negotiations suggest Trump’s team believes the Iranian government is making serious proposals Iran and the US are expected to meet for a further round of talks in Geneva this week in a sign that Donald Trump’s team believes Tehran is making serious proposals to dilute its stockpile of highly enriched uranium and show it is not seeking a nuclear weapon. As fears loomed of renewed conflict after Washington carried out a major redeployment of military assets to the region, the Iranian foreign minister, Abbas Araghchi, said he thought there was still a good chance of finding a diplomatic solution. Continue reading...",
+      "title": "Washington and Tehran to hold more nuclear talks as protests reignite in Iran",
+      "summary": "Fresh Geneva negotiations suggest Trump’s team believes the Iranian government is making serious proposals Iran and the US are expected to meet for a further round of talks in Geneva this week in a sign that Donald Trump’s team believes Tehran is making serious proposals to dilute its stockpile of highly enriched uranium and show it is not seeking a nuclear weapon. As fears loomed of renewed conflict after Washington carried out a major redeployment of military assets to the region, the Iranian foreign minister, Abbas Araghchi, said he thought there was still a good chance of finding a diplomatic solution. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/feb/22/washington-and-tehran-to-hold-more-nuclear-talks-as-protests-reignite-in-iran",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-22T19:33:15+00:00",
       "tags": [
         "airport/security"
       ],
@@ -229,42 +319,6 @@
       "url": "https://simpleflying.com/alaska-airlines-hub-based-operations/",
       "source": "Simple Flying",
       "published_at": "2026-02-22T18:30:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "09c59202ee7d0c46",
-      "title_orig": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
-      "summary_orig": "The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown.",
-      "lang": "en",
-      "title_en": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
-      "summary_en": "The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown.",
-      "title": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
-      "summary": "The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown.",
-      "url": "https://www.startribune.com/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/601586731",
-      "source": "Startribune News",
-      "published_at": "2026-02-22T18:30:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "923f4889a60a6009",
-      "title_orig": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
-      "summary_orig": "NEW YORK (AP) — The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown. “ As staffing constraints arise, TSA will evaluate on a case by case basis [...]",
-      "lang": "en",
-      "title_en": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
-      "summary_en": "NEW YORK (AP) — The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown. “ As staffing constraints arise, TSA will evaluate on a case by case basis [...]",
-      "title": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
-      "summary": "NEW YORK (AP) — The Transportation Security Administration said Sunday that its PreCheck program would remain operational despite an earlier announcement from the U.S. Department of Homeland Security that the airport security service was being suspended during the partial government shutdown. “ As staffing constraints arise, TSA will evaluate on a case by case basis [...]",
-      "url": "https://ktla.com/news/ap-us-news/ap-homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/",
-      "source": "KTLA",
-      "published_at": "2026-02-22T18:26:57+00:00",
       "tags": [
         "airport/security"
       ],
@@ -661,24 +715,6 @@
       "url": "https://www.walesonline.co.uk/news/uk-news/britain-first-march-attack-video-33470654",
       "source": "WalesOnline - Home",
       "published_at": "2026-02-22T16:29:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a7cfaa6dc33491ce",
-      "title_orig": "Police probe video of male 'being attacked' during Britain First march",
-      "summary_orig": "Police are investigating after a video circulated online appears to show a male being attacked by a group during violence at the Britain First march in Manchester on Saturday",
-      "lang": "en",
-      "title_en": "Police probe video of male 'being attacked' during Britain First march",
-      "summary_en": "Police are investigating after a video circulated online appears to show a male being attacked by a group during violence at the Britain First march in Manchester on Saturday",
-      "title": "Police probe video of male 'being attacked' during Britain First march",
-      "summary": "Police are investigating after a video circulated online appears to show a male being attacked by a group during violence at the Britain First march in Manchester on Saturday",
-      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/police-probe-video-male-being-36763348",
-      "source": "Daily Record - Home",
-      "published_at": "2026-02-22T16:22:26+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1992,24 +2028,6 @@
       "geo": {}
     },
     {
-      "id": "8d0b2f3db3b9e197",
-      "title_orig": "'Gipsy Billionaire's' South West park like a 'bomb site' say caravan owners",
-      "summary_orig": "They've branded the site a 'decrepit disgrace'",
-      "lang": "en",
-      "title_en": "'Gipsy Billionaire's' South West park like a 'bomb site' say caravan owners",
-      "summary_en": "They've branded the site a 'decrepit disgrace'",
-      "title": "'Gipsy Billionaire's' South West park like a 'bomb site' say caravan owners",
-      "summary": "They've branded the site a 'decrepit disgrace'",
-      "url": "https://www.devonlive.com/news/uk-world-news/gipsy-billionaires-south-west-park-10829187",
-      "source": "Devon Live - frontpage",
-      "published_at": "2026-02-22T07:37:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7712d982cb40de15",
       "title_orig": "UAE foils cyberattacks targeting country’s digital infrastructure, vital sectors: local media",
       "summary_orig": "The United Arab Emirates (UAE) thwarted organised cyber attacks targeting the country’s digital infrastructure and vital sectors, the state news agency WAM said on Saturday. The attacks “included attempts to infiltrate networks, deploy ransomware and conduct systematic phishing campaigns targeting national platforms”, and involved artificial intelligence technologies to develop offensive tools, it added. The report did not say who was to blame for the attacks. WAM reported that cyberattacks of a “terrorist nature” aimed to “destabilise the nation and disrupt essential services”. It said that the UAE’s Cybersecurity Council “affirmed that the safety of individuals, the protection of personal data, and the continuity of critical services remain top priorities”. The council said that attacks “also involved the exploitation of artificial intelligence technologies to develop sophisticated offensive tools, reflecting a qualitative shift in the methods employed by terrorist groups and their ability to harness modern technologies to carry out digital attacks”. As per WAM , the Cybersecurity Council advised the public to report cyber threats or suspicious activities to official channels. The council “reiterated its full commitment to safeguarding the digital domain, preserving stability”, WAM reported.",
@@ -2079,24 +2097,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b9eade011c7a6633",
-      "title_orig": "Live: Hungary will block new EU sanctions on Russia over Ukraine oil dispute",
-      "summary_orig": "Hungary will block ⁠the European Union's ​next package of sanctions against Russia, its foreign minister said on Sunday, until Ukraine resumes shipments of Russian oil to Hungary and Slovakia ​via the Druzhba ‌pipeline, which has been cut off since January 27 after being damaged by a Russian drone, according to Kyiv. Follow our liveblog for the latest developments.",
-      "lang": "en",
-      "title_en": "Live: Hungary will block new EU sanctions on Russia over Ukraine oil dispute",
-      "summary_en": "Hungary will block ⁠the European Union's ​next package of sanctions against Russia, its foreign minister said on Sunday, until Ukraine resumes shipments of Russian oil to Hungary and Slovakia ​via the Druzhba ‌pipeline, which has been cut off since January 27 after being damaged by a Russian drone, according to Kyiv. Follow our liveblog for the latest developments.",
-      "title": "Live: Hungary will block new EU sanctions on Russia over Ukraine oil dispute",
-      "summary": "Hungary will block ⁠the European Union's ​next package of sanctions against Russia, its foreign minister said on Sunday, until Ukraine resumes shipments of Russian oil to Hungary and Slovakia ​via the Druzhba ‌pipeline, which has been cut off since January 27 after being damaged by a Russian drone, according to Kyiv. Follow our liveblog for the latest developments.",
-      "url": "https://www.france24.com/en/europe/20260222-live-russian-missiles-pound-kyiv-ahead-of-ukraine-war-anniversary",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-02-22T06:46:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2498,24 +2498,6 @@
       "url": "https://www.scmp.com/news/china/diplomacy/article/3344205/k-pops-big-freeze-are-cracks-chinas-cultural-blockade-thaw?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-02-21T22:00:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "002d26a6d6b64f60",
-      "title_orig": "Iran’s president says country will not bow to Trump’s pressure over nuclear talks",
-      "summary_orig": "Trump's renewed threats of strikes in January came after Tehran suppressed widespread protests with deadly force",
-      "lang": "en",
-      "title_en": "Iran’s president says country will not bow to Trump’s pressure over nuclear talks",
-      "summary_en": "Trump's renewed threats of strikes in January came after Tehran suppressed widespread protests with deadly force",
-      "title": "Iran’s president says country will not bow to Trump’s pressure over nuclear talks",
-      "summary": "Trump's renewed threats of strikes in January came after Tehran suppressed widespread protests with deadly force",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-president-us-military-strike-b2925061.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-21T19:58:33+00:00",
       "tags": [
         "airport/security"
       ],
