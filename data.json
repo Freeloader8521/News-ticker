@@ -1,6 +1,87 @@
 {
-  "generated_at": "2026-02-28T22:22:31.236703+00:00",
+  "generated_at": "2026-02-28T22:51:44.577106+00:00",
   "items": [
+    {
+      "id": "5895d2e021782e59",
+      "title_orig": "Multiple people injured in Dubai airport incident on day of Iranian strikes across region",
+      "summary_orig": "Multiple people have been injured after an incident occurred at Dubai International Airport.",
+      "lang": "en",
+      "title_en": "Multiple people injured in Dubai airport incident on day of Iranian strikes across region",
+      "summary_en": "Multiple people have been injured after an incident occurred at Dubai International Airport.",
+      "title": "Multiple people injured in Dubai airport incident on day of Iranian strikes across region",
+      "summary": "Multiple people have been injured after an incident occurred at Dubai International Airport.",
+      "url": "https://www.independent.co.uk/news/world/dubai-airport-strike-injuries-iran-us-trump-b2929604.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-28T22:42:23+00:00",
+      "tags": [
+        "DXB",
+        "United Arab Emirates",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dubai",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "iata": "DXB",
+        "lat": 25.2532,
+        "lon": 55.3657
+      }
+    },
+    {
+      "id": "8d07d2625eb0ccdf",
+      "title_orig": "Mapping the U.S.-Led Attacks on Iran",
+      "summary_orig": "Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated.",
+      "lang": "en",
+      "title_en": "Mapping the U.S.-Led Attacks on Iran",
+      "summary_en": "Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated.",
+      "title": "Mapping the U.S.-Led Attacks on Iran",
+      "summary": "Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated.",
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-28T22:40:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "b79945e46e10ec21",
+      "title_orig": "Dubai International Airport Hit By Drone Following Iranian Retaliatory Strikes",
+      "summary_orig": "The news comes following a series of strikes on Saturday.",
+      "lang": "en",
+      "title_en": "Dubai International Airport Hit By Drone Following Iranian Retaliatory Strikes",
+      "summary_en": "The news comes following a series of strikes on Saturday.",
+      "title": "Dubai International Airport Hit By Drone Following Iranian Retaliatory Strikes",
+      "summary": "The news comes following a series of strikes on Saturday.",
+      "url": "https://simpleflying.com/dubai-international-airport-hit-by-drone/",
+      "source": "Simple Flying",
+      "published_at": "2026-02-28T22:38:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e02016086a29215c",
+      "title_orig": "Explainer-How does Iran's theocratic system of power work?",
+      "summary_orig": "Feb 28 - Iran's Supreme Leader Ayatollah Ali Khamenei was reported killed in strikes on Saturday by the U.S. and Israel, which, if confirmed, could throw into jeopardy continued clerical rule in the Islamic Republic.",
+      "lang": "en",
+      "title_en": "Explainer-How does Iran's theocratic system of power work?",
+      "summary_en": "Feb 28 - Iran's Supreme Leader Ayatollah Ali Khamenei was reported killed in strikes on Saturday by the U.S. and Israel, which, if confirmed, could throw into jeopardy continued clerical rule in the Islamic Republic.",
+      "title": "Explainer-How does Iran's theocratic system of power work?",
+      "summary": "Feb 28 - Iran's Supreme Leader Ayatollah Ali Khamenei was reported killed in strikes on Saturday by the U.S. and Israel, which, if confirmed, could throw into jeopardy continued clerical rule in the Islamic Republic.",
+      "url": "https://www.straitstimes.com/world/middle-east/explainer-how-does-irans-system-of-power-work",
+      "source": "The Straits Times World News",
+      "published_at": "2026-02-28T22:38:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "2d6e85ab4c2ed590",
       "title_orig": "Live Updates: Trump Says Iran’s Supreme Leader Is Dead",
@@ -12,11 +93,578 @@
       "summary": "The president’s announcement came after a day of U.S. and Israeli military strikes, and after he pledged to eliminate Iran’s nuclear program and overthrow its government.",
       "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
       "source": "NYT > World News",
-      "published_at": "2026-02-28T22:14:32+00:00",
+      "published_at": "2026-02-28T22:37:03+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "cb8bb1ec240b396e",
+      "title_orig": "Flights cancelled as travel warnings issued after strikes on Iran",
+      "summary_orig": "BA, Virgin Atlantic and Wizz Air are among major airlines to overhaul their schedules in light of the attacks.",
+      "lang": "en",
+      "title_en": "Flights cancelled as travel warnings issued after strikes on Iran",
+      "summary_en": "BA, Virgin Atlantic and Wizz Air are among major airlines to overhaul their schedules in light of the attacks.",
+      "title": "Flights cancelled as travel warnings issued after strikes on Iran",
+      "summary": "BA, Virgin Atlantic and Wizz Air are among major airlines to overhaul their schedules in light of the attacks.",
+      "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-02-28T22:36:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1c491deb9384b730",
+      "title_orig": "What to Know About the U.S. Attacks on Iran",
+      "summary_orig": "The United States and Israel launched a major assault that reportedly has killed Iran’s supreme leader, Ayatollah Ali Khamenei.",
+      "lang": "en",
+      "title_en": "What to Know About the U.S. Attacks on Iran",
+      "summary_en": "The United States and Israel launched a major assault that reportedly has killed Iran’s supreme leader, Ayatollah Ali Khamenei.",
+      "title": "What to Know About the U.S. Attacks on Iran",
+      "summary": "The United States and Israel launched a major assault that reportedly has killed Iran’s supreme leader, Ayatollah Ali Khamenei.",
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-28T22:35:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6374b4e6d03b8429",
+      "title_orig": "Dubai International Airport incident leaves four injured amid Iran attack reports",
+      "summary_orig": "Dubai Airports confirmed an incident at Dubai International Airport on Saturday night with four people injured and emergency response teams activated",
+      "lang": "en",
+      "title_en": "Dubai International Airport incident leaves four injured amid Iran attack reports",
+      "summary_en": "Dubai Airports confirmed an incident at Dubai International Airport on Saturday night with four people injured and emergency response teams activated",
+      "title": "Dubai International Airport incident leaves four injured amid Iran attack reports",
+      "summary": "Dubai Airports confirmed an incident at Dubai International Airport on Saturday night with four people injured and emergency response teams activated",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/dubai-international-airport-incident-leaves-36797910",
+      "source": "Daily Record - Home",
+      "published_at": "2026-02-28T22:35:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3f2dd59f6b0e3d4b",
+      "title_orig": "Iran’s key political figures explained after Ayatollah Ali Khamenei killed in US strikes",
+      "summary_orig": "The 86-year-old Khamenei was Iran's commander-in-chief and had the final say on all policy and religious matters",
+      "lang": "en",
+      "title_en": "Iran’s key political figures explained after Ayatollah Ali Khamenei killed in US strikes",
+      "summary_en": "The 86-year-old Khamenei was Iran's commander-in-chief and had the final say on all policy and religious matters",
+      "title": "Iran’s key political figures explained after Ayatollah Ali Khamenei killed in US strikes",
+      "summary": "The 86-year-old Khamenei was Iran's commander-in-chief and had the final say on all policy and religious matters",
+      "url": "https://www.independent.co.uk/news/world/middle-east/ayatollah-ali-khamenei-dead-killed-us-strikes-iran-political-figures-b2929601.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-28T22:33:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c16f7c54d61646ae",
+      "title_orig": "Horror at Dubai airport as people flee amid claims of 'drone strikes'",
+      "summary_orig": "Dubai International Airport evacuated after incident leaves four people injured,",
+      "lang": "en",
+      "title_en": "Horror at Dubai airport as people flee amid claims of 'drone strikes'",
+      "summary_en": "Dubai International Airport evacuated after incident leaves four people injured,",
+      "title": "Horror at Dubai airport as people flee amid claims of 'drone strikes'",
+      "summary": "Dubai International Airport evacuated after incident leaves four people injured,",
+      "url": "https://www.manchestereveningnews.co.uk/news/world-news/horror-dubai-airport-people-flee-33509934",
+      "source": "MEN - News",
+      "published_at": "2026-02-28T22:32:52+00:00",
+      "tags": [
+        "DXB",
+        "United Arab Emirates",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dubai",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "iata": "DXB",
+        "lat": 25.2532,
+        "lon": 55.3657
+      }
+    },
+    {
+      "id": "64f25d637678d8af",
+      "title_orig": "US-Israel war on Iran: Donald Trump says Iran’s supreme leader Ayatollah Ali Khamenei is dead – latest reports",
+      "summary_orig": "US president proclaims Khamenei’s death as ‘justice for the people of Iran’ after Israeli sources said Iran’s leader had been killed Ayatollah Ali Khamenei killed, says Trump A visual guide to the US-Israeli strikes on Iran – and Tehran’s response War on Iran: how the US-Israeli bid for regime change unfolded Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
+      "lang": "en",
+      "title_en": "US-Israel war on Iran: Donald Trump says Iran’s supreme leader Ayatollah Ali Khamenei is dead – latest reports",
+      "summary_en": "US president proclaims Khamenei’s death as ‘justice for the people of Iran’ after Israeli sources said Iran’s leader had been killed Ayatollah Ali Khamenei killed, says Trump A visual guide to the US-Israeli strikes on Iran – and Tehran’s response War on Iran: how the US-Israeli bid for regime change unfolded Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
+      "title": "US-Israel war on Iran: Donald Trump says Iran’s supreme leader Ayatollah Ali Khamenei is dead – latest reports",
+      "summary": "US president proclaims Khamenei’s death as ‘justice for the people of Iran’ after Israeli sources said Iran’s leader had been killed Ayatollah Ali Khamenei killed, says Trump A visual guide to the US-Israeli strikes on Iran – and Tehran’s response War on Iran: how the US-Israeli bid for regime change unfolded Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-28T22:32:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "fc47c9f35efbefc7",
+      "title_orig": "Who is Ayatollah Ali Khamenei?",
+      "summary_orig": "US President Donald Trump says Iran’s Supreme Leader Ayatollah Ali Khamenei “is dead”. His claim came hours after Israel and the US launched an attack on Iran and followed reports quoting Israeli officials as saying that Khamenei had been assassinated. But, subsequent Iranian media reports said that Khamenei was “steadfast and firm in commanding the field”. Khamenei, 86, became Iran’s highest authority in 1989, following the death of the Islamic Republic’s founder, Ayatollah Ruhollah Khomeini. As supreme leader, he has held ultimate control over Iran’s political, military and religious institutions, shaping domestic policy and guiding foreign relations. An article published in Al Jazeera says “critical to Khamenei’s power is the loyalty of two of Iran’s premier security institutions – the Islamic Revolutionary Guard Corps (IRGC) and the Basij paramilitary forces, which have hundreds of ⁠thousands of volunteers”. Khamenei upheld the conservative vision of his predecessor, Khomeini, quashing the ambitions of elected presidents who sought more open policies at home and abroad. Under his rule, authorities crushed repeated protests and sidelined reformists pushing for less confrontation with the West. He backed the 2015 nuclear deal brokered with world powers and pragmatist former Iranian president Hassan Rouhani, which briefly eased Iran’s isolation. But tensions spiked after US President Donald Trump abandoned the accord in 2018 and reimposed sanctions. Israel has long seen him as a destabilising force in the Middle East, citing his alleged backing for a network of militant allies. When Israel and Iran fought a 12-day air war in June 2025, Israeli Defence Minister Israel Katz threatened to assassinate him, saying the supreme leader “cannot continue to exist.”",
+      "lang": "en",
+      "title_en": "Who is Ayatollah Ali Khamenei?",
+      "summary_en": "US President Donald Trump says Iran’s Supreme Leader Ayatollah Ali Khamenei “is dead”. His claim came hours after Israel and the US launched an attack on Iran and followed reports quoting Israeli officials as saying that Khamenei had been assassinated. But, subsequent Iranian media reports said that Khamenei was “steadfast and firm in commanding the field”. Khamenei, 86, became Iran’s highest authority in 1989, following the death of the Islamic Republic’s founder, Ayatollah Ruhollah Khomeini. As supreme leader, he has held ultimate control over Iran’s political, military and religious institutions, shaping domestic policy and guiding foreign relations. An article published in Al Jazeera says “critical to Khamenei’s power is the loyalty of two of Iran’s premier security institutions – the Islamic Revolutionary Guard Corps (IRGC) and the Basij paramilitary forces, which have hundreds of ⁠thousands of volunteers”. Khamenei upheld the conservative vision of his predecessor, Khomeini, quashing the ambitions of elected presidents who sought more open policies at home and abroad. Under his rule, authorities crushed repeated protests and sidelined reformists pushing for less confrontation with the West. He backed the 2015 nuclear deal brokered with world powers and pragmatist former Iranian president Hassan Rouhani, which briefly eased Iran’s isolation. But tensions spiked after US President Donald Trump abandoned the accord in 2018 and reimposed sanctions. Israel has long seen him as a destabilising force in the Middle East, citing his alleged backing for a network of militant allies. When Israel and Iran fought a 12-day air war in June 2025, Israeli Defence Minister Israel Katz threatened to assassinate him, saying the supreme leader “cannot continue to exist.”",
+      "title": "Who is Ayatollah Ali Khamenei?",
+      "summary": "US President Donald Trump says Iran’s Supreme Leader Ayatollah Ali Khamenei “is dead”. His claim came hours after Israel and the US launched an attack on Iran and followed reports quoting Israeli officials as saying that Khamenei had been assassinated. But, subsequent Iranian media reports said that Khamenei was “steadfast and firm in commanding the field”. Khamenei, 86, became Iran’s highest authority in 1989, following the death of the Islamic Republic’s founder, Ayatollah Ruhollah Khomeini. As supreme leader, he has held ultimate control over Iran’s political, military and religious institutions, shaping domestic policy and guiding foreign relations. An article published in Al Jazeera says “critical to Khamenei’s power is the loyalty of two of Iran’s premier security institutions – the Islamic Revolutionary Guard Corps (IRGC) and the Basij paramilitary forces, which have hundreds of ⁠thousands of volunteers”. Khamenei upheld the conservative vision of his predecessor, Khomeini, quashing the ambitions of elected presidents who sought more open policies at home and abroad. Under his rule, authorities crushed repeated protests and sidelined reformists pushing for less confrontation with the West. He backed the 2015 nuclear deal brokered with world powers and pragmatist former Iranian president Hassan Rouhani, which briefly eased Iran’s isolation. But tensions spiked after US President Donald Trump abandoned the accord in 2018 and reimposed sanctions. Israel has long seen him as a destabilising force in the Middle East, citing his alleged backing for a network of militant allies. When Israel and Iran fought a 12-day air war in June 2025, Israeli Defence Minister Israel Katz threatened to assassinate him, saying the supreme leader “cannot continue to exist.”",
+      "url": "https://www.dawn.com/news/1976762/who-is-ayatollah-ali-khamenei",
+      "source": "Dawn - Home",
+      "published_at": "2026-02-28T22:31:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "80e166a1c4d9f4ff",
+      "title_orig": "Qatar says 'situation secure' after Iranian attacks foiled, urges vigilance on rumours",
+      "summary_orig": "Iran launched retaliatory strikes on US military bases across the Gulf including in Qatar after US-Israeli attacks on Iranian targets on February 28, sharply escalating regional tensions and prompting civil defence measures.",
+      "lang": "en",
+      "title_en": "Qatar says 'situation secure' after Iranian attacks foiled, urges vigilance on rumours",
+      "summary_en": "Iran launched retaliatory strikes on US military bases across the Gulf including in Qatar after US-Israeli attacks on Iranian targets on February 28, sharply escalating regional tensions and prompting civil defence measures.",
+      "title": "Qatar says 'situation secure' after Iranian attacks foiled, urges vigilance on rumours",
+      "summary": "Iran launched retaliatory strikes on US military bases across the Gulf including in Qatar after US-Israeli attacks on Iranian targets on February 28, sharply escalating regional tensions and prompting civil defence measures.",
+      "url": "http://www.euronews.com/2026/02/28/qatar-says-situation-secure-after-iranian-attacks-foiled-urges-vigilance-on-rumours",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-02-28T22:30:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "284b00ca1714527e",
+      "title_orig": "Australia news live: cabinet’s national security committee to meet as US and Israel strike Iran",
+      "summary_orig": "Penny Wong due to speak from Adelaide after government declared its support for US action. Follow the latest updates live Get our breaking news email , free app or daily news podcast ‘Leadership needed not sycophantic capitulation’: Labor anti-war group voices disappointment in party ALP members who oppose war are disappointed Australia has offered support to the US and Israeli bombing of Iran overnight. Continue reading...",
+      "lang": "en",
+      "title_en": "Australia news live: cabinet’s national security committee to meet as US and Israel strike Iran",
+      "summary_en": "Penny Wong due to speak from Adelaide after government declared its support for US action. Follow the latest updates live Get our breaking news email , free app or daily news podcast ‘Leadership needed not sycophantic capitulation’: Labor anti-war group voices disappointment in party ALP members who oppose war are disappointed Australia has offered support to the US and Israeli bombing of Iran overnight. Continue reading...",
+      "title": "Australia news live: cabinet’s national security committee to meet as US and Israel strike Iran",
+      "summary": "Penny Wong due to speak from Adelaide after government declared its support for US action. Follow the latest updates live Get our breaking news email , free app or daily news podcast ‘Leadership needed not sycophantic capitulation’: Labor anti-war group voices disappointment in party ALP members who oppose war are disappointed Australia has offered support to the US and Israeli bombing of Iran overnight. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/01/australia-news-live-sunday-iran-illegal-war-reaction-labor-coalition",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-28T22:30:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "ff4eadbe885ccc09",
+      "title_orig": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
+      "summary_orig": "Many nations abstained from commenting directly, but a few shows direct support or criticism to the strikes.",
+      "lang": "en",
+      "title_en": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
+      "summary_en": "Many nations abstained from commenting directly, but a few shows direct support or criticism to the strikes.",
+      "title": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
+      "summary": "Many nations abstained from commenting directly, but a few shows direct support or criticism to the strikes.",
+      "url": "https://www.kgw.com/article/news/nation-world/world-leaders-react-us-and-israeli-strikes-on-iran/507-7a5cf770-290e-4ba8-ab49-e2c8f2a2db5d",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-02-28T22:29:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "acbc26274c2eba89",
+      "title_orig": "Trump says Iran’s Supreme Leader Ayatollah Khamenei ‘is dead’ after US and Israeli attack",
+      "summary_orig": "Israeli media has reported that a photograph of Khamenei’s body had been shown to Trump and Netanyahu.",
+      "lang": "en",
+      "title_en": "Trump says Iran’s Supreme Leader Ayatollah Khamenei ‘is dead’ after US and Israeli attack",
+      "summary_en": "Israeli media has reported that a photograph of Khamenei’s body had been shown to Trump and Netanyahu.",
+      "title": "Trump says Iran’s Supreme Leader Ayatollah Khamenei ‘is dead’ after US and Israeli attack",
+      "summary": "Israeli media has reported that a photograph of Khamenei’s body had been shown to Trump and Netanyahu.",
+      "url": "https://www.thejournal.ie/israel-attack-on-iran-6970413-Feb2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-02-28T22:29:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ba53fc1cc2852bab",
+      "title_orig": "World leaders react cautiously to US and Israeli strikes, death of Iran Ali Khamenei",
+      "summary_orig": "European leaders scrambled to protect their citizens in the Middle East and figure out how to respond to U.S. and Israeli strikes on Iran on Saturday, amid fast-moving developments on the ground.",
+      "lang": "en",
+      "title_en": "World leaders react cautiously to US and Israeli strikes, death of Iran Ali Khamenei",
+      "summary_en": "European leaders scrambled to protect their citizens in the Middle East and figure out how to respond to U.S. and Israeli strikes on Iran on Saturday, amid fast-moving developments on the ground.",
+      "title": "World leaders react cautiously to US and Israeli strikes, death of Iran Ali Khamenei",
+      "summary": "European leaders scrambled to protect their citizens in the Middle East and figure out how to respond to U.S. and Israeli strikes on Iran on Saturday, amid fast-moving developments on the ground.",
+      "url": "https://wtop.com/europe/2026/02/europeans-cautious-as-they-scramble-to-digest-major-us-and-israeli-attack-on-iran/",
+      "source": "WTOP News",
+      "published_at": "2026-02-28T22:27:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a5e5cd26c60c6b44",
+      "title_orig": "Iran's supreme leader has been killed during major attack, Trump says",
+      "summary_orig": "In confirming the death, President Donald Trump said it gave Iranians their ‘’greatest chance’’ to ‘’take back the country’’ but that also put the future of the Islamic Republic in doubt and raised the risk of regional instability.",
+      "lang": "en",
+      "title_en": "Iran's supreme leader has been killed during major attack, Trump says",
+      "summary_en": "In confirming the death, President Donald Trump said it gave Iranians their ‘’greatest chance’’ to ‘’take back the country’’ but that also put the future of the Islamic Republic in doubt and raised the risk of regional instability.",
+      "title": "Iran's supreme leader has been killed during major attack, Trump says",
+      "summary": "In confirming the death, President Donald Trump said it gave Iranians their ‘’greatest chance’’ to ‘’take back the country’’ but that also put the future of the Islamic Republic in doubt and raised the risk of regional instability.",
+      "url": "https://www.startribune.com/witnesses-say-they-hear-an-explosion-in-irans-capital-tehran/601590347",
+      "source": "Startribune News",
+      "published_at": "2026-02-28T22:27:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1df64930c86de470",
+      "title_orig": "Ayatollah Ali Khamenei killed by missile strike on Iran, says Donald Trump",
+      "summary_orig": "US president posts on Truth Social that Iran’s supreme leader, ‘one of the most evil people in History, is dead’ Iran’s supreme leader Ali Khamenei has been killed in the opening salvo of a regime change war launched on Saturday by the US and Israel, Donald Trump has claimed. The US president announced the death of the ayatollah, who has ruled Iran as supreme leader since 1989, in a post on Truth Social. “Khamenei, one of the most evil people in History, is dead,” Trump wrote. “He was unable to avoid our Intelligence and Highly Sophisticated Tracking Systems and, working closely with Israel, there was not a thing he, or the other leaders that have been killed along with him, could do.” Trump said that the goal of the military campaign, which began on Saturday morning with a barrage of missiles and airstrikes, was regime change. “This is the single greatest chance for the Iranian people to take back their Country,” he wrote. Continue reading...",
+      "lang": "en",
+      "title_en": "Ayatollah Ali Khamenei killed by missile strike on Iran, says Donald Trump",
+      "summary_en": "US president posts on Truth Social that Iran’s supreme leader, ‘one of the most evil people in History, is dead’ Iran’s supreme leader Ali Khamenei has been killed in the opening salvo of a regime change war launched on Saturday by the US and Israel, Donald Trump has claimed. The US president announced the death of the ayatollah, who has ruled Iran as supreme leader since 1989, in a post on Truth Social. “Khamenei, one of the most evil people in History, is dead,” Trump wrote. “He was unable to avoid our Intelligence and Highly Sophisticated Tracking Systems and, working closely with Israel, there was not a thing he, or the other leaders that have been killed along with him, could do.” Trump said that the goal of the military campaign, which began on Saturday morning with a barrage of missiles and airstrikes, was regime change. “This is the single greatest chance for the Iranian people to take back their Country,” he wrote. Continue reading...",
+      "title": "Ayatollah Ali Khamenei killed by missile strike on Iran, says Donald Trump",
+      "summary": "US president posts on Truth Social that Iran’s supreme leader, ‘one of the most evil people in History, is dead’ Iran’s supreme leader Ali Khamenei has been killed in the opening salvo of a regime change war launched on Saturday by the US and Israel, Donald Trump has claimed. The US president announced the death of the ayatollah, who has ruled Iran as supreme leader since 1989, in a post on Truth Social. “Khamenei, one of the most evil people in History, is dead,” Trump wrote. “He was unable to avoid our Intelligence and Highly Sophisticated Tracking Systems and, working closely with Israel, there was not a thing he, or the other leaders that have been killed along with him, could do.” Trump said that the goal of the military campaign, which began on Saturday morning with a barrage of missiles and airstrikes, was regime change. “This is the single greatest chance for the Iranian people to take back their Country,” he wrote. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/feb/28/khamenei-likely-killed-us-israel-iran-strikes",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-28T22:25:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "996c969654724fbe",
+      "title_orig": "Iran’s supreme leader has been killed during major attack, Trump says",
+      "summary_orig": "DUBAI, United Arab Emirates (AP) — A major attack launched by Israel and the United States killed Iran's Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday, confirming an assassination that he said gave Iranians their “greatest chance” to “take back the country” but that also put the future of the Islamic Republic in [...]",
+      "lang": "en",
+      "title_en": "Iran’s supreme leader has been killed during major attack, Trump says",
+      "summary_en": "DUBAI, United Arab Emirates (AP) — A major attack launched by Israel and the United States killed Iran's Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday, confirming an assassination that he said gave Iranians their “greatest chance” to “take back the country” but that also put the future of the Islamic Republic in [...]",
+      "title": "Iran’s supreme leader has been killed during major attack, Trump says",
+      "summary": "DUBAI, United Arab Emirates (AP) — A major attack launched by Israel and the United States killed Iran's Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday, confirming an assassination that he said gave Iranians their “greatest chance” to “take back the country” but that also put the future of the Islamic Republic in [...]",
+      "url": "https://ktla.com/news/nationworld/ap-international/ap-israels-defense-minister-says-his-country-has-attacked-iran-and-declares-a-state-of-emergency/",
+      "source": "KTLA",
+      "published_at": "2026-02-28T22:25:39+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "546e26033d61aed1",
+      "title_orig": "Iran’s supreme leader has been killed during major attack, Trump says",
+      "summary_orig": "DUBAI, United Arab Emirates (AP) — A major attack launched by Israel and the United States killed Iran's Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday, confirming an assassination that he said gave Iranians their “greatest chance” to “take back the country” but that also put the future of the Islamic Republic in [...]",
+      "lang": "en",
+      "title_en": "Iran’s supreme leader has been killed during major attack, Trump says",
+      "summary_en": "DUBAI, United Arab Emirates (AP) — A major attack launched by Israel and the United States killed Iran's Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday, confirming an assassination that he said gave Iranians their “greatest chance” to “take back the country” but that also put the future of the Islamic Republic in [...]",
+      "title": "Iran’s supreme leader has been killed during major attack, Trump says",
+      "summary": "DUBAI, United Arab Emirates (AP) — A major attack launched by Israel and the United States killed Iran's Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday, confirming an assassination that he said gave Iranians their “greatest chance” to “take back the country” but that also put the future of the Islamic Republic in [...]",
+      "url": "https://www.kxan.com/news/international/ap-israels-defense-minister-says-his-country-has-attacked-iran-and-declares-a-state-of-emergency/",
+      "source": "KXAN Austin",
+      "published_at": "2026-02-28T22:25:39+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ab154404f9047966",
+      "title_orig": "Iran’s supreme leader has been killed during major attack, Trump says",
+      "summary_orig": "A major attack launched by Israel and the United States killed Iran’s Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday.",
+      "lang": "en",
+      "title_en": "Iran’s supreme leader has been killed during major attack, Trump says",
+      "summary_en": "A major attack launched by Israel and the United States killed Iran’s Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday.",
+      "title": "Iran’s supreme leader has been killed during major attack, Trump says",
+      "summary": "A major attack launched by Israel and the United States killed Iran’s Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday.",
+      "url": "https://wtop.com/world/2026/02/witnesses-say-they-hear-an-explosion-in-irans-capital-tehran-sirens-sound-in-israel/",
+      "source": "WTOP News",
+      "published_at": "2026-02-28T22:25:39+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3352961f14437b67",
+      "title_orig": "US-Israel attack on Iran: Everything we know so far",
+      "summary_orig": "US and Israeli forces launched a \"pre-emptive\" strike against Iran on Saturday with Donald Trump confirming \"major combat operations\"",
+      "lang": "en",
+      "title_en": "US-Israel attack on Iran: Everything we know so far",
+      "summary_en": "US and Israeli forces launched a \"pre-emptive\" strike against Iran on Saturday with Donald Trump confirming \"major combat operations\"",
+      "title": "US-Israel attack on Iran: Everything we know so far",
+      "summary": "US and Israeli forces launched a \"pre-emptive\" strike against Iran on Saturday with Donald Trump confirming \"major combat operations\"",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/israel-attack-iran-everything-know-33509860",
+      "source": "Liverpool Echo - News",
+      "published_at": "2026-02-28T22:25:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c9d5140bc01f5c9f",
+      "title_orig": "Rubio canceled his trip to Israel early next week following US-Israel strikes on Iran, State Department official says",
+      "summary_orig": "WASHINGTON (AP) — Rubio canceled his trip to Israel early next week following US-Israel strikes on Iran, State Department official…",
+      "lang": "en",
+      "title_en": "Rubio canceled his trip to Israel early next week following US-Israel strikes on Iran, State Department official says",
+      "summary_en": "WASHINGTON (AP) — Rubio canceled his trip to Israel early next week following US-Israel strikes on Iran, State Department official…",
+      "title": "Rubio canceled his trip to Israel early next week following US-Israel strikes on Iran, State Department official says",
+      "summary": "WASHINGTON (AP) — Rubio canceled his trip to Israel early next week following US-Israel strikes on Iran, State Department official…",
+      "url": "https://wtop.com/news/2026/02/rubio-canceled-his-trip-to-israel-early-next-week-following-us-israel-strikes-on-iran-state-department-official-says/",
+      "source": "WTOP News",
+      "published_at": "2026-02-28T22:24:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b3c21b7dc1e87539",
+      "title_orig": "Oregon, Washington state lawmakers condemn US-Israel attack on Iran, call for Congressional action",
+      "summary_orig": "The U.S. and Israel attacked Iran Saturday, with Trump confirming that the U.S. has begun “major combat operations in Iran.”",
+      "lang": "en",
+      "title_en": "Oregon, Washington state lawmakers condemn US-Israel attack on Iran, call for Congressional action",
+      "summary_en": "The U.S. and Israel attacked Iran Saturday, with Trump confirming that the U.S. has begun “major combat operations in Iran.”",
+      "title": "Oregon, Washington state lawmakers condemn US-Israel attack on Iran, call for Congressional action",
+      "summary": "The U.S. and Israel attacked Iran Saturday, with Trump confirming that the U.S. has begun “major combat operations in Iran.”",
+      "url": "https://www.kgw.com/article/news/nation-world/oregon-washington-lawmakers-largely-condemn-us-israel-attack-iran/283-e21279f5-f5fd-4a92-905a-70b437c763d0",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-02-28T22:21:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "97e925b1baab73b6",
+      "title_orig": "Trump claims Iran leader Khamenei dead following military strikes",
+      "summary_orig": "US President Donald Trump has claimed Iranian Supreme Leader Ayatollah Ali Khamenei has died following US and Israeli strikes on Iran, though Iran disputes the reports",
+      "lang": "en",
+      "title_en": "Trump claims Iran leader Khamenei dead following military strikes",
+      "summary_en": "US President Donald Trump has claimed Iranian Supreme Leader Ayatollah Ali Khamenei has died following US and Israeli strikes on Iran, though Iran disputes the reports",
+      "title": "Trump claims Iran leader Khamenei dead following military strikes",
+      "summary": "US President Donald Trump has claimed Iranian Supreme Leader Ayatollah Ali Khamenei has died following US and Israeli strikes on Iran, though Iran disputes the reports",
+      "url": "https://www.walesonline.co.uk/news/world-news/trump-claims-iran-leader-khamenei-33509904",
+      "source": "WalesOnline - Home",
+      "published_at": "2026-02-28T22:21:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f9d6fc0e0f0bfc27",
+      "title_orig": "What countries has Trump attacked since returning to office?",
+      "summary_orig": "The US president, who had said he would avoid needless foreign wars, has embraced military power with few limits.",
+      "lang": "en",
+      "title_en": "What countries has Trump attacked since returning to office?",
+      "summary_en": "The US president, who had said he would avoid needless foreign wars, has embraced military power with few limits.",
+      "title": "What countries has Trump attacked since returning to office?",
+      "summary": "The US president, who had said he would avoid needless foreign wars, has embraced military power with few limits.",
+      "url": "https://www.aljazeera.com/news/2026/2/28/what-countries-has-trump-attacked-since-returning-to-office?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-02-28T22:20:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "cbfb6bfeda025f63",
+      "title_orig": "A look at Iran’s key political and religious figures",
+      "summary_orig": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
+      "lang": "en",
+      "title_en": "A look at Iran’s key political and religious figures",
+      "summary_en": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
+      "title": "A look at Iran’s key political and religious figures",
+      "summary": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
+      "url": "https://wtop.com/national/2026/02/a-look-at-irans-key-political-and-religious-figures/",
+      "source": "WTOP News",
+      "published_at": "2026-02-28T22:18:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "93cc6d9f2aa20d48",
+      "title_orig": "Four injured after Dubai International Airport hit by Iranian missile strike",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Four injured after Dubai International Airport hit by Iranian missile strike",
+      "summary_en": "",
+      "title": "Four injured after Dubai International Airport hit by Iranian missile strike",
+      "summary": "",
+      "url": "https://metro.co.uk/2026/02/28/four-injured-dubai-international-airport-hit-iranian-missile-strike-27162599/",
+      "source": "Metro",
+      "published_at": "2026-02-28T22:18:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fab2e070e9c89aaa",
+      "title_orig": "Oregon House Republicans salvage vote to raise lodging tax as Dems defect",
+      "summary_orig": "An Oregon bill would fund state conservation efforts and compensate ranchers who lose livestock to wolf attacks, a longstanding issue for many rural Oregon lawmakers and their constituents.",
+      "lang": "en",
+      "title_en": "Oregon House Republicans salvage vote to raise lodging tax as Dems defect",
+      "summary_en": "An Oregon bill would fund state conservation efforts and compensate ranchers who lose livestock to wolf attacks, a longstanding issue for many rural Oregon lawmakers and their constituents.",
+      "title": "Oregon House Republicans salvage vote to raise lodging tax as Dems defect",
+      "summary": "An Oregon bill would fund state conservation efforts and compensate ranchers who lose livestock to wolf attacks, a longstanding issue for many rural Oregon lawmakers and their constituents.",
+      "url": "https://www.oregonlive.com/politics/2026/02/oregon-house-republicans-salvage-vote-to-raise-lodging-tax-as-dems-defect.html",
+      "source": "oregonlive.com",
+      "published_at": "2026-02-28T22:17:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7d2d4630d67566b4",
+      "title_orig": "Trump claims Iran leader Khamenei dead following US-Israel military strikes",
+      "summary_orig": "Donald Trump has claimed Iran's Supreme Leader Ayatollah Ali Khamenei is dead following US and Israeli strikes, calling him 'one of the most evil people in history' - but Iran disputes the reports",
+      "lang": "en",
+      "title_en": "Trump claims Iran leader Khamenei dead following US-Israel military strikes",
+      "summary_en": "Donald Trump has claimed Iran's Supreme Leader Ayatollah Ali Khamenei is dead following US and Israeli strikes, calling him 'one of the most evil people in history' - but Iran disputes the reports",
+      "title": "Trump claims Iran leader Khamenei dead following US-Israel military strikes",
+      "summary": "Donald Trump has claimed Iran's Supreme Leader Ayatollah Ali Khamenei is dead following US and Israeli strikes, calling him 'one of the most evil people in history' - but Iran disputes the reports",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/trump-claims-iran-leader-khamenei-36797884",
+      "source": "Daily Record - Home",
+      "published_at": "2026-02-28T22:17:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1c5852d845223dea",
+      "title_orig": "Hundreds of thousands of travelers stranded by flight disruptions after attack on Iran",
+      "summary_orig": "The U.S. and Israeli strikes on Iran are shutting down airspace and throwing global flight schedules into disarray.",
+      "lang": "en",
+      "title_en": "Hundreds of thousands of travelers stranded by flight disruptions after attack on Iran",
+      "summary_en": "The U.S. and Israeli strikes on Iran are shutting down airspace and throwing global flight schedules into disarray.",
+      "title": "Hundreds of thousands of travelers stranded by flight disruptions after attack on Iran",
+      "summary": "The U.S. and Israeli strikes on Iran are shutting down airspace and throwing global flight schedules into disarray.",
+      "url": "https://www.kgw.com/article/news/nation-world/military-strike-iran-flights-middle-east/507-a50f5a43-56f9-4ed0-ad4a-d7bd698113c1",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-02-28T22:16:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "affe142c1c48def0",
+      "title_orig": "Shia LaBeouf surrenders to New Orleans police after new warrant adds third battery charge",
+      "summary_orig": "Actor, originally charged on two counts, also accused of shouting homophobic slurs during attacks on 17 February Shia LaBeouf surrendered to New Orleans police after they obtained a new warrant Friday to arrest him again in connection with a case that had already left him facing two counts of battery. The new warrant brought the number of people whom the Transformers film franchise star is accused of battering to three. He turned himself over to police in advance of a bail hearing on Saturday afternoon, after which he posted a $5,000 bond to continue out of authorities’ custody while awaiting the outcome of the case. Continue reading...",
+      "lang": "en",
+      "title_en": "Shia LaBeouf surrenders to New Orleans police after new warrant adds third battery charge",
+      "summary_en": "Actor, originally charged on two counts, also accused of shouting homophobic slurs during attacks on 17 February Shia LaBeouf surrendered to New Orleans police after they obtained a new warrant Friday to arrest him again in connection with a case that had already left him facing two counts of battery. The new warrant brought the number of people whom the Transformers film franchise star is accused of battering to three. He turned himself over to police in advance of a bail hearing on Saturday afternoon, after which he posted a $5,000 bond to continue out of authorities’ custody while awaiting the outcome of the case. Continue reading...",
+      "title": "Shia LaBeouf surrenders to New Orleans police after new warrant adds third battery charge",
+      "summary": "Actor, originally charged on two counts, also accused of shouting homophobic slurs during attacks on 17 February Shia LaBeouf surrendered to New Orleans police after they obtained a new warrant Friday to arrest him again in connection with a case that had already left him facing two counts of battery. The new warrant brought the number of people whom the Transformers film franchise star is accused of battering to three. He turned himself over to police in advance of a bail hearing on Saturday afternoon, after which he posted a $5,000 bond to continue out of authorities’ custody while awaiting the outcome of the case. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/feb/27/new-orleans-police-shia-labeouf",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-28T22:16:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1951a243a4968804",
+      "title_orig": "Trump claims Iranian Supreme Leader killed in US-Israeli strikes",
+      "summary_orig": "Ayatollah Ali Khamenei’s death is ‘the single greatest chance for the Iranian people to take back their country’, the US leader said.",
+      "lang": "en",
+      "title_en": "Trump claims Iranian Supreme Leader killed in US-Israeli strikes",
+      "summary_en": "Ayatollah Ali Khamenei’s death is ‘the single greatest chance for the Iranian people to take back their country’, the US leader said.",
+      "title": "Trump claims Iranian Supreme Leader killed in US-Israeli strikes",
+      "summary": "Ayatollah Ali Khamenei’s death is ‘the single greatest chance for the Iranian people to take back their country’, the US leader said.",
+      "url": "https://www.standard.co.uk/news/politics/donald-trump-ayatollah-ali-khamenei-iranian-israeli-keir-starmer-b1272920.html",
+      "source": "The Standard News",
+      "published_at": "2026-02-28T22:15:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "58275e94d9be9ba0",
+      "title_orig": "Ayatollah Ali Khamenei: The leader who shaped Iran’s defiance",
+      "summary_orig": "The supreme leader of the Islamic Republic of Iran, has been killed in a joint US-Israeli air strikes on Saturday.",
+      "lang": "en",
+      "title_en": "Ayatollah Ali Khamenei: The leader who shaped Iran’s defiance",
+      "summary_en": "The supreme leader of the Islamic Republic of Iran, has been killed in a joint US-Israeli air strikes on Saturday.",
+      "title": "Ayatollah Ali Khamenei: The leader who shaped Iran’s defiance",
+      "summary": "The supreme leader of the Islamic Republic of Iran, has been killed in a joint US-Israeli air strikes on Saturday.",
+      "url": "https://www.aljazeera.com/news/2026/2/28/ayatollah-ali-khamenei-the-leader-who-shaped-irans-defiance?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-02-28T22:15:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "8f26c68cbf89f309",
+      "title_orig": "Hundreds of thousands of travelers stranded by flight disruptions after attack on Iran",
+      "summary_orig": "LONDON (AP) — America and Israel’s attack on Iran disrupted flights across the Middle East and beyond Saturday as countries…",
+      "lang": "en",
+      "title_en": "Hundreds of thousands of travelers stranded by flight disruptions after attack on Iran",
+      "summary_en": "LONDON (AP) — America and Israel’s attack on Iran disrupted flights across the Middle East and beyond Saturday as countries…",
+      "title": "Hundreds of thousands of travelers stranded by flight disruptions after attack on Iran",
+      "summary": "LONDON (AP) — America and Israel’s attack on Iran disrupted flights across the Middle East and beyond Saturday as countries…",
+      "url": "https://wtop.com/world/2026/02/attack-on-iran-disrupts-flights-across-the-middle-east-and-beyond/",
+      "source": "WTOP News",
+      "published_at": "2026-02-28T22:14:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -38,24 +686,6 @@
       "geo": {}
     },
     {
-      "id": "546e26033d61aed1",
-      "title_orig": "Iran’s supreme leader has been killed during major attack, Trump says",
-      "summary_orig": "DUBAI, United Arab Emirates (AP) — A major attack launched by Israel and the United States killed Iran's Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday, confirming an assassination that he said gave Iranians their “greatest chance” to “take back the country” but that also put the future of the Islamic Republic in [...]",
-      "lang": "en",
-      "title_en": "Iran’s supreme leader has been killed during major attack, Trump says",
-      "summary_en": "DUBAI, United Arab Emirates (AP) — A major attack launched by Israel and the United States killed Iran's Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday, confirming an assassination that he said gave Iranians their “greatest chance” to “take back the country” but that also put the future of the Islamic Republic in [...]",
-      "title": "Iran’s supreme leader has been killed during major attack, Trump says",
-      "summary": "DUBAI, United Arab Emirates (AP) — A major attack launched by Israel and the United States killed Iran's Supreme Leader Ayatollah Ali Khamenei, President Donald Trump announced Saturday, confirming an assassination that he said gave Iranians their “greatest chance” to “take back the country” but that also put the future of the Islamic Republic in [...]",
-      "url": "https://www.kxan.com/news/international/ap-israels-defense-minister-says-his-country-has-attacked-iran-and-declares-a-state-of-emergency/",
-      "source": "KXAN Austin",
-      "published_at": "2026-02-28T22:12:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "61346870f035b16f",
       "title_orig": "What we know so far: Supreme Leader Khamenei killed, Trump says, as Iran launches retaliatory strikes",
       "summary_orig": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE.",
@@ -67,6 +697,42 @@
       "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2026-02-28T22:12:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "dbbd763ee73ec2f3",
+      "title_orig": "Iran latest: Trump confirms supreme leader Ayatollah Khamenei killed in US-Israeli strikes",
+      "summary_orig": "The US president announced Khamenei’s death following US-Israeli airstrikes which reportedly killed hundreds of Iranians",
+      "lang": "en",
+      "title_en": "Iran latest: Trump confirms supreme leader Ayatollah Khamenei killed in US-Israeli strikes",
+      "summary_en": "The US president announced Khamenei’s death following US-Israeli airstrikes which reportedly killed hundreds of Iranians",
+      "title": "Iran latest: Trump confirms supreme leader Ayatollah Khamenei killed in US-Israeli strikes",
+      "summary": "The US president announced Khamenei’s death following US-Israeli airstrikes which reportedly killed hundreds of Iranians",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-israel-strikes-trump-live-updates-b2929362.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-28T22:10:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "44fac9e20364c7e4",
+      "title_orig": "Trump says Iran leader Khamenei dead after US-Israel miltary strikes",
+      "summary_orig": "Donald Trump has claimed Iran's Supreme Leader Ayatollah Ali Khamenei was killed in US-Israel strikes, calling him 'one of the most evil people in history', though Iran denies the reports",
+      "lang": "en",
+      "title_en": "Trump says Iran leader Khamenei dead after US-Israel miltary strikes",
+      "summary_en": "Donald Trump has claimed Iran's Supreme Leader Ayatollah Ali Khamenei was killed in US-Israel strikes, calling him 'one of the most evil people in history', though Iran denies the reports",
+      "title": "Trump says Iran leader Khamenei dead after US-Israel miltary strikes",
+      "summary": "Donald Trump has claimed Iran's Supreme Leader Ayatollah Ali Khamenei was killed in US-Israel strikes, calling him 'one of the most evil people in history', though Iran denies the reports",
+      "url": "https://www.belfastlive.co.uk/news/uk-world-news/trump-says-iran-leader-khamenei-33509880",
+      "source": "BelfastLive - Home",
+      "published_at": "2026-02-28T22:10:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -110,24 +776,6 @@
       "geo": {}
     },
     {
-      "id": "a5e5cd26c60c6b44",
-      "title_orig": "Trump says Iran's supreme leader is dead",
-      "summary_orig": "Iranian Supreme Leader Ayatollah Ali Khamenei was killed in a major attack on Iran launched by Israel and the United States, President Donald Trump said Saturday on social media.",
-      "lang": "en",
-      "title_en": "Trump says Iran's supreme leader is dead",
-      "summary_en": "Iranian Supreme Leader Ayatollah Ali Khamenei was killed in a major attack on Iran launched by Israel and the United States, President Donald Trump said Saturday on social media.",
-      "title": "Trump says Iran's supreme leader is dead",
-      "summary": "Iranian Supreme Leader Ayatollah Ali Khamenei was killed in a major attack on Iran launched by Israel and the United States, President Donald Trump said Saturday on social media.",
-      "url": "https://www.startribune.com/witnesses-say-they-hear-an-explosion-in-irans-capital-tehran/601590347",
-      "source": "Startribune News",
-      "published_at": "2026-02-28T22:07:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "17d434ba2a8f61be",
       "title_orig": "Iranian supreme leader killed in airstrike, leaving power vacuum atop regime",
       "summary_orig": "Ayatollah Ali Khamenei's death throws the future of the regime into doubt.",
@@ -146,17 +794,17 @@
       "geo": {}
     },
     {
-      "id": "996c969654724fbe",
-      "title_orig": "Trump says Iran’s supreme leader is dead",
-      "summary_orig": "DUBAI, United Arab Emirates (AP) — Iranian Supreme Leader Ayatollah Ali Khamenei was killed in a major attack on Iran launched by Israel and the United States, President Donald Trump said Saturday on social media. Trump said his death is “the single greatest chance for the Iranian people to take back their Country.” The death [...]",
+      "id": "3c4fcf908e2e3a63",
+      "title_orig": "Iran war LIVE: Netanyahu says ‘growing signs’ Iran’s supreme leader Khamenei is killed after US-Israel strikes",
+      "summary_orig": "Fire erupts outside Dubai’s Fairmont The Palm after missile debris falls from sky",
       "lang": "en",
-      "title_en": "Trump says Iran’s supreme leader is dead",
-      "summary_en": "DUBAI, United Arab Emirates (AP) — Iranian Supreme Leader Ayatollah Ali Khamenei was killed in a major attack on Iran launched by Israel and the United States, President Donald Trump said Saturday on social media. Trump said his death is “the single greatest chance for the Iranian people to take back their Country.” The death [...]",
-      "title": "Trump says Iran’s supreme leader is dead",
-      "summary": "DUBAI, United Arab Emirates (AP) — Iranian Supreme Leader Ayatollah Ali Khamenei was killed in a major attack on Iran launched by Israel and the United States, President Donald Trump said Saturday on social media. Trump said his death is “the single greatest chance for the Iranian people to take back their Country.” The death [...]",
-      "url": "https://ktla.com/news/nationworld/ap-international/ap-israels-defense-minister-says-his-country-has-attacked-iran-and-declares-a-state-of-emergency/",
-      "source": "KTLA",
-      "published_at": "2026-02-28T22:01:36+00:00",
+      "title_en": "Iran war LIVE: Netanyahu says ‘growing signs’ Iran’s supreme leader Khamenei is killed after US-Israel strikes",
+      "summary_en": "Fire erupts outside Dubai’s Fairmont The Palm after missile debris falls from sky",
+      "title": "Iran war LIVE: Netanyahu says ‘growing signs’ Iran’s supreme leader Khamenei is killed after US-Israel strikes",
+      "summary": "Fire erupts outside Dubai’s Fairmont The Palm after missile debris falls from sky",
+      "url": "https://www.standard.co.uk/news/world/israel-launches-attack-on-iran-tehran-b1272861.html",
+      "source": "The Standard News",
+      "published_at": "2026-02-28T22:03:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -164,21 +812,21 @@
       "geo": {}
     },
     {
-      "id": "284b00ca1714527e",
-      "title_orig": "Australia news live: cabinet’s national security committee to meet as US and Israel strike Iran",
-      "summary_orig": "Penny Wong due to speak from Adelaide after government declared its support for US action. Follow the latest updates live Get our breaking news email , free app or daily news podcast ‘Iran is an enemy of Australia’: Andrew Hastie Liberal frontbencher Andrew Hastie says he supports the bombing in Iran by Donald Trump and Benjamin Netanyahu . Iran is an enemy of Australia. They’ve conducted terrorism on our shores and they’re also a geopolitical bad actor. They’ve been seeking a nuclear weapon for some time and they’ve just murdered upwards of 25,000 of their own citizens over the last few months. There is a lot of risk and as a veteran of the so-called forever wars, I’m very suspicious of regime change by force. Continue reading...",
+      "id": "81c77ce400706657",
+      "title_orig": "Iran's Supreme Leader Ali Khamenei killed, senior Israeli official says",
+      "summary_orig": "Iran's Supreme Leader ​Ayatollah Ali Khamenei, who turned the country into a powerful anti-U.S. force and extended its military ​influence across the Middle East while crushing repeated ‌domestic unrest, was killed in Israeli and U.S. strikes, a senior Israeli official told Reuters on Saturday.",
       "lang": "en",
-      "title_en": "Australia news live: cabinet’s national security committee to meet as US and Israel strike Iran",
-      "summary_en": "Penny Wong due to speak from Adelaide after government declared its support for US action. Follow the latest updates live Get our breaking news email , free app or daily news podcast ‘Iran is an enemy of Australia’: Andrew Hastie Liberal frontbencher Andrew Hastie says he supports the bombing in Iran by Donald Trump and Benjamin Netanyahu . Iran is an enemy of Australia. They’ve conducted terrorism on our shores and they’re also a geopolitical bad actor. They’ve been seeking a nuclear weapon for some time and they’ve just murdered upwards of 25,000 of their own citizens over the last few months. There is a lot of risk and as a veteran of the so-called forever wars, I’m very suspicious of regime change by force. Continue reading...",
-      "title": "Australia news live: cabinet’s national security committee to meet as US and Israel strike Iran",
-      "summary": "Penny Wong due to speak from Adelaide after government declared its support for US action. Follow the latest updates live Get our breaking news email , free app or daily news podcast ‘Iran is an enemy of Australia’: Andrew Hastie Liberal frontbencher Andrew Hastie says he supports the bombing in Iran by Donald Trump and Benjamin Netanyahu . Iran is an enemy of Australia. They’ve conducted terrorism on our shores and they’re also a geopolitical bad actor. They’ve been seeking a nuclear weapon for some time and they’ve just murdered upwards of 25,000 of their own citizens over the last few months. There is a lot of risk and as a veteran of the so-called forever wars, I’m very suspicious of regime change by force. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/01/australia-news-live-sunday-iran-illegal-war-reaction-labor-coalition",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-28T22:01:17+00:00",
+      "title_en": "Iran's Supreme Leader Ali Khamenei killed, senior Israeli official says",
+      "summary_en": "Iran's Supreme Leader ​Ayatollah Ali Khamenei, who turned the country into a powerful anti-U.S. force and extended its military ​influence across the Middle East while crushing repeated ‌domestic unrest, was killed in Israeli and U.S. strikes, a senior Israeli official told Reuters on Saturday.",
+      "title": "Iran's Supreme Leader Ali Khamenei killed, senior Israeli official says",
+      "summary": "Iran's Supreme Leader ​Ayatollah Ali Khamenei, who turned the country into a powerful anti-U.S. force and extended its military ​influence across the Middle East while crushing repeated ‌domestic unrest, was killed in Israeli and U.S. strikes, a senior Israeli official told Reuters on Saturday.",
+      "url": "https://www.bangkokpost.com/world/3207409/irans-supreme-leader-ali-khamenei-killed-senior-israeli-official-says",
+      "source": "Bangkokpost.com : Top Stories",
+      "published_at": "2026-02-28T22:03:00+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -254,32 +902,14 @@
       "geo": {}
     },
     {
-      "id": "64f25d637678d8af",
-      "title_orig": "US-Israel war on Iran: Donald Trump says Iran’s supreme leader Ayatollah Ali Khamenei is dead – latest reports",
-      "summary_orig": "US president proclaims Khamenei’s death as ‘justice for the people of Iran’ after Israeli sources said Iran’s leader had been killed Analysis: Trump’s attack has no mandate A visual guide to the US-Israeli strikes on Iran – and Tehran’s response Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
-      "lang": "en",
-      "title_en": "US-Israel war on Iran: Donald Trump says Iran’s supreme leader Ayatollah Ali Khamenei is dead – latest reports",
-      "summary_en": "US president proclaims Khamenei’s death as ‘justice for the people of Iran’ after Israeli sources said Iran’s leader had been killed Analysis: Trump’s attack has no mandate A visual guide to the US-Israeli strikes on Iran – and Tehran’s response Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
-      "title": "US-Israel war on Iran: Donald Trump says Iran’s supreme leader Ayatollah Ali Khamenei is dead – latest reports",
-      "summary": "US president proclaims Khamenei’s death as ‘justice for the people of Iran’ after Israeli sources said Iran’s leader had been killed Analysis: Trump’s attack has no mandate A visual guide to the US-Israeli strikes on Iran – and Tehran’s response Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-28T21:58:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "bf0b93c8bc5c75a1",
-      "title_orig": "‘This is round two’: Attacks on Iran have broad support among unsurprised Israelis",
-      "summary_orig": "Air strikes halt bitter political feuding ahead of elections as prominent Israelis call for broad open-ended war Air raid sirens emptied Israel’s streets on Saturday and filled its bomb shelters, as the country braced for waves of Iranian attacks. But individual fear and resignation did not temper broad political and popular support for the country’s second regional war in less than a year. Continue reading...",
+      "title_orig": "‘This is round two’: attacks on Iran have broad support among unsurprised Israelis",
+      "summary_orig": "Air strikes halt bitter political feuding ahead of elections as prominent Israelis call for a broad open-ended war US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far Air raid sirens emptied Israel’s streets on Saturday and filled its bomb shelters, as the country braced for waves of Iranian attacks. But individual fear and resignation did not temper broad political and popular support for the country’s second regional war in less than a year. Continue reading...",
       "lang": "en",
-      "title_en": "‘This is round two’: Attacks on Iran have broad support among unsurprised Israelis",
-      "summary_en": "Air strikes halt bitter political feuding ahead of elections as prominent Israelis call for broad open-ended war Air raid sirens emptied Israel’s streets on Saturday and filled its bomb shelters, as the country braced for waves of Iranian attacks. But individual fear and resignation did not temper broad political and popular support for the country’s second regional war in less than a year. Continue reading...",
-      "title": "‘This is round two’: Attacks on Iran have broad support among unsurprised Israelis",
-      "summary": "Air strikes halt bitter political feuding ahead of elections as prominent Israelis call for broad open-ended war Air raid sirens emptied Israel’s streets on Saturday and filled its bomb shelters, as the country braced for waves of Iranian attacks. But individual fear and resignation did not temper broad political and popular support for the country’s second regional war in less than a year. Continue reading...",
+      "title_en": "‘This is round two’: attacks on Iran have broad support among unsurprised Israelis",
+      "summary_en": "Air strikes halt bitter political feuding ahead of elections as prominent Israelis call for a broad open-ended war US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far Air raid sirens emptied Israel’s streets on Saturday and filled its bomb shelters, as the country braced for waves of Iranian attacks. But individual fear and resignation did not temper broad political and popular support for the country’s second regional war in less than a year. Continue reading...",
+      "title": "‘This is round two’: attacks on Iran have broad support among unsurprised Israelis",
+      "summary": "Air strikes halt bitter political feuding ahead of elections as prominent Israelis call for a broad open-ended war US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far Air raid sirens emptied Israel’s streets on Saturday and filled its bomb shelters, as the country braced for waves of Iranian attacks. But individual fear and resignation did not temper broad political and popular support for the country’s second regional war in less than a year. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/28/this-is-round-two-attacks-on-iran-have-broad-support-among-unsurprised-israelis",
       "source": "World news | The Guardian",
       "published_at": "2026-02-28T21:57:29+00:00",
@@ -287,24 +917,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "dbbd763ee73ec2f3",
-      "title_orig": "Iran latest: Trump confirms supreme leader Ayatollah Khamenei killed in US-Israeli strikes",
-      "summary_orig": "The US president announced Khamenei’s death following US-Israeli airstrikes which reportedly killed hundreds of Iranians",
-      "lang": "en",
-      "title_en": "Iran latest: Trump confirms supreme leader Ayatollah Khamenei killed in US-Israeli strikes",
-      "summary_en": "The US president announced Khamenei’s death following US-Israeli airstrikes which reportedly killed hundreds of Iranians",
-      "title": "Iran latest: Trump confirms supreme leader Ayatollah Khamenei killed in US-Israeli strikes",
-      "summary": "The US president announced Khamenei’s death following US-Israeli airstrikes which reportedly killed hundreds of Iranians",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-israel-strikes-trump-live-updates-b2929362.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-28T21:57:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -319,24 +931,6 @@
       "url": "https://www.latimes.com/world-nation/story/2026-02-28/ayatollah-ali-khamenei-death-iran",
       "source": "World & Nation",
       "published_at": "2026-02-28T21:57:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b3c21b7dc1e87539",
-      "title_orig": "Oregon, Washington state lawmakers condemn US-Israel attack on Iran, call for Congressional action",
-      "summary_orig": "The U.S. and Israel attacked Iran Saturday, with Trump confirming that the U.S. has begun “major combat operations in Iran.”",
-      "lang": "en",
-      "title_en": "Oregon, Washington state lawmakers condemn US-Israel attack on Iran, call for Congressional action",
-      "summary_en": "The U.S. and Israel attacked Iran Saturday, with Trump confirming that the U.S. has begun “major combat operations in Iran.”",
-      "title": "Oregon, Washington state lawmakers condemn US-Israel attack on Iran, call for Congressional action",
-      "summary": "The U.S. and Israel attacked Iran Saturday, with Trump confirming that the U.S. has begun “major combat operations in Iran.”",
-      "url": "https://www.kgw.com/article/news/nation-world/oregon-washington-lawmakers-largely-condemn-us-israel-attack-iran/283-e21279f5-f5fd-4a92-905a-70b437c763d0",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-02-28T21:56:39+00:00",
       "tags": [
         "airport/security"
       ],
@@ -380,24 +974,6 @@
       "geo": {}
     },
     {
-      "id": "cb8bb1ec240b396e",
-      "title_orig": "Flights cancelled as travel warnings issued after strikes on Iran",
-      "summary_orig": "BA, Virgin Atlantic and Wizz Air are among major airlines to overhaul their schedules in light of the attacks.",
-      "lang": "en",
-      "title_en": "Flights cancelled as travel warnings issued after strikes on Iran",
-      "summary_en": "BA, Virgin Atlantic and Wizz Air are among major airlines to overhaul their schedules in light of the attacks.",
-      "title": "Flights cancelled as travel warnings issued after strikes on Iran",
-      "summary": "BA, Virgin Atlantic and Wizz Air are among major airlines to overhaul their schedules in light of the attacks.",
-      "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-02-28T21:54:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4a2a0f17bc4349cf",
       "title_orig": "Graeme Souness trapped in Abu Dhabi as Liverpool legend stranded after Iran strikes",
       "summary_orig": "After the air strikes which have taken place all around the Middle East, Liverpool icon Graeme Souness is one of many to be trapped in the United Arab Emirates",
@@ -431,96 +1007,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "ab154404f9047966",
-      "title_orig": "Trump says Iran’s supreme leader is dead",
-      "summary_orig": "The U.S. and Israel launched an attack Saturday on Iran, with the first apparent strike happening near the offices of Supreme Leader Ayatollah Ali Khamenei.",
-      "lang": "en",
-      "title_en": "Trump says Iran’s supreme leader is dead",
-      "summary_en": "The U.S. and Israel launched an attack Saturday on Iran, with the first apparent strike happening near the offices of Supreme Leader Ayatollah Ali Khamenei.",
-      "title": "Trump says Iran’s supreme leader is dead",
-      "summary": "The U.S. and Israel launched an attack Saturday on Iran, with the first apparent strike happening near the offices of Supreme Leader Ayatollah Ali Khamenei.",
-      "url": "https://wtop.com/world/2026/02/witnesses-say-they-hear-an-explosion-in-irans-capital-tehran-sirens-sound-in-israel/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T21:52:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "acbc26274c2eba89",
-      "title_orig": "Trump says Iran’s Supreme Leader Ayatollah Khamenei ‘is dead’ after US and Israeli attack",
-      "summary_orig": "Israeli media gas reported that a photograph of Khamenei’s body had been shown to Trump and Netanyahu.",
-      "lang": "en",
-      "title_en": "Trump says Iran’s Supreme Leader Ayatollah Khamenei ‘is dead’ after US and Israeli attack",
-      "summary_en": "Israeli media gas reported that a photograph of Khamenei’s body had been shown to Trump and Netanyahu.",
-      "title": "Trump says Iran’s Supreme Leader Ayatollah Khamenei ‘is dead’ after US and Israeli attack",
-      "summary": "Israeli media gas reported that a photograph of Khamenei’s body had been shown to Trump and Netanyahu.",
-      "url": "https://www.thejournal.ie/israel-attack-on-iran-6970413-Feb2026/",
-      "source": "TheJournal.ie",
-      "published_at": "2026-02-28T21:52:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b184919d2d540374",
-      "title_orig": "UN chief condemns US-Israeli attacks on Iran during emergency Security Council meeting",
-      "summary_orig": "UNITED NATIONS (AP) — The United Nations chief condemned the U.S.-Israeli airstrikes on Iran and called for an immediate return…",
-      "lang": "en",
-      "title_en": "UN chief condemns US-Israeli attacks on Iran during emergency Security Council meeting",
-      "summary_en": "UNITED NATIONS (AP) — The United Nations chief condemned the U.S.-Israeli airstrikes on Iran and called for an immediate return…",
-      "title": "UN chief condemns US-Israeli attacks on Iran during emergency Security Council meeting",
-      "summary": "UNITED NATIONS (AP) — The United Nations chief condemned the U.S.-Israeli airstrikes on Iran and called for an immediate return…",
-      "url": "https://wtop.com/world/2026/02/un-chief-condemns-us-israeli-attacks-on-iran-he-will-soon-brief-the-security-council/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T21:51:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cdeea1f0e70151a5",
-      "title_orig": "Trump says ‘heavy and pinpoint bombing’ to continue ‘uninterrupted’ through the week or longer",
-      "summary_orig": "PALM BEACH, Fla. (AP) — Trump says ‘heavy and pinpoint bombing’ to continue ‘uninterrupted’ through the week or longer.",
-      "lang": "en",
-      "title_en": "Trump says ‘heavy and pinpoint bombing’ to continue ‘uninterrupted’ through the week or longer",
-      "summary_en": "PALM BEACH, Fla. (AP) — Trump says ‘heavy and pinpoint bombing’ to continue ‘uninterrupted’ through the week or longer.",
-      "title": "Trump says ‘heavy and pinpoint bombing’ to continue ‘uninterrupted’ through the week or longer",
-      "summary": "PALM BEACH, Fla. (AP) — Trump says ‘heavy and pinpoint bombing’ to continue ‘uninterrupted’ through the week or longer.",
-      "url": "https://wtop.com/national/2026/02/trump-says-heavy-and-pinpoint-bombing-to-continue-uninterrupted-through-the-week-or-longer/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T21:51:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ea98c7bb5e138a21",
-      "title_orig": "The Latest: Trump says Iranian Supreme Leader Ali Khamenei is dead",
-      "summary_orig": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
-      "lang": "en",
-      "title_en": "The Latest: Trump says Iranian Supreme Leader Ali Khamenei is dead",
-      "summary_en": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
-      "title": "The Latest: Trump says Iranian Supreme Leader Ali Khamenei is dead",
-      "summary": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
-      "url": "https://wtop.com/national/2026/02/the-latest-israel-launches-attack-on-irans-capital/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T21:50:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -587,78 +1073,6 @@
       }
     },
     {
-      "id": "8d07d2625eb0ccdf",
-      "title_orig": "Mapping the U.S.-Led Attacks on Iran",
-      "summary_orig": "Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated.",
-      "lang": "en",
-      "title_en": "Mapping the U.S.-Led Attacks on Iran",
-      "summary_en": "Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated.",
-      "title": "Mapping the U.S.-Led Attacks on Iran",
-      "summary": "Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated.",
-      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-28T21:48:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "603e38a6c8a9efd7",
-      "title_orig": "Photos show global reaction to US and Israeli strikes",
-      "summary_orig": "Demonstrators took to the streets in cities around the world after the United States and Israel launched a major strike…",
-      "lang": "en",
-      "title_en": "Photos show global reaction to US and Israeli strikes",
-      "summary_en": "Demonstrators took to the streets in cities around the world after the United States and Israel launched a major strike…",
-      "title": "Photos show global reaction to US and Israeli strikes",
-      "summary": "Demonstrators took to the streets in cities around the world after the United States and Israel launched a major strike…",
-      "url": "https://wtop.com/national/2026/02/photos-show-global-reaction-to-us-and-israeli-strikes/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T21:48:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cbfb6bfeda025f63",
-      "title_orig": "A look at Iran’s key political and religious figures",
-      "summary_orig": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
-      "lang": "en",
-      "title_en": "A look at Iran’s key political and religious figures",
-      "summary_en": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
-      "title": "A look at Iran’s key political and religious figures",
-      "summary": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
-      "url": "https://wtop.com/national/2026/02/a-look-at-irans-key-political-and-religious-figures/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T21:44:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1c491deb9384b730",
-      "title_orig": "What to Know About the U.S. Attacks on Iran",
-      "summary_orig": "The United States and Israel launched a major assault, as President Trump called on Iranians to overthrow the government.",
-      "lang": "en",
-      "title_en": "What to Know About the U.S. Attacks on Iran",
-      "summary_en": "The United States and Israel launched a major assault, as President Trump called on Iranians to overthrow the government.",
-      "title": "What to Know About the U.S. Attacks on Iran",
-      "summary": "The United States and Israel launched a major assault, as President Trump called on Iranians to overthrow the government.",
-      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-28T21:39:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "6c2c7bbb4d047240",
       "title_orig": "Iran leader Khamenei killed reports are 'correct' says Trump following missile strikes",
       "summary_orig": "President Donald Trump said the administration believes reports about the death of Ayatollah Khamenei are \"correct\" [WORLD NEWS]",
@@ -670,42 +1084,6 @@
       "url": "https://www.bristolpost.co.uk/news/uk-world-news/iran-leader-khamenei-killed-reports-10841502",
       "source": "Bristol Post - News",
       "published_at": "2026-02-28T21:35:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ff4eadbe885ccc09",
-      "title_orig": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
-      "summary_orig": "Many nations abstained from commenting directly, but a few shows direct support or criticism to the strikes.",
-      "lang": "en",
-      "title_en": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
-      "summary_en": "Many nations abstained from commenting directly, but a few shows direct support or criticism to the strikes.",
-      "title": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
-      "summary": "Many nations abstained from commenting directly, but a few shows direct support or criticism to the strikes.",
-      "url": "https://www.kgw.com/article/news/nation-world/world-leaders-react-us-and-israeli-strikes-on-iran/507-7a5cf770-290e-4ba8-ab49-e2c8f2a2db5d",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-02-28T21:29:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "87facfd69d6e3321",
-      "title_orig": "UN chief condemns US-Israeli attacks on Iran during emergency Security Council meeting",
-      "summary_orig": "The United Nations chief is condemning the U_S_-Israeli airstrikes on Iran and calling for an immediate return to negotiations “to pull the region, and our world, back from the brink.”.",
-      "lang": "en",
-      "title_en": "UN chief condemns US-Israeli attacks on Iran during emergency Security Council meeting",
-      "summary_en": "The United Nations chief is condemning the U_S_-Israeli airstrikes on Iran and calling for an immediate return to negotiations “to pull the region, and our world, back from the brink.”.",
-      "title": "UN chief condemns US-Israeli attacks on Iran during emergency Security Council meeting",
-      "summary": "The United Nations chief is condemning the U_S_-Israeli airstrikes on Iran and calling for an immediate return to negotiations “to pull the region, and our world, back from the brink.”.",
-      "url": "https://www.seattletimes.com/nation-world/nation/un-chief-condemns-us-israeli-attacks-on-iran-he-will-soon-brief-the-security-council/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T21:28:13+00:00",
       "tags": [
         "airport/security"
       ],
@@ -760,42 +1138,6 @@
       "url": "https://www.independent.co.uk/tv/news/iran-drone-strike-bahrain-high-rise-building-video-b2929568.html",
       "source": "The Independent World",
       "published_at": "2026-02-28T21:25:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "521cfc3c22a9c8c8",
-      "title_orig": "Iran’s key political figures explained after US strikes target supreme leader Ali Khamenei",
-      "summary_orig": "Even if Iran’s top leaders were killed, regime change is not guaranteed",
-      "lang": "en",
-      "title_en": "Iran’s key political figures explained after US strikes target supreme leader Ali Khamenei",
-      "summary_en": "Even if Iran’s top leaders were killed, regime change is not guaranteed",
-      "title": "Iran’s key political figures explained after US strikes target supreme leader Ali Khamenei",
-      "summary": "Even if Iran’s top leaders were killed, regime change is not guaranteed",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-political-figures-supreme-leader-ali-khamenei-son-president-b2929581.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-28T21:25:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c2880a239c4d2c55",
-      "title_orig": "Only 21% of Americans support the United States initiating an attack on Iran",
-      "summary_orig": "The public’s appetite for a U.S. attack on Iran was low before President Donald Trump and Israel took action Saturday.",
-      "lang": "en",
-      "title_en": "Only 21% of Americans support the United States initiating an attack on Iran",
-      "summary_en": "The public’s appetite for a U.S. attack on Iran was low before President Donald Trump and Israel took action Saturday.",
-      "title": "Only 21% of Americans support the United States initiating an attack on Iran",
-      "summary": "The public’s appetite for a U.S. attack on Iran was low before President Donald Trump and Israel took action Saturday.",
-      "url": "https://www.seattletimes.com/nation-world/only-21-of-americans-support-the-united-states-initiating-an-attack-on-iran/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T21:22:54+00:00",
       "tags": [
         "airport/security"
       ],
@@ -983,24 +1325,6 @@
       "geo": {}
     },
     {
-      "id": "3c4fcf908e2e3a63",
-      "title_orig": "Iran war LIVE: Netanyahu says ‘growing signs’ Iran’s supreme leader Khamenei is killed after US-Israel strikes",
-      "summary_orig": "Fire erupts outside Dubai’s Fairmont The Palm after missile debris falls from sky",
-      "lang": "en",
-      "title_en": "Iran war LIVE: Netanyahu says ‘growing signs’ Iran’s supreme leader Khamenei is killed after US-Israel strikes",
-      "summary_en": "Fire erupts outside Dubai’s Fairmont The Palm after missile debris falls from sky",
-      "title": "Iran war LIVE: Netanyahu says ‘growing signs’ Iran’s supreme leader Khamenei is killed after US-Israel strikes",
-      "summary": "Fire erupts outside Dubai’s Fairmont The Palm after missile debris falls from sky",
-      "url": "https://www.standard.co.uk/news/world/israel-launches-attack-on-iran-tehran-b1272861.html",
-      "source": "The Standard News",
-      "published_at": "2026-02-28T21:00:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f16e0a6f23bc3215",
       "title_orig": "How easy is it to buy a gun in NSW after the Bondi terror attack?",
       "summary_orig": "Law reforms were swiftly passed following the massacre in December. So how difficult has it become  to legally own a firearm in the state?",
@@ -1146,12 +1470,12 @@
     },
     {
       "id": "339eb6d4a1fd2e86",
-      "title_orig": "Iran’s Supreme Leader Ali Khamenei killed in US-Israeli attacks: Reports",
+      "title_orig": "Trump says Iran’s Supreme Leader Ali Khamenei dead after US-Israeli attacks",
       "summary_orig": "Iran's Tasnim and Mehr news agencies report that Khamenei remains 'steadfast and firm in commanding the field'.",
       "lang": "en",
-      "title_en": "Iran’s Supreme Leader Ali Khamenei killed in US-Israeli attacks: Reports",
+      "title_en": "Trump says Iran’s Supreme Leader Ali Khamenei dead after US-Israeli attacks",
       "summary_en": "Iran's Tasnim and Mehr news agencies report that Khamenei remains 'steadfast and firm in commanding the field'.",
-      "title": "Iran’s Supreme Leader Ali Khamenei killed in US-Israeli attacks: Reports",
+      "title": "Trump says Iran’s Supreme Leader Ali Khamenei dead after US-Israeli attacks",
       "summary": "Iran's Tasnim and Mehr news agencies report that Khamenei remains 'steadfast and firm in commanding the field'.",
       "url": "https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -1271,6 +1595,24 @@
       "geo": {}
     },
     {
+      "id": "0214dffa33569090",
+      "title_orig": "Iran's Ayatollah Ali Khamenei has been killed, Trump says",
+      "summary_orig": "Iran's Khamenei was killed in joint US-Israeli strikes on Tehran on Saturday morning, according to US President Donald Trump.",
+      "lang": "en",
+      "title_en": "Iran's Ayatollah Ali Khamenei has been killed, Trump says",
+      "summary_en": "Iran's Khamenei was killed in joint US-Israeli strikes on Tehran on Saturday morning, according to US President Donald Trump.",
+      "title": "Iran's Ayatollah Ali Khamenei has been killed, Trump says",
+      "summary": "Iran's Khamenei was killed in joint US-Israeli strikes on Tehran on Saturday morning, according to US President Donald Trump.",
+      "url": "http://www.euronews.com/2026/02/28/irans-ayatollah-ali-khamenei-has-been-killed-israel-says",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-02-28T20:17:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "2c5959031646137d",
       "title_orig": "Growing belief Iran's supreme leader has died in US Israeli strikes",
       "summary_orig": "Israeli officials are claiming Ayatollah Ali Khamenei's body has been found",
@@ -1327,12 +1669,12 @@
     {
       "id": "91fbbdaa2eca9388",
       "title_orig": "With few good strategic options, Iran’s best prospect may be to retaliate while it can",
-      "summary_orig": "Regime could try to retain control of streets as US and Israel have expressed no intention of mounting ground invasion Venezula’s Nicholás Maduro was captured. But Donald Trump and Benjamin Netanyahu have chosen a different strategy for Iran: to target and aim to kill the country’s supreme leader, Ali Khamenei, , and as many other senior regime figures as possible. Though Iranian military sites and its air defence systems were also targeted by coordinated US and Israeli bombing, beginning in the morning, the most significant attack was on Khamenei’s compound in Tehran. Continue reading...",
+      "summary_orig": "Regime could try to retain control of streets as US and Israel have expressed no intention of mounting ground invasion Venezula’s Nicholás Maduro was captured. But Donald Trump and Benjamin Netanyahu have chosen a different strategy for Iran: to target and aim to kill the country’s supreme leader, Ali Khamenei, and as many other senior regime figures as possible. Though Iranian military sites and its air defence systems were also targeted by coordinated US and Israeli bombing, beginning in the morning, the most significant attack was on Khamenei’s compound in Tehran. Continue reading...",
       "lang": "en",
       "title_en": "With few good strategic options, Iran’s best prospect may be to retaliate while it can",
-      "summary_en": "Regime could try to retain control of streets as US and Israel have expressed no intention of mounting ground invasion Venezula’s Nicholás Maduro was captured. But Donald Trump and Benjamin Netanyahu have chosen a different strategy for Iran: to target and aim to kill the country’s supreme leader, Ali Khamenei, , and as many other senior regime figures as possible. Though Iranian military sites and its air defence systems were also targeted by coordinated US and Israeli bombing, beginning in the morning, the most significant attack was on Khamenei’s compound in Tehran. Continue reading...",
+      "summary_en": "Regime could try to retain control of streets as US and Israel have expressed no intention of mounting ground invasion Venezula’s Nicholás Maduro was captured. But Donald Trump and Benjamin Netanyahu have chosen a different strategy for Iran: to target and aim to kill the country’s supreme leader, Ali Khamenei, and as many other senior regime figures as possible. Though Iranian military sites and its air defence systems were also targeted by coordinated US and Israeli bombing, beginning in the morning, the most significant attack was on Khamenei’s compound in Tehran. Continue reading...",
       "title": "With few good strategic options, Iran’s best prospect may be to retaliate while it can",
-      "summary": "Regime could try to retain control of streets as US and Israel have expressed no intention of mounting ground invasion Venezula’s Nicholás Maduro was captured. But Donald Trump and Benjamin Netanyahu have chosen a different strategy for Iran: to target and aim to kill the country’s supreme leader, Ali Khamenei, , and as many other senior regime figures as possible. Though Iranian military sites and its air defence systems were also targeted by coordinated US and Israeli bombing, beginning in the morning, the most significant attack was on Khamenei’s compound in Tehran. Continue reading...",
+      "summary": "Regime could try to retain control of streets as US and Israel have expressed no intention of mounting ground invasion Venezula’s Nicholás Maduro was captured. But Donald Trump and Benjamin Netanyahu have chosen a different strategy for Iran: to target and aim to kill the country’s supreme leader, Ali Khamenei, and as many other senior regime figures as possible. Though Iranian military sites and its air defence systems were also targeted by coordinated US and Israeli bombing, beginning in the morning, the most significant attack was on Khamenei’s compound in Tehran. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/28/strategic-options-iran-retaliate-us-israel-analysis",
       "source": "World news | The Guardian",
       "published_at": "2026-02-28T20:06:33+00:00",
@@ -1550,24 +1892,6 @@
       "geo": {}
     },
     {
-      "id": "11937da73641cb15",
-      "title_orig": "US and Israel launch strikes on Iran: what we know so far",
-      "summary_orig": "Joint operation prompts Tehran to retaliate with missile attacks on bases across Middle East Full report US-Israeli attack on Iran – live updates A visual guide to US-Israeli strikes on Iran – and Tehran’s response The US and Israel have launched a joint military operation against Iran, prompting Tehran to fire retaliatory strikes against Israeli and US bases across the Middle East. Explosions rocked the Iranian capital, Tehran, with satellite imagery showing extensive damage at the secure compound of the country’s supreme leader, Ayatollah Ali Khamenei. In a televised address, the Israeli prime minister, Benjamin Netanyahu, indicated that the strikes had killed Khamenei. Iran’s leader has not been heard from since the strikes began. “There are many signs that [Khamenei] is no longer alive,” Netanyahu said on Saturday evening. Netanyahu said that Israeli strikes had also killed “several leaders” involved in the Iranian nuclear programme and that strikes against sites linked to the programme would continue in the coming days. The remarks, which stopped short of confirming Khamenei’s death, were the strongest official indication yet that the missing leader is dead. Dozens of students were reportedly killed in a strike on a primary school in the south-east. Iranian media is reporting at least 201 people have been killed in total and 747 injured. Abbas Araghchi, the Iranian foreign minister who has been leading the nuclear talks for the Iranian delegation, promised that Iran’s army would “teach aggressors the lesson they deserve”. Further explosions were reported in Gulf countries , including the United Arab Emirates, Bahrain, Qatar and Kuwait, all of which host US military bases. One person was killed by shrapnel from an Iranian missile in Abu Dhabi, UAE officials said. The US president, Donald Trump, described the US military campaign as “massive and ongoing” as he called on the people of Iran to “take over your government”. In a speech posted on Truth Social, he said the US would “raze their [Iran’s] missile industry to the ground” and claimed Tehran had refused to reach a deal with the US that would have averted war. Netanyahu said the US-Israeli attack could “create the conditions for the brave Iranian people to take their destiny into their own hands”. Continue reading...",
-      "lang": "en",
-      "title_en": "US and Israel launch strikes on Iran: what we know so far",
-      "summary_en": "Joint operation prompts Tehran to retaliate with missile attacks on bases across Middle East Full report US-Israeli attack on Iran – live updates A visual guide to US-Israeli strikes on Iran – and Tehran’s response The US and Israel have launched a joint military operation against Iran, prompting Tehran to fire retaliatory strikes against Israeli and US bases across the Middle East. Explosions rocked the Iranian capital, Tehran, with satellite imagery showing extensive damage at the secure compound of the country’s supreme leader, Ayatollah Ali Khamenei. In a televised address, the Israeli prime minister, Benjamin Netanyahu, indicated that the strikes had killed Khamenei. Iran’s leader has not been heard from since the strikes began. “There are many signs that [Khamenei] is no longer alive,” Netanyahu said on Saturday evening. Netanyahu said that Israeli strikes had also killed “several leaders” involved in the Iranian nuclear programme and that strikes against sites linked to the programme would continue in the coming days. The remarks, which stopped short of confirming Khamenei’s death, were the strongest official indication yet that the missing leader is dead. Dozens of students were reportedly killed in a strike on a primary school in the south-east. Iranian media is reporting at least 201 people have been killed in total and 747 injured. Abbas Araghchi, the Iranian foreign minister who has been leading the nuclear talks for the Iranian delegation, promised that Iran’s army would “teach aggressors the lesson they deserve”. Further explosions were reported in Gulf countries , including the United Arab Emirates, Bahrain, Qatar and Kuwait, all of which host US military bases. One person was killed by shrapnel from an Iranian missile in Abu Dhabi, UAE officials said. The US president, Donald Trump, described the US military campaign as “massive and ongoing” as he called on the people of Iran to “take over your government”. In a speech posted on Truth Social, he said the US would “raze their [Iran’s] missile industry to the ground” and claimed Tehran had refused to reach a deal with the US that would have averted war. Netanyahu said the US-Israeli attack could “create the conditions for the brave Iranian people to take their destiny into their own hands”. Continue reading...",
-      "title": "US and Israel launch strikes on Iran: what we know so far",
-      "summary": "Joint operation prompts Tehran to retaliate with missile attacks on bases across Middle East Full report US-Israeli attack on Iran – live updates A visual guide to US-Israeli strikes on Iran – and Tehran’s response The US and Israel have launched a joint military operation against Iran, prompting Tehran to fire retaliatory strikes against Israeli and US bases across the Middle East. Explosions rocked the Iranian capital, Tehran, with satellite imagery showing extensive damage at the secure compound of the country’s supreme leader, Ayatollah Ali Khamenei. In a televised address, the Israeli prime minister, Benjamin Netanyahu, indicated that the strikes had killed Khamenei. Iran’s leader has not been heard from since the strikes began. “There are many signs that [Khamenei] is no longer alive,” Netanyahu said on Saturday evening. Netanyahu said that Israeli strikes had also killed “several leaders” involved in the Iranian nuclear programme and that strikes against sites linked to the programme would continue in the coming days. The remarks, which stopped short of confirming Khamenei’s death, were the strongest official indication yet that the missing leader is dead. Dozens of students were reportedly killed in a strike on a primary school in the south-east. Iranian media is reporting at least 201 people have been killed in total and 747 injured. Abbas Araghchi, the Iranian foreign minister who has been leading the nuclear talks for the Iranian delegation, promised that Iran’s army would “teach aggressors the lesson they deserve”. Further explosions were reported in Gulf countries , including the United Arab Emirates, Bahrain, Qatar and Kuwait, all of which host US military bases. One person was killed by shrapnel from an Iranian missile in Abu Dhabi, UAE officials said. The US president, Donald Trump, described the US military campaign as “massive and ongoing” as he called on the people of Iran to “take over your government”. In a speech posted on Truth Social, he said the US would “raze their [Iran’s] missile industry to the ground” and claimed Tehran had refused to reach a deal with the US that would have averted war. Netanyahu said the US-Israeli attack could “create the conditions for the brave Iranian people to take their destiny into their own hands”. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/feb/28/us-israel-launch-strikes-attack-iran-what-we-know-so-far-latest",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-28T19:35:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "ae67159c47ad0ca1",
       "title_orig": "Iran retaliation raises questions about US air defences",
       "summary_orig": "Iran's strike on US Navy base in Bahrain will worry Washington and its allies in the region.",
@@ -1601,24 +1925,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "519c160ec35d5d1a",
-      "title_orig": "Photos show global reaction to US and Israeli strikes",
-      "summary_orig": "Demonstrators took to the streets in cities around the world after the United States and Israel launched a major strike on Iran. Many rallies voiced strong support for the military action, while opposing protests condemned the attacks and warned of wider regional consequences. ___ This is a photo gallery curated by AP photo editors.",
-      "lang": "en",
-      "title_en": "Photos show global reaction to US and Israeli strikes",
-      "summary_en": "Demonstrators took to the streets in cities around the world after the United States and Israel launched a major strike on Iran. Many rallies voiced strong support for the military action, while opposing protests condemned the attacks and warned of wider regional consequences. ___ This is a photo gallery curated by AP photo editors.",
-      "title": "Photos show global reaction to US and Israeli strikes",
-      "summary": "Demonstrators took to the streets in cities around the world after the United States and Israel launched a major strike on Iran. Many rallies voiced strong support for the military action, while opposing protests condemned the attacks and warned of wider regional consequences. ___ This is a photo gallery curated by AP photo editors.",
-      "url": "https://www.seattletimes.com/nation-world/nation/photos-show-global-reaction-to-us-and-israeli-strikes/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T19:29:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1741,24 +2047,6 @@
       "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/heartache-tragedy-finally-hope-hundreds-33508946",
       "source": "MEN - News",
       "published_at": "2026-02-28T19:18:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "96406e2eae4ee53f",
-      "title_orig": "Ships avoid Hormuz as Iran media says it’s practically shut",
-      "summary_orig": "The sharply reduced traffic offers the first signs of disruption to commodity markets from the U.S. decision to attack Iran.",
-      "lang": "en",
-      "title_en": "Ships avoid Hormuz as Iran media says it’s practically shut",
-      "summary_en": "The sharply reduced traffic offers the first signs of disruption to commodity markets from the U.S. decision to attack Iran.",
-      "title": "Ships avoid Hormuz as Iran media says it’s practically shut",
-      "summary": "The sharply reduced traffic offers the first signs of disruption to commodity markets from the U.S. decision to attack Iran.",
-      "url": "https://www.seattletimes.com/nation-world/oil-tankers-avoid-hormuz-strait-as-iran-media-says-its-practically-shut/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T19:17:37+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1964,24 +2252,6 @@
       "geo": {}
     },
     {
-      "id": "bc197a17d7ff9a2d",
-      "title_orig": "War powers debate intensifies after Trump orders attack on Iran without approval by Congress",
-      "summary_orig": "Key members of Congress are demanding a swift vote on a war powers resolution that would restrain President Donald Trump’s military attack on Iran.",
-      "lang": "en",
-      "title_en": "War powers debate intensifies after Trump orders attack on Iran without approval by Congress",
-      "summary_en": "Key members of Congress are demanding a swift vote on a war powers resolution that would restrain President Donald Trump’s military attack on Iran.",
-      "title": "War powers debate intensifies after Trump orders attack on Iran without approval by Congress",
-      "summary": "Key members of Congress are demanding a swift vote on a war powers resolution that would restrain President Donald Trump’s military attack on Iran.",
-      "url": "https://www.seattletimes.com/nation-world/nation/war-powers-debate-intensifies-after-trump-order-attack-on-iran-without-congress-approval/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T18:58:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "da1124a27f0d10a2",
       "title_orig": "Trump’s Iran strikes threaten to send global petrol prices soaring",
       "summary_orig": "As missiles fly over one of the world’s major choke points for oil and gas, Brent crude could surge from the current US$73 (NZ$122) a barrel – with gas prices following suit.",
@@ -2083,24 +2353,6 @@
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3344999/trump-gambles-his-iran-attack-will-save-flailing-maga-agenda?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-02-28T18:46:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1c5852d845223dea",
-      "title_orig": "Military strike on Iran disrupts flights across the Middle East and beyond",
-      "summary_orig": "The U.S. and Israeli strikes on Iran are shutting down airspace and throwing global flight schedules into disarray.",
-      "lang": "en",
-      "title_en": "Military strike on Iran disrupts flights across the Middle East and beyond",
-      "summary_en": "The U.S. and Israeli strikes on Iran are shutting down airspace and throwing global flight schedules into disarray.",
-      "title": "Military strike on Iran disrupts flights across the Middle East and beyond",
-      "summary": "The U.S. and Israeli strikes on Iran are shutting down airspace and throwing global flight schedules into disarray.",
-      "url": "https://www.kgw.com/article/news/nation-world/military-strike-iran-flights-middle-east/507-a50f5a43-56f9-4ed0-ad4a-d7bd698113c1",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-02-28T18:31:53+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2360,24 +2612,6 @@
       "geo": {}
     },
     {
-      "id": "5450e67b007dc898",
-      "title_orig": "Kuwait International Airport hit in Iran drone attack leaving multiple people injured",
-      "summary_orig": "The retaliation attack follows early morning strikes by US and Israeli forces",
-      "lang": "en",
-      "title_en": "Kuwait International Airport hit in Iran drone attack leaving multiple people injured",
-      "summary_en": "The retaliation attack follows early morning strikes by US and Israeli forces",
-      "title": "Kuwait International Airport hit in Iran drone attack leaving multiple people injured",
-      "summary": "The retaliation attack follows early morning strikes by US and Israeli forces",
-      "url": "https://www.manchestereveningnews.co.uk/news/world-news/kuwait-international-airport-hit-iran-33509204",
-      "source": "MEN - News",
-      "published_at": "2026-02-28T18:09:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "899fd055c8a124ea",
       "title_orig": "Michigan lawmakers react to U.S., Israel strikes on Iran",
       "summary_orig": "Democrats including Elissa Slotkin and Gary Peters demand congressional oversight while Republicans like John James and Lisa McClain back the operation against the regime.",
@@ -2533,24 +2767,6 @@
       "url": "https://www.politico.com/news/2026/02/28/a-duo-of-the-willing-us-and-israel-have-few-allies-in-initial-iran-strikes-00805640?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "source": "POLITICO",
       "published_at": "2026-02-28T17:39:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "35e83a229e23c423",
-      "title_orig": "For Trump, the Iran attack is the ultimate war of choice",
-      "summary_orig": "A man who came to office promising an end to reckless military interventions — and wars intended to prompt regime change — is taking a huge risk.",
-      "lang": "en",
-      "title_en": "For Trump, the Iran attack is the ultimate war of choice",
-      "summary_en": "A man who came to office promising an end to reckless military interventions — and wars intended to prompt regime change — is taking a huge risk.",
-      "title": "For Trump, the Iran attack is the ultimate war of choice",
-      "summary": "A man who came to office promising an end to reckless military interventions — and wars intended to prompt regime change — is taking a huge risk.",
-      "url": "https://www.seattletimes.com/nation-world/for-trump-the-iran-attack-is-the-ultimate-war-of-choice/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T17:38:55+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2864,6 +3080,24 @@
       "geo": {}
     },
     {
+      "id": "1bfad0356cbd2342",
+      "title_orig": "A visual guide to US-Israeli strikes on Iran – and Tehran’s response",
+      "summary_orig": "Missiles and bombs landed across Iran, hitting political and security targets in Tehran, including supreme leader’s residence US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far The US and Israel have announced the beginning of an unprecedented joint operation against Iran, beginning with a wide-ranging bombing campaign aimed at regime change. Israeli jets and US missiles struck hundreds of targets across Iran, sending residents fleeing in panic from major urban centres. Among the targets were Iran’s supreme leader, Ayatollah Ali Khameini, and Iran’s president, Masoud Pezeshkian, as well as weapons facilities across the country. Continue reading...",
+      "lang": "en",
+      "title_en": "A visual guide to US-Israeli strikes on Iran – and Tehran’s response",
+      "summary_en": "Missiles and bombs landed across Iran, hitting political and security targets in Tehran, including supreme leader’s residence US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far The US and Israel have announced the beginning of an unprecedented joint operation against Iran, beginning with a wide-ranging bombing campaign aimed at regime change. Israeli jets and US missiles struck hundreds of targets across Iran, sending residents fleeing in panic from major urban centres. Among the targets were Iran’s supreme leader, Ayatollah Ali Khameini, and Iran’s president, Masoud Pezeshkian, as well as weapons facilities across the country. Continue reading...",
+      "title": "A visual guide to US-Israeli strikes on Iran – and Tehran’s response",
+      "summary": "Missiles and bombs landed across Iran, hitting political and security targets in Tehran, including supreme leader’s residence US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far The US and Israel have announced the beginning of an unprecedented joint operation against Iran, beginning with a wide-ranging bombing campaign aimed at regime change. Israeli jets and US missiles struck hundreds of targets across Iran, sending residents fleeing in panic from major urban centres. Among the targets were Iran’s supreme leader, Ayatollah Ali Khameini, and Iran’s president, Masoud Pezeshkian, as well as weapons facilities across the country. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/feb/28/us-israel-strikes-iran-tehran-response-visual-guide",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-28T16:57:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "aa64318f5a1f76c9",
       "title_orig": "As U.S. and Israel attack Iran, the world reacts: ‘Grave consequences’",
       "summary_orig": "United Nations Secretary General Antonio Guterres condemned the 'use of force,' adding that the action was inconsistent with the UN Charter.",
@@ -2929,24 +3163,6 @@
       "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-israel-strikes-nuclear-weapons-trump-b2929402.html",
       "source": "The Independent World",
       "published_at": "2026-02-28T16:51:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "82b5d2fb5ba49a3d",
-      "title_orig": "WA’s leaders criticize Iran attack, want vote in Congress",
-      "summary_orig": "Sen. Patty Murray and most of Washington state's members of Congress criticized the president's decision to attack Iran.",
-      "lang": "en",
-      "title_en": "WA’s leaders criticize Iran attack, want vote in Congress",
-      "summary_en": "Sen. Patty Murray and most of Washington state's members of Congress criticized the president's decision to attack Iran.",
-      "title": "WA’s leaders criticize Iran attack, want vote in Congress",
-      "summary": "Sen. Patty Murray and most of Washington state's members of Congress criticized the president's decision to attack Iran.",
-      "url": "https://www.seattletimes.com/seattle-news/politics/was-leaders-criticize-iran-attack-want-vote-in-congress/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T16:48:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3314,24 +3530,6 @@
       "geo": {}
     },
     {
-      "id": "a56364d9922508c8",
-      "title_orig": "Here’s what world leaders are saying about the U.S.-led attack on Iran",
-      "summary_orig": "Leaders in Europe and around the world Saturday urged all sides to exercise restraint after the United States and Israel launched a major attack.",
-      "lang": "en",
-      "title_en": "Here’s what world leaders are saying about the U.S.-led attack on Iran",
-      "summary_en": "Leaders in Europe and around the world Saturday urged all sides to exercise restraint after the United States and Israel launched a major attack.",
-      "title": "Here’s what world leaders are saying about the U.S.-led attack on Iran",
-      "summary": "Leaders in Europe and around the world Saturday urged all sides to exercise restraint after the United States and Israel launched a major attack.",
-      "url": "https://www.seattletimes.com/nation-world/heres-what-world-leaders-are-saying-about-the-u-s-led-attack-on-iran/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T16:17:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7c2c4fabf9dec76d",
       "title_orig": "Iran launches retaliatory strikes as Trump calls for regime change",
       "summary_orig": "The US and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the Iranian public to “seize control of your destiny” by rising up against the Islamic leadership that has ruled the nation since 1979.",
@@ -3494,24 +3692,6 @@
       "geo": {}
     },
     {
-      "id": "2355bbc8f86ec29f",
-      "title_orig": "Oil prices set for swings next week as US-Israel strikes raise supply uncertainty",
-      "summary_orig": "Oil traders brace for big moves next week as the fallout from U.S. and Israeli strikes on Middle East oil supply stays unclear.",
-      "lang": "en",
-      "title_en": "Oil prices set for swings next week as US-Israel strikes raise supply uncertainty",
-      "summary_en": "Oil traders brace for big moves next week as the fallout from U.S. and Israeli strikes on Middle East oil supply stays unclear.",
-      "title": "Oil prices set for swings next week as US-Israel strikes raise supply uncertainty",
-      "summary": "Oil traders brace for big moves next week as the fallout from U.S. and Israeli strikes on Middle East oil supply stays unclear.",
-      "url": "https://www.seattletimes.com/business/oil-prices-set-for-swings-next-week-as-us-israel-strikes-raise-supply-uncertainty/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T16:03:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ffa52b39faf5c220",
       "title_orig": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow",
       "summary_orig": "Dave Keating, France 24 correspondant, is live from the Netherlands.",
@@ -3649,24 +3829,6 @@
       "url": "https://www.devonlive.com/whats-on/whats-on-news/music-festival-plan-f-bomb-10838830",
       "source": "Devon Live - frontpage",
       "published_at": "2026-02-28T16:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cc732f67035b920f",
-      "title_orig": "Madonna steals the spotlight at Dolce & Gabbana’s Milan Fashion Week runway show",
-      "summary_orig": "Madonna made a star appearance at Dolce & Gabbana’s Milan Fashion Week runway show — which felt like a conversation with the Material Girl herself.",
-      "lang": "en",
-      "title_en": "Madonna steals the spotlight at Dolce & Gabbana’s Milan Fashion Week runway show",
-      "summary_en": "Madonna made a star appearance at Dolce & Gabbana’s Milan Fashion Week runway show — which felt like a conversation with the Material Girl herself.",
-      "title": "Madonna steals the spotlight at Dolce & Gabbana’s Milan Fashion Week runway show",
-      "summary": "Madonna made a star appearance at Dolce & Gabbana’s Milan Fashion Week runway show — which felt like a conversation with the Material Girl herself.",
-      "url": "https://www.seattletimes.com/business/madonna-steals-the-spotlight-at-dolce-gabbanas-milan-fashion-week-runway-show/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T15:58:05+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3820,24 +3982,6 @@
       "url": "https://www.straitstimes.com/world/middle-east/un-security-council-to-meet-on-saturday-on-iran-conflict",
       "source": "The Straits Times World News",
       "published_at": "2026-02-28T15:47:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5e88de06728562fe",
-      "title_orig": "Democrats push for war powers vote over Trump Iran strikes",
-      "summary_orig": "The effort was already under way to force a vote on a war powers resolution, but it gained fresh momentum as the U.S. and Israel bombed Iran.",
-      "lang": "en",
-      "title_en": "Democrats push for war powers vote over Trump Iran strikes",
-      "summary_en": "The effort was already under way to force a vote on a war powers resolution, but it gained fresh momentum as the U.S. and Israel bombed Iran.",
-      "title": "Democrats push for war powers vote over Trump Iran strikes",
-      "summary": "The effort was already under way to force a vote on a war powers resolution, but it gained fresh momentum as the U.S. and Israel bombed Iran.",
-      "url": "https://www.seattletimes.com/nation-world/democrats-push-for-war-powers-vote-to-curtail-trumps-iran-strikes/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-02-28T15:46:54+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4007,24 +4151,6 @@
       "geo": {}
     },
     {
-      "id": "396dc56b864ac07a",
-      "title_orig": "Safest countries to be in if World War Three breaks out",
-      "summary_orig": "With the US joining Israel in strikes on Iran, we take a look at where you might want to head if the conflict escalates.",
-      "lang": "en",
-      "title_en": "Safest countries to be in if World War Three breaks out",
-      "summary_en": "With the US joining Israel in strikes on Iran, we take a look at where you might want to head if the conflict escalates.",
-      "title": "Safest countries to be in if World War Three breaks out",
-      "summary": "With the US joining Israel in strikes on Iran, we take a look at where you might want to head if the conflict escalates.",
-      "url": "https://metro.co.uk/2026/02/28/map-shows-safest-countries-global-conflict-breaks-3-27158175/",
-      "source": "Metro",
-      "published_at": "2026-02-28T15:25:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "eec5a7d75841c612",
       "title_orig": "Manchester Airport flights update following US-Israel strikes on Iran",
       "summary_orig": "The airport said all flights to the region have either been cancelled or grounded",
@@ -4070,24 +4196,6 @@
       "geo": {}
     },
     {
-      "id": "d5fcabc13bc086da",
-      "title_orig": "Starmer sends UK jets into the skies as Iran strikes Israel and US bases",
-      "summary_orig": "Sir Keir issued a statement as Iran retaliated after the US launched an assault on the Tehran administration",
-      "lang": "en",
-      "title_en": "Starmer sends UK jets into the skies as Iran strikes Israel and US bases",
-      "summary_en": "Sir Keir issued a statement as Iran retaliated after the US launched an assault on the Tehran administration",
-      "title": "Starmer sends UK jets into the skies as Iran strikes Israel and US bases",
-      "summary": "Sir Keir issued a statement as Iran retaliated after the US launched an assault on the Tehran administration",
-      "url": "https://www.walesonline.co.uk/news/politics/starmer-sends-uk-jets-action-33508627",
-      "source": "WalesOnline - Home",
-      "published_at": "2026-02-28T15:17:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a2817ae8cd6be0df",
       "title_orig": "Read the full transcript of Donald Trump’s statement on Iran strikes",
       "summary_orig": "U.S. President Donald Trump said in an right-minute video posted on his Truth Social that the U.S. has begun “major combat operations in Iran.”",
@@ -4121,24 +4229,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d9b1a022a6ce5ce5",
-      "title_orig": "Joe Biden warns that Donald Trump will try to ‘steal’ midterm elections",
-      "summary_orig": "In a rare public address, former president said US is experiencing ‘dark days’ and urged Americans to vote Sign up for This week in Trumpland, a free newsletter on the latest from the Trump administration Joe Biden has warned that his presidential successor, Donald Trump , will attempt to “steal” the midterm elections , in a rare public address. Speaking in South Carolina, where he was being honored for his lifetime achievement in politics, Biden also asserted that the US is experiencing “dark days”, in a speech made hours before the Trump administration launched attacks on Iran . Continue reading...",
-      "lang": "en",
-      "title_en": "Joe Biden warns that Donald Trump will try to ‘steal’ midterm elections",
-      "summary_en": "In a rare public address, former president said US is experiencing ‘dark days’ and urged Americans to vote Sign up for This week in Trumpland, a free newsletter on the latest from the Trump administration Joe Biden has warned that his presidential successor, Donald Trump , will attempt to “steal” the midterm elections , in a rare public address. Speaking in South Carolina, where he was being honored for his lifetime achievement in politics, Biden also asserted that the US is experiencing “dark days”, in a speech made hours before the Trump administration launched attacks on Iran . Continue reading...",
-      "title": "Joe Biden warns that Donald Trump will try to ‘steal’ midterm elections",
-      "summary": "In a rare public address, former president said US is experiencing ‘dark days’ and urged Americans to vote Sign up for This week in Trumpland, a free newsletter on the latest from the Trump administration Joe Biden has warned that his presidential successor, Donald Trump , will attempt to “steal” the midterm elections , in a rare public address. Speaking in South Carolina, where he was being honored for his lifetime achievement in politics, Biden also asserted that the US is experiencing “dark days”, in a speech made hours before the Trump administration launched attacks on Iran . Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/feb/28/joe-biden-donald-trump-midterm-elections",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-28T15:11:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -4268,24 +4358,6 @@
       "geo": {}
     },
     {
-      "id": "fc1246ec2fd0ce96",
-      "title_orig": "Beautiful 'little piece of countryside' overlooking Liverpool Airport",
-      "summary_orig": "Only a couple of houses still remain on the remarkable stretch of road in Speke",
-      "lang": "en",
-      "title_en": "Beautiful 'little piece of countryside' overlooking Liverpool Airport",
-      "summary_en": "Only a couple of houses still remain on the remarkable stretch of road in Speke",
-      "title": "Beautiful 'little piece of countryside' overlooking Liverpool Airport",
-      "summary": "Only a couple of houses still remain on the remarkable stretch of road in Speke",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/beautiful-little-piece-countryside-overlooking-33506946",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-02-28T14:54:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c80ebfa5d670671a",
       "title_orig": "France warns of 'provocation' as Sweden confirms Russian drone buzzed carrier",
       "summary_orig": "The Swedish military confirmed Friday that a drone jammed near a French aircraft carrier this week was Russian as France slammed the spy attempt as a \"ridiculous provocation\".",
@@ -4341,12 +4413,12 @@
     },
     {
       "id": "0c77613f41c3449e",
-      "title_orig": "Trump confirms ‘most evil’ Supreme Leader Ayatollah Ali Khamenei is dead",
+      "title_orig": "Trump says Khamenei killed, Iran denies reports as ‘mental warfare’",
       "summary_orig": "US President Donald Trump has asserted on social media that Iran’s Supreme Leader Ayatollah Ali Khamenei is dead. He called Khamenei “one of the most evil people in history” and said the strike delivers justice for Iranians, Americans, and others “killed or mutilated” by him.\n“This is the single greatest chance for the Iranian people to take back their Country,” Trump said.\nHe added that many of Iran’s Islamic Revolutionary Guard Corps, military, and security forces are reportedly seeking...",
       "lang": "en",
-      "title_en": "Trump confirms ‘most evil’ Supreme Leader Ayatollah Ali Khamenei is dead",
+      "title_en": "Trump says Khamenei killed, Iran denies reports as ‘mental warfare’",
       "summary_en": "US President Donald Trump has asserted on social media that Iran’s Supreme Leader Ayatollah Ali Khamenei is dead. He called Khamenei “one of the most evil people in history” and said the strike delivers justice for Iranians, Americans, and others “killed or mutilated” by him.\n“This is the single greatest chance for the Iranian people to take back their Country,” Trump said.\nHe added that many of Iran’s Islamic Revolutionary Guard Corps, military, and security forces are reportedly seeking...",
-      "title": "Trump confirms ‘most evil’ Supreme Leader Ayatollah Ali Khamenei is dead",
+      "title": "Trump says Khamenei killed, Iran denies reports as ‘mental warfare’",
       "summary": "US President Donald Trump has asserted on social media that Iran’s Supreme Leader Ayatollah Ali Khamenei is dead. He called Khamenei “one of the most evil people in history” and said the strike delivers justice for Iranians, Americans, and others “killed or mutilated” by him.\n“This is the single greatest chance for the Iranian people to take back their Country,” Trump said.\nHe added that many of Iran’s Islamic Revolutionary Guard Corps, military, and security forces are reportedly seeking...",
       "url": "https://www.scmp.com/news/us/diplomacy/article/3344994/global-powers-divided-china-expresses-deep-concern-over-us-israel-strikes-iran?utm_source=rss_feed",
       "source": "News - South China Morning Post",
@@ -5017,24 +5089,6 @@
       "url": "https://www.straitstimes.com/world/middle-east/brazilian-government-condemns-strikes-on-iran",
       "source": "The Straits Times World News",
       "published_at": "2026-02-28T13:28:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d3ef1a42550e2f2f",
-      "title_orig": "What to know about U.S.-Israel attacks on Iran",
-      "summary_orig": "The U.S. and Israel have launched major attacks on Iran that President Donald Trump says aim to crush Iran’s military and stop production of a nuclear weapon.",
-      "lang": "en",
-      "title_en": "What to know about U.S.-Israel attacks on Iran",
-      "summary_en": "The U.S. and Israel have launched major attacks on Iran that President Donald Trump says aim to crush Iran’s military and stop production of a nuclear weapon.",
-      "title": "What to know about U.S.-Israel attacks on Iran",
-      "summary": "The U.S. and Israel have launched major attacks on Iran that President Donald Trump says aim to crush Iran’s military and stop production of a nuclear weapon.",
-      "url": "https://www.mlive.com/news/2026/02/what-to-know-about-us-israel-attacks-on-iran.html",
-      "source": "mlive.com",
-      "published_at": "2026-02-28T13:20:29+00:00",
       "tags": [
         "airport/security"
       ],
@@ -5816,24 +5870,6 @@
       "geo": {}
     },
     {
-      "id": "ebc6ee116c095cd3",
-      "title_orig": "Recap: US, Israel strike Iran as Trump urges uprising",
-      "summary_orig": "Tehran responded by launching missiles at Israel and several Gulf Arab allies of the US that host American bases.",
-      "lang": "en",
-      "title_en": "Recap: US, Israel strike Iran as Trump urges uprising",
-      "summary_en": "Tehran responded by launching missiles at Israel and several Gulf Arab allies of the US that host American bases.",
-      "title": "Recap: US, Israel strike Iran as Trump urges uprising",
-      "summary": "Tehran responded by launching missiles at Israel and several Gulf Arab allies of the US that host American bases.",
-      "url": "https://www.straitstimes.com/world/live-us-israel-strike-iran-as-trump-urges-uprising",
-      "source": "The Straits Times World News",
-      "published_at": "2026-02-28T10:42:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "64e91bfbd9026ccb",
       "title_orig": "Keir Starmer convenes Cobra committee as missiles strike Middle East",
       "summary_orig": "The Foreign Office has warned against all travel to Israel while embassies in Bahrain, Qatar and the UAE have advised British nationals to shelter in place.",
@@ -5866,24 +5902,6 @@
       "tags": [
         "airport/security",
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "dc215687dccc5071",
-      "title_orig": "Trump says Iran threatened Europe as he confirms strikes on Tehran",
-      "summary_orig": "It is understood that the UK was not involved in the US-Israeli strikes.",
-      "lang": "en",
-      "title_en": "Trump says Iran threatened Europe as he confirms strikes on Tehran",
-      "summary_en": "It is understood that the UK was not involved in the US-Israeli strikes.",
-      "title": "Trump says Iran threatened Europe as he confirms strikes on Tehran",
-      "summary": "It is understood that the UK was not involved in the US-Israeli strikes.",
-      "url": "https://www.belfastlive.co.uk/news/uk-world-news/trump-says-iran-threatened-europe-33507606",
-      "source": "BelfastLive - Home",
-      "published_at": "2026-02-28T10:21:06+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
@@ -6044,24 +6062,6 @@
       "url": "https://www.thelocal.fr/20260228/air-france-cancels-saturday-flights-to-and-from-tel-aviv-and-beirut",
       "source": "The Local France",
       "published_at": "2026-02-28T09:51:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d8e8312c033332b6",
-      "title_orig": "Global reaction to Israeli, US attacks on Iran",
-      "summary_orig": "Feb 28 - Israel and the United States launched strikes on Iran on Saturday, plunging the Middle East into a renewed military confrontation as President Donald Trump vowed to destroy Tehran's missile arsenal and prevent it from developing a nuclear weapon.",
-      "lang": "en",
-      "title_en": "Global reaction to Israeli, US attacks on Iran",
-      "summary_en": "Feb 28 - Israel and the United States launched strikes on Iran on Saturday, plunging the Middle East into a renewed military confrontation as President Donald Trump vowed to destroy Tehran's missile arsenal and prevent it from developing a nuclear weapon.",
-      "title": "Global reaction to Israeli, US attacks on Iran",
-      "summary": "Feb 28 - Israel and the United States launched strikes on Iran on Saturday, plunging the Middle East into a renewed military confrontation as President Donald Trump vowed to destroy Tehran's missile arsenal and prevent it from developing a nuclear weapon.",
-      "url": "https://www.straitstimes.com/world/global-reaction-to-israeli-us-attacks-on-iran",
-      "source": "The Straits Times World News",
-      "published_at": "2026-02-28T09:48:13+00:00",
       "tags": [
         "airport/security"
       ],
@@ -6521,12 +6521,12 @@
     },
     {
       "id": "17cf8c83c4f3938e",
-      "title_orig": "U.S. and Israel attack Iran; Trump calls for regime change",
+      "title_orig": "Iran's supreme leader killed in U.S. and Israel attack",
       "summary_orig": "The U.S. and Israel launch strikes against Iran in what Trump called the beginning of a 'massive and ongoing operation' as he pushed for the government to be ousted. He warned of possible U.S. casualties.",
       "lang": "en",
-      "title_en": "U.S. and Israel attack Iran; Trump calls for regime change",
+      "title_en": "Iran's supreme leader killed in U.S. and Israel attack",
       "summary_en": "The U.S. and Israel launch strikes against Iran in what Trump called the beginning of a 'massive and ongoing operation' as he pushed for the government to be ousted. He warned of possible U.S. casualties.",
-      "title": "U.S. and Israel attack Iran; Trump calls for regime change",
+      "title": "Iran's supreme leader killed in U.S. and Israel attack",
       "summary": "The U.S. and Israel launch strikes against Iran in what Trump called the beginning of a 'massive and ongoing operation' as he pushed for the government to be ousted. He warned of possible U.S. casualties.",
       "url": "https://www.latimes.com/world-nation/story/2026-02-27/us-participating-in-israeli-strikes-against-iran",
       "source": "World & Nation",
@@ -6575,13 +6575,13 @@
     },
     {
       "id": "bf5c2bbbc4716b32",
-      "title_orig": "Iran continues retaliatory strikes, hitting civilian buildings in UAE and Bahrain",
-      "summary_orig": "In retaliation for the US-Israel joint strikes, Iran has initially targeted US military assets in all countries across the Gulf region except Oman. By Saturday evening, reports emerged that Tehran's drones had hit residential areas of Dubai and Bahrain.",
+      "title_orig": "Trump said he believes reports of Khamenei death are 'correct'",
+      "summary_orig": "Follow our live coverage of the escalating conflict across the Middle East, which began on Saturday morning with joint US-Israeli air strikes on Iran.",
       "lang": "en",
-      "title_en": "Iran continues retaliatory strikes, hitting civilian buildings in UAE and Bahrain",
-      "summary_en": "In retaliation for the US-Israel joint strikes, Iran has initially targeted US military assets in all countries across the Gulf region except Oman. By Saturday evening, reports emerged that Tehran's drones had hit residential areas of Dubai and Bahrain.",
-      "title": "Iran continues retaliatory strikes, hitting civilian buildings in UAE and Bahrain",
-      "summary": "In retaliation for the US-Israel joint strikes, Iran has initially targeted US military assets in all countries across the Gulf region except Oman. By Saturday evening, reports emerged that Tehran's drones had hit residential areas of Dubai and Bahrain.",
+      "title_en": "Trump said he believes reports of Khamenei death are 'correct'",
+      "summary_en": "Follow our live coverage of the escalating conflict across the Middle East, which began on Saturday morning with joint US-Israeli air strikes on Iran.",
+      "title": "Trump said he believes reports of Khamenei death are 'correct'",
+      "summary": "Follow our live coverage of the escalating conflict across the Middle East, which began on Saturday morning with joint US-Israeli air strikes on Iran.",
       "url": "http://www.euronews.com/2026/02/28/israel-launches-attack-on-iran-defence-minister-says",
       "source": "News | Euronews RSS",
       "published_at": "2026-02-28T06:45:39+00:00",
