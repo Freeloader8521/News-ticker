@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-02-28T17:21:52.162426+00:00",
+  "generated_at": "2026-02-28T17:50:14.497376+00:00",
   "items": [
+    {
+      "id": "ab8b26f2c17f1da4",
+      "title_orig": "Oil prices set for swings next week after U.S., Israel strikes on Iran",
+      "summary_orig": "Oil prices have already risen on war fears. International benchmark Brent crude closed at a seven-month high of US$72.87 on Friday.",
+      "lang": "en",
+      "title_en": "Oil prices set for swings next week after U.S., Israel strikes on Iran",
+      "summary_en": "Oil prices have already risen on war fears. International benchmark Brent crude closed at a seven-month high of US$72.87 on Friday.",
+      "title": "Oil prices set for swings next week after U.S., Israel strikes on Iran",
+      "summary": "Oil prices have already risen on war fears. International benchmark Brent crude closed at a seven-month high of US$72.87 on Friday.",
+      "url": "https://globalnews.ca/news/11711403/oil-prices-us-israel-iran/",
+      "source": "globalnews.ca",
+      "published_at": "2026-02-28T17:44:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4635cb808727d2ac",
+      "title_orig": "Live: Iran responds to US-Israel attack, firing missiles at targets across Middle East",
+      "summary_orig": "Donald Trump says the joint attack is aimed at regime change in Tehran as he called on Iranians to \"rise up\" against their rulers.",
+      "lang": "en",
+      "title_en": "Live: Iran responds to US-Israel attack, firing missiles at targets across Middle East",
+      "summary_en": "Donald Trump says the joint attack is aimed at regime change in Tehran as he called on Iranians to \"rise up\" against their rulers.",
+      "title": "Live: Iran responds to US-Israel attack, firing missiles at targets across Middle East",
+      "summary": "Donald Trump says the joint attack is aimed at regime change in Tehran as he called on Iranians to \"rise up\" against their rulers.",
+      "url": "https://www.abc.net.au/news/2026-03-01/us-israel-launches-airstrikes-in-iran-live-blog/106401380",
+      "source": "Just In",
+      "published_at": "2026-02-28T17:41:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7b677264aa4baa42",
+      "title_orig": "Opposition demands Centre to condemn attacks on Iran, protect lives of Indians in West Asia",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Opposition demands Centre to condemn attacks on Iran, protect lives of Indians in West Asia",
+      "summary_en": "",
+      "title": "Opposition demands Centre to condemn attacks on Iran, protect lives of Indians in West Asia",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/opposition-demands-centre-to-condemn-attacks-on-iran-protect-lives-of-indians-in-west-asia/article70688884.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-02-28T17:40:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "31c2d976b3731349",
+      "title_orig": "A duo of the willing: US and Israel have few allies in initial Iran strikes",
+      "summary_orig": "The U.S. and Israel are so far going it alone in their military campaign against Iran, in a notable absence of the allies who participated in previous regional conflicts with air defenses and strikes. Several world leaders have voiced support for punishing the brutality of Iran’s Islamist regime. But none offered military support in the […]",
+      "lang": "en",
+      "title_en": "A duo of the willing: US and Israel have few allies in initial Iran strikes",
+      "summary_en": "The U.S. and Israel are so far going it alone in their military campaign against Iran, in a notable absence of the allies who participated in previous regional conflicts with air defenses and strikes. Several world leaders have voiced support for punishing the brutality of Iran’s Islamist regime. But none offered military support in the […]",
+      "title": "A duo of the willing: US and Israel have few allies in initial Iran strikes",
+      "summary": "The U.S. and Israel are so far going it alone in their military campaign against Iran, in a notable absence of the allies who participated in previous regional conflicts with air defenses and strikes. Several world leaders have voiced support for punishing the brutality of Iran’s Islamist regime. But none offered military support in the […]",
+      "url": "https://www.politico.com/news/2026/02/28/a-duo-of-the-willing-us-and-israel-have-few-allies-in-initial-iran-strikes-00805640?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "source": "POLITICO",
+      "published_at": "2026-02-28T17:39:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "38b9b339506db245",
+      "title_orig": "JD(S) MLC Bhoje Gowda gets stuck at Dubai airport",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "JD(S) MLC Bhoje Gowda gets stuck at Dubai airport",
+      "summary_en": "",
+      "title": "JD(S) MLC Bhoje Gowda gets stuck at Dubai airport",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/karnataka/jds-mlc-bhoje-gowda-gets-stuck-at-dubai-airport/article70689274.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-02-28T17:39:14+00:00",
+      "tags": [
+        "DXB",
+        "United Arab Emirates",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dubai",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "iata": "DXB",
+        "lat": 25.2532,
+        "lon": 55.3657
+      }
+    },
     {
       "id": "2d6e85ab4c2ed590",
       "title_orig": "Live Updates: U.S. and Israel Strike Iran as Trump Calls for Overthrow of Government",
@@ -12,7 +111,331 @@
       "summary": "Iran vowed retaliation after President Trump pledged to eliminate its nuclear program and devastate its military. Israel joined the U.S.-led attack and said it had targeted a gathering of senior Iranian officials.",
       "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
       "source": "NYT > World News",
-      "published_at": "2026-02-28T17:09:32+00:00",
+      "published_at": "2026-02-28T17:39:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "202d5bce94a923cf",
+      "title_orig": "Iranian Attacks on Israel Shine a Light on Shelter Shortage",
+      "summary_orig": "The missile barrages highlight a shortage of bomb shelters in a country that has been preparing for war with Iran for decades.",
+      "lang": "en",
+      "title_en": "Iranian Attacks on Israel Shine a Light on Shelter Shortage",
+      "summary_en": "The missile barrages highlight a shortage of bomb shelters in a country that has been preparing for war with Iran for decades.",
+      "title": "Iranian Attacks on Israel Shine a Light on Shelter Shortage",
+      "summary": "The missile barrages highlight a shortage of bomb shelters in a country that has been preparing for war with Iran for decades.",
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-bomb-shelter-shortage-iran.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-28T17:39:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "35e83a229e23c423",
+      "title_orig": "For Trump, the Iran attack is the ultimate war of choice",
+      "summary_orig": "A man who came to office promising an end to reckless military interventions — and wars intended to prompt regime change — is taking a huge risk.",
+      "lang": "en",
+      "title_en": "For Trump, the Iran attack is the ultimate war of choice",
+      "summary_en": "A man who came to office promising an end to reckless military interventions — and wars intended to prompt regime change — is taking a huge risk.",
+      "title": "For Trump, the Iran attack is the ultimate war of choice",
+      "summary": "A man who came to office promising an end to reckless military interventions — and wars intended to prompt regime change — is taking a huge risk.",
+      "url": "https://www.seattletimes.com/nation-world/for-trump-the-iran-attack-is-the-ultimate-war-of-choice/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-28T17:38:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "284cf826542abb85",
+      "title_orig": "Flights cancelled and routes suspended after US and Israel launch strikes on Iran",
+      "summary_orig": "All three giant Middle East hubs close down, disrupting plans for hundreds of thousands of travellers",
+      "lang": "en",
+      "title_en": "Flights cancelled and routes suspended after US and Israel launch strikes on Iran",
+      "summary_en": "All three giant Middle East hubs close down, disrupting plans for hundreds of thousands of travellers",
+      "title": "Flights cancelled and routes suspended after US and Israel launch strikes on Iran",
+      "summary": "All three giant Middle East hubs close down, disrupting plans for hundreds of thousands of travellers",
+      "url": "https://www.independent.co.uk/travel/news-and-advice/flights-cancelled-dubai-iran-us-strikes-israel-trump-b2929382.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-28T17:37:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ecf40c56c63a255f",
+      "title_orig": "UN Security Council to hold emergency meeting as U.S., Israel strike Iran",
+      "summary_orig": "The United Nations Security Council will hold an emergency briefing Saturday under the agenda item, 'The Situation in the Middle East.'",
+      "lang": "en",
+      "title_en": "UN Security Council to hold emergency meeting as U.S., Israel strike Iran",
+      "summary_en": "The United Nations Security Council will hold an emergency briefing Saturday under the agenda item, 'The Situation in the Middle East.'",
+      "title": "UN Security Council to hold emergency meeting as U.S., Israel strike Iran",
+      "summary": "The United Nations Security Council will hold an emergency briefing Saturday under the agenda item, 'The Situation in the Middle East.'",
+      "url": "https://globalnews.ca/news/11711377/un-security-council-us-israel-iran/",
+      "source": "globalnews.ca",
+      "published_at": "2026-02-28T17:36:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "61346870f035b16f",
+      "title_orig": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
+      "summary_orig": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE.",
+      "lang": "en",
+      "title_en": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
+      "summary_en": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE.",
+      "title": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
+      "summary": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE.",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-02-28T17:32:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6a93b538da26ab96",
+      "title_orig": "What we know — and still don’t — about the Iran strikes",
+      "summary_orig": "The strikes threaten to roil the Middle East but raise hope in some corners that a longtime U.S. adversary could fall.",
+      "lang": "en",
+      "title_en": "What we know — and still don’t — about the Iran strikes",
+      "summary_en": "The strikes threaten to roil the Middle East but raise hope in some corners that a longtime U.S. adversary could fall.",
+      "title": "What we know — and still don’t — about the Iran strikes",
+      "summary": "The strikes threaten to roil the Middle East but raise hope in some corners that a longtime U.S. adversary could fall.",
+      "url": "https://www.politico.com/news/2026/02/28/iran-strike-middle-east-us-trump-00805729?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "source": "POLITICO",
+      "published_at": "2026-02-28T17:29:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "592c6233339d95ce",
+      "title_orig": "Middle East plunged into conflict after Iran retaliates to major US and Israeli strikes",
+      "summary_orig": "Sir Keir Starmer has condemned the Iranian regime and said British planes ‘are in the sky today’ as part of coordinated defensive operations to protect allies",
+      "lang": "en",
+      "title_en": "Middle East plunged into conflict after Iran retaliates to major US and Israeli strikes",
+      "summary_en": "Sir Keir Starmer has condemned the Iranian regime and said British planes ‘are in the sky today’ as part of coordinated defensive operations to protect allies",
+      "title": "Middle East plunged into conflict after Iran retaliates to major US and Israeli strikes",
+      "summary": "Sir Keir Starmer has condemned the Iranian regime and said British planes ‘are in the sky today’ as part of coordinated defensive operations to protect allies",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-israel-strikes-us-trump-middle-east-b2929456.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-28T17:28:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6cd87e9d189d5db0",
+      "title_orig": "Death toll in Israeli strike on girls' school in Iran rises to 85, state media reports",
+      "summary_orig": "The reported deaths are the latest in the region after the United States and Israel began its attack on Iran this morning.",
+      "lang": "en",
+      "title_en": "Death toll in Israeli strike on girls' school in Iran rises to 85, state media reports",
+      "summary_en": "The reported deaths are the latest in the region after the United States and Israel began its attack on Iran this morning.",
+      "title": "Death toll in Israeli strike on girls' school in Iran rises to 85, state media reports",
+      "summary": "The reported deaths are the latest in the region after the United States and Israel began its attack on Iran this morning.",
+      "url": "https://www.thejournal.ie/iran-strike-on-girls-school-6970531-Feb2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-02-28T17:22:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "64f25d637678d8af",
+      "title_orig": "US and Israel launch major attack on Iran to trigger regime change as Tehran retaliates across the Middle East – live",
+      "summary_orig": "Iran’s foreign minister says Donald Trump’s aim of regime change is ‘mission impossible’ and calls attack a ‘war of choice by the United States’ Full report: US and Israel attack Iran Analysis: Trump’s attack has no mandate A visual guide to the US-Israeli strikes on Iran – and Tehran’s response Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
+      "lang": "en",
+      "title_en": "US and Israel launch major attack on Iran to trigger regime change as Tehran retaliates across the Middle East – live",
+      "summary_en": "Iran’s foreign minister says Donald Trump’s aim of regime change is ‘mission impossible’ and calls attack a ‘war of choice by the United States’ Full report: US and Israel attack Iran Analysis: Trump’s attack has no mandate A visual guide to the US-Israeli strikes on Iran – and Tehran’s response Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
+      "title": "US and Israel launch major attack on Iran to trigger regime change as Tehran retaliates across the Middle East – live",
+      "summary": "Iran’s foreign minister says Donald Trump’s aim of regime change is ‘mission impossible’ and calls attack a ‘war of choice by the United States’ Full report: US and Israel attack Iran Analysis: Trump’s attack has no mandate A visual guide to the US-Israeli strikes on Iran – and Tehran’s response Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-28T17:21:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6703c35f708ac275",
+      "title_orig": "Iran closes Strait of Hormuz after US-Israel strikes, reports say",
+      "summary_orig": "Oil majors and trading houses say they have suspended crude oil, fuel and liquefied natural gas shipments",
+      "lang": "en",
+      "title_en": "Iran closes Strait of Hormuz after US-Israel strikes, reports say",
+      "summary_en": "Oil majors and trading houses say they have suspended crude oil, fuel and liquefied natural gas shipments",
+      "title": "Iran closes Strait of Hormuz after US-Israel strikes, reports say",
+      "summary": "Oil majors and trading houses say they have suspended crude oil, fuel and liquefied natural gas shipments",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-strait-of-hormuz-closed-oil-shipments-suspended-us-attack-b2929506.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-28T17:20:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "23c3da1ec45573bc",
+      "title_orig": "Fire at Dubai hotel on The Palm after Iran 'missile attack'",
+      "summary_orig": "Images shared online appear to show The Fairmont Hotel on fire following reported Iran missile attacks",
+      "lang": "en",
+      "title_en": "Fire at Dubai hotel on The Palm after Iran 'missile attack'",
+      "summary_en": "Images shared online appear to show The Fairmont Hotel on fire following reported Iran missile attacks",
+      "title": "Fire at Dubai hotel on The Palm after Iran 'missile attack'",
+      "summary": "Images shared online appear to show The Fairmont Hotel on fire following reported Iran missile attacks",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/fire-dubai-hotel-palm-after-33508955",
+      "source": "Liverpool Echo - News",
+      "published_at": "2026-02-28T17:19:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0549c5860a36265a",
+      "title_orig": "What to know about US-Israel attacks on Iran",
+      "summary_orig": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
+      "lang": "en",
+      "title_en": "What to know about US-Israel attacks on Iran",
+      "summary_en": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
+      "title": "What to know about US-Israel attacks on Iran",
+      "summary": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
+      "url": "https://wtop.com/national/2026/02/what-to-know-about-u-s-israel-attacks-on-iran/",
+      "source": "WTOP News",
+      "published_at": "2026-02-28T17:19:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "901484fc40ad2524",
+      "title_orig": "Ukraine-Russia war latest: Zelensky suggests peace talks could be postponed amid Middle East attacks",
+      "summary_orig": "The Ukrainian leader said talks will depend on the security situation in the Middle East",
+      "lang": "en",
+      "title_en": "Ukraine-Russia war latest: Zelensky suggests peace talks could be postponed amid Middle East attacks",
+      "summary_en": "The Ukrainian leader said talks will depend on the security situation in the Middle East",
+      "title": "Ukraine-Russia war latest: Zelensky suggests peace talks could be postponed amid Middle East attacks",
+      "summary": "The Ukrainian leader said talks will depend on the security situation in the Middle East",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-missiles-map-b2928632.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-28T17:18:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "79debb165ed295cc",
+      "title_orig": "Mapped: Where strikes and explosions have been heard across the Middle East as Iran retaliates",
+      "summary_orig": "Bahrain, Qatar, UAE, Kuwait, and Jordan are among the nations that have been attacked",
+      "lang": "en",
+      "title_en": "Mapped: Where strikes and explosions have been heard across the Middle East as Iran retaliates",
+      "summary_en": "Bahrain, Qatar, UAE, Kuwait, and Jordan are among the nations that have been attacked",
+      "title": "Mapped: Where strikes and explosions have been heard across the Middle East as Iran retaliates",
+      "summary": "Bahrain, Qatar, UAE, Kuwait, and Jordan are among the nations that have been attacked",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-israel-strikes-bahrain-qatar-uae-kuwait-jordan-trump-b2929420.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-28T17:16:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d048e226e921fcfb",
+      "title_orig": "Members of U.S. Congress Are Divided on U.S. Strikes in Iran",
+      "summary_orig": "As explosions rocked Tehran, Republicans largely voiced support as Democrats warned about a costly and unauthorized conflict.",
+      "lang": "en",
+      "title_en": "Members of U.S. Congress Are Divided on U.S. Strikes in Iran",
+      "summary_en": "As explosions rocked Tehran, Republicans largely voiced support as Democrats warned about a costly and unauthorized conflict.",
+      "title": "Members of U.S. Congress Are Divided on U.S. Strikes in Iran",
+      "summary": "As explosions rocked Tehran, Republicans largely voiced support as Democrats warned about a costly and unauthorized conflict.",
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/congress-iran-attacks-reaction.html",
+      "source": "NYT > World News",
+      "published_at": "2026-02-28T17:14:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "71713262d687c11a",
+      "title_orig": "Euronews journalists in Dubai report multiple drone attacks on residential areas",
+      "summary_orig": "Euronews journalists in Dubai report explosions and missile strike on a residential area, with fires engulfing buildings and evacuations underway. Correspondent Jane Witherspoon says panic spread as people fled the Palm tourist district following the latest blasts.",
+      "lang": "en",
+      "title_en": "Euronews journalists in Dubai report multiple drone attacks on residential areas",
+      "summary_en": "Euronews journalists in Dubai report explosions and missile strike on a residential area, with fires engulfing buildings and evacuations underway. Correspondent Jane Witherspoon says panic spread as people fled the Palm tourist district following the latest blasts.",
+      "title": "Euronews journalists in Dubai report multiple drone attacks on residential areas",
+      "summary": "Euronews journalists in Dubai report explosions and missile strike on a residential area, with fires engulfing buildings and evacuations underway. Correspondent Jane Witherspoon says panic spread as people fled the Palm tourist district following the latest blasts.",
+      "url": "http://www.euronews.com/2026/02/28/euronews-journalists-in-dubai-report-multiple-drone-attacks-on-residential-areas",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-02-28T17:12:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a5e5cd26c60c6b44",
+      "title_orig": "US and Israel launch a major attack on Iran. Trump urges Iranians to 'take over'",
+      "summary_orig": "President Donald Trump urged the Iranian public to “seize control of your destiny” by rising up against the Islamic leadership that has ruled the nation since 1979.",
+      "lang": "en",
+      "title_en": "US and Israel launch a major attack on Iran. Trump urges Iranians to 'take over'",
+      "summary_en": "President Donald Trump urged the Iranian public to “seize control of your destiny” by rising up against the Islamic leadership that has ruled the nation since 1979.",
+      "title": "US and Israel launch a major attack on Iran. Trump urges Iranians to 'take over'",
+      "summary": "President Donald Trump urged the Iranian public to “seize control of your destiny” by rising up against the Islamic leadership that has ruled the nation since 1979.",
+      "url": "https://www.startribune.com/witnesses-say-they-hear-an-explosion-in-irans-capital-tehran/601590347",
+      "source": "Startribune News",
+      "published_at": "2026-02-28T17:12:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ec6ebe8cb9af7aab",
+      "title_orig": "Yet another mid-talks attack suggests Trump was never serious about peace",
+      "summary_orig": "Second Israeli-US attack during nuclear negotiations may finally jettison any chance of agreement US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far The attack mounted jointly by Israel and the US on Iran had been planned for months, but the timing, in the midst of negotiations between Iran and the US, will again raise questions about whether Washington was ever serious about striking a deal with Tehran. Judging by Donald Trump’s statement launching the war, the US had no interest in any ingenious plan to make it impossible for Iran to stockpile highly enriched uranium, Trump wanted rid of the entire regime, “ a vicious group of very hard, terrible people”. Continue reading...",
+      "lang": "en",
+      "title_en": "Yet another mid-talks attack suggests Trump was never serious about peace",
+      "summary_en": "Second Israeli-US attack during nuclear negotiations may finally jettison any chance of agreement US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far The attack mounted jointly by Israel and the US on Iran had been planned for months, but the timing, in the midst of negotiations between Iran and the US, will again raise questions about whether Washington was ever serious about striking a deal with Tehran. Judging by Donald Trump’s statement launching the war, the US had no interest in any ingenious plan to make it impossible for Iran to stockpile highly enriched uranium, Trump wanted rid of the entire regime, “ a vicious group of very hard, terrible people”. Continue reading...",
+      "title": "Yet another mid-talks attack suggests Trump was never serious about peace",
+      "summary": "Second Israeli-US attack during nuclear negotiations may finally jettison any chance of agreement US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far The attack mounted jointly by Israel and the US on Iran had been planned for months, but the timing, in the midst of negotiations between Iran and the US, will again raise questions about whether Washington was ever serious about striking a deal with Tehran. Judging by Donald Trump’s statement launching the war, the US had no interest in any ingenious plan to make it impossible for Iran to stockpile highly enriched uranium, Trump wanted rid of the entire regime, “ a vicious group of very hard, terrible people”. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/feb/28/yet-another-mid-talks-attack-jeopardises-chances-of-iran-taking-trump-seriously",
+      "source": "World news | The Guardian",
+      "published_at": "2026-02-28T17:08:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -56,6 +479,78 @@
       "geo": {}
     },
     {
+      "id": "ab154404f9047966",
+      "title_orig": "US and Israel launch a major attack on Iran. Trump urges Iranians to ‘take over’",
+      "summary_orig": "The U.S. and Israel launched an attack Saturday on Iran, with the first apparent strike happening near the offices of Supreme Leader Ayatollah Ali Khamenei.",
+      "lang": "en",
+      "title_en": "US and Israel launch a major attack on Iran. Trump urges Iranians to ‘take over’",
+      "summary_en": "The U.S. and Israel launched an attack Saturday on Iran, with the first apparent strike happening near the offices of Supreme Leader Ayatollah Ali Khamenei.",
+      "title": "US and Israel launch a major attack on Iran. Trump urges Iranians to ‘take over’",
+      "summary": "The U.S. and Israel launched an attack Saturday on Iran, with the first apparent strike happening near the offices of Supreme Leader Ayatollah Ali Khamenei.",
+      "url": "https://wtop.com/world/2026/02/witnesses-say-they-hear-an-explosion-in-irans-capital-tehran-sirens-sound-in-israel/",
+      "source": "WTOP News",
+      "published_at": "2026-02-28T17:07:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4bee37f2d49a7662",
+      "title_orig": "Global reaction to US, Israeli attacks on Iran",
+      "summary_orig": "Feb 28 - Israel and the United States launched strikes on Iran on Saturday, plunging the Middle East into a renewed military confrontation.",
+      "lang": "en",
+      "title_en": "Global reaction to US, Israeli attacks on Iran",
+      "summary_en": "Feb 28 - Israel and the United States launched strikes on Iran on Saturday, plunging the Middle East into a renewed military confrontation.",
+      "title": "Global reaction to US, Israeli attacks on Iran",
+      "summary": "Feb 28 - Israel and the United States launched strikes on Iran on Saturday, plunging the Middle East into a renewed military confrontation.",
+      "url": "https://www.straitstimes.com/world/global-reaction-to-us-israeli-attacks-on-iran",
+      "source": "The Straits Times World News",
+      "published_at": "2026-02-28T17:07:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9645480209fee9cb",
+      "title_orig": "Death toll from strike that hit school in southern Iran has risen to 85 people, an official says on Iranian state TV",
+      "summary_orig": "BEIRUT (AP) — Death toll from strike that hit school in southern Iran has risen to 85 people, an official…",
+      "lang": "en",
+      "title_en": "Death toll from strike that hit school in southern Iran has risen to 85 people, an official says on Iranian state TV",
+      "summary_en": "BEIRUT (AP) — Death toll from strike that hit school in southern Iran has risen to 85 people, an official…",
+      "title": "Death toll from strike that hit school in southern Iran has risen to 85 people, an official says on Iranian state TV",
+      "summary": "BEIRUT (AP) — Death toll from strike that hit school in southern Iran has risen to 85 people, an official…",
+      "url": "https://wtop.com/world/2026/02/death-toll-from-strike-that-hit-school-in-southern-iran-has-risen-to-85-people-an-official-says-on-iranian-state-tv/",
+      "source": "WTOP News",
+      "published_at": "2026-02-28T17:07:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a9b2abed19e394a3",
+      "title_orig": "Dubai hotel fire: Blaze breaks out at Fairmont Hotel in Palm Jumeirah during air attack",
+      "summary_orig": "Tehran has been launching retaliatory strikes after the US and Israel struck Iran early on Saturday",
+      "lang": "en",
+      "title_en": "Dubai hotel fire: Blaze breaks out at Fairmont Hotel in Palm Jumeirah during air attack",
+      "summary_en": "Tehran has been launching retaliatory strikes after the US and Israel struck Iran early on Saturday",
+      "title": "Dubai hotel fire: Blaze breaks out at Fairmont Hotel in Palm Jumeirah during air attack",
+      "summary": "Tehran has been launching retaliatory strikes after the US and Israel struck Iran early on Saturday",
+      "url": "https://www.independent.co.uk/news/world/middle-east/dubai-hotel-fire-fairmont-palm-jumeirah-iran-missile-b2929492.html",
+      "source": "The Independent World",
+      "published_at": "2026-02-28T17:07:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "1628769a865d7786",
       "title_orig": "Iran retaliates after being targeted by Israeli-US strikes",
       "summary_orig": "The United States and Israel launched what the latter called a \"decisive and unprecedented\" campaign against Iran, which retaliated with a barrage of missiles that sent residents running for cover on Saturday in cities across the Middle East.",
@@ -92,17 +587,17 @@
       "geo": {}
     },
     {
-      "id": "a9b2abed19e394a3",
-      "title_orig": "Dubai hotel fire: Blaze breaks out at Fairmont Hotel in Palm Jumeirah during air attack",
-      "summary_orig": "Tehran has been launching retaliatory strikes after the US and Israel struck Iran early on Saturday",
+      "id": "fbb7422e6f1b9aa2",
+      "title_orig": "DGCA asks carriers to avoid flying via Persian Gulf amid escalating tensions",
+      "summary_orig": "The Directorate General of Civil Aviation (DGCA) warned of a “significant escalation in security risks” after the US and Israeli military strikes on Iran",
       "lang": "en",
-      "title_en": "Dubai hotel fire: Blaze breaks out at Fairmont Hotel in Palm Jumeirah during air attack",
-      "summary_en": "Tehran has been launching retaliatory strikes after the US and Israel struck Iran early on Saturday",
-      "title": "Dubai hotel fire: Blaze breaks out at Fairmont Hotel in Palm Jumeirah during air attack",
-      "summary": "Tehran has been launching retaliatory strikes after the US and Israel struck Iran early on Saturday",
-      "url": "https://www.independent.co.uk/news/world/middle-east/dubai-hotel-fire-fairmont-palm-jumeirah-iran-missile-b2929492.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-28T17:03:12+00:00",
+      "title_en": "DGCA asks carriers to avoid flying via Persian Gulf amid escalating tensions",
+      "summary_en": "The Directorate General of Civil Aviation (DGCA) warned of a “significant escalation in security risks” after the US and Israeli military strikes on Iran",
+      "title": "DGCA asks carriers to avoid flying via Persian Gulf amid escalating tensions",
+      "summary": "The Directorate General of Civil Aviation (DGCA) warned of a “significant escalation in security risks” after the US and Israeli military strikes on Iran",
+      "url": "https://www.hindustantimes.com/india-news/dgca-asks-carriers-to-avoid-flying-via-persian-gulf-amid-escalating-tensions-101772298127710.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2026-02-28T17:02:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -164,24 +659,6 @@
       "geo": {}
     },
     {
-      "id": "64f25d637678d8af",
-      "title_orig": "US and Israel launch major attack on Iran to trigger regime change as Tehran retaliates across the Middle East – live",
-      "summary_orig": "Iran’s foreign minister says Donald Trump’s aim of regime change is ‘mission impossible’ and calls attack a ‘war of choice by the United States’ Full report: US and Israel attack Iran Analysis: Trump’s attack has no mandate A visual guide to the US-Israeli strikes on Iran – and Tehran’s response Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
-      "lang": "en",
-      "title_en": "US and Israel launch major attack on Iran to trigger regime change as Tehran retaliates across the Middle East – live",
-      "summary_en": "Iran’s foreign minister says Donald Trump’s aim of regime change is ‘mission impossible’ and calls attack a ‘war of choice by the United States’ Full report: US and Israel attack Iran Analysis: Trump’s attack has no mandate A visual guide to the US-Israeli strikes on Iran – and Tehran’s response Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
-      "title": "US and Israel launch major attack on Iran to trigger regime change as Tehran retaliates across the Middle East – live",
-      "summary": "Iran’s foreign minister says Donald Trump’s aim of regime change is ‘mission impossible’ and calls attack a ‘war of choice by the United States’ Full report: US and Israel attack Iran Analysis: Trump’s attack has no mandate A visual guide to the US-Israeli strikes on Iran – and Tehran’s response Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2026-02-28T16:59:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "1bfad0356cbd2342",
       "title_orig": "A visual guide to US-Israeli strikes on Iran – and Tehran’s response",
       "summary_orig": "Missiles and bombs landed across Iran, hitting political and security targets in Tehran, including supreme leader’s residence US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far The US and Israel have announced the beginning of an unprecedented joint operation against Iran, beginning with a wide-ranging bombing campaign aimed at regime change. Israeli jets and US missiles struck hundreds of targets across Iran, sending residents fleeing in panic from major urban centres. Among the targets were Iran’s supreme leader, Ayatollah Ali Khameini, and Iran’s president, Masoud Pezeshkian, as well as weapons facilities across the country. Continue reading...",
@@ -197,24 +674,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "901484fc40ad2524",
-      "title_orig": "Ukraine-Russia war latest: Zelensky suggests peace talks could be postponed amid Middle East attacks",
-      "summary_orig": "The Ukrainian leader said talks will depend on the security situation in the Middle East",
-      "lang": "en",
-      "title_en": "Ukraine-Russia war latest: Zelensky suggests peace talks could be postponed amid Middle East attacks",
-      "summary_en": "The Ukrainian leader said talks will depend on the security situation in the Middle East",
-      "title": "Ukraine-Russia war latest: Zelensky suggests peace talks could be postponed amid Middle East attacks",
-      "summary": "The Ukrainian leader said talks will depend on the security situation in the Middle East",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-missiles-map-b2928632.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-28T16:56:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -272,24 +731,6 @@
       "geo": {}
     },
     {
-      "id": "592c6233339d95ce",
-      "title_orig": "Middle East plunged into conflict after Iran retaliates to major US and Israeli strikes",
-      "summary_orig": "Sir Keir Starmer has condemned the Iranian regime and said British planes ‘are in the sky today’ as part of co-ordinated defensive operations to protect allies",
-      "lang": "en",
-      "title_en": "Middle East plunged into conflict after Iran retaliates to major US and Israeli strikes",
-      "summary_en": "Sir Keir Starmer has condemned the Iranian regime and said British planes ‘are in the sky today’ as part of co-ordinated defensive operations to protect allies",
-      "title": "Middle East plunged into conflict after Iran retaliates to major US and Israeli strikes",
-      "summary": "Sir Keir Starmer has condemned the Iranian regime and said British planes ‘are in the sky today’ as part of co-ordinated defensive operations to protect allies",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-israel-strikes-us-trump-middle-east-b2929456.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-28T16:53:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2bf589c1eaac01ee",
       "title_orig": "Late drama at Murrayfield Ice Arena as Edinburgh Capitals star strikes overtime winner against Dundee Rockets",
       "summary_orig": "The Capitals scored a dramatic late winner to defeat the Dundee Rockets 8-7 on aggregate in the Scottish Cup.",
@@ -326,6 +767,24 @@
       "geo": {}
     },
     {
+      "id": "ea98c7bb5e138a21",
+      "title_orig": "The Latest: Iran launches retaliatory strikes as Trump calls for regime change",
+      "summary_orig": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
+      "lang": "en",
+      "title_en": "The Latest: Iran launches retaliatory strikes as Trump calls for regime change",
+      "summary_en": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
+      "title": "The Latest: Iran launches retaliatory strikes as Trump calls for regime change",
+      "summary": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
+      "url": "https://wtop.com/national/2026/02/the-latest-israel-launches-attack-on-irans-capital/",
+      "source": "WTOP News",
+      "published_at": "2026-02-28T16:51:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "545152178a9d591b",
       "title_orig": "US and Israeli strikes on Iran in maps",
       "summary_orig": "Israel and the US have launched strikes across Iran, with Iran retaliating with strikes across the region.",
@@ -337,6 +796,24 @@
       "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2026-02-28T16:48:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "82b5d2fb5ba49a3d",
+      "title_orig": "WA’s leaders criticize Iran attack, want vote in Congress",
+      "summary_orig": "Sen. Patty Murray and most of Washington state's members of Congress criticized the president's decision to attack Iran.",
+      "lang": "en",
+      "title_en": "WA’s leaders criticize Iran attack, want vote in Congress",
+      "summary_en": "Sen. Patty Murray and most of Washington state's members of Congress criticized the president's decision to attack Iran.",
+      "title": "WA’s leaders criticize Iran attack, want vote in Congress",
+      "summary": "Sen. Patty Murray and most of Washington state's members of Congress criticized the president's decision to attack Iran.",
+      "url": "https://www.seattletimes.com/seattle-news/politics/was-leaders-criticize-iran-attack-want-vote-in-congress/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-28T16:48:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -416,24 +893,6 @@
       "geo": {}
     },
     {
-      "id": "a5e5cd26c60c6b44",
-      "title_orig": "US and Israel launch a major attack on Iran; Trump urges Iranians to ‘take over’",
-      "summary_orig": "Iran retaliated by firing missiles and drones toward Israel and U.S. military bases in the region.",
-      "lang": "en",
-      "title_en": "US and Israel launch a major attack on Iran; Trump urges Iranians to ‘take over’",
-      "summary_en": "Iran retaliated by firing missiles and drones toward Israel and U.S. military bases in the region.",
-      "title": "US and Israel launch a major attack on Iran; Trump urges Iranians to ‘take over’",
-      "summary": "Iran retaliated by firing missiles and drones toward Israel and U.S. military bases in the region.",
-      "url": "https://www.startribune.com/witnesses-say-they-hear-an-explosion-in-irans-capital-tehran/601590347",
-      "source": "Startribune News",
-      "published_at": "2026-02-28T16:42:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "237bb49a067063be",
       "title_orig": "Israel and the United States launches a joint attack on the Islamic Republic",
       "summary_orig": "Follow the latest on live on France24.",
@@ -445,24 +904,6 @@
       "url": "https://www.france24.com/en/israel-and-the-united-states-launches-a-joint-attack-on-the-islamic-republic",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2026-02-28T16:40:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "d048e226e921fcfb",
-      "title_orig": "Members of U.S. Congress Are Divided on U.S. Strikes in Iran",
-      "summary_orig": "As explosions rocked Tehran, Republicans largely voiced support as Democrats warned about a costly and unauthorized conflict.",
-      "lang": "en",
-      "title_en": "Members of U.S. Congress Are Divided on U.S. Strikes in Iran",
-      "summary_en": "As explosions rocked Tehran, Republicans largely voiced support as Democrats warned about a costly and unauthorized conflict.",
-      "title": "Members of U.S. Congress Are Divided on U.S. Strikes in Iran",
-      "summary": "As explosions rocked Tehran, Republicans largely voiced support as Democrats warned about a costly and unauthorized conflict.",
-      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/congress-iran-attacks-reaction.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-28T16:39:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -578,60 +1019,6 @@
       "geo": {}
     },
     {
-      "id": "0549c5860a36265a",
-      "title_orig": "What to know about US-Israel attacks on Iran",
-      "summary_orig": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
-      "lang": "en",
-      "title_en": "What to know about US-Israel attacks on Iran",
-      "summary_en": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
-      "title": "What to know about US-Israel attacks on Iran",
-      "summary": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
-      "url": "https://wtop.com/national/2026/02/what-to-know-about-u-s-israel-attacks-on-iran/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T16:30:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ea98c7bb5e138a21",
-      "title_orig": "The Latest: Iran launches retaliatory strikes as Trump calls for regime change",
-      "summary_orig": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
-      "lang": "en",
-      "title_en": "The Latest: Iran launches retaliatory strikes as Trump calls for regime change",
-      "summary_en": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
-      "title": "The Latest: Iran launches retaliatory strikes as Trump calls for regime change",
-      "summary": "The U.S. and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the…",
-      "url": "https://wtop.com/national/2026/02/the-latest-israel-launches-attack-on-irans-capital/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T16:29:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d1cf4caf08c3a04c",
-      "title_orig": "Oil prices set for swings next week as US-Israel strikes raise supply uncertainty",
-      "summary_orig": "FRANKFURT, Germany (AP) — Oil markets currently closed for the weekend are set to see price swings next week as…",
-      "lang": "en",
-      "title_en": "Oil prices set for swings next week as US-Israel strikes raise supply uncertainty",
-      "summary_en": "FRANKFURT, Germany (AP) — Oil markets currently closed for the weekend are set to see price swings next week as…",
-      "title": "Oil prices set for swings next week as US-Israel strikes raise supply uncertainty",
-      "summary": "FRANKFURT, Germany (AP) — Oil markets currently closed for the weekend are set to see price swings next week as…",
-      "url": "https://wtop.com/world/2026/02/oil-prices-set-for-swings-next-week-as-us-israel-strikes-raise-supply-uncertainty/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T16:28:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b8d236bb4e0d4a49",
       "title_orig": "Iran targets US military bases in the Middle East with retaliatory strikes",
       "summary_orig": "Tehran responded to joint US-Israeli air strikes on its territory by launching a wave of drone and missile attacks at bases hosting US troops across the Middle East. Here's what we know so far about the US military bases being targeted in the region.",
@@ -650,15 +1037,15 @@
       "geo": {}
     },
     {
-      "id": "00838be5150945c3",
-      "title_orig": "Trump's Iran strikes mark his biggest foreign policy gamble",
-      "summary_orig": "WASHINGTON, Feb 28 - With his large-scale attack on Iran, Donald Trump has seized a legacy-defining moment to demonstrate his readiness to exercise raw U.S. military power. But in doing so, he is also taking the biggest foreign policy gamble of his presidency, one fraught with risks and unknowns.",
+      "id": "bb53f7deb4da4b00",
+      "title_orig": "Trump’s Iran strikes mark his biggest foreign policy gamble",
+      "summary_orig": "Iran could become the biggest US military campaign since the wars in Afghanistan and Iraq.",
       "lang": "en",
-      "title_en": "Trump's Iran strikes mark his biggest foreign policy gamble",
-      "summary_en": "WASHINGTON, Feb 28 - With his large-scale attack on Iran, Donald Trump has seized a legacy-defining moment to demonstrate his readiness to exercise raw U.S. military power. But in doing so, he is also taking the biggest foreign policy gamble of his presidency, one fraught with risks and unknowns.",
-      "title": "Trump's Iran strikes mark his biggest foreign policy gamble",
-      "summary": "WASHINGTON, Feb 28 - With his large-scale attack on Iran, Donald Trump has seized a legacy-defining moment to demonstrate his readiness to exercise raw U.S. military power. But in doing so, he is also taking the biggest foreign policy gamble of his presidency, one fraught with risks and unknowns.",
-      "url": "https://www.straitstimes.com/world/middle-east/trumps-iran-strikes-mark-his-biggest-foreign-policy-gamble",
+      "title_en": "Trump’s Iran strikes mark his biggest foreign policy gamble",
+      "summary_en": "Iran could become the biggest US military campaign since the wars in Afghanistan and Iraq.",
+      "title": "Trump’s Iran strikes mark his biggest foreign policy gamble",
+      "summary": "Iran could become the biggest US military campaign since the wars in Afghanistan and Iraq.",
+      "url": "https://www.straitstimes.com/world/united-states/trumps-iran-strikes-mark-his-biggest-foreign-policy-gamble",
       "source": "The Straits Times World News",
       "published_at": "2026-02-28T16:27:57+00:00",
       "tags": [
@@ -697,42 +1084,6 @@
       "url": "https://www.dailyrecord.co.uk/news/uk-world-news/dubais-fairmont-hotel-erupts-flames-36796890",
       "source": "Daily Record - Home",
       "published_at": "2026-02-28T16:24:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bc0fe310b5bd773e",
-      "title_orig": "Medios estatales iraníes afirman que decenas de niñas murieron en uno de los ataques de EE.UU. e Israel a una escuela",
-      "summary_orig": "Medios estatales iraníes afirman que decenas de estudiantes murieron en un ataque contra una escuela de niñas en el sur…",
-      "lang": "es",
-      "title_en": "Iranian state media claims dozens of girls died in one of the US-Israeli attacks on a school",
-      "summary_en": "Iranian state media say dozens of students were killed in an attack on a girls' school in the south...",
-      "title": "Iranian state media claims dozens of girls died in one of the US-Israeli attacks on a school",
-      "summary": "Iranian state media say dozens of students were killed in an attack on a girls' school in the south...",
-      "url": "https://wtop.com/news/2026/02/medios-estatales-iranies-afirman-que-decenas-de-ninas-murieron-en-uno-de-los-ataques-de-ee-uu-e-israel-a-una-escuela/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T16:24:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "961252a2200fd246",
-      "title_orig": "Estas son las ubicaciones en Irán y en el resto de Medio Oriente que han sido blanco de ataques hasta el momento",
-      "summary_orig": "Varias ciudades de Irán han sido blanco de los ataques “masivos” de Estados Unidos e Israel en la mañana de…",
-      "lang": "es",
-      "title_en": "These are the locations in Iran and the rest of the Middle East that have been targeted so far",
-      "summary_en": "Several cities in Iran have been the target of “massive” attacks by the United States and Israel on the morning of…",
-      "title": "These are the locations in Iran and the rest of the Middle East that have been targeted so far",
-      "summary": "Several cities in Iran have been the target of “massive” attacks by the United States and Israel on the morning of…",
-      "url": "https://wtop.com/news/2026/02/estas-son-las-ubicaciones-en-iran-y-en-el-resto-de-medio-oriente-que-han-sido-blanco-de-ataques-hasta-el-momento/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T16:24:33+00:00",
       "tags": [
         "airport/security"
       ],
@@ -902,6 +1253,24 @@
       "geo": {}
     },
     {
+      "id": "a56364d9922508c8",
+      "title_orig": "Here’s what world leaders are saying about the U.S.-led attack on Iran",
+      "summary_orig": "Leaders in Europe and around the world Saturday urged all sides to exercise restraint after the United States and Israel launched a major attack.",
+      "lang": "en",
+      "title_en": "Here’s what world leaders are saying about the U.S.-led attack on Iran",
+      "summary_en": "Leaders in Europe and around the world Saturday urged all sides to exercise restraint after the United States and Israel launched a major attack.",
+      "title": "Here’s what world leaders are saying about the U.S.-led attack on Iran",
+      "summary": "Leaders in Europe and around the world Saturday urged all sides to exercise restraint after the United States and Israel launched a major attack.",
+      "url": "https://www.seattletimes.com/nation-world/heres-what-world-leaders-are-saying-about-the-u-s-led-attack-on-iran/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-28T16:17:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "7c2c4fabf9dec76d",
       "title_orig": "Iran launches retaliatory strikes as Trump calls for regime change",
       "summary_orig": "The US and Israel launched a major attack on Iran on Saturday, and U.S. President Donald Trump called on the Iranian public to “seize control of your destiny” by rising up against the Islamic leadership that has ruled the nation since 1979.",
@@ -953,24 +1322,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "8f26c68cbf89f309",
-      "title_orig": "Attack on Iran disrupts flights across the Middle East and beyond",
-      "summary_orig": "LONDON (AP) — The U.S. and Israel’s attack on Iran is disrupting flights across the Middle East and beyond, as…",
-      "lang": "en",
-      "title_en": "Attack on Iran disrupts flights across the Middle East and beyond",
-      "summary_en": "LONDON (AP) — The U.S. and Israel’s attack on Iran is disrupting flights across the Middle East and beyond, as…",
-      "title": "Attack on Iran disrupts flights across the Middle East and beyond",
-      "summary": "LONDON (AP) — The U.S. and Israel’s attack on Iran is disrupting flights across the Middle East and beyond, as…",
-      "url": "https://wtop.com/world/2026/02/attack-on-iran-disrupts-flights-across-the-middle-east-and-beyond/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T16:09:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1084,12 +1435,12 @@
     {
       "id": "fc1bce1ae80128e8",
       "title_orig": "Strikes reported across Middle East after US and Israel launch war on Iran",
-      "summary_orig": "Tehran carries out extensive retaliatory strikes on Israel and US air bases as region is plunged into fresh conflict US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far Israel and the US have launched a war on Iran, unleashing waves of air attacks across the country in an attempt to bring about regime change and plunging the region into a new conflict that could last weeks or months. The sudden offensive triggered Iranian retaliatory strikes throughout the day across a swathe of the Middle East, with explosions reported in Israel, Bahrain, Syria, Iraq, the United Arab Emirates, Kuwait and Saudi Arabia. Continue reading...",
+      "summary_orig": "Tehran carries out extensive retaliatory strikes on Israel and US air bases as region is plunged into fresh conflict US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far Israel and the US have launched a war on Iran, unleashing waves of air attacks across the country in an attempt to bring about regime change and plunging the region into a conflict that could last weeks or months. The sudden offensive triggered Iranian retaliatory strikes throughout the day across a swathe of the Middle East, with explosions reported in Israel, Bahrain, Syria, Iraq, the United Arab Emirates, Kuwait and Saudi Arabia. Continue reading...",
       "lang": "en",
       "title_en": "Strikes reported across Middle East after US and Israel launch war on Iran",
-      "summary_en": "Tehran carries out extensive retaliatory strikes on Israel and US air bases as region is plunged into fresh conflict US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far Israel and the US have launched a war on Iran, unleashing waves of air attacks across the country in an attempt to bring about regime change and plunging the region into a new conflict that could last weeks or months. The sudden offensive triggered Iranian retaliatory strikes throughout the day across a swathe of the Middle East, with explosions reported in Israel, Bahrain, Syria, Iraq, the United Arab Emirates, Kuwait and Saudi Arabia. Continue reading...",
+      "summary_en": "Tehran carries out extensive retaliatory strikes on Israel and US air bases as region is plunged into fresh conflict US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far Israel and the US have launched a war on Iran, unleashing waves of air attacks across the country in an attempt to bring about regime change and plunging the region into a conflict that could last weeks or months. The sudden offensive triggered Iranian retaliatory strikes throughout the day across a swathe of the Middle East, with explosions reported in Israel, Bahrain, Syria, Iraq, the United Arab Emirates, Kuwait and Saudi Arabia. Continue reading...",
       "title": "Strikes reported across Middle East after US and Israel launch war on Iran",
-      "summary": "Tehran carries out extensive retaliatory strikes on Israel and US air bases as region is plunged into fresh conflict US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far Israel and the US have launched a war on Iran, unleashing waves of air attacks across the country in an attempt to bring about regime change and plunging the region into a new conflict that could last weeks or months. The sudden offensive triggered Iranian retaliatory strikes throughout the day across a swathe of the Middle East, with explosions reported in Israel, Bahrain, Syria, Iraq, the United Arab Emirates, Kuwait and Saudi Arabia. Continue reading...",
+      "summary": "Tehran carries out extensive retaliatory strikes on Israel and US air bases as region is plunged into fresh conflict US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far Israel and the US have launched a war on Iran, unleashing waves of air attacks across the country in an attempt to bring about regime change and plunging the region into a conflict that could last weeks or months. The sudden offensive triggered Iranian retaliatory strikes throughout the day across a swathe of the Middle East, with explosions reported in Israel, Bahrain, Syria, Iraq, the United Arab Emirates, Kuwait and Saudi Arabia. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/28/israel-launches-attack-on-iran-as-explosions-heard-in-tehran",
       "source": "World news | The Guardian",
       "published_at": "2026-02-28T16:03:33+00:00",
@@ -1111,6 +1462,24 @@
       "url": "https://www.straitstimes.com/world/middle-east/prior-to-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-ircg-elements-if-killed-sources-say",
       "source": "The Straits Times World News",
       "published_at": "2026-02-28T16:03:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2355bbc8f86ec29f",
+      "title_orig": "Oil prices set for swings next week as US-Israel strikes raise supply uncertainty",
+      "summary_orig": "Oil traders brace for big moves next week as the fallout from U.S. and Israeli strikes on Middle East oil supply stays unclear.",
+      "lang": "en",
+      "title_en": "Oil prices set for swings next week as US-Israel strikes raise supply uncertainty",
+      "summary_en": "Oil traders brace for big moves next week as the fallout from U.S. and Israeli strikes on Middle East oil supply stays unclear.",
+      "title": "Oil prices set for swings next week as US-Israel strikes raise supply uncertainty",
+      "summary": "Oil traders brace for big moves next week as the fallout from U.S. and Israeli strikes on Middle East oil supply stays unclear.",
+      "url": "https://www.seattletimes.com/business/oil-prices-set-for-swings-next-week-as-us-israel-strikes-raise-supply-uncertainty/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-28T16:03:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1262,24 +1631,6 @@
       "geo": {}
     },
     {
-      "id": "2af047bbaf935241",
-      "title_orig": "Madonna steals the spotlight at Dolce & Gabbana’s Milan Fashion Week runway show",
-      "summary_orig": "MILAN (AP) — Madonna made a star appearance in Dolce & Gabbana’s front row during Milan Fashion Week on Saturday…",
-      "lang": "en",
-      "title_en": "Madonna steals the spotlight at Dolce & Gabbana’s Milan Fashion Week runway show",
-      "summary_en": "MILAN (AP) — Madonna made a star appearance in Dolce & Gabbana’s front row during Milan Fashion Week on Saturday…",
-      "title": "Madonna steals the spotlight at Dolce & Gabbana’s Milan Fashion Week runway show",
-      "summary": "MILAN (AP) — Madonna made a star appearance in Dolce & Gabbana’s front row during Milan Fashion Week on Saturday…",
-      "url": "https://wtop.com/fashion/2026/02/madonna-steals-the-spotlight-at-dolce-gabbanas-milan-fashion-week-runway-show/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T15:59:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "eca88e3b9b7bdc5f",
       "title_orig": "Fire at luxury Dubai hotel on The Palm following Iran 'missile attack' on UAE",
       "summary_orig": "Images reportedly taken from the scene show The Fairmont Hotel on The Palm on fire this afternoon",
@@ -1290,6 +1641,24 @@
       "summary": "Images reportedly taken from the scene show The Fairmont Hotel on The Palm on fire this afternoon",
       "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/luxury-dubai-hotel-palm-on-33508753",
       "source": "MEN - News",
+      "published_at": "2026-02-28T15:58:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "cc732f67035b920f",
+      "title_orig": "Madonna steals the spotlight at Dolce & Gabbana’s Milan Fashion Week runway show",
+      "summary_orig": "Madonna made a star appearance at Dolce & Gabbana’s Milan Fashion Week runway show — which felt like a conversation with the Material Girl herself.",
+      "lang": "en",
+      "title_en": "Madonna steals the spotlight at Dolce & Gabbana’s Milan Fashion Week runway show",
+      "summary_en": "Madonna made a star appearance at Dolce & Gabbana’s Milan Fashion Week runway show — which felt like a conversation with the Material Girl herself.",
+      "title": "Madonna steals the spotlight at Dolce & Gabbana’s Milan Fashion Week runway show",
+      "summary": "Madonna made a star appearance at Dolce & Gabbana’s Milan Fashion Week runway show — which felt like a conversation with the Material Girl herself.",
+      "url": "https://www.seattletimes.com/business/madonna-steals-the-spotlight-at-dolce-gabbanas-milan-fashion-week-runway-show/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
       "published_at": "2026-02-28T15:58:05+00:00",
       "tags": [
         "airport/security"
@@ -1316,24 +1685,6 @@
       "geo": {}
     },
     {
-      "id": "7fce3e35a9726fdd",
-      "title_orig": "¿Por qué EEUU e Israel bombardearon Irán? Te explicamos las razones detrás de los ataques",
-      "summary_orig": "Estados Unidos e Israel lanzaron ataques de gran escala contra Irán que, según el presidente Donald Trump, buscan aplastar al…",
-      "lang": "es",
-      "title_en": "Why did the US and Israel bomb Iran? We explain the reasons behind the attacks",
-      "summary_en": "The United States and Israel launched large-scale attacks against Iran that President Donald Trump says seek to crush the...",
-      "title": "Why did the US and Israel bomb Iran? We explain the reasons behind the attacks",
-      "summary": "The United States and Israel launched large-scale attacks against Iran that President Donald Trump says seek to crush the...",
-      "url": "https://www.telemundowashingtondc.com/noticias/mundo/eeuu-israen-iran-bombardeo-ataque-trump-netanyahu-teheran/2370053/",
-      "source": "WTOP News",
-      "published_at": "2026-02-28T15:53:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3990e5ae146963f8",
       "title_orig": "Explosion at Dubai landmark The Palm, say witnesses",
       "summary_orig": "Iran carried out retaliatory strikes in the Gulf on Feb 28 following US and Israeli attacks.",
@@ -1345,24 +1696,6 @@
       "url": "https://www.straitstimes.com/world/middle-east/explosion-at-dubai-landmark-the-palm-say-witnesses",
       "source": "The Straits Times World News",
       "published_at": "2026-02-28T15:53:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ffc87567bbc19f86",
-      "title_orig": "President Trump not addressing nation over Iran strikes: White House",
-      "summary_orig": "The White House called reports that President Trump will address the nation on Saturday following the U.S. strikes on Iran “inaccurate.” “This reporting was inaccurate, the White House has not given any guidance on an address or remarks today,” the White House said in a statement to the press pool traveling with Trump. The push [...]",
-      "lang": "en",
-      "title_en": "President Trump not addressing nation over Iran strikes: White House",
-      "summary_en": "The White House called reports that President Trump will address the nation on Saturday following the U.S. strikes on Iran “inaccurate.” “This reporting was inaccurate, the White House has not given any guidance on an address or remarks today,” the White House said in a statement to the press pool traveling with Trump. The push [...]",
-      "title": "President Trump not addressing nation over Iran strikes: White House",
-      "summary": "The White House called reports that President Trump will address the nation on Saturday following the U.S. strikes on Iran “inaccurate.” “This reporting was inaccurate, the White House has not given any guidance on an address or remarks today,” the White House said in a statement to the press pool traveling with Trump. The push [...]",
-      "url": "https://www.kxan.com/news/national-news/president-trump-not-addressing-nation-over-iran-strikes-white-house/",
-      "source": "KXAN Austin",
-      "published_at": "2026-02-28T15:53:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1399,24 +1732,6 @@
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/us-israel-attack-on-iran-condemned-jammu-and-kashmir-leaders/article70688059.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2026-02-28T15:51:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "61346870f035b16f",
-      "title_orig": "What we know after US and Israel attacks on Iran hit compound of supreme leader",
-      "summary_orig": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE.",
-      "lang": "en",
-      "title_en": "What we know after US and Israel attacks on Iran hit compound of supreme leader",
-      "summary_en": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE.",
-      "title": "What we know after US and Israel attacks on Iran hit compound of supreme leader",
-      "summary": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE.",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-02-28T15:49:23+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1469,7 +1784,7 @@
       "title": "RAF jets flying defensive missions after US-Israeli attack on Iran, Starmer says",
       "summary": "PM says British planes ‘in the sky today’ to protect allies in Middle East from retaliatory strikes by Tehran US-Israeli attack on Iran – live updates US and Israel strikes on Iran: what we know so far Keir Starmer has said RAF fighter jets are flying “in the sky today” to defend allies in the Middle East against Iranian retaliation after the US and Israel launched a bombing campaign aimed at regime change in Tehran. The UK did not participate in the first waves of strikes against Iran on Saturday morning and has no immediate intention of doing so, but fighter jets were running defensive operations from Qatar and Cyprus to shoot down any incoming drones and missiles. Continue reading...",
       "url": "https://www.theguardian.com/politics/2026/feb/28/starmer-chairs-cobra-meeting-after-us-israel-strikes-on-iran",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-02-28T15:48:16+00:00",
       "tags": [
         "airport/security"
@@ -1516,6 +1831,24 @@
       "url": "https://www.straitstimes.com/world/middle-east/un-security-council-to-meet-on-saturday-on-iran-conflict",
       "source": "The Straits Times World News",
       "published_at": "2026-02-28T15:47:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5e88de06728562fe",
+      "title_orig": "Democrats Push for War Powers Vote Over Trump Iran Strikes",
+      "summary_orig": "The effort was already under way to force a vote on a war powers resolution, but it gained fresh momentum as the U.S. and Israel bombed Iran.",
+      "lang": "en",
+      "title_en": "Democrats Push for War Powers Vote Over Trump Iran Strikes",
+      "summary_en": "The effort was already under way to force a vote on a war powers resolution, but it gained fresh momentum as the U.S. and Israel bombed Iran.",
+      "title": "Democrats Push for War Powers Vote Over Trump Iran Strikes",
+      "summary": "The effort was already under way to force a vote on a war powers resolution, but it gained fresh momentum as the U.S. and Israel bombed Iran.",
+      "url": "https://www.seattletimes.com/nation-world/democrats-push-for-war-powers-vote-to-curtail-trumps-iran-strikes/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-28T15:46:54+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1570,24 +1903,6 @@
       "url": "https://www.bristolpost.co.uk/news/bristol-news/ryanair-launches-more-city-break-10841178",
       "source": "Bristol Post - News",
       "published_at": "2026-02-28T15:44:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "284cf826542abb85",
-      "title_orig": "Flights cancelled and routes suspended after US and Israel launch strikes on Iran",
-      "summary_orig": "Virgin Atlantic cancels Heathrow-Dubai link, with many other flights grounded across the region",
-      "lang": "en",
-      "title_en": "Flights cancelled and routes suspended after US and Israel launch strikes on Iran",
-      "summary_en": "Virgin Atlantic cancels Heathrow-Dubai link, with many other flights grounded across the region",
-      "title": "Flights cancelled and routes suspended after US and Israel launch strikes on Iran",
-      "summary": "Virgin Atlantic cancels Heathrow-Dubai link, with many other flights grounded across the region",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/flights-cancelled-dubai-iran-us-strikes-israel-trump-b2929382.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-28T15:43:48+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1667,24 +1982,6 @@
       "geo": {}
     },
     {
-      "id": "076389683e0d0742",
-      "title_orig": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
-      "summary_orig": "BRUSSELS (AP) — World leaders reacted warily to U.S. and Israeli strikes on Iran on Saturday that triggered concerns of a broader conflict. European leaders held emergency meetings and took measures to protect their citizens in the Middle East, with key leaders calling for a negotiated settlement between Iran and the U.S. Australia and Canada [...]",
-      "lang": "en",
-      "title_en": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
-      "summary_en": "BRUSSELS (AP) — World leaders reacted warily to U.S. and Israeli strikes on Iran on Saturday that triggered concerns of a broader conflict. European leaders held emergency meetings and took measures to protect their citizens in the Middle East, with key leaders calling for a negotiated settlement between Iran and the U.S. Australia and Canada [...]",
-      "title": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
-      "summary": "BRUSSELS (AP) — World leaders reacted warily to U.S. and Israeli strikes on Iran on Saturday that triggered concerns of a broader conflict. European leaders held emergency meetings and took measures to protect their citizens in the Middle East, with key leaders calling for a negotiated settlement between Iran and the U.S. Australia and Canada [...]",
-      "url": "https://www.kxan.com/news/international/ap-europeans-cautious-as-they-scramble-to-digest-major-us-and-israeli-attack-on-iran/",
-      "source": "KXAN Austin",
-      "published_at": "2026-02-28T15:36:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f803bf7665cd8a8f",
       "title_orig": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
       "summary_orig": "Iranians talk about what is happening inside the country, despite an almost total internet blackout.",
@@ -1741,12 +2038,12 @@
     {
       "id": "f7413e93cd3b534a",
       "title_orig": "US and Israeli strikes on Iran: regional and international flights disrupted",
-      "summary_orig": "Israel and the UAE closed their countries' airspace, while carriers like Qatar, Emirates, and Virgin Atlantic cancelled or rerouted flights. Turkish Airlines suspended several routes until Monday.",
+      "summary_orig": "A number of countries closed their airspace, while carriers including Qatar Airways, Emirates, and Virgin Atlantic cancelled or rerouted flights. Turkish Airlines suspended several routes until Monday.",
       "lang": "en",
       "title_en": "US and Israeli strikes on Iran: regional and international flights disrupted",
-      "summary_en": "Israel and the UAE closed their countries' airspace, while carriers like Qatar, Emirates, and Virgin Atlantic cancelled or rerouted flights. Turkish Airlines suspended several routes until Monday.",
+      "summary_en": "A number of countries closed their airspace, while carriers including Qatar Airways, Emirates, and Virgin Atlantic cancelled or rerouted flights. Turkish Airlines suspended several routes until Monday.",
       "title": "US and Israeli strikes on Iran: regional and international flights disrupted",
-      "summary": "Israel and the UAE closed their countries' airspace, while carriers like Qatar, Emirates, and Virgin Atlantic cancelled or rerouted flights. Turkish Airlines suspended several routes until Monday.",
+      "summary": "A number of countries closed their airspace, while carriers including Qatar Airways, Emirates, and Virgin Atlantic cancelled or rerouted flights. Turkish Airlines suspended several routes until Monday.",
       "url": "http://www.euronews.com/2026/02/28/us-and-israeli-strikes-on-iran-disrupt-regional-and-international-flights",
       "source": "News | Euronews RSS",
       "published_at": "2026-02-28T15:25:56+00:00",
@@ -2163,13 +2460,13 @@
     },
     {
       "id": "0c77613f41c3449e",
-      "title_orig": "Global powers divided as China expresses ‘deep concern’ over US-Israel strikes on Iran",
-      "summary_orig": "The world woke to a drastically altered Middle East as global powers and regional neighbours scrambled to respond to “Operation Epic Fury”, a “massive and ongoing” joint military assault by the United States and Israel against Iran.\nBeijing joined a growing chorus of international alarm on Saturday, with the Chinese Foreign Ministry issuing a stern response to the strikes. However, in a display of diplomatic caution, it stopped short of an outright condemnation.\n“China is deeply concerned about...",
+      "title_orig": "Israel claims to have killed top Iranian officials amid confusion over Ali Khamenei’s fate",
+      "summary_orig": "Several senior Iranian officials were reportedly killed in what US media described as a “massive and on-going” joint military assault by the United States and Israel, though accounts of the damage to Iran’s leadership remain sharply contested.\nReuters, citing unnamed sources, reported that Iran’s defence minister, Amir Nasirzadeh, and Islamic Revolutionary Guard Corps commander Mohammad Pakpour were believed to have been killed in Israeli strikes. Israeli officials also claimed the attacks...",
       "lang": "en",
-      "title_en": "Global powers divided as China expresses ‘deep concern’ over US-Israel strikes on Iran",
-      "summary_en": "The world woke to a drastically altered Middle East as global powers and regional neighbours scrambled to respond to “Operation Epic Fury”, a “massive and ongoing” joint military assault by the United States and Israel against Iran.\nBeijing joined a growing chorus of international alarm on Saturday, with the Chinese Foreign Ministry issuing a stern response to the strikes. However, in a display of diplomatic caution, it stopped short of an outright condemnation.\n“China is deeply concerned about...",
-      "title": "Global powers divided as China expresses ‘deep concern’ over US-Israel strikes on Iran",
-      "summary": "The world woke to a drastically altered Middle East as global powers and regional neighbours scrambled to respond to “Operation Epic Fury”, a “massive and ongoing” joint military assault by the United States and Israel against Iran.\nBeijing joined a growing chorus of international alarm on Saturday, with the Chinese Foreign Ministry issuing a stern response to the strikes. However, in a display of diplomatic caution, it stopped short of an outright condemnation.\n“China is deeply concerned about...",
+      "title_en": "Israel claims to have killed top Iranian officials amid confusion over Ali Khamenei’s fate",
+      "summary_en": "Several senior Iranian officials were reportedly killed in what US media described as a “massive and on-going” joint military assault by the United States and Israel, though accounts of the damage to Iran’s leadership remain sharply contested.\nReuters, citing unnamed sources, reported that Iran’s defence minister, Amir Nasirzadeh, and Islamic Revolutionary Guard Corps commander Mohammad Pakpour were believed to have been killed in Israeli strikes. Israeli officials also claimed the attacks...",
+      "title": "Israel claims to have killed top Iranian officials amid confusion over Ali Khamenei’s fate",
+      "summary": "Several senior Iranian officials were reportedly killed in what US media described as a “massive and on-going” joint military assault by the United States and Israel, though accounts of the damage to Iran’s leadership remain sharply contested.\nReuters, citing unnamed sources, reported that Iran’s defence minister, Amir Nasirzadeh, and Islamic Revolutionary Guard Corps commander Mohammad Pakpour were believed to have been killed in Israeli strikes. Israeli officials also claimed the attacks...",
       "url": "https://www.scmp.com/news/us/diplomacy/article/3344994/global-powers-divided-china-expresses-deep-concern-over-us-israel-strikes-iran?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-02-28T14:48:19+00:00",
@@ -2601,24 +2898,6 @@
         "lat": 43.6777,
         "lon": -79.6248
       }
-    },
-    {
-      "id": "b57450a1e4de6792",
-      "title_orig": "Protest against plywood factory in Kottayam",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Protest against plywood factory in Kottayam",
-      "summary_en": "",
-      "title": "Protest against plywood factory in Kottayam",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/kerala/protest-against-plywood-factory-in-kottayam/article70688396.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-02-28T14:22:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "23cda7b3647deba8",
@@ -3305,24 +3584,6 @@
       }
     },
     {
-      "id": "79debb165ed295cc",
-      "title_orig": "Mapped: Where strikes and explosions have been heard across the Middle East as Iran retaliates",
-      "summary_orig": "Bahrain, Qatar, UAE, Kuwait, and Jordan are among the nations that have been attacked",
-      "lang": "en",
-      "title_en": "Mapped: Where strikes and explosions have been heard across the Middle East as Iran retaliates",
-      "summary_en": "Bahrain, Qatar, UAE, Kuwait, and Jordan are among the nations that have been attacked",
-      "title": "Mapped: Where strikes and explosions have been heard across the Middle East as Iran retaliates",
-      "summary": "Bahrain, Qatar, UAE, Kuwait, and Jordan are among the nations that have been attacked",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-israel-strikes-bahrain-qatar-uae-kuwait-jordan-trump-b2929420.html",
-      "source": "The Independent World",
-      "published_at": "2026-02-28T13:06:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "deb1866668418f9f",
       "title_orig": "IndiGo, Air India: Full list of Indian airlines affected by US-Israel-Iran Middle East bombings",
       "summary_orig": "The closure of Middle East airspace due to US-Israel strikes on Iran led to nearly 180 flight cancellations, including 72 from IndiGo and 31 from Air India.",
@@ -3818,24 +4079,6 @@
       "geo": {}
     },
     {
-      "id": "6cd87e9d189d5db0",
-      "title_orig": "At least 40 killed in Israeli strike on girls' school in Iran, state media reports",
-      "summary_orig": "The reported deaths are the latest in the region after the United States and Israel began its attack on Iran this morning.",
-      "lang": "en",
-      "title_en": "At least 40 killed in Israeli strike on girls' school in Iran, state media reports",
-      "summary_en": "The reported deaths are the latest in the region after the United States and Israel began its attack on Iran this morning.",
-      "title": "At least 40 killed in Israeli strike on girls' school in Iran, state media reports",
-      "summary": "The reported deaths are the latest in the region after the United States and Israel began its attack on Iran this morning.",
-      "url": "https://www.thejournal.ie/iran-strike-on-girls-school-6970531-Feb2026/",
-      "source": "TheJournal.ie",
-      "published_at": "2026-02-28T12:19:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ca9220576610ff24",
       "title_orig": "US-Israel attack on Iran: how it unfolded",
       "summary_orig": "Starting before his first term, Donald Trump has issued a litany of threats against Washington’s arch-enemy Iran, while also urging it to talks.\nHe warned in late January that “time is running out”, urging Tehran to “make a deal”.\nAfter indirect talks resumed between the two nations, he threatened Iran on February 12 with “very traumatic” consequences, giving them “10, 15 days, pretty much maximum” to reach an agreement.\nIsrael’s leader Benjamin Netanyahu has for decades cast Iran’s nuclear...",
@@ -4034,24 +4277,6 @@
       "geo": {}
     },
     {
-      "id": "40430eddaf4c4e05",
-      "title_orig": "Is it safe to travel to Dubai right now? Emirates cancels all flights amid Iran strikes",
-      "summary_orig": "Wondering whether it's possible to travel to Dubai right now?",
-      "lang": "en",
-      "title_en": "Is it safe to travel to Dubai right now? Emirates cancels all flights amid Iran strikes",
-      "summary_en": "Wondering whether it's possible to travel to Dubai right now?",
-      "title": "Is it safe to travel to Dubai right now? Emirates cancels all flights amid Iran strikes",
-      "summary": "Wondering whether it's possible to travel to Dubai right now?",
-      "url": "https://metro.co.uk/2026/02/28/safe-travel-dubai-right-now-emirates-cancels-flights-amid-iran-strikes-27155272/",
-      "source": "Metro",
-      "published_at": "2026-02-28T12:00:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5072454346a60bbc",
       "title_orig": "US and Israel launch strikes on Iran – What has happened so far",
       "summary_orig": "On Saturday morning, the United States and Israel launched coordinated strikes across Iran, prompting retaliatory missile and drone attacks by Iran targeting Israel and US military installations in the Gulf — here is what we know so far.",
@@ -4067,24 +4292,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "65f9fa04e69987b5",
-      "title_orig": "Nico Raskin not buying Kris Boyd's grim Rangers title theory as star makes his own telling admission",
-      "summary_orig": "Raskin was sat at home on the couch the last time Celtic were at Ibrox having been bombed out of the squad by Russell Martin",
-      "lang": "en",
-      "title_en": "Nico Raskin not buying Kris Boyd's grim Rangers title theory as star makes his own telling admission",
-      "summary_en": "Raskin was sat at home on the couch the last time Celtic were at Ibrox having been bombed out of the squad by Russell Martin",
-      "title": "Nico Raskin not buying Kris Boyd's grim Rangers title theory as star makes his own telling admission",
-      "summary": "Raskin was sat at home on the couch the last time Celtic were at Ibrox having been bombed out of the squad by Russell Martin",
-      "url": "https://www.dailyrecord.co.uk/sport/football/football-news/nico-raskin-not-buying-kris-36793317",
-      "source": "Daily Record - Home",
-      "published_at": "2026-02-28T12:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -4117,42 +4324,6 @@
       "url": "https://www.straitstimes.com/world/middle-east/us-israeli-attack-triggers-fear-and-panic-in-iran",
       "source": "The Straits Times World News",
       "published_at": "2026-02-28T11:43:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "92952c1bf6245a0b",
-      "title_orig": "UK Prime Minister Sir Keir Starmer convenes Cobra committee amid missiles strikes in Middle East",
-      "summary_orig": "Several flights from the UK have been cancelled as the Foreign Office issued a warning to British travellers",
-      "lang": "en",
-      "title_en": "UK Prime Minister Sir Keir Starmer convenes Cobra committee amid missiles strikes in Middle East",
-      "summary_en": "Several flights from the UK have been cancelled as the Foreign Office issued a warning to British travellers",
-      "title": "UK Prime Minister Sir Keir Starmer convenes Cobra committee amid missiles strikes in Middle East",
-      "summary": "Several flights from the UK have been cancelled as the Foreign Office issued a warning to British travellers",
-      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/starmer-cobra-meeting-middle-east-33507791",
-      "source": "MEN - News",
-      "published_at": "2026-02-28T11:39:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "06ff24e3ea0c3427",
-      "title_orig": "Foreign Office says 'immediately find shelter' to British nationals in four countries",
-      "summary_orig": "The Prime Minister has convened the Government's emergency Cobra committee as missile strikes continue to rock the Middle East",
-      "lang": "en",
-      "title_en": "Foreign Office says 'immediately find shelter' to British nationals in four countries",
-      "summary_en": "The Prime Minister has convened the Government's emergency Cobra committee as missile strikes continue to rock the Middle East",
-      "title": "Foreign Office says 'immediately find shelter' to British nationals in four countries",
-      "summary": "The Prime Minister has convened the Government's emergency Cobra committee as missile strikes continue to rock the Middle East",
-      "url": "https://www.walesonline.co.uk/news/world-news/foreign-office-says-immediately-find-33507839",
-      "source": "WalesOnline - Home",
-      "published_at": "2026-02-28T11:36:34+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4232,6 +4403,24 @@
       "geo": {}
     },
     {
+      "id": "87e3f712a75719bf",
+      "title_orig": "Russia condemns US-Israel strikes on Iran as ‘unprovoked act of armed aggression’",
+      "summary_orig": "Russia has condemned U.S.-Israeli strikes on Iran and urged an immediate stop to the campaign and a return to diplomacy.",
+      "lang": "en",
+      "title_en": "Russia condemns US-Israel strikes on Iran as ‘unprovoked act of armed aggression’",
+      "summary_en": "Russia has condemned U.S.-Israeli strikes on Iran and urged an immediate stop to the campaign and a return to diplomacy.",
+      "title": "Russia condemns US-Israel strikes on Iran as ‘unprovoked act of armed aggression’",
+      "summary": "Russia has condemned U.S.-Israeli strikes on Iran and urged an immediate stop to the campaign and a return to diplomacy.",
+      "url": "https://www.seattletimes.com/nation-world/world/russian-foreign-ministry-condemns-us-israel-strikes-on-iran-as-unprovoked-act-of-armed-aggression/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-28T11:25:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "bdbc5fea0bc02d9e",
       "title_orig": "Edinburgh travellers in Middle East urged to take shelter amid ongoing missile strikes",
       "summary_orig": "Travellers have been warned to remain indoors in a secure location amid ongoing strikes.",
@@ -4279,6 +4468,24 @@
       "url": "https://www.oregonlive.com/nation/2026/02/watch-read-president-trumps-statement-on-iran-strikes.html",
       "source": "oregonlive.com",
       "published_at": "2026-02-28T11:16:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a422708bd60dac58",
+      "title_orig": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
+      "summary_orig": "World leaders have responded cautiously after U.S. and Israeli strikes on Iran raised fears of a wider war.",
+      "lang": "en",
+      "title_en": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
+      "summary_en": "World leaders have responded cautiously after U.S. and Israeli strikes on Iran raised fears of a wider war.",
+      "title": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
+      "summary": "World leaders have responded cautiously after U.S. and Israeli strikes on Iran raised fears of a wider war.",
+      "url": "https://www.seattletimes.com/nation-world/nation-politics/europeans-cautious-as-they-scramble-to-digest-major-us-and-israeli-attack-on-iran/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-28T11:13:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4355,6 +4562,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6dd1cccc431f75e4",
+      "title_orig": "From box office bomb to media powerhouse: Skydance’s 20-year rise to overtake Paramount, Warner Bros",
+      "summary_orig": "It's a come-from-behind story fit for Hollywood itself.",
+      "lang": "en",
+      "title_en": "From box office bomb to media powerhouse: Skydance’s 20-year rise to overtake Paramount, Warner Bros",
+      "summary_en": "It's a come-from-behind story fit for Hollywood itself.",
+      "title": "From box office bomb to media powerhouse: Skydance’s 20-year rise to overtake Paramount, Warner Bros",
+      "summary": "It's a come-from-behind story fit for Hollywood itself.",
+      "url": "https://www.seattletimes.com/business/from-box-office-bomb-to-media-powerhouse-skydances-20-year-rise/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-02-28T11:00:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -4954,12 +5179,12 @@
     },
     {
       "id": "ef4199f11cf4b6ca",
-      "title_orig": "US and Israel launch strikes against Iran — live updates",
+      "title_orig": "War in the Middle East: US and Israel strike Iran — live updates",
       "summary_orig": "Follow the updates after the U.S. and Israel launched “major combat operations” against Iran early Saturday.",
       "lang": "en",
-      "title_en": "US and Israel launch strikes against Iran — live updates",
+      "title_en": "War in the Middle East: US and Israel strike Iran — live updates",
       "summary_en": "Follow the updates after the U.S. and Israel launched “major combat operations” against Iran early Saturday.",
-      "title": "US and Israel launch strikes against Iran — live updates",
+      "title": "War in the Middle East: US and Israel strike Iran — live updates",
       "summary": "Follow the updates after the U.S. and Israel launched “major combat operations” against Iran early Saturday.",
       "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "source": "POLITICO",
@@ -5277,24 +5502,6 @@
       "geo": {}
     },
     {
-      "id": "573b5e13925f77c3",
-      "title_orig": "Trump announces ‘major’ assault on Iran, urges regime change",
-      "summary_orig": "Attack comes after weeks of unsuccessful diplomatic negotiations between Washington and Tehran.",
-      "lang": "en",
-      "title_en": "Trump announces ‘major’ assault on Iran, urges regime change",
-      "summary_en": "Attack comes after weeks of unsuccessful diplomatic negotiations between Washington and Tehran.",
-      "title": "Trump announces ‘major’ assault on Iran, urges regime change",
-      "summary": "Attack comes after weeks of unsuccessful diplomatic negotiations between Washington and Tehran.",
-      "url": "https://www.politico.com/news/2026/02/28/trump-iran-operation-00805558?utm_medium=RSS&utm_source=RSS_Feed&utm_campaign=RSS_Syndication",
-      "source": "POLITICO",
-      "published_at": "2026-02-28T08:12:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "67c2f293a73ba977",
       "title_orig": "US begins ‘major combat operations’ in Iran",
       "summary_orig": "The United States and Israel attacked Iran on Saturday, US and Israeli officials said, following weeks of threats by President Donald Trump to launch a major assault.",
@@ -5548,32 +5755,14 @@
       "geo": {}
     },
     {
-      "id": "a43a9be29c36f6b0",
-      "title_orig": "US and Israel hit Iran in coordinated attack",
-      "summary_orig": "“We’re going to destroy their missiles and raze their missile industry to the ground,” Trump said in video confirming the attack.",
-      "lang": "en",
-      "title_en": "US and Israel hit Iran in coordinated attack",
-      "summary_en": "“We’re going to destroy their missiles and raze their missile industry to the ground,” Trump said in video confirming the attack.",
-      "title": "US and Israel hit Iran in coordinated attack",
-      "summary": "“We’re going to destroy their missiles and raze their missile industry to the ground,” Trump said in video confirming the attack.",
-      "url": "https://www.politico.eu/article/israel-launches-preemptive-strike-against-iran/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "source": "POLITICO",
-      "published_at": "2026-02-28T07:03:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "17cf8c83c4f3938e",
       "title_orig": "U.S. and Israel attack Iran; Trump calls for regime change",
-      "summary_orig": "The United States and Israel launched strikes against Iran in what President Trump called the beginning of a 'massive and ongoing operation' as he called for the government to be ousted. He warned of possible U.S. casualties.",
+      "summary_orig": "The U.S. and Israel launch strikes against Iran in what Trump called the beginning of a 'massive and ongoing operation' as he pushed for the government to be ousted. He warned of possible U.S. casualties.",
       "lang": "en",
       "title_en": "U.S. and Israel attack Iran; Trump calls for regime change",
-      "summary_en": "The United States and Israel launched strikes against Iran in what President Trump called the beginning of a 'massive and ongoing operation' as he called for the government to be ousted. He warned of possible U.S. casualties.",
+      "summary_en": "The U.S. and Israel launch strikes against Iran in what Trump called the beginning of a 'massive and ongoing operation' as he pushed for the government to be ousted. He warned of possible U.S. casualties.",
       "title": "U.S. and Israel attack Iran; Trump calls for regime change",
-      "summary": "The United States and Israel launched strikes against Iran in what President Trump called the beginning of a 'massive and ongoing operation' as he called for the government to be ousted. He warned of possible U.S. casualties.",
+      "summary": "The U.S. and Israel launch strikes against Iran in what Trump called the beginning of a 'massive and ongoing operation' as he pushed for the government to be ousted. He warned of possible U.S. casualties.",
       "url": "https://www.latimes.com/world-nation/story/2026-02-27/us-participating-in-israeli-strikes-against-iran",
       "source": "World & Nation",
       "published_at": "2026-02-28T07:02:26+00:00",
@@ -6135,24 +6324,6 @@
       "url": "https://www.startribune.com/attorney-general-pam-bondi-announces-more-arrests-in-anti-ice-church-protest/601590001",
       "source": "Startribune News",
       "published_at": "2026-02-28T00:17:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3561f35d94396ba0",
-      "title_orig": "Dax Whitney strikes out 11 as Oregon State beats Houston 2-1",
-      "summary_orig": "Whitney allowed one run on three hits and two walks over six innings with 11 strikeouts against Houston.",
-      "lang": "en",
-      "title_en": "Dax Whitney strikes out 11 as Oregon State beats Houston 2-1",
-      "summary_en": "Whitney allowed one run on three hits and two walks over six innings with 11 strikeouts against Houston.",
-      "title": "Dax Whitney strikes out 11 as Oregon State beats Houston 2-1",
-      "summary": "Whitney allowed one run on three hits and two walks over six innings with 11 strikeouts against Houston.",
-      "url": "https://www.oregonlive.com/beavers/2026/02/oregon-state-baseball-edges-houston-2-1-behind-dax-whitneys-11-strikeouts.html",
-      "source": "oregonlive.com",
-      "published_at": "2026-02-27T23:28:51+00:00",
       "tags": [
         "airport/security"
       ],
@@ -7190,24 +7361,6 @@
       "url": "https://www.theguardian.com/australia-news/2026/feb/27/boss-of-theatre-hosting-chinese-dance-group-shen-yun-in-sydney-wont-be-intimidated-by-outrageous-threats",
       "source": "World news | The Guardian",
       "published_at": "2026-02-27T01:00:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "fe8bd09bd94a982d",
-      "title_orig": "Russia Launches Big Strikes Before U.S.-Ukraine Talks in Geneva",
-      "summary_orig": "Ukrainian officials said they hoped that trilateral peace negotiations could take place next week.",
-      "lang": "en",
-      "title_en": "Russia Launches Big Strikes Before U.S.-Ukraine Talks in Geneva",
-      "summary_en": "Ukrainian officials said they hoped that trilateral peace negotiations could take place next week.",
-      "title": "Russia Launches Big Strikes Before U.S.-Ukraine Talks in Geneva",
-      "summary": "Ukrainian officials said they hoped that trilateral peace negotiations could take place next week.",
-      "url": "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-02-26T23:29:03+00:00",
       "tags": [
         "airport/security"
       ],
