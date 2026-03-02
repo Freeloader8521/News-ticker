@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-03-02T20:34:25.146764+00:00",
+  "generated_at": "2026-03-02T21:07:43.216721+00:00",
   "items": [
+    {
+      "id": "20bbffbb4c8ea0da",
+      "title_orig": "Civil Service NICS launch new recruitment drive to fill 120 vacancies with £47k starting salary",
+      "summary_orig": "They said that applications from Protestants, people under the age of 35, people with a disability and people from minority ethnic communities are particularly welcomed.",
+      "lang": "en",
+      "title_en": "Civil Service NICS launch new recruitment drive to fill 120 vacancies with £47k starting salary",
+      "summary_en": "They said that applications from Protestants, people under the age of 35, people with a disability and people from minority ethnic communities are particularly welcomed.",
+      "title": "Civil Service NICS launch new recruitment drive to fill 120 vacancies with £47k starting salary",
+      "summary": "They said that applications from Protestants, people under the age of 35, people with a disability and people from minority ethnic communities are particularly welcomed.",
+      "url": "https://www.belfastlive.co.uk/news/northern-ireland/civil-service-nics-launch-new-33516741",
+      "source": "BelfastLive - Home",
+      "published_at": "2026-03-02T20:59:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "918e6226e0be4f25",
+      "title_orig": "ALERT United Airlines Boeing 787 evacuated at LAX following engine issue",
+      "summary_orig": "LOS ANGELES — Passengers aboard a United Airlines flight bound for the East Coast experienced a harrowing start to their journey today when their aircraft was forced to make an emergency return to Los Angeles International Airport (LAX) following reports of an engine fire. Flight UA2127, operated by a Boeing 787-9 Dreamliner (Registration: N24972), departed […] The post ALERT United Airlines Boeing 787 evacuated at LAX following engine issue appeared first on AIRLIVE .",
+      "lang": "en",
+      "title_en": "ALERT United Airlines Boeing 787 evacuated at LAX following engine issue",
+      "summary_en": "LOS ANGELES — Passengers aboard a United Airlines flight bound for the East Coast experienced a harrowing start to their journey today when their aircraft was forced to make an emergency return to Los Angeles International Airport (LAX) following reports of an engine fire. Flight UA2127, operated by a Boeing 787-9 Dreamliner (Registration: N24972), departed […] The post ALERT United Airlines Boeing 787 evacuated at LAX following engine issue appeared first on AIRLIVE .",
+      "title": "ALERT United Airlines Boeing 787 evacuated at LAX following engine issue",
+      "summary": "LOS ANGELES — Passengers aboard a United Airlines flight bound for the East Coast experienced a harrowing start to their journey today when their aircraft was forced to make an emergency return to Los Angeles International Airport (LAX) following reports of an engine fire. Flight UA2127, operated by a Boeing 787-9 Dreamliner (Registration: N24972), departed […] The post ALERT United Airlines Boeing 787 evacuated at LAX following engine issue appeared first on AIRLIVE .",
+      "url": "https://airlive.net/incident/2026/03/02/alert-united-airlines-boeing-787-evacuated-at-lax-following-engine-issue/",
+      "source": "AIRLIVE",
+      "published_at": "2026-03-02T20:59:11+00:00",
+      "tags": [
+        "LAX",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Los Angeles",
+        "city": "Los Angeles",
+        "country": "United States",
+        "iata": "LAX",
+        "lat": 33.9416,
+        "lon": -118.4085
+      }
+    },
     {
       "id": "8daf558e6446cec4",
       "title_orig": "Live Updates: Trump Suggests Extended War on Iran as U.S. Adds to Forces in Mideast",
@@ -12,11 +57,389 @@
       "summary": "Iran and allied militias, including Hezbollah, attacked Israel and U.S. targets, and Israel struck in Lebanon. President Trump said the campaign could last “four to five weeks,” but “we have the capability to go far longer than that.”",
       "url": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump",
       "source": "NYT > World News",
-      "published_at": "2026-03-02T20:20:12+00:00",
+      "published_at": "2026-03-02T20:58:30+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "52a75b1285bbbe17",
+      "title_orig": "Middle East conflict latest: Trump says war with Iran could last longer than five weeks",
+      "summary_orig": "The US-Israel attack on Iran over the weekend has led to retaliatory strikes across the region.",
+      "lang": "en",
+      "title_en": "Middle East conflict latest: Trump says war with Iran could last longer than five weeks",
+      "summary_en": "The US-Israel attack on Iran over the weekend has led to retaliatory strikes across the region.",
+      "title": "Middle East conflict latest: Trump says war with Iran could last longer than five weeks",
+      "summary": "The US-Israel attack on Iran over the weekend has led to retaliatory strikes across the region.",
+      "url": "https://www.thejournal.ie/israel-strikes-kill-31-in-lebanon-after-hezbollah-fire-expanding-iran-war-6971441-Mar2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-03-02T20:55:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "61346870f035b16f",
+      "title_orig": "Why did US and Israel attack Iran and how long could the war last?",
+      "summary_orig": "Iran has carried out strikes against Israel, across the Gulf and against a British base in Cyprus in retaliation.",
+      "lang": "en",
+      "title_en": "Why did US and Israel attack Iran and how long could the war last?",
+      "summary_en": "Iran has carried out strikes against Israel, across the Gulf and against a British base in Cyprus in retaliation.",
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "summary": "Iran has carried out strikes against Israel, across the Gulf and against a British base in Cyprus in retaliation.",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-03-02T20:52:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8a1b1b955f1bb04e",
+      "title_orig": "Middle East chaos spreads as death toll from Trump’s war with Iran grows",
+      "summary_orig": "More countries have been drawn into the conflict between the US and Iran, with fears strikes could continue for weeks",
+      "lang": "en",
+      "title_en": "Middle East chaos spreads as death toll from Trump’s war with Iran grows",
+      "summary_en": "More countries have been drawn into the conflict between the US and Iran, with fears strikes could continue for weeks",
+      "title": "Middle East chaos spreads as death toll from Trump’s war with Iran grows",
+      "summary": "More countries have been drawn into the conflict between the US and Iran, with fears strikes could continue for weeks",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-war-israel-trump-middle-east-b2930268.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-02T20:51:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1572bbfb267d5091",
+      "title_orig": "Who’s in the running to be Iran's next supreme leader?",
+      "summary_orig": "After the killing of Ayatollah Ali Khamenei in surprise US and Israeli strikes, the country’s leaders are scrambling to find a replacement.",
+      "lang": "en",
+      "title_en": "Who’s in the running to be Iran's next supreme leader?",
+      "summary_en": "After the killing of Ayatollah Ali Khamenei in surprise US and Israeli strikes, the country’s leaders are scrambling to find a replacement.",
+      "title": "Who’s in the running to be Iran's next supreme leader?",
+      "summary": "After the killing of Ayatollah Ali Khamenei in surprise US and Israeli strikes, the country’s leaders are scrambling to find a replacement.",
+      "url": "https://www.stuff.co.nz/world-news/360945936/look-some-contenders-be-irans-supreme-leader-after-killing-ayatollah-ali-khamenei",
+      "source": "Stuff - /",
+      "published_at": "2026-03-02T20:48:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5f6b1e2239e1ab8e",
+      "title_orig": "The Latest: Trump says Iran war may last 4 to 5 weeks, but prepared ‘to go far longer’",
+      "summary_orig": "Iran and Iranian-backed militias fired missiles at Israel and Arab states, apparently hitting the U.S. Embassy compound in Kuwait, while Israel and the United States pounded targets in Iran as the war expanded Monday with statements of defiance and increasing casualties.",
+      "lang": "en",
+      "title_en": "The Latest: Trump says Iran war may last 4 to 5 weeks, but prepared ‘to go far longer’",
+      "summary_en": "Iran and Iranian-backed militias fired missiles at Israel and Arab states, apparently hitting the U.S. Embassy compound in Kuwait, while Israel and the United States pounded targets in Iran as the war expanded Monday with statements of defiance and increasing casualties.",
+      "title": "The Latest: Trump says Iran war may last 4 to 5 weeks, but prepared ‘to go far longer’",
+      "summary": "Iran and Iranian-backed militias fired missiles at Israel and Arab states, apparently hitting the U.S. Embassy compound in Kuwait, while Israel and the United States pounded targets in Iran as the war expanded Monday with statements of defiance and increasing casualties.",
+      "url": "https://wtop.com/national/2026/03/the-latest-iranian-backed-militias-join-fight-as-war-on-iran-widens/",
+      "source": "WTOP News",
+      "published_at": "2026-03-02T20:47:58+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "de58fc63ebde958d",
+      "title_orig": "Pakistan Strikes Bagram Air Base, Satellite Images Show",
+      "summary_orig": "Satellite imagery showed flattened warehouses at the base that served as the nerve center of America’s 20-year war in Afghanistan, a prized asset for the Taliban.",
+      "lang": "en",
+      "title_en": "Pakistan Strikes Bagram Air Base, Satellite Images Show",
+      "summary_en": "Satellite imagery showed flattened warehouses at the base that served as the nerve center of America’s 20-year war in Afghanistan, a prized asset for the Taliban.",
+      "title": "Pakistan Strikes Bagram Air Base, Satellite Images Show",
+      "summary": "Satellite imagery showed flattened warehouses at the base that served as the nerve center of America’s 20-year war in Afghanistan, a prized asset for the Taliban.",
+      "url": "https://www.nytimes.com/2026/03/02/world/asia/pakistan-bagram-airbase-afghanistan-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-02T20:46:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "865a7eb045dc8f32",
+      "title_orig": "Middle East crisis live: Israel launches new attacks on Tehran and Beirut as Iran closes critical Strait of Hormuz",
+      "summary_orig": "Earlier, Donald Trump laid out US objectives, saying mission could go on for four-five weeks, adding US has ‘capability to go far longer’ What is the legality of the US and Israeli attacks on Iran? Have you been affected by events in the Middle East? Bahrain has said that one person was killed by shrapnel from an intercepted missile. The death of a foreign worker at Salman Industrial City , working on a boat there, marks the kingdom’s first reported fatality in the war. Bahrain, home to the US navy’s 5th fleet, said it intercepted 61 missiles and 34 attack drones launched against it. It said some shrapnel had gotten through, striking buildings and the naval base. Continue reading...",
+      "lang": "en",
+      "title_en": "Middle East crisis live: Israel launches new attacks on Tehran and Beirut as Iran closes critical Strait of Hormuz",
+      "summary_en": "Earlier, Donald Trump laid out US objectives, saying mission could go on for four-five weeks, adding US has ‘capability to go far longer’ What is the legality of the US and Israeli attacks on Iran? Have you been affected by events in the Middle East? Bahrain has said that one person was killed by shrapnel from an intercepted missile. The death of a foreign worker at Salman Industrial City , working on a boat there, marks the kingdom’s first reported fatality in the war. Bahrain, home to the US navy’s 5th fleet, said it intercepted 61 missiles and 34 attack drones launched against it. It said some shrapnel had gotten through, striking buildings and the naval base. Continue reading...",
+      "title": "Middle East crisis live: Israel launches new attacks on Tehran and Beirut as Iran closes critical Strait of Hormuz",
+      "summary": "Earlier, Donald Trump laid out US objectives, saying mission could go on for four-five weeks, adding US has ‘capability to go far longer’ What is the legality of the US and Israeli attacks on Iran? Have you been affected by events in the Middle East? Bahrain has said that one person was killed by shrapnel from an intercepted missile. The death of a foreign worker at Salman Industrial City , working on a boat there, marks the kingdom’s first reported fatality in the war. Bahrain, home to the US navy’s 5th fleet, said it intercepted 61 missiles and 34 attack drones launched against it. It said some shrapnel had gotten through, striking buildings and the naval base. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-02T20:46:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "43396035b7077b71",
+      "title_orig": "Melania Trump presides at UN Security Council meeting on children in conflict as US attacks Iran",
+      "summary_orig": "UNITED NATIONS (AP) — U.S. first lady Melania Trump presided over a U.N. Security Council meeting on Monday focusing on…",
+      "lang": "en",
+      "title_en": "Melania Trump presides at UN Security Council meeting on children in conflict as US attacks Iran",
+      "summary_en": "UNITED NATIONS (AP) — U.S. first lady Melania Trump presided over a U.N. Security Council meeting on Monday focusing on…",
+      "title": "Melania Trump presides at UN Security Council meeting on children in conflict as US attacks Iran",
+      "summary": "UNITED NATIONS (AP) — U.S. first lady Melania Trump presided over a U.N. Security Council meeting on Monday focusing on…",
+      "url": "https://wtop.com/russia-ukraine-war-news/2026/03/melania-trump-will-preside-at-un-security-council-meeting-on-children-in-conflict-as-us-attacks-iran/",
+      "source": "WTOP News",
+      "published_at": "2026-03-02T20:41:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2cd4d01536b34be4",
+      "title_orig": "Are mask ban laws about public safety or for lawmakers to quiet protesters? The controversies of face coverings outlined",
+      "summary_orig": "A wave of Israel-Palestine protests across cities and college campuses has triggered a series of mask ban laws. Backers say they’re about public safety, but those on the ground argue they’re coded attempts to stifle one side of the debate. Isaac Lozano and Josh Marcus report",
+      "lang": "en",
+      "title_en": "Are mask ban laws about public safety or for lawmakers to quiet protesters? The controversies of face coverings outlined",
+      "summary_en": "A wave of Israel-Palestine protests across cities and college campuses has triggered a series of mask ban laws. Backers say they’re about public safety, but those on the ground argue they’re coded attempts to stifle one side of the debate. Isaac Lozano and Josh Marcus report",
+      "title": "Are mask ban laws about public safety or for lawmakers to quiet protesters? The controversies of face coverings outlined",
+      "summary": "A wave of Israel-Palestine protests across cities and college campuses has triggered a series of mask ban laws. Backers say they’re about public safety, but those on the ground argue they’re coded attempts to stifle one side of the debate. Isaac Lozano and Josh Marcus report",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/mask-ban-laws-palestine-protesters-b2606339.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-02T20:41:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "276514655eddbc74",
+      "title_orig": "What to know about the latest US-Israeli attacks on Iran",
+      "summary_orig": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
+      "lang": "en",
+      "title_en": "What to know about the latest US-Israeli attacks on Iran",
+      "summary_en": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
+      "title": "What to know about the latest US-Israeli attacks on Iran",
+      "summary": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
+      "url": "https://wtop.com/national/2026/03/what-to-know-about-u-s-israel-attacks-on-iran/",
+      "source": "WTOP News",
+      "published_at": "2026-03-02T20:40:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1447b902f48e19ba",
+      "title_orig": "Rebels claim drone attack on Congo's Kisangani airport",
+      "summary_orig": "March 2 - Rwanda-backed rebels on Monday claimed responsibility for a drone attack on the airport serving Kisangani, a strategic city in northeast Democratic Republic of Congo far from active front lines in the east.",
+      "lang": "en",
+      "title_en": "Rebels claim drone attack on Congo's Kisangani airport",
+      "summary_en": "March 2 - Rwanda-backed rebels on Monday claimed responsibility for a drone attack on the airport serving Kisangani, a strategic city in northeast Democratic Republic of Congo far from active front lines in the east.",
+      "title": "Rebels claim drone attack on Congo's Kisangani airport",
+      "summary": "March 2 - Rwanda-backed rebels on Monday claimed responsibility for a drone attack on the airport serving Kisangani, a strategic city in northeast Democratic Republic of Congo far from active front lines in the east.",
+      "url": "https://www.straitstimes.com/world/congos-kisangani-airport-attacked-by-suspected-rebel-drones-authorities-say",
+      "source": "The Straits Times World News",
+      "published_at": "2026-03-02T20:38:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "041a5156e0ccf7e4",
+      "title_orig": "Five injured in huge Ukrainian drone strikes on Russian port city",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Five injured in huge Ukrainian drone strikes on Russian port city",
+      "summary_en": "",
+      "title": "Five injured in huge Ukrainian drone strikes on Russian port city",
+      "summary": "",
+      "url": "https://www.independent.co.uk/news/world/europe/novorossiysk-ukraine-drone-strike-russia-b2930197.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-02T20:37:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e78cd159836303eb",
+      "title_orig": "Police admit Nottingham attacks killer should have been referred to prosecutors years before",
+      "summary_orig": "Five police officers gave evidence today",
+      "lang": "en",
+      "title_en": "Police admit Nottingham attacks killer should have been referred to prosecutors years before",
+      "summary_en": "Five police officers gave evidence today",
+      "title": "Police admit Nottingham attacks killer should have been referred to prosecutors years before",
+      "summary": "Five police officers gave evidence today",
+      "url": "https://www.nottinghampost.com/news/nottingham-news/police-admit-nottingham-attacks-killer-10843963",
+      "source": "Nottinghamshire Live - frontpage",
+      "published_at": "2026-03-02T20:36:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ef321ad210ec0e27",
+      "title_orig": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
+      "summary_orig": "Israel and the United States pounded Iran on Monday in a campaign that U.S. President Donald Trump said would likely take several weeks. Tehran and its allies hit back against Israel, Gulf states and targets critical to the world's energy production.",
+      "lang": "en",
+      "title_en": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
+      "summary_en": "Israel and the United States pounded Iran on Monday in a campaign that U.S. President Donald Trump said would likely take several weeks. Tehran and its allies hit back against Israel, Gulf states and targets critical to the world's energy production.",
+      "title": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
+      "summary": "Israel and the United States pounded Iran on Monday in a campaign that U.S. President Donald Trump said would likely take several weeks. Tehran and its allies hit back against Israel, Gulf states and targets critical to the world's energy production.",
+      "url": "https://www.startribune.com/war-widens-to-include-iranian-backed-militias-as-israeli-and-american-planes-pound-iran/601591197",
+      "source": "Startribune News",
+      "published_at": "2026-03-02T20:32:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "189db66c04570476",
+      "title_orig": "Spain refuses to let US use bases for Iran attacks",
+      "summary_orig": "Spanish Prime Minister Pedro Sanchez has condemned US and Israeli strikes on Iran.",
+      "lang": "en",
+      "title_en": "Spain refuses to let US use bases for Iran attacks",
+      "summary_en": "Spanish Prime Minister Pedro Sanchez has condemned US and Israeli strikes on Iran.",
+      "title": "Spain refuses to let US use bases for Iran attacks",
+      "summary": "Spanish Prime Minister Pedro Sanchez has condemned US and Israeli strikes on Iran.",
+      "url": "https://www.aljazeera.com/news/2026/3/2/spain-refuses-to-let-us-use-bases-for-iran-attacks?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-03-02T20:31:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "4740fffecd11816f",
+      "title_orig": "Trump vows to continue ‘large-scale operations’ and details Iran objectives after refusing to rule out boots on the ground – live",
+      "summary_orig": "Trump says the US is already ‘substantially ahead’ of its time projections after telling New York Post, ‘I don’t have the yips with respect to boots on the ground’ Hegseth says US won’t get ‘bogged down’ in Iran What is the legality of the US and Israeli attacks on Iran? Sign up for Breaking US News email alerts While speaking today, Pete Hegseth acknowledged the fourth US service member killed in Iran’s counterattacks. “War is hell and always will be,” he said. “Our grateful nation honors the four Americans we have lost thus far and those injured – the absolute best of America.” Continue reading...",
+      "lang": "en",
+      "title_en": "Trump vows to continue ‘large-scale operations’ and details Iran objectives after refusing to rule out boots on the ground – live",
+      "summary_en": "Trump says the US is already ‘substantially ahead’ of its time projections after telling New York Post, ‘I don’t have the yips with respect to boots on the ground’ Hegseth says US won’t get ‘bogged down’ in Iran What is the legality of the US and Israeli attacks on Iran? Sign up for Breaking US News email alerts While speaking today, Pete Hegseth acknowledged the fourth US service member killed in Iran’s counterattacks. “War is hell and always will be,” he said. “Our grateful nation honors the four Americans we have lost thus far and those injured – the absolute best of America.” Continue reading...",
+      "title": "Trump vows to continue ‘large-scale operations’ and details Iran objectives after refusing to rule out boots on the ground – live",
+      "summary": "Trump says the US is already ‘substantially ahead’ of its time projections after telling New York Post, ‘I don’t have the yips with respect to boots on the ground’ Hegseth says US won’t get ‘bogged down’ in Iran What is the legality of the US and Israeli attacks on Iran? Sign up for Breaking US News email alerts While speaking today, Pete Hegseth acknowledged the fourth US service member killed in Iran’s counterattacks. “War is hell and always will be,” he said. “Our grateful nation honors the four Americans we have lost thus far and those injured – the absolute best of America.” Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-02T20:30:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "5bb9e7a955372a21",
+      "title_orig": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
+      "summary_orig": "Iran and Iranian-backed militias have fired missiles at Israel and Arab states while Israel and the United States pounded targets in Iran.",
+      "lang": "en",
+      "title_en": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
+      "summary_en": "Iran and Iranian-backed militias have fired missiles at Israel and Arab states while Israel and the United States pounded targets in Iran.",
+      "title": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
+      "summary": "Iran and Iranian-backed militias have fired missiles at Israel and Arab states while Israel and the United States pounded targets in Iran.",
+      "url": "https://wtop.com/world/2026/03/war-widens-to-include-iranian-backed-militias-as-israeli-and-american-planes-pound-iran/",
+      "source": "WTOP News",
+      "published_at": "2026-03-02T20:29:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "32cc94a5be4de676",
+      "title_orig": "Starmer vows to avoid ‘mistakes of Iraq’ that have haunted Labour for decades",
+      "summary_orig": "Prime minister does not believe US has a plan beyond  ‘shock and awe’ stage, as some MPs dread what lies ahead • US-Israel war on Iran – live updates • What we know so far on day three of the Iran war • A visual guide to US-Israeli strikes on Iran and Tehran’s response Tony Blair’s support for the US invasion of Iraq has long loomed like a spectre over the Labour party. It was present in 2013 when Ed Miliband as opposition leader voted to block UK military action against the Syrian regime. Continue reading...",
+      "lang": "en",
+      "title_en": "Starmer vows to avoid ‘mistakes of Iraq’ that have haunted Labour for decades",
+      "summary_en": "Prime minister does not believe US has a plan beyond  ‘shock and awe’ stage, as some MPs dread what lies ahead • US-Israel war on Iran – live updates • What we know so far on day three of the Iran war • A visual guide to US-Israeli strikes on Iran and Tehran’s response Tony Blair’s support for the US invasion of Iraq has long loomed like a spectre over the Labour party. It was present in 2013 when Ed Miliband as opposition leader voted to block UK military action against the Syrian regime. Continue reading...",
+      "title": "Starmer vows to avoid ‘mistakes of Iraq’ that have haunted Labour for decades",
+      "summary": "Prime minister does not believe US has a plan beyond  ‘shock and awe’ stage, as some MPs dread what lies ahead • US-Israel war on Iran – live updates • What we know so far on day three of the Iran war • A visual guide to US-Israeli strikes on Iran and Tehran’s response Tony Blair’s support for the US invasion of Iraq has long loomed like a spectre over the Labour party. It was present in 2013 when Ed Miliband as opposition leader voted to block UK military action against the Syrian regime. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/mar/02/starmer-vows-to-avoid-mistakes-of-iraq-that-has-haunted-labour-for-decades",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-02T20:26:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "142b938227eefafb",
+      "title_orig": "US-Israeli strikes hit housing, hospitals, and more in Tehran",
+      "summary_orig": "The damage from US-Israeli strikes on Tehran is growing, with hits on housing, hospitals, police stations, and more.",
+      "lang": "en",
+      "title_en": "US-Israeli strikes hit housing, hospitals, and more in Tehran",
+      "summary_en": "The damage from US-Israeli strikes on Tehran is growing, with hits on housing, hospitals, police stations, and more.",
+      "title": "US-Israeli strikes hit housing, hospitals, and more in Tehran",
+      "summary": "The damage from US-Israeli strikes on Tehran is growing, with hits on housing, hospitals, police stations, and more.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/us-israeli-strikes-hit-housing-hospitals-and-more-in-tehran?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-03-02T20:22:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6ff418ff17fb42cb",
+      "title_orig": "From doubts about nuke talks to an Air Force One flight, what led up to Trump’s order to strike Iran",
+      "summary_orig": "WASHINGTON (AP) — President Donald Trump told reporters at the White House on Friday afternoon that he was not pleased…",
+      "lang": "en",
+      "title_en": "From doubts about nuke talks to an Air Force One flight, what led up to Trump’s order to strike Iran",
+      "summary_en": "WASHINGTON (AP) — President Donald Trump told reporters at the White House on Friday afternoon that he was not pleased…",
+      "title": "From doubts about nuke talks to an Air Force One flight, what led up to Trump’s order to strike Iran",
+      "summary": "WASHINGTON (AP) — President Donald Trump told reporters at the White House on Friday afternoon that he was not pleased…",
+      "url": "https://wtop.com/world/2026/03/this-is-how-the-us-israeli-strikes-on-iran-played-out/",
+      "source": "WTOP News",
+      "published_at": "2026-03-02T20:20:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "57d4593aafbbe606",
+      "title_orig": "Keir Starmer in row with Donald Trump over Iran strikes decision",
+      "summary_orig": "Sir Keir Starmer said Donald Trump had ‘expressed his disagreement’ about the initial refusal to allow US strikes against Iran from British bases.",
+      "lang": "en",
+      "title_en": "Keir Starmer in row with Donald Trump over Iran strikes decision",
+      "summary_en": "Sir Keir Starmer said Donald Trump had ‘expressed his disagreement’ about the initial refusal to allow US strikes against Iran from British bases.",
+      "title": "Keir Starmer in row with Donald Trump over Iran strikes decision",
+      "summary": "Sir Keir Starmer said Donald Trump had ‘expressed his disagreement’ about the initial refusal to allow US strikes against Iran from British bases.",
+      "url": "https://www.standard.co.uk/news/politics/keir-starmer-british-donald-trump-iran-prime-minister-b1273145.html",
+      "source": "The Standard News",
+      "published_at": "2026-03-02T20:19:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -57,34 +480,16 @@
     },
     {
       "id": "bd7d3f5b1080cebb",
-      "title_orig": "Iran unleashes hundreds of Shahed 136 drones across Middle East",
+      "title_orig": "Iran’s Shahed drones have brought terror to the skies over Ukraine – now they are being deployed in the Middle East",
       "summary_orig": "Bulky and noisy Iran-made unmanned attack drones have hit buildings in Bahrain, Kuwait, UAE and elsewhere US-Israel war on Iran – live updates A visual guide strikes on Iran and Tehran’s response Iran’s noisy $50,000 delta-winged Shahed 136 drones have long been an unwanted sight over the skies of Ukraine. Now, over the last 48 hours, hundreds of the distinctive weapons have struck Bahrain, Kuwait, the UAE and across the Gulf as Tehran tries to intimidate and impose costs on regional allies of the US. Continue reading...",
       "lang": "en",
-      "title_en": "Iran unleashes hundreds of Shahed 136 drones across Middle East",
+      "title_en": "Iran’s Shahed drones have brought terror to the skies over Ukraine – now they are being deployed in the Middle East",
       "summary_en": "Bulky and noisy Iran-made unmanned attack drones have hit buildings in Bahrain, Kuwait, UAE and elsewhere US-Israel war on Iran – live updates A visual guide strikes on Iran and Tehran’s response Iran’s noisy $50,000 delta-winged Shahed 136 drones have long been an unwanted sight over the skies of Ukraine. Now, over the last 48 hours, hundreds of the distinctive weapons have struck Bahrain, Kuwait, the UAE and across the Gulf as Tehran tries to intimidate and impose costs on regional allies of the US. Continue reading...",
-      "title": "Iran unleashes hundreds of Shahed 136 drones across Middle East",
+      "title": "Iran’s Shahed drones have brought terror to the skies over Ukraine – now they are being deployed in the Middle East",
       "summary": "Bulky and noisy Iran-made unmanned attack drones have hit buildings in Bahrain, Kuwait, UAE and elsewhere US-Israel war on Iran – live updates A visual guide strikes on Iran and Tehran’s response Iran’s noisy $50,000 delta-winged Shahed 136 drones have long been an unwanted sight over the skies of Ukraine. Now, over the last 48 hours, hundreds of the distinctive weapons have struck Bahrain, Kuwait, the UAE and across the Gulf as Tehran tries to intimidate and impose costs on regional allies of the US. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/mar/02/iran-unleashes-hundreds-of-drones-aimed-at-targets-across-middle-east",
       "source": "World news | The Guardian",
       "published_at": "2026-03-02T20:16:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "865a7eb045dc8f32",
-      "title_orig": "Middle East crisis live: Israel launches new attacks on Tehran and Beirut as Iran closes critical Strait of Hormuz",
-      "summary_orig": "Earlier, Donald Trump laid out US objectives, saying mission could go on for four-five weeks, adding US has ‘capability to go far longer’ What is the legality of the US and Israeli attacks on Iran? Have you been affected by events in the Middle East? Bahrain has said that one person was killed by shrapnel from an intercepted missile. The death of a foreign worker at Salman Industrial City , working on a boat there, marks the kingdom’s first reported fatality in the war. Bahrain, home to the US navy’s 5th fleet, said it intercepted 61 missiles and 34 attack drones launched against it. It said some shrapnel had gotten through, striking buildings and the naval base. Continue reading...",
-      "lang": "en",
-      "title_en": "Middle East crisis live: Israel launches new attacks on Tehran and Beirut as Iran closes critical Strait of Hormuz",
-      "summary_en": "Earlier, Donald Trump laid out US objectives, saying mission could go on for four-five weeks, adding US has ‘capability to go far longer’ What is the legality of the US and Israeli attacks on Iran? Have you been affected by events in the Middle East? Bahrain has said that one person was killed by shrapnel from an intercepted missile. The death of a foreign worker at Salman Industrial City , working on a boat there, marks the kingdom’s first reported fatality in the war. Bahrain, home to the US navy’s 5th fleet, said it intercepted 61 missiles and 34 attack drones launched against it. It said some shrapnel had gotten through, striking buildings and the naval base. Continue reading...",
-      "title": "Middle East crisis live: Israel launches new attacks on Tehran and Beirut as Iran closes critical Strait of Hormuz",
-      "summary": "Earlier, Donald Trump laid out US objectives, saying mission could go on for four-five weeks, adding US has ‘capability to go far longer’ What is the legality of the US and Israeli attacks on Iran? Have you been affected by events in the Middle East? Bahrain has said that one person was killed by shrapnel from an intercepted missile. The death of a foreign worker at Salman Industrial City , working on a boat there, marks the kingdom’s first reported fatality in the war. Bahrain, home to the US navy’s 5th fleet, said it intercepted 61 missiles and 34 attack drones launched against it. It said some shrapnel had gotten through, striking buildings and the naval base. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-02T20:16:37+00:00",
       "tags": [
         "airport/security"
       ],
@@ -110,42 +515,6 @@
       "geo": {}
     },
     {
-      "id": "299bfa9b00cb68af",
-      "title_orig": "Live: Albanese condemns mourning of Ayatollah Ali Khamenei in Australia",
-      "summary_orig": "Prime Minister Anthony Albanese has sidestepped questions about the legality of US and Israeli strikes on Iran, while also saying the public mourning of Ayatollah Ali Khamenei in Australia is inappropriate. Follow live.",
-      "lang": "en",
-      "title_en": "Live: Albanese condemns mourning of Ayatollah Ali Khamenei in Australia",
-      "summary_en": "Prime Minister Anthony Albanese has sidestepped questions about the legality of US and Israeli strikes on Iran, while also saying the public mourning of Ayatollah Ali Khamenei in Australia is inappropriate. Follow live.",
-      "title": "Live: Albanese condemns mourning of Ayatollah Ali Khamenei in Australia",
-      "summary": "Prime Minister Anthony Albanese has sidestepped questions about the legality of US and Israeli strikes on Iran, while also saying the public mourning of Ayatollah Ali Khamenei in Australia is inappropriate. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-03-03/federal-politics-live-blog-march-3/106406902",
-      "source": "Just In",
-      "published_at": "2026-03-02T20:11:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4740fffecd11816f",
-      "title_orig": "Trump vows to continue ‘large-scale operations’ and details Iran objectives after refusing to rule out boots on the ground – live",
-      "summary_orig": "Trump says the US is already ‘substantially ahead’ of its time projections after telling New York Post, ‘I don’t have the yips with respect to boots on the ground’ Hegseth says US won’t get ‘bogged down’ in Iran What is the legality of the US and Israeli attacks on Iran? Sign up for Breaking US News email alerts While speaking today, Pete Hegseth acknowledged the fourth US service member killed in Iran’s counterattacks. “War is hell and always will be,” he said. “Our grateful nation honors the four Americans we have lost thus far and those injured – the absolute best of America.” Continue reading...",
-      "lang": "en",
-      "title_en": "Trump vows to continue ‘large-scale operations’ and details Iran objectives after refusing to rule out boots on the ground – live",
-      "summary_en": "Trump says the US is already ‘substantially ahead’ of its time projections after telling New York Post, ‘I don’t have the yips with respect to boots on the ground’ Hegseth says US won’t get ‘bogged down’ in Iran What is the legality of the US and Israeli attacks on Iran? Sign up for Breaking US News email alerts While speaking today, Pete Hegseth acknowledged the fourth US service member killed in Iran’s counterattacks. “War is hell and always will be,” he said. “Our grateful nation honors the four Americans we have lost thus far and those injured – the absolute best of America.” Continue reading...",
-      "title": "Trump vows to continue ‘large-scale operations’ and details Iran objectives after refusing to rule out boots on the ground – live",
-      "summary": "Trump says the US is already ‘substantially ahead’ of its time projections after telling New York Post, ‘I don’t have the yips with respect to boots on the ground’ Hegseth says US won’t get ‘bogged down’ in Iran What is the legality of the US and Israeli attacks on Iran? Sign up for Breaking US News email alerts While speaking today, Pete Hegseth acknowledged the fourth US service member killed in Iran’s counterattacks. “War is hell and always will be,” he said. “Our grateful nation honors the four Americans we have lost thus far and those injured – the absolute best of America.” Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-02T20:11:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "fb51792c733a7107",
       "title_orig": "After Attack on Iran by the U.S. and Israel, See Photos and Videos From the Middle East",
       "summary_orig": "Here are images from Iran, Israel, Lebanon and elsewhere in the Middle East.",
@@ -161,24 +530,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "8a1b1b955f1bb04e",
-      "title_orig": "Middle East chaos spreads as death toll from Trump’s war with Iran grows",
-      "summary_orig": "More countries have been drawn into the conflict between the US and Iran, with fears strikes could continue for weeks",
-      "lang": "en",
-      "title_en": "Middle East chaos spreads as death toll from Trump’s war with Iran grows",
-      "summary_en": "More countries have been drawn into the conflict between the US and Iran, with fears strikes could continue for weeks",
-      "title": "Middle East chaos spreads as death toll from Trump’s war with Iran grows",
-      "summary": "More countries have been drawn into the conflict between the US and Iran, with fears strikes could continue for weeks",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-war-israel-trump-middle-east-b2930268.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-02T20:08:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -218,60 +569,6 @@
       "geo": {}
     },
     {
-      "id": "ef321ad210ec0e27",
-      "title_orig": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
-      "summary_orig": "Israel and the United States pounded Iran on Monday in a campaign that U.S. President Donald Trump said would likely take several weeks. Tehran and its allies hit back against Israel, Gulf states and targets critical to the world's energy production.",
-      "lang": "en",
-      "title_en": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
-      "summary_en": "Israel and the United States pounded Iran on Monday in a campaign that U.S. President Donald Trump said would likely take several weeks. Tehran and its allies hit back against Israel, Gulf states and targets critical to the world's energy production.",
-      "title": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
-      "summary": "Israel and the United States pounded Iran on Monday in a campaign that U.S. President Donald Trump said would likely take several weeks. Tehran and its allies hit back against Israel, Gulf states and targets critical to the world's energy production.",
-      "url": "https://www.startribune.com/war-widens-to-include-iranian-backed-militias-as-israeli-and-american-planes-pound-iran/601591197",
-      "source": "Startribune News",
-      "published_at": "2026-03-02T20:07:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5bb9e7a955372a21",
-      "title_orig": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
-      "summary_orig": "Iran and Iranian-backed militias have fired missiles at Israel and Arab states while Israel and the United States pounded targets in Iran.",
-      "lang": "en",
-      "title_en": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
-      "summary_en": "Iran and Iranian-backed militias have fired missiles at Israel and Arab states while Israel and the United States pounded targets in Iran.",
-      "title": "War in the Mideast widens as Trump says strikes on Iran could last several weeks",
-      "summary": "Iran and Iranian-backed militias have fired missiles at Israel and Arab states while Israel and the United States pounded targets in Iran.",
-      "url": "https://wtop.com/world/2026/03/war-widens-to-include-iranian-backed-militias-as-israeli-and-american-planes-pound-iran/",
-      "source": "WTOP News",
-      "published_at": "2026-03-02T20:04:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "276514655eddbc74",
-      "title_orig": "What to know about the latest US-Israeli attacks on Iran",
-      "summary_orig": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
-      "lang": "en",
-      "title_en": "What to know about the latest US-Israeli attacks on Iran",
-      "summary_en": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
-      "title": "What to know about the latest US-Israeli attacks on Iran",
-      "summary": "The U.S. and Israel attacked Iran on Saturday in what President Donald Trump said was a massive operation to destroy the country’s military capabilities and eliminate the threat of it creating a nuclear weapon.",
-      "url": "https://wtop.com/national/2026/03/what-to-know-about-u-s-israel-attacks-on-iran/",
-      "source": "WTOP News",
-      "published_at": "2026-03-02T20:03:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "9c3d0b8a8bf2f4cd",
       "title_orig": "Anti-war candidates pose early test for US Democrats after attacks on Iran",
       "summary_orig": "Nida Alla, Kat Abughazaleh among those seeking new aims for Dems in midterms, including abolishing ICE and ending wars.",
@@ -290,24 +587,6 @@
       "geo": {}
     },
     {
-      "id": "5f6b1e2239e1ab8e",
-      "title_orig": "The Latest: Trump says Iran operations likely to last 4 to 5 weeks, but prepared ‘to go far longer’",
-      "summary_orig": "Iran and Iranian-backed militias fired missiles at Israel and Arab states, apparently hitting the U.S. Embassy compound in Kuwait, while Israel and the United States pounded targets in Iran as the war expanded Monday with statements of defiance and increasing casualties.",
-      "lang": "en",
-      "title_en": "The Latest: Trump says Iran operations likely to last 4 to 5 weeks, but prepared ‘to go far longer’",
-      "summary_en": "Iran and Iranian-backed militias fired missiles at Israel and Arab states, apparently hitting the U.S. Embassy compound in Kuwait, while Israel and the United States pounded targets in Iran as the war expanded Monday with statements of defiance and increasing casualties.",
-      "title": "The Latest: Trump says Iran operations likely to last 4 to 5 weeks, but prepared ‘to go far longer’",
-      "summary": "Iran and Iranian-backed militias fired missiles at Israel and Arab states, apparently hitting the U.S. Embassy compound in Kuwait, while Israel and the United States pounded targets in Iran as the war expanded Monday with statements of defiance and increasing casualties.",
-      "url": "https://wtop.com/national/2026/03/the-latest-iranian-backed-militias-join-fight-as-war-on-iran-widens/",
-      "source": "WTOP News",
-      "published_at": "2026-03-02T20:01:16+00:00",
-      "tags": [
-        "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e6619feca2bb6d7c",
       "title_orig": "Hegseth insists the Iran conflict is 'not endless' while warning more casualties are likely",
       "summary_orig": "WASHINGTON (AP) — Defense Secretary Pete Hegseth spoke Monday to widening concerns that the U.S.-Israeli strikes in Iran could spiral into a protracted regional conflict by declaring, “This is not Iraq. This is not endless,\" even as he warned that more American casualties are likely in the weeks ahead. Hegseth, along with Air Force Gen. [...]",
@@ -318,24 +597,6 @@
       "summary": "WASHINGTON (AP) — Defense Secretary Pete Hegseth spoke Monday to widening concerns that the U.S.-Israeli strikes in Iran could spiral into a protracted regional conflict by declaring, “This is not Iraq. This is not endless,\" even as he warned that more American casualties are likely in the weeks ahead. Hegseth, along with Air Force Gen. [...]",
       "url": "https://fox5sandiego.com/news/politics/ap-politics/ap-hegseth-and-caine-will-hold-a-news-conference-as-iran-conflict-intensifies-in-region/",
       "source": "FOX 5 San Diego & KUSI News",
-      "published_at": "2026-03-02T20:00:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8fbecb47f6b6327f",
-      "title_orig": "Hegseth insists the Iran conflict is ‘not endless’ while warning more casualties are likely",
-      "summary_orig": "WASHINGTON (AP) — Defense Secretary Pete Hegseth spoke Monday to widening concerns that the U.S.-Israeli strikes in Iran could spiral…",
-      "lang": "en",
-      "title_en": "Hegseth insists the Iran conflict is ‘not endless’ while warning more casualties are likely",
-      "summary_en": "WASHINGTON (AP) — Defense Secretary Pete Hegseth spoke Monday to widening concerns that the U.S.-Israeli strikes in Iran could spiral…",
-      "title": "Hegseth insists the Iran conflict is ‘not endless’ while warning more casualties are likely",
-      "summary": "WASHINGTON (AP) — Defense Secretary Pete Hegseth spoke Monday to widening concerns that the U.S.-Israeli strikes in Iran could spiral…",
-      "url": "https://wtop.com/government/2026/03/hegseth-and-caine-will-hold-a-news-conference-as-iran-conflict-intensifies-in-region/",
-      "source": "WTOP News",
       "published_at": "2026-03-02T20:00:36+00:00",
       "tags": [
         "airport/security"
@@ -377,42 +638,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "52a75b1285bbbe17",
-      "title_orig": "Middle East conflict latest: Trump says war with Iran could last longer than five weeks",
-      "summary_orig": "The US-Israel attack on Iran over the weekend has led to retaliatory strikes across the region.",
-      "lang": "en",
-      "title_en": "Middle East conflict latest: Trump says war with Iran could last longer than five weeks",
-      "summary_en": "The US-Israel attack on Iran over the weekend has led to retaliatory strikes across the region.",
-      "title": "Middle East conflict latest: Trump says war with Iran could last longer than five weeks",
-      "summary": "The US-Israel attack on Iran over the weekend has led to retaliatory strikes across the region.",
-      "url": "https://www.thejournal.ie/israel-strikes-kill-31-in-lebanon-after-hezbollah-fire-expanding-iran-war-6971441-Mar2026/",
-      "source": "TheJournal.ie",
-      "published_at": "2026-03-02T20:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6ff418ff17fb42cb",
-      "title_orig": "From doubts about nuke talks to an Air Force One flight, what led up to Trump’s order to strike Iran",
-      "summary_orig": "WASHINGTON (AP) — President Donald Trump told reporters at the White House on Friday afternoon that he was not pleased…",
-      "lang": "en",
-      "title_en": "From doubts about nuke talks to an Air Force One flight, what led up to Trump’s order to strike Iran",
-      "summary_en": "WASHINGTON (AP) — President Donald Trump told reporters at the White House on Friday afternoon that he was not pleased…",
-      "title": "From doubts about nuke talks to an Air Force One flight, what led up to Trump’s order to strike Iran",
-      "summary": "WASHINGTON (AP) — President Donald Trump told reporters at the White House on Friday afternoon that he was not pleased…",
-      "url": "https://wtop.com/world/2026/03/this-is-how-the-us-israeli-strikes-on-iran-played-out/",
-      "source": "WTOP News",
-      "published_at": "2026-03-02T19:59:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -921,12 +1146,12 @@
     },
     {
       "id": "a5f6383780f29cd5",
-      "title_orig": "What are Iran's ballistic missiles and 'kamikaze' drones capable of?",
+      "title_orig": "Western air defences struggle against Iran missile and drone power",
       "summary_orig": "Several countries across the Middle East have been struck by Iranian missiles and drones in its retaliatory attacks, but analysts say Tehran's response so far was \"limited\".",
       "lang": "en",
-      "title_en": "What are Iran's ballistic missiles and 'kamikaze' drones capable of?",
+      "title_en": "Western air defences struggle against Iran missile and drone power",
       "summary_en": "Several countries across the Middle East have been struck by Iranian missiles and drones in its retaliatory attacks, but analysts say Tehran's response so far was \"limited\".",
-      "title": "What are Iran's ballistic missiles and 'kamikaze' drones capable of?",
+      "title": "Western air defences struggle against Iran missile and drone power",
       "summary": "Several countries across the Middle East have been struck by Iranian missiles and drones in its retaliatory attacks, but analysts say Tehran's response so far was \"limited\".",
       "url": "https://www.abc.net.au/news/2026-03-03/iran-ballistic-missiles-suicide-drone-strikes-us-israel/106404180",
       "source": "Just In",
@@ -1928,24 +2153,6 @@
       "geo": {}
     },
     {
-      "id": "fb1e671f1680d8e6",
-      "title_orig": "Everything you need to know about Keir Starmer's speech to Parliament",
-      "summary_orig": "Sir Keir Starmer has defended the decision not to join in with the wave of strikes by the US and Israel on Iran",
-      "lang": "en",
-      "title_en": "Everything you need to know about Keir Starmer's speech to Parliament",
-      "summary_en": "Sir Keir Starmer has defended the decision not to join in with the wave of strikes by the US and Israel on Iran",
-      "title": "Everything you need to know about Keir Starmer's speech to Parliament",
-      "summary": "Sir Keir Starmer has defended the decision not to join in with the wave of strikes by the US and Israel on Iran",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/everything-you-need-know-keir-33518115",
-      "source": "MEN - News",
-      "published_at": "2026-03-02T17:21:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f312873c3f618bd8",
       "title_orig": "Trump Iran strikes: Ohio lawmakers split on military action",
       "summary_orig": "Ohio congressional Republicans praised Operation Epic Fury in Iran as decisive action against terrorism, while Democrats from Northeast Ohio call the military strikes unconstitutional and demand immediate congressional briefing.",
@@ -2072,42 +2279,6 @@
       "geo": {}
     },
     {
-      "id": "dc8fcef7250570bf",
-      "title_orig": "Authorities investigate mass shooting at Austin bar as potential act of terrorism",
-      "summary_orig": "Officials continue to investigate Sunday shooting in Texas amid fears of further attacks following US airstrikes on Iran Austin bar shooting leaves three dead, including suspect, and 14 wounded Officials in Texas are continuing to investigate a weekend mass shooting at an Austin bar by a man wearing a “Property of Allah” hoodie as an act of potential terrorism, as fears rise over the possibility of further attacks following US airstrikes on Iran. Police shot and killed Ndiaga Diagne, 53, a Senegalese national and naturalized US citizen, early on Sunday after he reportedly opened fire at the downtown bar popular with university students. Two people were killed, and another 14 wounded, some of them seriously. Continue reading...",
-      "lang": "en",
-      "title_en": "Authorities investigate mass shooting at Austin bar as potential act of terrorism",
-      "summary_en": "Officials continue to investigate Sunday shooting in Texas amid fears of further attacks following US airstrikes on Iran Austin bar shooting leaves three dead, including suspect, and 14 wounded Officials in Texas are continuing to investigate a weekend mass shooting at an Austin bar by a man wearing a “Property of Allah” hoodie as an act of potential terrorism, as fears rise over the possibility of further attacks following US airstrikes on Iran. Police shot and killed Ndiaga Diagne, 53, a Senegalese national and naturalized US citizen, early on Sunday after he reportedly opened fire at the downtown bar popular with university students. Two people were killed, and another 14 wounded, some of them seriously. Continue reading...",
-      "title": "Authorities investigate mass shooting at Austin bar as potential act of terrorism",
-      "summary": "Officials continue to investigate Sunday shooting in Texas amid fears of further attacks following US airstrikes on Iran Austin bar shooting leaves three dead, including suspect, and 14 wounded Officials in Texas are continuing to investigate a weekend mass shooting at an Austin bar by a man wearing a “Property of Allah” hoodie as an act of potential terrorism, as fears rise over the possibility of further attacks following US airstrikes on Iran. Police shot and killed Ndiaga Diagne, 53, a Senegalese national and naturalized US citizen, early on Sunday after he reportedly opened fire at the downtown bar popular with university students. Two people were killed, and another 14 wounded, some of them seriously. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/mar/02/austin-bar-shooting-investigation-potential-terrorism",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-02T17:05:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "57d4593aafbbe606",
-      "title_orig": "Keir Starmer in row with Donald Trump over Iran strikes decision",
-      "summary_orig": "Sir Keir Starmer said Donald Trump had ‘expressed his disagreement’ about the initial refusal to allow US strikes against Iran from British bases.",
-      "lang": "en",
-      "title_en": "Keir Starmer in row with Donald Trump over Iran strikes decision",
-      "summary_en": "Sir Keir Starmer said Donald Trump had ‘expressed his disagreement’ about the initial refusal to allow US strikes against Iran from British bases.",
-      "title": "Keir Starmer in row with Donald Trump over Iran strikes decision",
-      "summary": "Sir Keir Starmer said Donald Trump had ‘expressed his disagreement’ about the initial refusal to allow US strikes against Iran from British bases.",
-      "url": "https://www.standard.co.uk/news/politics/keir-starmer-british-donald-trump-iran-prime-minister-b1273145.html",
-      "source": "The Standard News",
-      "published_at": "2026-03-02T17:03:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "89a15bc5a8806503",
       "title_orig": "Arab countries at UN slam Iran’s retaliatory strikes",
       "summary_orig": "They told the UN Human Rights Council that Iran’s attacks were an “extremely grave” violation of international law.",
@@ -2144,24 +2315,6 @@
       "geo": {}
     },
     {
-      "id": "61346870f035b16f",
-      "title_orig": "Why did US and Israel attack Iran and how long could the war last?",
-      "summary_orig": "Iran has carried out strikes against Israel, across the Gulf and against a British base in Cyprus in retaliation.",
-      "lang": "en",
-      "title_en": "Why did US and Israel attack Iran and how long could the war last?",
-      "summary_en": "Iran has carried out strikes against Israel, across the Gulf and against a British base in Cyprus in retaliation.",
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "summary": "Iran has carried out strikes against Israel, across the Gulf and against a British base in Cyprus in retaliation.",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-02T17:01:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b0144d848e4a675f",
       "title_orig": "Manston Airport plans progress as residents invited to have their say over flight paths",
       "summary_orig": "The consultation will remain open for a few months",
@@ -2177,24 +2330,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "723d30dbf5743f77",
-      "title_orig": "Fourth American service member killed in Iran operation",
-      "summary_orig": "US military also says three US fighter jets were shot down over in ‘friendly fire’ incident, all six crew members survived US-Israel war on Iran – live updates Sign up for the Breaking News US email to get newsletter alerts in your inbox A fourth US service member has been killed in the US military operations against Iran, the US Central Command said on Monday. The announcement comes one day after the military confirmed the deaths of three US service members on Sunday, which marked the first known US fatalities since the strikes against Iran began on Saturday. Continue reading...",
-      "lang": "en",
-      "title_en": "Fourth American service member killed in Iran operation",
-      "summary_en": "US military also says three US fighter jets were shot down over in ‘friendly fire’ incident, all six crew members survived US-Israel war on Iran – live updates Sign up for the Breaking News US email to get newsletter alerts in your inbox A fourth US service member has been killed in the US military operations against Iran, the US Central Command said on Monday. The announcement comes one day after the military confirmed the deaths of three US service members on Sunday, which marked the first known US fatalities since the strikes against Iran began on Saturday. Continue reading...",
-      "title": "Fourth American service member killed in Iran operation",
-      "summary": "US military also says three US fighter jets were shot down over in ‘friendly fire’ incident, all six crew members survived US-Israel war on Iran – live updates Sign up for the Breaking News US email to get newsletter alerts in your inbox A fourth US service member has been killed in the US military operations against Iran, the US Central Command said on Monday. The announcement comes one day after the military confirmed the deaths of three US service members on Sunday, which marked the first known US fatalities since the strikes against Iran began on Saturday. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/mar/02/iran-attack-fourth-us-service-member-killed",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-02T16:56:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2792,24 +2927,6 @@
       "geo": {}
     },
     {
-      "id": "5cc78f71a4562c51",
-      "title_orig": "Gulf carriers resume some flights even as US-Israel strikes and Iran retaliation fuel travel chaos",
-      "summary_orig": "Governments were scrambling to help their citizens get home after the conflict erupted on Saturday, throwing travel plans into turmoil.",
-      "lang": "en",
-      "title_en": "Gulf carriers resume some flights even as US-Israel strikes and Iran retaliation fuel travel chaos",
-      "summary_en": "Governments were scrambling to help their citizens get home after the conflict erupted on Saturday, throwing travel plans into turmoil.",
-      "title": "Gulf carriers resume some flights even as US-Israel strikes and Iran retaliation fuel travel chaos",
-      "summary": "Governments were scrambling to help their citizens get home after the conflict erupted on Saturday, throwing travel plans into turmoil.",
-      "url": "https://www.stuff.co.nz/world-news/360945816/gulf-carriers-resume-some-flights-even-usisrael-strikes",
-      "source": "Stuff - /",
-      "published_at": "2026-03-02T15:48:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d2b45ebcef00e4c7",
       "title_orig": "Iranian Strikes Hit Qatar and Saudi Energy Sites, Threatening Oil and Gas Supplies",
       "summary_orig": "Strikes on sites in Qatar and Saudi Arabia forced the closure of key production facilities and added to growing worries about global oil and gas supplies.",
@@ -3026,24 +3143,6 @@
       "geo": {}
     },
     {
-      "id": "6604eb227fdb5793",
-      "title_orig": "Here's how Italy is marking International Women's Day this year",
-      "summary_orig": "International Women's Day is this Sunday, March 8th – here are the ways the occasion is being commemorated in Italy, from a general strike to free museum visits.",
-      "lang": "en",
-      "title_en": "Here's how Italy is marking International Women's Day this year",
-      "summary_en": "International Women's Day is this Sunday, March 8th – here are the ways the occasion is being commemorated in Italy, from a general strike to free museum visits.",
-      "title": "Here's how Italy is marking International Women's Day this year",
-      "summary": "International Women's Day is this Sunday, March 8th – here are the ways the occasion is being commemorated in Italy, from a general strike to free museum visits.",
-      "url": "https://www.thelocal.it/20260302/heres-how-italy-is-marking-international-womens-day-this-year",
-      "source": "The Local Italy",
-      "published_at": "2026-03-02T15:32:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "01c4c14f92a3994a",
       "title_orig": "Qatar halts natural gas production after Iranian attacks",
       "summary_orig": "Qatar is halting liquid natural gas (LNG) production because of Iranian attacks on key facilities.",
@@ -3080,24 +3179,6 @@
       "geo": {}
     },
     {
-      "id": "579d6d3b7af8c51b",
-      "title_orig": "Iran conflict is 'a just war', Israeli opposition leader Lapid says",
-      "summary_orig": "As the US and Israel wage war on Iran, Israeli opposition leader and former prime minister Yair Lapid told FRANCE 24 he backs the current offensive, despite being \"Netanyahu's biggest rival\". Calling it \"a just war,\" he argued that Tehran has \"miscalculated\" by attacking the Gulf states and that this has become \"a war of the entire region against Iran.\"",
-      "lang": "en",
-      "title_en": "Iran conflict is 'a just war', Israeli opposition leader Lapid says",
-      "summary_en": "As the US and Israel wage war on Iran, Israeli opposition leader and former prime minister Yair Lapid told FRANCE 24 he backs the current offensive, despite being \"Netanyahu's biggest rival\". Calling it \"a just war,\" he argued that Tehran has \"miscalculated\" by attacking the Gulf states and that this has become \"a war of the entire region against Iran.\"",
-      "title": "Iran conflict is 'a just war', Israeli opposition leader Lapid says",
-      "summary": "As the US and Israel wage war on Iran, Israeli opposition leader and former prime minister Yair Lapid told FRANCE 24 he backs the current offensive, despite being \"Netanyahu's biggest rival\". Calling it \"a just war,\" he argued that Tehran has \"miscalculated\" by attacking the Gulf states and that this has become \"a war of the entire region against Iran.\"",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260302-iran-conflict-is-a-just-war-israeli-opposition-leader-lapid-says",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-03-02T15:28:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "d3872cf5b06c320c",
       "title_orig": "Following Iran Strikes, Secretary-General Warns Security Council of Wider Conflict in Middle East, Calls for De-escalation, Immediate Ceasefire",
       "summary_orig": "Following are UN Secretary-General António Guterres’ remarks to the Security Council, in New York today:",
@@ -3131,24 +3212,6 @@
         "diplomatic"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ee46f281f6a352d2",
-      "title_orig": "Middle East war to have economic and military fallouts for Europe",
-      "summary_orig": "The U.S.-Israeli war on Iran and Tehran’s retaliatory strikes across the Middle East are quickly dragging Europe in, forcing the continent into defensive action to protect military bases and evacuate citizens caught up in the conflict. FRANCE 24's Armen Georgian looks at the concrete fallouts the conflict could have for the continent.",
-      "lang": "en",
-      "title_en": "Middle East war to have economic and military fallouts for Europe",
-      "summary_en": "The U.S.-Israeli war on Iran and Tehran’s retaliatory strikes across the Middle East are quickly dragging Europe in, forcing the continent into defensive action to protect military bases and evacuate citizens caught up in the conflict. FRANCE 24's Armen Georgian looks at the concrete fallouts the conflict could have for the continent.",
-      "title": "Middle East war to have economic and military fallouts for Europe",
-      "summary": "The U.S.-Israeli war on Iran and Tehran’s retaliatory strikes across the Middle East are quickly dragging Europe in, forcing the continent into defensive action to protect military bases and evacuate citizens caught up in the conflict. FRANCE 24's Armen Georgian looks at the concrete fallouts the conflict could have for the continent.",
-      "url": "https://www.france24.com/en/middle-east-war-to-have-economic-and-military-fallouts-for-europe",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-03-02T15:26:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3891,24 +3954,6 @@
       "geo": {}
     },
     {
-      "id": "29e41f52a4f98174",
-      "title_orig": "‘Outrage over US-Israel attacks on Iran may have sparked violence in Texas’",
-      "summary_orig": "Javed Ali warns that anger over US-Israel attacks on Iran may be fuelling 'homegrown violence'.",
-      "lang": "en",
-      "title_en": "‘Outrage over US-Israel attacks on Iran may have sparked violence in Texas’",
-      "summary_en": "Javed Ali warns that anger over US-Israel attacks on Iran may be fuelling 'homegrown violence'.",
-      "title": "‘Outrage over US-Israel attacks on Iran may have sparked violence in Texas’",
-      "summary": "Javed Ali warns that anger over US-Israel attacks on Iran may be fuelling 'homegrown violence'.",
-      "url": "https://www.aljazeera.com/video/quotable/2026/3/2/outrage-over-us-israel-attacks-on-iran-may-have-sparked-violence-in?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-03-02T14:01:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "f366456a1166b757",
       "title_orig": "Sadiq Khan: 'Assaults on bus drivers are traumatic - my father was attacked multiple times'",
       "summary_orig": "Asked about the rising number of attacks on TfL staff, Sir Sadiq reveals: ‘My own dad was assaulted a number of times’",
@@ -4432,24 +4477,6 @@
       "geo": {}
     },
     {
-      "id": "041a5156e0ccf7e4",
-      "title_orig": "Five injured in huge Ukrainian drone strikes on Russian port city",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Five injured in huge Ukrainian drone strikes on Russian port city",
-      "summary_en": "",
-      "title": "Five injured in huge Ukrainian drone strikes on Russian port city",
-      "summary": "",
-      "url": "https://www.independent.co.uk/news/world/europe/novorossiysk-ukraine-drone-strike-russia-b2930197.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-02T12:56:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b93e4b4ded21ee13",
       "title_orig": "UK says it is not at war after Iranian drone strikes RAF Akrotiri base in Cyprus",
       "summary_orig": "Akrotiri is the UK's main air base for operations in the Middle East and in recent years has been used for missions against the so-called IS group in Syria and Iraq and to strike Houthi targets in Yemen.",
@@ -4666,24 +4693,6 @@
       "geo": {}
     },
     {
-      "id": "1447b902f48e19ba",
-      "title_orig": "Congo's Kisangani airport attacked by suspected rebel drones, authorities say",
-      "summary_orig": "March 2 - Drones have attacked the airport serving Kisangani, a strategic city in northeast Democratic Republic of Congo far from active front lines in the east, local officials said on Monday, blaming the AFC/M23 rebel group and neighbouring Rwanda.",
-      "lang": "en",
-      "title_en": "Congo's Kisangani airport attacked by suspected rebel drones, authorities say",
-      "summary_en": "March 2 - Drones have attacked the airport serving Kisangani, a strategic city in northeast Democratic Republic of Congo far from active front lines in the east, local officials said on Monday, blaming the AFC/M23 rebel group and neighbouring Rwanda.",
-      "title": "Congo's Kisangani airport attacked by suspected rebel drones, authorities say",
-      "summary": "March 2 - Drones have attacked the airport serving Kisangani, a strategic city in northeast Democratic Republic of Congo far from active front lines in the east, local officials said on Monday, blaming the AFC/M23 rebel group and neighbouring Rwanda.",
-      "url": "https://www.straitstimes.com/world/congos-kisangani-airport-attacked-by-suspected-rebel-drones-authorities-say",
-      "source": "The Straits Times World News",
-      "published_at": "2026-03-02T12:38:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "07d62fc6bcbb3e4a",
       "title_orig": "3 U.S. Planes Are Shot Down in ‘Friendly Fire’ in Kuwait, U.S. Military Says",
       "summary_orig": "Separately, a drone attack hit the U.S. Embassy compound in the Persian Gulf state, as Iran continues to target American assets across the Middle East.",
@@ -4700,24 +4709,6 @@
         "diplomatic"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "2af126faed53fe3f",
-      "title_orig": "US aircraft leave Spain after government says bases cannot be used for Iran attacks",
-      "summary_orig": "MADRID, March 2 - Fifteen U.S. aircraft have left the Rota and Moron military bases in southern Spain since the U.S. and Israel launched weekend attacks on Iran, maps by flight tracking website FlightRadar24 showed on Monday.",
-      "lang": "en",
-      "title_en": "US aircraft leave Spain after government says bases cannot be used for Iran attacks",
-      "summary_en": "MADRID, March 2 - Fifteen U.S. aircraft have left the Rota and Moron military bases in southern Spain since the U.S. and Israel launched weekend attacks on Iran, maps by flight tracking website FlightRadar24 showed on Monday.",
-      "title": "US aircraft leave Spain after government says bases cannot be used for Iran attacks",
-      "summary": "MADRID, March 2 - Fifteen U.S. aircraft have left the Rota and Moron military bases in southern Spain since the U.S. and Israel launched weekend attacks on Iran, maps by flight tracking website FlightRadar24 showed on Monday.",
-      "url": "https://www.straitstimes.com/world/europe/us-aircraft-leave-spain-after-government-says-bases-cannot-be-used-for-iran-attacks",
-      "source": "The Straits Times World News",
-      "published_at": "2026-03-02T12:33:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -4915,24 +4906,6 @@
       "tags": [
         "airport/security",
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e5637f9f3dcc9ca3",
-      "title_orig": "Tehran hospital evacuated after explosions nearby: WHO",
-      "summary_orig": "The hospital had been hit by Israeli strikes, witnesses said.",
-      "lang": "en",
-      "title_en": "Tehran hospital evacuated after explosions nearby: WHO",
-      "summary_en": "The hospital had been hit by Israeli strikes, witnesses said.",
-      "title": "Tehran hospital evacuated after explosions nearby: WHO",
-      "summary": "The hospital had been hit by Israeli strikes, witnesses said.",
-      "url": "https://www.straitstimes.com/world/middle-east/tehran-hospital-evacuated-after-explosions-nearby-who-says",
-      "source": "The Straits Times World News",
-      "published_at": "2026-03-02T11:58:41+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
@@ -5488,24 +5461,6 @@
       "geo": {}
     },
     {
-      "id": "ce3f1edb6dc22430",
-      "title_orig": "Trump says US had identified candidates to take over Iran but they were killed in initial strikes",
-      "summary_orig": "\"The attack was so successful it knocked out most of the candidates,\" the president says. \"It's not going to be anybody that we were thinking of because they are all dead”",
-      "lang": "en",
-      "title_en": "Trump says US had identified candidates to take over Iran but they were killed in initial strikes",
-      "summary_en": "\"The attack was so successful it knocked out most of the candidates,\" the president says. \"It's not going to be anybody that we were thinking of because they are all dead”",
-      "title": "Trump says US had identified candidates to take over Iran but they were killed in initial strikes",
-      "summary": "\"The attack was so successful it knocked out most of the candidates,\" the president says. \"It's not going to be anybody that we were thinking of because they are all dead”",
-      "url": "https://www.independent.co.uk/news/world/americas/trump-iran-leaders-killed-strikes-b2929957.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-02T10:09:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5ab0e6c40f95ccb0",
       "title_orig": "Pakistan embassy sets up facilitation desks in UAE, launches outreach initiative for nationals",
       "summary_orig": "The Embassy of Pakistan in Abu Dhabi has launched an initiative aimed at “facilitation and outreach” efforts for Pakistani nationals residing in the United Arab Emirates (UAE) amid heightened tensions in the Middle East. In a post on X, the embassy said, “The Embassy of Pakistan in Abu Dhabi has launched an online registration form for the Pakistani community residing in the UAE for the sake of facilitation and outreach”. The nationals were directed by the embassy to register here. The embassy has set up facilitation desks in Abu Dhabi and Dubai, which will “operate round the clock”. The embassy also issued directives for Pakistani nationals stranded in transit in the UAE due to flight disruptions and airport closures to register here. In a post on X, the embassy said, “All Pakistani citizens who are presently in transit are requested to fill out this form carefully and completely”. “The information provided will help the Embassy coordinate with relevant authorities and airlines to extend necessary assistance,” it added. A day earlier, the Foreign Office (FO) issued an advisory on the situation in the Middle East and the Persian Gulf, saying it had activated its crisis management unit (CMU) to “closely monitor the developments and extend all necessary assistance” to Pakistani nationals abroad. The development comes as Iran launched a new round of attacks against US targets in Gulf countries, including the UAE, after the United States and Israel on Saturday launched what they described as a “pre-emptive” joint strike against Iranian targets, with President Trump announcing the start of “major combat operations”.",
@@ -5696,24 +5651,6 @@
       "geo": {}
     },
     {
-      "id": "c9ece38c343f6840",
-      "title_orig": "'Not about democracy': Spain's FM condemns US-Israel attacks on Iran",
-      "summary_orig": "Spanish Foreign Affairs Minister José Manuel Albares said Monday that the military operation launched by the United States and Israel against Iran “is not about democracy”, stressing that American military bases on Spanish soil are not being used.",
-      "lang": "en",
-      "title_en": "'Not about democracy': Spain's FM condemns US-Israel attacks on Iran",
-      "summary_en": "Spanish Foreign Affairs Minister José Manuel Albares said Monday that the military operation launched by the United States and Israel against Iran “is not about democracy”, stressing that American military bases on Spanish soil are not being used.",
-      "title": "'Not about democracy': Spain's FM condemns US-Israel attacks on Iran",
-      "summary": "Spanish Foreign Affairs Minister José Manuel Albares said Monday that the military operation launched by the United States and Israel against Iran “is not about democracy”, stressing that American military bases on Spanish soil are not being used.",
-      "url": "https://www.thelocal.es/20260302/not-about-democracy-spains-fm-condemns-us-israel-attacks-on-iran",
-      "source": "The Local Spain",
-      "published_at": "2026-03-02T09:25:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1872db0cba20eefb",
       "title_orig": "US officials sceptical of Iran regime change after Khamenei killing, sources say",
       "summary_orig": "Following ⁠the killing of Iran’s Supreme leader Ayatollah Ali Khamenei on Saturday, many senior US ⁠officials remain sceptical that the US and Israeli military operation against the Islamic Republic would lead to a regime change in the near term.\nBefore and after the start of the attack, US officials, including US President Donald Trump, had suggested that toppling the nation’s repressive governing system was one of several US goals, in addition to crippling Iran’s ballistic missile and nuclear...",
@@ -5725,24 +5662,6 @@
       "url": "https://www.scmp.com/news/world/middle-east/article/3345142/us-officials-sceptical-iran-regime-change-after-khamenei-killing-sources-say?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-03-02T09:25:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "932ebb14226bc444",
-      "title_orig": "Dubai was sold as a safe, tax-free oasis. Iran’s attack is the ‘ultimate nightmare’",
-      "summary_orig": "Iran hit the UAE and several of its neighbours as it struck back after a major attack by U.S. and Israeli forces",
-      "lang": "en",
-      "title_en": "Dubai was sold as a safe, tax-free oasis. Iran’s attack is the ‘ultimate nightmare’",
-      "summary_en": "Iran hit the UAE and several of its neighbours as it struck back after a major attack by U.S. and Israeli forces",
-      "title": "Dubai was sold as a safe, tax-free oasis. Iran’s attack is the ‘ultimate nightmare’",
-      "summary": "Iran hit the UAE and several of its neighbours as it struck back after a major attack by U.S. and Israeli forces",
-      "url": "https://www.independent.co.uk/news/world/middle-east/dubai-iran-airport-attacks-fairmont-hotel-b2930006.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-02T09:23:47+00:00",
       "tags": [
         "airport/security"
       ],
@@ -5763,24 +5682,6 @@
       "published_at": "2026-03-02T09:18:00+00:00",
       "tags": [
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "57dd69d2063b500c",
-      "title_orig": "Travellers from Germany stuck in the Middle East after war breaks out in Iran",
-      "summary_orig": "Around 30,000 travellers from German tour operators are affected by the escalation in the Gulf region. German and EU citizens are advised to stay put and listen to local authorities as state evacuations are so far not possible.",
-      "lang": "en",
-      "title_en": "Travellers from Germany stuck in the Middle East after war breaks out in Iran",
-      "summary_en": "Around 30,000 travellers from German tour operators are affected by the escalation in the Gulf region. German and EU citizens are advised to stay put and listen to local authorities as state evacuations are so far not possible.",
-      "title": "Travellers from Germany stuck in the Middle East after war breaks out in Iran",
-      "summary": "Around 30,000 travellers from German tour operators are affected by the escalation in the Gulf region. German and EU citizens are advised to stay put and listen to local authorities as state evacuations are so far not possible.",
-      "url": "https://www.thelocal.de/20260302/travellers-from-germany-stuck-in-the-middle-east-after-war-breaks-out-in-iran",
-      "source": "The Local Germany",
-      "published_at": "2026-03-02T09:13:13+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
@@ -5833,24 +5734,6 @@
       "url": "https://www.scmp.com/plus/economy/global-economy/article/3345132/china-faces-oil-squeeze-after-us-israel-strikes-iran?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-03-02T09:03:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ab3e31569746abb8",
-      "title_orig": "Oil prices soar as Iran’s attack on ships near Strait of Hormuz raise fears of wider economic shock",
-      "summary_orig": "Spike follows claims Iran’s Revolutionary Guards struck three oil tankers in the Gulf and the Strait of Hormuz",
-      "lang": "en",
-      "title_en": "Oil prices soar as Iran’s attack on ships near Strait of Hormuz raise fears of wider economic shock",
-      "summary_en": "Spike follows claims Iran’s Revolutionary Guards struck three oil tankers in the Gulf and the Strait of Hormuz",
-      "title": "Oil prices soar as Iran’s attack on ships near Strait of Hormuz raise fears of wider economic shock",
-      "summary": "Spike follows claims Iran’s Revolutionary Guards struck three oil tankers in the Gulf and the Strait of Hormuz",
-      "url": "https://www.independent.co.uk/news/world/middle-east/oil-prices-iran-us-strait-of-hormuz-stock-markets-b2929908.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-02T09:02:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -5948,24 +5831,6 @@
       "geo": {}
     },
     {
-      "id": "71ccb6fe9bdb6b4b",
-      "title_orig": "I’m an expert on Iran. Here’s what could come next after US strikes targeting Ayatollah Ali Khamenei",
-      "summary_orig": "Now the gloves are off, and each side will be trying to land a knockout blow",
-      "lang": "en",
-      "title_en": "I’m an expert on Iran. Here’s what could come next after US strikes targeting Ayatollah Ali Khamenei",
-      "summary_en": "Now the gloves are off, and each side will be trying to land a knockout blow",
-      "title": "I’m an expert on Iran. Here’s what could come next after US strikes targeting Ayatollah Ali Khamenei",
-      "summary": "Now the gloves are off, and each side will be trying to land a knockout blow",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-us-strikes-supreme-leader-ayatollah-ali-khamenei-b2929569.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-02T08:55:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "abc4cc72808a0721",
       "title_orig": "The 9 at 9: Monday",
       "summary_orig": "Israel strikes Lebanon after Hezbollah fire, Jessie Buckley wins tops prize at Actor Awards and the experiences of Irish train commuters…",
@@ -5995,24 +5860,6 @@
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3345128/myanmar-convicts-charged-terrorists-junta-freed-mass-amnesty?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-03-02T08:53:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4e2ea5c4e3cba2a2",
-      "title_orig": "Activists pressure Milan Fashion Week to go fully fur-free",
-      "summary_orig": "Animal activists have been turning up the heat on Milan Fashion Week to adopt a fully fur-free policy, with dozens of protesters demonstrating outside the Giorgio Armani show on Sunday.",
-      "lang": "en",
-      "title_en": "Activists pressure Milan Fashion Week to go fully fur-free",
-      "summary_en": "Animal activists have been turning up the heat on Milan Fashion Week to adopt a fully fur-free policy, with dozens of protesters demonstrating outside the Giorgio Armani show on Sunday.",
-      "title": "Activists pressure Milan Fashion Week to go fully fur-free",
-      "summary": "Animal activists have been turning up the heat on Milan Fashion Week to adopt a fully fur-free policy, with dozens of protesters demonstrating outside the Giorgio Armani show on Sunday.",
-      "url": "https://www.thelocal.it/20260302/activists-pressure-milan-fashion-week-to-go-fully-fur-free",
-      "source": "The Local Italy",
-      "published_at": "2026-03-02T08:46:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -6110,24 +5957,6 @@
       "geo": {}
     },
     {
-      "id": "0fbce5c31aa5e53f",
-      "title_orig": "Today in Spain: A roundup of the latest news on Monday",
-      "summary_orig": "Spain becomes EU’s most vocal opponent to US-Israel attacks on Iran, 20th edition of Mobile World Congress starts in Barcelona and more news on Monday March 2nd.",
-      "lang": "en",
-      "title_en": "Today in Spain: A roundup of the latest news on Monday",
-      "summary_en": "Spain becomes EU’s most vocal opponent to US-Israel attacks on Iran, 20th edition of Mobile World Congress starts in Barcelona and more news on Monday March 2nd.",
-      "title": "Today in Spain: A roundup of the latest news on Monday",
-      "summary": "Spain becomes EU’s most vocal opponent to US-Israel attacks on Iran, 20th edition of Mobile World Congress starts in Barcelona and more news on Monday March 2nd.",
-      "url": "https://www.thelocal.es/20260302/today-in-spain-a-roundup-of-the-latest-news-on-monday-69",
-      "source": "The Local Spain",
-      "published_at": "2026-03-02T07:59:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "997ac8f9bfaee366",
       "title_orig": "Missile fire from Iran wounds five in Jerusalem",
       "summary_orig": "Five people were wounded in Jerusalem after missiles fired from Iran struck the area, as cross-border attacks continued for a third day.",
@@ -6215,24 +6044,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "165d1761854be797",
-      "title_orig": "Today in Germany: A roundup of the latest news on Monday",
-      "summary_orig": "Thousands rally across Germany in support of freedom in Iran, BMW tests humanoid robots on production line, Munich surfers protest as Eisbach wave remains closed and more news on Monday, March 2nd.",
-      "lang": "en",
-      "title_en": "Today in Germany: A roundup of the latest news on Monday",
-      "summary_en": "Thousands rally across Germany in support of freedom in Iran, BMW tests humanoid robots on production line, Munich surfers protest as Eisbach wave remains closed and more news on Monday, March 2nd.",
-      "title": "Today in Germany: A roundup of the latest news on Monday",
-      "summary": "Thousands rally across Germany in support of freedom in Iran, BMW tests humanoid robots on production line, Munich surfers protest as Eisbach wave remains closed and more news on Monday, March 2nd.",
-      "url": "https://www.thelocal.de/20260302/today-in-germany-a-roundup-of-the-latest-news-on-monday-113",
-      "source": "The Local Germany",
-      "published_at": "2026-03-02T07:28:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -6560,24 +6371,6 @@
       "geo": {}
     },
     {
-      "id": "10b52fb3b3235e31",
-      "title_orig": "Luxon: NZ ‘not best placed’ to pass judgement on US and Israel",
-      "summary_orig": "The PM said New Zealand was “not party or proxy” to intelligence held by the Americans and Israelis that might have influenced their decision to launch strikes.",
-      "lang": "en",
-      "title_en": "Luxon: NZ ‘not best placed’ to pass judgement on US and Israel",
-      "summary_en": "The PM said New Zealand was “not party or proxy” to intelligence held by the Americans and Israelis that might have influenced their decision to launch strikes.",
-      "title": "Luxon: NZ ‘not best placed’ to pass judgement on US and Israel",
-      "summary": "The PM said New Zealand was “not party or proxy” to intelligence held by the Americans and Israelis that might have influenced their decision to launch strikes.",
-      "url": "https://www.stuff.co.nz/politics/360945673/luxon-face-questions-over-nzs-position-iran-strikes",
-      "source": "Stuff - /",
-      "published_at": "2026-03-02T04:54:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "0277e2140cbb460f",
       "title_orig": "Afghanistan says it thwarted Pakistan airstrikes on Bagram airbase",
       "summary_orig": "Sporadic clashes reported in several provinces in Afghanistan as both sides give conflicting death tolls Afghanistan has said it had thwarted Pakistan’s attempted airstrikes on Bagram airbase, the former US military base north of Kabul, as cross-border fighting between the two countries stretched into a fourth day. Months of clashes have flared up again since Thursday, when Afghanistan launched attacks along the frontier and Pakistani forces hit back on the border and from the skies. Pakistan has declared it is in “open war” with Afghanistan . Continue reading...",
@@ -6840,24 +6633,6 @@
       "geo": {}
     },
     {
-      "id": "6b563d7b457234ff",
-      "title_orig": "Dog rescued from Happy Valley pond is healthy, will be up for adoption, officials say",
-      "summary_orig": "Firefighters used thermal imaging drone technology to rescue Sweetie, who was stranded in water and hidden in thick vegetation.",
-      "lang": "en",
-      "title_en": "Dog rescued from Happy Valley pond is healthy, will be up for adoption, officials say",
-      "summary_en": "Firefighters used thermal imaging drone technology to rescue Sweetie, who was stranded in water and hidden in thick vegetation.",
-      "title": "Dog rescued from Happy Valley pond is healthy, will be up for adoption, officials say",
-      "summary": "Firefighters used thermal imaging drone technology to rescue Sweetie, who was stranded in water and hidden in thick vegetation.",
-      "url": "https://www.oregonlive.com/crime/2026/03/dog-rescued-from-happy-valley-pond-is-healthy-will-be-up-for-adoption-officials-say.html",
-      "source": "oregonlive.com",
-      "published_at": "2026-03-02T01:53:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1f948b9c09387f1b",
       "title_orig": "Thousands of flights cancelled as Iran conflict upends global air travel",
       "summary_orig": "DUBAI: Global air travel ‌remained heavily disrupted on Sunday as war in Iran kept major Middle Eastern airports including Dubai, the world's busiest international hub, closed for a second day in one of the sharpest aviation shocks in recent years. Key transit airports, including Dubai and Abu Dhabi in the UAE and Doha in Qatar, were shut or severely restricted as much of the...",
@@ -6905,24 +6680,6 @@
       "url": "https://www.hindustantimes.com/india-news/flights-to-gulf-from-4-airports-in-kerala-cancelled-101772394035631.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2026-03-02T01:22:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7daa5ee29c02de73",
-      "title_orig": "3 US troops killed and 5 are seriously wounded during Iran strikes, military says",
-      "summary_orig": "Trump told the Daily Mail in a phone interview Sunday that \"we expect that to happen, unfortunately\" and \"it could happen again.\"",
-      "lang": "en",
-      "title_en": "3 US troops killed and 5 are seriously wounded during Iran strikes, military says",
-      "summary_en": "Trump told the Daily Mail in a phone interview Sunday that \"we expect that to happen, unfortunately\" and \"it could happen again.\"",
-      "title": "3 US troops killed and 5 are seriously wounded during Iran strikes, military says",
-      "summary": "Trump told the Daily Mail in a phone interview Sunday that \"we expect that to happen, unfortunately\" and \"it could happen again.\"",
-      "url": "https://www.kgw.com/article/news/nation-world/us-troops-killed-wounded-during-iran-attacks-military-says/507-f0f3112b-8626-4981-a8bd-6475a79c2b7f",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-03-02T00:49:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -7179,24 +6936,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2814262408f4c277",
-      "title_orig": "Starmer faces greater quandary over ‘special relationship’ after Iran attack",
-      "summary_orig": "PM is in diplomatically precarious position of declining to endorse US strikes while also refusing to condemn them US-Israel war on Iran – latest updates It was perhaps naive of No 10 ever to position Keir Starmer as a “Donald Trump whisperer” capable of persuading the unpredictable US president to step back from reckless decisions. The “special relationship” has been under severe strain in recent months over the UK’s decision to give up sovereignty of the Chagos Islands and the refusal of European countries to back Trump’s play for Greenland. Continue reading...",
-      "lang": "en",
-      "title_en": "Starmer faces greater quandary over ‘special relationship’ after Iran attack",
-      "summary_en": "PM is in diplomatically precarious position of declining to endorse US strikes while also refusing to condemn them US-Israel war on Iran – latest updates It was perhaps naive of No 10 ever to position Keir Starmer as a “Donald Trump whisperer” capable of persuading the unpredictable US president to step back from reckless decisions. The “special relationship” has been under severe strain in recent months over the UK’s decision to give up sovereignty of the Chagos Islands and the refusal of European countries to back Trump’s play for Greenland. Continue reading...",
-      "title": "Starmer faces greater quandary over ‘special relationship’ after Iran attack",
-      "summary": "PM is in diplomatically precarious position of declining to endorse US strikes while also refusing to condemn them US-Israel war on Iran – latest updates It was perhaps naive of No 10 ever to position Keir Starmer as a “Donald Trump whisperer” capable of persuading the unpredictable US president to step back from reckless decisions. The “special relationship” has been under severe strain in recent months over the UK’s decision to give up sovereignty of the Chagos Islands and the refusal of European countries to back Trump’s play for Greenland. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/mar/01/keir-starmer-donald-trump-uk-us-special-relationship-iran",
-      "source": "UK news | The Guardian",
-      "published_at": "2026-03-01T22:00:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -7488,24 +7227,6 @@
       "geo": {}
     },
     {
-      "id": "05b88e702046e55b",
-      "title_orig": "Iran launches attacks on Israel and US military bases in the Gulf following Khamenei death",
-      "summary_orig": "Crowds have gathered in Iranian cities to call for vengeance following the killing of Khamenei in US and Israeli attacks.",
-      "lang": "en",
-      "title_en": "Iran launches attacks on Israel and US military bases in the Gulf following Khamenei death",
-      "summary_en": "Crowds have gathered in Iranian cities to call for vengeance following the killing of Khamenei in US and Israeli attacks.",
-      "title": "Iran launches attacks on Israel and US military bases in the Gulf following Khamenei death",
-      "summary": "Crowds have gathered in Iranian cities to call for vengeance following the killing of Khamenei in US and Israeli attacks.",
-      "url": "https://www.thejournal.ie/iran-us-israel-attacks-khamenei-6971051-Mar2026/",
-      "source": "TheJournal.ie",
-      "published_at": "2026-03-01T18:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "0889430498c90cb2",
       "title_orig": "Israelis Are Tense but Relieved That Iran’s Supreme Leader Is Dead",
       "summary_orig": "Iranian missile and drone attacks have caused anxiety across Israel, but many believe it is a price worth paying for killing Ayatollah Ali Khamenei.",
@@ -7732,24 +7453,6 @@
       "geo": {}
     },
     {
-      "id": "7700f3f6f8cdbd68",
-      "title_orig": "Germany warns against Middle East travel after US-Israeli strikes on Iran",
-      "summary_orig": "Germany on Saturday tightened travel recommendations for the Middle East following strikes launched by the United States and Israel against Iran and retaliation from Tehran.",
-      "lang": "en",
-      "title_en": "Germany warns against Middle East travel after US-Israeli strikes on Iran",
-      "summary_en": "Germany on Saturday tightened travel recommendations for the Middle East following strikes launched by the United States and Israel against Iran and retaliation from Tehran.",
-      "title": "Germany warns against Middle East travel after US-Israeli strikes on Iran",
-      "summary": "Germany on Saturday tightened travel recommendations for the Middle East following strikes launched by the United States and Israel against Iran and retaliation from Tehran.",
-      "url": "https://www.thelocal.de/20260301/germany-warns-against-middle-east-travel-after-us-israeli-strikes-on-iran",
-      "source": "The Local Germany",
-      "published_at": "2026-03-01T14:44:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b8e95cff162861d4",
       "title_orig": "‘India never looked this weak’: Oppn flays PM Modi over ‘complete betrayal’ of Iran, silence on Khamenei's killing",
       "summary_orig": "US-Israel attack on Iran: Congress alleges “abdication of moral leadership” by Modi government through silence so far on Ayatollah Khamenei's assassination",
@@ -7858,24 +7561,6 @@
       "geo": {}
     },
     {
-      "id": "e61145b7aa6b880a",
-      "title_orig": "Air France cancels Beirut, Dubai and Riyadh flights amid Iran crisis",
-      "summary_orig": "Air France cancelled all scheduled flights to Beirut, Dubai and Riyadh on Sunday as a result of Israeli-US strikes on Iran and Tehran's retaliation, the airline said in a statement.",
-      "lang": "en",
-      "title_en": "Air France cancels Beirut, Dubai and Riyadh flights amid Iran crisis",
-      "summary_en": "Air France cancelled all scheduled flights to Beirut, Dubai and Riyadh on Sunday as a result of Israeli-US strikes on Iran and Tehran's retaliation, the airline said in a statement.",
-      "title": "Air France cancels Beirut, Dubai and Riyadh flights amid Iran crisis",
-      "summary": "Air France cancelled all scheduled flights to Beirut, Dubai and Riyadh on Sunday as a result of Israeli-US strikes on Iran and Tehran's retaliation, the airline said in a statement.",
-      "url": "https://www.thelocal.fr/20260301/air-france-suspends-beirut-dubai-and-riyadh-flights-after-iran-crisis",
-      "source": "The Local France",
-      "published_at": "2026-03-01T10:43:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "325279dfcecff400",
       "title_orig": "First oil tanker attacked in the Strait of Hormuz according to Oman",
       "summary_orig": "An oil tanker was attacked off the coast of Musandam in the Strait of Hormuz. Four people were injured and all 20 crew members were evacuated, according to Oman's Maritime Security Centre.",
@@ -7927,24 +7612,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "96900ee49c66b416",
-      "title_orig": "On the Agenda: What’s happening in Italy this week",
-      "summary_orig": "From an airport workers’ strike in Rome to the start of the Paralympic Winter Games, here's what to expect in Italy this week.",
-      "lang": "en",
-      "title_en": "On the Agenda: What’s happening in Italy this week",
-      "summary_en": "From an airport workers’ strike in Rome to the start of the Paralympic Winter Games, here's what to expect in Italy this week.",
-      "title": "On the Agenda: What’s happening in Italy this week",
-      "summary": "From an airport workers’ strike in Rome to the start of the Paralympic Winter Games, here's what to expect in Italy this week.",
-      "url": "https://www.thelocal.it/20260301/on-the-agenda-whats-happening-in-italy-this-week-162",
-      "source": "The Local Italy",
-      "published_at": "2026-03-01T07:54:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -8326,42 +7993,6 @@
       "geo": {}
     },
     {
-      "id": "e3985b0d4eaa4dad",
-      "title_orig": "BREAKING Kuwait International Airport struck by Iranian suicide drone",
-      "summary_orig": "KUWAIT CITY, Feb 28, 2026 — Kuwait International Airport was targeted by a drone strike today, resulting in material damage. The incident occurred during a morning of unprecedented regional volatility as Iran launched a series of retaliatory strikes across the Persian Gulf. According to a statement from the Directorate General of Civil Aviation (DGCA), a […] The post BREAKING Kuwait International Airport struck by Iranian suicide drone appeared first on AIRLIVE .",
-      "lang": "en",
-      "title_en": "BREAKING Kuwait International Airport struck by Iranian suicide drone",
-      "summary_en": "KUWAIT CITY, Feb 28, 2026 — Kuwait International Airport was targeted by a drone strike today, resulting in material damage. The incident occurred during a morning of unprecedented regional volatility as Iran launched a series of retaliatory strikes across the Persian Gulf. According to a statement from the Directorate General of Civil Aviation (DGCA), a […] The post BREAKING Kuwait International Airport struck by Iranian suicide drone appeared first on AIRLIVE .",
-      "title": "BREAKING Kuwait International Airport struck by Iranian suicide drone",
-      "summary": "KUWAIT CITY, Feb 28, 2026 — Kuwait International Airport was targeted by a drone strike today, resulting in material damage. The incident occurred during a morning of unprecedented regional volatility as Iran launched a series of retaliatory strikes across the Persian Gulf. According to a statement from the Directorate General of Civil Aviation (DGCA), a […] The post BREAKING Kuwait International Airport struck by Iranian suicide drone appeared first on AIRLIVE .",
-      "url": "https://airlive.net/incident/2026/02/28/breaking-kuwait-international-airport-struck-by-iranian-suicide-drone/",
-      "source": "AIRLIVE",
-      "published_at": "2026-02-28T16:07:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "759a60e478c04bdf",
-      "title_orig": "Sweden confirms Russian drone buzzed French aircraft carrier in Malmö",
-      "summary_orig": "The Swedish military confirmed Friday that a drone jammed near a French aircraft carrier this week was Russian as France slammed the spy attempt as a \"ridiculous provocation\".",
-      "lang": "en",
-      "title_en": "Sweden confirms Russian drone buzzed French aircraft carrier in Malmö",
-      "summary_en": "The Swedish military confirmed Friday that a drone jammed near a French aircraft carrier this week was Russian as France slammed the spy attempt as a \"ridiculous provocation\".",
-      "title": "Sweden confirms Russian drone buzzed French aircraft carrier in Malmö",
-      "summary": "The Swedish military confirmed Friday that a drone jammed near a French aircraft carrier this week was Russian as France slammed the spy attempt as a \"ridiculous provocation\".",
-      "url": "https://www.thelocal.se/20260228/france-warns-of-provocation-as-sweden-confirms-russian-drone-buzzed-carrier",
-      "source": "The Local Sweden",
-      "published_at": "2026-02-28T14:51:34+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3892a682fb77fc10",
       "title_orig": "Moment Iranian strike hits US military base in Bahrain",
       "summary_orig": "Black smoke rose over Manama after Iran’s Revolutionary Guard said it struck the US 5th Fleet in Bahrain in retaliation for joint US-Israel attacks. A centre at the headquarters of the US Fifth Fleet was hit by a 'missile attack', the country's authorities  announced in a statement.",
@@ -8395,24 +8026,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "e1bc7a13cd90ef4a",
-      "title_orig": "'Significant damage' to runway at Kuwait base hosting Italian troops",
-      "summary_orig": "An Iranian missile attack on Saturday caused \"significant damage\" to the runway of a Kuwait air base hosting Italian air force personnel, Italian Foreign Minister Antonio Tajani was quoted by the ANSA news agency as saying.",
-      "lang": "en",
-      "title_en": "'Significant damage' to runway at Kuwait base hosting Italian troops",
-      "summary_en": "An Iranian missile attack on Saturday caused \"significant damage\" to the runway of a Kuwait air base hosting Italian air force personnel, Italian Foreign Minister Antonio Tajani was quoted by the ANSA news agency as saying.",
-      "title": "'Significant damage' to runway at Kuwait base hosting Italian troops",
-      "summary": "An Iranian missile attack on Saturday caused \"significant damage\" to the runway of a Kuwait air base hosting Italian air force personnel, Italian Foreign Minister Antonio Tajani was quoted by the ANSA news agency as saying.",
-      "url": "https://www.thelocal.it/20260228/significant-damage-to-runway-at-kuwait-base-hosting-italian-troops",
-      "source": "The Local Italy",
-      "published_at": "2026-02-28T14:24:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -8467,24 +8080,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a8af1fd463e7ea48",
-      "title_orig": "Israeli defence systems intercept Iranian missiles over Haifa",
-      "summary_orig": "Israeli defence systems intercepted retaliatory Iranian missiles over Haifa on February 28, leaving trails of smoke across the sky as sirens sounded in the northern port city. The interceptions came after Iran launched missiles in response to US and Israeli strikes targeting several Iranian cities.",
-      "lang": "en",
-      "title_en": "Israeli defence systems intercept Iranian missiles over Haifa",
-      "summary_en": "Israeli defence systems intercepted retaliatory Iranian missiles over Haifa on February 28, leaving trails of smoke across the sky as sirens sounded in the northern port city. The interceptions came after Iran launched missiles in response to US and Israeli strikes targeting several Iranian cities.",
-      "title": "Israeli defence systems intercept Iranian missiles over Haifa",
-      "summary": "Israeli defence systems intercepted retaliatory Iranian missiles over Haifa on February 28, leaving trails of smoke across the sky as sirens sounded in the northern port city. The interceptions came after Iran launched missiles in response to US and Israeli strikes targeting several Iranian cities.",
-      "url": "http://www.euronews.com/2026/02/28/israeli-defence-systems-intercept-iranian-missiles-over-haifa",
-      "source": "News | Euronews RSS",
-      "published_at": "2026-02-28T10:55:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -8560,33 +8155,6 @@
       "geo": {}
     },
     {
-      "id": "ad8d331fa9cb0913",
-      "title_orig": "The best ways to get into Paris from Charles De Gaulle airport",
-      "summary_orig": "The RoissyBus shuttle between the French capital and its main airport has now been axed, so here's a look at how to get into Paris from the airport.",
-      "lang": "en",
-      "title_en": "The best ways to get into Paris from Charles De Gaulle airport",
-      "summary_en": "The RoissyBus shuttle between the French capital and its main airport has now been axed, so here's a look at how to get into Paris from the airport.",
-      "title": "The best ways to get into Paris from Charles De Gaulle airport",
-      "summary": "The RoissyBus shuttle between the French capital and its main airport has now been axed, so here's a look at how to get into Paris from the airport.",
-      "url": "https://www.thelocal.fr/20260227/the-best-ways-to-get-into-paris-from-charles-de-gaulle-airport",
-      "source": "The Local France",
-      "published_at": "2026-02-27T16:07:59+00:00",
-      "tags": [
-        "CDG",
-        "France",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Charles de Gaulle",
-        "city": "Paris",
-        "country": "France",
-        "iata": "CDG",
-        "lat": 49.0097,
-        "lon": 2.5479
-      }
-    },
-    {
       "id": "9bab95a944208242",
       "title_orig": "Democrats outraged at US military’s downing of CBP drone near Mexico border",
       "summary_orig": "Second time in two weeks military used laser to attack what it mistakenly thought was a threat, disrupting air traffic Sign up for the Breaking News US email to get newsletter alerts in your inbox Democratic members of Congress have expressed astonishment and anger at what they claim is the incompetence of the Trump administration after the US military used a laser on Thursday to shoot down what it thought was a threatening drone on the US-Mexico border in Texas but later turned out to belong to US Customs and Border Protection ( CBP ). The apparent confusion between two entities in the US government led to airspace being closed around Fort Hancock, right along the border. It was the second time in two weeks that air traffic was disrupted in the region as a result of a high-energy laser being deployed against drones. Continue reading...",
@@ -8659,24 +8227,6 @@
       "geo": {}
     },
     {
-      "id": "9176673705bd7745",
-      "title_orig": "Denmark’s Billund Airport suffers major loss in passenger numbers",
-      "summary_orig": "Fewer passengers travelled to and from Denmark’s second-largest airport Billund in the wake of budget airline Ryanair’s withdrawal in spring 2025.",
-      "lang": "en",
-      "title_en": "Denmark’s Billund Airport suffers major loss in passenger numbers",
-      "summary_en": "Fewer passengers travelled to and from Denmark’s second-largest airport Billund in the wake of budget airline Ryanair’s withdrawal in spring 2025.",
-      "title": "Denmark’s Billund Airport suffers major loss in passenger numbers",
-      "summary": "Fewer passengers travelled to and from Denmark’s second-largest airport Billund in the wake of budget airline Ryanair’s withdrawal in spring 2025.",
-      "url": "https://www.thelocal.dk/20260227/denmarks-billund-airport-suffers-major-loss-in-passenger-numbers",
-      "source": "The Local Denmark",
-      "published_at": "2026-02-27T12:04:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5d4265ca3d4464e0",
       "title_orig": "Boss of theatre hosting Chinese dance group Shen Yun in Sydney won’t be intimidated by ‘outrageous’ threats",
       "summary_orig": "Graeme Kearns, chief executive of Foundation Theatres, says: ‘Our job in theatre is to absolutely defend the right to tell stories about culture’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The head of the theatre hosting the Shen Yun dance troupe in Sydney says the company would not be intimidated to pull the shows by any “outrageous” anonymous threats and that the publicity had increased interest in the show. On Monday, the Gold Coast venue for the Shen Yun performances was forced to evacuate after a bomb threat, with a similar threat forcing the evacuation of Prime Minister Anthony Albanese’s official residence, The Lodge, in Canberra the next day. Continue reading...",
@@ -8719,33 +8269,6 @@
         "iata": "MIA",
         "lat": 25.7959,
         "lon": -80.287
-      }
-    },
-    {
-      "id": "1948db69ae3cd3c7",
-      "title_orig": "The new direct flights you can catch from Frankfurt this year",
-      "summary_orig": "New direct international flights are launching from Frankfurt Airport in 2026, giving travellers in Germany more options for short‑haul trips around Europe as well as more comfortable options for intercontinental travel.",
-      "lang": "en",
-      "title_en": "The new direct flights you can catch from Frankfurt this year",
-      "summary_en": "New direct international flights are launching from Frankfurt Airport in 2026, giving travellers in Germany more options for short‑haul trips around Europe as well as more comfortable options for intercontinental travel.",
-      "title": "The new direct flights you can catch from Frankfurt this year",
-      "summary": "New direct international flights are launching from Frankfurt Airport in 2026, giving travellers in Germany more options for short‑haul trips around Europe as well as more comfortable options for intercontinental travel.",
-      "url": "https://www.thelocal.de/20260226/listed-the-new-direct-flights-you-can-catch-from-frankfurt-this-year",
-      "source": "The Local Germany",
-      "published_at": "2026-02-26T15:41:14+00:00",
-      "tags": [
-        "FRA",
-        "Germany",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Frankfurt",
-        "city": "Frankfurt",
-        "country": "Germany",
-        "iata": "FRA",
-        "lat": 50.0379,
-        "lon": 8.5622
       }
     },
     {
@@ -9019,24 +8542,6 @@
       "geo": {}
     },
     {
-      "id": "cb0ffb588a531a40",
-      "title_orig": "KEY POINTS: What changes about life in Spain in March 2026",
-      "summary_orig": "The deadline for declaring world assets and crypto assets, new Schengen entry rules at the Gibraltar border, several strikes, new flights, clocks change - here's everything that's new about life in Spain in March 2026.",
-      "lang": "en",
-      "title_en": "KEY POINTS: What changes about life in Spain in March 2026",
-      "summary_en": "The deadline for declaring world assets and crypto assets, new Schengen entry rules at the Gibraltar border, several strikes, new flights, clocks change - here's everything that's new about life in Spain in March 2026.",
-      "title": "KEY POINTS: What changes about life in Spain in March 2026",
-      "summary": "The deadline for declaring world assets and crypto assets, new Schengen entry rules at the Gibraltar border, several strikes, new flights, clocks change - here's everything that's new about life in Spain in March 2026.",
-      "url": "https://www.thelocal.es/20260218/key-points-what-changes-about-life-in-spain-in-march-2026",
-      "source": "The Local Spain",
-      "published_at": "2026-02-18T15:57:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c1c43060c2b54f8b",
       "title_orig": "Teenagers arrested after nursery cyber attack",
       "summary_orig": "Cyber hackers allegedly used names and pictures of around 8,000 children from Kido nursery chain",
@@ -9102,6 +8607,186 @@
       "url": "https://www.telegraph.co.uk/news/2025/07/13/streeting-bma-hold-talks-avoid-doctor-strikes/",
       "source": "News",
       "published_at": "2025-07-13T06:00:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2d51097d0fe69208",
+      "title_orig": "Britain strikes Houthis for first time since Trump’s re-election",
+      "summary_orig": "MoD confirms joint military operation on drone manufacturing facility used by rebel group in Yemen",
+      "lang": "en",
+      "title_en": "Britain strikes Houthis for first time since Trump’s re-election",
+      "summary_en": "MoD confirms joint military operation on drone manufacturing facility used by rebel group in Yemen",
+      "title": "Britain strikes Houthis for first time since Trump’s re-election",
+      "summary": "MoD confirms joint military operation on drone manufacturing facility used by rebel group in Yemen",
+      "url": "https://www.telegraph.co.uk/news/2025/04/30/britain-strikes-houthis-yemen-first-time-trumps-reelection/",
+      "source": "News",
+      "published_at": "2025-04-30T05:17:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "abc91a8dc2a84c9a",
+      "title_orig": "Heathrow ‘forced to shut down because of net zero’",
+      "summary_orig": "Airport bosses face accusations that back-up power supply failed after they replaced diesel generator with biomass version",
+      "lang": "en",
+      "title_en": "Heathrow ‘forced to shut down because of net zero’",
+      "summary_en": "Airport bosses face accusations that back-up power supply failed after they replaced diesel generator with biomass version",
+      "title": "Heathrow ‘forced to shut down because of net zero’",
+      "summary": "Airport bosses face accusations that back-up power supply failed after they replaced diesel generator with biomass version",
+      "url": "https://www.telegraph.co.uk/news/2025/03/21/fire-rages-electrical-substation-hayes/",
+      "source": "News",
+      "published_at": "2025-03-21T15:52:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "09563148c4dbb30c",
+      "title_orig": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+      "summary_orig": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+      "lang": "en",
+      "title_en": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+      "summary_en": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+      "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+      "url": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+      "source": "WSJ.com: World News",
+      "published_at": "2025-01-27T17:12:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9029fb372314b997",
+      "title_orig": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+      "summary_orig": "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.",
+      "lang": "en",
+      "title_en": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+      "summary_en": "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.",
+      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+      "summary": "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.",
+      "url": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+      "source": "WSJ.com: World News",
+      "published_at": "2025-01-27T12:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e0f34122598508cc",
+      "title_orig": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
+      "summary_orig": "Pilots’ actions after that strike are an early focus of the investigation, according to people familiar with the probe.",
+      "lang": "en",
+      "title_en": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
+      "summary_en": "Pilots’ actions after that strike are an early focus of the investigation, according to people familiar with the probe.",
+      "title": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
+      "summary": "Pilots’ actions after that strike are an early focus of the investigation, according to people familiar with the probe.",
+      "url": "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff",
+      "source": "WSJ.com: World News",
+      "published_at": "2025-01-27T03:53:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3b82566141f5ffa6",
+      "title_orig": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+      "summary_orig": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+      "lang": "en",
+      "title_en": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+      "summary_en": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+      "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+      "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+      "url": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc",
+      "source": "WSJ.com: World News",
+      "published_at": "2025-01-26T23:30:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "442b8f11ca99b6f5",
+      "title_orig": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
+      "summary_orig": "Aid workers estimate as many as 300,000 people are fleeing advances by the Rwandan-backed M23 rebel group, which has taken two strategic towns on the approaches to Goma over the past several days.",
+      "lang": "en",
+      "title_en": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
+      "summary_en": "Aid workers estimate as many as 300,000 people are fleeing advances by the Rwandan-backed M23 rebel group, which has taken two strategic towns on the approaches to Goma over the past several days.",
+      "title": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
+      "summary": "Aid workers estimate as many as 300,000 people are fleeing advances by the Rwandan-backed M23 rebel group, which has taken two strategic towns on the approaches to Goma over the past several days.",
+      "url": "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c",
+      "source": "WSJ.com: World News",
+      "published_at": "2025-01-25T14:32:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "44b816932cf90c0c",
+      "title_orig": "Friday evening news briefing: Fresh Just Stop Oil attack on Van Gogh’s Sunflowers",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Friday evening news briefing: Fresh Just Stop Oil attack on Van Gogh’s Sunflowers",
+      "summary_en": "",
+      "title": "Friday evening news briefing: Fresh Just Stop Oil attack on Van Gogh’s Sunflowers",
+      "summary": "",
+      "url": "https://www.telegraph.co.uk/news/2024/09/27/friday-evening-news-briefing-just-stop-oil-van-gogh/",
+      "source": "News",
+      "published_at": "2024-09-27T16:41:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c044098752252525",
+      "title_orig": "Tuesday evening news briefing: Exploding pagers kill eight and injure 3,000 in suspected Israeli attack on Hezbollah",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Tuesday evening news briefing: Exploding pagers kill eight and injure 3,000 in suspected Israeli attack on Hezbollah",
+      "summary_en": "",
+      "title": "Tuesday evening news briefing: Exploding pagers kill eight and injure 3,000 in suspected Israeli attack on Hezbollah",
+      "summary": "",
+      "url": "https://www.telegraph.co.uk/news/2024/09/17/tuesday-evening-news-briefing-exploding-pagers-kill-eight-a/",
+      "source": "News",
+      "published_at": "2024-09-17T16:35:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2d486ac4d31c0603",
+      "title_orig": "La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes",
+      "summary_orig": "La agresión de unos alumnos a una profesora ocurrió en Brasil y no en España",
+      "lang": "es",
+      "title_en": "The Prosecutor's Office files a complaint against a woman for tweeting a false video of migrant minors",
+      "summary_en": "The attack by some students on a teacher occurred in Brazil and not in Spain",
+      "title": "The Prosecutor's Office files a complaint against a woman for tweeting a false video of migrant minors",
+      "summary": "The attack by some students on a teacher occurred in Brazil and not in Spain",
+      "url": "https://elpais.com/ccaa/2020/02/27/catalunya/1582793229_305704.html#?ref=rss&format=simple&link=link",
+      "source": "Portada de EL PAÍS",
+      "published_at": "2020-02-27T11:21:28+00:00",
       "tags": [
         "airport/security"
       ],
