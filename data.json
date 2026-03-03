@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-03-03T22:59:04.554313+00:00",
+  "generated_at": "2026-03-03T23:26:53.713239+00:00",
   "items": [
+    {
+      "id": "e84955236e38183a",
+      "title_orig": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
+      "summary_orig": "Israel said it launched airstrikes against Iranian missile launchers and a nuclear research site Tuesday, and Iran struck back against Israel and across the Gulf region, targeting U.S. embassies and disrupting energy supplies and travel.",
+      "lang": "en",
+      "title_en": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
+      "summary_en": "Israel said it launched airstrikes against Iranian missile launchers and a nuclear research site Tuesday, and Iran struck back against Israel and across the Gulf region, targeting U.S. embassies and disrupting energy supplies and travel.",
+      "title": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
+      "summary": "Israel said it launched airstrikes against Iranian missile launchers and a nuclear research site Tuesday, and Iran struck back against Israel and across the Gulf region, targeting U.S. embassies and disrupting energy supplies and travel.",
+      "url": "https://www.startribune.com/us-embassy-in-saudi-arabia-hit-with-iranian-drones-as-american-and-israeli-attacks-on-iran-escalate/601591717",
+      "source": "Startribune News",
+      "published_at": "2026-03-03T23:17:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a6829d8ac1528ac1",
+      "title_orig": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
+      "summary_orig": "The attack from two drones on the U.S. Embassy in Riyadh caused a “limited fire” and minor damage, according to Saudi Arabia’s Defense Ministry, and the embassy urged Americans to avoid the compound.",
+      "lang": "en",
+      "title_en": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
+      "summary_en": "The attack from two drones on the U.S. Embassy in Riyadh caused a “limited fire” and minor damage, according to Saudi Arabia’s Defense Ministry, and the embassy urged Americans to avoid the compound.",
+      "title": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
+      "summary": "The attack from two drones on the U.S. Embassy in Riyadh caused a “limited fire” and minor damage, according to Saudi Arabia’s Defense Ministry, and the embassy urged Americans to avoid the compound.",
+      "url": "https://wtop.com/middle-east/2026/03/us-embassy-in-saudi-arabia-hit-with-iranian-drones-as-american-and-israeli-attacks-on-iran-escalate/",
+      "source": "WTOP News",
+      "published_at": "2026-03-03T23:15:17+00:00",
+      "tags": [
+        "airport/security",
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "83c93c5285699486",
       "title_orig": "Iran Live Updates: Countries Try to Help Nationals Escape a Widening Conflict",
@@ -12,11 +49,173 @@
       "summary": "President Trump said airstrikes had killed potential new leaders of Iran, leaving it unclear who would run the country. Financial markets slumped on fears of inflation, and the price of oil soared.",
       "url": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump",
       "source": "NYT > World News",
-      "published_at": "2026-03-03T22:48:21+00:00",
+      "published_at": "2026-03-03T23:14:52+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "d3fb7df7ab7c7cee",
+      "title_orig": "Años atrás, Trump advirtió que “se perderían vidas sin razón” en una guerra con Irán. Ahora él la lidera",
+      "summary_orig": "Mientras las fuerzas estadounidenses realizan operaciones de bombardeo dentro de Irán, el presidente Donald Trump y varios de sus principales…",
+      "lang": "es",
+      "title_en": "Years ago, Trump warned that “lives would be lost for no reason” in a war with Iran. Now he leads her",
+      "summary_en": "As US forces conduct bombing operations inside Iran, President Donald Trump and several of his top…",
+      "title": "Years ago, Trump warned that “lives would be lost for no reason” in a war with Iran. Now he leads her",
+      "summary": "As US forces conduct bombing operations inside Iran, President Donald Trump and several of his top…",
+      "url": "https://wtop.com/news/2026/03/anos-atras-trump-advirtio-que-se-perderian-vidas-sin-razon-en-una-guerra-con-iran-ahora-el-la-lidera/",
+      "source": "WTOP News",
+      "published_at": "2026-03-03T23:08:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b7cb19700288e110",
+      "title_orig": "Pentagon releases names of 4 of 6 troops killed in Iran war and says they died in a drone strike in Kuwait",
+      "summary_orig": "WASHINGTON (AP) — Pentagon releases names of 4 of 6 troops killed in Iran war and says they died in…",
+      "lang": "en",
+      "title_en": "Pentagon releases names of 4 of 6 troops killed in Iran war and says they died in a drone strike in Kuwait",
+      "summary_en": "WASHINGTON (AP) — Pentagon releases names of 4 of 6 troops killed in Iran war and says they died in…",
+      "title": "Pentagon releases names of 4 of 6 troops killed in Iran war and says they died in a drone strike in Kuwait",
+      "summary": "WASHINGTON (AP) — Pentagon releases names of 4 of 6 troops killed in Iran war and says they died in…",
+      "url": "https://wtop.com/news/2026/03/pentagon-releases-names-of-4-of-6-troops-killed-in-iran-war-and-says-they-died-in-a-drone-strike-in-kuwait/",
+      "source": "WTOP News",
+      "published_at": "2026-03-03T23:08:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "79195abe3110e5a2",
+      "title_orig": "Iranians Viewed by U.S. as Potential Leaders Died in Strikes, Trump Says",
+      "summary_orig": "With the future of Iran deeply uncertain, President Trump acknowledged that it could end up with a ruler “as bad” as Ayatollah Ali Khamenei.",
+      "lang": "en",
+      "title_en": "Iranians Viewed by U.S. as Potential Leaders Died in Strikes, Trump Says",
+      "summary_en": "With the future of Iran deeply uncertain, President Trump acknowledged that it could end up with a ruler “as bad” as Ayatollah Ali Khamenei.",
+      "title": "Iranians Viewed by U.S. as Potential Leaders Died in Strikes, Trump Says",
+      "summary": "With the future of Iran deeply uncertain, President Trump acknowledged that it could end up with a ruler “as bad” as Ayatollah Ali Khamenei.",
+      "url": "https://www.nytimes.com/2026/03/03/world/middleeast/iranian-leaders-trum.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-03T23:02:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "5c2765c816bd2708",
+      "title_orig": "Lightning Strikes: Royal Air Force F-35B Logs Its First Combat Kill",
+      "summary_orig": "The incident occurred in Jordan.",
+      "lang": "en",
+      "title_en": "Lightning Strikes: Royal Air Force F-35B Logs Its First Combat Kill",
+      "summary_en": "The incident occurred in Jordan.",
+      "title": "Lightning Strikes: Royal Air Force F-35B Logs Its First Combat Kill",
+      "summary": "The incident occurred in Jordan.",
+      "url": "https://simpleflying.com/lightning-strikes-royal-air-force-f-35b-logs-first-combat-kill/",
+      "source": "Simple Flying",
+      "published_at": "2026-03-03T23:00:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d838afff090128a2",
+      "title_orig": "Middle East crisis live: US military says it has hit more than 1,700 targets since it began war on Iran",
+      "summary_orig": "The targets hit include missile sites, navy ships, submarines and control centres, US Central Command said Trump administration has still not settled on reasons for war Middle East attacks intensify as Trump rejects Iran’s attempt to talk US secretary of state Marco Rubio has claimed the US attacked Iran after learning that Israel was going to strike, which would have meant retaliation against US forces. “We knew that if we didn’t pre-emptively go after them before they launched those attacks, we would suffer higher casualties,” he told reporters The Air Force is now attacking Tehran and Beirut simultaneously The Air Force has now begun a wave of extensive strikes against the Iranian terror regime and the Hezbollah terror organization. Continue reading...",
+      "lang": "en",
+      "title_en": "Middle East crisis live: US military says it has hit more than 1,700 targets since it began war on Iran",
+      "summary_en": "The targets hit include missile sites, navy ships, submarines and control centres, US Central Command said Trump administration has still not settled on reasons for war Middle East attacks intensify as Trump rejects Iran’s attempt to talk US secretary of state Marco Rubio has claimed the US attacked Iran after learning that Israel was going to strike, which would have meant retaliation against US forces. “We knew that if we didn’t pre-emptively go after them before they launched those attacks, we would suffer higher casualties,” he told reporters The Air Force is now attacking Tehran and Beirut simultaneously The Air Force has now begun a wave of extensive strikes against the Iranian terror regime and the Hezbollah terror organization. Continue reading...",
+      "title": "Middle East crisis live: US military says it has hit more than 1,700 targets since it began war on Iran",
+      "summary": "The targets hit include missile sites, navy ships, submarines and control centres, US Central Command said Trump administration has still not settled on reasons for war Middle East attacks intensify as Trump rejects Iran’s attempt to talk US secretary of state Marco Rubio has claimed the US attacked Iran after learning that Israel was going to strike, which would have meant retaliation against US forces. “We knew that if we didn’t pre-emptively go after them before they launched those attacks, we would suffer higher casualties,” he told reporters The Air Force is now attacking Tehran and Beirut simultaneously The Air Force has now begun a wave of extensive strikes against the Iranian terror regime and the Hezbollah terror organization. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/mar/03/us-israel-war-iran-live-updates-attacks-strikes-trump-netanyahu-lebanon-middle-east-latest-news",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-03T23:00:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "cc07597bfaab388e",
+      "title_orig": "SIA plane clips tail of Spirit Airlines jet at US airport; no injuries reported",
+      "summary_orig": "Spirit's plane was grounded for inspection, while SIA's was cleared and its flight rescheduled.",
+      "lang": "en",
+      "title_en": "SIA plane clips tail of Spirit Airlines jet at US airport; no injuries reported",
+      "summary_en": "Spirit's plane was grounded for inspection, while SIA's was cleared and its flight rescheduled.",
+      "title": "SIA plane clips tail of Spirit Airlines jet at US airport; no injuries reported",
+      "summary": "Spirit's plane was grounded for inspection, while SIA's was cleared and its flight rescheduled.",
+      "url": "https://www.straitstimes.com/world/sia-plane-clips-tail-of-spirit-airlines-jet-at-us-airport-no-injuries-reported",
+      "source": "The Straits Times World News",
+      "published_at": "2026-03-03T22:59:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "de95b1088fdd1b80",
+      "title_orig": "Trump Threatens to End Trade With Spain",
+      "summary_orig": "His anger stems from the country’s denial of the use of its military bases to U.S. forces involved in the attack against Iran. Spain didn’t seem fazed.",
+      "lang": "en",
+      "title_en": "Trump Threatens to End Trade With Spain",
+      "summary_en": "His anger stems from the country’s denial of the use of its military bases to U.S. forces involved in the attack against Iran. Spain didn’t seem fazed.",
+      "title": "Trump Threatens to End Trade With Spain",
+      "summary": "His anger stems from the country’s denial of the use of its military bases to U.S. forces involved in the attack against Iran. Spain didn’t seem fazed.",
+      "url": "https://www.nytimes.com/2026/03/03/world/middleeast/trump-spain-trade.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-03T22:58:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "78e92f7f736aa1f0",
+      "title_orig": "Australia politics live: Minns admits to ‘strained’ relationship with Muslim community; first Sydney flight since war leaves Dubai",
+      "summary_orig": "Liverpool mayor says premier has a ‘fetish’ for attacking the Muslim community. Follow today’s news live Get our breaking news email , free app or daily news podcast Farrell says $15bn of trade could be impacted by war Labor’s trade minister, Don Farrell , says a “relatively small” amount of Australia’s exports go through the Middle East as the war escalates in the region. A relatively small amount, about $15bn worth of trade goes through the Middle East. Obviously, that’s very important for those companies that are trading there. Our trade is, in fact, increasing in the Middle East. We now have a free trade agreement with the United Arab Emirates. Already, our beef trade has doubled in the six months that that trade agreement has been in operation. But of course, all of that gets affected by this uncertainty of the war in the Middle East. The legal basis of these strikes is ultimately a matter for the United States and Iran, sorry, and Israel, is ultimately a matter for the United States and Israel. We know Iran has failed to comply with UN security council resolutions on its nuclear program. We know what Iran has been doing over many years. I think it is important for us to remember this has not started with these strikes. This has been going on for decades, including in Australia. Continue reading...",
+      "lang": "en",
+      "title_en": "Australia politics live: Minns admits to ‘strained’ relationship with Muslim community; first Sydney flight since war leaves Dubai",
+      "summary_en": "Liverpool mayor says premier has a ‘fetish’ for attacking the Muslim community. Follow today’s news live Get our breaking news email , free app or daily news podcast Farrell says $15bn of trade could be impacted by war Labor’s trade minister, Don Farrell , says a “relatively small” amount of Australia’s exports go through the Middle East as the war escalates in the region. A relatively small amount, about $15bn worth of trade goes through the Middle East. Obviously, that’s very important for those companies that are trading there. Our trade is, in fact, increasing in the Middle East. We now have a free trade agreement with the United Arab Emirates. Already, our beef trade has doubled in the six months that that trade agreement has been in operation. But of course, all of that gets affected by this uncertainty of the war in the Middle East. The legal basis of these strikes is ultimately a matter for the United States and Iran, sorry, and Israel, is ultimately a matter for the United States and Israel. We know Iran has failed to comply with UN security council resolutions on its nuclear program. We know what Iran has been doing over many years. I think it is important for us to remember this has not started with these strikes. This has been going on for decades, including in Australia. Continue reading...",
+      "title": "Australia politics live: Minns admits to ‘strained’ relationship with Muslim community; first Sydney flight since war leaves Dubai",
+      "summary": "Liverpool mayor says premier has a ‘fetish’ for attacking the Muslim community. Follow today’s news live Get our breaking news email , free app or daily news podcast Farrell says $15bn of trade could be impacted by war Labor’s trade minister, Don Farrell , says a “relatively small” amount of Australia’s exports go through the Middle East as the war escalates in the region. A relatively small amount, about $15bn worth of trade goes through the Middle East. Obviously, that’s very important for those companies that are trading there. Our trade is, in fact, increasing in the Middle East. We now have a free trade agreement with the United Arab Emirates. Already, our beef trade has doubled in the six months that that trade agreement has been in operation. But of course, all of that gets affected by this uncertainty of the war in the Middle East. The legal basis of these strikes is ultimately a matter for the United States and Iran, sorry, and Israel, is ultimately a matter for the United States and Israel. We know Iran has failed to comply with UN security council resolutions on its nuclear program. We know what Iran has been doing over many years. I think it is important for us to remember this has not started with these strikes. This has been going on for decades, including in Australia. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/04/politics-live-albanese-prime-minister-question-time-angus-taylor-cost-of-living-middle-east-work-from-home-victoria-ntwnfb",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-03T22:58:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1830cad9f46518e4",
+      "title_orig": "How many people have been killed in the Iran war so far? The numbers by country",
+      "summary_orig": "Scores of lives have been lost since the US and Israel launched attacks on Iran",
+      "lang": "en",
+      "title_en": "How many people have been killed in the Iran war so far? The numbers by country",
+      "summary_en": "Scores of lives have been lost since the US and Israel launched attacks on Iran",
+      "title": "How many people have been killed in the Iran war so far? The numbers by country",
+      "summary": "Scores of lives have been lost since the US and Israel launched attacks on Iran",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-war-deaths-killed-us-israel-strikes-b2931425.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-03T22:49:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -31,6 +230,24 @@
       "url": "https://www.nytimes.com/2026/03/02/world/middleeast/lebanon-hezbollah-israel-strikes.html",
       "source": "NYT > World News",
       "published_at": "2026-03-03T22:46:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "07047f849e36bd11",
+      "title_orig": "Kristi Noem refuses to retract statement calling Minnesotans killed by federal agents ‘domestic terrorists’",
+      "summary_orig": "Homeland security secretary was grilled in Senate hearing over immigration enforcement crackdown in Twin Cities US politics live – latest updates Sign up for the Breaking News US email to get newsletter alerts in your inbox The secretary of the Department of Homeland Security (DHS), Kristi Noem , on Tuesday would not retract her statements calling the two US citizens who were killed by immigration enforcement officers in Minneapolis earlier this year “domestic terrorists”, while also claiming that agents do not abide by quotas for arrests. Appearing before Congress for the first time since the killings, Noem evaded a question by the Senate judiciary committee ranking member, Dick Durbin, a Democrat from Illinois, about whether she would take back the false accusations about Renee Good and Alex Pretti . Continue reading...",
+      "lang": "en",
+      "title_en": "Kristi Noem refuses to retract statement calling Minnesotans killed by federal agents ‘domestic terrorists’",
+      "summary_en": "Homeland security secretary was grilled in Senate hearing over immigration enforcement crackdown in Twin Cities US politics live – latest updates Sign up for the Breaking News US email to get newsletter alerts in your inbox The secretary of the Department of Homeland Security (DHS), Kristi Noem , on Tuesday would not retract her statements calling the two US citizens who were killed by immigration enforcement officers in Minneapolis earlier this year “domestic terrorists”, while also claiming that agents do not abide by quotas for arrests. Appearing before Congress for the first time since the killings, Noem evaded a question by the Senate judiciary committee ranking member, Dick Durbin, a Democrat from Illinois, about whether she would take back the false accusations about Renee Good and Alex Pretti . Continue reading...",
+      "title": "Kristi Noem refuses to retract statement calling Minnesotans killed by federal agents ‘domestic terrorists’",
+      "summary": "Homeland security secretary was grilled in Senate hearing over immigration enforcement crackdown in Twin Cities US politics live – latest updates Sign up for the Breaking News US email to get newsletter alerts in your inbox The secretary of the Department of Homeland Security (DHS), Kristi Noem , on Tuesday would not retract her statements calling the two US citizens who were killed by immigration enforcement officers in Minneapolis earlier this year “domestic terrorists”, while also claiming that agents do not abide by quotas for arrests. Appearing before Congress for the first time since the killings, Noem evaded a question by the Senate judiciary committee ranking member, Dick Durbin, a Democrat from Illinois, about whether she would take back the false accusations about Renee Good and Alex Pretti . Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/mar/03/kristi-noem-senate-hearing-minnesota-ice-shootings",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-03T22:45:25+00:00",
       "tags": [
         "airport/security"
       ],
@@ -56,17 +273,35 @@
       "geo": {}
     },
     {
-      "id": "d838afff090128a2",
-      "title_orig": "Middle East crisis live: US military says it has hit more than 1,700 targets since it began war on Iran",
-      "summary_orig": "The targets hit include missile sites, navy ships, submarines and control centres, US Central Command said Trump administration has still not settled on reasons for war Middle East attacks intensify as Trump rejects Iran’s attempt to talk US secretary of state Marco Rubio has claimed the US attacked Iran after learning that Israel was going to strike, which would have meant retaliation against US forces. “We knew that if we didn’t pre-emptively go after them before they launched those attacks, we would suffer higher casualties,” he told reporters The Air Force is now attacking Tehran and Beirut simultaneously The Air Force has now begun a wave of extensive strikes against the Iranian terror regime and the Hezbollah terror organization. Continue reading...",
+      "id": "ef24e292de1fff49",
+      "title_orig": "CCTV captures moment Kiwi woman busted with 38kg of meth at Australian airport",
+      "summary_orig": "Presumptive testing returned a positive result for methamphetamine, authorities say.",
       "lang": "en",
-      "title_en": "Middle East crisis live: US military says it has hit more than 1,700 targets since it began war on Iran",
-      "summary_en": "The targets hit include missile sites, navy ships, submarines and control centres, US Central Command said Trump administration has still not settled on reasons for war Middle East attacks intensify as Trump rejects Iran’s attempt to talk US secretary of state Marco Rubio has claimed the US attacked Iran after learning that Israel was going to strike, which would have meant retaliation against US forces. “We knew that if we didn’t pre-emptively go after them before they launched those attacks, we would suffer higher casualties,” he told reporters The Air Force is now attacking Tehran and Beirut simultaneously The Air Force has now begun a wave of extensive strikes against the Iranian terror regime and the Hezbollah terror organization. Continue reading...",
-      "title": "Middle East crisis live: US military says it has hit more than 1,700 targets since it began war on Iran",
-      "summary": "The targets hit include missile sites, navy ships, submarines and control centres, US Central Command said Trump administration has still not settled on reasons for war Middle East attacks intensify as Trump rejects Iran’s attempt to talk US secretary of state Marco Rubio has claimed the US attacked Iran after learning that Israel was going to strike, which would have meant retaliation against US forces. “We knew that if we didn’t pre-emptively go after them before they launched those attacks, we would suffer higher casualties,” he told reporters The Air Force is now attacking Tehran and Beirut simultaneously The Air Force has now begun a wave of extensive strikes against the Iranian terror regime and the Hezbollah terror organization. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/mar/03/us-israel-war-iran-live-updates-attacks-strikes-trump-netanyahu-lebanon-middle-east-latest-news",
+      "title_en": "CCTV captures moment Kiwi woman busted with 38kg of meth at Australian airport",
+      "summary_en": "Presumptive testing returned a positive result for methamphetamine, authorities say.",
+      "title": "CCTV captures moment Kiwi woman busted with 38kg of meth at Australian airport",
+      "summary": "Presumptive testing returned a positive result for methamphetamine, authorities say.",
+      "url": "https://www.stuff.co.nz/nz-news/360946530/cctv-captures-moment-kiwi-woman-busted-38kg-meth-australian-airport",
+      "source": "Stuff - /",
+      "published_at": "2026-03-03T22:43:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a53447322e2c2e72",
+      "title_orig": "Rubio tries to backtrack after Israel comments later contradicted by Trump trigger criticism – live",
+      "summary_orig": "US president said Tuesday he ‘might have forced Israel’s hand’ in attack Iran, day after Rubio said Israel planned to strike Iran first People in the US: share your views of the Iran conflict Sign up for the Breaking News US email to get newsletter alerts in your inbox In a late night post on Truth Social, Donald Trump said that the US munition stockpiles “at the medium and upper medium grade” have “never been higher or better”. He added that the US has a “virtually unlimited supply of these weapons”, meaning that “wars can be fought ‘forever’”. Continue reading...",
+      "lang": "en",
+      "title_en": "Rubio tries to backtrack after Israel comments later contradicted by Trump trigger criticism – live",
+      "summary_en": "US president said Tuesday he ‘might have forced Israel’s hand’ in attack Iran, day after Rubio said Israel planned to strike Iran first People in the US: share your views of the Iran conflict Sign up for the Breaking News US email to get newsletter alerts in your inbox In a late night post on Truth Social, Donald Trump said that the US munition stockpiles “at the medium and upper medium grade” have “never been higher or better”. He added that the US has a “virtually unlimited supply of these weapons”, meaning that “wars can be fought ‘forever’”. Continue reading...",
+      "title": "Rubio tries to backtrack after Israel comments later contradicted by Trump trigger criticism – live",
+      "summary": "US president said Tuesday he ‘might have forced Israel’s hand’ in attack Iran, day after Rubio said Israel planned to strike Iran first People in the US: share your views of the Iran conflict Sign up for the Breaking News US email to get newsletter alerts in your inbox In a late night post on Truth Social, Donald Trump said that the US munition stockpiles “at the medium and upper medium grade” have “never been higher or better”. He added that the US has a “virtually unlimited supply of these weapons”, meaning that “wars can be fought ‘forever’”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
       "source": "World news | The Guardian",
-      "published_at": "2026-03-03T22:39:41+00:00",
+      "published_at": "2026-03-03T22:43:01+00:00",
       "tags": [
         "airport/security"
       ],
@@ -85,24 +320,6 @@
       "url": "https://www.nytimes.com/2026/03/03/world/middleeast/trump-tankers-hormuz.html",
       "source": "NYT > World News",
       "published_at": "2026-03-03T22:35:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "a53447322e2c2e72",
-      "title_orig": "Trump insists Israel did not force US hand on Iran attack as he meets German chancellor – live",
-      "summary_orig": "US president appears to contradict Marco Rubio remarks that Israel planned to strike Iran first, claiming ‘If anything, I might have forced Israel’s hand’ People in the US: share your views of the Iran conflict Sign up for the Breaking News US email to get newsletter alerts in your inbox In a late night post on Truth Social, Donald Trump said that the US munition stockpiles “at the medium and upper medium grade” have “never been higher or better”. He added that the US has a “virtually unlimited supply of these weapons”, meaning that “wars can be fought ‘forever’”. Continue reading...",
-      "lang": "en",
-      "title_en": "Trump insists Israel did not force US hand on Iran attack as he meets German chancellor – live",
-      "summary_en": "US president appears to contradict Marco Rubio remarks that Israel planned to strike Iran first, claiming ‘If anything, I might have forced Israel’s hand’ People in the US: share your views of the Iran conflict Sign up for the Breaking News US email to get newsletter alerts in your inbox In a late night post on Truth Social, Donald Trump said that the US munition stockpiles “at the medium and upper medium grade” have “never been higher or better”. He added that the US has a “virtually unlimited supply of these weapons”, meaning that “wars can be fought ‘forever’”. Continue reading...",
-      "title": "Trump insists Israel did not force US hand on Iran attack as he meets German chancellor – live",
-      "summary": "US president appears to contradict Marco Rubio remarks that Israel planned to strike Iran first, claiming ‘If anything, I might have forced Israel’s hand’ People in the US: share your views of the Iran conflict Sign up for the Breaking News US email to get newsletter alerts in your inbox In a late night post on Truth Social, Donald Trump said that the US munition stockpiles “at the medium and upper medium grade” have “never been higher or better”. He added that the US has a “virtually unlimited supply of these weapons”, meaning that “wars can be fought ‘forever’”. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-03T22:27:21+00:00",
       "tags": [
         "airport/security"
       ],
@@ -200,21 +417,21 @@
       "geo": {}
     },
     {
-      "id": "e84955236e38183a",
-      "title_orig": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
-      "summary_orig": "Israel said it launched airstrikes against Iranian missile launchers and a nuclear research site Tuesday, and Iran struck back against Israel and across the Gulf region, targeting U.S. embassies and disrupting energy supplies and travel.",
+      "id": "5e11fb15047fe552",
+      "title_orig": "Qatar announces arrest of Iran’s IRGC sleeper cells",
+      "summary_orig": "Tehran has launched multiple attacks on Qatar and other Gulf states since US-Israeli strikes on Iran began on Saturday.",
       "lang": "en",
-      "title_en": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
-      "summary_en": "Israel said it launched airstrikes against Iranian missile launchers and a nuclear research site Tuesday, and Iran struck back against Israel and across the Gulf region, targeting U.S. embassies and disrupting energy supplies and travel.",
-      "title": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
-      "summary": "Israel said it launched airstrikes against Iranian missile launchers and a nuclear research site Tuesday, and Iran struck back against Israel and across the Gulf region, targeting U.S. embassies and disrupting energy supplies and travel.",
-      "url": "https://www.startribune.com/us-embassy-in-saudi-arabia-hit-with-iranian-drones-as-american-and-israeli-attacks-on-iran-escalate/601591717",
-      "source": "Startribune News",
-      "published_at": "2026-03-03T22:12:02+00:00",
+      "title_en": "Qatar announces arrest of Iran’s IRGC sleeper cells",
+      "summary_en": "Tehran has launched multiple attacks on Qatar and other Gulf states since US-Israeli strikes on Iran began on Saturday.",
+      "title": "Qatar announces arrest of Iran’s IRGC sleeper cells",
+      "summary": "Tehran has launched multiple attacks on Qatar and other Gulf states since US-Israeli strikes on Iran began on Saturday.",
+      "url": "https://www.aljazeera.com/news/2026/3/3/qatar-announces-arrest-of-iranian-irgc-sleeper-cells?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-03-03T22:13:33+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -291,25 +508,6 @@
       "geo": {}
     },
     {
-      "id": "a6829d8ac1528ac1",
-      "title_orig": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
-      "summary_orig": "The attack from two drones on the U.S. Embassy in Riyadh caused a “limited fire” and minor damage, according to Saudi Arabia’s Defense Ministry, and the embassy urged Americans to avoid the compound.",
-      "lang": "en",
-      "title_en": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
-      "summary_en": "The attack from two drones on the U.S. Embassy in Riyadh caused a “limited fire” and minor damage, according to Saudi Arabia’s Defense Ministry, and the embassy urged Americans to avoid the compound.",
-      "title": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
-      "summary": "The attack from two drones on the U.S. Embassy in Riyadh caused a “limited fire” and minor damage, according to Saudi Arabia’s Defense Ministry, and the embassy urged Americans to avoid the compound.",
-      "url": "https://wtop.com/middle-east/2026/03/us-embassy-in-saudi-arabia-hit-with-iranian-drones-as-american-and-israeli-attacks-on-iran-escalate/",
-      "source": "WTOP News",
-      "published_at": "2026-03-03T22:07:11+00:00",
-      "tags": [
-        "airport/security",
-        "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "51509e0d1ca6914f",
       "title_orig": "Iran-US live updates: Trump says strikes killed Iranian successors he ‘had in mind’ as he lashes out at US allies",
       "summary_orig": "Donald Trump earlier today boasted about how Iran’s forces had been shattered by four days of strikes",
@@ -365,12 +563,12 @@
     },
     {
       "id": "622be46bc189ff29",
-      "title_orig": "How the WA man charged with plotting a terrorist act legally kept his guns",
+      "title_orig": "How the WA man charged with plotting a terrorist act legally owned guns",
       "summary_orig": "Western Australia is transitioning to tougher firearms laws — but despite the changes, 20-year-old Jayson Joseph Michaels and his father were allowed to keep their collection of seven guns at the family's Bindoon home.",
       "lang": "en",
-      "title_en": "How the WA man charged with plotting a terrorist act legally kept his guns",
+      "title_en": "How the WA man charged with plotting a terrorist act legally owned guns",
       "summary_en": "Western Australia is transitioning to tougher firearms laws — but despite the changes, 20-year-old Jayson Joseph Michaels and his father were allowed to keep their collection of seven guns at the family's Bindoon home.",
-      "title": "How the WA man charged with plotting a terrorist act legally kept his guns",
+      "title": "How the WA man charged with plotting a terrorist act legally owned guns",
       "summary": "Western Australia is transitioning to tougher firearms laws — but despite the changes, 20-year-old Jayson Joseph Michaels and his father were allowed to keep their collection of seven guns at the family's Bindoon home.",
       "url": "https://www.abc.net.au/news/2026-03-04/case-of-wa-terror-accused-highlights-limitations-of-wa-gun-laws/106411970",
       "source": "Just In",
@@ -634,24 +832,6 @@
       "geo": {}
     },
     {
-      "id": "de95b1088fdd1b80",
-      "title_orig": "Trump Threatens to End Trade With Spain",
-      "summary_orig": "His anger stems from the country’s denial of the use of its military bases to U.S. forces involved in the attack against Iran. Spain didn’t seem fazed.",
-      "lang": "en",
-      "title_en": "Trump Threatens to End Trade With Spain",
-      "summary_en": "His anger stems from the country’s denial of the use of its military bases to U.S. forces involved in the attack against Iran. Spain didn’t seem fazed.",
-      "title": "Trump Threatens to End Trade With Spain",
-      "summary": "His anger stems from the country’s denial of the use of its military bases to U.S. forces involved in the attack against Iran. Spain didn’t seem fazed.",
-      "url": "https://www.nytimes.com/2026/03/03/world/middleeast/trump-spain-trade.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-03T21:17:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "8c662e31c1a6f34a",
       "title_orig": "Middle East conflict widens as Israeli, US strikes again hit Iran; oil soars, shares slide",
       "summary_orig": "Iranian drones struck the US embassy in Saudi Arabia after previously hitting the mission in Kuwait.",
@@ -762,24 +942,6 @@
       "geo": {}
     },
     {
-      "id": "58492b6d3b9b8a56",
-      "title_orig": "Trump hits out at UK and Spain as he talks up Iran strikes",
-      "summary_orig": "The US president says Iran's navy, air force and air detection systems have been \"knocked out\", as Israeli and US forces keep pounding targets across the country.",
-      "lang": "en",
-      "title_en": "Trump hits out at UK and Spain as he talks up Iran strikes",
-      "summary_en": "The US president says Iran's navy, air force and air detection systems have been \"knocked out\", as Israeli and US forces keep pounding targets across the country.",
-      "title": "Trump hits out at UK and Spain as he talks up Iran strikes",
-      "summary": "The US president says Iran's navy, air force and air detection systems have been \"knocked out\", as Israeli and US forces keep pounding targets across the country.",
-      "url": "https://www.abc.net.au/news/2026-03-04/donald-trump-says-everything-knocked-out-in-iran-strikes/106412642",
-      "source": "Just In",
-      "published_at": "2026-03-03T21:07:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f352d7ae9c8f54d3",
       "title_orig": "US offering military support, insurance for Middle East oil and gas shipments",
       "summary_orig": "Trump’s announcement is the first sign his administration is starting to take seriously the surge in fuel prices that began after the start of the U.S.-Israeli attacks against Iran.",
@@ -800,12 +962,12 @@
     {
       "id": "9962fe5bcbc2156d",
       "title_orig": "Trump denies that Israel forced US’s hand in launching strikes against Iran",
-      "summary_orig": "US president attempts to counter simmering anti-Israeli backlash in Congress and among Maga supporters Donald Trump attempted to counter a simmering anti-Israel backlash in Congress and among his own Maga supporters on Tuesday by denying suggestions that he had been bounced into attacking Iran because Israel had already decided to do so. Amid growing criticism among opponents and allies alike, Trump rebuffed claims that he had struck Iran only because Israel had forced his hand, a suspicion fueled by comments made by the secretary of state, Marco Rubio . Continue reading...",
+      "summary_orig": "US president attempts to counter simmering anti-Israeli backlash in Congress and among Maga supporters Donald Trump attempted to counter a simmering anti- Israel backlash in Congress and among his own Maga supporters on Tuesday by denying suggestions that he had been bounced into attacking Iran because Israel had already decided to do so. Amid growing criticism among opponents and allies alike, Trump rebuffed claims that he had struck Iran only because Israel had forced his hand, a suspicion fueled by comments made by Marco Rubio , the secretary of state. Continue reading...",
       "lang": "en",
       "title_en": "Trump denies that Israel forced US’s hand in launching strikes against Iran",
-      "summary_en": "US president attempts to counter simmering anti-Israeli backlash in Congress and among Maga supporters Donald Trump attempted to counter a simmering anti-Israel backlash in Congress and among his own Maga supporters on Tuesday by denying suggestions that he had been bounced into attacking Iran because Israel had already decided to do so. Amid growing criticism among opponents and allies alike, Trump rebuffed claims that he had struck Iran only because Israel had forced his hand, a suspicion fueled by comments made by the secretary of state, Marco Rubio . Continue reading...",
+      "summary_en": "US president attempts to counter simmering anti-Israeli backlash in Congress and among Maga supporters Donald Trump attempted to counter a simmering anti- Israel backlash in Congress and among his own Maga supporters on Tuesday by denying suggestions that he had been bounced into attacking Iran because Israel had already decided to do so. Amid growing criticism among opponents and allies alike, Trump rebuffed claims that he had struck Iran only because Israel had forced his hand, a suspicion fueled by comments made by Marco Rubio , the secretary of state. Continue reading...",
       "title": "Trump denies that Israel forced US’s hand in launching strikes against Iran",
-      "summary": "US president attempts to counter simmering anti-Israeli backlash in Congress and among Maga supporters Donald Trump attempted to counter a simmering anti-Israel backlash in Congress and among his own Maga supporters on Tuesday by denying suggestions that he had been bounced into attacking Iran because Israel had already decided to do so. Amid growing criticism among opponents and allies alike, Trump rebuffed claims that he had struck Iran only because Israel had forced his hand, a suspicion fueled by comments made by the secretary of state, Marco Rubio . Continue reading...",
+      "summary": "US president attempts to counter simmering anti-Israeli backlash in Congress and among Maga supporters Donald Trump attempted to counter a simmering anti- Israel backlash in Congress and among his own Maga supporters on Tuesday by denying suggestions that he had been bounced into attacking Iran because Israel had already decided to do so. Amid growing criticism among opponents and allies alike, Trump rebuffed claims that he had struck Iran only because Israel had forced his hand, a suspicion fueled by comments made by Marco Rubio , the secretary of state. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/mar/03/trump-israel-iran-war",
       "source": "World news | The Guardian",
       "published_at": "2026-03-03T21:01:38+00:00",
@@ -925,17 +1087,17 @@
       "geo": {}
     },
     {
-      "id": "c17c9d5a45bb9f24",
-      "title_orig": "Israel sends troops into Lebanon as Hezbollah says it is ready for ‘open war’",
-      "summary_orig": "The development came after Hezbollah fired rockets and launched drones early Monday toward northern Israel.",
+      "id": "7278b2e4f1981fbb",
+      "title_orig": "Trump threatens Spain ties over Iran war refusal",
+      "summary_orig": "WASHINGTON (UNITED STATES) - US President Donald Trump threatened Tuesday to sever all trade with Spain after it refused to let US planes use its bases to attack Iran, while also lashing out at Britain for not cooperating more.",
       "lang": "en",
-      "title_en": "Israel sends troops into Lebanon as Hezbollah says it is ready for ‘open war’",
-      "summary_en": "The development came after Hezbollah fired rockets and launched drones early Monday toward northern Israel.",
-      "title": "Israel sends troops into Lebanon as Hezbollah says it is ready for ‘open war’",
-      "summary": "The development came after Hezbollah fired rockets and launched drones early Monday toward northern Israel.",
-      "url": "https://www.stuff.co.nz/world-news/360946438/israel-sends-troops-southern-lebanon-hezbollah-says-it-ready-open-war",
-      "source": "Stuff - /",
-      "published_at": "2026-03-03T20:48:59+00:00",
+      "title_en": "Trump threatens Spain ties over Iran war refusal",
+      "summary_en": "WASHINGTON (UNITED STATES) - US President Donald Trump threatened Tuesday to sever all trade with Spain after it refused to let US planes use its bases to attack Iran, while also lashing out at Britain for not cooperating more.",
+      "title": "Trump threatens Spain ties over Iran war refusal",
+      "summary": "WASHINGTON (UNITED STATES) - US President Donald Trump threatened Tuesday to sever all trade with Spain after it refused to let US planes use its bases to attack Iran, while also lashing out at Britain for not cooperating more.",
+      "url": "https://www.bangkokpost.com/world/3209508/trump-threatens-spain-ties-over-iran-war-refusal",
+      "source": "Bangkokpost.com : Top Stories",
+      "published_at": "2026-03-03T20:50:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1071,13 +1233,13 @@
     },
     {
       "id": "7aebdf882ab70724",
-      "title_orig": "Trump says he’ll cut off trade with Spain over Iran war stance",
-      "summary_orig": "Donald Trump said he would “cut off all trade with Spain” after the country denied access to its military bases for his bombing campaign against Iran, spurring a sharp rebuke from Madrid that the US president must respect international trade agreements.\n“I told Scott to cut off all dealings with Spain,” Trump said on Tuesday during a meeting at the White House, referring to US Treasury Secretary Scott Bessent.\nTrump did not explain how he planned to follow through with that threat, which could...",
+      "title_orig": "Trump slams European allies, praises China and continues to justify Iran attack",
+      "summary_orig": "US President Donald Trump used a White House meeting with the German Chancellor on Tuesday to blast European allies, praise China, waffle on tariffs and argue that the attack he launched against Iran prevented a nuclear war.\nAttended by Vice-President J.D. Vance and Secretary of State Marco Rubio at the White House, Trump told reporters during a meeting with German Chancellor Friedrich Merz that his order to attack Iran even as negotiations were under way was justified.\n“If we didn’t do what...",
       "lang": "en",
-      "title_en": "Trump says he’ll cut off trade with Spain over Iran war stance",
-      "summary_en": "Donald Trump said he would “cut off all trade with Spain” after the country denied access to its military bases for his bombing campaign against Iran, spurring a sharp rebuke from Madrid that the US president must respect international trade agreements.\n“I told Scott to cut off all dealings with Spain,” Trump said on Tuesday during a meeting at the White House, referring to US Treasury Secretary Scott Bessent.\nTrump did not explain how he planned to follow through with that threat, which could...",
-      "title": "Trump says he’ll cut off trade with Spain over Iran war stance",
-      "summary": "Donald Trump said he would “cut off all trade with Spain” after the country denied access to its military bases for his bombing campaign against Iran, spurring a sharp rebuke from Madrid that the US president must respect international trade agreements.\n“I told Scott to cut off all dealings with Spain,” Trump said on Tuesday during a meeting at the White House, referring to US Treasury Secretary Scott Bessent.\nTrump did not explain how he planned to follow through with that threat, which could...",
+      "title_en": "Trump slams European allies, praises China and continues to justify Iran attack",
+      "summary_en": "US President Donald Trump used a White House meeting with the German Chancellor on Tuesday to blast European allies, praise China, waffle on tariffs and argue that the attack he launched against Iran prevented a nuclear war.\nAttended by Vice-President J.D. Vance and Secretary of State Marco Rubio at the White House, Trump told reporters during a meeting with German Chancellor Friedrich Merz that his order to attack Iran even as negotiations were under way was justified.\n“If we didn’t do what...",
+      "title": "Trump slams European allies, praises China and continues to justify Iran attack",
+      "summary": "US President Donald Trump used a White House meeting with the German Chancellor on Tuesday to blast European allies, praise China, waffle on tariffs and argue that the attack he launched against Iran prevented a nuclear war.\nAttended by Vice-President J.D. Vance and Secretary of State Marco Rubio at the White House, Trump told reporters during a meeting with German Chancellor Friedrich Merz that his order to attack Iran even as negotiations were under way was justified.\n“If we didn’t do what...",
       "url": "https://www.scmp.com/news/us/diplomacy/article/3345327/trump-says-hell-cut-trade-spain-over-iran-war-stance?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-03-03T20:25:20+00:00",
@@ -1715,42 +1877,6 @@
       }
     },
     {
-      "id": "a2770ae3ac212ab8",
-      "title_orig": "Aged care bushfire evacuation plans are unrealistic, union warns",
-      "summary_orig": "The vast majority of aged care facilities would be unable to evacuate in the case of a bushfire, according to the Australian Workers Union.",
-      "lang": "en",
-      "title_en": "Aged care bushfire evacuation plans are unrealistic, union warns",
-      "summary_en": "The vast majority of aged care facilities would be unable to evacuate in the case of a bushfire, according to the Australian Workers Union.",
-      "title": "Aged care bushfire evacuation plans are unrealistic, union warns",
-      "summary": "The vast majority of aged care facilities would be unable to evacuate in the case of a bushfire, according to the Australian Workers Union.",
-      "url": "https://www.abc.net.au/news/2026-03-04/fire-evacuation-aged-care-nursing-homes-united-workers-union/106346780",
-      "source": "Just In",
-      "published_at": "2026-03-03T19:29:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "56b8d495e7968e9b",
-      "title_orig": "Trump's Operation Epic Fury could turn out to be an epic failure",
-      "summary_orig": "What is the White House's justification for authorising US military strikes on Iran? Right now, the answer changes every day.",
-      "lang": "en",
-      "title_en": "Trump's Operation Epic Fury could turn out to be an epic failure",
-      "summary_en": "What is the White House's justification for authorising US military strikes on Iran? Right now, the answer changes every day.",
-      "title": "Trump's Operation Epic Fury could turn out to be an epic failure",
-      "summary": "What is the White House's justification for authorising US military strikes on Iran? Right now, the answer changes every day.",
-      "url": "https://www.abc.net.au/news/2026-03-04/analysis-trump-operation-epic-fury-could-be-epic-fail/106412558",
-      "source": "Just In",
-      "published_at": "2026-03-03T19:24:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "22ca47cfaab89f57",
       "title_orig": "'They came from nowhere' says mum as dog 'mauled' in front of terrified child",
       "summary_orig": "Goldie, a miniature dachshund, was allegedly attacked in Wigan",
@@ -2249,12 +2375,12 @@
     {
       "id": "5ef40a654c0674ba",
       "title_orig": "British boy back in UK after being stranded in Dubai airport amid airstrikes",
-      "summary_orig": "Ahmad Ali, 12, from Wiltshire, spent three nights in the airport while travelling back from Pakistan US-Israel war on Iran – live updates Business live – latest updates A British boy who spent three nights stranded in Dubai airport is among the latest tourists to arrive back in the UK since conflict engulfed the Middle East. Ahmad Ali, 12, from Swindon in Wiltshire, spent three nights in the airport while travelling back from Pakistan. Continue reading...",
+      "summary_orig": "Ahmad Ali, 12, from Wiltshire, spent three nights in the airport while travelling back from Pakistan US-Israel war on Iran – live updates A British boy who spent three nights stranded in Dubai airport is among the latest tourists to arrive back in the UK since conflict engulfed the Middle East. Ahmad Ali, 12, from Swindon in Wiltshire, spent three nights in the airport while travelling back from Pakistan. Continue reading...",
       "lang": "en",
       "title_en": "British boy back in UK after being stranded in Dubai airport amid airstrikes",
-      "summary_en": "Ahmad Ali, 12, from Wiltshire, spent three nights in the airport while travelling back from Pakistan US-Israel war on Iran – live updates Business live – latest updates A British boy who spent three nights stranded in Dubai airport is among the latest tourists to arrive back in the UK since conflict engulfed the Middle East. Ahmad Ali, 12, from Swindon in Wiltshire, spent three nights in the airport while travelling back from Pakistan. Continue reading...",
+      "summary_en": "Ahmad Ali, 12, from Wiltshire, spent three nights in the airport while travelling back from Pakistan US-Israel war on Iran – live updates A British boy who spent three nights stranded in Dubai airport is among the latest tourists to arrive back in the UK since conflict engulfed the Middle East. Ahmad Ali, 12, from Swindon in Wiltshire, spent three nights in the airport while travelling back from Pakistan. Continue reading...",
       "title": "British boy back in UK after being stranded in Dubai airport amid airstrikes",
-      "summary": "Ahmad Ali, 12, from Wiltshire, spent three nights in the airport while travelling back from Pakistan US-Israel war on Iran – live updates Business live – latest updates A British boy who spent three nights stranded in Dubai airport is among the latest tourists to arrive back in the UK since conflict engulfed the Middle East. Ahmad Ali, 12, from Swindon in Wiltshire, spent three nights in the airport while travelling back from Pakistan. Continue reading...",
+      "summary": "Ahmad Ali, 12, from Wiltshire, spent three nights in the airport while travelling back from Pakistan US-Israel war on Iran – live updates A British boy who spent three nights stranded in Dubai airport is among the latest tourists to arrive back in the UK since conflict engulfed the Middle East. Ahmad Ali, 12, from Swindon in Wiltshire, spent three nights in the airport while travelling back from Pakistan. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/mar/03/british-boy-returns-uk-stranded-dubai-airport-iran-airstrikes",
       "source": "UK news | The Guardian",
       "published_at": "2026-03-03T18:05:39+00:00",
@@ -2726,42 +2852,6 @@
       "url": "https://www.france24.com/en/video/20260303-bolsonaro-son-rallies-the-right-as-thousands-protest-brazil-government",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2026-03-03T17:03:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "fbd7c85843c1137d",
-      "title_orig": "Breeze Airways Unveils 17 New Routes And 2 New Cities: See The Full List",
-      "summary_orig": "Eight of them are from one airport, with this boosting the carrier's flights there significantly...",
-      "lang": "en",
-      "title_en": "Breeze Airways Unveils 17 New Routes And 2 New Cities: See The Full List",
-      "summary_en": "Eight of them are from one airport, with this boosting the carrier's flights there significantly...",
-      "title": "Breeze Airways Unveils 17 New Routes And 2 New Cities: See The Full List",
-      "summary": "Eight of them are from one airport, with this boosting the carrier's flights there significantly...",
-      "url": "https://simpleflying.com/breeze-airways-unveils-17-new-routes-and-2-new-cities-see-the-full-list/",
-      "source": "Simple Flying",
-      "published_at": "2026-03-03T17:00:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b8ecb9e6128e092a",
-      "title_orig": "Israel, US continue to strike Iran 'with force'",
-      "summary_orig": "Terrified residents of Iran's capital described it as a ghost town on Tuesday, its streets largely emptied by a US-Israeli missile barrage apart from security checkpoints and Revolutionary Guards patrols ​that rove the city.",
-      "lang": "en",
-      "title_en": "Israel, US continue to strike Iran 'with force'",
-      "summary_en": "Terrified residents of Iran's capital described it as a ghost town on Tuesday, its streets largely emptied by a US-Israeli missile barrage apart from security checkpoints and Revolutionary Guards patrols ​that rove the city.",
-      "title": "Israel, US continue to strike Iran 'with force'",
-      "summary": "Terrified residents of Iran's capital described it as a ghost town on Tuesday, its streets largely emptied by a US-Israeli missile barrage apart from security checkpoints and Revolutionary Guards patrols ​that rove the city.",
-      "url": "https://www.france24.com/en/video/20260303-israel-us-continue-to-strike-iran-with-force",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-03-03T16:59:03+00:00",
       "tags": [
         "airport/security"
       ],
@@ -5080,24 +5170,6 @@
       "geo": {}
     },
     {
-      "id": "11ae91a1a34caad4",
-      "title_orig": "Allies of Philippines’ Duterte step up online attacks as drug war trial looms",
-      "summary_orig": "As judges in The Hague consider whether former Philippine president Rodrigo Duterte’s crimes against humanity case should proceed to trial, a parallel battle over the narrative has taken hold online.\nProsecutors at the International Criminal Court (ICC) have accused Duterte of overseeing a campaign of extrajudicial killings linked to his signature “war on drugs”. Rights groups say the campaign left thousands dead during his 2016-2022 presidency, allegations he has repeatedly denied.\nAnalysts...",
-      "lang": "en",
-      "title_en": "Allies of Philippines’ Duterte step up online attacks as drug war trial looms",
-      "summary_en": "As judges in The Hague consider whether former Philippine president Rodrigo Duterte’s crimes against humanity case should proceed to trial, a parallel battle over the narrative has taken hold online.\nProsecutors at the International Criminal Court (ICC) have accused Duterte of overseeing a campaign of extrajudicial killings linked to his signature “war on drugs”. Rights groups say the campaign left thousands dead during his 2016-2022 presidency, allegations he has repeatedly denied.\nAnalysts...",
-      "title": "Allies of Philippines’ Duterte step up online attacks as drug war trial looms",
-      "summary": "As judges in The Hague consider whether former Philippine president Rodrigo Duterte’s crimes against humanity case should proceed to trial, a parallel battle over the narrative has taken hold online.\nProsecutors at the International Criminal Court (ICC) have accused Duterte of overseeing a campaign of extrajudicial killings linked to his signature “war on drugs”. Rights groups say the campaign left thousands dead during his 2016-2022 presidency, allegations he has repeatedly denied.\nAnalysts...",
-      "url": "https://www.scmp.com/week-asia/people/article/3345198/allies-philippines-duterte-step-online-attacks-drug-war-trial-looms?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2026-03-03T06:00:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "30d49c0cfc54e0d9",
       "title_orig": "Karachi’s MT Khan Road again closed in view of security situation",
       "summary_orig": "Karachi’s MT Khan Road was closed again on Tuesday in response to the prevailing security situation in the city, according to the traffic police. Ten people were killed in Karachi on Sunday as protests erupted against the assassination of Iranian Supreme Leader Ayatollah Ali Khamenei in US-Israeli attacks . A ban on gatherings and rallies has also been extended across Sindh. An alert issued by the Karachi Traffic Police for District South at 5:38am said that both sides of MT Khan Road remained closed from the PIDC signal towards Jinnah Bridge for security reasons. As an alternative route, traffic from PIDC has been diverted towards Khajoor Chowk and Dr. Ziauddin Ahmed Road, and from Jinnah Bridge towards II Chundrigar Road, it said. Subsequently, the police issued another alert at 9:21am for traffic congestion on both sides of II Chundrigar Road from Jinnah Bridge towards Tower and Shaheen Complex due to the MT Khan Road closure. A map showing road closures in Karachi on March 3. — screengrab via Google Maps It requested citizens to call the Traffic Helpline at 1915 for alternative routes to avoid inconvenience and to stay tuned to FM 88.6 for updates. “Traffic police are present and managing the flow of traffic,” it added. Yesterday, a road closure alert was issued for both sides of the road from Sultanabad Traffic Section towards Mai Kolachi, as well as both sides of MT Khan Road, from Jinnah Bridge towards PIDC and from PIDC towards Jinnah Bridge. However, the road was opened later in the day.",
@@ -5729,24 +5801,6 @@
       "geo": {}
     },
     {
-      "id": "c3fade2256e02f93",
-      "title_orig": "More Lebanese Flee Their Homes as Israel Strikes Back at Iran-Backed Hezbollah",
-      "summary_orig": "The three-day U.S.-Israeli war with Iran and its allies brought a new wave of displacement to war-weary Lebanon, after Israel retaliated for Hezbollah rocket attacks.",
-      "lang": "en",
-      "title_en": "More Lebanese Flee Their Homes as Israel Strikes Back at Iran-Backed Hezbollah",
-      "summary_en": "The three-day U.S.-Israeli war with Iran and its allies brought a new wave of displacement to war-weary Lebanon, after Israel retaliated for Hezbollah rocket attacks.",
-      "title": "More Lebanese Flee Their Homes as Israel Strikes Back at Iran-Backed Hezbollah",
-      "summary": "The three-day U.S.-Israeli war with Iran and its allies brought a new wave of displacement to war-weary Lebanon, after Israel retaliated for Hezbollah rocket attacks.",
-      "url": "https://www.nytimes.com/2026/03/02/world/middleeast/israel-lebanon-strikes-hezbollah-iran.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-02T18:30:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "a750e602e272bc18",
       "title_orig": "US Air Force tankers forced to leave Spain after government refuses airbases to be used for Iran attacks",
       "summary_orig": "DOHA/MADRID – A significant diplomatic rift has opened between Washington and Madrid as fifteen U.S. military aircraft were forced to depart from southern Spain on Monday. The move follows the Spanish government’s refusal to allow its territory to be used for the ongoing joint U.S.-Israeli military campaign against Iran. Flight tracking data from FlightRadar24 confirmed […] The post US Air Force tankers forced to leave Spain after government refuses airbases to be used for Iran attacks appeared first on AIRLIVE .",
@@ -5924,24 +5978,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f60e927d9a257623",
-      "title_orig": "Spain Denies U.S. Military Use of Its Bases for Iran Attack",
-      "summary_orig": "The leftist government in Madrid said the war against Iran violated both international law and the agreement between Spain and the United States on the use of air bases.",
-      "lang": "en",
-      "title_en": "Spain Denies U.S. Military Use of Its Bases for Iran Attack",
-      "summary_en": "The leftist government in Madrid said the war against Iran violated both international law and the agreement between Spain and the United States on the use of air bases.",
-      "title": "Spain Denies U.S. Military Use of Its Bases for Iran Attack",
-      "summary": "The leftist government in Madrid said the war against Iran violated both international law and the agreement between Spain and the United States on the use of air bases.",
-      "url": "https://www.nytimes.com/2026/03/02/world/middleeast/spain-denies-us-air-base.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-02T16:02:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
