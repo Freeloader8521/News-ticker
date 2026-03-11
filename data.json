@@ -1,45 +1,63 @@
 {
-  "generated_at": "2026-03-11T14:57:35.727805+00:00",
+  "generated_at": "2026-03-11T15:47:39.440204+00:00",
   "items": [
     {
-      "id": "ded3e61a78c2c19b",
-      "title_orig": "80,000 subcontracted workers seek bargaining rights on 1st day of ‘yellow envelope law’",
-      "summary_orig": "The first day after Korea’s revised Trade Union Act — the so-called “yellow envelope law” — took effect saw more than 80,000 subcontracted workers at 221 parent companies and public institutions seek bargaining with what they consider their primary employers. Officials at the Ministry of Employment and Labor told reporters Wednesday that, as of 8 p.m. the previous day, a total of 407 subcontractor unions and branches, representing about 81,600 workers, had filed bargaining requests with 143 private firms and 78 public entities. Among the companies facing new union requests for talks are major employers such as Hyundai Motor Group, Hyundai Mobis, Hyundai Glovis, HD Hyundai Heavy Industries, Hanwha Ocean, GM Korea, Yonsei University, CJ Logistics, POSCO, Coupang CLS, Korea Railroad Corp. and Incheon International Airport Corp. Only five of them — Hanwha Ocean, POSCO, Coupang CLS, Hwaseong city government and Busan Transportation Corp. — have posted notices acknowledging the bargaining demands and begun the legal process to handle them, including deciding whether to unify bar",
+      "id": "6ba559e43a17cdea",
+      "title_orig": "Trump says ‘practically nothing left to target’ in Iran and the war will end when he chooses",
+      "summary_orig": "President Donald Trump says bombing campaign against Tehran will be over ‘soon’ and insists: ‘Any time I want it to end, it will end’",
       "lang": "en",
-      "title_en": "80,000 subcontracted workers seek bargaining rights on 1st day of ‘yellow envelope law’",
-      "summary_en": "The first day after Korea’s revised Trade Union Act — the so-called “yellow envelope law” — took effect saw more than 80,000 subcontracted workers at 221 parent companies and public institutions seek bargaining with what they consider their primary employers. Officials at the Ministry of Employment and Labor told reporters Wednesday that, as of 8 p.m. the previous day, a total of 407 subcontractor unions and branches, representing about 81,600 workers, had filed bargaining requests with 143 private firms and 78 public entities. Among the companies facing new union requests for talks are major employers such as Hyundai Motor Group, Hyundai Mobis, Hyundai Glovis, HD Hyundai Heavy Industries, Hanwha Ocean, GM Korea, Yonsei University, CJ Logistics, POSCO, Coupang CLS, Korea Railroad Corp. and Incheon International Airport Corp. Only five of them — Hanwha Ocean, POSCO, Coupang CLS, Hwaseong city government and Busan Transportation Corp. — have posted notices acknowledging the bargaining demands and begun the legal process to handle them, including deciding whether to unify bar",
-      "title": "80,000 subcontracted workers seek bargaining rights on 1st day of ‘yellow envelope law’",
-      "summary": "The first day after Korea’s revised Trade Union Act — the so-called “yellow envelope law” — took effect saw more than 80,000 subcontracted workers at 221 parent companies and public institutions seek bargaining with what they consider their primary employers. Officials at the Ministry of Employment and Labor told reporters Wednesday that, as of 8 p.m. the previous day, a total of 407 subcontractor unions and branches, representing about 81,600 workers, had filed bargaining requests with 143 private firms and 78 public entities. Among the companies facing new union requests for talks are major employers such as Hyundai Motor Group, Hyundai Mobis, Hyundai Glovis, HD Hyundai Heavy Industries, Hanwha Ocean, GM Korea, Yonsei University, CJ Logistics, POSCO, Coupang CLS, Korea Railroad Corp. and Incheon International Airport Corp. Only five of them — Hanwha Ocean, POSCO, Coupang CLS, Hwaseong city government and Busan Transportation Corp. — have posted notices acknowledging the bargaining demands and begun the legal process to handle them, including deciding whether to unify bar",
-      "url": "https://www.koreatimes.co.kr/southkorea/society/20260311/80000-subcontracted-workers-seek-bargaining-rights-on-1st-day-of-yellow-envelope-law?utm_source=rss",
-      "source": "Korea Times News",
-      "published_at": "2026-03-11T14:52:03+00:00",
+      "title_en": "Trump says ‘practically nothing left to target’ in Iran and the war will end when he chooses",
+      "summary_en": "President Donald Trump says bombing campaign against Tehran will be over ‘soon’ and insists: ‘Any time I want it to end, it will end’",
+      "title": "Trump says ‘practically nothing left to target’ in Iran and the war will end when he chooses",
+      "summary": "President Donald Trump says bombing campaign against Tehran will be over ‘soon’ and insists: ‘Any time I want it to end, it will end’",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-conflict-airstrikes-targets-b2936444.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-11T15:39:10+00:00",
       "tags": [
-        "ICN",
-        "South Korea",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "aeff445bedb02a7b",
+      "title_orig": "Iran targets ships, Dubai airport and oil facilities as economic concerns mount",
+      "summary_orig": "Iran attacked commercial ships on Wednesday and targeted Dubai International Airport, escalating a campaign of bottling up the oil-rich Persian Gulf as global energy concerns mounted and American and Israeli airstrikes pounded the Islamic Republic.",
+      "lang": "en",
+      "title_en": "Iran targets ships, Dubai airport and oil facilities as economic concerns mount",
+      "summary_en": "Iran attacked commercial ships on Wednesday and targeted Dubai International Airport, escalating a campaign of bottling up the oil-rich Persian Gulf as global energy concerns mounted and American and Israeli airstrikes pounded the Islamic Republic.",
+      "title": "Iran targets ships, Dubai airport and oil facilities as economic concerns mount",
+      "summary": "Iran attacked commercial ships on Wednesday and targeted Dubai International Airport, escalating a campaign of bottling up the oil-rich Persian Gulf as global energy concerns mounted and American and Israeli airstrikes pounded the Islamic Republic.",
+      "url": "https://www.startribune.com/iran-keeps-up-pressure-on-oil-infrastructure-as-concerns-of-global-energy-crisis-grow/601596267",
+      "source": "Startribune News",
+      "published_at": "2026-03-11T15:37:03+00:00",
+      "tags": [
+        "DXB",
+        "United Arab Emirates",
         "airport/security"
       ],
       "type": "local news",
       "geo": {
-        "airport": "Incheon",
-        "city": "Seoul",
-        "country": "South Korea",
-        "iata": "ICN",
-        "lat": 37.4602,
-        "lon": 126.4407
+        "airport": "Dubai",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "iata": "DXB",
+        "lat": 25.2532,
+        "lon": 55.3657
       }
     },
     {
-      "id": "02d21694786e6121",
-      "title_orig": "THAAD redeployment sparks fears of high-altitude defense gap in South Korea",
-      "summary_orig": "The reported redeployment of parts of the United States’ Terminal High Altitude Area Defense (THAAD) system from South Korea to the Middle East has raised questions about whether the move could affect missile defense readiness on the Korean Peninsula. Although experts say the move is unlikely to create a significant gap in South Korea’s defenses, it reflects the growing flexibility in how U.S. military assets stationed here are used. The Washington Post reported Tuesday that the Pentagon was moving parts of a THAAD system from South Korea to the Middle East, citing two U.S. officials. The report said that the U.S. military is also drawing on its supply of Patriot interceptors, which are deployed in the Indo-Pacific and other regions, to strengthen defenses against Iranian drone and ballistic missile attacks. Military sources said six THAAD launcher vehicles that were recently moved from a base in Seongju, North Gyeongsang Province, to Osan Air Base in Pyeongtaek, Gyeonggi Province, have since returned to Seongju after unloading their interceptor missiles. The missiles are believed t",
+      "id": "225512e5de5d0c51",
+      "title_orig": "WHO confirms 18 attacks on healthcare sites in Iran",
+      "summary_orig": "The attacks resulted in eight deaths among health workers.",
       "lang": "en",
-      "title_en": "THAAD redeployment sparks fears of high-altitude defense gap in South Korea",
-      "summary_en": "The reported redeployment of parts of the United States’ Terminal High Altitude Area Defense (THAAD) system from South Korea to the Middle East has raised questions about whether the move could affect missile defense readiness on the Korean Peninsula. Although experts say the move is unlikely to create a significant gap in South Korea’s defenses, it reflects the growing flexibility in how U.S. military assets stationed here are used. The Washington Post reported Tuesday that the Pentagon was moving parts of a THAAD system from South Korea to the Middle East, citing two U.S. officials. The report said that the U.S. military is also drawing on its supply of Patriot interceptors, which are deployed in the Indo-Pacific and other regions, to strengthen defenses against Iranian drone and ballistic missile attacks. Military sources said six THAAD launcher vehicles that were recently moved from a base in Seongju, North Gyeongsang Province, to Osan Air Base in Pyeongtaek, Gyeonggi Province, have since returned to Seongju after unloading their interceptor missiles. The missiles are believed t",
-      "title": "THAAD redeployment sparks fears of high-altitude defense gap in South Korea",
-      "summary": "The reported redeployment of parts of the United States’ Terminal High Altitude Area Defense (THAAD) system from South Korea to the Middle East has raised questions about whether the move could affect missile defense readiness on the Korean Peninsula. Although experts say the move is unlikely to create a significant gap in South Korea’s defenses, it reflects the growing flexibility in how U.S. military assets stationed here are used. The Washington Post reported Tuesday that the Pentagon was moving parts of a THAAD system from South Korea to the Middle East, citing two U.S. officials. The report said that the U.S. military is also drawing on its supply of Patriot interceptors, which are deployed in the Indo-Pacific and other regions, to strengthen defenses against Iranian drone and ballistic missile attacks. Military sources said six THAAD launcher vehicles that were recently moved from a base in Seongju, North Gyeongsang Province, to Osan Air Base in Pyeongtaek, Gyeonggi Province, have since returned to Seongju after unloading their interceptor missiles. The missiles are believed t",
-      "url": "https://www.koreatimes.co.kr/southkorea/defense/20260311/thaad-redeployment-sparks-fears-of-high-altitude-defense-gap-in-south-korea?utm_source=rss",
-      "source": "Korea Times News",
-      "published_at": "2026-03-11T14:52:03+00:00",
+      "title_en": "WHO confirms 18 attacks on healthcare sites in Iran",
+      "summary_en": "The attacks resulted in eight deaths among health workers.",
+      "title": "WHO confirms 18 attacks on healthcare sites in Iran",
+      "summary": "The attacks resulted in eight deaths among health workers.",
+      "url": "https://www.straitstimes.com/world/middle-east/who-confirms-18-attacks-on-healthcare-sites-in-iran",
+      "source": "The Straits Times World News",
+      "published_at": "2026-03-11T15:35:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -47,17 +65,17 @@
       "geo": {}
     },
     {
-      "id": "2b10453ce1eaa763",
-      "title_orig": "Middle East crisis prompts honeymooners, church groups to rethink trips",
-      "summary_orig": "Koreans planning honeymoons, pilgrimages and long-awaited overseas trips are scrambling to revise their itineraries as the conflict in the Middle East shuts down key transit hubs and throws global aviation into turmoil. For many engaged Korean couples, the crisis has hit hard. Over the past few years, Dubai has transformed from a mere layover into a standalone honeymoon hot spot for Koreans, marketed as “affordable luxury” and bundled with resort destinations like the Maldives and Mauritius. Its appeal has grown with K-drama shoots, social media buzz over Dubai chocolate and visa-free entry for Korean travelers, helping push Korean arrivals up 225 percent in 2023 and another 51 percent in the first half of 2024, according to Dubai’s Department of Economy and Tourism. That booming demand is now colliding with anxiety over war. Since the U.S. and Israeli strikes on Iran in late February, Iran’s retaliatory attacks have raised fears that major Middle Eastern cities could become targets, particularly after reports that United Arab Emirates air defenses intercepted missiles and drone",
+      "id": "847381ad14cc6ed7",
+      "title_orig": "Bomb hoax: squad conducts search at Kozhikode medical college",
+      "summary_orig": "",
       "lang": "en",
-      "title_en": "Middle East crisis prompts honeymooners, church groups to rethink trips",
-      "summary_en": "Koreans planning honeymoons, pilgrimages and long-awaited overseas trips are scrambling to revise their itineraries as the conflict in the Middle East shuts down key transit hubs and throws global aviation into turmoil. For many engaged Korean couples, the crisis has hit hard. Over the past few years, Dubai has transformed from a mere layover into a standalone honeymoon hot spot for Koreans, marketed as “affordable luxury” and bundled with resort destinations like the Maldives and Mauritius. Its appeal has grown with K-drama shoots, social media buzz over Dubai chocolate and visa-free entry for Korean travelers, helping push Korean arrivals up 225 percent in 2023 and another 51 percent in the first half of 2024, according to Dubai’s Department of Economy and Tourism. That booming demand is now colliding with anxiety over war. Since the U.S. and Israeli strikes on Iran in late February, Iran’s retaliatory attacks have raised fears that major Middle Eastern cities could become targets, particularly after reports that United Arab Emirates air defenses intercepted missiles and drone",
-      "title": "Middle East crisis prompts honeymooners, church groups to rethink trips",
-      "summary": "Koreans planning honeymoons, pilgrimages and long-awaited overseas trips are scrambling to revise their itineraries as the conflict in the Middle East shuts down key transit hubs and throws global aviation into turmoil. For many engaged Korean couples, the crisis has hit hard. Over the past few years, Dubai has transformed from a mere layover into a standalone honeymoon hot spot for Koreans, marketed as “affordable luxury” and bundled with resort destinations like the Maldives and Mauritius. Its appeal has grown with K-drama shoots, social media buzz over Dubai chocolate and visa-free entry for Korean travelers, helping push Korean arrivals up 225 percent in 2023 and another 51 percent in the first half of 2024, according to Dubai’s Department of Economy and Tourism. That booming demand is now colliding with anxiety over war. Since the U.S. and Israeli strikes on Iran in late February, Iran’s retaliatory attacks have raised fears that major Middle Eastern cities could become targets, particularly after reports that United Arab Emirates air defenses intercepted missiles and drone",
-      "url": "https://www.koreatimes.co.kr/southkorea/society/20260311/middle-east-crisis-prompts-honeymooners-church-groups-to-rethink-trips?utm_source=rss",
-      "source": "Korea Times News",
-      "published_at": "2026-03-11T14:52:03+00:00",
+      "title_en": "Bomb hoax: squad conducts search at Kozhikode medical college",
+      "summary_en": "",
+      "title": "Bomb hoax: squad conducts search at Kozhikode medical college",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/kerala/bomb-hoax-squad-conducts-search-at-kozhikode-medical-college/article70731560.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-03-11T15:29:54+00:00",
       "tags": [
         "airport/security"
       ],
@@ -65,17 +83,540 @@
       "geo": {}
     },
     {
-      "id": "e38cfd16f090f8f4",
-      "title_orig": "Deterrence posture against N. Korea won't be hindered regardless of potential shift of USFK's assets",
-      "summary_orig": "The deterrence posture against North Korea will not be hindered regardless of a potential shift of military assets owned by the U.S. military stationed in South Korea, a senior official at Cheong Wa Dae said Wednesday, amid media reports that the U.S. Forces Korea (USFK) has shipped out some of its air defense assets from the Korean Peninsula. \"Given our level of military capability, defense spending, defense industry capacity and the high morale of our troops, there is no problem with deterrence against North Korea regardless of whether some USFK assets are relocated overseas,\" the official said. The official, however, declined to comment on media reports that parts of a Terminal High Altitude Area Defense (THAAD) system and other air defense units owned by the USFK were moved from South Korea amid a raging war in the Middle East. \"It is not appropriate for our government to comment on military operations between Korea and the U.S.,\" the official said. The official said South Korea and the U.S. have remained in close coordination to maintain a robust combined defense posture. \"Korea and",
+      "id": "27b32a65bbd7962c",
+      "title_orig": "‘Static’ Al Quds Day protest could still cause serious disorder, Mahmood told",
+      "summary_orig": "The Home Secretary approved a request on Tuesday from the Metropolitan Police to ban the annual march in London planned for Sunday.",
       "lang": "en",
-      "title_en": "Deterrence posture against N. Korea won't be hindered regardless of potential shift of USFK's assets",
-      "summary_en": "The deterrence posture against North Korea will not be hindered regardless of a potential shift of military assets owned by the U.S. military stationed in South Korea, a senior official at Cheong Wa Dae said Wednesday, amid media reports that the U.S. Forces Korea (USFK) has shipped out some of its air defense assets from the Korean Peninsula. \"Given our level of military capability, defense spending, defense industry capacity and the high morale of our troops, there is no problem with deterrence against North Korea regardless of whether some USFK assets are relocated overseas,\" the official said. The official, however, declined to comment on media reports that parts of a Terminal High Altitude Area Defense (THAAD) system and other air defense units owned by the USFK were moved from South Korea amid a raging war in the Middle East. \"It is not appropriate for our government to comment on military operations between Korea and the U.S.,\" the official said. The official said South Korea and the U.S. have remained in close coordination to maintain a robust combined defense posture. \"Korea and",
-      "title": "Deterrence posture against N. Korea won't be hindered regardless of potential shift of USFK's assets",
-      "summary": "The deterrence posture against North Korea will not be hindered regardless of a potential shift of military assets owned by the U.S. military stationed in South Korea, a senior official at Cheong Wa Dae said Wednesday, amid media reports that the U.S. Forces Korea (USFK) has shipped out some of its air defense assets from the Korean Peninsula. \"Given our level of military capability, defense spending, defense industry capacity and the high morale of our troops, there is no problem with deterrence against North Korea regardless of whether some USFK assets are relocated overseas,\" the official said. The official, however, declined to comment on media reports that parts of a Terminal High Altitude Area Defense (THAAD) system and other air defense units owned by the USFK were moved from South Korea amid a raging war in the Middle East. \"It is not appropriate for our government to comment on military operations between Korea and the U.S.,\" the official said. The official said South Korea and the U.S. have remained in close coordination to maintain a robust combined defense posture. \"Korea and",
-      "url": "https://www.koreatimes.co.kr/southkorea/defense/20260311/deterrence-posture-against-n-korea-wont-be-hindered-regardless-of-potential-shift-of-usfks-assets?utm_source=rss",
-      "source": "Korea Times News",
-      "published_at": "2026-03-11T14:52:03+00:00",
+      "title_en": "‘Static’ Al Quds Day protest could still cause serious disorder, Mahmood told",
+      "summary_en": "The Home Secretary approved a request on Tuesday from the Metropolitan Police to ban the annual march in London planned for Sunday.",
+      "title": "‘Static’ Al Quds Day protest could still cause serious disorder, Mahmood told",
+      "summary": "The Home Secretary approved a request on Tuesday from the Metropolitan Police to ban the annual march in London planned for Sunday.",
+      "url": "https://www.standard.co.uk/news/politics/home-secretary-metropolitan-police-london-government-chris-philp-b1274444.html",
+      "source": "The Standard News",
+      "published_at": "2026-03-11T15:29:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "90f33b1368c9287c",
+      "title_orig": "Dharwad residents stop lorries carrying garbage in protest",
+      "summary_orig": "Smoke billowing out of mounds of garbage at Hosayallapur continues to choke several localities",
+      "lang": "en",
+      "title_en": "Dharwad residents stop lorries carrying garbage in protest",
+      "summary_en": "Smoke billowing out of mounds of garbage at Hosayallapur continues to choke several localities",
+      "title": "Dharwad residents stop lorries carrying garbage in protest",
+      "summary": "Smoke billowing out of mounds of garbage at Hosayallapur continues to choke several localities",
+      "url": "https://www.thehindu.com/news/national/karnataka/dharwad-residents-stop-lorries-carrying-garbage-in-protest/article70731991.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-03-11T15:28:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a42ba8c754c4e227",
+      "title_orig": "Welsh high school to close to most pupils due to staff walkout",
+      "summary_orig": "Teachers at Llantwit Major High are walking out on Thursday with a second strike next week if talks fail",
+      "lang": "en",
+      "title_en": "Welsh high school to close to most pupils due to staff walkout",
+      "summary_en": "Teachers at Llantwit Major High are walking out on Thursday with a second strike next week if talks fail",
+      "title": "Welsh high school to close to most pupils due to staff walkout",
+      "summary": "Teachers at Llantwit Major High are walking out on Thursday with a second strike next week if talks fail",
+      "url": "https://www.walesonline.co.uk/news/education/welsh-high-school-close-most-33573546",
+      "source": "WalesOnline - Home",
+      "published_at": "2026-03-11T15:26:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d5077af931bf6d63",
+      "title_orig": "Switzerland closes Tehran embassy but maintains ‘open line’ between US and Iran",
+      "summary_orig": "Switzerland, renowned for its neutrality, has been representing US interests in Iran.",
+      "lang": "en",
+      "title_en": "Switzerland closes Tehran embassy but maintains ‘open line’ between US and Iran",
+      "summary_en": "Switzerland, renowned for its neutrality, has been representing US interests in Iran.",
+      "title": "Switzerland closes Tehran embassy but maintains ‘open line’ between US and Iran",
+      "summary": "Switzerland, renowned for its neutrality, has been representing US interests in Iran.",
+      "url": "https://www.straitstimes.com/world/europe/switzerland-closes-tehran-embassy-but-maintains-open-line-between-us-iran",
+      "source": "The Straits Times World News",
+      "published_at": "2026-03-11T15:25:00+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a9e87e54af956415",
+      "title_orig": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+      "summary_orig": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
+      "lang": "en",
+      "title_en": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+      "summary_en": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
+      "title": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+      "summary": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
+      "url": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-03-11T15:24:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ff4c1c60d010942a",
+      "title_orig": "Iran-US war latest: Multiple ships attacked in Strait of Hormuz as Tehran threatens to send price of oil soaring",
+      "summary_orig": "Iran threatened to launch its most “intense strikes” of the conflict so far overnight, after the US promised the same on Tuesday",
+      "lang": "en",
+      "title_en": "Iran-US war latest: Multiple ships attacked in Strait of Hormuz as Tehran threatens to send price of oil soaring",
+      "summary_en": "Iran threatened to launch its most “intense strikes” of the conflict so far overnight, after the US promised the same on Tuesday",
+      "title": "Iran-US war latest: Multiple ships attacked in Strait of Hormuz as Tehran threatens to send price of oil soaring",
+      "summary": "Iran threatened to launch its most “intense strikes” of the conflict so far overnight, after the US promised the same on Tuesday",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-trump-israel-war-oil-lebanon-strait-of-hormuz-live-b2936049.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-11T15:24:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c46c393062ceb1b8",
+      "title_orig": "Iran Has Fired Widely Banned Cluster Munitions at Israel",
+      "summary_orig": "Accounts from Israeli officials and footage verified by The New York Times show that Iran has targeted Israel with the weapons. Experts say this has exposed civilians to indiscriminate attacks.",
+      "lang": "en",
+      "title_en": "Iran Has Fired Widely Banned Cluster Munitions at Israel",
+      "summary_en": "Accounts from Israeli officials and footage verified by The New York Times show that Iran has targeted Israel with the weapons. Experts say this has exposed civilians to indiscriminate attacks.",
+      "title": "Iran Has Fired Widely Banned Cluster Munitions at Israel",
+      "summary": "Accounts from Israeli officials and footage verified by The New York Times show that Iran has targeted Israel with the weapons. Experts say this has exposed civilians to indiscriminate attacks.",
+      "url": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-israel-cluster-munitions.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-11T15:23:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "351eed7de72c8354",
+      "title_orig": "King welcomes 105-year-old last surviving Mosquito bomber pilot to Palace",
+      "summary_orig": "The monarch held an audience with Flight Lieutenant Colin Bell, who presented Charles with a copy of his memoir.",
+      "lang": "en",
+      "title_en": "King welcomes 105-year-old last surviving Mosquito bomber pilot to Palace",
+      "summary_en": "The monarch held an audience with Flight Lieutenant Colin Bell, who presented Charles with a copy of his memoir.",
+      "title": "King welcomes 105-year-old last surviving Mosquito bomber pilot to Palace",
+      "summary": "The monarch held an audience with Flight Lieutenant Colin Bell, who presented Charles with a copy of his memoir.",
+      "url": "https://www.standard.co.uk/news/politics/king-the-king-buckingham-palace-george-vi-charles-b1274457.html",
+      "source": "The Standard News",
+      "published_at": "2026-03-11T15:22:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8432e859d95105ad",
+      "title_orig": "‘Stunned, sidelined and disunited’: how war in the Middle East paralysed the EU",
+      "summary_orig": "Amid fears the conflict will strengthen Russia, Ursula von der Leyen’s embrace of US-backed regime change already looks like a doomed strategy • Don’t get This Is Europe delivered to your inbox? Sign up here The message from Ursula von der Leyen was blunt. “Europe can no longer be a custodian for the old-world order” and needs a “more realistic and interest-driven foreign policy”. In a major foreign policy speech this week, the European Commission president said the EU would always “defend and uphold the rules-based system” but in a precarious and chaotic world, that could no longer be relied upon. On the day she spoke, missiles were raining down on Tehran and southern Iran as the war entered its 10th day, proving her point. Reverberating around Europe, the Middle East conflict has triggered a range of responses. France is sending a dozen naval vessels to the Mediterranean and the Red Sea. EU officials convened an ad-hoc summit with Middle Eastern leaders in a show of solidarity with the region. EU humanitarian aid for Lebanon is being dispatched to help 130,000 people, after at least half a million were displaced by Israeli bombs and evacuation orders . Continue reading...",
+      "lang": "en",
+      "title_en": "‘Stunned, sidelined and disunited’: how war in the Middle East paralysed the EU",
+      "summary_en": "Amid fears the conflict will strengthen Russia, Ursula von der Leyen’s embrace of US-backed regime change already looks like a doomed strategy • Don’t get This Is Europe delivered to your inbox? Sign up here The message from Ursula von der Leyen was blunt. “Europe can no longer be a custodian for the old-world order” and needs a “more realistic and interest-driven foreign policy”. In a major foreign policy speech this week, the European Commission president said the EU would always “defend and uphold the rules-based system” but in a precarious and chaotic world, that could no longer be relied upon. On the day she spoke, missiles were raining down on Tehran and southern Iran as the war entered its 10th day, proving her point. Reverberating around Europe, the Middle East conflict has triggered a range of responses. France is sending a dozen naval vessels to the Mediterranean and the Red Sea. EU officials convened an ad-hoc summit with Middle Eastern leaders in a show of solidarity with the region. EU humanitarian aid for Lebanon is being dispatched to help 130,000 people, after at least half a million were displaced by Israeli bombs and evacuation orders . Continue reading...",
+      "title": "‘Stunned, sidelined and disunited’: how war in the Middle East paralysed the EU",
+      "summary": "Amid fears the conflict will strengthen Russia, Ursula von der Leyen’s embrace of US-backed regime change already looks like a doomed strategy • Don’t get This Is Europe delivered to your inbox? Sign up here The message from Ursula von der Leyen was blunt. “Europe can no longer be a custodian for the old-world order” and needs a “more realistic and interest-driven foreign policy”. In a major foreign policy speech this week, the European Commission president said the EU would always “defend and uphold the rules-based system” but in a precarious and chaotic world, that could no longer be relied upon. On the day she spoke, missiles were raining down on Tehran and southern Iran as the war entered its 10th day, proving her point. Reverberating around Europe, the Middle East conflict has triggered a range of responses. France is sending a dozen naval vessels to the Mediterranean and the Red Sea. EU officials convened an ad-hoc summit with Middle Eastern leaders in a show of solidarity with the region. EU humanitarian aid for Lebanon is being dispatched to help 130,000 people, after at least half a million were displaced by Israeli bombs and evacuation orders . Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/11/stunned-sidelined-and-disunited-how-war-in-the-middle-east-paralysed-the-eu",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-11T15:22:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "161884eadc556812",
+      "title_orig": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
+      "summary_orig": "Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia.",
+      "lang": "en",
+      "title_en": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
+      "summary_en": "Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia.",
+      "title": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
+      "summary": "Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia.",
+      "url": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-russia-electronics-plant-missiles.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-11T15:21:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "b7d2c9551c0904d3",
+      "title_orig": "Boy, 16, arrested after teenage girl stabbed and school put into lockdown",
+      "summary_orig": "Police said the incident in Norwich is not believed to be linked to a hate crime reported at the school last week.",
+      "lang": "en",
+      "title_en": "Boy, 16, arrested after teenage girl stabbed and school put into lockdown",
+      "summary_en": "Police said the incident in Norwich is not believed to be linked to a hate crime reported at the school last week.",
+      "title": "Boy, 16, arrested after teenage girl stabbed and school put into lockdown",
+      "summary": "Police said the incident in Norwich is not believed to be linked to a hate crime reported at the school last week.",
+      "url": "https://www.standard.co.uk/news/uk/school-norwich-norfolk-police-ofsted-press-association-b1274456.html",
+      "source": "The Standard News",
+      "published_at": "2026-03-11T15:21:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c3339065d8236a77",
+      "title_orig": "A drone strike has hit a Sudan school and medical center, killing 17, mostly schoolgirls",
+      "summary_orig": "CAIRO (AP) — An explosive-laden drone blamed on Sudanese paramilitaries struck a secondary school and a health care center in…",
+      "lang": "en",
+      "title_en": "A drone strike has hit a Sudan school and medical center, killing 17, mostly schoolgirls",
+      "summary_en": "CAIRO (AP) — An explosive-laden drone blamed on Sudanese paramilitaries struck a secondary school and a health care center in…",
+      "title": "A drone strike has hit a Sudan school and medical center, killing 17, mostly schoolgirls",
+      "summary": "CAIRO (AP) — An explosive-laden drone blamed on Sudanese paramilitaries struck a secondary school and a health care center in…",
+      "url": "https://wtop.com/world/2026/03/a-drone-strike-has-hit-a-sudan-school-and-medical-center-killing-17-mostly-schoolgirls/",
+      "source": "WTOP News",
+      "published_at": "2026-03-11T15:20:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e6a7e31380b0b72b",
+      "title_orig": "Sudan drone strike kills 17 at school, mostly schoolgirls",
+      "summary_orig": "A paramilitary drone hit a secondary school and health center in White Nile province, with no military presence reported in the village of Shukeiri.",
+      "lang": "en",
+      "title_en": "Sudan drone strike kills 17 at school, mostly schoolgirls",
+      "summary_en": "A paramilitary drone hit a secondary school and health center in White Nile province, with no military presence reported in the village of Shukeiri.",
+      "title": "Sudan drone strike kills 17 at school, mostly schoolgirls",
+      "summary": "A paramilitary drone hit a secondary school and health center in White Nile province, with no military presence reported in the village of Shukeiri.",
+      "url": "https://www.syracuse.com/us-news/2026/03/sudan-drone-strike-kills-17-at-school-mostly-schoolgirls.html",
+      "source": "syracuse.com",
+      "published_at": "2026-03-11T15:16:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "81fe337f767992dd",
+      "title_orig": "Middle East crisis live: three ships hit in strait of Hormuz as Iran calls US and allied vessels ‘legitimate targets’",
+      "summary_orig": "Thai navy responds to attack on bulk carrier as Iran military reiterates that it ‘will not allow a single litre of oil’ through strait How have you been affected by the latest Middle East events? Over in Senate question time, the foreign affairs minister, Penny Wong , has confirmed embassies in Abu Dhabi and Tel Aviv and the consulate in Dubai all physically closed in the last week. Wong said the government’s number one priority is to “keep Australians safe at home and abroad” . She continued: “The dangerous and destabilising attacks by Iran put civilian lives at risk, including Australian lives.” More than 3,200 Australians over 23 commercial flights have returned to Australia since the US and Israel attacked Iran, setting off a regional conflict and grounding thousands of international flights. Wong criticised Nationals senators for “winding up people and stoking fear” to panic buy fuel. The senator said: “Petrol companies are telling us that fuel stock continues to arrive as expected and on time but there has been a large change in the pattern of demand and that is having an effect on the supply, particularly in regional communities. We have seen jerry cans coming off the shelves at Bunnings and lines at the pump.” One of the two members of the Iranian women’s football teams provided with a humanitarian visa to stay in Australia has changed her mind and contacted the Iranian embassy , according to the country’s home affairs minister. In Australia, people are able to change their mind, people are able to travel. So, we respect the context in which she has made that decision. Unfortunately, in making that decision, she had been advised by her teammates and coach to contact the Iranian embassy and get collected … As a result of that, it meant that the Iranian embassy now knew the location of where everybody was. Continue reading...",
+      "lang": "en",
+      "title_en": "Middle East crisis live: three ships hit in strait of Hormuz as Iran calls US and allied vessels ‘legitimate targets’",
+      "summary_en": "Thai navy responds to attack on bulk carrier as Iran military reiterates that it ‘will not allow a single litre of oil’ through strait How have you been affected by the latest Middle East events? Over in Senate question time, the foreign affairs minister, Penny Wong , has confirmed embassies in Abu Dhabi and Tel Aviv and the consulate in Dubai all physically closed in the last week. Wong said the government’s number one priority is to “keep Australians safe at home and abroad” . She continued: “The dangerous and destabilising attacks by Iran put civilian lives at risk, including Australian lives.” More than 3,200 Australians over 23 commercial flights have returned to Australia since the US and Israel attacked Iran, setting off a regional conflict and grounding thousands of international flights. Wong criticised Nationals senators for “winding up people and stoking fear” to panic buy fuel. The senator said: “Petrol companies are telling us that fuel stock continues to arrive as expected and on time but there has been a large change in the pattern of demand and that is having an effect on the supply, particularly in regional communities. We have seen jerry cans coming off the shelves at Bunnings and lines at the pump.” One of the two members of the Iranian women’s football teams provided with a humanitarian visa to stay in Australia has changed her mind and contacted the Iranian embassy , according to the country’s home affairs minister. In Australia, people are able to change their mind, people are able to travel. So, we respect the context in which she has made that decision. Unfortunately, in making that decision, she had been advised by her teammates and coach to contact the Iranian embassy and get collected … As a result of that, it meant that the Iranian embassy now knew the location of where everybody was. Continue reading...",
+      "title": "Middle East crisis live: three ships hit in strait of Hormuz as Iran calls US and allied vessels ‘legitimate targets’",
+      "summary": "Thai navy responds to attack on bulk carrier as Iran military reiterates that it ‘will not allow a single litre of oil’ through strait How have you been affected by the latest Middle East events? Over in Senate question time, the foreign affairs minister, Penny Wong , has confirmed embassies in Abu Dhabi and Tel Aviv and the consulate in Dubai all physically closed in the last week. Wong said the government’s number one priority is to “keep Australians safe at home and abroad” . She continued: “The dangerous and destabilising attacks by Iran put civilian lives at risk, including Australian lives.” More than 3,200 Australians over 23 commercial flights have returned to Australia since the US and Israel attacked Iran, setting off a regional conflict and grounding thousands of international flights. Wong criticised Nationals senators for “winding up people and stoking fear” to panic buy fuel. The senator said: “Petrol companies are telling us that fuel stock continues to arrive as expected and on time but there has been a large change in the pattern of demand and that is having an effect on the supply, particularly in regional communities. We have seen jerry cans coming off the shelves at Bunnings and lines at the pump.” One of the two members of the Iranian women’s football teams provided with a humanitarian visa to stay in Australia has changed her mind and contacted the Iranian embassy , according to the country’s home affairs minister. In Australia, people are able to change their mind, people are able to travel. So, we respect the context in which she has made that decision. Unfortunately, in making that decision, she had been advised by her teammates and coach to contact the Iranian embassy and get collected … As a result of that, it meant that the Iranian embassy now knew the location of where everybody was. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-11T15:14:26+00:00",
+      "tags": [
+        "airport/security",
+        "diplomatic"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "378d119865d503f5",
+      "title_orig": "Gerry Adams was on IRA army council, claims intelligence officer",
+      "summary_orig": "Three IRA bombing victims are seeking a ruling that Adams is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.",
+      "lang": "en",
+      "title_en": "Gerry Adams was on IRA army council, claims intelligence officer",
+      "summary_en": "Three IRA bombing victims are seeking a ruling that Adams is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.",
+      "title": "Gerry Adams was on IRA army council, claims intelligence officer",
+      "summary": "Three IRA bombing victims are seeking a ruling that Adams is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.",
+      "url": "https://www.bbc.com/news/articles/cy8gmk81x95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-03-11T15:14:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0d6bb8b4d281e32f",
+      "title_orig": "Oil built the Persian Gulf. Desalinated water keeps it alive. War could threaten both",
+      "summary_orig": "As missiles and drones curtail energy production across the Persian Gulf, analysts warn that water, not oil, may be the…",
+      "lang": "en",
+      "title_en": "Oil built the Persian Gulf. Desalinated water keeps it alive. War could threaten both",
+      "summary_en": "As missiles and drones curtail energy production across the Persian Gulf, analysts warn that water, not oil, may be the…",
+      "title": "Oil built the Persian Gulf. Desalinated water keeps it alive. War could threaten both",
+      "summary": "As missiles and drones curtail energy production across the Persian Gulf, analysts warn that water, not oil, may be the…",
+      "url": "https://wtop.com/national/2026/03/oil-built-the-persian-gulf-desalinated-water-keeps-it-alive-war-could-threaten-both/",
+      "source": "WTOP News",
+      "published_at": "2026-03-11T15:10:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c345c9053daf5946",
+      "title_orig": "UK deploys warship in the Mediterranean to protect British bases in Cyprus",
+      "summary_orig": "A British warship is on its way to Cyprus. More than a week ago, a British Royal Air Force base was hit by an Iranian-made drone. The opposition criticizes the UK's Prime Minister Keir Starmer for taking too long to send reinforcements. The country's ministry of Defence defended its actions saying the Royal Navy worked hard to complete six weeks' of work in 6 days.",
+      "lang": "en",
+      "title_en": "UK deploys warship in the Mediterranean to protect British bases in Cyprus",
+      "summary_en": "A British warship is on its way to Cyprus. More than a week ago, a British Royal Air Force base was hit by an Iranian-made drone. The opposition criticizes the UK's Prime Minister Keir Starmer for taking too long to send reinforcements. The country's ministry of Defence defended its actions saying the Royal Navy worked hard to complete six weeks' of work in 6 days.",
+      "title": "UK deploys warship in the Mediterranean to protect British bases in Cyprus",
+      "summary": "A British warship is on its way to Cyprus. More than a week ago, a British Royal Air Force base was hit by an Iranian-made drone. The opposition criticizes the UK's Prime Minister Keir Starmer for taking too long to send reinforcements. The country's ministry of Defence defended its actions saying the Royal Navy worked hard to complete six weeks' of work in 6 days.",
+      "url": "https://www.france24.com/en/uk-deploys-warship-in-the-mediterranean-to-protect-british-bases-in-cyprus",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-03-11T15:08:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1f49be60a1a459d1",
+      "title_orig": "Royal Marines hitch ride on back of German submarine in amazing pictures",
+      "summary_orig": "Commandos surfaced around 200 miles inside the Arctic Circle aboard attack submarine U-35 as part of Cold Response 26.",
+      "lang": "en",
+      "title_en": "Royal Marines hitch ride on back of German submarine in amazing pictures",
+      "summary_en": "Commandos surfaced around 200 miles inside the Arctic Circle aboard attack submarine U-35 as part of Cold Response 26.",
+      "title": "Royal Marines hitch ride on back of German submarine in amazing pictures",
+      "summary": "Commandos surfaced around 200 miles inside the Arctic Circle aboard attack submarine U-35 as part of Cold Response 26.",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/gallery/royal-marines-hitch-ride-back-36851214",
+      "source": "Daily Record - Home",
+      "published_at": "2026-03-11T15:08:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "887f3a5061a10bd1",
+      "title_orig": "Israeli government is undertaking a 'power grab under cover of war'",
+      "summary_orig": "Twelve days after the start of the US-Israeli military campaign, Israelis are spending hours a day in bomb shelters as Iranian bombs pour on the country. But since the start of the conflict, neither the Prime minister nor the Defence minister have directly addressed the Israeli population. On top of that, the war is helping 'a de facto annexation of the West Bank', says FRANCE 24's Noga Tarnopolsky from Jerusalem.",
+      "lang": "en",
+      "title_en": "Israeli government is undertaking a 'power grab under cover of war'",
+      "summary_en": "Twelve days after the start of the US-Israeli military campaign, Israelis are spending hours a day in bomb shelters as Iranian bombs pour on the country. But since the start of the conflict, neither the Prime minister nor the Defence minister have directly addressed the Israeli population. On top of that, the war is helping 'a de facto annexation of the West Bank', says FRANCE 24's Noga Tarnopolsky from Jerusalem.",
+      "title": "Israeli government is undertaking a 'power grab under cover of war'",
+      "summary": "Twelve days after the start of the US-Israeli military campaign, Israelis are spending hours a day in bomb shelters as Iranian bombs pour on the country. But since the start of the conflict, neither the Prime minister nor the Defence minister have directly addressed the Israeli population. On top of that, the war is helping 'a de facto annexation of the West Bank', says FRANCE 24's Noga Tarnopolsky from Jerusalem.",
+      "url": "https://www.france24.com/en/israeli-government-is-undertaking-a-power-grab-under-cover-of-war",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-03-11T15:06:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "260161bcc8bd5897",
+      "title_orig": "Ian Huntley funeral petition hits 40k as public funding row erupts",
+      "summary_orig": "More than 40,000 people have signed a petition to stop public money being spent on the funeral of child killer Ian Huntley, who died in hospital on Saturday after being attacked in prison",
+      "lang": "en",
+      "title_en": "Ian Huntley funeral petition hits 40k as public funding row erupts",
+      "summary_en": "More than 40,000 people have signed a petition to stop public money being spent on the funeral of child killer Ian Huntley, who died in hospital on Saturday after being attacked in prison",
+      "title": "Ian Huntley funeral petition hits 40k as public funding row erupts",
+      "summary": "More than 40,000 people have signed a petition to stop public money being spent on the funeral of child killer Ian Huntley, who died in hospital on Saturday after being attacked in prison",
+      "url": "https://www.kentlive.news/news/uk-world-news/ian-huntley-funeral-petition-hits-10861797",
+      "source": "Kent Live - frontpage",
+      "published_at": "2026-03-11T15:06:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "eaf955ccb2ce74d4",
+      "title_orig": "French aid worker among three killed in dronestrike in east DRC, M23 rebels say",
+      "summary_orig": "Rebel group blames government for attack on residential area of M23-controlled city of Goma Three people including a French UN aid worker have been killed in a drone attack in Goma, a spokesperson for the M23 rebel group has said. The attack took place at about 4am on Wednesday in the upmarket residential neighbourhood of Himbi in the city, which has been under M23 occupation since January 2025. Continue reading...",
+      "lang": "en",
+      "title_en": "French aid worker among three killed in dronestrike in east DRC, M23 rebels say",
+      "summary_en": "Rebel group blames government for attack on residential area of M23-controlled city of Goma Three people including a French UN aid worker have been killed in a drone attack in Goma, a spokesperson for the M23 rebel group has said. The attack took place at about 4am on Wednesday in the upmarket residential neighbourhood of Himbi in the city, which has been under M23 occupation since January 2025. Continue reading...",
+      "title": "French aid worker among three killed in dronestrike in east DRC, M23 rebels say",
+      "summary": "Rebel group blames government for attack on residential area of M23-controlled city of Goma Three people including a French UN aid worker have been killed in a drone attack in Goma, a spokesperson for the M23 rebel group has said. The attack took place at about 4am on Wednesday in the upmarket residential neighbourhood of Himbi in the city, which has been under M23 occupation since January 2025. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-11T15:06:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "5ed7778ad4b4f97d",
+      "title_orig": "Historic palaces and 1,000-year-old mosque damaged in Middle East conflict",
+      "summary_orig": "Four of Iran's 29 world heritage sites have been affected since the US-Israeli strikes began",
+      "lang": "en",
+      "title_en": "Historic palaces and 1,000-year-old mosque damaged in Middle East conflict",
+      "summary_en": "Four of Iran's 29 world heritage sites have been affected since the US-Israeli strikes began",
+      "title": "Historic palaces and 1,000-year-old mosque damaged in Middle East conflict",
+      "summary": "Four of Iran's 29 world heritage sites have been affected since the US-Israeli strikes began",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-war-golestan-palace-unesco-b2936491.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-11T15:05:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4a314d16436a8d51",
+      "title_orig": "Tobacco auctions halted again as farmers protest sharp fall in prices",
+      "summary_orig": "Apart from the tax burden, sources in the tobacco industry say geopolitical tensions could also be affecting procurement",
+      "lang": "en",
+      "title_en": "Tobacco auctions halted again as farmers protest sharp fall in prices",
+      "summary_en": "Apart from the tax burden, sources in the tobacco industry say geopolitical tensions could also be affecting procurement",
+      "title": "Tobacco auctions halted again as farmers protest sharp fall in prices",
+      "summary": "Apart from the tax burden, sources in the tobacco industry say geopolitical tensions could also be affecting procurement",
+      "url": "https://www.thehindu.com/news/national/karnataka/tobacco-auctions-halted-again-as-farmers-protest-sharp-fall-in-prices/article70731838.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-03-11T15:04:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "cde610068362972a",
+      "title_orig": "Unite vote to cut Labour affiliation by £580k on the 12-month anniversary of Birmingham bin strike",
+      "summary_orig": "The union said it had made it clear that the actions of the party against the city bin workers 'will not continue to be tolerated'",
+      "lang": "en",
+      "title_en": "Unite vote to cut Labour affiliation by £580k on the 12-month anniversary of Birmingham bin strike",
+      "summary_en": "The union said it had made it clear that the actions of the party against the city bin workers 'will not continue to be tolerated'",
+      "title": "Unite vote to cut Labour affiliation by £580k on the 12-month anniversary of Birmingham bin strike",
+      "summary": "The union said it had made it clear that the actions of the party against the city bin workers 'will not continue to be tolerated'",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/unite-vote-cut-labour-affiliation-33573538",
+      "source": "Birmingham Live - News",
+      "published_at": "2026-03-11T15:01:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2675f8bd5455fc8c",
+      "title_orig": "FRANCE 24 speaks to displaced Lebanese in mountains north of Beirut",
+      "summary_orig": "An Israeli strike hit an apartment block in the heart of Beirut. it is the second time Israel has targeted the heart of the Lebanese capital since the war started. The southern suburbs of Beirut and south Lebanon have come under a regular intense Israeli attack with more than 500 killed and around 700,000 displaced in twelve days. FRANCE 24 travelled to the mountains north of Beirut where families have fled to, seeking shelter.",
+      "lang": "en",
+      "title_en": "FRANCE 24 speaks to displaced Lebanese in mountains north of Beirut",
+      "summary_en": "An Israeli strike hit an apartment block in the heart of Beirut. it is the second time Israel has targeted the heart of the Lebanese capital since the war started. The southern suburbs of Beirut and south Lebanon have come under a regular intense Israeli attack with more than 500 killed and around 700,000 displaced in twelve days. FRANCE 24 travelled to the mountains north of Beirut where families have fled to, seeking shelter.",
+      "title": "FRANCE 24 speaks to displaced Lebanese in mountains north of Beirut",
+      "summary": "An Israeli strike hit an apartment block in the heart of Beirut. it is the second time Israel has targeted the heart of the Lebanese capital since the war started. The southern suburbs of Beirut and south Lebanon have come under a regular intense Israeli attack with more than 500 killed and around 700,000 displaced in twelve days. FRANCE 24 travelled to the mountains north of Beirut where families have fled to, seeking shelter.",
+      "url": "https://www.france24.com/en/france-24-speaks-to-displaced-lebanese-in-mountains-north-of-beirut",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-03-11T15:01:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "72da56f7114bb80d",
+      "title_orig": "Three ships attacked in Strait of Hormuz as Iran 'weaponises' passage point",
+      "summary_orig": "The U.S.-Israeli war on Iran has ⁠threatened Gulf ports ​and disrupted global trade through the Strait of Hormuz through which roughly a fifth of the world's oil and liquefied natural gas ​normally passes. Iran tells the world to prepare for $200 oil barrels, as three more ships came under attack in the blockaded Gulf.",
+      "lang": "en",
+      "title_en": "Three ships attacked in Strait of Hormuz as Iran 'weaponises' passage point",
+      "summary_en": "The U.S.-Israeli war on Iran has ⁠threatened Gulf ports ​and disrupted global trade through the Strait of Hormuz through which roughly a fifth of the world's oil and liquefied natural gas ​normally passes. Iran tells the world to prepare for $200 oil barrels, as three more ships came under attack in the blockaded Gulf.",
+      "title": "Three ships attacked in Strait of Hormuz as Iran 'weaponises' passage point",
+      "summary": "The U.S.-Israeli war on Iran has ⁠threatened Gulf ports ​and disrupted global trade through the Strait of Hormuz through which roughly a fifth of the world's oil and liquefied natural gas ​normally passes. Iran tells the world to prepare for $200 oil barrels, as three more ships came under attack in the blockaded Gulf.",
+      "url": "https://www.france24.com/en/three-ships-attacked-in-strait-of-hormuz-as-iran-weaponises-passage-point",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-03-11T14:59:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "288dd2a94615dee8",
+      "title_orig": "Suspect arrested in connection with Palomar Mountain shootings",
+      "summary_orig": "Ricardo Berron, 46, was arrested at San Diego International Airport for allegedly committing two separate shootings on Palomar Mountain, and a 9mm handgun believed to have been used in at least one of the shootings was seized from his home.",
+      "lang": "en",
+      "title_en": "Suspect arrested in connection with Palomar Mountain shootings",
+      "summary_en": "Ricardo Berron, 46, was arrested at San Diego International Airport for allegedly committing two separate shootings on Palomar Mountain, and a 9mm handgun believed to have been used in at least one of the shootings was seized from his home.",
+      "title": "Suspect arrested in connection with Palomar Mountain shootings",
+      "summary": "Ricardo Berron, 46, was arrested at San Diego International Airport for allegedly committing two separate shootings on Palomar Mountain, and a 9mm handgun believed to have been used in at least one of the shootings was seized from his home.",
+      "url": "https://fox5sandiego.com/news/local-news/palomar-mountain-shootings-arrest/",
+      "source": "FOX 5 San Diego & KUSI News",
+      "published_at": "2026-03-11T14:58:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9328adaed34b5bb9",
+      "title_orig": "Lille receive major boost for Aston Villa clash as scourge returns",
+      "summary_orig": "Former Arsenal and Chelsea striker Olivier Giroud is fit to face Aston Villa on Thursday night",
+      "lang": "en",
+      "title_en": "Lille receive major boost for Aston Villa clash as scourge returns",
+      "summary_en": "Former Arsenal and Chelsea striker Olivier Giroud is fit to face Aston Villa on Thursday night",
+      "title": "Lille receive major boost for Aston Villa clash as scourge returns",
+      "summary": "Former Arsenal and Chelsea striker Olivier Giroud is fit to face Aston Villa on Thursday night",
+      "url": "https://www.birminghammail.co.uk/sport/football/football-news/lille-receive-major-boost-aston-33573508",
+      "source": "Birmingham Live - Home",
+      "published_at": "2026-03-11T14:54:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8a100f59b02e717d",
+      "title_orig": "Iran warns world to ‘get ready for $200 a barrel’ as attacks continue to disrupt oil supplies",
+      "summary_orig": "Oil prices have eased after they shot up earlier this week in response to the conflict",
+      "lang": "en",
+      "title_en": "Iran warns world to ‘get ready for $200 a barrel’ as attacks continue to disrupt oil supplies",
+      "summary_en": "Oil prices have eased after they shot up earlier this week in response to the conflict",
+      "title": "Iran warns world to ‘get ready for $200 a barrel’ as attacks continue to disrupt oil supplies",
+      "summary": "Oil prices have eased after they shot up earlier this week in response to the conflict",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-oil-prices-straight-of-hormuz-b2936372.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-11T14:53:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "33a6e04d9271203b",
+      "title_orig": "Tube strikes warning: 'No service from Tuesday until Friday' as Sadiq Khan calls for peace talks with RMT",
+      "summary_orig": "Three weeks of RMT Tube driver walkouts could mean ‘limited or no service’ for four days at a time, The Standard has learned",
+      "lang": "en",
+      "title_en": "Tube strikes warning: 'No service from Tuesday until Friday' as Sadiq Khan calls for peace talks with RMT",
+      "summary_en": "Three weeks of RMT Tube driver walkouts could mean ‘limited or no service’ for four days at a time, The Standard has learned",
+      "title": "Tube strikes warning: 'No service from Tuesday until Friday' as Sadiq Khan calls for peace talks with RMT",
+      "summary": "Three weeks of RMT Tube driver walkouts could mean ‘limited or no service’ for four days at a time, The Standard has learned",
+      "url": "https://www.standard.co.uk/news/transport/tube-strikes-rmt-tuesday-friday-sadiq-khan-peace-talks-b1274428.html",
+      "source": "The Standard News",
+      "published_at": "2026-03-11T14:50:36+00:00",
       "tags": [
         "airport/security"
       ],
@@ -101,17 +642,17 @@
       "geo": {}
     },
     {
-      "id": "6ba559e43a17cdea",
-      "title_orig": "Trump says ‘practically nothing left to target’ in Iran and the war will end when he chooses",
-      "summary_orig": "President Donald Trump says bombing campaign against Tehran will be over ‘soon’ and insists: ‘Any time I want it to end, it will end’",
+      "id": "46df637f350cf7b1",
+      "title_orig": "Inflation held steady last month before attack on Iran sent energy costs soaring",
+      "summary_orig": "Inflation in the U.S. stayed high as gas prices rose before an attack on Iran further increased energy costs, impacting consumer spending and economic growth.",
       "lang": "en",
-      "title_en": "Trump says ‘practically nothing left to target’ in Iran and the war will end when he chooses",
-      "summary_en": "President Donald Trump says bombing campaign against Tehran will be over ‘soon’ and insists: ‘Any time I want it to end, it will end’",
-      "title": "Trump says ‘practically nothing left to target’ in Iran and the war will end when he chooses",
-      "summary": "President Donald Trump says bombing campaign against Tehran will be over ‘soon’ and insists: ‘Any time I want it to end, it will end’",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-conflict-airstrikes-targets-b2936444.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-11T14:47:25+00:00",
+      "title_en": "Inflation held steady last month before attack on Iran sent energy costs soaring",
+      "summary_en": "Inflation in the U.S. stayed high as gas prices rose before an attack on Iran further increased energy costs, impacting consumer spending and economic growth.",
+      "title": "Inflation held steady last month before attack on Iran sent energy costs soaring",
+      "summary": "Inflation in the U.S. stayed high as gas prices rose before an attack on Iran further increased energy costs, impacting consumer spending and economic growth.",
+      "url": "https://www.pennlive.com/nation-world/2026/03/inflation-held-steady-last-month-before-attack-on-iran-sent-energy-costs-soaring.html",
+      "source": "pennlive.com",
+      "published_at": "2026-03-11T14:50:21+00:00",
       "tags": [
         "airport/security"
       ],
@@ -152,6 +693,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "79f42d238f89f17a",
+      "title_orig": "Starmer attacks Badenoch and Farage over Iran war support U-turns at raucous PMQs",
+      "summary_orig": "PM says UK would ‘be at war’ now if it were up to Tory and Reform leaders and accuses both of changing position UK politics live – latest updates Keir Starmer has attacked Kemi Badenoch and Nigel Farage over their stance on the war in Iran, accusing both of U-turning on their support for Donald Trump. At a raucous prime minister’s questions, Starmer accused the leader of the opposition of making the “mother of all U-turns” and furiously trying to backpedal after on Tuesday she denied calling for the UK to join the US president’s war on Iran , after previously saying Starmer should do more to “stop the people who are attacking us”. Continue reading...",
+      "lang": "en",
+      "title_en": "Starmer attacks Badenoch and Farage over Iran war support U-turns at raucous PMQs",
+      "summary_en": "PM says UK would ‘be at war’ now if it were up to Tory and Reform leaders and accuses both of changing position UK politics live – latest updates Keir Starmer has attacked Kemi Badenoch and Nigel Farage over their stance on the war in Iran, accusing both of U-turning on their support for Donald Trump. At a raucous prime minister’s questions, Starmer accused the leader of the opposition of making the “mother of all U-turns” and furiously trying to backpedal after on Tuesday she denied calling for the UK to join the US president’s war on Iran , after previously saying Starmer should do more to “stop the people who are attacking us”. Continue reading...",
+      "title": "Starmer attacks Badenoch and Farage over Iran war support U-turns at raucous PMQs",
+      "summary": "PM says UK would ‘be at war’ now if it were up to Tory and Reform leaders and accuses both of changing position UK politics live – latest updates Keir Starmer has attacked Kemi Badenoch and Nigel Farage over their stance on the war in Iran, accusing both of U-turning on their support for Donald Trump. At a raucous prime minister’s questions, Starmer accused the leader of the opposition of making the “mother of all U-turns” and furiously trying to backpedal after on Tuesday she denied calling for the UK to join the US president’s war on Iran , after previously saying Starmer should do more to “stop the people who are attacking us”. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/mar/11/starmer-attacks-badenoch-and-farage-over-iran-war-support-u-turns-at-raucous-pmqs",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-11T14:42:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -202,6 +761,24 @@
       "url": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html",
       "source": "NYT > World News",
       "published_at": "2026-03-11T14:40:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "436de538df9e329b",
+      "title_orig": "The Israel-Hezbollah ceasefire was built to fail",
+      "summary_orig": "Israeli attacks never stopped, and the mechanism meant to police violations had no power to stop them.",
+      "lang": "en",
+      "title_en": "The Israel-Hezbollah ceasefire was built to fail",
+      "summary_en": "Israeli attacks never stopped, and the mechanism meant to police violations had no power to stop them.",
+      "title": "The Israel-Hezbollah ceasefire was built to fail",
+      "summary": "Israeli attacks never stopped, and the mechanism meant to police violations had no power to stop them.",
+      "url": "https://www.aljazeera.com/opinions/2026/3/11/the-israel-hezbollah-ceasefire-was-built-to-fail?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-03-11T14:38:26+00:00",
       "tags": [
         "airport/security"
       ],
@@ -263,24 +840,6 @@
       "geo": {}
     },
     {
-      "id": "a9e87e54af956415",
-      "title_orig": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
-      "summary_orig": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
-      "lang": "en",
-      "title_en": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
-      "summary_en": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
-      "title": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
-      "summary": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
-      "url": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-11T14:35:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ca583537cb82ed76",
       "title_orig": "War Diary Day 12: Strait of Hormuz becomes flashpoint",
       "summary_orig": "On the 12th day of the US–Israel war against Iran, the maritime domain, particularly the Strait of Hormuz , clearly emerged as the principal flashpoint, shaping both the military trajectory of the war and the strategic calculations of the US as the contest over oil flows and shipping lanes began to define the central logic of the conflict. In the past 24 hours, at least three separate attacks were recorded against commercial vessels operating in or near the Strait of Hormuz, reinforcing the perception that Iran is now enforcing its threat to disrupt maritime traffic through direct kinetic pressure. The incidents occurred in quick succession and involved vessels from three different flag states, which pointed to the widening risks to global shipping. A Thailand-flagged bulk carrier, Mayuree Naree, was struck by an unidentified projectile roughly 11 nautical miles north of Oman inside the strait, triggering a fire that forced most of the crew to evacuate before the blaze was eventually contained. Shortly afterwards, a Japan-flagged container vessel, One Majesty, suffered damage from a similar strike about 25 nautical miles northwest of Ras al-Khaimah in the United Arab Emirates. Another bulk carrier, Star Gwyneth, sailing under a Marshall Islands flag, was hit roughly fifty nautical miles northwest of Dubai. None of the incidents resulted in major damage, but the pattern of attacks was enough to reinforce worries among shipping companies that the waterway had effectively become an active conflict zone. This handout photo taken on March 11, 2026 and released by the Royal Thai Navy shows smoke rising from the Thai bulk carrier ‘Mayuree Naree’ near the Strait of Hormuz after an attack. — AFP These incidents occurred despite earlier American strikes targeting Iranian mine-laying vessels in the Gulf. Intelligence assessments indicate that Iranian preparations to deploy naval mines have nonetheless continued. Analysts believe that even limited attacks, carried out intermittently through drones or missiles, could be sufficient to freeze commercial insurance coverage and deter normal shipping without requiring a full-scale closure of the Strait. The result has been a near collapse in conventional traffic through one of the world’s most critical energy corridors. Estimates suggest that non-Iranian or non-Chinese-linked shipping transits through the Strait of Hormuz have fallen sharply compared with pre-conflict levels. Iranian oil exports to China through shadow fleet arrangements continue, however, and more than 11 million barrels have reportedly moved through alternative channels since the war began. For Washington, the maritime crisis has introduced a new and increasingly dominant priority, elevating the continued flow of oil through the Gulf as the central strategic objective guiding American policy in the war. The rising pressure on energy markets has already begun to produce visible domestic consequences inside the US, where gasoline prices have gone north, fuelling political criticism of the war. Moreover, the perception that economic costs are outweighing military gains is deepening. How much Strait of Hormuz was playing on US officials’ minds became evident from an awkward social media episode. Chris Wright, the US energy secretary, posted on X that the US Navy had “successfully escorted an oil tanker through the Strait of Hormuz to ensure oil remains flowing to global markets”. The statement, however, was incorrect and no such escort had taken place. The The White House later acknowledged that and the post was deleted. The responsibility was, meanwhile, shifted to a junior staffer. By then the moment had already been seized upon by Tehran. Mohammad Bagher Ghalibaf, the speaker of Iran’s parliament, had preserved a screenshot and responded with a pointed remark that the supposed escort must have occurred “on the PlayStation”. The comment drew more than a million views as the episode became an iconic moment of the war’s information battle. The pressure on energy markets has been amplified by a cascade of disruptions across the region’s petrochemical sector. More than a dozen facilities have declared force majeure conditions, while insurance rates for tankers operating near the Strait of Hormuz have surged sharply. Global markets are increasingly factoring in the possibility that the maritime confrontation could persist for months, if not longer, particularly if Iran chooses to sustain harassment operations rather than impose a total blockade. This emerging pattern fits closely with Tehran’s broader strategy of asymmetric attrition. Although coalition air strikes have inflicted measurable damage on Iranian military infrastructure, including airbases and missile facilities, Iran’s capacity to apply pressure through drones, proxy forces, and maritime disruption has largely remained intact. Iranian officials have repeatedly signalled that the security of regional shipping will depend on the broader political environment. Tankers sail in the Gulf, near the Strait of Hormuz, as seen from northern Ras al-Khaimah, amid the US-Israeli conflict with Iran, in United Arab Emirates, March 11. — Reuters The possibility that the maritime theatre could expand further remains a central concern among regional planners. The possible entry of Yemen’s Ansarullah movement into the conflict at some later stage would bring the Bab al-Mandab chokepoint into play alongside the Strait of Hormuz. If this were to happen, a third of global oil shipments could be disrupted, delivering a major shock to global trade far beyond the Middle East. While the maritime contest increasingly dominates strategic calculations, military exchanges on land and in the air have continued at a lower but still significant intensity. American forces released footage showing the destruction of an Iranian ballistic missile launcher hidden inside a hardened shelter, with the resulting explosion indicating the presence of stored munitions. Additional strikes reportedly targeted hardened aircraft shelters at an Iranian airbase near Isfahan, where several ageing fighter aircraft were believed to be stationed. Iranian responses during the same period relied heavily on drones and intermittent missile attacks targeting Israeli cities. Air raid sirens sounded repeatedly in Tel Aviv during the previous night, while Iranian media outlets claimed attacks on intelligence and radar facilities connected with Israel’s air defence network. This pattern of attacks suggests that the conflict is settling into a cycle of repeated harassment strikes rather than decisive engagements. A streak of light illuminates the sky during an interception attempt made by Israel as missiles are launched from Iran amid the US-Israeli conflict with Iran, as seen from Tel Aviv, Israel, March 11, 2026. — Reuters Beyond the central battlefield, the proxy network aligned with Tehran continues to apply pressure across several fronts. Hezbollah has maintained a steady barrage of rockets and anti-tank fire along the northern border with Israel, while Israeli air strikes inside Lebanon have inflicted additional casualties in the Baalbek region, where local authorities reported that several civilians, including children, were killed in recent raids. The Lebanese death toll since the expansion of the conflict has now climbed into the hundreds. In Iraq, armed factions aligned with Iran have continued drone attacks against facilities linked to American logistics networks, including reported strikes near Basra and other installations associated with coalition operations. In one such attack, a resistance group claimed 13 US soldiers were killed, but the claim could not be independently verified. Nevertheless, attacks in Iraq have continued to stretch the defensive posture of American forces across multiple theatres. At the same time, Tehran has signalled that the conflict could extend into additional domains beyond energy infrastructure. Iranian state media outlets have publicly named several Western technology companies operating in the Gulf and Israel as potential targets, arguing that digital infrastructure linked to military and intelligence operations forms part of the broader battlefield. Iranian drones have in recent days already targeted tech facilities such as Amazon and Microsoft, and such statements imply that these attacks could grow, accelerating the departure of tech companies from Gulf states. On the whole, the war looks to be moving into a phase where control of strategic chokepoints and economic infrastructure may prove more decisive than traditional battlefield outcomes. The struggle over the Strait of Hormuz has already placed global oil flows at the centre of the confrontation and forced Washington to recalibrate its priorities toward safeguarding energy supply lines. For Iran, the maritime theatre offers an arena where it can cost-effectively produce outsized strategic consequences. For the United States and its allies, the challenge lies in protecting global trade without becoming trapped in a prolonged and increasingly expensive confrontation in waters where the balance of advantage favours asymmetric tactics. Header image: A tanker sails in the Gulf, near the Strait of Hormuz, as seen from northern Ras al-Khaimah amid the US-Israeli conflict with Iran, in United Arab Emirates, March 11. — AFP",
@@ -296,25 +855,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "81fe337f767992dd",
-      "title_orig": "Middle East crisis live: three ships hit in strait of Hormuz as Iran calls vessels belonging to US or allies ‘legitimate targets’",
-      "summary_orig": "Thai navy responds to attack on bulk carrier as Iran military reiterates that it ‘will not allow a single litre of oil’ through strait How have you been affected by the latest Middle East events? Over in Senate question time, the foreign affairs minister, Penny Wong , has confirmed embassies in Abu Dhabi and Tel Aviv and the consulate in Dubai all physically closed in the last week. Wong said the government’s number one priority is to “keep Australians safe at home and abroad” . She continued: “The dangerous and destabilising attacks by Iran put civilian lives at risk, including Australian lives.” More than 3,200 Australians over 23 commercial flights have returned to Australia since the US and Israel attacked Iran, setting off a regional conflict and grounding thousands of international flights. Wong criticised Nationals senators for “winding up people and stoking fear” to panic buy fuel. The senator said: “Petrol companies are telling us that fuel stock continues to arrive as expected and on time but there has been a large change in the pattern of demand and that is having an effect on the supply, particularly in regional communities. We have seen jerry cans coming off the shelves at Bunnings and lines at the pump.” One of the two members of the Iranian women’s football teams provided with a humanitarian visa to stay in Australia has changed her mind and contacted the Iranian embassy , according to the country’s home affairs minister. In Australia, people are able to change their mind, people are able to travel. So, we respect the context in which she has made that decision. Unfortunately, in making that decision, she had been advised by her teammates and coach to contact the Iranian embassy and get collected … As a result of that, it meant that the Iranian embassy now knew the location of where everybody was. Continue reading...",
-      "lang": "en",
-      "title_en": "Middle East crisis live: three ships hit in strait of Hormuz as Iran calls vessels belonging to US or allies ‘legitimate targets’",
-      "summary_en": "Thai navy responds to attack on bulk carrier as Iran military reiterates that it ‘will not allow a single litre of oil’ through strait How have you been affected by the latest Middle East events? Over in Senate question time, the foreign affairs minister, Penny Wong , has confirmed embassies in Abu Dhabi and Tel Aviv and the consulate in Dubai all physically closed in the last week. Wong said the government’s number one priority is to “keep Australians safe at home and abroad” . She continued: “The dangerous and destabilising attacks by Iran put civilian lives at risk, including Australian lives.” More than 3,200 Australians over 23 commercial flights have returned to Australia since the US and Israel attacked Iran, setting off a regional conflict and grounding thousands of international flights. Wong criticised Nationals senators for “winding up people and stoking fear” to panic buy fuel. The senator said: “Petrol companies are telling us that fuel stock continues to arrive as expected and on time but there has been a large change in the pattern of demand and that is having an effect on the supply, particularly in regional communities. We have seen jerry cans coming off the shelves at Bunnings and lines at the pump.” One of the two members of the Iranian women’s football teams provided with a humanitarian visa to stay in Australia has changed her mind and contacted the Iranian embassy , according to the country’s home affairs minister. In Australia, people are able to change their mind, people are able to travel. So, we respect the context in which she has made that decision. Unfortunately, in making that decision, she had been advised by her teammates and coach to contact the Iranian embassy and get collected … As a result of that, it meant that the Iranian embassy now knew the location of where everybody was. Continue reading...",
-      "title": "Middle East crisis live: three ships hit in strait of Hormuz as Iran calls vessels belonging to US or allies ‘legitimate targets’",
-      "summary": "Thai navy responds to attack on bulk carrier as Iran military reiterates that it ‘will not allow a single litre of oil’ through strait How have you been affected by the latest Middle East events? Over in Senate question time, the foreign affairs minister, Penny Wong , has confirmed embassies in Abu Dhabi and Tel Aviv and the consulate in Dubai all physically closed in the last week. Wong said the government’s number one priority is to “keep Australians safe at home and abroad” . She continued: “The dangerous and destabilising attacks by Iran put civilian lives at risk, including Australian lives.” More than 3,200 Australians over 23 commercial flights have returned to Australia since the US and Israel attacked Iran, setting off a regional conflict and grounding thousands of international flights. Wong criticised Nationals senators for “winding up people and stoking fear” to panic buy fuel. The senator said: “Petrol companies are telling us that fuel stock continues to arrive as expected and on time but there has been a large change in the pattern of demand and that is having an effect on the supply, particularly in regional communities. We have seen jerry cans coming off the shelves at Bunnings and lines at the pump.” One of the two members of the Iranian women’s football teams provided with a humanitarian visa to stay in Australia has changed her mind and contacted the Iranian embassy , according to the country’s home affairs minister. In Australia, people are able to change their mind, people are able to travel. So, we respect the context in which she has made that decision. Unfortunately, in making that decision, she had been advised by her teammates and coach to contact the Iranian embassy and get collected … As a result of that, it meant that the Iranian embassy now knew the location of where everybody was. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-11T14:28:27+00:00",
-      "tags": [
-        "airport/security",
-        "diplomatic"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -373,17 +913,17 @@
       "geo": {}
     },
     {
-      "id": "9569fa18011ffabd",
-      "title_orig": "Oil prices could surge to $200 a barrel, Iran warns as war stretches on",
-      "summary_orig": "Iran's military command said on Wednesday the world should be prepared for oil to hit US$200 a barrel, as three more ships came under attack in the blockaded Gulf.",
+      "id": "1fa254b51f26721a",
+      "title_orig": "How many ships have been attacked in the Gulf since start of Iran war?",
+      "summary_orig": "DUBAI, March 11 - The U.S.-Israeli war on Iran has threatened Gulf ports and disrupted global trade through the Strait of Hormuz through which roughly a fifth of the world's oil and liquefied natural gas normally passes.",
       "lang": "en",
-      "title_en": "Oil prices could surge to $200 a barrel, Iran warns as war stretches on",
-      "summary_en": "Iran's military command said on Wednesday the world should be prepared for oil to hit US$200 a barrel, as three more ships came under attack in the blockaded Gulf.",
-      "title": "Oil prices could surge to $200 a barrel, Iran warns as war stretches on",
-      "summary": "Iran's military command said on Wednesday the world should be prepared for oil to hit US$200 a barrel, as three more ships came under attack in the blockaded Gulf.",
-      "url": "https://globalnews.ca/news/11725648/oil-prices-iran-200-per-barrel/",
-      "source": "globalnews.ca",
-      "published_at": "2026-03-11T14:14:36+00:00",
+      "title_en": "How many ships have been attacked in the Gulf since start of Iran war?",
+      "summary_en": "DUBAI, March 11 - The U.S.-Israeli war on Iran has threatened Gulf ports and disrupted global trade through the Strait of Hormuz through which roughly a fifth of the world's oil and liquefied natural gas normally passes.",
+      "title": "How many ships have been attacked in the Gulf since start of Iran war?",
+      "summary": "DUBAI, March 11 - The U.S.-Israeli war on Iran has threatened Gulf ports and disrupted global trade through the Strait of Hormuz through which roughly a fifth of the world's oil and liquefied natural gas normally passes.",
+      "url": "https://www.straitstimes.com/world/middle-east/how-many-ships-have-been-attacked-in-the-gulf-since-start-of-iran-war",
+      "source": "The Straits Times World News",
+      "published_at": "2026-03-11T14:15:36+00:00",
       "tags": [
         "airport/security"
       ],
@@ -679,24 +1219,6 @@
       "geo": {}
     },
     {
-      "id": "1fbb31a0a29bba1b",
-      "title_orig": "Inflation in the U.S. stayed at 2.4% in February as grocery prices spiked",
-      "summary_orig": "Inflation stayed stubbornly elevated last month as gas prices rose in a snapshot of what consumer prices looked like before the U.S.-Israeli attack on Iran.",
-      "lang": "en",
-      "title_en": "Inflation in the U.S. stayed at 2.4% in February as grocery prices spiked",
-      "summary_en": "Inflation stayed stubbornly elevated last month as gas prices rose in a snapshot of what consumer prices looked like before the U.S.-Israeli attack on Iran.",
-      "title": "Inflation in the U.S. stayed at 2.4% in February as grocery prices spiked",
-      "summary": "Inflation stayed stubbornly elevated last month as gas prices rose in a snapshot of what consumer prices looked like before the U.S.-Israeli attack on Iran.",
-      "url": "https://globalnews.ca/news/11725480/united-states-inflation-february-2026/",
-      "source": "globalnews.ca",
-      "published_at": "2026-03-11T13:34:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e4623b04ab28da22",
       "title_orig": "Three cargo ships hit as Iran battles the US in Strait of Hormuz amid fresh Middle East airstrikes",
       "summary_orig": "Cargo ship forced to evacuate vessel off the UAE after it was hit by unknown ⁠projectile",
@@ -708,42 +1230,6 @@
       "url": "https://www.standard.co.uk/news/politics/cargo-ship-hit-hormuz-strait-trump-war-oil-iran-israel-b1274336.html",
       "source": "The Standard News",
       "published_at": "2026-03-11T13:34:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ff4c1c60d010942a",
-      "title_orig": "Iran-US war latest: Multiple ships attacked in Strait of Hormuz as Tehran threatens to send price of oil soaring",
-      "summary_orig": "Iran threatened to launch its most “intense strikes” of the conflict so far overnight, after the US promised the same on Tuesday",
-      "lang": "en",
-      "title_en": "Iran-US war latest: Multiple ships attacked in Strait of Hormuz as Tehran threatens to send price of oil soaring",
-      "summary_en": "Iran threatened to launch its most “intense strikes” of the conflict so far overnight, after the US promised the same on Tuesday",
-      "title": "Iran-US war latest: Multiple ships attacked in Strait of Hormuz as Tehran threatens to send price of oil soaring",
-      "summary": "Iran threatened to launch its most “intense strikes” of the conflict so far overnight, after the US promised the same on Tuesday",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-trump-israel-war-oil-lebanon-strait-of-hormuz-live-b2936049.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-11T13:33:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8a100f59b02e717d",
-      "title_orig": "Iran warns world to ‘get ready for $200 a barrel’ as attacks continue to disrupt oil supplies",
-      "summary_orig": "Oil prices have eased after they shot up earlier this week in response to the conflict",
-      "lang": "en",
-      "title_en": "Iran warns world to ‘get ready for $200 a barrel’ as attacks continue to disrupt oil supplies",
-      "summary_en": "Oil prices have eased after they shot up earlier this week in response to the conflict",
-      "title": "Iran warns world to ‘get ready for $200 a barrel’ as attacks continue to disrupt oil supplies",
-      "summary": "Oil prices have eased after they shot up earlier this week in response to the conflict",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-oil-prices-straight-of-hormuz-b2936372.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-11T13:32:56+00:00",
       "tags": [
         "airport/security"
       ],
@@ -787,24 +1273,6 @@
       "geo": {}
     },
     {
-      "id": "2d2f2f27cde20df0",
-      "title_orig": "Protestors in Manipur demand NRC before Census, tear-gassed",
-      "summary_orig": "Scores of people, mostly women, say the State needs a mechanism to weed out ‘illegal immigrants’",
-      "lang": "en",
-      "title_en": "Protestors in Manipur demand NRC before Census, tear-gassed",
-      "summary_en": "Scores of people, mostly women, say the State needs a mechanism to weed out ‘illegal immigrants’",
-      "title": "Protestors in Manipur demand NRC before Census, tear-gassed",
-      "summary": "Scores of people, mostly women, say the State needs a mechanism to weed out ‘illegal immigrants’",
-      "url": "https://www.thehindu.com/news/national/manipur/protestors-in-manipur-demand-nrc-before-census-tear-gassed/article70730945.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-03-11T13:30:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "faca3469bec7aebc",
       "title_orig": "New Iranian supreme leader 'safe and sound' amid rumours surrounding wellbeing",
       "summary_orig": "The son of Iran's president has said the new Supreme Leader Mojtaba Khamenei is \"safe and sound\" following reports the late ayatollah's son was injured in a strike that killed his father and his wife on the first day of the war. Khamenei has not been seen since his nomination, sparking rumours regarding his wellbeing.",
@@ -841,33 +1309,6 @@
       "geo": {}
     },
     {
-      "id": "aeff445bedb02a7b",
-      "title_orig": "Iran targets commercial ships, Dubai airport and oil facilities as concerns grow over global energy",
-      "summary_orig": "Iran attacked commercial ships on Wednesday across the Persian Gulf and targeted Dubai International Airport, escalating a campaign of squeezing the oil-rich region as global energy concerns mounted and American and Israeli airstrikes pounded the Islamic Republic.",
-      "lang": "en",
-      "title_en": "Iran targets commercial ships, Dubai airport and oil facilities as concerns grow over global energy",
-      "summary_en": "Iran attacked commercial ships on Wednesday across the Persian Gulf and targeted Dubai International Airport, escalating a campaign of squeezing the oil-rich region as global energy concerns mounted and American and Israeli airstrikes pounded the Islamic Republic.",
-      "title": "Iran targets commercial ships, Dubai airport and oil facilities as concerns grow over global energy",
-      "summary": "Iran attacked commercial ships on Wednesday across the Persian Gulf and targeted Dubai International Airport, escalating a campaign of squeezing the oil-rich region as global energy concerns mounted and American and Israeli airstrikes pounded the Islamic Republic.",
-      "url": "https://www.startribune.com/iran-keeps-up-pressure-on-oil-infrastructure-as-concerns-of-global-energy-crisis-grow/601596267",
-      "source": "Startribune News",
-      "published_at": "2026-03-11T13:27:03+00:00",
-      "tags": [
-        "DXB",
-        "United Arab Emirates",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Dubai",
-        "city": "Dubai",
-        "country": "United Arab Emirates",
-        "iata": "DXB",
-        "lat": 25.2532,
-        "lon": 55.3657
-      }
-    },
-    {
       "id": "50f88e5f8be623a3",
       "title_orig": "Funeral held for top Iranian commanders killed in US-Israeli strikes",
       "summary_orig": "Thousands of people gathered in Tehran to mourn top Iranian military officials killed by US-Israeli strikes.",
@@ -879,24 +1320,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/funeral-held-for-top-iranian-commanders-killed-in-us-israeli-strikes?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
       "published_at": "2026-03-11T13:25:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "79f42d238f89f17a",
-      "title_orig": "Starmer attacks Badenoch and Farage over Iran war support U-turns at raucous PMQs",
-      "summary_orig": "PM says UK would ‘be at war’ now if it were up to Tory and Reform leaders and accuses both of changing position on war UK politics live – latest updates Keir Starmer has attacked Kemi Badenoch and Nigel Farage over their stance on the war in Iran, accusing both of U-turning on their support for Donald Trump. At a raucous prime minister’s questions, Starmer accused the leader of the opposition of making the “mother of all U-turns” and furiously trying to backpedal after on Tuesday she denied calling for the UK to join the US president’s war on Iran , after previously saying Starmer should do more to “stop the people who are attacking us”. Continue reading...",
-      "lang": "en",
-      "title_en": "Starmer attacks Badenoch and Farage over Iran war support U-turns at raucous PMQs",
-      "summary_en": "PM says UK would ‘be at war’ now if it were up to Tory and Reform leaders and accuses both of changing position on war UK politics live – latest updates Keir Starmer has attacked Kemi Badenoch and Nigel Farage over their stance on the war in Iran, accusing both of U-turning on their support for Donald Trump. At a raucous prime minister’s questions, Starmer accused the leader of the opposition of making the “mother of all U-turns” and furiously trying to backpedal after on Tuesday she denied calling for the UK to join the US president’s war on Iran , after previously saying Starmer should do more to “stop the people who are attacking us”. Continue reading...",
-      "title": "Starmer attacks Badenoch and Farage over Iran war support U-turns at raucous PMQs",
-      "summary": "PM says UK would ‘be at war’ now if it were up to Tory and Reform leaders and accuses both of changing position on war UK politics live – latest updates Keir Starmer has attacked Kemi Badenoch and Nigel Farage over their stance on the war in Iran, accusing both of U-turning on their support for Donald Trump. At a raucous prime minister’s questions, Starmer accused the leader of the opposition of making the “mother of all U-turns” and furiously trying to backpedal after on Tuesday she denied calling for the UK to join the US president’s war on Iran , after previously saying Starmer should do more to “stop the people who are attacking us”. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/mar/11/starmer-attacks-badenoch-and-farage-over-iran-war-support-u-turns-at-raucous-pmqs",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-11T13:24:59+00:00",
       "tags": [
         "airport/security"
       ],
@@ -976,24 +1399,6 @@
       "geo": {}
     },
     {
-      "id": "378d119865d503f5",
-      "title_orig": "Gerry Adams was on IRA army council, claims intelligence officer",
-      "summary_orig": "Three IRA bombing victims are seeking a ruling that Adams is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.",
-      "lang": "en",
-      "title_en": "Gerry Adams was on IRA army council, claims intelligence officer",
-      "summary_en": "Three IRA bombing victims are seeking a ruling that Adams is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.",
-      "title": "Gerry Adams was on IRA army council, claims intelligence officer",
-      "summary": "Three IRA bombing victims are seeking a ruling that Adams is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.",
-      "url": "https://www.bbc.com/news/articles/cy8gmk81x95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-11T13:08:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "88bd5c9b0f6f249b",
       "title_orig": "Five-hour airport waits?! US gov’t shutdown causes traveler ‘chaos’ and Spring Break isn’t even in full swing",
       "summary_orig": "Frustrated passengers traveling for Spring Break said they were not aware of the partial government shutdown until they stepped foot in airport terminals, where they waited hours to get through TSA",
@@ -1031,12 +1436,12 @@
     },
     {
       "id": "610ababf8725dd6a",
-      "title_orig": "Attacks from all sides: Why Iraq was dragged into US-Israel war on Iran",
+      "title_orig": "Why Iraq was attacked from all sides amid US-Israel war on Iran",
       "summary_orig": "Iraq has seen attacks from both sides of the conflict: Iran and its proxies on the one side and the US on the other.",
       "lang": "en",
-      "title_en": "Attacks from all sides: Why Iraq was dragged into US-Israel war on Iran",
+      "title_en": "Why Iraq was attacked from all sides amid US-Israel war on Iran",
       "summary_en": "Iraq has seen attacks from both sides of the conflict: Iran and its proxies on the one side and the US on the other.",
-      "title": "Attacks from all sides: Why Iraq was dragged into US-Israel war on Iran",
+      "title": "Why Iraq was attacked from all sides amid US-Israel war on Iran",
       "summary": "Iraq has seen attacks from both sides of the conflict: Iran and its proxies on the one side and the US on the other.",
       "url": "https://www.aljazeera.com/news/2026/3/11/attacks-from-all-sides-why-iraq-was-dragged-into-us-israel-war-on-iran?traffic_source=rss",
       "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -1138,24 +1543,6 @@
       "geo": {}
     },
     {
-      "id": "ef93dfd0cc06fd35",
-      "title_orig": "US attacks Iran’s mine-laying boats in strait of Hormuz as tensions rise over oil | First Thing",
-      "summary_orig": "Iran’s IRGC has said it will not allow even ‘one litre’ to leave the region if US-Israeli attacks continue. Plus, how gen Z women are conquering country music Don’t already get First Thing in your inbox? Sign up here Good morning. The US military has said it attacked and destroyed 16 Iranian mine-laying vessels near the strait of Hormuz amid reports that Iran has begun laying explosive devices in the narrow waterway through which about a fifth of the world’s oil passes. What have we heard about Iran’s new supreme leader? Mojtaba Khamenei, is “safe and sound” according to Yousef Pezeshkian, the son of Iran’s president. The comments came amid speculation about supreme leader’s health and whereabouts, as he has not engaged with the public since he succeeded his late father, Ayatollah Ali Khamenei, three days ago. Continue reading...",
-      "lang": "en",
-      "title_en": "US attacks Iran’s mine-laying boats in strait of Hormuz as tensions rise over oil | First Thing",
-      "summary_en": "Iran’s IRGC has said it will not allow even ‘one litre’ to leave the region if US-Israeli attacks continue. Plus, how gen Z women are conquering country music Don’t already get First Thing in your inbox? Sign up here Good morning. The US military has said it attacked and destroyed 16 Iranian mine-laying vessels near the strait of Hormuz amid reports that Iran has begun laying explosive devices in the narrow waterway through which about a fifth of the world’s oil passes. What have we heard about Iran’s new supreme leader? Mojtaba Khamenei, is “safe and sound” according to Yousef Pezeshkian, the son of Iran’s president. The comments came amid speculation about supreme leader’s health and whereabouts, as he has not engaged with the public since he succeeded his late father, Ayatollah Ali Khamenei, three days ago. Continue reading...",
-      "title": "US attacks Iran’s mine-laying boats in strait of Hormuz as tensions rise over oil | First Thing",
-      "summary": "Iran’s IRGC has said it will not allow even ‘one litre’ to leave the region if US-Israeli attacks continue. Plus, how gen Z women are conquering country music Don’t already get First Thing in your inbox? Sign up here Good morning. The US military has said it attacked and destroyed 16 Iranian mine-laying vessels near the strait of Hormuz amid reports that Iran has begun laying explosive devices in the narrow waterway through which about a fifth of the world’s oil passes. What have we heard about Iran’s new supreme leader? Mojtaba Khamenei, is “safe and sound” according to Yousef Pezeshkian, the son of Iran’s president. The comments came amid speculation about supreme leader’s health and whereabouts, as he has not engaged with the public since he succeeded his late father, Ayatollah Ali Khamenei, three days ago. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/mar/11/first-thing-us-israel-attack-iran-boats-strait-of-hormuz-middle-east-crisis-oil",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-11T12:53:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "dce6c5e0a39d1485",
       "title_orig": "‘The repression machine is still deployed’: Exclusive testimony from a Tehran resident",
       "summary_orig": "FRANCE 24 has gathered rare testimonies from residents of Tehran, directly affected by US-Israeli strikes since February 28. Vahid, an opponent of the regime whose identity has been concealed for security reasons, describes daily life in the Iranian capital. A supporter of military intervention, he also shares his doubts and fears about the future.",
@@ -1171,24 +1558,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "76369343fd75cc78",
-      "title_orig": "Travel expert Simon Calder predicts when 'people will be able to travel again' to Dubai, Qatar and UAE",
-      "summary_orig": "Travel remains severely disrupted as strikes on Iran continue",
-      "lang": "en",
-      "title_en": "Travel expert Simon Calder predicts when 'people will be able to travel again' to Dubai, Qatar and UAE",
-      "summary_en": "Travel remains severely disrupted as strikes on Iran continue",
-      "title": "Travel expert Simon Calder predicts when 'people will be able to travel again' to Dubai, Qatar and UAE",
-      "summary": "Travel remains severely disrupted as strikes on Iran continue",
-      "url": "https://www.liverpoolecho.co.uk/travel/travel-expert-simon-calder-predicts-33571808",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2026-03-11T12:51:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1318,24 +1687,6 @@
       "geo": {}
     },
     {
-      "id": "161884eadc556812",
-      "title_orig": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
-      "summary_orig": "Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia.",
-      "lang": "en",
-      "title_en": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
-      "summary_en": "Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia.",
-      "title": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
-      "summary": "Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia.",
-      "url": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-russia-electronics-plant-missiles.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-11T12:36:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "537ba59a0e6852ad",
       "title_orig": "Iran’s data centre attacks in the Gulf are strikes on confidence",
       "summary_orig": "For decades, geopolitical risk in the Gulf was largely synonymous with oil. Pipelines, export terminals and processing facilities were viewed as the obvious tender spots in times of regional escalation. In an oil-reliant economy, hydrocarbons were both the engine of growth and the primary vulnerability. Risk assessments, insurance premiums and sovereign spreads were managed accordingly.\nThe episodic risks in the oil and gas industry led to a conventional playbook for navigating crises. Gulf...",
@@ -1408,24 +1759,6 @@
       "geo": {}
     },
     {
-      "id": "b9868a3f5365007f",
-      "title_orig": "LPG shortage crisis: Karnataka Assembly witnesses uproar as Congress and BJP trade barbs",
-      "summary_orig": "Karnataka Chief Minister Siddaramaiah blamed Prime Minister Narendra Modi’s weak foreign policy, triggering protests from BJP members",
-      "lang": "en",
-      "title_en": "LPG shortage crisis: Karnataka Assembly witnesses uproar as Congress and BJP trade barbs",
-      "summary_en": "Karnataka Chief Minister Siddaramaiah blamed Prime Minister Narendra Modi’s weak foreign policy, triggering protests from BJP members",
-      "title": "LPG shortage crisis: Karnataka Assembly witnesses uproar as Congress and BJP trade barbs",
-      "summary": "Karnataka Chief Minister Siddaramaiah blamed Prime Minister Narendra Modi’s weak foreign policy, triggering protests from BJP members",
-      "url": "https://www.thehindu.com/news/national/karnataka/lpg-shortage-crisis-karnataka-assembly-witnesses-uproar-as-congress-and-bjp-trade-barbs/article70730798.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-03-11T12:23:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f90440a090141be6",
       "title_orig": "UK home secretary bans al-Quds march in London after Met Police request",
       "summary_orig": "The police requested the ban citing public disorder risks, while the organisers decide to hold a static protest instead.",
@@ -1441,24 +1774,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "13d2c4dac17ccaf6",
-      "title_orig": "'Not good enough' admission from Birmingham bin boss as urges striking workers 'to come back to work'",
-      "summary_orig": "Birmingham's bins strike went all-out exactly 12 months ago today",
-      "lang": "en",
-      "title_en": "'Not good enough' admission from Birmingham bin boss as urges striking workers 'to come back to work'",
-      "summary_en": "Birmingham's bins strike went all-out exactly 12 months ago today",
-      "title": "'Not good enough' admission from Birmingham bin boss as urges striking workers 'to come back to work'",
-      "summary": "Birmingham's bins strike went all-out exactly 12 months ago today",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/not-good-enough-admission-birmingham-33571379",
-      "source": "Birmingham Live - News",
-      "published_at": "2026-03-11T12:11:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2038,24 +2353,6 @@
       "geo": {}
     },
     {
-      "id": "eaf955ccb2ce74d4",
-      "title_orig": "French aid worker among three killed in drone attack in eastern DRC, M23 rebels say",
-      "summary_orig": "Attack on residential part of M23-controlled city of Goma blamed by rebel group on government At least three people, including a French humanitarian worker for the UN children’s agency, were killed in a drone attack in Goma early on Wednesday morning, a spokesperson for the M23 rebel group has said. The attack happened at about 4am in a residential neighbourhood in the city, which has been under M23 occupation since January 2025. Continue reading...",
-      "lang": "en",
-      "title_en": "French aid worker among three killed in drone attack in eastern DRC, M23 rebels say",
-      "summary_en": "Attack on residential part of M23-controlled city of Goma blamed by rebel group on government At least three people, including a French humanitarian worker for the UN children’s agency, were killed in a drone attack in Goma early on Wednesday morning, a spokesperson for the M23 rebel group has said. The attack happened at about 4am in a residential neighbourhood in the city, which has been under M23 occupation since January 2025. Continue reading...",
-      "title": "French aid worker among three killed in drone attack in eastern DRC, M23 rebels say",
-      "summary": "Attack on residential part of M23-controlled city of Goma blamed by rebel group on government At least three people, including a French humanitarian worker for the UN children’s agency, were killed in a drone attack in Goma early on Wednesday morning, a spokesperson for the M23 rebel group has said. The attack happened at about 4am in a residential neighbourhood in the city, which has been under M23 occupation since January 2025. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-11T11:18:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "8c983222392cbb3a",
       "title_orig": "Ukraine says it has hit Russian 'missile component' plant",
       "summary_orig": "Russia says the attack hit civilians and could not have been carried out without British help.",
@@ -2146,33 +2443,6 @@
       "geo": {}
     },
     {
-      "id": "ffa79ef19446cadc",
-      "title_orig": "Iran targets commercial ships, Dubai airport and oil facilities as concerns grow over global energy",
-      "summary_orig": "DUBAI, United Arab Emirates (AP) — Iran attacked commercial ships on Wednesday across the Persian Gulf and targeted Dubai International…",
-      "lang": "en",
-      "title_en": "Iran targets commercial ships, Dubai airport and oil facilities as concerns grow over global energy",
-      "summary_en": "DUBAI, United Arab Emirates (AP) — Iran attacked commercial ships on Wednesday across the Persian Gulf and targeted Dubai International…",
-      "title": "Iran targets commercial ships, Dubai airport and oil facilities as concerns grow over global energy",
-      "summary": "DUBAI, United Arab Emirates (AP) — Iran attacked commercial ships on Wednesday across the Persian Gulf and targeted Dubai International…",
-      "url": "https://wtop.com/world/2026/03/iran-keeps-up-pressure-on-oil-infrastructure-as-concerns-of-global-energy-crisis-grow/",
-      "source": "WTOP News",
-      "published_at": "2026-03-11T11:07:58+00:00",
-      "tags": [
-        "DXB",
-        "United Arab Emirates",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Dubai",
-        "city": "Dubai",
-        "country": "United Arab Emirates",
-        "iata": "DXB",
-        "lat": 25.2532,
-        "lon": 55.3657
-      }
-    },
-    {
       "id": "cec764f5432934a0",
       "title_orig": "Germans protest against Russia on Paralympic podium",
       "summary_orig": "German cross-country skiers turn their backs on the Russian gold medallists on the Winter Paralympics podium in protest against the nation's inclusion at the Games.",
@@ -2184,24 +2454,6 @@
       "url": "https://www.bbc.com/sport/articles/c9wn01jd12wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published_at": "2026-03-11T11:06:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "08954e7b216e1370",
-      "title_orig": "The Latest: Iran fires at Gulf states as Australia grants asylum to women on Iranian soccer team",
-      "summary_orig": "Iran fired missiles and drones at targets across the Gulf including oil infrastructure in Saudi Arabia and a ship off…",
-      "lang": "en",
-      "title_en": "The Latest: Iran fires at Gulf states as Australia grants asylum to women on Iranian soccer team",
-      "summary_en": "Iran fired missiles and drones at targets across the Gulf including oil infrastructure in Saudi Arabia and a ship off…",
-      "title": "The Latest: Iran fires at Gulf states as Australia grants asylum to women on Iranian soccer team",
-      "summary": "Iran fired missiles and drones at targets across the Gulf including oil infrastructure in Saudi Arabia and a ship off…",
-      "url": "https://wtop.com/australia/2026/03/the-latest-iran-fires-at-gulf-states-as-australia-grants-asylum-to-women-on-iranian-soccer-team/",
-      "source": "WTOP News",
-      "published_at": "2026-03-11T11:05:41+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2281,24 +2533,6 @@
       "geo": {}
     },
     {
-      "id": "2a2e88e6c3c0c381",
-      "title_orig": "Drone strike reportedly kills at least 1 person in the eastern Congo city of Goma",
-      "summary_orig": "GOMA, Congo (AP) — A series of explosions attributed to drones killed at least one person as the attack rocked…",
-      "lang": "en",
-      "title_en": "Drone strike reportedly kills at least 1 person in the eastern Congo city of Goma",
-      "summary_en": "GOMA, Congo (AP) — A series of explosions attributed to drones killed at least one person as the attack rocked…",
-      "title": "Drone strike reportedly kills at least 1 person in the eastern Congo city of Goma",
-      "summary": "GOMA, Congo (AP) — A series of explosions attributed to drones killed at least one person as the attack rocked…",
-      "url": "https://wtop.com/world/2026/03/drone-strike-reportedly-kills-at-least-1-person-in-the-eastern-congo-city-of-goma/",
-      "source": "WTOP News",
-      "published_at": "2026-03-11T11:00:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7e6e4472d09713c6",
       "title_orig": "Pressure builds for TSA employees at MSP, though security lines keep moving",
       "summary_orig": "Other airports are reporting extraordinarily long wait times to clear security as officers clock in despite a pause on their paychecks.",
@@ -2371,24 +2605,6 @@
       "geo": {}
     },
     {
-      "id": "b362cf5821bf6d63",
-      "title_orig": "We deserve better after a year of all-out Birmingham bin strike",
-      "summary_orig": "Householders describe recycling piled up in homes, sporadic waste collections and rat problems.",
-      "lang": "en",
-      "title_en": "We deserve better after a year of all-out Birmingham bin strike",
-      "summary_en": "Householders describe recycling piled up in homes, sporadic waste collections and rat problems.",
-      "title": "We deserve better after a year of all-out Birmingham bin strike",
-      "summary": "Householders describe recycling piled up in homes, sporadic waste collections and rat problems.",
-      "url": "https://www.bbc.com/news/articles/c4g8ym890q7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-11T10:44:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "9062729cea9b1819",
       "title_orig": "Trams services to Edinburgh Airport resumed following crash near airport earlier this morning",
       "summary_orig": "Trams to and from Edinburgh Airport have resumed following a crash earlier this morning (March 11).",
@@ -2443,24 +2659,6 @@
       "geo": {}
     },
     {
-      "id": "f23be00431cc9309",
-      "title_orig": "As another shutdown impacts travelers, some see eliminating TSA agents as a solution",
-      "summary_orig": "Long security lines snaked into baggage claim areas and parking garages at some U.S. airports this weekend, a possible indicator…",
-      "lang": "en",
-      "title_en": "As another shutdown impacts travelers, some see eliminating TSA agents as a solution",
-      "summary_en": "Long security lines snaked into baggage claim areas and parking garages at some U.S. airports this weekend, a possible indicator…",
-      "title": "As another shutdown impacts travelers, some see eliminating TSA agents as a solution",
-      "summary": "Long security lines snaked into baggage claim areas and parking garages at some U.S. airports this weekend, a possible indicator…",
-      "url": "https://wtop.com/national/2026/03/why-some-airport-security-screeners-will-continue-to-get-paid-during-the-government-shutdown/",
-      "source": "WTOP News",
-      "published_at": "2026-03-11T10:35:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e2bca27eefb3f30e",
       "title_orig": "Dubai airport and Saudi oil field among targets of Iranian drones",
       "summary_orig": "Israel has warned of attacks as Iranian counterstrikes continue against it and US allies in the Gulf. Saudi Arabia said it has neutralised five drones targeting one of the kingdom's oil field, while drones also fell near Dubai's airport.",
@@ -2499,78 +2697,6 @@
       "url": "https://www.straitstimes.com/world/europe/kremlin-says-britain-was-involved-in-ukraines-missile-strike-on-russia",
       "source": "The Straits Times World News",
       "published_at": "2026-03-11T10:25:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "24f31e5b14f293b2",
-      "title_orig": "Iran adoption a strategy of 'war of attrition on several fronts'",
-      "summary_orig": "On the second week of the war in the Middle East, Iran continues to target Israel and US allies in the Gulf. More strikes have been intercepted, according to reports across several countries. Iran's targets include oil infrastructures, which is part of its \"war of attrition\" strategy, which applies on several fronts. FRANCE 24's Hoda Abdel-Hamid tells us more from Doha, in Qatar.",
-      "lang": "en",
-      "title_en": "Iran adoption a strategy of 'war of attrition on several fronts'",
-      "summary_en": "On the second week of the war in the Middle East, Iran continues to target Israel and US allies in the Gulf. More strikes have been intercepted, according to reports across several countries. Iran's targets include oil infrastructures, which is part of its \"war of attrition\" strategy, which applies on several fronts. FRANCE 24's Hoda Abdel-Hamid tells us more from Doha, in Qatar.",
-      "title": "Iran adoption a strategy of 'war of attrition on several fronts'",
-      "summary": "On the second week of the war in the Middle East, Iran continues to target Israel and US allies in the Gulf. More strikes have been intercepted, according to reports across several countries. Iran's targets include oil infrastructures, which is part of its \"war of attrition\" strategy, which applies on several fronts. FRANCE 24's Hoda Abdel-Hamid tells us more from Doha, in Qatar.",
-      "url": "https://www.france24.com/en/iran-adoption-a-strategy-of-war-of-attrition-on-several-fronts",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-03-11T10:24:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "5b56b472033d4264",
-      "title_orig": "Israel strikes central Beirut, as number of displaced goes over 700,000",
-      "summary_orig": "Central Beirut was targeted by fresh Israeli strikes in the early hours of March 11, for the second time since the star of the war. More than 560 people have been killed and over 700,000 displaced - about a tenth of the population - since Israeli started striking the country. FRANCE 24's Catherine Norris Trent has more from the ground.",
-      "lang": "en",
-      "title_en": "Israel strikes central Beirut, as number of displaced goes over 700,000",
-      "summary_en": "Central Beirut was targeted by fresh Israeli strikes in the early hours of March 11, for the second time since the star of the war. More than 560 people have been killed and over 700,000 displaced - about a tenth of the population - since Israeli started striking the country. FRANCE 24's Catherine Norris Trent has more from the ground.",
-      "title": "Israel strikes central Beirut, as number of displaced goes over 700,000",
-      "summary": "Central Beirut was targeted by fresh Israeli strikes in the early hours of March 11, for the second time since the star of the war. More than 560 people have been killed and over 700,000 displaced - about a tenth of the population - since Israeli started striking the country. FRANCE 24's Catherine Norris Trent has more from the ground.",
-      "url": "https://www.france24.com/en/israel-strikes-central-beirut-as-number-of-displaced-goes-over-700-000",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-03-11T10:22:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "3732615c0c2ad44c",
-      "title_orig": "UK bans Iran-linked march to ‘prevent serious public disorder’",
-      "summary_orig": "Home Secretary Shabana Mahmood said she had blocked the demonstration because of the \"scale of the protest and multiple counter-protests.\"",
-      "lang": "en",
-      "title_en": "UK bans Iran-linked march to ‘prevent serious public disorder’",
-      "summary_en": "Home Secretary Shabana Mahmood said she had blocked the demonstration because of the \"scale of the protest and multiple counter-protests.\"",
-      "title": "UK bans Iran-linked march to ‘prevent serious public disorder’",
-      "summary": "Home Secretary Shabana Mahmood said she had blocked the demonstration because of the \"scale of the protest and multiple counter-protests.\"",
-      "url": "https://www.politico.eu/article/uk-bans-iran-linked-al-quds-day-march-to-prevent-serious-public-disorder/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "source": "POLITICO",
-      "published_at": "2026-03-11T10:11:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6cdf853bf22871e5",
-      "title_orig": "The hemp farmer myth being promoted by opponents of SB 56: David Bowling",
-      "summary_orig": "Senate Bill 56 is not an attack on farmers. It is a necessary step to end the sale of unsafe, untested intoxicants. Ohioans deserve better than an industry that hides behind a hypothetical hemp farmer while protecting a billion-dollar dark industry, writes guest columnist David Bowling, executive director of the Ohio Cannabis Coalition (OHCANN).",
-      "lang": "en",
-      "title_en": "The hemp farmer myth being promoted by opponents of SB 56: David Bowling",
-      "summary_en": "Senate Bill 56 is not an attack on farmers. It is a necessary step to end the sale of unsafe, untested intoxicants. Ohioans deserve better than an industry that hides behind a hypothetical hemp farmer while protecting a billion-dollar dark industry, writes guest columnist David Bowling, executive director of the Ohio Cannabis Coalition (OHCANN).",
-      "title": "The hemp farmer myth being promoted by opponents of SB 56: David Bowling",
-      "summary": "Senate Bill 56 is not an attack on farmers. It is a necessary step to end the sale of unsafe, untested intoxicants. Ohioans deserve better than an industry that hides behind a hypothetical hemp farmer while protecting a billion-dollar dark industry, writes guest columnist David Bowling, executive director of the Ohio Cannabis Coalition (OHCANN).",
-      "url": "https://www.cleveland.com/opinion/2026/03/the-hemp-farmer-myth-being-promoted-by-opponents-of-sb-56-david-bowling.html",
-      "source": "cleveland.com",
-      "published_at": "2026-03-11T09:41:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2742,12 +2868,12 @@
     {
       "id": "0afb7bca2d021e6a",
       "title_orig": "Nottingham Inquiry live updates as Leicestershire Police officers give evidence about Calocane warehouse attack",
-      "summary_orig": "Victims of the attack and their colleagues recalled the incident at Arvato in Castle Donington",
+      "summary_orig": "Victims of the attack and their colleagues recalled the incident at Arvato",
       "lang": "en",
       "title_en": "Nottingham Inquiry live updates as Leicestershire Police officers give evidence about Calocane warehouse attack",
-      "summary_en": "Victims of the attack and their colleagues recalled the incident at Arvato in Castle Donington",
+      "summary_en": "Victims of the attack and their colleagues recalled the incident at Arvato",
       "title": "Nottingham Inquiry live updates as Leicestershire Police officers give evidence about Calocane warehouse attack",
-      "summary": "Victims of the attack and their colleagues recalled the incident at Arvato in Castle Donington",
+      "summary": "Victims of the attack and their colleagues recalled the incident at Arvato",
       "url": "https://www.nottinghampost.com/news/nottingham-news/nottingham-inquiry-live-updates-leicestershire-10859750",
       "source": "Nottinghamshire Live - frontpage",
       "published_at": "2026-03-11T09:14:56+00:00",
@@ -3271,24 +3397,6 @@
       "geo": {}
     },
     {
-      "id": "b12ff19d7c47ffab",
-      "title_orig": "Runway Debris Punches Hole In American Eagle CRJ-700 Radome During DCA Takeoff",
-      "summary_orig": "The aircraft has since returned to service following the concerning incident.",
-      "lang": "en",
-      "title_en": "Runway Debris Punches Hole In American Eagle CRJ-700 Radome During DCA Takeoff",
-      "summary_en": "The aircraft has since returned to service following the concerning incident.",
-      "title": "Runway Debris Punches Hole In American Eagle CRJ-700 Radome During DCA Takeoff",
-      "summary": "The aircraft has since returned to service following the concerning incident.",
-      "url": "https://simpleflying.com/runway-debris-hole-american-eagle-crj-700-radome-dca-takeoff/",
-      "source": "Simple Flying",
-      "published_at": "2026-03-11T07:01:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "cbd28dbb91e1f74f",
       "title_orig": "JR East to monitor Yamanote Line pantographs with AI",
       "summary_orig": "The railway operator also plans to use drones to inspect wires and other infrastructure, aiming to reduce the time required to resume operations by 30% after service disruptions.",
@@ -3460,24 +3568,6 @@
       "geo": {}
     },
     {
-      "id": "9837983858e3acfe",
-      "title_orig": "Pensioner became 'physically and verbally abusive' towards partner suffering from dementia",
-      "summary_orig": "Stephen Morris, 69, attacked the woman and covered up the abuse",
-      "lang": "en",
-      "title_en": "Pensioner became 'physically and verbally abusive' towards partner suffering from dementia",
-      "summary_en": "Stephen Morris, 69, attacked the woman and covered up the abuse",
-      "title": "Pensioner became 'physically and verbally abusive' towards partner suffering from dementia",
-      "summary": "Stephen Morris, 69, attacked the woman and covered up the abuse",
-      "url": "https://www.leicestermercury.co.uk/news/leicester-news/pensioner-became-physically-verbally-abusive-10858574",
-      "source": "Leicestershire Live - frontpage",
-      "published_at": "2026-03-11T06:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "099cd06f0c5fcd97",
       "title_orig": "Residents fear another tragedy after grandfather's death in Leicestershire park attack",
       "summary_orig": "One pensioner reports feeling on 'edge' around Franklin Park",
@@ -3496,17 +3586,17 @@
       "geo": {}
     },
     {
-      "id": "6ea3b963ce9de65b",
-      "title_orig": "Anti-government protesters treated as ‘enemies’, says Iran police chief",
-      "summary_orig": "The Middle East war sparked fears that mass anti-government rallies could reignite.",
+      "id": "9837983858e3acfe",
+      "title_orig": "Pensioner became 'physically and verbally abusive' towards partner suffering from dementia",
+      "summary_orig": "Stephen Morris, 69, attacked the woman and covered up the abuse",
       "lang": "en",
-      "title_en": "Anti-government protesters treated as ‘enemies’, says Iran police chief",
-      "summary_en": "The Middle East war sparked fears that mass anti-government rallies could reignite.",
-      "title": "Anti-government protesters treated as ‘enemies’, says Iran police chief",
-      "summary": "The Middle East war sparked fears that mass anti-government rallies could reignite.",
-      "url": "https://www.straitstimes.com/world/middle-east/anti-government-protesters-treated-as-enemies-says-iran-police-chief",
-      "source": "The Straits Times World News",
-      "published_at": "2026-03-11T05:50:00+00:00",
+      "title_en": "Pensioner became 'physically and verbally abusive' towards partner suffering from dementia",
+      "summary_en": "Stephen Morris, 69, attacked the woman and covered up the abuse",
+      "title": "Pensioner became 'physically and verbally abusive' towards partner suffering from dementia",
+      "summary": "Stephen Morris, 69, attacked the woman and covered up the abuse",
+      "url": "https://www.leicestermercury.co.uk/news/leicester-news/pensioner-became-physically-verbally-abusive-10858574",
+      "source": "Leicestershire Live - frontpage",
+      "published_at": "2026-03-11T06:00:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3516,12 +3606,12 @@
     {
       "id": "10f79eb594b481ac",
       "title_orig": "L.A. police searching for gunman who opened fire on Maserati in Panorama City",
-      "summary_orig": "An investigation is underway in Panorama City after a gunman shot out the windows of a Maserati, injuring at least one person inside the vehicle and it remains unclear who the shooter was and if the incident was a random or targeted attack.   Preliminary information suggests that there are two scenes, one at Chase Street and Cedros Avenue, near the Cedros Park [...]",
+      "summary_orig": "investigation is underway in Panorama City after a gunman shot out the windows of a Maserati, injuring at least one person inside the vehicle and it remains unclear who the shooter was and if the incident was a random or targeted attack.   Preliminary information suggests that there are two scenes, one at Chase Street and Cedros Avenue, near the Cedros Park Apartments, [...]",
       "lang": "en",
       "title_en": "L.A. police searching for gunman who opened fire on Maserati in Panorama City",
-      "summary_en": "An investigation is underway in Panorama City after a gunman shot out the windows of a Maserati, injuring at least one person inside the vehicle and it remains unclear who the shooter was and if the incident was a random or targeted attack.   Preliminary information suggests that there are two scenes, one at Chase Street and Cedros Avenue, near the Cedros Park [...]",
+      "summary_en": "investigation is underway in Panorama City after a gunman shot out the windows of a Maserati, injuring at least one person inside the vehicle and it remains unclear who the shooter was and if the incident was a random or targeted attack.   Preliminary information suggests that there are two scenes, one at Chase Street and Cedros Avenue, near the Cedros Park Apartments, [...]",
       "title": "L.A. police searching for gunman who opened fire on Maserati in Panorama City",
-      "summary": "An investigation is underway in Panorama City after a gunman shot out the windows of a Maserati, injuring at least one person inside the vehicle and it remains unclear who the shooter was and if the incident was a random or targeted attack.   Preliminary information suggests that there are two scenes, one at Chase Street and Cedros Avenue, near the Cedros Park [...]",
+      "summary": "investigation is underway in Panorama City after a gunman shot out the windows of a Maserati, injuring at least one person inside the vehicle and it remains unclear who the shooter was and if the incident was a random or targeted attack.   Preliminary information suggests that there are two scenes, one at Chase Street and Cedros Avenue, near the Cedros Park Apartments, [...]",
       "url": "https://ktla.com/news/local-news/l-a-police-searching-for-gunman-who-opened-fire-on-maserati-in-panorama-city/",
       "source": "KTLA",
       "published_at": "2026-03-11T05:46:12+00:00",
@@ -3640,24 +3730,6 @@
       "geo": {}
     },
     {
-      "id": "36822075e4747a74",
-      "title_orig": "Ukraine faces air defence squeeze as Iran war burns supplies",
-      "summary_orig": "The authorities in Kyiv have been astonished at Gulf states deploying PAC-3s to bring down low-cost drones.",
-      "lang": "en",
-      "title_en": "Ukraine faces air defence squeeze as Iran war burns supplies",
-      "summary_en": "The authorities in Kyiv have been astonished at Gulf states deploying PAC-3s to bring down low-cost drones.",
-      "title": "Ukraine faces air defence squeeze as Iran war burns supplies",
-      "summary": "The authorities in Kyiv have been astonished at Gulf states deploying PAC-3s to bring down low-cost drones.",
-      "url": "https://www.straitstimes.com/world/europe/ukraine-faces-air-defence-squeeze-as-iran-war-burns-supplies",
-      "source": "The Straits Times World News",
-      "published_at": "2026-03-11T05:05:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "6e8e4fb74f379650",
       "title_orig": "South Korea finds faulty approvals at airport where Jeju Air plane crashed",
       "summary_orig": "The state auditor’s report said that the transport ministry cut construction costs and approved improper airport safety structures for more than two decades.",
@@ -3669,24 +3741,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/03/11/asia-pacific/politics/south-korea-jeju-air-plane/",
       "source": "Latest articles - The Japan Times",
       "published_at": "2026-03-11T05:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ea26ccab6fc3380b",
-      "title_orig": "Israel strikes apartment building in central Beirut, Lebanese state media say",
-      "summary_orig": "March 11 - Israeli strikes targeted an apartment building in central Beirut on Wednesday, Lebanese state media said, marking the second strike in the city in recent days.",
-      "lang": "en",
-      "title_en": "Israel strikes apartment building in central Beirut, Lebanese state media say",
-      "summary_en": "March 11 - Israeli strikes targeted an apartment building in central Beirut on Wednesday, Lebanese state media said, marking the second strike in the city in recent days.",
-      "title": "Israel strikes apartment building in central Beirut, Lebanese state media say",
-      "summary": "March 11 - Israeli strikes targeted an apartment building in central Beirut on Wednesday, Lebanese state media said, marking the second strike in the city in recent days.",
-      "url": "https://www.straitstimes.com/world/middle-east/israel-strikes-apartment-building-in-central-beirut-lebanese-state-media-say",
-      "source": "The Straits Times World News",
-      "published_at": "2026-03-11T04:55:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3763,24 +3817,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "37b42ec45badbd12",
-      "title_orig": "What if Iran really did buy export variant of China’s YJ-12 supersonic missile?",
-      "summary_orig": "Just days ahead of the US-Israeli air strikes on Iran, a news report suggested that Beijing was close to selling supersonic cruise missiles to Tehran – a move that could significantly boost the Islamic Republic’s capacity to counter US aircraft carriers.\nBefore the world could work out whether game-changing Chinese missiles really would feature in an Iranian conflict against US forces, Beijing firmly denied the report, published by Reuters on February 24.\nCiting six sources, Reuters reported...",
-      "lang": "en",
-      "title_en": "What if Iran really did buy export variant of China’s YJ-12 supersonic missile?",
-      "summary_en": "Just days ahead of the US-Israeli air strikes on Iran, a news report suggested that Beijing was close to selling supersonic cruise missiles to Tehran – a move that could significantly boost the Islamic Republic’s capacity to counter US aircraft carriers.\nBefore the world could work out whether game-changing Chinese missiles really would feature in an Iranian conflict against US forces, Beijing firmly denied the report, published by Reuters on February 24.\nCiting six sources, Reuters reported...",
-      "title": "What if Iran really did buy export variant of China’s YJ-12 supersonic missile?",
-      "summary": "Just days ahead of the US-Israeli air strikes on Iran, a news report suggested that Beijing was close to selling supersonic cruise missiles to Tehran – a move that could significantly boost the Islamic Republic’s capacity to counter US aircraft carriers.\nBefore the world could work out whether game-changing Chinese missiles really would feature in an Iranian conflict against US forces, Beijing firmly denied the report, published by Reuters on February 24.\nCiting six sources, Reuters reported...",
-      "url": "https://www.scmp.com/news/china/military/article/3346026/what-if-iran-really-did-buy-export-variant-chinas-yj-12-supersonic-missile?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2026-03-11T04:00:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -4126,24 +4162,6 @@
       "geo": {}
     },
     {
-      "id": "bfb9061ab23c491b",
-      "title_orig": "Airport parking: Fair price or total rip-off?",
-      "summary_orig": "One traveller’s $96 booking turned into a $2600 shock — and it’s got people talking about airport parking fees.",
-      "lang": "en",
-      "title_en": "Airport parking: Fair price or total rip-off?",
-      "summary_en": "One traveller’s $96 booking turned into a $2600 shock — and it’s got people talking about airport parking fees.",
-      "title": "Airport parking: Fair price or total rip-off?",
-      "summary": "One traveller’s $96 booking turned into a $2600 shock — and it’s got people talking about airport parking fees.",
-      "url": "https://www.stuff.co.nz/nz-news/360948932/airport-parking-fair-price-or-total-rip",
-      "source": "Stuff - /",
-      "published_at": "2026-03-10T22:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "9affdde53fd981f9",
       "title_orig": "Even Joe Rogan is against Trump’s attacks on Iran: ‘It just seems so insane’",
       "summary_orig": "Rogan has been critical of the president since he returned to the White House, speaking out about the Epstein files, Trump’s immigration crackdown and now the Iran war",
@@ -4234,24 +4252,6 @@
       "geo": {}
     },
     {
-      "id": "be29f616b77875c4",
-      "title_orig": "New statue of Trump and Epstein recreating famed ‘Titanic’ scene is placed on National Mall",
-      "summary_orig": "It’s just the latest piece of protest art to be installed by a secretive group called the Secret Handshake",
-      "lang": "en",
-      "title_en": "New statue of Trump and Epstein recreating famed ‘Titanic’ scene is placed on National Mall",
-      "summary_en": "It’s just the latest piece of protest art to be installed by a secretive group called the Secret Handshake",
-      "title": "New statue of Trump and Epstein recreating famed ‘Titanic’ scene is placed on National Mall",
-      "summary": "It’s just the latest piece of protest art to be installed by a secretive group called the Secret Handshake",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-epstein-statue-titanic-national-mall-b2935853.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-10T20:44:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2ea135312cb5ec5c",
       "title_orig": "Imprisoned in Iran, and Under Bombardment",
       "summary_orig": "Iranian detention centers, some holding people swept up in a government crackdown on protests along with other prisoners, have been damaged in the U.S.-Israeli airstrikes.",
@@ -4267,24 +4267,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "2accee1c9daaec22",
-      "title_orig": "Leavitt promises Iran war will ‘lower gas prices in long term’ for Americans",
-      "summary_orig": "Gas prices have spiked significantly since the U.S. and Israel began airstrikes on Iran 10 days ago",
-      "lang": "en",
-      "title_en": "Leavitt promises Iran war will ‘lower gas prices in long term’ for Americans",
-      "summary_en": "Gas prices have spiked significantly since the U.S. and Israel began airstrikes on Iran 10 days ago",
-      "title": "Leavitt promises Iran war will ‘lower gas prices in long term’ for Americans",
-      "summary": "Gas prices have spiked significantly since the U.S. and Israel began airstrikes on Iran 10 days ago",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/karoline-leavitt-iran-war-briefing-b2935866.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-10T20:23:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -4523,24 +4505,6 @@
       "geo": {}
     },
     {
-      "id": "7946845640b8cac3",
-      "title_orig": "Docklands bombing victim says he believes Gerry Adams played ‘major part’ in IRA",
-      "summary_orig": "Jonathan Ganesh is giving evidence at the High Court in London in a civil case brought against the former Sinn Fein president.",
-      "lang": "en",
-      "title_en": "Docklands bombing victim says he believes Gerry Adams played ‘major part’ in IRA",
-      "summary_en": "Jonathan Ganesh is giving evidence at the High Court in London in a civil case brought against the former Sinn Fein president.",
-      "title": "Docklands bombing victim says he believes Gerry Adams played ‘major part’ in IRA",
-      "summary": "Jonathan Ganesh is giving evidence at the High Court in London in a civil case brought against the former Sinn Fein president.",
-      "url": "https://www.standard.co.uk/news/crime/gerry-adams-jonathan-ganesh-london-ira-high-court-b1274210.html",
-      "source": "The Standard News",
-      "published_at": "2026-03-10T17:43:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "bd80c04b4ffa6a2b",
       "title_orig": "Qatar warns Iran war could yield 'catastrophic results' for the world",
       "summary_orig": "“This is the biggest I told you so in the history of I told you sos in the world,” Qatari Foreign Ministry spokesman Dr Majed Al-Ansari told the media in a striking statement directed to all active combat forces in the Iran war just as a new wave of Iranian attacks triggered air raid alerts in Doha.",
@@ -4758,24 +4722,6 @@
       "geo": {}
     },
     {
-      "id": "89e45a4904db41ee",
-      "title_orig": "Family of Tumbler Ridge shooting victim sues OpenAI alleging it could have prevented attack",
-      "summary_orig": "Eight people were killed by 18-year-old in Canada, who had described violent scenarios involving guns to ChatGPT Sign up for the Breaking News US email to get newsletter alerts in your inbox The family of a child critically injured one of Canada’s worst mass shootings is suing OpenAI , arguing the technology company could have prevented the attack on a school last month. The lawsuit comes days after the head of OpenAI said he would apologize to the families of a remote Canadian town after violence shattered the tight-knit community. Continue reading...",
-      "lang": "en",
-      "title_en": "Family of Tumbler Ridge shooting victim sues OpenAI alleging it could have prevented attack",
-      "summary_en": "Eight people were killed by 18-year-old in Canada, who had described violent scenarios involving guns to ChatGPT Sign up for the Breaking News US email to get newsletter alerts in your inbox The family of a child critically injured one of Canada’s worst mass shootings is suing OpenAI , arguing the technology company could have prevented the attack on a school last month. The lawsuit comes days after the head of OpenAI said he would apologize to the families of a remote Canadian town after violence shattered the tight-knit community. Continue reading...",
-      "title": "Family of Tumbler Ridge shooting victim sues OpenAI alleging it could have prevented attack",
-      "summary": "Eight people were killed by 18-year-old in Canada, who had described violent scenarios involving guns to ChatGPT Sign up for the Breaking News US email to get newsletter alerts in your inbox The family of a child critically injured one of Canada’s worst mass shootings is suing OpenAI , arguing the technology company could have prevented the attack on a school last month. The lawsuit comes days after the head of OpenAI said he would apologize to the families of a remote Canadian town after violence shattered the tight-knit community. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/mar/10/tumbler-ridge-shooting-victim-sues-openai-canada",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-10T15:16:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "cc9da3c5af3430d7",
       "title_orig": "Cost-Cutting Led to South Korean Airport’s Deadly Wall, Report Finds",
       "summary_orig": "The concrete runway barrier played a key role in a disaster that killed 179 people. An audit revealed officials skimped on construction fees and then falsified records.",
@@ -4866,24 +4812,6 @@
       "geo": {}
     },
     {
-      "id": "d7d76842e6d59d09",
-      "title_orig": "Gang used stolen Cambridgeshire Audi in cash machine attack amid £700k crime spree",
-      "summary_orig": "The gang of thieves stole nearly £700,000 in raids across the country",
-      "lang": "en",
-      "title_en": "Gang used stolen Cambridgeshire Audi in cash machine attack amid £700k crime spree",
-      "summary_en": "The gang of thieves stole nearly £700,000 in raids across the country",
-      "title": "Gang used stolen Cambridgeshire Audi in cash machine attack amid £700k crime spree",
-      "summary": "The gang of thieves stole nearly £700,000 in raids across the country",
-      "url": "https://www.cambridge-news.co.uk/news/local-news/gang-used-stolen-cambridgeshire-audi-33562732",
-      "source": "Cambridgeshire Live - Home",
-      "published_at": "2026-03-10T12:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7c5bdbac30a4c66c",
       "title_orig": "Civilians Killed by Strikes in Gulf States Are Almost All Migrant Workers",
       "summary_orig": "Since the American-Israeli attack on Iran began, at least 12 civilians have been killed in oil-rich Gulf countries. All but one of them were foreign nationals.",
@@ -4935,24 +4863,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4977119d14affc14",
-      "title_orig": "Missile in Deadly Iranian School Strike Appears to Be U.S.-Made, Photos Taken by Iran Show",
-      "summary_orig": "Iranian state media posted mangled remnants it claims were from the Feb. 28 attack in Minab. An analysis shows they have the markings of a missile made by American manufacturers",
-      "lang": "en",
-      "title_en": "Missile in Deadly Iranian School Strike Appears to Be U.S.-Made, Photos Taken by Iran Show",
-      "summary_en": "Iranian state media posted mangled remnants it claims were from the Feb. 28 attack in Minab. An analysis shows they have the markings of a missile made by American manufacturers",
-      "title": "Missile in Deadly Iranian School Strike Appears to Be U.S.-Made, Photos Taken by Iran Show",
-      "summary": "Iranian state media posted mangled remnants it claims were from the Feb. 28 attack in Minab. An analysis shows they have the markings of a missile made by American manufacturers",
-      "url": "https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-10T11:28:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -5021,24 +4931,6 @@
       "url": "https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright",
       "source": "UK news | The Guardian",
       "published_at": "2026-03-10T06:00:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "a882ea3c0f77bbc5",
-      "title_orig": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
-      "summary_orig": "More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.",
-      "lang": "en",
-      "title_en": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
-      "summary_en": "More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.",
-      "title": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
-      "summary": "More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.",
-      "url": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-10T04:01:04+00:00",
       "tags": [
         "airport/security"
       ],
