@@ -1,6 +1,159 @@
 {
-  "generated_at": "2026-03-19T23:01:00.639541+00:00",
+  "generated_at": "2026-03-19T23:29:26.051030+00:00",
   "items": [
+    {
+      "id": "b53b05c93860c18b",
+      "title_orig": "Delta flight out of LAX temporarily loses cabin power before landing",
+      "summary_orig": "A Delta Airlines flight out of Los Angeles International Airport temporarily lost power to its cabin Thursday before it landed without incident at Dallas-Ft. Worth Airport, the airline said in a statement to KTLA. Delta said that the crew on Flight 521 followed procedures and quickly restored power to the cabin. Airline officials said that [...]",
+      "lang": "en",
+      "title_en": "Delta flight out of LAX temporarily loses cabin power before landing",
+      "summary_en": "A Delta Airlines flight out of Los Angeles International Airport temporarily lost power to its cabin Thursday before it landed without incident at Dallas-Ft. Worth Airport, the airline said in a statement to KTLA. Delta said that the crew on Flight 521 followed procedures and quickly restored power to the cabin. Airline officials said that [...]",
+      "title": "Delta flight out of LAX temporarily loses cabin power before landing",
+      "summary": "A Delta Airlines flight out of Los Angeles International Airport temporarily lost power to its cabin Thursday before it landed without incident at Dallas-Ft. Worth Airport, the airline said in a statement to KTLA. Delta said that the crew on Flight 521 followed procedures and quickly restored power to the cabin. Airline officials said that [...]",
+      "url": "https://ktla.com/news/local-news/delta-flight-lax-temporarily-loses-cabin-power-before-landing/",
+      "source": "KTLA",
+      "published_at": "2026-03-19T23:20:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a59aa0a95726d400",
+      "title_orig": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
+      "summary_orig": "President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.",
+      "lang": "en",
+      "title_en": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
+      "summary_en": "President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.",
+      "title": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
+      "summary": "President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.",
+      "url": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
+      "source": "NYT > World News",
+      "published_at": "2026-03-19T23:19:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "c2e617920520eb26",
+      "title_orig": "Trump’s Complaint About Israeli Strike on Gas Field Exposes Divergent Strategies",
+      "summary_orig": "President Trump said he told Prime Minister Benjamin Netanyahu of Israel he disapproved of the attack, which sent energy markets reeling. But Israeli officials said the Americans were informed beforehand.",
+      "lang": "en",
+      "title_en": "Trump’s Complaint About Israeli Strike on Gas Field Exposes Divergent Strategies",
+      "summary_en": "President Trump said he told Prime Minister Benjamin Netanyahu of Israel he disapproved of the attack, which sent energy markets reeling. But Israeli officials said the Americans were informed beforehand.",
+      "title": "Trump’s Complaint About Israeli Strike on Gas Field Exposes Divergent Strategies",
+      "summary": "President Trump said he told Prime Minister Benjamin Netanyahu of Israel he disapproved of the attack, which sent energy markets reeling. But Israeli officials said the Americans were informed beforehand.",
+      "url": "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-19T23:19:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "cd6c26cc5f125ab6",
+      "title_orig": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
+      "summary_orig": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
+      "lang": "en",
+      "title_en": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
+      "summary_en": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
+      "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
+      "summary": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
+      "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-03-19T23:19:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d64100f6992662ca",
+      "title_orig": "Breaking: Three hospitalised after flight turbulence in Sydney",
+      "summary_orig": "Ambulance crews were called to Sydney Airport earlier this morning over reports of passengers being hurt during turbulence on a Delta Airlines flight.",
+      "lang": "en",
+      "title_en": "Breaking: Three hospitalised after flight turbulence in Sydney",
+      "summary_en": "Ambulance crews were called to Sydney Airport earlier this morning over reports of passengers being hurt during turbulence on a Delta Airlines flight.",
+      "title": "Breaking: Three hospitalised after flight turbulence in Sydney",
+      "summary": "Ambulance crews were called to Sydney Airport earlier this morning over reports of passengers being hurt during turbulence on a Delta Airlines flight.",
+      "url": "https://www.abc.net.au/news/2026-03-20/nsw-delta-airlines-turbulence-sydney-airport-hospital/106476990",
+      "source": "Just In",
+      "published_at": "2026-03-19T23:15:19+00:00",
+      "tags": [
+        "Australia",
+        "SYD",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Sydney",
+        "city": "Sydney",
+        "country": "Australia",
+        "iata": "SYD",
+        "lat": -33.9399,
+        "lon": 151.1753
+      }
+    },
+    {
+      "id": "0980562dd5bd65ed",
+      "title_orig": "Middle East crisis live: Netanyahu says Israel acted alone in Iran gasfield strike and denies ‘dragging’ US into war",
+      "summary_orig": "Israeli prime minister says US president has asked Israel ‘to hold off on future attacks’ and dismisses claims Israel bounced US into attack as ‘fake news’ A visual guide to the oil and gas site attacks in the Middle East Turning to Australia now, a petrol tsar will manage “unprecedented” supply issues caused by the Middle East conflict as the finishing touches are put on measures to address dire shortages in many regional areas . Prime minister Anthony Albanese convened a snap virtual meeting of the national cabinet on Thursday to discuss major price shocks and shortages driven by the US-Israel war on Iran. My government will be announcing more measures to prepare the nation for supply chain challenges over coming days and weeks. Our fuel supply is currently secure. However, I want us to be over-prepared. Continue reading...",
+      "lang": "en",
+      "title_en": "Middle East crisis live: Netanyahu says Israel acted alone in Iran gasfield strike and denies ‘dragging’ US into war",
+      "summary_en": "Israeli prime minister says US president has asked Israel ‘to hold off on future attacks’ and dismisses claims Israel bounced US into attack as ‘fake news’ A visual guide to the oil and gas site attacks in the Middle East Turning to Australia now, a petrol tsar will manage “unprecedented” supply issues caused by the Middle East conflict as the finishing touches are put on measures to address dire shortages in many regional areas . Prime minister Anthony Albanese convened a snap virtual meeting of the national cabinet on Thursday to discuss major price shocks and shortages driven by the US-Israel war on Iran. My government will be announcing more measures to prepare the nation for supply chain challenges over coming days and weeks. Our fuel supply is currently secure. However, I want us to be over-prepared. Continue reading...",
+      "title": "Middle East crisis live: Netanyahu says Israel acted alone in Iran gasfield strike and denies ‘dragging’ US into war",
+      "summary": "Israeli prime minister says US president has asked Israel ‘to hold off on future attacks’ and dismisses claims Israel bounced US into attack as ‘fake news’ A visual guide to the oil and gas site attacks in the Middle East Turning to Australia now, a petrol tsar will manage “unprecedented” supply issues caused by the Middle East conflict as the finishing touches are put on measures to address dire shortages in many regional areas . Prime minister Anthony Albanese convened a snap virtual meeting of the national cabinet on Thursday to discuss major price shocks and shortages driven by the US-Israel war on Iran. My government will be announcing more measures to prepare the nation for supply chain challenges over coming days and weeks. Our fuel supply is currently secure. However, I want us to be over-prepared. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/mar/19/iran-war-live-updates-oil-prices-gas-field-strikes-pentagon-more-funds-trump-news",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-19T23:13:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "d57fe81a828a91dd",
+      "title_orig": "HHS staffer changed agency’s voicemail to Domino’s Pizza message to protest flood of calls from animal rights activists",
+      "summary_orig": "A spokesperson for the Department of Health and Humans Services said the message has been changed and was ‘not representative’ of the agency",
+      "lang": "en",
+      "title_en": "HHS staffer changed agency’s voicemail to Domino’s Pizza message to protest flood of calls from animal rights activists",
+      "summary_en": "A spokesperson for the Department of Health and Humans Services said the message has been changed and was ‘not representative’ of the agency",
+      "title": "HHS staffer changed agency’s voicemail to Domino’s Pizza message to protest flood of calls from animal rights activists",
+      "summary": "A spokesperson for the Department of Health and Humans Services said the message has been changed and was ‘not representative’ of the agency",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/hhs-voicemail-dominos-pizza-animal-rights-protesters-b2942232.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-19T23:12:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "95cf63c1ae419d8f",
+      "title_orig": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
+      "summary_orig": "President says there are a ‘lot of reasons’ for extra funding without going into details about those reasons Sign up for the Breaking US News US email Answering a reporter’s question on Iran’s missile capabilities, considering the country has managed to strike numerous states in the Gulf, Gen Dan Caine , the chair of the joint chiefs of staff, said Tehran retains “some capability” to attack American assets . “They came into this fight with a lot of weapons.,” he said, adding that the US continues to be “as aggressive and assertive” in striking Iran. Continue reading...",
+      "lang": "en",
+      "title_en": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
+      "summary_en": "President says there are a ‘lot of reasons’ for extra funding without going into details about those reasons Sign up for the Breaking US News US email Answering a reporter’s question on Iran’s missile capabilities, considering the country has managed to strike numerous states in the Gulf, Gen Dan Caine , the chair of the joint chiefs of staff, said Tehran retains “some capability” to attack American assets . “They came into this fight with a lot of weapons.,” he said, adding that the US continues to be “as aggressive and assertive” in striking Iran. Continue reading...",
+      "title": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
+      "summary": "President says there are a ‘lot of reasons’ for extra funding without going into details about those reasons Sign up for the Breaking US News US email Answering a reporter’s question on Iran’s missile capabilities, considering the country has managed to strike numerous states in the Gulf, Gen Dan Caine , the chair of the joint chiefs of staff, said Tehran retains “some capability” to attack American assets . “They came into this fight with a lot of weapons.,” he said, adding that the US continues to be “as aggressive and assertive” in striking Iran. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-19T22:47:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "25af48fe320b9910",
       "title_orig": "UAE says it dismantled 'terrorist network' funded by Iran and Hezbollah",
@@ -20,7 +173,7 @@
       "geo": {}
     },
     {
-      "id": "394fcface60a3da8",
+      "id": "2c32610d43e262ec",
       "title_orig": "Authorities investigating close call between Alaska Airlines and FedEx planes landing at Newark",
       "summary_orig": "Federal aviation officials are investigating a close call at Newark Airport in which an Alaska Airlines jet flew over a FedEx cargo plane during landing approaches.",
       "lang": "en",
@@ -28,7 +181,7 @@
       "summary_en": "Federal aviation officials are investigating a close call at Newark Airport in which an Alaska Airlines jet flew over a FedEx cargo plane during landing approaches.",
       "title": "Authorities investigating close call between Alaska Airlines and FedEx planes landing at Newark",
       "summary": "Federal aviation officials are investigating a close call at Newark Airport in which an Alaska Airlines jet flew over a FedEx cargo plane during landing approaches.",
-      "url": "https://www.seattletimes.com/news/authorities-investigating-close-call-between-alaska-airlines-and-fedex-planes-landing-at-newark/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "url": "https://www.seattletimes.com/nation-world/nation/authorities-investigating-close-call-between-alaska-airlines-and-fedex-planes-landing-at-newark/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
       "source": "The Seattle Times The Seattle Times",
       "published_at": "2026-03-19T22:45:15+00:00",
       "tags": [
@@ -47,24 +200,6 @@
       }
     },
     {
-      "id": "0980562dd5bd65ed",
-      "title_orig": "Middle East crisis live: Netanyahu says Israel acted alone in Iran gasfield strike and denies ‘dragging’ US into war",
-      "summary_orig": "Israeli prime minister says US president has asked Israel ‘to hold off on future attacks’ and dismisses claims Israel bounced US into attack as ‘fake news’ A visual guide to the oil and gas site attacks in the Middle East Turning to Australia now, a petrol tsar will manage “unprecedented” supply issues caused by the Middle East conflict as the finishing touches are put on measures to address dire shortages in many regional areas . Prime minister Anthony Albanese convened a snap virtual meeting of the national cabinet on Thursday to discuss major price shocks and shortages driven by the US-Israel war on Iran. My government will be announcing more measures to prepare the nation for supply chain challenges over coming days and weeks. Our fuel supply is currently secure. However, I want us to be over-prepared. Continue reading...",
-      "lang": "en",
-      "title_en": "Middle East crisis live: Netanyahu says Israel acted alone in Iran gasfield strike and denies ‘dragging’ US into war",
-      "summary_en": "Israeli prime minister says US president has asked Israel ‘to hold off on future attacks’ and dismisses claims Israel bounced US into attack as ‘fake news’ A visual guide to the oil and gas site attacks in the Middle East Turning to Australia now, a petrol tsar will manage “unprecedented” supply issues caused by the Middle East conflict as the finishing touches are put on measures to address dire shortages in many regional areas . Prime minister Anthony Albanese convened a snap virtual meeting of the national cabinet on Thursday to discuss major price shocks and shortages driven by the US-Israel war on Iran. My government will be announcing more measures to prepare the nation for supply chain challenges over coming days and weeks. Our fuel supply is currently secure. However, I want us to be over-prepared. Continue reading...",
-      "title": "Middle East crisis live: Netanyahu says Israel acted alone in Iran gasfield strike and denies ‘dragging’ US into war",
-      "summary": "Israeli prime minister says US president has asked Israel ‘to hold off on future attacks’ and dismisses claims Israel bounced US into attack as ‘fake news’ A visual guide to the oil and gas site attacks in the Middle East Turning to Australia now, a petrol tsar will manage “unprecedented” supply issues caused by the Middle East conflict as the finishing touches are put on measures to address dire shortages in many regional areas . Prime minister Anthony Albanese convened a snap virtual meeting of the national cabinet on Thursday to discuss major price shocks and shortages driven by the US-Israel war on Iran. My government will be announcing more measures to prepare the nation for supply chain challenges over coming days and weeks. Our fuel supply is currently secure. However, I want us to be over-prepared. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/mar/19/iran-war-live-updates-oil-prices-gas-field-strikes-pentagon-more-funds-trump-news",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-19T22:44:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "52c35bff4f73af67",
       "title_orig": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
       "summary_orig": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.",
@@ -80,24 +215,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a59aa0a95726d400",
-      "title_orig": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
-      "summary_orig": "President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.",
-      "lang": "en",
-      "title_en": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
-      "summary_en": "President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.",
-      "title": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
-      "summary": "President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.",
-      "url": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
-      "source": "NYT > World News",
-      "published_at": "2026-03-19T22:39:34+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -119,21 +236,21 @@
       "geo": {}
     },
     {
-      "id": "95cf63c1ae419d8f",
-      "title_orig": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
-      "summary_orig": "President says there are a ‘lot of reasons’ for extra funding without going into details about those reasons Sign up for the Breaking US News US email Answering a reporter’s question on Iran’s missile capabilities, considering the country has managed to strike numerous states in the Gulf, Gen Dan Caine , the chair of the joint chiefs of staff, said Tehran retains “some capability” to attack American assets . “They came into this fight with a lot of weapons.,” he said, adding that the US continues to be “as aggressive and assertive” in striking Iran. Continue reading...",
+      "id": "c3aaec2554717861",
+      "title_orig": "DGCA ask airlines to avoid 11 airspaces, ensure contingency plans amid Middle East conflict",
+      "summary_orig": "According to the DGCA advisory, recent US and Israeli military strikes within Iran have created a high-risk environment for civil aviation",
       "lang": "en",
-      "title_en": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
-      "summary_en": "President says there are a ‘lot of reasons’ for extra funding without going into details about those reasons Sign up for the Breaking US News US email Answering a reporter’s question on Iran’s missile capabilities, considering the country has managed to strike numerous states in the Gulf, Gen Dan Caine , the chair of the joint chiefs of staff, said Tehran retains “some capability” to attack American assets . “They came into this fight with a lot of weapons.,” he said, adding that the US continues to be “as aggressive and assertive” in striking Iran. Continue reading...",
-      "title": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
-      "summary": "President says there are a ‘lot of reasons’ for extra funding without going into details about those reasons Sign up for the Breaking US News US email Answering a reporter’s question on Iran’s missile capabilities, considering the country has managed to strike numerous states in the Gulf, Gen Dan Caine , the chair of the joint chiefs of staff, said Tehran retains “some capability” to attack American assets . “They came into this fight with a lot of weapons.,” he said, adding that the US continues to be “as aggressive and assertive” in striking Iran. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-19T22:35:34+00:00",
+      "title_en": "DGCA ask airlines to avoid 11 airspaces, ensure contingency plans amid Middle East conflict",
+      "summary_en": "According to the DGCA advisory, recent US and Israeli military strikes within Iran have created a high-risk environment for civil aviation",
+      "title": "DGCA ask airlines to avoid 11 airspaces, ensure contingency plans amid Middle East conflict",
+      "summary": "According to the DGCA advisory, recent US and Israeli military strikes within Iran have created a high-risk environment for civil aviation",
+      "url": "https://www.hindustantimes.com/india-news/dgca-ask-airlines-to-avoid-11-airspaces-ensure-contingency-plans-101773957274759.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2026-03-19T22:36:34+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -148,24 +265,6 @@
       "url": "https://www.thejournal.ie/crystal-palace-aek-larnaca-2-6990111-Mar2026/",
       "source": "TheJournal.ie",
       "published_at": "2026-03-19T22:34:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9dafb968b7611bd1",
-      "title_orig": "The Latest: Iran retaliates against Gulf energy sites as stocks sink worldwide",
-      "summary_orig": "Iran intensified its attacks on oil and gas facilities around the Gulf on Thursday in retaliation for an Israeli attack…",
-      "lang": "en",
-      "title_en": "The Latest: Iran retaliates against Gulf energy sites as stocks sink worldwide",
-      "summary_en": "Iran intensified its attacks on oil and gas facilities around the Gulf on Thursday in retaliation for an Israeli attack…",
-      "title": "The Latest: Iran retaliates against Gulf energy sites as stocks sink worldwide",
-      "summary": "Iran intensified its attacks on oil and gas facilities around the Gulf on Thursday in retaliation for an Israeli attack…",
-      "url": "https://wtop.com/national/2026/03/the-latest-trump-threatens-to-strike-worlds-largest-gas-field-if-iran-attacks-qatar-again/",
-      "source": "WTOP News",
-      "published_at": "2026-03-19T22:29:29+00:00",
       "tags": [
         "airport/security"
       ],
@@ -209,15 +308,15 @@
       "geo": {}
     },
     {
-      "id": "3479a7bae54cb15a",
+      "id": "3d3903ebe8027a50",
       "title_orig": "EU leaders call for moratorium on strikes against energy and water facilities in Middle East",
-      "summary_orig": "BRUSSELS, March 19 - European Union leaders called on Thursday for a moratorium on military strikes on energy and water facilities in the Middle East, amid growing concerns about the impact of the Iran war on the global economy.",
+      "summary_orig": "The leaders called for reinforcing the bloc’s existing Red Sea naval mission Aspides.",
       "lang": "en",
       "title_en": "EU leaders call for moratorium on strikes against energy and water facilities in Middle East",
-      "summary_en": "BRUSSELS, March 19 - European Union leaders called on Thursday for a moratorium on military strikes on energy and water facilities in the Middle East, amid growing concerns about the impact of the Iran war on the global economy.",
+      "summary_en": "The leaders called for reinforcing the bloc’s existing Red Sea naval mission Aspides.",
       "title": "EU leaders call for moratorium on strikes against energy and water facilities in Middle East",
-      "summary": "BRUSSELS, March 19 - European Union leaders called on Thursday for a moratorium on military strikes on energy and water facilities in the Middle East, amid growing concerns about the impact of the Iran war on the global economy.",
-      "url": "https://www.straitstimes.com/world/middle-east/eu-leaders-call-for-moratorium-on-strikes-against-energy-and-water-facilities-in-middle-east",
+      "summary": "The leaders called for reinforcing the bloc’s existing Red Sea naval mission Aspides.",
+      "url": "https://www.straitstimes.com/world/europe/eu-leaders-call-for-moratorium-on-strikes-against-energy-and-water-facilities-in-middle-east",
       "source": "The Straits Times World News",
       "published_at": "2026-03-19T22:22:19+00:00",
       "tags": [
@@ -263,24 +362,6 @@
       "geo": {}
     },
     {
-      "id": "c2e617920520eb26",
-      "title_orig": "Trump’s Reaction to Israeli Strike on Gas Field Exposes Divergent Strategies",
-      "summary_orig": "President Trump said he complained to Prime Minister Benjamin Netanyahu of Israel about the attack, which sent energy markets reeling. But Israeli officials said the Americans were informed beforehand.",
-      "lang": "en",
-      "title_en": "Trump’s Reaction to Israeli Strike on Gas Field Exposes Divergent Strategies",
-      "summary_en": "President Trump said he complained to Prime Minister Benjamin Netanyahu of Israel about the attack, which sent energy markets reeling. But Israeli officials said the Americans were informed beforehand.",
-      "title": "Trump’s Reaction to Israeli Strike on Gas Field Exposes Divergent Strategies",
-      "summary": "President Trump said he complained to Prime Minister Benjamin Netanyahu of Israel about the attack, which sent energy markets reeling. But Israeli officials said the Americans were informed beforehand.",
-      "url": "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-19T22:09:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "5c65a33974e2c953",
       "title_orig": "Video of Iranian soldier being targeted in a Tehran strike is AI generated",
       "summary_orig": "Since Tuesday, videos supposedly showing Iranian soldiers being bombed in Tehran have been widely shared by pro-Israel accounts, Israeli media and even an official Israeli government social media account. But doubts have surfaced over their authenticity, as Emerald Maxwell explains.",
@@ -314,6 +395,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6ddc539683533c3a",
+      "title_orig": "Qatar PM after Gulf energy attacks: 'This war must be stopped immediately'",
+      "summary_orig": "Qatar’s prime minister has called for an immediate end to the conflict after missile strikes hit energy facilities across the Gulf, including the country’s key Ras Laffan hub. Doha is demanding Iran halt the attacks, as gas prices surge and international pressure grows for de-escalation.",
+      "lang": "en",
+      "title_en": "Qatar PM after Gulf energy attacks: 'This war must be stopped immediately'",
+      "summary_en": "Qatar’s prime minister has called for an immediate end to the conflict after missile strikes hit energy facilities across the Gulf, including the country’s key Ras Laffan hub. Doha is demanding Iran halt the attacks, as gas prices surge and international pressure grows for de-escalation.",
+      "title": "Qatar PM after Gulf energy attacks: 'This war must be stopped immediately'",
+      "summary": "Qatar’s prime minister has called for an immediate end to the conflict after missile strikes hit energy facilities across the Gulf, including the country’s key Ras Laffan hub. Doha is demanding Iran halt the attacks, as gas prices surge and international pressure grows for de-escalation.",
+      "url": "http://www.euronews.com/2026/03/19/qatar-pm-after-gulf-energy-attacks-this-war-must-be-stopped-immediately",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-19T22:04:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -422,6 +521,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c330a9a5f34efcf0",
+      "title_orig": "Iranian TV shows man rescued from South Khorasan rubble",
+      "summary_orig": "Red Crescent teams rescue survivors in South Khorasan after reported US-Israeli strikes, as Iran counts rising civilian toll and mounting destruction.",
+      "lang": "en",
+      "title_en": "Iranian TV shows man rescued from South Khorasan rubble",
+      "summary_en": "Red Crescent teams rescue survivors in South Khorasan after reported US-Israeli strikes, as Iran counts rising civilian toll and mounting destruction.",
+      "title": "Iranian TV shows man rescued from South Khorasan rubble",
+      "summary": "Red Crescent teams rescue survivors in South Khorasan after reported US-Israeli strikes, as Iran counts rising civilian toll and mounting destruction.",
+      "url": "http://www.euronews.com/video/2026/03/19/iranian-tv-shows-man-rescued-from-south-khorasan-rubble",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-19T21:52:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -616,24 +733,6 @@
       "url": "https://www.seattletimes.com/nation-world/trump-jokes-about-pearl-harbor-in-meeting-with-japans-leader/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
       "source": "The Seattle Times The Seattle Times",
       "published_at": "2026-03-19T21:00:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a994b1952312da4b",
-      "title_orig": "‘Disbelief’ felt after school attacks prevented in Nova Scotia, Manitoba",
-      "summary_orig": "Parents and students in Nova Scotia and Manitoba are dealing with the aftermath of what could have been two deadly school attacks, after FBI intel leads to arrests.",
-      "lang": "en",
-      "title_en": "‘Disbelief’ felt after school attacks prevented in Nova Scotia, Manitoba",
-      "summary_en": "Parents and students in Nova Scotia and Manitoba are dealing with the aftermath of what could have been two deadly school attacks, after FBI intel leads to arrests.",
-      "title": "‘Disbelief’ felt after school attacks prevented in Nova Scotia, Manitoba",
-      "summary": "Parents and students in Nova Scotia and Manitoba are dealing with the aftermath of what could have been two deadly school attacks, after FBI intel leads to arrests.",
-      "url": "https://globalnews.ca/news/11737586/manitoba-nova-scotia-school-attacks/",
-      "source": "globalnews.ca",
-      "published_at": "2026-03-19T20:58:54+00:00",
       "tags": [
         "airport/security"
       ],
@@ -866,6 +965,24 @@
       "geo": {}
     },
     {
+      "id": "629278dbf6358993",
+      "title_orig": "Iranian opposition’s Lion and Sun flag hoisted at Iranian Embassy in Copenhagen",
+      "summary_orig": "According to reports published by outlets including Iran International and the Jerusalem Post, two Islamic Republic diplomats have recently stepped down from their posts and applied for asylum.",
+      "lang": "en",
+      "title_en": "Iranian opposition’s Lion and Sun flag hoisted at Iranian Embassy in Copenhagen",
+      "summary_en": "According to reports published by outlets including Iran International and the Jerusalem Post, two Islamic Republic diplomats have recently stepped down from their posts and applied for asylum.",
+      "title": "Iranian opposition’s Lion and Sun flag hoisted at Iranian Embassy in Copenhagen",
+      "summary": "According to reports published by outlets including Iran International and the Jerusalem Post, two Islamic Republic diplomats have recently stepped down from their posts and applied for asylum.",
+      "url": "http://www.euronews.com/2026/03/19/iranian-oppositions-lion-and-sun-flag-hoisted-at-iranian-embassy-in-copenhagen",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-19T20:01:09+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "11ae7336b1698020",
       "title_orig": "Huge Birmingham bin strike update as council leader makes dramatic move",
       "summary_orig": "Birmingham City Council leader John Cotton has said he wants a meeting with Unite 'as soon as possible'",
@@ -985,24 +1102,6 @@
       "url": "https://www.scmp.com/news/world/middle-east/article/3347223/israel-pm-says-iran-can-no-longer-enrich-uranium-hints-ground-component-war?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-03-19T19:31:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cd6c26cc5f125ab6",
-      "title_orig": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
-      "summary_orig": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
-      "lang": "en",
-      "title_en": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
-      "summary_en": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
-      "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
-      "summary": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
-      "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-19T19:31:21+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1323,24 +1422,6 @@
         "lat": 53.3652,
         "lon": -2.2727
       }
-    },
-    {
-      "id": "71f396a052fa1c50",
-      "title_orig": "'I do not need a babysitter': Row erupts as John Swinney admits he cannot ban US jets from Prestwick Airport",
-      "summary_orig": "A row has broken out after the UK government cancelled John Swinney’s national security briefing because the Scottish Secretary was not present.",
-      "lang": "en",
-      "title_en": "'I do not need a babysitter': Row erupts as John Swinney admits he cannot ban US jets from Prestwick Airport",
-      "summary_en": "A row has broken out after the UK government cancelled John Swinney’s national security briefing because the Scottish Secretary was not present.",
-      "title": "'I do not need a babysitter': Row erupts as John Swinney admits he cannot ban US jets from Prestwick Airport",
-      "summary": "A row has broken out after the UK government cancelled John Swinney’s national security briefing because the Scottish Secretary was not present.",
-      "url": "https://www.scotsman.com/news/politics/prestwick-airport-us-military-jets-john-swinney-douglas-alexander-6034642",
-      "source": "The Scotsman",
-      "published_at": "2026-03-19T18:39:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "37e82ddec2bd93f2",
@@ -1739,24 +1820,6 @@
       "geo": {}
     },
     {
-      "id": "f7dc494434c1f9e6",
-      "title_orig": "John Swinney: Some anti-asylum protestors are falling foul of hate crime laws",
-      "summary_orig": "John Swinney warned voters that backing Reform UK at the election would be a ‘disaster’ for Scotland.",
-      "lang": "en",
-      "title_en": "John Swinney: Some anti-asylum protestors are falling foul of hate crime laws",
-      "summary_en": "John Swinney warned voters that backing Reform UK at the election would be a ‘disaster’ for Scotland.",
-      "title": "John Swinney: Some anti-asylum protestors are falling foul of hate crime laws",
-      "summary": "John Swinney warned voters that backing Reform UK at the election would be a ‘disaster’ for Scotland.",
-      "url": "https://www.scotsman.com/news/politics/john-swinney-some-anti-asylum-protestors-are-falling-foul-of-hate-crime-laws-6027699",
-      "source": "The Scotsman",
-      "published_at": "2026-03-19T17:27:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4eaafd7b706e8a4c",
       "title_orig": "Missile strikes close to reporter during Israeli attacks in Lebanon",
       "summary_orig": "A missile struck metres away from a Russia Today reporter as he was covering Israeli attacks on southern Lebanon.",
@@ -2063,24 +2126,6 @@
       "geo": {}
     },
     {
-      "id": "8bbe85beaf4cfa77",
-      "title_orig": "Pa. man convicted of planning 2019 bombing that killed 34-year-old woman",
-      "summary_orig": "Shawna Carlson, 34, was killed when a package delivered to her apartment exploded on Oct. 4, 2019. The bomb caused a fire that destroyed the two-story apartment building.",
-      "lang": "en",
-      "title_en": "Pa. man convicted of planning 2019 bombing that killed 34-year-old woman",
-      "summary_en": "Shawna Carlson, 34, was killed when a package delivered to her apartment exploded on Oct. 4, 2019. The bomb caused a fire that destroyed the two-story apartment building.",
-      "title": "Pa. man convicted of planning 2019 bombing that killed 34-year-old woman",
-      "summary": "Shawna Carlson, 34, was killed when a package delivered to her apartment exploded on Oct. 4, 2019. The bomb caused a fire that destroyed the two-story apartment building.",
-      "url": "https://www.pennlive.com/crime/2026/03/pa-man-convicted-of-planning-2019-bombing-that-killed-34-year-old-woman.html",
-      "source": "pennlive.com",
-      "published_at": "2026-03-19T16:33:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "22605a3561975f07",
       "title_orig": "Britain's oldest synagogue and London college 'targeted by Iranian spies'",
       "summary_orig": "Israeli embassy and consulate in Kensington, the JW3 community centre in Finchley Road and the Bevis Marks Synagogue in Aldgate were all allegedly targets",
@@ -2200,24 +2245,6 @@
       "url": "https://www.france24.com/en/video/20260319-paris-mayoral-race-socialist-frontrunner-faces-fierce-attacks-from-rivals",
       "source": "France 24 - International breaking news, top stories and headlines",
       "published_at": "2026-03-19T16:02:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "45f582c9d98533d5",
-      "title_orig": "Denmark reportedly flew blood bags to Greenland in preparation for a US attack",
-      "summary_orig": "Amid Trump threats, Copenhagen also sent over explosives intended to blow up runways, according to Danish media Denmark reportedly readied itself for potential attack from the US in January – flying bags of blood to Greenland and explosives to blow up runways in case of a battle with its former closest ally. During the tense days when Donald Trump threatened to take over Greenland – a largely autonomous territory that is part of the Danish commonwealth – “the hard way”, Copenhagen was so shaken that it started preparing for US invasion, according to Danish public broadcaster DR. Continue reading...",
-      "lang": "en",
-      "title_en": "Denmark reportedly flew blood bags to Greenland in preparation for a US attack",
-      "summary_en": "Amid Trump threats, Copenhagen also sent over explosives intended to blow up runways, according to Danish media Denmark reportedly readied itself for potential attack from the US in January – flying bags of blood to Greenland and explosives to blow up runways in case of a battle with its former closest ally. During the tense days when Donald Trump threatened to take over Greenland – a largely autonomous territory that is part of the Danish commonwealth – “the hard way”, Copenhagen was so shaken that it started preparing for US invasion, according to Danish public broadcaster DR. Continue reading...",
-      "title": "Denmark reportedly flew blood bags to Greenland in preparation for a US attack",
-      "summary": "Amid Trump threats, Copenhagen also sent over explosives intended to blow up runways, according to Danish media Denmark reportedly readied itself for potential attack from the US in January – flying bags of blood to Greenland and explosives to blow up runways in case of a battle with its former closest ally. During the tense days when Donald Trump threatened to take over Greenland – a largely autonomous territory that is part of the Danish commonwealth – “the hard way”, Copenhagen was so shaken that it started preparing for US invasion, according to Danish public broadcaster DR. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/mar/19/denmark-prepared-for-us-attack-donald-trump-greenland",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-19T16:00:27+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2387,24 +2414,6 @@
       "geo": {}
     },
     {
-      "id": "fefb705735f52a78",
-      "title_orig": "Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues",
-      "summary_orig": "At least 40 medical workers among those killed as rights groups urge Israel to end attacks on Lebanon health facilities.",
-      "lang": "en",
-      "title_en": "Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues",
-      "summary_en": "At least 40 medical workers among those killed as rights groups urge Israel to end attacks on Lebanon health facilities.",
-      "title": "Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues",
-      "summary": "At least 40 medical workers among those killed as rights groups urge Israel to end attacks on Lebanon health facilities.",
-      "url": "https://www.aljazeera.com/news/2026/3/19/death-toll-surpasses-1000-in-lebanon-as-israeli-bombardment-continues?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-03-19T15:47:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "fae70cf335a3dd9e",
       "title_orig": "US Air Force B-1B Bombers Denied Access to European Union Airspace",
       "summary_orig": "RAF FAIRFORD, UK – A United States Air Force B-1B Lancer returned to its forward operating base in Gloucestershire early Wednesday morning, completing a high-stakes mission that highlighted growing diplomatic fractures within NATO regarding Middle East policy. The aircraft, tail number 86-0120, touched down at RAF Fairford at 05:05 AM UTC on March 18, 2026. […] The post US Air Force B-1B Bombers Denied Access to European Union Airspace appeared first on AIRLIVE .",
@@ -2441,24 +2450,6 @@
       "geo": {}
     },
     {
-      "id": "4b130c200b558d56",
-      "title_orig": "Hegseth insists US is meeting Iran war objectives",
-      "summary_orig": "US Defense Secretary insisted Washington is meeting its objectives against Iran despite escalating attacks on Gulf.",
-      "lang": "en",
-      "title_en": "Hegseth insists US is meeting Iran war objectives",
-      "summary_en": "US Defense Secretary insisted Washington is meeting its objectives against Iran despite escalating attacks on Gulf.",
-      "title": "Hegseth insists US is meeting Iran war objectives",
-      "summary": "US Defense Secretary insisted Washington is meeting its objectives against Iran despite escalating attacks on Gulf.",
-      "url": "https://www.aljazeera.com/video/2026/3/19/hegseth-insists-us-is-meeting-iran-war-objectives?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-03-19T15:38:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "04050a1ee5bcc309",
       "title_orig": "A Colorado woman called to cancel a doctor's appointment. That call saved her life.",
       "summary_orig": "A routine call to cancel a doctor’s appointment led to a Denver woman’s heart attack being caught in time, thanks to quick action by two medical staffers.",
@@ -2478,12 +2469,12 @@
     },
     {
       "id": "33fe4378d30ed89e",
-      "title_orig": "Three Palestinian women killed during Iranian missile attack that struck beauty salon",
+      "title_orig": "Three Palestinian women killed in beauty salon during Iranian missile attack",
       "summary_orig": "Others were injured when the salon in the southern West Bank was hit, while a Thai worker was killed by falling shrapnel in Israel.",
       "lang": "en",
-      "title_en": "Three Palestinian women killed during Iranian missile attack that struck beauty salon",
+      "title_en": "Three Palestinian women killed in beauty salon during Iranian missile attack",
       "summary_en": "Others were injured when the salon in the southern West Bank was hit, while a Thai worker was killed by falling shrapnel in Israel.",
-      "title": "Three Palestinian women killed during Iranian missile attack that struck beauty salon",
+      "title": "Three Palestinian women killed in beauty salon during Iranian missile attack",
       "summary": "Others were injured when the salon in the southern West Bank was hit, while a Thai worker was killed by falling shrapnel in Israel.",
       "url": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -2747,6 +2738,24 @@
       "geo": {}
     },
     {
+      "id": "12b0725f8009184e",
+      "title_orig": "Iran hangs three men, including 19-year-old wrestler, in first executions over January protests",
+      "summary_orig": "Rights groups said the trio, who included a teenager who had taken part in international wrestling competitions, were executed without a fair trial and had given confessions under torture.",
+      "lang": "en",
+      "title_en": "Iran hangs three men, including 19-year-old wrestler, in first executions over January protests",
+      "summary_en": "Rights groups said the trio, who included a teenager who had taken part in international wrestling competitions, were executed without a fair trial and had given confessions under torture.",
+      "title": "Iran hangs three men, including 19-year-old wrestler, in first executions over January protests",
+      "summary": "Rights groups said the trio, who included a teenager who had taken part in international wrestling competitions, were executed without a fair trial and had given confessions under torture.",
+      "url": "http://www.euronews.com/2026/03/19/iran-hangs-three-men-in-first-executions-over-january-anti-government-protests",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-19T14:44:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "f29769394c3cd4db",
       "title_orig": "US-Israeli war with Iran causes major oil, gas disruptions",
       "summary_orig": "March 19 - The U.S.-Israeli war on Iran and Tehran's attacks on Gulf neighbours have damaged major energy facilities and brought shipping through the Strait of Hormuz - which handles about 20% of global oil and liquefied natural gas flows - close to a halt.",
@@ -2856,24 +2865,6 @@
       "geo": {}
     },
     {
-      "id": "831b5716f359b4de",
-      "title_orig": "Hauliers put protest threat on hold as minister says fuel tax may be cut next week",
-      "summary_orig": "Tánaiste Simon Harris said yesterday that an “appropriate intervention” is being finalised and will be brought to Cabinet next week.",
-      "lang": "en",
-      "title_en": "Hauliers put protest threat on hold as minister says fuel tax may be cut next week",
-      "summary_en": "Tánaiste Simon Harris said yesterday that an “appropriate intervention” is being finalised and will be brought to Cabinet next week.",
-      "title": "Hauliers put protest threat on hold as minister says fuel tax may be cut next week",
-      "summary": "Tánaiste Simon Harris said yesterday that an “appropriate intervention” is being finalised and will be brought to Cabinet next week.",
-      "url": "https://www.thejournal.ie/hauliers-protest-minister-fuel-prices-6988942-Mar2026/",
-      "source": "TheJournal.ie",
-      "published_at": "2026-03-19T14:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "215657b7cb998844",
       "title_orig": "2 men charged with spying for Iran on UK Jewish targets",
       "summary_orig": "Two men appeared in a London court on Thursday accused of being tasked by Iran to carry out hostile surveillance on the Israeli embassy, Britain’s oldest synagogue and other Jewish targets.\nNematollah Shahsavani, 40, a dual Iranian-British national, and Alireza Farasati, an Iranian national, 22, are accused of being involved in gathering information and undertaking reconnaissance of targets given to them by Iranian spy services over five weeks last summer.\nAs such, the alleged activities...",
@@ -2939,24 +2930,6 @@
       "url": "https://www.straitstimes.com/world/middle-east/under-iran-attack-qatar-students-fear-long-war-will-keep-universities-shut",
       "source": "The Straits Times World News",
       "published_at": "2026-03-19T13:20:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b3364a56ca9584aa",
-      "title_orig": "US official warns small airports could soon shut down over TSA absences",
-      "summary_orig": "TSA airport security officers are set to miss another full paycheck on March 27.",
-      "lang": "en",
-      "title_en": "US official warns small airports could soon shut down over TSA absences",
-      "summary_en": "TSA airport security officers are set to miss another full paycheck on March 27.",
-      "title": "US official warns small airports could soon shut down over TSA absences",
-      "summary": "TSA airport security officers are set to miss another full paycheck on March 27.",
-      "url": "https://www.straitstimes.com/world/us-official-warns-small-airports-could-soon-shut-down-over-tsa-absences",
-      "source": "The Straits Times World News",
-      "published_at": "2026-03-19T13:17:33+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3522,6 +3495,24 @@
       "geo": {}
     },
     {
+      "id": "bea734dc4ffebe18",
+      "title_orig": "Iran: Mass funeral in Tehran for Larijani and other officials killed in strikes",
+      "summary_orig": "Thousands gathered at Enghelab Square in Tehran on 18 March for the funeral procession of national security chief Ali Larijani, Basij commander Gholamreza Soleimani and dozens of sailors killed in recent strikes.",
+      "lang": "en",
+      "title_en": "Iran: Mass funeral in Tehran for Larijani and other officials killed in strikes",
+      "summary_en": "Thousands gathered at Enghelab Square in Tehran on 18 March for the funeral procession of national security chief Ali Larijani, Basij commander Gholamreza Soleimani and dozens of sailors killed in recent strikes.",
+      "title": "Iran: Mass funeral in Tehran for Larijani and other officials killed in strikes",
+      "summary": "Thousands gathered at Enghelab Square in Tehran on 18 March for the funeral procession of national security chief Ali Larijani, Basij commander Gholamreza Soleimani and dozens of sailors killed in recent strikes.",
+      "url": "http://www.euronews.com/video/2026/03/19/iran-mass-funeral-in-tehran-for-larijani-and-other-officials-killed-in-strikes",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-19T10:05:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "c16145fb31308457",
       "title_orig": "Joel Piroe handed World Cup hope with first international call-up for Leeds United striker",
       "summary_orig": "The Leeds United forward switched national allegiance in January",
@@ -3555,6 +3546,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "097487cae257be72",
+      "title_orig": "Brent crude oil briefly crosses $119 after Iran hit largest Qatari energy site",
+      "summary_orig": "Brent crude oil traded briefly above $119 a barrel after Iran struck Qatar’s largest energy site, the Ras Laffan gas field. The attack was in response to Israeli strikes against the Iranian South Pars gas field.",
+      "lang": "en",
+      "title_en": "Brent crude oil briefly crosses $119 after Iran hit largest Qatari energy site",
+      "summary_en": "Brent crude oil traded briefly above $119 a barrel after Iran struck Qatar’s largest energy site, the Ras Laffan gas field. The attack was in response to Israeli strikes against the Iranian South Pars gas field.",
+      "title": "Brent crude oil briefly crosses $119 after Iran hit largest Qatari energy site",
+      "summary": "Brent crude oil traded briefly above $119 a barrel after Iran struck Qatar’s largest energy site, the Ras Laffan gas field. The attack was in response to Israeli strikes against the Iranian South Pars gas field.",
+      "url": "http://www.euronews.com/business/2026/03/19/brent-crude-oil-crosses-114-after-iran-hit-largest-qatari-energy-site",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-19T09:30:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -3681,6 +3690,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d3bad32b424149d2",
+      "title_orig": "Iran missile strike hits Tel Aviv area as deaths mount across region",
+      "summary_orig": "Iranian missile fire damaged a Tel Aviv residential block and hit multiple sites nearby, as soaring violence across the region has killed over 2,000 people.",
+      "lang": "en",
+      "title_en": "Iran missile strike hits Tel Aviv area as deaths mount across region",
+      "summary_en": "Iranian missile fire damaged a Tel Aviv residential block and hit multiple sites nearby, as soaring violence across the region has killed over 2,000 people.",
+      "title": "Iran missile strike hits Tel Aviv area as deaths mount across region",
+      "summary": "Iranian missile fire damaged a Tel Aviv residential block and hit multiple sites nearby, as soaring violence across the region has killed over 2,000 people.",
+      "url": "http://www.euronews.com/video/2026/03/19/iran-missile-strike-hits-tel-aviv-area-as-deaths-mount-across-region",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-19T08:39:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -3882,21 +3909,21 @@
       "geo": {}
     },
     {
-      "id": "356964c730793b4c",
-      "title_orig": "Teachers 'still vulnerable' to verbal and physical attacks despite behaviour plan",
-      "summary_orig": "The Scottish government has issued guidance on tackling the major issues in Scotland’s classrooms",
+      "id": "8e0dd2cd59421b98",
+      "title_orig": "Trump threatens to 'entirely blow up' Iran's largest gas field if it attacks Qatar's LNG again",
+      "summary_orig": "Trump has vowed to “blow up the entirety” of Iran’s South Pars gas field if Tehran moves to attack Qatari gas fields again. The warning comes after Iran, in response to an Israeli attack on its gas field, struck Qatar’s largest Ras Laffan facility, sparking global outrage.",
       "lang": "en",
-      "title_en": "Teachers 'still vulnerable' to verbal and physical attacks despite behaviour plan",
-      "summary_en": "The Scottish government has issued guidance on tackling the major issues in Scotland’s classrooms",
-      "title": "Teachers 'still vulnerable' to verbal and physical attacks despite behaviour plan",
-      "summary": "The Scottish government has issued guidance on tackling the major issues in Scotland’s classrooms",
-      "url": "https://www.scotsman.com/education/teachers-still-vulnerable-to-verbal-and-physical-attacks-despite-behaviour-plan-6027354",
-      "source": "The Scotsman",
-      "published_at": "2026-03-19T06:00:45+00:00",
+      "title_en": "Trump threatens to 'entirely blow up' Iran's largest gas field if it attacks Qatar's LNG again",
+      "summary_en": "Trump has vowed to “blow up the entirety” of Iran’s South Pars gas field if Tehran moves to attack Qatari gas fields again. The warning comes after Iran, in response to an Israeli attack on its gas field, struck Qatar’s largest Ras Laffan facility, sparking global outrage.",
+      "title": "Trump threatens to 'entirely blow up' Iran's largest gas field if it attacks Qatar's LNG again",
+      "summary": "Trump has vowed to “blow up the entirety” of Iran’s South Pars gas field if Tehran moves to attack Qatari gas fields again. The warning comes after Iran, in response to an Israeli attack on its gas field, struck Qatar’s largest Ras Laffan facility, sparking global outrage.",
+      "url": "http://www.euronews.com/2026/03/19/trump-threatens-to-entirely-blow-up-irans-largest-gas-field-if-it-attacks-qatars-lng-again",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-19T05:48:40+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "local news",
+      "type": "major news",
       "geo": {}
     },
     {
@@ -4278,6 +4305,24 @@
       "geo": {}
     },
     {
+      "id": "b1a1d442591c2e4f",
+      "title_orig": "Who blinks first: What Iran’s Strait of Hormuz strategy reveals about its war goals",
+      "summary_orig": "Attacks on ships in Hormuz and strikes across the region expose Tehran's strategy of gradual escalation and long war, testing US, Israeli and Gulf resolve.",
+      "lang": "en",
+      "title_en": "Who blinks first: What Iran’s Strait of Hormuz strategy reveals about its war goals",
+      "summary_en": "Attacks on ships in Hormuz and strikes across the region expose Tehran's strategy of gradual escalation and long war, testing US, Israeli and Gulf resolve.",
+      "title": "Who blinks first: What Iran’s Strait of Hormuz strategy reveals about its war goals",
+      "summary": "Attacks on ships in Hormuz and strikes across the region expose Tehran's strategy of gradual escalation and long war, testing US, Israeli and Gulf resolve.",
+      "url": "http://www.euronews.com/2026/03/18/who-blinks-first-what-irans-strait-of-hormuz-strategy-reveals-about-its-war-goals",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-18T15:00:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "a43ef3d38de32f20",
       "title_orig": "ALERT Three private planes were destroyed at Ben Gurion Airport following recent Iranian missile attacks",
       "summary_orig": "TEL AVIV — A series of Iranian ballistic missile strikes targeting central Israel has left several private aircraft damaged at a civilian airfield near Ben Gurion International Airport. The Iranian Islamic Revolutionary Guard Corps (IRGC) claimed responsibility for the “19th wave” of its ongoing offensive, specifically stating that Khorramshahr-4 missiles—heavy projectiles equipped with one-ton warheads—were […] The post ALERT Three private planes were destroyed at Ben Gurion Airport following recent Iranian missile attacks appeared first on AIRLIVE .",
@@ -4293,6 +4338,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "21cffed3a2b2156f",
+      "title_orig": "UN maritime body starts talks on Middle East shipping with Hormuz strait effectively closed",
+      "summary_orig": "At least 21 ships have been hit, targeted or reported attacks since the start of the conflict, according to the UK Maritime Trade Operations, a naval monitor.",
+      "lang": "en",
+      "title_en": "UN maritime body starts talks on Middle East shipping with Hormuz strait effectively closed",
+      "summary_en": "At least 21 ships have been hit, targeted or reported attacks since the start of the conflict, according to the UK Maritime Trade Operations, a naval monitor.",
+      "title": "UN maritime body starts talks on Middle East shipping with Hormuz strait effectively closed",
+      "summary": "At least 21 ships have been hit, targeted or reported attacks since the start of the conflict, according to the UK Maritime Trade Operations, a naval monitor.",
+      "url": "http://www.euronews.com/2026/03/18/un-maritime-body-starts-talks-on-middle-east-shipping-with-hormuz-strait-effectively-close",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-18T13:23:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -4332,6 +4395,24 @@
       "geo": {}
     },
     {
+      "id": "c691883c7209cc67",
+      "title_orig": "Iran: Rescuers search Tehran rubble after US-Israeli strikes kill senior figures",
+      "summary_orig": "Footage released on 18 March by the Iranian Red Crescent shows rescuers searching through rubble in the Resalat district of east Tehran after a residential building was destroyed in strikes on 17 March.",
+      "lang": "en",
+      "title_en": "Iran: Rescuers search Tehran rubble after US-Israeli strikes kill senior figures",
+      "summary_en": "Footage released on 18 March by the Iranian Red Crescent shows rescuers searching through rubble in the Resalat district of east Tehran after a residential building was destroyed in strikes on 17 March.",
+      "title": "Iran: Rescuers search Tehran rubble after US-Israeli strikes kill senior figures",
+      "summary": "Footage released on 18 March by the Iranian Red Crescent shows rescuers searching through rubble in the Resalat district of east Tehran after a residential building was destroyed in strikes on 17 March.",
+      "url": "http://www.euronews.com/video/2026/03/18/iran-rescuers-search-tehran-rubble-after-us-israeli-strikes-kill-senior-figures",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-18T11:11:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "8941723a6407084f",
       "title_orig": "‘All depends on who you get’: How Italy’s airports are applying EES border checks",
       "summary_orig": "Passengers in Italy can now expect to encounter the EU’s new border control system, but experiences vary wildly depending on where and when you enter.",
@@ -4368,6 +4449,24 @@
       "geo": {}
     },
     {
+      "id": "5e89fd44a6abe33e",
+      "title_orig": "South African town divided over renaming after Robert Sobukwe",
+      "summary_orig": "The nearly 250-year-old town, known for its Cape Dutch architecture and tourism appeal, is among more than 1,500 places renamed since the end of apartheid to shed colonial-era legacies. But here, the change has sparked protests, petitions and concern over its real impact on everyday lives.",
+      "lang": "en",
+      "title_en": "South African town divided over renaming after Robert Sobukwe",
+      "summary_en": "The nearly 250-year-old town, known for its Cape Dutch architecture and tourism appeal, is among more than 1,500 places renamed since the end of apartheid to shed colonial-era legacies. But here, the change has sparked protests, petitions and concern over its real impact on everyday lives.",
+      "title": "South African town divided over renaming after Robert Sobukwe",
+      "summary": "The nearly 250-year-old town, known for its Cape Dutch architecture and tourism appeal, is among more than 1,500 places renamed since the end of apartheid to shed colonial-era legacies. But here, the change has sparked protests, petitions and concern over its real impact on everyday lives.",
+      "url": "http://www.euronews.com/2026/03/18/south-african-town-divided-over-renaming-after-robert-sobukwe",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-18T09:29:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "2b9d6dfe2c6d2227",
       "title_orig": "How to get around Munich during the two-day public transport strike",
       "summary_orig": "A two-day strike affecting public transport in Munich starts at 11am on Wednesday. Here's how it will affect passengers and how to get around.",
@@ -4386,6 +4485,78 @@
       "geo": {}
     },
     {
+      "id": "6e909bc616858eea",
+      "title_orig": "Spy scandal overshadows Slovenian elections",
+      "summary_orig": "The Slovenian government has alleged that Israeli intelligence firm Black Cube met with opposition politicians in a “direct attack” on the country’s sovereignty ahead of a parliamentary election next Sunday. The opposition party has rejected the accusations.",
+      "lang": "en",
+      "title_en": "Spy scandal overshadows Slovenian elections",
+      "summary_en": "The Slovenian government has alleged that Israeli intelligence firm Black Cube met with opposition politicians in a “direct attack” on the country’s sovereignty ahead of a parliamentary election next Sunday. The opposition party has rejected the accusations.",
+      "title": "Spy scandal overshadows Slovenian elections",
+      "summary": "The Slovenian government has alleged that Israeli intelligence firm Black Cube met with opposition politicians in a “direct attack” on the country’s sovereignty ahead of a parliamentary election next Sunday. The opposition party has rejected the accusations.",
+      "url": "http://www.euronews.com/2026/03/18/slovenias-liberal-government-faces-tight-race-as-conservative-opposition-surges",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-18T08:38:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e8db16442994e1a7",
+      "title_orig": "Iran vows to retaliate as Israel targets leadership and attacks on energy facilities intensify",
+      "summary_orig": "Israel killed another top Iranian official in its campaign against Iran's leadership, and reportedly attacked an Iranian offshore natural gas field Wednesday amid the war's escalating pressure on the region’s economic lifeblood: energy.",
+      "lang": "en",
+      "title_en": "Iran vows to retaliate as Israel targets leadership and attacks on energy facilities intensify",
+      "summary_en": "Israel killed another top Iranian official in its campaign against Iran's leadership, and reportedly attacked an Iranian offshore natural gas field Wednesday amid the war's escalating pressure on the region’s economic lifeblood: energy.",
+      "title": "Iran vows to retaliate as Israel targets leadership and attacks on energy facilities intensify",
+      "summary": "Israel killed another top Iranian official in its campaign against Iran's leadership, and reportedly attacked an Iranian offshore natural gas field Wednesday amid the war's escalating pressure on the region’s economic lifeblood: energy.",
+      "url": "http://www.euronews.com/2026/03/18/iran-lashes-out-with-wide-scale-retaliatory-campaign-as-israel-renews-attacks-on-lebanon",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-18T08:16:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1f3e10c27fce5be0",
+      "title_orig": "Israel: Iranian missile strike near Tel Aviv kills elderly couple in Ramat Gan",
+      "summary_orig": "An Iranian missile struck a residential building in Ramat Gan, near Tel Aviv, early on Wednesday 18 March, killing two people, according to Magen David Adom.",
+      "lang": "en",
+      "title_en": "Israel: Iranian missile strike near Tel Aviv kills elderly couple in Ramat Gan",
+      "summary_en": "An Iranian missile struck a residential building in Ramat Gan, near Tel Aviv, early on Wednesday 18 March, killing two people, according to Magen David Adom.",
+      "title": "Israel: Iranian missile strike near Tel Aviv kills elderly couple in Ramat Gan",
+      "summary": "An Iranian missile struck a residential building in Ramat Gan, near Tel Aviv, early on Wednesday 18 March, killing two people, according to Magen David Adom.",
+      "url": "http://www.euronews.com/video/2026/03/18/israel-iranian-missile-strike-near-tel-aviv-kills-elderly-couple-in-ramat-gan",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-18T08:13:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "cf130ce8dc47e3a8",
+      "title_orig": "Lebanon: Israeli airstrike flattens Beirut apartment block, killing at least six",
+      "summary_orig": "An Israeli airstrike destroyed an apartment building in the Bachoura district of Beirut early on Wednesday, killing at least six people, according to Lebanese authorities.",
+      "lang": "en",
+      "title_en": "Lebanon: Israeli airstrike flattens Beirut apartment block, killing at least six",
+      "summary_en": "An Israeli airstrike destroyed an apartment building in the Bachoura district of Beirut early on Wednesday, killing at least six people, according to Lebanese authorities.",
+      "title": "Lebanon: Israeli airstrike flattens Beirut apartment block, killing at least six",
+      "summary": "An Israeli airstrike destroyed an apartment building in the Bachoura district of Beirut early on Wednesday, killing at least six people, according to Lebanese authorities.",
+      "url": "http://www.euronews.com/video/2026/03/18/lebanon-israeli-airstrike-flattens-beirut-apartment-block-killing-at-least-six",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-18T08:03:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "79be91784d05d9aa",
       "title_orig": "Today in Germany: A roundup of the latest news on Wednesday",
       "summary_orig": "Strike brings Berlin Airport to a standstill, Russian ballet banned for 'gay propaganda' to open in Berlin, German investor confidence plummets amid Mideast war and more news on Wednesday, March 18th.",
@@ -4401,6 +4572,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "53eb5e7b196163aa",
+      "title_orig": "Iran fires barrages at Israel and wider region after killing of two of its top security officials",
+      "summary_orig": "Iran fired advanced missiles at central Israel in the early hours of Wednesday, killing two people, as it looks to avenge the killing of two of its top security officials. Several countries including Saudi Arabia, UAE and Iraq have also reported new attacks from Tehran.",
+      "lang": "en",
+      "title_en": "Iran fires barrages at Israel and wider region after killing of two of its top security officials",
+      "summary_en": "Iran fired advanced missiles at central Israel in the early hours of Wednesday, killing two people, as it looks to avenge the killing of two of its top security officials. Several countries including Saudi Arabia, UAE and Iraq have also reported new attacks from Tehran.",
+      "title": "Iran fires barrages at Israel and wider region after killing of two of its top security officials",
+      "summary": "Iran fired advanced missiles at central Israel in the early hours of Wednesday, killing two people, as it looks to avenge the killing of two of its top security officials. Several countries including Saudi Arabia, UAE and Iraq have also reported new attacks from Tehran.",
+      "url": "http://www.euronews.com/2026/03/18/iran-fires-barrages-at-israel-and-wider-region-after-killing-of-two-of-its-top-security-of",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-18T05:49:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -4455,6 +4644,42 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ca7e79b4263c11a4",
+      "title_orig": "Top US counter-terrorism official Joe Kent resigns in protest against Iran war",
+      "summary_orig": "As head of the National Counterterrorism Center, Kent was in charge of an agency tasked with analysing and detecting terrorist threats.",
+      "lang": "en",
+      "title_en": "Top US counter-terrorism official Joe Kent resigns in protest against Iran war",
+      "summary_en": "As head of the National Counterterrorism Center, Kent was in charge of an agency tasked with analysing and detecting terrorist threats.",
+      "title": "Top US counter-terrorism official Joe Kent resigns in protest against Iran war",
+      "summary": "As head of the National Counterterrorism Center, Kent was in charge of an agency tasked with analysing and detecting terrorist threats.",
+      "url": "http://www.euronews.com/2026/03/17/top-us-counter-terrorism-official-joe-kent-resigns-in-protest-against-iran-war",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-17T18:01:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "8efc1d4bacd3246d",
+      "title_orig": "Kyiv open to discussing drone interception expertise with Netanyahu, Zelenskyy says",
+      "summary_orig": "Ukraine’s president said he is ready for a dialogue with the Israeli prime minister on drone interceptors and Kyiv’s expertise in countering Tehran's UAVs, as the Iran war entered its third week.",
+      "lang": "en",
+      "title_en": "Kyiv open to discussing drone interception expertise with Netanyahu, Zelenskyy says",
+      "summary_en": "Ukraine’s president said he is ready for a dialogue with the Israeli prime minister on drone interceptors and Kyiv’s expertise in countering Tehran's UAVs, as the Iran war entered its third week.",
+      "title": "Kyiv open to discussing drone interception expertise with Netanyahu, Zelenskyy says",
+      "summary": "Ukraine’s president said he is ready for a dialogue with the Israeli prime minister on drone interceptors and Kyiv’s expertise in countering Tehran's UAVs, as the Iran war entered its third week.",
+      "url": "http://www.euronews.com/2026/03/17/kyiv-open-to-discussing-drone-interception-expertise-with-netanyahu-zelenskyy-says",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-17T17:48:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
