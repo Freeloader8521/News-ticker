@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-03-23T21:10:52.415488+00:00",
+  "generated_at": "2026-03-23T22:01:22.309624+00:00",
   "items": [
     {
-      "id": "86e8a63181bdbbb6",
-      "title_orig": "Trump makes a detour to Elvis Presley’s Graceland in Memphis during Iran war and airport turmoil",
-      "summary_orig": "MEMPHIS, Tenn. (AP) — President Donald Trump took a surprise tour of Elvis Presley’s Graceland on Monday while in Memphis,…",
+      "id": "0fad5e2213929919",
+      "title_orig": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
+      "summary_orig": "Police say they are looking for three suspects after the Hatzola ambulances were set on fire.",
       "lang": "en",
-      "title_en": "Trump makes a detour to Elvis Presley’s Graceland in Memphis during Iran war and airport turmoil",
-      "summary_en": "MEMPHIS, Tenn. (AP) — President Donald Trump took a surprise tour of Elvis Presley’s Graceland on Monday while in Memphis,…",
-      "title": "Trump makes a detour to Elvis Presley’s Graceland in Memphis during Iran war and airport turmoil",
-      "summary": "MEMPHIS, Tenn. (AP) — President Donald Trump took a surprise tour of Elvis Presley’s Graceland on Monday while in Memphis,…",
-      "url": "https://wtop.com/national/2026/03/trump-heads-to-elvis-presleys-graceland-in-memphis-a-detour-during-iran-war-and-airport-turmoil/",
-      "source": "WTOP News",
-      "published_at": "2026-03-23T21:00:14+00:00",
+      "title_en": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
+      "summary_en": "Police say they are looking for three suspects after the Hatzola ambulances were set on fire.",
+      "title": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
+      "summary": "Police say they are looking for three suspects after the Hatzola ambulances were set on fire.",
+      "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-03-23T21:40:51+00:00",
       "tags": [
         "airport/security"
       ],
@@ -20,17 +20,71 @@
       "geo": {}
     },
     {
-      "id": "7f819766179ffd8d",
-      "title_orig": "Iran War Live Updates: U.S., Iran and Israel Send Conflicting Signals on Peace Prospects",
-      "summary_orig": "President Trump said talks were ongoing and postponed threats to escalate strikes against infrastructure. Iranian officials, however, disputed that there had been negotiations, and Israel said it would continue attacks.",
+      "id": "33bfa1a58f7e519c",
+      "title_orig": "LaGuardia plane crash latest: Video shows horrifying moment of impact as Trump official warns travelers to ‘wear your seatbelt’",
+      "summary_orig": "Flights began to depart LaGuardia Airport Monday just after 2 p.m. after first runway reopened following the crash",
       "lang": "en",
-      "title_en": "Iran War Live Updates: U.S., Iran and Israel Send Conflicting Signals on Peace Prospects",
-      "summary_en": "President Trump said talks were ongoing and postponed threats to escalate strikes against infrastructure. Iranian officials, however, disputed that there had been negotiations, and Israel said it would continue attacks.",
-      "title": "Iran War Live Updates: U.S., Iran and Israel Send Conflicting Signals on Peace Prospects",
-      "summary": "President Trump said talks were ongoing and postponed threats to escalate strikes against infrastructure. Iranian officials, however, disputed that there had been negotiations, and Israel said it would continue attacks.",
-      "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
-      "source": "NYT > World News",
-      "published_at": "2026-03-23T20:58:26+00:00",
+      "title_en": "LaGuardia plane crash latest: Video shows horrifying moment of impact as Trump official warns travelers to ‘wear your seatbelt’",
+      "summary_en": "Flights began to depart LaGuardia Airport Monday just after 2 p.m. after first runway reopened following the crash",
+      "title": "LaGuardia plane crash latest: Video shows horrifying moment of impact as Trump official warns travelers to ‘wear your seatbelt’",
+      "summary": "Flights began to depart LaGuardia Airport Monday just after 2 p.m. after first runway reopened following the crash",
+      "url": "https://www.independent.co.uk/news/world/americas/laguardia-plane-crash-live-updates-air-canada-b2943592.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-23T21:35:49+00:00",
+      "tags": [
+        "LGA",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "LaGuardia",
+        "city": "New York",
+        "country": "United States",
+        "iata": "LGA",
+        "lat": 40.7769,
+        "lon": -73.874
+      }
+    },
+    {
+      "id": "babdaccd3a53d035",
+      "title_orig": "California Democrats condemn immigration arrest at San Francisco airport",
+      "summary_orig": "Video footage of federal officers detaining a crying woman at San Francisco International Airport drew outrage Monday from local officials,…",
+      "lang": "en",
+      "title_en": "California Democrats condemn immigration arrest at San Francisco airport",
+      "summary_en": "Video footage of federal officers detaining a crying woman at San Francisco International Airport drew outrage Monday from local officials,…",
+      "title": "California Democrats condemn immigration arrest at San Francisco airport",
+      "summary": "Video footage of federal officers detaining a crying woman at San Francisco International Airport drew outrage Monday from local officials,…",
+      "url": "https://wtop.com/national/2026/03/california-democrats-condemn-immigration-arrest-at-san-francisco-airport/",
+      "source": "WTOP News",
+      "published_at": "2026-03-23T21:34:35+00:00",
+      "tags": [
+        "SFO",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "San Francisco",
+        "city": "San Francisco",
+        "country": "United States",
+        "iata": "SFO",
+        "lat": 37.6213,
+        "lon": -122.379
+      }
+    },
+    {
+      "id": "9229f887987c8ccb",
+      "title_orig": "Australia politics live: Kate Chaney pushes for action 1,000 days after gambling ad ban report; classes cancelled as Victorian teachers strike",
+      "summary_orig": "Tens of thousands of Victorian teachers to down tools after last-ditch call to avoid strike chaos fell on deaf ears. Follow today’s news live Get our breaking news email , free app or daily news podcast Striking teachers take pay fight to state parliament Tens of thousands of Victorian teachers will down tools after a last-ditch call to avoid school strike chaos fell on deaf ears, AAP reports . Whilst all schools are expected to be open ... many schools will only be able to provide supervision for a limited number of students. Schools will communicate any changes to school programs directly to parents and carers. I will be announcing some measures to support truckies, in particular, to make sure that they get a fair go and that some of the costs we’re seeing are fairly shared across the supply chain. Continue reading...",
+      "lang": "en",
+      "title_en": "Australia politics live: Kate Chaney pushes for action 1,000 days after gambling ad ban report; classes cancelled as Victorian teachers strike",
+      "summary_en": "Tens of thousands of Victorian teachers to down tools after last-ditch call to avoid strike chaos fell on deaf ears. Follow today’s news live Get our breaking news email , free app or daily news podcast Striking teachers take pay fight to state parliament Tens of thousands of Victorian teachers will down tools after a last-ditch call to avoid school strike chaos fell on deaf ears, AAP reports . Whilst all schools are expected to be open ... many schools will only be able to provide supervision for a limited number of students. Schools will communicate any changes to school programs directly to parents and carers. I will be announcing some measures to support truckies, in particular, to make sure that they get a fair go and that some of the costs we’re seeing are fairly shared across the supply chain. Continue reading...",
+      "title": "Australia politics live: Kate Chaney pushes for action 1,000 days after gambling ad ban report; classes cancelled as Victorian teachers strike",
+      "summary": "Tens of thousands of Victorian teachers to down tools after last-ditch call to avoid strike chaos fell on deaf ears. Follow today’s news live Get our breaking news email , free app or daily news podcast Striking teachers take pay fight to state parliament Tens of thousands of Victorian teachers will down tools after a last-ditch call to avoid school strike chaos fell on deaf ears, AAP reports . Whilst all schools are expected to be open ... many schools will only be able to provide supervision for a limited number of students. Schools will communicate any changes to school programs directly to parents and carers. I will be announcing some measures to support truckies, in particular, to make sure that they get a fair go and that some of the costs we’re seeing are fairly shared across the supply chain. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/24/australia-politics-live-fuel-crisis-cost-of-living-petrol-diesel-rationing-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-23T21:34:24+00:00",
       "tags": [
         "airport/security"
       ],
@@ -38,17 +92,17 @@
       "geo": {}
     },
     {
-      "id": "12aa7b2c46367034",
-      "title_orig": "Hundreds go on strike at major Navy shipbuilder in Maine over wages and benefits",
-      "summary_orig": "PORTLAND, Maine (AP) — Hundreds of designers, clerks and technicians went on strike Monday in Maine at one of the…",
-      "lang": "en",
-      "title_en": "Hundreds go on strike at major Navy shipbuilder in Maine over wages and benefits",
-      "summary_en": "PORTLAND, Maine (AP) — Hundreds of designers, clerks and technicians went on strike Monday in Maine at one of the…",
-      "title": "Hundreds go on strike at major Navy shipbuilder in Maine over wages and benefits",
-      "summary": "PORTLAND, Maine (AP) — Hundreds of designers, clerks and technicians went on strike Monday in Maine at one of the…",
-      "url": "https://wtop.com/national/2026/03/hundreds-go-on-strike-at-major-navy-shipbuilder-in-maine-over-wages-and-benefits/",
+      "id": "54bb0e112b48c7b1",
+      "title_orig": "Otra estrella a la MLS: Antoine Griezmann va camino al Orlando City y a las puertas de su “sueño americano”",
+      "summary_orig": "Antoine Griezmann es un jugador de fútbol multifacético. No solo dentro de la cancha, donde como atacante se puede mover…",
+      "lang": "es",
+      "title_en": "Another star in the MLS: Antoine Griezmann is on his way to Orlando City and on the verge of his “American dream”",
+      "summary_en": "Antoine Griezmann is a multifaceted football player. Not only on the field, where as an attacker you can move...",
+      "title": "Another star in the MLS: Antoine Griezmann is on his way to Orlando City and on the verge of his “American dream”",
+      "summary": "Antoine Griezmann is a multifaceted football player. Not only on the field, where as an attacker you can move...",
+      "url": "https://wtop.com/news/2026/03/otra-estrella-a-la-mls-antoine-griezmann-va-camino-al-orlando-city-y-a-las-puertas-de-su-sueno-americano/",
       "source": "WTOP News",
-      "published_at": "2026-03-23T20:57:57+00:00",
+      "published_at": "2026-03-23T21:33:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -56,21 +110,210 @@
       "geo": {}
     },
     {
-      "id": "267a2229fa8ae7a4",
-      "title_orig": "Maryland park closed after 5 devices resembling pipe bombs found",
-      "summary_orig": "Multiple devices resembling pipe bombs were found at Fort Washington Park in Prince George's County, Maryland, Sunday afternoon, according to U.S. Park Police.",
+      "id": "357b5db4140457b0",
+      "title_orig": "Why has Trump paused US attacks on Iran’s energy infrastructure – and are talks actually taking place?",
+      "summary_orig": "The US insists it has had ‘really good discussions’ with Tehran, but Iranian officials say they never happened",
       "lang": "en",
-      "title_en": "Maryland park closed after 5 devices resembling pipe bombs found",
-      "summary_en": "Multiple devices resembling pipe bombs were found at Fort Washington Park in Prince George's County, Maryland, Sunday afternoon, according to U.S. Park Police.",
-      "title": "Maryland park closed after 5 devices resembling pipe bombs found",
-      "summary": "Multiple devices resembling pipe bombs were found at Fort Washington Park in Prince George's County, Maryland, Sunday afternoon, according to U.S. Park Police.",
-      "url": "https://wtop.com/prince-georges-county/2026/03/maryland-park-closed-after-5-devices-resembling-pipe-bombs-found/",
-      "source": "WTOP News",
-      "published_at": "2026-03-23T20:55:10+00:00",
+      "title_en": "Why has Trump paused US attacks on Iran’s energy infrastructure – and are talks actually taking place?",
+      "summary_en": "The US insists it has had ‘really good discussions’ with Tehran, but Iranian officials say they never happened",
+      "title": "Why has Trump paused US attacks on Iran’s energy infrastructure – and are talks actually taking place?",
+      "summary": "The US insists it has had ‘really good discussions’ with Tehran, but Iranian officials say they never happened",
+      "url": "https://www.independent.co.uk/news/world/trump-us-iran-energy-attacks-talks-b2944001.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-23T21:32:57+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e1a20439e0456342",
+      "title_orig": "California Democrats condemn immigration arrest at San Francisco airport",
+      "summary_orig": "Video footage of federal officers detaining a crying woman at San Francisco International Airport is drawing outrage",
+      "lang": "en",
+      "title_en": "California Democrats condemn immigration arrest at San Francisco airport",
+      "summary_en": "Video footage of federal officers detaining a crying woman at San Francisco International Airport is drawing outrage",
+      "title": "California Democrats condemn immigration arrest at San Francisco airport",
+      "summary": "Video footage of federal officers detaining a crying woman at San Francisco International Airport is drawing outrage",
+      "url": "https://www.independent.co.uk/news/world/americas/donald-trump-democrats-san-francisco-airport-department-of-homeland-security-california-b2944168.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-23T21:31:48+00:00",
+      "tags": [
+        "SFO",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "San Francisco",
+        "city": "San Francisco",
+        "country": "United States",
+        "iata": "SFO",
+        "lat": 37.6213,
+        "lon": -122.379
+      }
+    },
+    {
+      "id": "54b47341b549f916",
+      "title_orig": "Smotrich urges Israel to annex southern Lebanon as assault intensifies",
+      "summary_orig": "Israel's far-right finance minister says Litani River must be 'the new Israeli border', as attacks on Lebanon ramp up.",
+      "lang": "en",
+      "title_en": "Smotrich urges Israel to annex southern Lebanon as assault intensifies",
+      "summary_en": "Israel's far-right finance minister says Litani River must be 'the new Israeli border', as attacks on Lebanon ramp up.",
+      "title": "Smotrich urges Israel to annex southern Lebanon as assault intensifies",
+      "summary": "Israel's far-right finance minister says Litani River must be 'the new Israeli border', as attacks on Lebanon ramp up.",
+      "url": "https://www.aljazeera.com/news/2026/3/23/smotrich-urges-israel-to-annex-southern-lebanon-as-assault-intensifies?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-03-23T21:27:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "dd07e53dcfbc38f6",
+      "title_orig": "ICE officers go to TSA checkpoints at Trump’s direction, while long wait times at airports persist",
+      "summary_orig": "NEW YORK (AP) — Armed federal immigration officers in tactical gear moved through terminals at some of the busiest U.S.…",
+      "lang": "en",
+      "title_en": "ICE officers go to TSA checkpoints at Trump’s direction, while long wait times at airports persist",
+      "summary_en": "NEW YORK (AP) — Armed federal immigration officers in tactical gear moved through terminals at some of the busiest U.S.…",
+      "title": "ICE officers go to TSA checkpoints at Trump’s direction, while long wait times at airports persist",
+      "summary": "NEW YORK (AP) — Armed federal immigration officers in tactical gear moved through terminals at some of the busiest U.S.…",
+      "url": "https://wtop.com/national/2026/03/federal-immigration-agents-seen-at-atlanta-airport-after-trump-order-amid-during-partial-shutdown/",
+      "source": "WTOP News",
+      "published_at": "2026-03-23T21:27:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a6301d9846dbe390",
+      "title_orig": "Middle East crisis live: Trump says Iran and US ‘want to make a deal’ but Tehran says claims of talks are ‘fake news’",
+      "summary_orig": "Iranian parliament speaker says ‘no negotiations’ were held with US, as Trump postpones strikes on power plants for five days Israel launches new strikes on Tehran as Trump pauses Iran energy attacks British prime minister Keir Starmer is set to chair an emergency meeting on the economic fallout from the war in Iran on Monday , with chancellor of the exchequer Rachel Reeves and Bank of England governor Andrew Bailey also attending, the UK government has said. Financial markets face another turbulent week after Iran said it would strike its Gulf neighbours’ energy and water systems if Donald Trump followed through on his threat to “obliterate” Iran’s power plants if it doesn’t fully open up the crucial strait of Hormuz. Topics expected to be covered are the economic impact of the crisis on families and businesses, energy security and the resilience of industry and supply chains alongside the international response. Continue reading...",
+      "lang": "en",
+      "title_en": "Middle East crisis live: Trump says Iran and US ‘want to make a deal’ but Tehran says claims of talks are ‘fake news’",
+      "summary_en": "Iranian parliament speaker says ‘no negotiations’ were held with US, as Trump postpones strikes on power plants for five days Israel launches new strikes on Tehran as Trump pauses Iran energy attacks British prime minister Keir Starmer is set to chair an emergency meeting on the economic fallout from the war in Iran on Monday , with chancellor of the exchequer Rachel Reeves and Bank of England governor Andrew Bailey also attending, the UK government has said. Financial markets face another turbulent week after Iran said it would strike its Gulf neighbours’ energy and water systems if Donald Trump followed through on his threat to “obliterate” Iran’s power plants if it doesn’t fully open up the crucial strait of Hormuz. Topics expected to be covered are the economic impact of the crisis on families and businesses, energy security and the resilience of industry and supply chains alongside the international response. Continue reading...",
+      "title": "Middle East crisis live: Trump says Iran and US ‘want to make a deal’ but Tehran says claims of talks are ‘fake news’",
+      "summary": "Iranian parliament speaker says ‘no negotiations’ were held with US, as Trump postpones strikes on power plants for five days Israel launches new strikes on Tehran as Trump pauses Iran energy attacks British prime minister Keir Starmer is set to chair an emergency meeting on the economic fallout from the war in Iran on Monday , with chancellor of the exchequer Rachel Reeves and Bank of England governor Andrew Bailey also attending, the UK government has said. Financial markets face another turbulent week after Iran said it would strike its Gulf neighbours’ energy and water systems if Donald Trump followed through on his threat to “obliterate” Iran’s power plants if it doesn’t fully open up the crucial strait of Hormuz. Topics expected to be covered are the economic impact of the crisis on families and businesses, energy security and the resilience of industry and supply chains alongside the international response. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-23T21:26:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "c5034357bd1417be",
+      "title_orig": "What to know about the third No Kings protests happening in March",
+      "summary_orig": "Demonstrations to be held across the US against ICE’s ‘reign of terror’ with flagship event in Minnesota’s Twin Cities Millions of people are expected to protest the Trump administration at more than 3,000 No Kings events in cities and small towns across the country on Saturday. Ezra Levin, co-founder of Indivisible, one of the groups coordinating No Kings, said he expected it to be “the biggest protest in American history”. This will be the third No Kings protest since Trump was re-elected. A flagship event will be held in Minnesota’s Twin Cities – Minneapolis and St Paul – after residents stood up to the surge of federal immigration agents the Trump administration sent into the region earlier this year. In January, agents killed two residents, Renee Good and Alex Pretti , who were observing Immigration Customs Enforcement ( ICE ) activities. Continue reading...",
+      "lang": "en",
+      "title_en": "What to know about the third No Kings protests happening in March",
+      "summary_en": "Demonstrations to be held across the US against ICE’s ‘reign of terror’ with flagship event in Minnesota’s Twin Cities Millions of people are expected to protest the Trump administration at more than 3,000 No Kings events in cities and small towns across the country on Saturday. Ezra Levin, co-founder of Indivisible, one of the groups coordinating No Kings, said he expected it to be “the biggest protest in American history”. This will be the third No Kings protest since Trump was re-elected. A flagship event will be held in Minnesota’s Twin Cities – Minneapolis and St Paul – after residents stood up to the surge of federal immigration agents the Trump administration sent into the region earlier this year. In January, agents killed two residents, Renee Good and Alex Pretti , who were observing Immigration Customs Enforcement ( ICE ) activities. Continue reading...",
+      "title": "What to know about the third No Kings protests happening in March",
+      "summary": "Demonstrations to be held across the US against ICE’s ‘reign of terror’ with flagship event in Minnesota’s Twin Cities Millions of people are expected to protest the Trump administration at more than 3,000 No Kings events in cities and small towns across the country on Saturday. Ezra Levin, co-founder of Indivisible, one of the groups coordinating No Kings, said he expected it to be “the biggest protest in American history”. This will be the third No Kings protest since Trump was re-elected. A flagship event will be held in Minnesota’s Twin Cities – Minneapolis and St Paul – after residents stood up to the surge of federal immigration agents the Trump administration sent into the region earlier this year. In January, agents killed two residents, Renee Good and Alex Pretti , who were observing Immigration Customs Enforcement ( ICE ) activities. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/jan/28/third-no-kings-protest-march-minnesota-ice",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-23T21:25:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "061cbdaa410228cd",
+      "title_orig": "ICE agents deploy to major US airports as security queues stretch for hours",
+      "summary_orig": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
+      "lang": "en",
+      "title_en": "ICE agents deploy to major US airports as security queues stretch for hours",
+      "summary_en": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
+      "title": "ICE agents deploy to major US airports as security queues stretch for hours",
+      "summary": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
+      "url": "https://www.bbc.com/news/articles/cx298j7xg0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-03-23T21:22:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "19897943947188f0",
+      "title_orig": "Russia to open control stations for long-range drones in Belarus, Zelenskiy says",
+      "summary_orig": "KYIV, March 23 - Russia plans to open four ground control stations for long-range attack drones in Belarus, President Volodymyr Zelenskiy said on Monday, citing information from Ukraine's military intelligence service.",
+      "lang": "en",
+      "title_en": "Russia to open control stations for long-range drones in Belarus, Zelenskiy says",
+      "summary_en": "KYIV, March 23 - Russia plans to open four ground control stations for long-range attack drones in Belarus, President Volodymyr Zelenskiy said on Monday, citing information from Ukraine's military intelligence service.",
+      "title": "Russia to open control stations for long-range drones in Belarus, Zelenskiy says",
+      "summary": "KYIV, March 23 - Russia plans to open four ground control stations for long-range attack drones in Belarus, President Volodymyr Zelenskiy said on Monday, citing information from Ukraine's military intelligence service.",
+      "url": "https://www.straitstimes.com/world/europe/russia-to-open-control-stations-for-long-range-drones-in-belarus-zelenskiy-says",
+      "source": "The Straits Times World News",
+      "published_at": "2026-03-23T21:16:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f33d20e36245f8ca",
+      "title_orig": "Senate minority leader rejects Trump’s ultimatum over strict voter ID law amid DHS shutdown – US politics live",
+      "summary_orig": "Chuck Schumer says president’s insistence that Democrats need to support Save America Act shows he ‘doesn’t give a damn about the American people’ Sign up for the Breaking News US email Donald Trump has said ICE agents did not need to wear masks when deployed at airports. ICE has repeatedly faced criticism for its agents hiding their faces during immigration raids. State officials across the US have said the face coverings add to a climate of fear in local communities and a lack of accountability. I am a BIG proponent of ICE wearing masks as they search for, and are forced to deal with, hardened criminals, many of whom were let into our Country by Sleepy Joe Biden and his wonderful “Border Czar,” Kamala (she never even went to the Border!), through their absolutely INSANE Open Border Policy. I would greatly appreciate, however, NO MASKS, when helping our Country out of the Democrat caused MESS at the airports, etc. Thank you! President DJT Continue reading...",
+      "lang": "en",
+      "title_en": "Senate minority leader rejects Trump’s ultimatum over strict voter ID law amid DHS shutdown – US politics live",
+      "summary_en": "Chuck Schumer says president’s insistence that Democrats need to support Save America Act shows he ‘doesn’t give a damn about the American people’ Sign up for the Breaking News US email Donald Trump has said ICE agents did not need to wear masks when deployed at airports. ICE has repeatedly faced criticism for its agents hiding their faces during immigration raids. State officials across the US have said the face coverings add to a climate of fear in local communities and a lack of accountability. I am a BIG proponent of ICE wearing masks as they search for, and are forced to deal with, hardened criminals, many of whom were let into our Country by Sleepy Joe Biden and his wonderful “Border Czar,” Kamala (she never even went to the Border!), through their absolutely INSANE Open Border Policy. I would greatly appreciate, however, NO MASKS, when helping our Country out of the Democrat caused MESS at the airports, etc. Thank you! President DJT Continue reading...",
+      "title": "Senate minority leader rejects Trump’s ultimatum over strict voter ID law amid DHS shutdown – US politics live",
+      "summary": "Chuck Schumer says president’s insistence that Democrats need to support Save America Act shows he ‘doesn’t give a damn about the American people’ Sign up for the Breaking News US email Donald Trump has said ICE agents did not need to wear masks when deployed at airports. ICE has repeatedly faced criticism for its agents hiding their faces during immigration raids. State officials across the US have said the face coverings add to a climate of fear in local communities and a lack of accountability. I am a BIG proponent of ICE wearing masks as they search for, and are forced to deal with, hardened criminals, many of whom were let into our Country by Sleepy Joe Biden and his wonderful “Border Czar,” Kamala (she never even went to the Border!), through their absolutely INSANE Open Border Policy. I would greatly appreciate, however, NO MASKS, when helping our Country out of the Democrat caused MESS at the airports, etc. Thank you! President DJT Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/23/new-york-laguardia-airport-plane-vehicle-crash-air-canada-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-23T21:16:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "8203081bcd63f725",
+      "title_orig": "Crying woman who struggled with ICE agents in SF airport was detainee being deported to Guatemala, DHS says",
+      "summary_orig": "The incident at San Francisco International appeared to be unrelated to Trump’s surge of officers into major airports",
+      "lang": "en",
+      "title_en": "Crying woman who struggled with ICE agents in SF airport was detainee being deported to Guatemala, DHS says",
+      "summary_en": "The incident at San Francisco International appeared to be unrelated to Trump’s surge of officers into major airports",
+      "title": "Crying woman who struggled with ICE agents in SF airport was detainee being deported to Guatemala, DHS says",
+      "summary": "The incident at San Francisco International appeared to be unrelated to Trump’s surge of officers into major airports",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/san-francisco-ice-arrest-deportation-flight-b2944137.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-23T21:07:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2ea187a79c3daccc",
+      "title_orig": "Maryland park closed after string of explosive devices found",
+      "summary_orig": "Officials say bomb squad called to Fort Washington Park, which has been closed by National Park Service Sign up for the Breaking News US email to get newsletter alerts in your inbox Authorities found several explosive devices across a Maryland park over the weekend, prompting the park’s closure. In a statement on Monday, the Prince George’s county fire department said that its bomb squad responded to Fort Washington Park after “several explosive devices were located”, prompting the US Park Police to close the approximately 341-acre site. Continue reading...",
+      "lang": "en",
+      "title_en": "Maryland park closed after string of explosive devices found",
+      "summary_en": "Officials say bomb squad called to Fort Washington Park, which has been closed by National Park Service Sign up for the Breaking News US email to get newsletter alerts in your inbox Authorities found several explosive devices across a Maryland park over the weekend, prompting the park’s closure. In a statement on Monday, the Prince George’s county fire department said that its bomb squad responded to Fort Washington Park after “several explosive devices were located”, prompting the US Park Police to close the approximately 341-acre site. Continue reading...",
+      "title": "Maryland park closed after string of explosive devices found",
+      "summary": "Officials say bomb squad called to Fort Washington Park, which has been closed by National Park Service Sign up for the Breaking News US email to get newsletter alerts in your inbox Authorities found several explosive devices across a Maryland park over the weekend, prompting the park’s closure. In a statement on Monday, the Prince George’s county fire department said that its bomb squad responded to Fort Washington Park after “several explosive devices were located”, prompting the US Park Police to close the approximately 341-acre site. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/maryland-fort-washington-park-explosives-found",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-23T20:56:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -110,31 +353,22 @@
       "geo": {}
     },
     {
-      "id": "33bfa1a58f7e519c",
-      "title_orig": "LaGuardia plane crash latest: Horrifying video shows moment of impact as Trump official warns travelers to ‘wear your seatbelt’",
-      "summary_orig": "Flights began to depart LaGuardia Airport Monday just after 2 p.m. after first runway reopened following the crash",
+      "id": "ee8fbeb2374dd3c9",
+      "title_orig": "Has Trump Backed Down On Iran Threat?",
+      "summary_orig": "President Trump says he has postponed strikes on Iranian power plants.",
       "lang": "en",
-      "title_en": "LaGuardia plane crash latest: Horrifying video shows moment of impact as Trump official warns travelers to ‘wear your seatbelt’",
-      "summary_en": "Flights began to depart LaGuardia Airport Monday just after 2 p.m. after first runway reopened following the crash",
-      "title": "LaGuardia plane crash latest: Horrifying video shows moment of impact as Trump official warns travelers to ‘wear your seatbelt’",
-      "summary": "Flights began to depart LaGuardia Airport Monday just after 2 p.m. after first runway reopened following the crash",
-      "url": "https://www.independent.co.uk/news/world/americas/laguardia-plane-crash-live-updates-air-canada-b2943592.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-23T20:49:46+00:00",
+      "title_en": "Has Trump Backed Down On Iran Threat?",
+      "summary_en": "President Trump says he has postponed strikes on Iranian power plants.",
+      "title": "Has Trump Backed Down On Iran Threat?",
+      "summary": "President Trump says he has postponed strikes on Iranian power plants.",
+      "url": "https://www.bbc.co.uk/sounds/play/p0n6h0y2?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-03-23T20:51:00+00:00",
       "tags": [
-        "LGA",
-        "United States",
         "airport/security"
       ],
-      "type": "local news",
-      "geo": {
-        "airport": "LaGuardia",
-        "city": "New York",
-        "country": "United States",
-        "iata": "LGA",
-        "lat": 40.7769,
-        "lon": -73.874
-      }
+      "type": "major news",
+      "geo": {}
     },
     {
       "id": "2015e2d58aa98b4e",
@@ -200,24 +434,6 @@
       "geo": {}
     },
     {
-      "id": "9229f887987c8ccb",
-      "title_orig": "Australia politics live: Kate Chaney pushes for action 1,000 days after gambling ad ban report; classes cancelled as Victorian teachers strike",
-      "summary_orig": "Tens of thousands of Victorian teachers to down tools after last-ditch call to avoid strike chaos fell on deaf ears. Follow today’s news live Get our breaking news email , free app or daily news podcast Striking teachers take pay fight to state parliament Tens of thousands of Victorian teachers will down tools after a last-ditch call to avoid school strike chaos fell on deaf ears, AAP reports . Whilst all schools are expected to be open ... many schools will only be able to provide supervision for a limited number of students. Schools will communicate any changes to school programs directly to parents and carers. I will be announcing some measures to support truckies, in particular, to make sure that they get a fair go and that some of the costs we’re seeing are fairly shared across the supply chain. Continue reading...",
-      "lang": "en",
-      "title_en": "Australia politics live: Kate Chaney pushes for action 1,000 days after gambling ad ban report; classes cancelled as Victorian teachers strike",
-      "summary_en": "Tens of thousands of Victorian teachers to down tools after last-ditch call to avoid strike chaos fell on deaf ears. Follow today’s news live Get our breaking news email , free app or daily news podcast Striking teachers take pay fight to state parliament Tens of thousands of Victorian teachers will down tools after a last-ditch call to avoid school strike chaos fell on deaf ears, AAP reports . Whilst all schools are expected to be open ... many schools will only be able to provide supervision for a limited number of students. Schools will communicate any changes to school programs directly to parents and carers. I will be announcing some measures to support truckies, in particular, to make sure that they get a fair go and that some of the costs we’re seeing are fairly shared across the supply chain. Continue reading...",
-      "title": "Australia politics live: Kate Chaney pushes for action 1,000 days after gambling ad ban report; classes cancelled as Victorian teachers strike",
-      "summary": "Tens of thousands of Victorian teachers to down tools after last-ditch call to avoid strike chaos fell on deaf ears. Follow today’s news live Get our breaking news email , free app or daily news podcast Striking teachers take pay fight to state parliament Tens of thousands of Victorian teachers will down tools after a last-ditch call to avoid school strike chaos fell on deaf ears, AAP reports . Whilst all schools are expected to be open ... many schools will only be able to provide supervision for a limited number of students. Schools will communicate any changes to school programs directly to parents and carers. I will be announcing some measures to support truckies, in particular, to make sure that they get a fair go and that some of the costs we’re seeing are fairly shared across the supply chain. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/24/australia-politics-live-fuel-crisis-cost-of-living-petrol-diesel-rationing-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-23T20:44:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "11d3160ac4b3d51c",
       "title_orig": "'Random attack' murderer laughed at footage of violent Leicester attack",
       "summary_orig": "Detectives have reflected on the investigation into the 'horrific' attack on Nila Patel",
@@ -251,24 +467,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f33d20e36245f8ca",
-      "title_orig": "Senate minority leader rejects Trump’s ultimatum over strict voter ID law amid DHS shutdown – US politics live",
-      "summary_orig": "Chuck Schumer says president’s insistence that Democrats need to support Save America Act shows he ‘doesn’t give a damn about the American people’ Sign up for the Breaking News US email Donald Trump has said ICE agents did not need to wear masks when deployed at airports. ICE has repeatedly faced criticism for its agents hiding their faces during immigration raids. State officials across the US have said the face coverings add to a climate of fear in local communities and a lack of accountability. I am a BIG proponent of ICE wearing masks as they search for, and are forced to deal with, hardened criminals, many of whom were let into our Country by Sleepy Joe Biden and his wonderful “Border Czar,” Kamala (she never even went to the Border!), through their absolutely INSANE Open Border Policy. I would greatly appreciate, however, NO MASKS, when helping our Country out of the Democrat caused MESS at the airports, etc. Thank you! President DJT Continue reading...",
-      "lang": "en",
-      "title_en": "Senate minority leader rejects Trump’s ultimatum over strict voter ID law amid DHS shutdown – US politics live",
-      "summary_en": "Chuck Schumer says president’s insistence that Democrats need to support Save America Act shows he ‘doesn’t give a damn about the American people’ Sign up for the Breaking News US email Donald Trump has said ICE agents did not need to wear masks when deployed at airports. ICE has repeatedly faced criticism for its agents hiding their faces during immigration raids. State officials across the US have said the face coverings add to a climate of fear in local communities and a lack of accountability. I am a BIG proponent of ICE wearing masks as they search for, and are forced to deal with, hardened criminals, many of whom were let into our Country by Sleepy Joe Biden and his wonderful “Border Czar,” Kamala (she never even went to the Border!), through their absolutely INSANE Open Border Policy. I would greatly appreciate, however, NO MASKS, when helping our Country out of the Democrat caused MESS at the airports, etc. Thank you! President DJT Continue reading...",
-      "title": "Senate minority leader rejects Trump’s ultimatum over strict voter ID law amid DHS shutdown – US politics live",
-      "summary": "Chuck Schumer says president’s insistence that Democrats need to support Save America Act shows he ‘doesn’t give a damn about the American people’ Sign up for the Breaking News US email Donald Trump has said ICE agents did not need to wear masks when deployed at airports. ICE has repeatedly faced criticism for its agents hiding their faces during immigration raids. State officials across the US have said the face coverings add to a climate of fear in local communities and a lack of accountability. I am a BIG proponent of ICE wearing masks as they search for, and are forced to deal with, hardened criminals, many of whom were let into our Country by Sleepy Joe Biden and his wonderful “Border Czar,” Kamala (she never even went to the Border!), through their absolutely INSANE Open Border Policy. I would greatly appreciate, however, NO MASKS, when helping our Country out of the Democrat caused MESS at the airports, etc. Thank you! President DJT Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/23/new-york-laguardia-airport-plane-vehicle-crash-air-canada-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-23T20:36:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -308,24 +506,6 @@
       "geo": {}
     },
     {
-      "id": "357b5db4140457b0",
-      "title_orig": "Why has Trump paused US attacks on Iran’s energy infrastructure – and are talks actually taking place?",
-      "summary_orig": "The US insists it has had ‘really good discussions’ with Tehran, but Iranian officials say they never happened",
-      "lang": "en",
-      "title_en": "Why has Trump paused US attacks on Iran’s energy infrastructure – and are talks actually taking place?",
-      "summary_en": "The US insists it has had ‘really good discussions’ with Tehran, but Iranian officials say they never happened",
-      "title": "Why has Trump paused US attacks on Iran’s energy infrastructure – and are talks actually taking place?",
-      "summary": "The US insists it has had ‘really good discussions’ with Tehran, but Iranian officials say they never happened",
-      "url": "https://www.independent.co.uk/news/world/trump-us-iran-energy-attacks-talks-b2944001.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-23T20:31:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "760a6a768fb664bc",
       "title_orig": "Trump Delays Energy Strikes, but Iran’s Infrastructure Is Already Battered",
       "summary_orig": "U.S. and Israeli attacks on power plants and other civilian infrastructure risk escalating the conflict across the region, and angering Iranians who oppose the government.",
@@ -355,42 +535,6 @@
       "url": "https://www.thehindu.com/news/international/india-closely-monitoring-developments-centre-says-on-trump-pause/article70776684.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2026-03-23T20:24:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a6301d9846dbe390",
-      "title_orig": "Middle East crisis live: Trump says Iran and US ‘want to make a deal’ but Tehran says claims of talks are ‘fake news’",
-      "summary_orig": "Iranian parliament speaker says ‘no negotiations’ were held with US, as Trump postpones strikes on power plants for five days Israel launches new strikes on Tehran as Trump pauses Iran energy attacks British prime minister Keir Starmer is set to chair an emergency meeting on the economic fallout from the war in Iran on Monday , with chancellor of the exchequer Rachel Reeves and Bank of England governor Andrew Bailey also attending, the UK government has said. Financial markets face another turbulent week after Iran said it would strike its Gulf neighbours’ energy and water systems if Donald Trump followed through on his threat to “obliterate” Iran’s power plants if it doesn’t fully open up the crucial strait of Hormuz. Topics expected to be covered are the economic impact of the crisis on families and businesses, energy security and the resilience of industry and supply chains alongside the international response. Continue reading...",
-      "lang": "en",
-      "title_en": "Middle East crisis live: Trump says Iran and US ‘want to make a deal’ but Tehran says claims of talks are ‘fake news’",
-      "summary_en": "Iranian parliament speaker says ‘no negotiations’ were held with US, as Trump postpones strikes on power plants for five days Israel launches new strikes on Tehran as Trump pauses Iran energy attacks British prime minister Keir Starmer is set to chair an emergency meeting on the economic fallout from the war in Iran on Monday , with chancellor of the exchequer Rachel Reeves and Bank of England governor Andrew Bailey also attending, the UK government has said. Financial markets face another turbulent week after Iran said it would strike its Gulf neighbours’ energy and water systems if Donald Trump followed through on his threat to “obliterate” Iran’s power plants if it doesn’t fully open up the crucial strait of Hormuz. Topics expected to be covered are the economic impact of the crisis on families and businesses, energy security and the resilience of industry and supply chains alongside the international response. Continue reading...",
-      "title": "Middle East crisis live: Trump says Iran and US ‘want to make a deal’ but Tehran says claims of talks are ‘fake news’",
-      "summary": "Iranian parliament speaker says ‘no negotiations’ were held with US, as Trump postpones strikes on power plants for five days Israel launches new strikes on Tehran as Trump pauses Iran energy attacks British prime minister Keir Starmer is set to chair an emergency meeting on the economic fallout from the war in Iran on Monday , with chancellor of the exchequer Rachel Reeves and Bank of England governor Andrew Bailey also attending, the UK government has said. Financial markets face another turbulent week after Iran said it would strike its Gulf neighbours’ energy and water systems if Donald Trump followed through on his threat to “obliterate” Iran’s power plants if it doesn’t fully open up the crucial strait of Hormuz. Topics expected to be covered are the economic impact of the crisis on families and businesses, energy security and the resilience of industry and supply chains alongside the international response. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-23T20:24:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "d0ec24d29545589f",
-      "title_orig": "ICE officers aren’t trained in airport security. Can they help ease long lines?",
-      "summary_orig": "The Trump administration has sent Immigration and Customs Enforcement officers to some airports to help ease long security lines during the partial government shutdown.",
-      "lang": "en",
-      "title_en": "ICE officers aren’t trained in airport security. Can they help ease long lines?",
-      "summary_en": "The Trump administration has sent Immigration and Customs Enforcement officers to some airports to help ease long security lines during the partial government shutdown.",
-      "title": "ICE officers aren’t trained in airport security. Can they help ease long lines?",
-      "summary": "The Trump administration has sent Immigration and Customs Enforcement officers to some airports to help ease long security lines during the partial government shutdown.",
-      "url": "https://www.seattletimes.com/business/ice-officers-arent-trained-in-airport-security-can-they-help-ease-long-lines/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-03-23T20:23:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -560,24 +704,6 @@
       }
     },
     {
-      "id": "0fad5e2213929919",
-      "title_orig": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
-      "summary_orig": "Police say they are looking for three suspects after the Hatzola ambulances were set on fire.",
-      "lang": "en",
-      "title_en": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
-      "summary_en": "Police say they are looking for three suspects after the Hatzola ambulances were set on fire.",
-      "title": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
-      "summary": "Police say they are looking for three suspects after the Hatzola ambulances were set on fire.",
-      "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-23T19:32:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3d64f4d3d9266dec",
       "title_orig": "Ukraine's Zelenskiy says intelligence shows Russia preparing new massive attack",
       "summary_orig": "March 23 - President Volodymyr Zelenskiy said on Monday that Ukrainian intelligence believed Russian forces were preparing a new, imminent mass attack on the country.",
@@ -594,51 +720,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "061cbdaa410228cd",
-      "title_orig": "ICE agents deploy to major US airports as security queues stretch for hours",
-      "summary_orig": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
-      "lang": "en",
-      "title_en": "ICE agents deploy to major US airports as security queues stretch for hours",
-      "summary_en": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
-      "title": "ICE agents deploy to major US airports as security queues stretch for hours",
-      "summary": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
-      "url": "https://www.bbc.com/news/articles/cx298j7xg0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-23T19:29:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0cf6df8e0a88a6cf",
-      "title_orig": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
-      "summary_orig": "Eyewitnesses have described the moment Air Canada flight AC8646 crashed into a fire truck on the runway of New York's LaGuardia airport.",
-      "lang": "en",
-      "title_en": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
-      "summary_en": "Eyewitnesses have described the moment Air Canada flight AC8646 crashed into a fire truck on the runway of New York's LaGuardia airport.",
-      "title": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
-      "summary": "Eyewitnesses have described the moment Air Canada flight AC8646 crashed into a fire truck on the runway of New York's LaGuardia airport.",
-      "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-23T19:28:28+00:00",
-      "tags": [
-        "LGA",
-        "United States",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "LaGuardia",
-        "city": "New York",
-        "country": "United States",
-        "iata": "LGA",
-        "lat": 40.7769,
-        "lon": -73.874
-      }
     },
     {
       "id": "26e1a213b81376f8",
@@ -857,42 +938,6 @@
       "geo": {}
     },
     {
-      "id": "226cd0bd0466efa3",
-      "title_orig": "Analysis: Trump has blinked, but this is no longer his war to end",
-      "summary_orig": "Donald Trump may have blinked by suddenly postponing his threat to bomb Iran’s power plants and disclosing “constructive” talks with the regime, but his latest zig-zag does not change one vital fact.",
-      "lang": "en",
-      "title_en": "Analysis: Trump has blinked, but this is no longer his war to end",
-      "summary_en": "Donald Trump may have blinked by suddenly postponing his threat to bomb Iran’s power plants and disclosing “constructive” talks with the regime, but his latest zig-zag does not change one vital fact.",
-      "title": "Analysis: Trump has blinked, but this is no longer his war to end",
-      "summary": "Donald Trump may have blinked by suddenly postponing his threat to bomb Iran’s power plants and disclosing “constructive” talks with the regime, but his latest zig-zag does not change one vital fact.",
-      "url": "https://www.stuff.co.nz/world-news/360955014/trump-may-have-blinked-his-war-necessity-will-grind",
-      "source": "Stuff - /",
-      "published_at": "2026-03-23T19:04:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "dd448b6448e7c279",
-      "title_orig": "TSA lines stretch for hours as Trump deploys ICE agents to US airports",
-      "summary_orig": "President claims immigration agents could help manage long lines as TSA agents go unpaid during partial shutdown Pilot and co-pilot killed after jet collision at LaGuardia US politics live – latest updates Security lines stretched for hours on Monday at US airports where unpaid Transportation Safety Administration (TSA) screening agents refused to report for duty and ICE agents deployed by Donald Trump were reportedly seen in a dozen cities. The president claimed over the weekend that immigration agents could help manage long lines, but in Atlanta , little immediate impact of their presence could be observed. Meanwhile, airport staff were getting creative trying to herd thousands of discontent passengers. Continue reading...",
-      "lang": "en",
-      "title_en": "TSA lines stretch for hours as Trump deploys ICE agents to US airports",
-      "summary_en": "President claims immigration agents could help manage long lines as TSA agents go unpaid during partial shutdown Pilot and co-pilot killed after jet collision at LaGuardia US politics live – latest updates Security lines stretched for hours on Monday at US airports where unpaid Transportation Safety Administration (TSA) screening agents refused to report for duty and ICE agents deployed by Donald Trump were reportedly seen in a dozen cities. The president claimed over the weekend that immigration agents could help manage long lines, but in Atlanta , little immediate impact of their presence could be observed. Meanwhile, airport staff were getting creative trying to herd thousands of discontent passengers. Continue reading...",
-      "title": "TSA lines stretch for hours as Trump deploys ICE agents to US airports",
-      "summary": "President claims immigration agents could help manage long lines as TSA agents go unpaid during partial shutdown Pilot and co-pilot killed after jet collision at LaGuardia US politics live – latest updates Security lines stretched for hours on Monday at US airports where unpaid Transportation Safety Administration (TSA) screening agents refused to report for duty and ICE agents deployed by Donald Trump were reportedly seen in a dozen cities. The president claimed over the weekend that immigration agents could help manage long lines, but in Atlanta , little immediate impact of their presence could be observed. Meanwhile, airport staff were getting creative trying to herd thousands of discontent passengers. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/mar/23/us-airports-latest-tsa-ice",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-23T19:03:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "1b33b3c6b5d58a72",
       "title_orig": "Flight attendant found buckled into seat outside plane after LaGuardia crash",
       "summary_orig": "A flight attendant survived the crash at New York's LaGuardia Airport after being thrown from the plane while strapped in her seat.",
@@ -1038,12 +1083,12 @@
     },
     {
       "id": "8edb6e5c1a7e27b9",
-      "title_orig": "Disillusioned voters back truth in political advertising reform",
+      "title_orig": "Broad public support to stop 'undue influence' in politics",
       "summary_orig": "Civic groups are calling for sweeping reforms to restore falling trust, which experts have linked to a resurgence of populist \"protest\" voting at the expense of the major parties.",
       "lang": "en",
-      "title_en": "Disillusioned voters back truth in political advertising reform",
+      "title_en": "Broad public support to stop 'undue influence' in politics",
       "summary_en": "Civic groups are calling for sweeping reforms to restore falling trust, which experts have linked to a resurgence of populist \"protest\" voting at the expense of the major parties.",
-      "title": "Disillusioned voters back truth in political advertising reform",
+      "title": "Broad public support to stop 'undue influence' in politics",
       "summary": "Civic groups are calling for sweeping reforms to restore falling trust, which experts have linked to a resurgence of populist \"protest\" voting at the expense of the major parties.",
       "url": "https://www.abc.net.au/news/2026-03-24/australians-truth-in-political-advertising-reform-one-nation/106487268",
       "source": "Just In",
@@ -1208,24 +1253,6 @@
       "geo": {}
     },
     {
-      "id": "e4f06f0da663573b",
-      "title_orig": "Trump makes a detour to Elvis Presley’s Graceland in Memphis during Iran war and airport turmoil",
-      "summary_orig": "President Donald Trump is going to Graceland. Trump often plays Elvis Presley's music at campaign events, and has compared himself to the Kind of Rock and Roll.",
-      "lang": "en",
-      "title_en": "Trump makes a detour to Elvis Presley’s Graceland in Memphis during Iran war and airport turmoil",
-      "summary_en": "President Donald Trump is going to Graceland. Trump often plays Elvis Presley's music at campaign events, and has compared himself to the Kind of Rock and Roll.",
-      "title": "Trump makes a detour to Elvis Presley’s Graceland in Memphis during Iran war and airport turmoil",
-      "summary": "President Donald Trump is going to Graceland. Trump often plays Elvis Presley's music at campaign events, and has compared himself to the Kind of Rock and Roll.",
-      "url": "https://www.seattletimes.com/nation-world/nation/trump-heads-to-elvis-presleys-graceland-in-memphis-a-detour-during-iran-war-and-airport-turmoil/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-03-23T18:20:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f0bad35b5948c9f0",
       "title_orig": "Trump heads to Elvis Presley's Graceland in Memphis, a detour during Iran war and airport turmoil",
       "summary_orig": "President Donald Trump is going to Graceland",
@@ -1367,24 +1394,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "4aa993d2b6850d6d",
-      "title_orig": "Suspect in Tacoma stabbings, fire faces homicide charge after 1 dies",
-      "summary_orig": "Three people were hospitalized after the Jan. 20 attack and blaze, which sent one man fleeing the substance-use recovery home with his body still on fire.",
-      "lang": "en",
-      "title_en": "Suspect in Tacoma stabbings, fire faces homicide charge after 1 dies",
-      "summary_en": "Three people were hospitalized after the Jan. 20 attack and blaze, which sent one man fleeing the substance-use recovery home with his body still on fire.",
-      "title": "Suspect in Tacoma stabbings, fire faces homicide charge after 1 dies",
-      "summary": "Three people were hospitalized after the Jan. 20 attack and blaze, which sent one man fleeing the substance-use recovery home with his body still on fire.",
-      "url": "https://www.seattletimes.com/seattle-news/law-justice/suspect-in-tacoma-stabbings-fire-faces-homicide-charge-after-1-dies/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-03-23T18:04:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1547,24 +1556,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "0e6fdc25a4948a03",
-      "title_orig": "Community Health Officers protest for workload reduction and incentives",
-      "summary_orig": "They allege that instead of increasing salaries for putting in more hours, the CHOs are being stripped off whatever they used to receive earlier",
-      "lang": "en",
-      "title_en": "Community Health Officers protest for workload reduction and incentives",
-      "summary_en": "They allege that instead of increasing salaries for putting in more hours, the CHOs are being stripped off whatever they used to receive earlier",
-      "title": "Community Health Officers protest for workload reduction and incentives",
-      "summary": "They allege that instead of increasing salaries for putting in more hours, the CHOs are being stripped off whatever they used to receive earlier",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/community-health-officers-protest-for-workload-reduction-and-incentives/article70776737.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-03-23T17:46:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1901,24 +1892,6 @@
       }
     },
     {
-      "id": "aabe2caffdaa898f",
-      "title_orig": "Hundreds go on strike at major Navy shipbuilder in Maine over wages and benefits",
-      "summary_orig": "Hundreds of designers, clerks and technicians are on strike in Maine at one of the U.S. Navy’s largest shipbuilding contractors.",
-      "lang": "en",
-      "title_en": "Hundreds go on strike at major Navy shipbuilder in Maine over wages and benefits",
-      "summary_en": "Hundreds of designers, clerks and technicians are on strike in Maine at one of the U.S. Navy’s largest shipbuilding contractors.",
-      "title": "Hundreds go on strike at major Navy shipbuilder in Maine over wages and benefits",
-      "summary": "Hundreds of designers, clerks and technicians are on strike in Maine at one of the U.S. Navy’s largest shipbuilding contractors.",
-      "url": "https://www.seattletimes.com/business/hundreds-go-on-strike-at-major-navy-shipbuilder-in-maine-over-wages-and-benefits/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-03-23T16:57:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ff98f92f245a2767",
       "title_orig": "Planning a trip? Here are various ways to check TSA wait times at U.S. airports",
       "summary_orig": "Some airports across the U.S. are seeing growing security checkpoint lines due to staffing shortages amid the partial government shutdown.",
@@ -1955,24 +1928,6 @@
       "geo": {}
     },
     {
-      "id": "df287aa20d7ff186",
-      "title_orig": "Ex-teacher accused of Edinburgh school abuse found guilty of sex attack in South Africa",
-      "summary_orig": "A court in Cape Town found Iain Wares guilty of indecently assaulting a former student who accused him of sexual abuse in the 1980s.",
-      "lang": "en",
-      "title_en": "Ex-teacher accused of Edinburgh school abuse found guilty of sex attack in South Africa",
-      "summary_en": "A court in Cape Town found Iain Wares guilty of indecently assaulting a former student who accused him of sexual abuse in the 1980s.",
-      "title": "Ex-teacher accused of Edinburgh school abuse found guilty of sex attack in South Africa",
-      "summary": "A court in Cape Town found Iain Wares guilty of indecently assaulting a former student who accused him of sexual abuse in the 1980s.",
-      "url": "https://www.bbc.com/news/articles/c98kdp0z9gyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-23T16:48:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2224748b506b2db4",
       "title_orig": "Trump justifies ICE airport deployment with bizarre paperclip analogy",
       "summary_orig": "Donald Trump told a story about the “origin of the paper clip” as he explained his decision to deploy ICE agents to airports.",
@@ -1984,24 +1939,6 @@
       "url": "https://www.independent.co.uk/tv/news/trump-ice-airports-tsa-government-shutdown-video-b2943972.html",
       "source": "The Independent World",
       "published_at": "2026-03-23T16:34:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c4dc96e13b38e2ea",
-      "title_orig": "Sir Chris Hoy's cancer latest at 50, wife's cruel illness and the decision they've made",
-      "summary_orig": "The legendary cyclist, who has turned 50, was diagnosed with terminal prostate cancer in 2023 and given two to four years left to live. He and wife Sarra could have let it break them but decided to take a different approach",
-      "lang": "en",
-      "title_en": "Sir Chris Hoy's cancer latest at 50, wife's cruel illness and the decision they've made",
-      "summary_en": "The legendary cyclist, who has turned 50, was diagnosed with terminal prostate cancer in 2023 and given two to four years left to live. He and wife Sarra could have let it break them but decided to take a different approach",
-      "title": "Sir Chris Hoy's cancer latest at 50, wife's cruel illness and the decision they've made",
-      "summary": "The legendary cyclist, who has turned 50, was diagnosed with terminal prostate cancer in 2023 and given two to four years left to live. He and wife Sarra could have let it break them but decided to take a different approach",
-      "url": "https://www.walesonline.co.uk/sport/rugby/rugby-news/sir-chris-hoys-cancer-latest-33644005",
-      "source": "WalesOnline - Home",
-      "published_at": "2026-03-23T16:31:39+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2216,24 +2153,6 @@
       "geo": {}
     },
     {
-      "id": "9d8bcc647f4a68c3",
-      "title_orig": "The 5 Longest Commercial Runways Currently Operational In The United States",
-      "summary_orig": "America's longest runways support mostly high-altitude operations.",
-      "lang": "en",
-      "title_en": "The 5 Longest Commercial Runways Currently Operational In The United States",
-      "summary_en": "America's longest runways support mostly high-altitude operations.",
-      "title": "The 5 Longest Commercial Runways Currently Operational In The United States",
-      "summary": "America's longest runways support mostly high-altitude operations.",
-      "url": "https://simpleflying.com/5-largest-commerical-runways-currently-operational/",
-      "source": "Simple Flying",
-      "published_at": "2026-03-23T16:00:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "41eb1a7b7d7928d4",
       "title_orig": "Leicester City icon Jamie Vardy plays pivotal role in rare victory after big week at Cremonese",
       "summary_orig": "The striker returned from injury and played a big part in Cremonese's 2-0 victory at Parma, a result that ended a 15-game winless run took them out of Serie A's bottom three",
@@ -2407,12 +2326,12 @@
     {
       "id": "cae26a8c0934f178",
       "title_orig": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
-      "summary_orig": "Nine people hospitalised and airport closed after landing plane hits fire truck responding to separate incident US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York ’s LaGuardia airport, in an incident that closed the airport for several hours. The collision also caused serious injuries, with nine people in the hospital. It happened as a firefighting vehicle was responding to a separate incident, according to the Port Authority of New York and New Jersey, which runs the airport. Continue reading...",
+      "summary_orig": "Nine people hospitalised and airport was closed after landing plane hits fire truck responding to separate incident US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York ’s LaGuardia airport, in an incident that closed the airport for several hours. The collision also caused serious injuries, with nine people in the hospital. It happened as a firefighting vehicle was responding to a separate incident, according to the Port Authority of New York and New Jersey, which runs the airport. Continue reading...",
       "lang": "en",
       "title_en": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
-      "summary_en": "Nine people hospitalised and airport closed after landing plane hits fire truck responding to separate incident US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York ’s LaGuardia airport, in an incident that closed the airport for several hours. The collision also caused serious injuries, with nine people in the hospital. It happened as a firefighting vehicle was responding to a separate incident, according to the Port Authority of New York and New Jersey, which runs the airport. Continue reading...",
+      "summary_en": "Nine people hospitalised and airport was closed after landing plane hits fire truck responding to separate incident US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York ’s LaGuardia airport, in an incident that closed the airport for several hours. The collision also caused serious injuries, with nine people in the hospital. It happened as a firefighting vehicle was responding to a separate incident, according to the Port Authority of New York and New Jersey, which runs the airport. Continue reading...",
       "title": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
-      "summary": "Nine people hospitalised and airport closed after landing plane hits fire truck responding to separate incident US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York ’s LaGuardia airport, in an incident that closed the airport for several hours. The collision also caused serious injuries, with nine people in the hospital. It happened as a firefighting vehicle was responding to a separate incident, according to the Port Authority of New York and New Jersey, which runs the airport. Continue reading...",
+      "summary": "Nine people hospitalised and airport was closed after landing plane hits fire truck responding to separate incident US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York ’s LaGuardia airport, in an incident that closed the airport for several hours. The collision also caused serious injuries, with nine people in the hospital. It happened as a firefighting vehicle was responding to a separate incident, according to the Port Authority of New York and New Jersey, which runs the airport. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
       "source": "World news | The Guardian",
       "published_at": "2026-03-23T15:11:03+00:00",
@@ -3291,24 +3210,6 @@
       "url": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
       "source": "NYT > World News",
       "published_at": "2026-03-23T12:36:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "7245729e2a45acd8",
-      "title_orig": "‘Substantial evidence’ of double-tap strike in killing of Gaza’s Hind Rajab",
-      "summary_orig": "Avaaz analyses the timeline of events to conclude that violations show Israel systematically kills first responders.",
-      "lang": "en",
-      "title_en": "‘Substantial evidence’ of double-tap strike in killing of Gaza’s Hind Rajab",
-      "summary_en": "Avaaz analyses the timeline of events to conclude that violations show Israel systematically kills first responders.",
-      "title": "‘Substantial evidence’ of double-tap strike in killing of Gaza’s Hind Rajab",
-      "summary": "Avaaz analyses the timeline of events to conclude that violations show Israel systematically kills first responders.",
-      "url": "https://www.aljazeera.com/news/2026/3/23/substantial-evidence-of-double-tap-strike-in-killing-of-gazas-hind-rajab?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-03-23T12:27:57+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4479,13 +4380,13 @@
     },
     {
       "id": "8527a017a82a727e",
-      "title_orig": "Evacuations prompted by wildfire near Bastrop State Park lifted; 46-acre fire now 65% contained",
-      "summary_orig": "The Texas A&M Forest Service said the fire is at Bastrop State Park near southeast Highway 21 and South Shore Road.",
+      "title_orig": "Wildfire evacuations near Bastrop State Park lifted; 46-acre fire now 75% contained",
+      "summary_orig": "A mandatory evacuation was issued for cabins in Bastrop State Park and the Pines at Bastrop RV Park after a wildfire began Sunday night, but it was lifted early Monday morning, according to the Texas A&M Forest Service.",
       "lang": "en",
-      "title_en": "Evacuations prompted by wildfire near Bastrop State Park lifted; 46-acre fire now 65% contained",
-      "summary_en": "The Texas A&M Forest Service said the fire is at Bastrop State Park near southeast Highway 21 and South Shore Road.",
-      "title": "Evacuations prompted by wildfire near Bastrop State Park lifted; 46-acre fire now 65% contained",
-      "summary": "The Texas A&M Forest Service said the fire is at Bastrop State Park near southeast Highway 21 and South Shore Road.",
+      "title_en": "Wildfire evacuations near Bastrop State Park lifted; 46-acre fire now 75% contained",
+      "summary_en": "A mandatory evacuation was issued for cabins in Bastrop State Park and the Pines at Bastrop RV Park after a wildfire began Sunday night, but it was lifted early Monday morning, according to the Texas A&M Forest Service.",
+      "title": "Wildfire evacuations near Bastrop State Park lifted; 46-acre fire now 75% contained",
+      "summary": "A mandatory evacuation was issued for cabins in Bastrop State Park and the Pines at Bastrop RV Park after a wildfire began Sunday night, but it was lifted early Monday morning, according to the Texas A&M Forest Service.",
       "url": "https://www.kxan.com/news/local/bastrop-county/wildfire-at-bastrop-state-park-prompts-evacuations/",
       "source": "KXAN Austin",
       "published_at": "2026-03-23T04:24:09+00:00",
@@ -4866,13 +4767,13 @@
     },
     {
       "id": "805e5b8cc4ec882b",
-      "title_orig": "Jury selection Monday in misdemeanor case for man previously pardoned for felony",
-      "summary_orig": "On Monday, jury selection will begin in the misdemeanor deadly conduct case against Daniel Perry, who was pardoned in 2024 after a jury convicted him in 2023 of the murder of a protestor on July 25, 2020.",
+      "title_orig": "Mistrial declared in Daniel Perry deadly conduct case due to jury issues",
+      "summary_orig": "On Monday, jury selection will begin in the misdemeanor deadly conduct case against Daniel Perry, who was pardoned in 2024 after a jury convicted him in 2023 of the murder of a protester on July 25, 2020.",
       "lang": "en",
-      "title_en": "Jury selection Monday in misdemeanor case for man previously pardoned for felony",
-      "summary_en": "On Monday, jury selection will begin in the misdemeanor deadly conduct case against Daniel Perry, who was pardoned in 2024 after a jury convicted him in 2023 of the murder of a protestor on July 25, 2020.",
-      "title": "Jury selection Monday in misdemeanor case for man previously pardoned for felony",
-      "summary": "On Monday, jury selection will begin in the misdemeanor deadly conduct case against Daniel Perry, who was pardoned in 2024 after a jury convicted him in 2023 of the murder of a protestor on July 25, 2020.",
+      "title_en": "Mistrial declared in Daniel Perry deadly conduct case due to jury issues",
+      "summary_en": "On Monday, jury selection will begin in the misdemeanor deadly conduct case against Daniel Perry, who was pardoned in 2024 after a jury convicted him in 2023 of the murder of a protester on July 25, 2020.",
+      "title": "Mistrial declared in Daniel Perry deadly conduct case due to jury issues",
+      "summary": "On Monday, jury selection will begin in the misdemeanor deadly conduct case against Daniel Perry, who was pardoned in 2024 after a jury convicted him in 2023 of the murder of a protester on July 25, 2020.",
       "url": "https://www.kxan.com/news/local/austin/jury-selection-monday-in-misdemeanor-case-for-man-previously-pardoned-for-felony/",
       "source": "KXAN Austin",
       "published_at": "2026-03-22T18:08:39+00:00",
