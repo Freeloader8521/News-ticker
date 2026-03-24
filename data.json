@@ -1,6 +1,591 @@
 {
-  "generated_at": "2026-03-24T18:58:57.035472+00:00",
+  "generated_at": "2026-03-24T19:57:20.716522+00:00",
   "items": [
+    {
+      "id": "c99ab7958eae0996",
+      "title_orig": "Russia fires nearly 400 drones at Ukraine, with UNESCO site damaged",
+      "summary_orig": "Three were killed and 30 wounded in a rare daytime attack, including on the city of Lviv, while four have been killed in an overnight bombardment.",
+      "lang": "en",
+      "title_en": "Russia fires nearly 400 drones at Ukraine, with UNESCO site damaged",
+      "summary_en": "Three were killed and 30 wounded in a rare daytime attack, including on the city of Lviv, while four have been killed in an overnight bombardment.",
+      "title": "Russia fires nearly 400 drones at Ukraine, with UNESCO site damaged",
+      "summary": "Three were killed and 30 wounded in a rare daytime attack, including on the city of Lviv, while four have been killed in an overnight bombardment.",
+      "url": "https://www.abc.net.au/news/2026-03-25/russia-daytime-drones-attack-on-ukraine-unesco-site/106493944",
+      "source": "Just In",
+      "published_at": "2026-03-24T19:51:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "641eaea5b08a4906",
+      "title_orig": "Live: Air strikes batter Iran as it attacks Israel and Gulf states, diplomatic efforts gather pace",
+      "summary_orig": "US President Donald Trump says the United States is talking to \"the right people\" in Iran in an effort to end hostilities and claims the Iranians want to reach a deal very badly. Follow live.",
+      "lang": "en",
+      "title_en": "Live: Air strikes batter Iran as it attacks Israel and Gulf states, diplomatic efforts gather pace",
+      "summary_en": "US President Donald Trump says the United States is talking to \"the right people\" in Iran in an effort to end hostilities and claims the Iranians want to reach a deal very badly. Follow live.",
+      "title": "Live: Air strikes batter Iran as it attacks Israel and Gulf states, diplomatic efforts gather pace",
+      "summary": "US President Donald Trump says the United States is talking to \"the right people\" in Iran in an effort to end hostilities and claims the Iranians want to reach a deal very badly. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-03-25/iran-war-live-updates/106493818",
+      "source": "Just In",
+      "published_at": "2026-03-24T19:49:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9b9bff4cf26554a8",
+      "title_orig": "Waiheke community protest as fuel prices surge past $4 a litre",
+      "summary_orig": "The protest, led by MOVE Waiheke, have set up near BP Oneroa where fuel prices range from $3.99 to $4.38 and are demanding the government to make public transport free on Waiheke.",
+      "lang": "en",
+      "title_en": "Waiheke community protest as fuel prices surge past $4 a litre",
+      "summary_en": "The protest, led by MOVE Waiheke, have set up near BP Oneroa where fuel prices range from $3.99 to $4.38 and are demanding the government to make public transport free on Waiheke.",
+      "title": "Waiheke community protest as fuel prices surge past $4 a litre",
+      "summary": "The protest, led by MOVE Waiheke, have set up near BP Oneroa where fuel prices range from $3.99 to $4.38 and are demanding the government to make public transport free on Waiheke.",
+      "url": "https://www.stuff.co.nz/nz-news/360955559/calls-urgent-government-action-waiheke-transport-fuel-passes-4",
+      "source": "Stuff - /",
+      "published_at": "2026-03-24T19:49:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "20da261a6bcaf815",
+      "title_orig": "Why no long lines at MSP airport’s security checkpoints? ‘The job is important,’ says TSA employee who keeps working",
+      "summary_orig": "Despite low morale, fewer than 10% of screeners at MSP have stopped working since the government shutdown started Feb. 14, but they are being pushed to the brink.",
+      "lang": "en",
+      "title_en": "Why no long lines at MSP airport’s security checkpoints? ‘The job is important,’ says TSA employee who keeps working",
+      "summary_en": "Despite low morale, fewer than 10% of screeners at MSP have stopped working since the government shutdown started Feb. 14, but they are being pushed to the brink.",
+      "title": "Why no long lines at MSP airport’s security checkpoints? ‘The job is important,’ says TSA employee who keeps working",
+      "summary": "Despite low morale, fewer than 10% of screeners at MSP have stopped working since the government shutdown started Feb. 14, but they are being pushed to the brink.",
+      "url": "https://www.startribune.com/why-no-long-lines-at-msp-airports-security-checkpoints-the-job-is-important-says-tsa-employee-who-keeps-working/601634207",
+      "source": "Startribune News",
+      "published_at": "2026-03-24T19:44:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "88f53179e9e42cbb",
+      "title_orig": "Iran War Live Updates: Trump Asserts Iran Wants to ‘Make a Deal’",
+      "summary_orig": "Iran maintains publicly that no negotiations are taking place, but Mr. Trump claimed that Iran was so near defeat that it had little choice but to talk. Still, Iranian missiles and drones struck across the region.",
+      "lang": "en",
+      "title_en": "Iran War Live Updates: Trump Asserts Iran Wants to ‘Make a Deal’",
+      "summary_en": "Iran maintains publicly that no negotiations are taking place, but Mr. Trump claimed that Iran was so near defeat that it had little choice but to talk. Still, Iranian missiles and drones struck across the region.",
+      "title": "Iran War Live Updates: Trump Asserts Iran Wants to ‘Make a Deal’",
+      "summary": "Iran maintains publicly that no negotiations are taking place, but Mr. Trump claimed that Iran was so near defeat that it had little choice but to talk. Still, Iranian missiles and drones struck across the region.",
+      "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
+      "source": "NYT > World News",
+      "published_at": "2026-03-24T19:43:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f1f68f0e534985e8",
+      "title_orig": "Almost 1,000 drones within 24 hours: Russia launched one of its largest attacks on Ukraine",
+      "summary_orig": "In one of its largest attacks since the beginning of the all-out war, Russia launched almost 1,000 drones against Ukraine, targeting all regions, including Western Ukraine.",
+      "lang": "en",
+      "title_en": "Almost 1,000 drones within 24 hours: Russia launched one of its largest attacks on Ukraine",
+      "summary_en": "In one of its largest attacks since the beginning of the all-out war, Russia launched almost 1,000 drones against Ukraine, targeting all regions, including Western Ukraine.",
+      "title": "Almost 1,000 drones within 24 hours: Russia launched one of its largest attacks on Ukraine",
+      "summary": "In one of its largest attacks since the beginning of the all-out war, Russia launched almost 1,000 drones against Ukraine, targeting all regions, including Western Ukraine.",
+      "url": "http://www.euronews.com/2026/03/24/almost-1000-drones-within-24-hours-russia-launched-one-of-its-largest-attacks-on-ukraine",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-03-24T19:38:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "bc00fe58713f836a",
+      "title_orig": "Renee Good, Alex Pretti shootings: Minnesota sues Trump administration for access to evidence",
+      "summary_orig": "The lawsuit marks an escalation in the clash between Minnesota leaders and the Trump administration over the investigations into the high-profile shootings by federal officers that sparked public outcry and protests.",
+      "lang": "en",
+      "title_en": "Renee Good, Alex Pretti shootings: Minnesota sues Trump administration for access to evidence",
+      "summary_en": "The lawsuit marks an escalation in the clash between Minnesota leaders and the Trump administration over the investigations into the high-profile shootings by federal officers that sparked public outcry and protests.",
+      "title": "Renee Good, Alex Pretti shootings: Minnesota sues Trump administration for access to evidence",
+      "summary": "The lawsuit marks an escalation in the clash between Minnesota leaders and the Trump administration over the investigations into the high-profile shootings by federal officers that sparked public outcry and protests.",
+      "url": "https://www.oregonlive.com/nation/2026/03/renee-good-alex-pretti-shootings-minnesota-sues-trump-administration-for-access-to-evidence.html",
+      "source": "oregonlive.com",
+      "published_at": "2026-03-24T19:35:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2fd50c6de0bd2b2c",
+      "title_orig": "Clerics from Pakistan, Afghanistan appeal to authorities to extend pause in fighting till Eidul Azha",
+      "summary_orig": "ISLAMABAD: A group of clerics from Pakistan and Afghanistan on Tuesday appealed to the authorities on both sides to extend the pause in hostilities — which was announced for Eidul Fitr — to Eidul Azha. In Pakistan, the announcement was made by Information Minister Attaullah Tarar on March 18, three days before Eidul Fitr. “In view of the upcoming Islamic festival of Eidul Fitr, upon its own initiative as well as on the request from the brotherly Islamic countries of the Kingdom of Saudi Arabia, the State of Qatar and the Republic of Turkiye, the government of Pakistan has decided to announce a temporary pause amidst ongoing Operation Ghazab lil-Haq against terrorists and their support infrastructure in Afghanistan,” Tarar had posted on X. The minister said the pause would be applicable from midnight March 18-19 to midnight March 23-24. Pakistan had launched Operation Ghazab lil-Haq on the night of Feb 26 following cross-border firing by the Afghan Taliban. Eleven Pakistani and as many Afghan clerics signed a joint statement released on Tuesday night. The statement says: “With the joint efforts and cooperation of the esteemed public and political scholars and respected tribal leaders of Afghanistan and Pakistan, we are making a sincere, serious and conciliatory move towards a sustainable and dignified solution to the conflict between our two countries.” In the statement, the clerics from the two sides urged Pakistani authorities and the Afghan Taliban to extend the pause in fighting till Eidul Azha so that people could perform Haj in a “peaceful atmosphere”. The statement said the “peace movement” would not be restricted to the appeal for an extension in the pause in fighting, but as part of this initiative, all possible “diplomatic and social efforts” would be made for a “fair and acceptable” resolution to longstanding issues between Islamabad and Kabul. The clerics said their efforts were aimed at finding a solution agreeable to both sides and one that could lay the foundation of lasting stability and harmony in the region.",
+      "lang": "en",
+      "title_en": "Clerics from Pakistan, Afghanistan appeal to authorities to extend pause in fighting till Eidul Azha",
+      "summary_en": "ISLAMABAD: A group of clerics from Pakistan and Afghanistan on Tuesday appealed to the authorities on both sides to extend the pause in hostilities — which was announced for Eidul Fitr — to Eidul Azha. In Pakistan, the announcement was made by Information Minister Attaullah Tarar on March 18, three days before Eidul Fitr. “In view of the upcoming Islamic festival of Eidul Fitr, upon its own initiative as well as on the request from the brotherly Islamic countries of the Kingdom of Saudi Arabia, the State of Qatar and the Republic of Turkiye, the government of Pakistan has decided to announce a temporary pause amidst ongoing Operation Ghazab lil-Haq against terrorists and their support infrastructure in Afghanistan,” Tarar had posted on X. The minister said the pause would be applicable from midnight March 18-19 to midnight March 23-24. Pakistan had launched Operation Ghazab lil-Haq on the night of Feb 26 following cross-border firing by the Afghan Taliban. Eleven Pakistani and as many Afghan clerics signed a joint statement released on Tuesday night. The statement says: “With the joint efforts and cooperation of the esteemed public and political scholars and respected tribal leaders of Afghanistan and Pakistan, we are making a sincere, serious and conciliatory move towards a sustainable and dignified solution to the conflict between our two countries.” In the statement, the clerics from the two sides urged Pakistani authorities and the Afghan Taliban to extend the pause in fighting till Eidul Azha so that people could perform Haj in a “peaceful atmosphere”. The statement said the “peace movement” would not be restricted to the appeal for an extension in the pause in fighting, but as part of this initiative, all possible “diplomatic and social efforts” would be made for a “fair and acceptable” resolution to longstanding issues between Islamabad and Kabul. The clerics said their efforts were aimed at finding a solution agreeable to both sides and one that could lay the foundation of lasting stability and harmony in the region.",
+      "title": "Clerics from Pakistan, Afghanistan appeal to authorities to extend pause in fighting till Eidul Azha",
+      "summary": "ISLAMABAD: A group of clerics from Pakistan and Afghanistan on Tuesday appealed to the authorities on both sides to extend the pause in hostilities — which was announced for Eidul Fitr — to Eidul Azha. In Pakistan, the announcement was made by Information Minister Attaullah Tarar on March 18, three days before Eidul Fitr. “In view of the upcoming Islamic festival of Eidul Fitr, upon its own initiative as well as on the request from the brotherly Islamic countries of the Kingdom of Saudi Arabia, the State of Qatar and the Republic of Turkiye, the government of Pakistan has decided to announce a temporary pause amidst ongoing Operation Ghazab lil-Haq against terrorists and their support infrastructure in Afghanistan,” Tarar had posted on X. The minister said the pause would be applicable from midnight March 18-19 to midnight March 23-24. Pakistan had launched Operation Ghazab lil-Haq on the night of Feb 26 following cross-border firing by the Afghan Taliban. Eleven Pakistani and as many Afghan clerics signed a joint statement released on Tuesday night. The statement says: “With the joint efforts and cooperation of the esteemed public and political scholars and respected tribal leaders of Afghanistan and Pakistan, we are making a sincere, serious and conciliatory move towards a sustainable and dignified solution to the conflict between our two countries.” In the statement, the clerics from the two sides urged Pakistani authorities and the Afghan Taliban to extend the pause in fighting till Eidul Azha so that people could perform Haj in a “peaceful atmosphere”. The statement said the “peace movement” would not be restricted to the appeal for an extension in the pause in fighting, but as part of this initiative, all possible “diplomatic and social efforts” would be made for a “fair and acceptable” resolution to longstanding issues between Islamabad and Kabul. The clerics said their efforts were aimed at finding a solution agreeable to both sides and one that could lay the foundation of lasting stability and harmony in the region.",
+      "url": "https://www.dawn.com/news/1984967/clerics-from-pakistan-afghanistan-appeal-to-authorities-to-extend-pause-in-fighting-till-eidul-azha",
+      "source": "Dawn - Home",
+      "published_at": "2026-03-24T19:35:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ffc8cc3c85920dd8",
+      "title_orig": "Airport disruptions abound as senators chase deal to end Homeland Security budget standoff",
+      "summary_orig": "Senators are racing to clinch a proposal to end the Homeland Security shutdown",
+      "lang": "en",
+      "title_en": "Airport disruptions abound as senators chase deal to end Homeland Security budget standoff",
+      "summary_en": "Senators are racing to clinch a proposal to end the Homeland Security shutdown",
+      "title": "Airport disruptions abound as senators chase deal to end Homeland Security budget standoff",
+      "summary": "Senators are racing to clinch a proposal to end the Homeland Security shutdown",
+      "url": "https://www.independent.co.uk/news/world/americas/donald-trump-democrats-atlanta-chris-coons-homeland-security-b2944929.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-24T19:34:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c9044dfb9d79243f",
+      "title_orig": "Investigators Seek Answers in Attacks on Jewish Sites in Europe",
+      "summary_orig": "Attacks on schools and property in several countries have Jewish communities on edge, amid suspicions that Iran is behind the violence.",
+      "lang": "en",
+      "title_en": "Investigators Seek Answers in Attacks on Jewish Sites in Europe",
+      "summary_en": "Attacks on schools and property in several countries have Jewish communities on edge, amid suspicions that Iran is behind the violence.",
+      "title": "Investigators Seek Answers in Attacks on Jewish Sites in Europe",
+      "summary": "Attacks on schools and property in several countries have Jewish communities on edge, amid suspicions that Iran is behind the violence.",
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/attacks-jewish-sites-europe.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-24T19:33:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "40ed5e01d8222cce",
+      "title_orig": "Anganwadi workers call off protest after Karnataka government agrees to fulfil demands",
+      "summary_orig": "Anganwadi workers called off their protest on Tuesday evening after the government reportedly promised to fulfill their demands, including the release of gratuity of about ₹183 crore to retired anganwadi workers.",
+      "lang": "en",
+      "title_en": "Anganwadi workers call off protest after Karnataka government agrees to fulfil demands",
+      "summary_en": "Anganwadi workers called off their protest on Tuesday evening after the government reportedly promised to fulfill their demands, including the release of gratuity of about ₹183 crore to retired anganwadi workers.",
+      "title": "Anganwadi workers call off protest after Karnataka government agrees to fulfil demands",
+      "summary": "Anganwadi workers called off their protest on Tuesday evening after the government reportedly promised to fulfill their demands, including the release of gratuity of about ₹183 crore to retired anganwadi workers.",
+      "url": "https://www.thehindu.com/news/cities/bangalore/anganwadi-workers-call-off-protest-after-karnataka-government-agrees-to-fulfil-demands/article70780921.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-03-24T19:31:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d6225085a34282f8",
+      "title_orig": "Toronto police creating counterterrorism unit after synagogue, U.S. consulate shootings",
+      "summary_orig": "Police Chief Myron Demkiw said his force would take a new approach to extremism, while also being brought in ahead of six massive World Cup matches.",
+      "lang": "en",
+      "title_en": "Toronto police creating counterterrorism unit after synagogue, U.S. consulate shootings",
+      "summary_en": "Police Chief Myron Demkiw said his force would take a new approach to extremism, while also being brought in ahead of six massive World Cup matches.",
+      "title": "Toronto police creating counterterrorism unit after synagogue, U.S. consulate shootings",
+      "summary": "Police Chief Myron Demkiw said his force would take a new approach to extremism, while also being brought in ahead of six massive World Cup matches.",
+      "url": "https://globalnews.ca/news/11744106/toronto-police-counterterrorism-unit/",
+      "source": "globalnews.ca",
+      "published_at": "2026-03-24T19:22:49+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "452ee584afa6d6e1",
+      "title_orig": "TSA shutdown deal takes shape after 3,200 workers missed Monday",
+      "summary_orig": "More than 3,200 TSA workers missed work Monday and 458 have quit since the shutdown began, forcing travelers to arrive hours early at major U.S. airports.",
+      "lang": "en",
+      "title_en": "TSA shutdown deal takes shape after 3,200 workers missed Monday",
+      "summary_en": "More than 3,200 TSA workers missed work Monday and 458 have quit since the shutdown began, forcing travelers to arrive hours early at major U.S. airports.",
+      "title": "TSA shutdown deal takes shape after 3,200 workers missed Monday",
+      "summary": "More than 3,200 TSA workers missed work Monday and 458 have quit since the shutdown began, forcing travelers to arrive hours early at major U.S. airports.",
+      "url": "https://www.syracuse.com/us-news/2026/03/tsa-shutdown-deal-takes-shape-after-3200-workers-missed-monday.html",
+      "source": "syracuse.com",
+      "published_at": "2026-03-24T19:20:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9774fa34e9d5fb91",
+      "title_orig": "Rock legend to perform at protest rally",
+      "summary_orig": "Bruce Springsteen headlines the No Kings rally in St. Paul Mar. 28, performing “Streets of Minneapolis” ahead of his U.S. tour kickoff.",
+      "lang": "en",
+      "title_en": "Rock legend to perform at protest rally",
+      "summary_en": "Bruce Springsteen headlines the No Kings rally in St. Paul Mar. 28, performing “Streets of Minneapolis” ahead of his U.S. tour kickoff.",
+      "title": "Rock legend to perform at protest rally",
+      "summary": "Bruce Springsteen headlines the No Kings rally in St. Paul Mar. 28, performing “Streets of Minneapolis” ahead of his U.S. tour kickoff.",
+      "url": "https://www.cleveland.com/news/2026/03/rock-legend-to-perform-at-protest-rally.html",
+      "source": "cleveland.com",
+      "published_at": "2026-03-24T19:20:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e7fbcf654d98c90a",
+      "title_orig": "Emirates travel warning as Dubai airport faces severe disruption",
+      "summary_orig": "Emirates has issued a travel warning to UK passengers departing Dubai International Airport as torrential rain, thunderstorms and hail are forecast",
+      "lang": "en",
+      "title_en": "Emirates travel warning as Dubai airport faces severe disruption",
+      "summary_en": "Emirates has issued a travel warning to UK passengers departing Dubai International Airport as torrential rain, thunderstorms and hail are forecast",
+      "title": "Emirates travel warning as Dubai airport faces severe disruption",
+      "summary": "Emirates has issued a travel warning to UK passengers departing Dubai International Airport as torrential rain, thunderstorms and hail are forecast",
+      "url": "https://www.liverpoolecho.co.uk/news/emirates-travel-warning-dubai-airport-33653849",
+      "source": "Liverpool Echo - News",
+      "published_at": "2026-03-24T19:18:07+00:00",
+      "tags": [
+        "DXB",
+        "United Arab Emirates",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dubai",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "iata": "DXB",
+        "lat": 25.2532,
+        "lon": 55.3657
+      }
+    },
+    {
+      "id": "d5a7051a7e5efc93",
+      "title_orig": "LaGuardia plane crash live updates: Runway safety system ‘did not generate an alert’ for air-traffic controllers before fatal collision",
+      "summary_orig": "Officials say the collision almost certainly involved ‘multiple failures’",
+      "lang": "en",
+      "title_en": "LaGuardia plane crash live updates: Runway safety system ‘did not generate an alert’ for air-traffic controllers before fatal collision",
+      "summary_en": "Officials say the collision almost certainly involved ‘multiple failures’",
+      "title": "LaGuardia plane crash live updates: Runway safety system ‘did not generate an alert’ for air-traffic controllers before fatal collision",
+      "summary": "Officials say the collision almost certainly involved ‘multiple failures’",
+      "url": "https://www.independent.co.uk/news/world/americas/laguardia-airport-crash-live-air-canada-plane-video-b2944265.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-24T19:16:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ee0a459a1ac067b3",
+      "title_orig": "Fire truck in LaGuardia crash lacked equipment needed to trigger runway warning system, NTSB says",
+      "summary_orig": "NEW YORK (AP) — A runway warning system failed to sound an alarm moments before an Air Canada jet and…",
+      "lang": "en",
+      "title_en": "Fire truck in LaGuardia crash lacked equipment needed to trigger runway warning system, NTSB says",
+      "summary_en": "NEW YORK (AP) — A runway warning system failed to sound an alarm moments before an Air Canada jet and…",
+      "title": "Fire truck in LaGuardia crash lacked equipment needed to trigger runway warning system, NTSB says",
+      "summary": "NEW YORK (AP) — A runway warning system failed to sound an alarm moments before an Air Canada jet and…",
+      "url": "https://wtop.com/lifestyle/2026/03/new-york-plane-crash-investigation-looking-at-cockpit-recorder-and-controllers/",
+      "source": "WTOP News",
+      "published_at": "2026-03-24T19:14:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3d8bc4499b967995",
+      "title_orig": "Andy Robertson declares Mo Salah the greatest as Liverpool exit bombshell drops",
+      "summary_orig": "Salah will leave Anfield after nine years when his contract runs at out the end of the current season",
+      "lang": "en",
+      "title_en": "Andy Robertson declares Mo Salah the greatest as Liverpool exit bombshell drops",
+      "summary_en": "Salah will leave Anfield after nine years when his contract runs at out the end of the current season",
+      "title": "Andy Robertson declares Mo Salah the greatest as Liverpool exit bombshell drops",
+      "summary": "Salah will leave Anfield after nine years when his contract runs at out the end of the current season",
+      "url": "https://www.dailyrecord.co.uk/sport/football/football-transfer-news/andy-robertson-declares-mo-salah-36917861",
+      "source": "Daily Record - Home",
+      "published_at": "2026-03-24T19:13:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0d8cc2b468ed8dbf",
+      "title_orig": "Dubai Airport delays as Emirates warns passengers amid severe weather",
+      "summary_orig": "Emirates has issued a travel warning for passengers departing Dubai International Airport between March 23-27, urging them to allow extra time due to severe weather affecting the region",
+      "lang": "en",
+      "title_en": "Dubai Airport delays as Emirates warns passengers amid severe weather",
+      "summary_en": "Emirates has issued a travel warning for passengers departing Dubai International Airport between March 23-27, urging them to allow extra time due to severe weather affecting the region",
+      "title": "Dubai Airport delays as Emirates warns passengers amid severe weather",
+      "summary": "Emirates has issued a travel warning for passengers departing Dubai International Airport between March 23-27, urging them to allow extra time due to severe weather affecting the region",
+      "url": "https://www.birminghammail.co.uk/news/uk-news/dubai-airport-delays-emirates-warns-33653829",
+      "source": "Birmingham Live - News",
+      "published_at": "2026-03-24T19:12:34+00:00",
+      "tags": [
+        "DXB",
+        "United Arab Emirates",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dubai",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "iata": "DXB",
+        "lat": 25.2532,
+        "lon": 55.3657
+      }
+    },
+    {
+      "id": "7bea543e1801029e",
+      "title_orig": "Ex-police officer accused of attacking child found dead",
+      "summary_orig": "Simon Knott was due in court over a number of allegations",
+      "lang": "en",
+      "title_en": "Ex-police officer accused of attacking child found dead",
+      "summary_en": "Simon Knott was due in court over a number of allegations",
+      "title": "Ex-police officer accused of attacking child found dead",
+      "summary": "Simon Knott was due in court over a number of allegations",
+      "url": "https://www.birminghammail.co.uk/news/uk-news/ex-police-officer-accused-attacking-33653679",
+      "source": "Birmingham Live - News",
+      "published_at": "2026-03-24T19:10:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "51e7bb707310f8b0",
+      "title_orig": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
+      "summary_orig": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
+      "lang": "en",
+      "title_en": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
+      "summary_en": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
+      "title": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
+      "summary": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
+      "url": "https://www.startribune.com/iran-targets-israel-and-gulf-arab-states-even-as-trump-says-us-is-in-talks-to-end-the-war/601632610",
+      "source": "Startribune News",
+      "published_at": "2026-03-24T19:10:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "60a2e315da316d34",
+      "title_orig": "Viral video shows violinist entertaining Atlanta airport’s weary travelers with live music amid 3-hour lines at TSA",
+      "summary_orig": "‘People have really enjoyed the music,’ Atlanta-based violinist, Michelle Winters, told The Independent",
+      "lang": "en",
+      "title_en": "Viral video shows violinist entertaining Atlanta airport’s weary travelers with live music amid 3-hour lines at TSA",
+      "summary_en": "‘People have really enjoyed the music,’ Atlanta-based violinist, Michelle Winters, told The Independent",
+      "title": "Viral video shows violinist entertaining Atlanta airport’s weary travelers with live music amid 3-hour lines at TSA",
+      "summary": "‘People have really enjoyed the music,’ Atlanta-based violinist, Michelle Winters, told The Independent",
+      "url": "https://www.independent.co.uk/news/world/americas/atlanta-airport-violin-tsa-lines-b2944826.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-24T19:08:34+00:00",
+      "tags": [
+        "ATL",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Hartsfield–Jackson",
+        "city": "Atlanta",
+        "country": "United States",
+        "iata": "ATL",
+        "lat": 33.6407,
+        "lon": -84.4277
+      }
+    },
+    {
+      "id": "4981b7fb110cc98a",
+      "title_orig": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
+      "summary_orig": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel’s Tel Aviv and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
+      "lang": "en",
+      "title_en": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
+      "summary_en": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel’s Tel Aviv and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
+      "title": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
+      "summary": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel’s Tel Aviv and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
+      "url": "https://wtop.com/middle-east/2026/03/iran-targets-israel-and-gulf-arab-states-even-as-trump-says-us-is-in-talks-to-end-the-war/",
+      "source": "WTOP News",
+      "published_at": "2026-03-24T19:08:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a8752b25750f7d68",
+      "title_orig": "Tangled trail probably leads from Golders Green ambulance attack to Tehran",
+      "summary_orig": "British investigators are circumspect but experts and security officials say incident has hallmarks of Iranian intelligence Middle East crisis – live updates From Golders Green, where four ambulances belonging to a Jewish charity were set alight in the early hours of Monday, a tangled trail probably leads across two continents to Tehran. British investigators are circumspect. Speaking at an event on Monday evening, Mark Rowley, the head of the Metropolitan police, described a “very relevant and rolling threat” from Iran to the UK, and specifically to Jewish targets, but warned it was still too early to attribute the attack in north London to Tehran. Continue reading...",
+      "lang": "en",
+      "title_en": "Tangled trail probably leads from Golders Green ambulance attack to Tehran",
+      "summary_en": "British investigators are circumspect but experts and security officials say incident has hallmarks of Iranian intelligence Middle East crisis – live updates From Golders Green, where four ambulances belonging to a Jewish charity were set alight in the early hours of Monday, a tangled trail probably leads across two continents to Tehran. British investigators are circumspect. Speaking at an event on Monday evening, Mark Rowley, the head of the Metropolitan police, described a “very relevant and rolling threat” from Iran to the UK, and specifically to Jewish targets, but warned it was still too early to attribute the attack in north London to Tehran. Continue reading...",
+      "title": "Tangled trail probably leads from Golders Green ambulance attack to Tehran",
+      "summary": "British investigators are circumspect but experts and security officials say incident has hallmarks of Iranian intelligence Middle East crisis – live updates From Golders Green, where four ambulances belonging to a Jewish charity were set alight in the early hours of Monday, a tangled trail probably leads across two continents to Tehran. British investigators are circumspect. Speaking at an event on Monday evening, Mark Rowley, the head of the Metropolitan police, described a “very relevant and rolling threat” from Iran to the UK, and specifically to Jewish targets, but warned it was still too early to attribute the attack in north London to Tehran. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/24/a-tangled-web-leads-from-golders-green-ambulance-attack-to-tehran",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-24T19:08:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "add73021a96fe9dc",
+      "title_orig": "First Western Sydney Airport international flight tickets go on sale",
+      "summary_orig": "Singapore Airlines put their first international flights from WSI on sale on Wednesday morning, confirming the airline will be among the first to run from Sydney's new airport.",
+      "lang": "en",
+      "title_en": "First Western Sydney Airport international flight tickets go on sale",
+      "summary_en": "Singapore Airlines put their first international flights from WSI on sale on Wednesday morning, confirming the airline will be among the first to run from Sydney's new airport.",
+      "title": "First Western Sydney Airport international flight tickets go on sale",
+      "summary": "Singapore Airlines put their first international flights from WSI on sale on Wednesday morning, confirming the airline will be among the first to run from Sydney's new airport.",
+      "url": "https://www.abc.net.au/news/2026-03-25/western-sydney-airport-first-flights-november-singapore-airlines/106491162",
+      "source": "Just In",
+      "published_at": "2026-03-24T19:07:21+00:00",
+      "tags": [
+        "Australia",
+        "SYD",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Sydney",
+        "city": "Sydney",
+        "country": "Australia",
+        "iata": "SYD",
+        "lat": -33.9399,
+        "lon": 151.1753
+      }
+    },
+    {
+      "id": "65186211f8578ba9",
+      "title_orig": "IndiGo flight grounded after tyre burst at Vijayawada airport",
+      "summary_orig": "All 79 occupants, including 75 passengers and four crew, are safe",
+      "lang": "en",
+      "title_en": "IndiGo flight grounded after tyre burst at Vijayawada airport",
+      "summary_en": "All 79 occupants, including 75 passengers and four crew, are safe",
+      "title": "IndiGo flight grounded after tyre burst at Vijayawada airport",
+      "summary": "All 79 occupants, including 75 passengers and four crew, are safe",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/indigo-flight-grounded-after-tyre-burst-at-vijayawada-airport/article70780610.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-03-24T19:06:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "183c5f48b09fe2ac",
+      "title_orig": "Springsteen will sing Saturday at No Kings rally",
+      "summary_orig": "Bruce Springsteen confirmed that he will sing “Streets of Minneapolis,” the instant protest song he wrote and recorded after the killings of Renee Good and Alex Pretti in January.",
+      "lang": "en",
+      "title_en": "Springsteen will sing Saturday at No Kings rally",
+      "summary_en": "Bruce Springsteen confirmed that he will sing “Streets of Minneapolis,” the instant protest song he wrote and recorded after the killings of Renee Good and Alex Pretti in January.",
+      "title": "Springsteen will sing Saturday at No Kings rally",
+      "summary": "Bruce Springsteen confirmed that he will sing “Streets of Minneapolis,” the instant protest song he wrote and recorded after the killings of Renee Good and Alex Pretti in January.",
+      "url": "https://www.seattletimes.com/entertainment/springsteen-will-sing-saturday-at-no-kings-rally/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-03-24T19:02:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c95ab4d02922a79b",
+      "title_orig": "US set to send airborne troops to Middle East as Trump claims talks with Iran taking place",
+      "summary_orig": "Israel and Gulf states are targeted by Iran while Tehran denies any negotiations with US to end war Middle East crisis – live updates The US is poised to deploy airborne troops to the Middle East as strikes intensified across the region on Tuesday and Donald Trump claimed the US was in “very good” talks with Iran to end the war. Iranian barrages targeted Israel, Gulf Arab states and northern Iraq on Tuesday, while Israeli and US warplanes continued to carry out strikes across Tehran and on other targets in the Islamic Republic. Israel indicated that it planned to occupy control over swaths of southern Lebanon in what one Hezbollah official told Reuters was an “existential threat” to the Lebanese state. Continue reading...",
+      "lang": "en",
+      "title_en": "US set to send airborne troops to Middle East as Trump claims talks with Iran taking place",
+      "summary_en": "Israel and Gulf states are targeted by Iran while Tehran denies any negotiations with US to end war Middle East crisis – live updates The US is poised to deploy airborne troops to the Middle East as strikes intensified across the region on Tuesday and Donald Trump claimed the US was in “very good” talks with Iran to end the war. Iranian barrages targeted Israel, Gulf Arab states and northern Iraq on Tuesday, while Israeli and US warplanes continued to carry out strikes across Tehran and on other targets in the Islamic Republic. Israel indicated that it planned to occupy control over swaths of southern Lebanon in what one Hezbollah official told Reuters was an “existential threat” to the Lebanese state. Continue reading...",
+      "title": "US set to send airborne troops to Middle East as Trump claims talks with Iran taking place",
+      "summary": "Israel and Gulf states are targeted by Iran while Tehran denies any negotiations with US to end war Middle East crisis – live updates The US is poised to deploy airborne troops to the Middle East as strikes intensified across the region on Tuesday and Donald Trump claimed the US was in “very good” talks with Iran to end the war. Iranian barrages targeted Israel, Gulf Arab states and northern Iraq on Tuesday, while Israeli and US warplanes continued to carry out strikes across Tehran and on other targets in the Islamic Republic. Israel indicated that it planned to occupy control over swaths of southern Lebanon in what one Hezbollah official told Reuters was an “existential threat” to the Lebanese state. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/24/middle-east-violence-trump-claims-very-good-talks-iran",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-24T18:59:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "9084850f6c886c14",
+      "title_orig": "NTSB: Runway alert system didn't send warning ahead of deadly plane crash in New York",
+      "summary_orig": "The plane carrying more than 70 people slammed into a fire truck while landing late Sunday night, killing the two pilots and injuring several passengers.",
+      "lang": "en",
+      "title_en": "NTSB: Runway alert system didn't send warning ahead of deadly plane crash in New York",
+      "summary_en": "The plane carrying more than 70 people slammed into a fire truck while landing late Sunday night, killing the two pilots and injuring several passengers.",
+      "title": "NTSB: Runway alert system didn't send warning ahead of deadly plane crash in New York",
+      "summary": "The plane carrying more than 70 people slammed into a fire truck while landing late Sunday night, killing the two pilots and injuring several passengers.",
+      "url": "https://www.kgw.com/article/news/nation-world/new-york-plane-crash-investigation-ntsb-update-tuesday/507-6eb77919-c4f2-4e9b-9183-433f5228fb82",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-03-24T18:56:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "90efd890d024a460",
+      "title_orig": "Emirates issues travel warning as severe weather disrupts Dubai airport",
+      "summary_orig": "Emirates has warned passengers departing Dubai International Airport between March 23 and 27 to allow extra time due to torrential rain, thunderstorms and waterlogged streets affecting the city",
+      "lang": "en",
+      "title_en": "Emirates issues travel warning as severe weather disrupts Dubai airport",
+      "summary_en": "Emirates has warned passengers departing Dubai International Airport between March 23 and 27 to allow extra time due to torrential rain, thunderstorms and waterlogged streets affecting the city",
+      "title": "Emirates issues travel warning as severe weather disrupts Dubai airport",
+      "summary": "Emirates has warned passengers departing Dubai International Airport between March 23 and 27 to allow extra time due to torrential rain, thunderstorms and waterlogged streets affecting the city",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/emirates-issues-travel-warning-severe-36917802",
+      "source": "Daily Record - Home",
+      "published_at": "2026-03-24T18:51:59+00:00",
+      "tags": [
+        "DXB",
+        "United Arab Emirates",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dubai",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "iata": "DXB",
+        "lat": 25.2532,
+        "lon": 55.3657
+      }
+    },
     {
       "id": "93b25dca9d40be7c",
       "title_orig": "Farmers’ bodies plan protests from March 30 in A.P., demand MSP for crops",
@@ -20,6 +605,42 @@
       "geo": {}
     },
     {
+      "id": "386cbffb3e132b33",
+      "title_orig": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.",
+      "summary_orig": "The Times visited a village where the United States and Ecuador said they destroyed an armed group’s training camp. Residents said it was actually a dairy farm.",
+      "lang": "en",
+      "title_en": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.",
+      "summary_en": "The Times visited a village where the United States and Ecuador said they destroyed an armed group’s training camp. Residents said it was actually a dairy farm.",
+      "title": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.",
+      "summary": "The Times visited a village where the United States and Ecuador said they destroyed an armed group’s training camp. Residents said it was actually a dairy farm.",
+      "url": "https://www.nytimes.com/2026/03/24/world/americas/us-ecuador-drug-camp-bombing-dairy-farm.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-24T18:51:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "0a3d8cf508018a57",
+      "title_orig": "'He's not welcome in Leeds': Protesters gather outside First Direct Bank Arena as Nigel Farage visits",
+      "summary_orig": "Leeds protesters have said that Nigel Farage is “not welcome” in the city as they gathered outside the First Direct Bank Arena ahead of a Reform UK rally.",
+      "lang": "en",
+      "title_en": "'He's not welcome in Leeds': Protesters gather outside First Direct Bank Arena as Nigel Farage visits",
+      "summary_en": "Leeds protesters have said that Nigel Farage is “not welcome” in the city as they gathered outside the First Direct Bank Arena ahead of a Reform UK rally.",
+      "title": "'He's not welcome in Leeds': Protesters gather outside First Direct Bank Arena as Nigel Farage visits",
+      "summary": "Leeds protesters have said that Nigel Farage is “not welcome” in the city as they gathered outside the First Direct Bank Arena ahead of a Reform UK rally.",
+      "url": "https://www.yorkshireeveningpost.co.uk/news/politics/protesters-gather-outside-leeds-first-direct-bank-arena-as-nigel-farage-visits-6225783",
+      "source": "Yorkshire Evening Post",
+      "published_at": "2026-03-24T18:48:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "44c584060388e9ca",
       "title_orig": "'So lucky': Burke warns failed Perth bomb attack could have killed many",
       "summary_orig": "The home affairs minister says Australia was \"so lucky\" to avoid mass casualties during the attempted Australia Day bomb attack in Perth and admits the nation was slow to recognise the gravity of the alleged terrorist act.",
@@ -31,60 +652,6 @@
       "url": "https://www.abc.net.au/news/2026-03-25/burke-says-luck-saved-lives-in-perth-bomb-plot/106493642",
       "source": "Just In",
       "published_at": "2026-03-24T18:47:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "386cbffb3e132b33",
-      "title_orig": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.",
-      "summary_orig": "The Times visited a village where the United States and Ecuador said they destroyed an armed group’s training camp. Residents said it was actually a dairy farm.",
-      "lang": "en",
-      "title_en": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.",
-      "summary_en": "The Times visited a village where the United States and Ecuador said they destroyed an armed group’s training camp. Residents said it was actually a dairy farm.",
-      "title": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.",
-      "summary": "The Times visited a village where the United States and Ecuador said they destroyed an armed group’s training camp. Residents said it was actually a dairy farm.",
-      "url": "https://www.nytimes.com/2026/03/24/world/americas/us-ecuador-drug-camp-bombing-dairy-farm.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-24T18:43:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "65186211f8578ba9",
-      "title_orig": "IndiGo flight grounded after tyre burst at Vijayawada airport",
-      "summary_orig": "All 79 occupants, including 75 passengers and four crew are safe",
-      "lang": "en",
-      "title_en": "IndiGo flight grounded after tyre burst at Vijayawada airport",
-      "summary_en": "All 79 occupants, including 75 passengers and four crew are safe",
-      "title": "IndiGo flight grounded after tyre burst at Vijayawada airport",
-      "summary": "All 79 occupants, including 75 passengers and four crew are safe",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/indigo-flight-grounded-after-tyre-burst-at-vijayawada-airport/article70780610.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-03-24T18:41:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d5a7051a7e5efc93",
-      "title_orig": "LaGuardia plane crash latest: Final moments of Air Canada plane revealed before fatal collision with fire truck",
-      "summary_orig": "Flights resumed from airport Monday afternoon, shortly after first runway reopened following deadly collision",
-      "lang": "en",
-      "title_en": "LaGuardia plane crash latest: Final moments of Air Canada plane revealed before fatal collision with fire truck",
-      "summary_en": "Flights resumed from airport Monday afternoon, shortly after first runway reopened following deadly collision",
-      "title": "LaGuardia plane crash latest: Final moments of Air Canada plane revealed before fatal collision with fire truck",
-      "summary": "Flights resumed from airport Monday afternoon, shortly after first runway reopened following deadly collision",
-      "url": "https://www.independent.co.uk/news/world/americas/laguardia-airport-crash-live-air-canada-plane-video-b2944265.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-24T18:41:37+00:00",
       "tags": [
         "airport/security"
       ],
@@ -111,12 +678,12 @@
     },
     {
       "id": "26999283db953f57",
-      "title_orig": "Students protest for better conditions and against tuition fees",
+      "title_orig": "Portugal: Students protest for better conditions and against tuition fees",
       "summary_orig": "Higher education students across the country mark Student’s Day today with a march through Lisbon, demanding affordable housing, an end to tuition fees and more investment in social support.",
       "lang": "en",
-      "title_en": "Students protest for better conditions and against tuition fees",
+      "title_en": "Portugal: Students protest for better conditions and against tuition fees",
       "summary_en": "Higher education students across the country mark Student’s Day today with a march through Lisbon, demanding affordable housing, an end to tuition fees and more investment in social support.",
-      "title": "Students protest for better conditions and against tuition fees",
+      "title": "Portugal: Students protest for better conditions and against tuition fees",
       "summary": "Higher education students across the country mark Student’s Day today with a march through Lisbon, demanding affordable housing, an end to tuition fees and more investment in social support.",
       "url": "http://www.euronews.com/2026/03/24/students-protest-for-better-conditions-and-against-tuition-fees",
       "source": "News | Euronews RSS",
@@ -139,24 +706,6 @@
       "url": "https://www.pennlive.com/politics/2026/03/deal-possible-in-homeland-security-budget-standoff-thats-slowed-airport-travel.html",
       "source": "pennlive.com",
       "published_at": "2026-03-24T18:31:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "51e7bb707310f8b0",
-      "title_orig": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
-      "summary_orig": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
-      "lang": "en",
-      "title_en": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
-      "summary_en": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
-      "title": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
-      "summary": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
-      "url": "https://www.startribune.com/iran-targets-israel-and-gulf-arab-states-even-as-trump-says-us-is-in-talks-to-end-the-war/601632610",
-      "source": "Startribune News",
-      "published_at": "2026-03-24T18:30:04+00:00",
       "tags": [
         "airport/security"
       ],
@@ -200,24 +749,6 @@
       "geo": {}
     },
     {
-      "id": "f83bf3f51bbb97ad",
-      "title_orig": "What to know about the recent drone strike on a UK base that has Cyprus clamoring for a new deal",
-      "summary_orig": "NICOSIA, Cyprus (AP) — Cyprus’ government is upset it was kept in the dark.",
-      "lang": "en",
-      "title_en": "What to know about the recent drone strike on a UK base that has Cyprus clamoring for a new deal",
-      "summary_en": "NICOSIA, Cyprus (AP) — Cyprus’ government is upset it was kept in the dark.",
-      "title": "What to know about the recent drone strike on a UK base that has Cyprus clamoring for a new deal",
-      "summary": "NICOSIA, Cyprus (AP) — Cyprus’ government is upset it was kept in the dark.",
-      "url": "https://www.stuff.co.nz/world-news/360955528/what-know-about-recent-drone-strike-uk-base",
-      "source": "Stuff - /",
-      "published_at": "2026-03-24T18:22:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "667ef3f0d92050c6",
       "title_orig": "Scotland prospect laughs off World Cup chances after Lawrence Shankland selfie - 'my dad is a Jambo'",
       "summary_orig": "Nine-goal U21 striker eyeing full Scotland cap in future",
@@ -251,42 +782,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4981b7fb110cc98a",
-      "title_orig": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
-      "summary_orig": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel’s Tel Aviv and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
-      "lang": "en",
-      "title_en": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
-      "summary_en": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel’s Tel Aviv and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
-      "title": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
-      "summary": "Airstrikes battered Iran and Iranian missiles and drones targeted Israel’s Tel Aviv and sites across the Mideast on Tuesday, even as President Donald Trump said the United States was in talks with the Islamic Republic to end the war.",
-      "url": "https://wtop.com/middle-east/2026/03/iran-targets-israel-and-gulf-arab-states-even-as-trump-says-us-is-in-talks-to-end-the-war/",
-      "source": "WTOP News",
-      "published_at": "2026-03-24T18:17:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c6bad4e191b0bc7d",
-      "title_orig": "Middle East crisis live: US to send thousands more soldiers, reports say; Lebanon faces ‘existential crisis’, official says",
-      "summary_orig": "Pentagon to send 3,000 more troops from 82nd Airborne Division, media reports say; Lebanese official says destruction from Israeli attacks ‘disastrous’ JD Vance role touted as Pakistan attempts to broker US-Iran peace talks In Australia, the number of petrol stations running out of fuel continues to climb as the Middle East war drags on, with at least 184 dry across the country’s three most populous states . On Tuesday, 51 service stations in the state of New South Wales were out of fuel and 164 out of diesel, compared with 38 and 131 respectively the previous day, premier Chris Minns said. Continue reading...",
-      "lang": "en",
-      "title_en": "Middle East crisis live: US to send thousands more soldiers, reports say; Lebanon faces ‘existential crisis’, official says",
-      "summary_en": "Pentagon to send 3,000 more troops from 82nd Airborne Division, media reports say; Lebanese official says destruction from Israeli attacks ‘disastrous’ JD Vance role touted as Pakistan attempts to broker US-Iran peace talks In Australia, the number of petrol stations running out of fuel continues to climb as the Middle East war drags on, with at least 184 dry across the country’s three most populous states . On Tuesday, 51 service stations in the state of New South Wales were out of fuel and 164 out of diesel, compared with 38 and 131 respectively the previous day, premier Chris Minns said. Continue reading...",
-      "title": "Middle East crisis live: US to send thousands more soldiers, reports say; Lebanon faces ‘existential crisis’, official says",
-      "summary": "Pentagon to send 3,000 more troops from 82nd Airborne Division, media reports say; Lebanese official says destruction from Israeli attacks ‘disastrous’ JD Vance role touted as Pakistan attempts to broker US-Iran peace talks In Australia, the number of petrol stations running out of fuel continues to climb as the Middle East war drags on, with at least 184 dry across the country’s three most populous states . On Tuesday, 51 service stations in the state of New South Wales were out of fuel and 164 out of diesel, compared with 38 and 131 respectively the previous day, premier Chris Minns said. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-24T18:16:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -740,24 +1235,6 @@
       "geo": {}
     },
     {
-      "id": "8cc8a61d581d28a4",
-      "title_orig": "West Asia crisis: India’s foreign policy is “compromised”, considered a “universal joke”, says LoP Rahul Gandhi",
-      "summary_orig": "Slams PM for comparing West Asia crisis to COVID-19 pandemic; to miss all-party meet on West Asia due to poll events in Kerala; attacks Centre over reports that Pakistan may mediate between Iran, U.S.",
-      "lang": "en",
-      "title_en": "West Asia crisis: India’s foreign policy is “compromised”, considered a “universal joke”, says LoP Rahul Gandhi",
-      "summary_en": "Slams PM for comparing West Asia crisis to COVID-19 pandemic; to miss all-party meet on West Asia due to poll events in Kerala; attacks Centre over reports that Pakistan may mediate between Iran, U.S.",
-      "title": "West Asia crisis: India’s foreign policy is “compromised”, considered a “universal joke”, says LoP Rahul Gandhi",
-      "summary": "Slams PM for comparing West Asia crisis to COVID-19 pandemic; to miss all-party meet on West Asia due to poll events in Kerala; attacks Centre over reports that Pakistan may mediate between Iran, U.S.",
-      "url": "https://www.thehindu.com/news/national/west-asia-crisis-rahul-slams-modi-for-covid-reference-says-pm-has-forgotten-tragedies-of-that-time/article70779132.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-03-24T17:07:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ad830788bf1a5af6",
       "title_orig": "Crispin Odey: I can’t remember telling female employee ‘I could attack you now’",
       "summary_orig": "Hedge fund tycoon faces questions in court over sexual harassment allegations that have left his career in tatters Facing a litany of questions over sexual harassment allegations that have left his career in tatters, the hedge fund tycoon Crispin Odey has told a court he does not remember cornering a female employee after a boozy lunch and saying to her “I could attack you now”. The 67-year-old made the comments during his first day in the witness box as part of a three-week court case that Odey hopes will overturn the City regulator’s decision to ban him from the UK’s financial services industry. Continue reading...",
@@ -1055,24 +1532,6 @@
       "geo": {}
     },
     {
-      "id": "c334e9378d12a002",
-      "title_orig": "Son of Nottingham attacks victim found out father had died through Instagram",
-      "summary_orig": "Ian Coates, 65, was stabbed to death by Valdo Calocane in the early hours of 13 June 2023.",
-      "lang": "en",
-      "title_en": "Son of Nottingham attacks victim found out father had died through Instagram",
-      "summary_en": "Ian Coates, 65, was stabbed to death by Valdo Calocane in the early hours of 13 June 2023.",
-      "title": "Son of Nottingham attacks victim found out father had died through Instagram",
-      "summary": "Ian Coates, 65, was stabbed to death by Valdo Calocane in the early hours of 13 June 2023.",
-      "url": "https://www.bbc.com/news/articles/cgld4w7dlkdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-24T16:21:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "11a701f65801621b",
       "title_orig": "‘Let’s do it’: Trump pins push for war with Iran on Pete Hegseth in latest shift",
       "summary_orig": "President Donald Trump offers new account of circumstances leading up to commencement of Operation Epic Fury, suggesting Defense Secretary Pete Hegseth was particularly enthusiastic about bombing campaign",
@@ -1084,24 +1543,6 @@
       "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-pete-hegseth-iran-war-b2944426.html",
       "source": "The Independent World",
       "published_at": "2026-03-24T16:16:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9a0848384f0a084f",
-      "title_orig": "Two pilots killed in airport crash with fire truck have been identified",
-      "summary_orig": "Passengers on the flight have credited the pilots with saving their lives.",
-      "lang": "en",
-      "title_en": "Two pilots killed in airport crash with fire truck have been identified",
-      "summary_en": "Passengers on the flight have credited the pilots with saving their lives.",
-      "title": "Two pilots killed in airport crash with fire truck have been identified",
-      "summary": "Passengers on the flight have credited the pilots with saving their lives.",
-      "url": "https://www.mlive.com/news/2026/03/two-pilots-killed-in-airport-crash-with-fire-truck-have-been-identified.html",
-      "source": "mlive.com",
-      "published_at": "2026-03-24T16:10:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1125,6 +1566,33 @@
       ],
       "type": "local news",
       "geo": {}
+    },
+    {
+      "id": "967e211575fc8c6a",
+      "title_orig": "Fire truck in LaGuardia crash lacked equipment needed to trigger runway warning system, NTSB says",
+      "summary_orig": "Federal investigators say a runway warning system didn’t sound an alarm before an Air Canada jet and a fire truck collided at New York’s LaGuardia Airport.",
+      "lang": "en",
+      "title_en": "Fire truck in LaGuardia crash lacked equipment needed to trigger runway warning system, NTSB says",
+      "summary_en": "Federal investigators say a runway warning system didn’t sound an alarm before an Air Canada jet and a fire truck collided at New York’s LaGuardia Airport.",
+      "title": "Fire truck in LaGuardia crash lacked equipment needed to trigger runway warning system, NTSB says",
+      "summary": "Federal investigators say a runway warning system didn’t sound an alarm before an Air Canada jet and a fire truck collided at New York’s LaGuardia Airport.",
+      "url": "https://www.seattletimes.com/business/new-york-plane-crash-investigation-looking-at-cockpit-recorder-and-controllers/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-03-24T16:07:08+00:00",
+      "tags": [
+        "LGA",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "LaGuardia",
+        "city": "New York",
+        "country": "United States",
+        "iata": "LGA",
+        "lat": 40.7769,
+        "lon": -73.874
+      }
     },
     {
       "id": "5feb7d3cf6ed0cdc",
@@ -1217,6 +1685,24 @@
       "geo": {}
     },
     {
+      "id": "6e8af035ec1234e1",
+      "title_orig": "Poland faced a surge in cyberattacks in 2025, including a major assault on the energy sector",
+      "summary_orig": "Poland has said it faced a sharp surge in cyberattacks in 2025.",
+      "lang": "en",
+      "title_en": "Poland faced a surge in cyberattacks in 2025, including a major assault on the energy sector",
+      "summary_en": "Poland has said it faced a sharp surge in cyberattacks in 2025.",
+      "title": "Poland faced a surge in cyberattacks in 2025, including a major assault on the energy sector",
+      "summary": "Poland has said it faced a sharp surge in cyberattacks in 2025.",
+      "url": "https://www.seattletimes.com/business/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-03-24T15:58:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "c149c6521ec18659",
       "title_orig": "Poland scrambles fighter jets after Russia launches drone and missile attack on Ukraine",
       "summary_orig": "Nato aircraft were deployed after four people were killed in Russian strikes overnight",
@@ -1228,24 +1714,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/poland-fighter-jets-russia-ukraine-b2944477.html",
       "source": "The Independent World",
       "published_at": "2026-03-24T15:55:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9eb7a82eb8c45b5e",
-      "title_orig": "School 'in lockdown' and pupils 'upset' after suspicious man spotted",
-      "summary_orig": "The man was seen running on to the school field and climbing a fence",
-      "lang": "en",
-      "title_en": "School 'in lockdown' and pupils 'upset' after suspicious man spotted",
-      "summary_en": "The man was seen running on to the school field and climbing a fence",
-      "title": "School 'in lockdown' and pupils 'upset' after suspicious man spotted",
-      "summary": "The man was seen running on to the school field and climbing a fence",
-      "url": "https://www.birminghammail.co.uk/news/uk-news/school-in-lockdown-pupils-upset-33652016",
-      "source": "Birmingham Live - News",
-      "published_at": "2026-03-24T15:51:48+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1376,24 +1844,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "642a2538c00eeffc",
-      "title_orig": "Lancashire primary school in lockdown as 'suspicious individual' arrested",
-      "summary_orig": "A primary school in Lancashire was put in lockdown after a 'suspicious individual' approached its entrance",
-      "lang": "en",
-      "title_en": "Lancashire primary school in lockdown as 'suspicious individual' arrested",
-      "summary_en": "A primary school in Lancashire was put in lockdown after a 'suspicious individual' approached its entrance",
-      "title": "Lancashire primary school in lockdown as 'suspicious individual' arrested",
-      "summary": "A primary school in Lancashire was put in lockdown after a 'suspicious individual' approached its entrance",
-      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/lancashire-primary-school-lockdown-suspicious-33651910",
-      "source": "MEN - News",
-      "published_at": "2026-03-24T15:31:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1533,29 +1983,11 @@
       "summary": "A 4-year-old, a professor and an aid worker are among those killed in separate airstrikes as Israel pummels towns and cities, saying it is targeting Hezbollah operatives.",
       "url": "https://www.nytimes.com/2026/03/24/world/middleeast/lebanon-iran-war-casualties.html",
       "source": "NYT > World News",
-      "published_at": "2026-03-24T15:15:11+00:00",
+      "published_at": "2026-03-24T15:15:12+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "a5362a97a7b36377",
-      "title_orig": "Spain airport strikes could disrupt Easter travel at six major airports",
-      "summary_orig": "Unions announce strike action at Spanish airports at Barcelona, Malaga, Alicante and other major airports",
-      "lang": "en",
-      "title_en": "Spain airport strikes could disrupt Easter travel at six major airports",
-      "summary_en": "Unions announce strike action at Spanish airports at Barcelona, Malaga, Alicante and other major airports",
-      "title": "Spain airport strikes could disrupt Easter travel at six major airports",
-      "summary": "Unions announce strike action at Spanish airports at Barcelona, Malaga, Alicante and other major airports",
-      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/spain-airport-strikes-could-disrupt-33651320",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-03-24T15:03:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1588,24 +2020,6 @@
       "url": "https://www.stuff.co.nz/sport/360954381/all-whites-striker-ben-waine-wants-repay-coachs-faith-amid-fairytale-fa-cup-run",
       "source": "Stuff - /",
       "published_at": "2026-03-24T15:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7fc7815f5a79f4ce",
-      "title_orig": "ICE agents are now patrolling Cleveland Hopkins airport — and nobody can explain why",
-      "summary_orig": "ICE agents deployed to Cleveland Hopkins aren't trained for TSA duties and won't screen passengers — so what exactly are they doing at the airport?",
-      "lang": "en",
-      "title_en": "ICE agents are now patrolling Cleveland Hopkins airport — and nobody can explain why",
-      "summary_en": "ICE agents deployed to Cleveland Hopkins aren't trained for TSA duties and won't screen passengers — so what exactly are they doing at the airport?",
-      "title": "ICE agents are now patrolling Cleveland Hopkins airport — and nobody can explain why",
-      "summary": "ICE agents deployed to Cleveland Hopkins aren't trained for TSA duties and won't screen passengers — so what exactly are they doing at the airport?",
-      "url": "https://www.cleveland.com/news/2026/03/ice-agents-are-now-patrolling-cleveland-hopkins-airport-and-nobody-can-explain-why.html",
-      "source": "cleveland.com",
-      "published_at": "2026-03-24T14:59:13+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1793,24 +2207,6 @@
       "geo": {}
     },
     {
-      "id": "80690b7ffdf810d0",
-      "title_orig": "Oil traders bet millions minutes before Trump's Iran talks post",
-      "summary_orig": "Market data shows the amount of oil trade rose before the US President said he would postpone attacks on Iran's power plants.",
-      "lang": "en",
-      "title_en": "Oil traders bet millions minutes before Trump's Iran talks post",
-      "summary_en": "Market data shows the amount of oil trade rose before the US President said he would postpone attacks on Iran's power plants.",
-      "title": "Oil traders bet millions minutes before Trump's Iran talks post",
-      "summary": "Market data shows the amount of oil trade rose before the US President said he would postpone attacks on Iran's power plants.",
-      "url": "https://www.bbc.com/news/articles/cg547ljepvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-03-24T13:35:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5549f250d03b7544",
       "title_orig": "German president brands Trump’s Iran war illegal in scathing attack",
       "summary_orig": "The joint US-Israel war on Iran has sparked global market instability",
@@ -1831,12 +2227,12 @@
     {
       "id": "9d438a5c0fb7b8f0",
       "title_orig": "LaGuardia pilots raised safety alarms months before deadly runway crash",
-      "summary_orig": "Nasa reports show repeated warnings of close calls before crash that killed two pilots and injured 41 others Sign up for the Breaking News US email to get newsletter alerts in your inbox Pilot safety concerns about New York ’s LaGuardia airport were filed to aviation officials months before Sunday’s collision between an airplane and a firetruck left two pilots dead and 41 other people hospitalized. According to the aviation safety reporting system administered by the US space agency Nasa, a pilot using the airport in the summer wrote, “Please do something,” after air traffic controllers failed to provide appropriate guidance about multiple nearby aircraft. Continue reading...",
+      "summary_orig": "Nasa reports show repeated warnings of close calls before crash that killed two pilots and injured 41 others Sign up for the Breaking News US email to get newsletter alerts in your inbox Pilot safety concerns about New York ’s LaGuardia airport were filed to aviation officials months before Sunday’s collision between an airplane and a fire truck left two pilots dead and 41 other people hospitalized. According to the aviation safety reporting system administered by the US space agency Nasa, a pilot using the airport in the summer wrote, “Please do something,” after air traffic controllers failed to provide appropriate guidance about multiple nearby aircraft. Continue reading...",
       "lang": "en",
       "title_en": "LaGuardia pilots raised safety alarms months before deadly runway crash",
-      "summary_en": "Nasa reports show repeated warnings of close calls before crash that killed two pilots and injured 41 others Sign up for the Breaking News US email to get newsletter alerts in your inbox Pilot safety concerns about New York ’s LaGuardia airport were filed to aviation officials months before Sunday’s collision between an airplane and a firetruck left two pilots dead and 41 other people hospitalized. According to the aviation safety reporting system administered by the US space agency Nasa, a pilot using the airport in the summer wrote, “Please do something,” after air traffic controllers failed to provide appropriate guidance about multiple nearby aircraft. Continue reading...",
+      "summary_en": "Nasa reports show repeated warnings of close calls before crash that killed two pilots and injured 41 others Sign up for the Breaking News US email to get newsletter alerts in your inbox Pilot safety concerns about New York ’s LaGuardia airport were filed to aviation officials months before Sunday’s collision between an airplane and a fire truck left two pilots dead and 41 other people hospitalized. According to the aviation safety reporting system administered by the US space agency Nasa, a pilot using the airport in the summer wrote, “Please do something,” after air traffic controllers failed to provide appropriate guidance about multiple nearby aircraft. Continue reading...",
       "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
-      "summary": "Nasa reports show repeated warnings of close calls before crash that killed two pilots and injured 41 others Sign up for the Breaking News US email to get newsletter alerts in your inbox Pilot safety concerns about New York ’s LaGuardia airport were filed to aviation officials months before Sunday’s collision between an airplane and a firetruck left two pilots dead and 41 other people hospitalized. According to the aviation safety reporting system administered by the US space agency Nasa, a pilot using the airport in the summer wrote, “Please do something,” after air traffic controllers failed to provide appropriate guidance about multiple nearby aircraft. Continue reading...",
+      "summary": "Nasa reports show repeated warnings of close calls before crash that killed two pilots and injured 41 others Sign up for the Breaking News US email to get newsletter alerts in your inbox Pilot safety concerns about New York ’s LaGuardia airport were filed to aviation officials months before Sunday’s collision between an airplane and a fire truck left two pilots dead and 41 other people hospitalized. According to the aviation safety reporting system administered by the US space agency Nasa, a pilot using the airport in the summer wrote, “Please do something,” after air traffic controllers failed to provide appropriate guidance about multiple nearby aircraft. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
       "source": "World news | The Guardian",
       "published_at": "2026-03-24T13:33:42+00:00",
@@ -2144,24 +2540,6 @@
       "geo": {}
     },
     {
-      "id": "c95ab4d02922a79b",
-      "title_orig": "Middle East violence continues after Trump claims ‘very good’ talks with Iran",
-      "summary_orig": "Israel and Gulf states targeted and Iran hit by airstrikes as Tehran denies negotiations are taking place to end war Middle East crisis – live updates Violence has continued across much of the Middle East a day after Donald Trump said the US was in “very good” talks with Iran to end the war in the region soon. Iranian barrages targeted Israel, Gulf Arab states and northern Iraq on Tuesday, while Israeli and US warplanes continued to carry out strikes across Tehran and on other targets in the Islamic Republic. Continue reading...",
-      "lang": "en",
-      "title_en": "Middle East violence continues after Trump claims ‘very good’ talks with Iran",
-      "summary_en": "Israel and Gulf states targeted and Iran hit by airstrikes as Tehran denies negotiations are taking place to end war Middle East crisis – live updates Violence has continued across much of the Middle East a day after Donald Trump said the US was in “very good” talks with Iran to end the war in the region soon. Iranian barrages targeted Israel, Gulf Arab states and northern Iraq on Tuesday, while Israeli and US warplanes continued to carry out strikes across Tehran and on other targets in the Islamic Republic. Continue reading...",
-      "title": "Middle East violence continues after Trump claims ‘very good’ talks with Iran",
-      "summary": "Israel and Gulf states targeted and Iran hit by airstrikes as Tehran denies negotiations are taking place to end war Middle East crisis – live updates Violence has continued across much of the Middle East a day after Donald Trump said the US was in “very good” talks with Iran to end the war in the region soon. Iranian barrages targeted Israel, Gulf Arab states and northern Iraq on Tuesday, while Israeli and US warplanes continued to carry out strikes across Tehran and on other targets in the Islamic Republic. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/mar/24/middle-east-violence-trump-claims-very-good-talks-iran",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-24T12:04:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "59068af457ac8139",
       "title_orig": "Car torched in Antwerp in suspected antisemitic attack, says Belgian official",
       "summary_orig": "BRUSSELS, March 24 - The torching of a car overnight in Antwerp, for which two minors were arrested, is being treated as a suspected antisemitic attack, a Belgian official said on Tuesday.",
@@ -2227,24 +2605,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/iran-united-states-donald-trump-israel-persian-gulf-b2944499.html",
       "source": "The Independent World",
       "published_at": "2026-03-24T11:42:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e3c2809686bde1ea",
-      "title_orig": "Strikes hit Iran, Tehran targets Israel as Marines head towards the Persian Gulf",
-      "summary_orig": "With thousands more U.S. Marines on their way to the Gulf, both sides firing intense barrages and Iran denying any negotiations are taking place, the war’s tempo remains high.",
-      "lang": "en",
-      "title_en": "Strikes hit Iran, Tehran targets Israel as Marines head towards the Persian Gulf",
-      "summary_en": "With thousands more U.S. Marines on their way to the Gulf, both sides firing intense barrages and Iran denying any negotiations are taking place, the war’s tempo remains high.",
-      "title": "Strikes hit Iran, Tehran targets Israel as Marines head towards the Persian Gulf",
-      "summary": "With thousands more U.S. Marines on their way to the Gulf, both sides firing intense barrages and Iran denying any negotiations are taking place, the war’s tempo remains high.",
-      "url": "https://www.pennlive.com/nation-world/2026/03/strikes-hit-iran-tehran-targets-israel-as-marines-head-towards-the-persian-gulf.html",
-      "source": "pennlive.com",
-      "published_at": "2026-03-24T11:39:24+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2605,24 +2965,6 @@
       "url": "https://www.standard.co.uk/news/politics/oil-insider-trading-trump-iran-war-city-israel-b1276163.html",
       "source": "The Standard News",
       "published_at": "2026-03-24T10:11:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0022c1c4e69b15ea",
-      "title_orig": "Tracking international humanitarian law violations in the US-Israel war on Iran",
-      "summary_orig": "Under international law, the decision to wage war and the rules that apply within war are entirely different legal frameworks. The decision to wage war is governed by the United Nations Charter , which prohibits the use of force between states except in self-defence or with Security Council approval. Once a war has started, however, regardless of whether it is lawful or unlawful, defensive or aggressive, the same laws apply. These rules are generally found in the Geneva Conventions and their Additional Protocols and are premised on the notion of ‘equality of belligerents’. The same laws bind every party to the conflict, and even if one party flouts those norms regularly, it does not give the other the right to disregard them. As over 20 countries across continents are now impacted by the illegal war launched by the US and Israel against Iran, with war crimes and crimes against humanity being committed in the course of hostilities, it is difficult to disagree with the notion that this is the original sin from which a multitude of evils flow. Based on the timeline, we asked international law expert Ayesha Malik on how the these events may be assessed under international humanitarian law. Here’s what she had to say. Waging war War has always been used between empires, states and peoples to resolve disputes in the attainment of certain aims. The regulation to resort to force can be traced back to ‘just war’ doctrines found in classical Greek and Roman times, which led to conditions being placed on the launching of war to restrict its prevalence. Under this notion, war could only be launched under the authority of the sovereign; it required just cause (reaction to a prior wrong), and was to be launched with rightful intention (such as doing justice and attaining peace). However, after the rise of the nation-state following the Peace of Westphalia in the seventeenth century, states acquired the right to resort to force or war to pursue their claims or protect their security and interests. International law was generally viewed as indifferent to the use of force by states, so the decision to go to war was not a matter of law, but of expediency, and to be used as an instrument of statecraft. States were still expected to proffer justifications for their actions; however, as they were not viewed as having complete freedom to act, there was no legal norm which prohibited forcible actions. This changed somewhat in the nineteenth century, which saw the first collective security regime in the form of the Concert of Europe (1815-1914), an alliance between the UK, Austria, Russia, Prussia, and France. The Hague Convention I (1907) included a promise by contracting parties “to use their best efforts to ensure the pacific settlement of international disputes”, but there were no legal norms beyond trying their best not to wage war. After World War I, states engaged in efforts to regulate the use of force and serious attempts were made at collective security. The League of Nations (1919-46) created a new world order premised on collective security, the obligation to resolve disputes peacefully, limitations on the right to wage war and collective action against aggression. The Kellogg-Briand Pact (1928) also condemned recourse to war, but only as an instrument of national policy and did not define war. Shortly after the pact, Japan invaded Manchuria in 1931, Italy invaded Abyssinia in 1934, and finally Germany invaded Poland in 1939. After World War II, nations under the guidance of Churchill, Stalin, and Roosevelt adopted the United Nations Charter on June 26, 1945, at the San Francisco Conference. One of the main aims of the drafters of the UN Charter was “to save succeeding generations from the scourge of war”. This was a revolutionary moment in the history of the legal framework governing the use of force. States were giving up their right to use force as a means of asserting or protecting their interests and legal rights, but in return, the UN was to have the power to protect the interests of states in circumstances where force was used against them or where there was a threat to the peace. There are three key provisions which deal with the use of force in the UN Charter: The prohibition on the use of force in Article 2(4) to which there are two exceptions: a. Article 51 acknowledges the inherent rights of states to individual and collective self-defence if an armed attack occurs, b. Article 42 allows the Security Council to authorise the use of force when it considers that there has been a threat to the peace, breach of the peace or act of aggression. There are several contentious areas within the right to launch a war under international law; namely, when can a state do so in anticipation of an armed attack launched against it? When can it do so in response to an armed attack by an armed group, with or without the armed group being linked to a state? And whether force can be used for humanitarian reasons outside these two exceptions? The rest of this piece will only look at the issue of anticipatory self-defence. Anticipatory self-defence The concept of anticipatory self-defence concerns whether a state is allowed to use force to respond to an armed attack which has not yet occurred. This is usually divided into two distinct types: pre-emptive self-defence against armed attacks which are imminent or preventive self-defence against threats which have not yet materialised. While some states believe that preemptive self-defence is allowed, most believe that preventive self-defence is unlawful. The most quoted example for pre-emptive self-defence is Israel’s strike on Iraq’s Osirak nuclear reactor in 1981. At the time, Tel Aviv argued in its report to the Security Council that the reactor was designed to produce atomic bombs, the target for which would have been Israel, and therefore it was exercising its inherent right of self-defence. However, UN Security Council Resolution 487 (1981) condemned Israel’s attack as inconsistent with the UN charter and recognised the right of states to develop their economy and industry for peaceful purposes. The US launched Operation Iraqi Freedom in 2003, resting their legal case on dubious claims, including that of anticipatory self-defence of weapons of mass destruction that the Iraqis did not have, being able to hit Western states in 45 minutes. A legal opinion by the former British Attorney General, Lord Goldsmith, to UK Prime Minister Blair in the lead up to the Iraq invasion noted: “Force may be used in self-defence if there is an actual or imminent threat of an armed attack…The concept of what is imminent may depend on the circumstances. Different considerations may apply, for example, where the risk is of attack from terrorists sponsored or harboured by a particular State, or where there is a threat of attack by nuclear weapons. However, in my opinion, there must be some degree of imminence. I am aware that the USA has been arguing for recognition of a broad doctrine of a right to use force to pre-empt danger in the future. If this means more than a right to respond proportionally to an imminent attack (and I understand that the doctrine is intended to carry that connotation), this is not a doctrine which, in my opinion, exists or is recognised in international law.” Later, the Non-Aligned Movement (a forum of over 120 developing nations) stated in 2016 that they “oppose and condemn any categorisation of countries as good or evil based on unilateral and unjustified criteria, and the adoption of the doctrine of pre-emptive attack, including attack by nuclear weapons by certain States, which is inconsistent with international law…” While some states, the US and Israel in particular, would like to expand the notion of imminence to include the last 47 years and stretch pre-emptive self-defence to include preventive self-defence against some vague future threat, this is not accepted in international law. The strikes against Iran by the US and Israel in February 2026 are manifestly illegal and a clear violation of Article 2(4) of the United Nations Charter. The Western press has already publicised the incorrect claim that Israel and the US are fighting a war of pre-emptive self-defence against Iran. As international law scholar Marko Milanović points out, the use of force against Iran would be lawful only if “(1) Iran had the intent (i.e. its leadership decided) to attack the US/Israel; (2) it had the capability to do so; (3) and it was necessary to use force today, because today would be the last window of opportunity to prevent this future attack”. None of these conditions is met, and the argument for pre-emptive self-defence (even if an argument for pre-emption is accepted, which many states reject) is even weaker, considering President Trump said that the US had “obliterated” Iran’s nuclear capability last year. There is no argument of international law under which these strikes could be lawful, given that there was no imminent armed attack by Iran that was being thwarted. Iran now has the right to self-defence, under Article 51 of the UN Charter, to respond to these attacks. Iran’s right to self-defence Iran’s right to use force in self-defence is only permissible if it complies with the requirements that it is necessary and proportionate. It must be imperative for Iran to use force, and that force must be confined to the purpose of self-defence. In this, the use of force must be the only way to repulse the armed attack against it, and Iran’s response must be proportionate to the attack; it cannot be excessive or even punitive. A key issue when it comes to Iran’s response in self-defence is whether it is lawful for Iran to target the Gulf states . Iran could lawfully strike US bases in the territory of the Gulf states only if it was necessary and proportionate to do so. If US military assets on the territory of Gulf states were not used to attack Tehran, then Iranian strikes against the territorial integrity of those states are not necessary or proportionate to respond to the attacks against them. This is because allowing your territory to be used in launching an armed attack on another state constitutes an act of aggression under Article 3(f) of General Assembly Resolution 3314 . While there is some evidence that Bahrain and Kuwait are now allowing their territory to be used to launch strikes against Iran, it remains to be seen whether they allowed such use before the launch of the first strike against Iran, which would legitimise the Islamic Republic’s use of force as a valid response in self-defence. Book used: Christian Henderson, The Use of Force and International Law (2nd edn, Cambridge University Press 2023). Conduct in war On August 12, 1949, the Geneva Conventions were adopted following the atrocities of World War II. Those conventions were both forward- and backwards-looking — in that they aimed to put an end to the Second World War and prepare for the next one. In 1977, states also signed Additional Protocols I and II , negotiated after the Vietnam War to accommodate the changing nature of warfare. These treaties form a core of the concerted effort to minimise the human suffering and destruction of war and remain applicable today. Cave art from the New Stone Age, around 10,000 years ago, depicts bowmen apparently in conflict. These are our first records of men fighting in groups. Around 1,400 BC, the Egyptians negotiated agreements with the Sumerians as well as other states regarding the treatment of prisoners in war. This proves that we have long recognised that there must be rules even in times of armed conflict. The principles and rules which limit the use of violence during armed conflicts aim to spare those not directly involved in hostilities and limit the effects of violence to the amount necessary for war. It is about diminishing the evils of war as far as military requirements permit. From the ancient Vedic traditions, Sun Tzu’s ‘The Art of War’, Roman law, the Bible, and the Quran, all of these texts include stipulations of what is or is not allowed in war. In the second half of the nineteenth century, the previously common battlefield practices and restrictions, i.e. the customary law of war, began to coalesce into generalised rules, becoming codified and extended by treaties and domestic laws. By the mid-nineteenth century, states began writing codes that became military laws. The first international conference to improve the condition of wounded soldiers was convened in 1864, after which the first Geneva Convention was agreed upon. Since then, the contemporary laws of war have developed along two legal currents: the Geneva and Hague conventions. The former are rules related to the protection of persons not taking part in hostilities, such as the wounded, prisoners of war, and civilians. The latter includes rules prohibiting or limiting the use of specific means and methods of warfare. Cardinal Principles Distinction The laws of armed conflict are applied when there is a “resort to armed force between States or protracted violence between governmental authorities and organised armed groups or between such groups within a State”. Therefore, they apply to interstate as well as civil wars. One of the cardinal principles of the laws of war is that of distinction. This rule states that parties to the conflict shall at all times distinguish between civilians and combatants and between civilian objects and military objectives. Only combatants and military objectives are to be targeted. However, there are certain caveats to the simple statement of this rule. Civilians can be targeted if they directly participate in hostilities as long as they do so. Moreover, combatants who are injured, surrender, or become prisoners of war cannot be targeted. Targeting Ayatollah Khamenei: On the first day of the US-Israel war with Iran, the Israelis targeted Supreme Leader Ayatollah Khamenei. The laws of war allow for the targeting of commanders or civilians directly participating in hostilities. Given the Supreme Leader exercises “supreme command of the armed forces” under Article 110(4) of Iran’s Constitution according to which he is authorised to appoint, dismiss, and accept the resignation of the chief of the joint (general) staff, the IRGC commander, and the commanders of the armed forces, he may be a lawful target in the conduct of hostilities. However, his family members were not lawful targets, and their deaths would have to be taken into account as ‘collateral damage’ in determining the proportionality of the strike. Attacks on Oil Refineries: The definition of military objective has been subject to debate. The law defines military objectives as “those objects which by their nature, location, purpose or use make an effective contribution to military action and whose total or partial destruction, capture or neutralisation, in the circumstances ruling at the time, offers a definite military advantage”. This generally includes armaments factories, missile depots and command centres; however, it can also include bridges if they are used to supply troops to the front line and hills if they offer a vantage point of high ground. Even hospitals can become a legitimate target if they are used to commit acts harmful to the enemy, though the opposing party must give a warning before attacking a hospital. The position of the US has been that military objectives include ‘war sustaining’ objectives, as the military advantage comes from the revenues which allow them to support their military operations. This renders the US targeting of oil tankers and cash stockpiles in its war against ISIS lawful. This interpretation has been contested and criticised. Legal scholar Marty Lederman, for instance, asks whether this approach would allow a state at war with the US to “target Apple headquarters, or various other tax-generating operations in Silicon Valley”. The US and Israel have also targeted oil production sites in this armed conflict, as has Iran . However, it is unclear whether oil fields in Iran or in the Gulf states were used to ‘sustain’ any armed conflict. Therefore, these strikes are likely unlawful even under the wide American definition of military objectives. Proportionality The principle of proportionality provides that the amount of ‘collateral damage’ must be weighed against the military advantage anticipated from an attack. The law itself defines an indiscriminate attack as an “attack which may be expected to cause incidental loss of civilian life, injury to civilians, damage to civilian objects, or a combination thereof, which would be excessive in relation to the concrete and direct military advantage anticipated”. A key issue with this principle is the inherent difficulty of weighing civilian life in exchange for military advantage and whether they can, in fact, be balanced at all. While many human rights reports, in particular, simply determine an attack to be disproportionate due to the civilian lives lost, that is not an adequate way to gauge the legality or otherwise of an attack. As military lawyers have stated, “I have approved targets that could have caused 3,000 civilian casualties, and I’ve raised questions about targets predicted to risk fewer than 200 civilian lives. The issue is about the importance of the target.” However, the importance of the target itself may be subjectively determined, with the importance of the military advantage to be gained being overblown, thereby undermining the calculation made. Precaution The principle of precaution requires that feasible measures be taken to ensure that civilians or civilian objects are not being attacked. If a range of options is available, for instance, in destroying a railway line, it would be preferable to destroy the line in the countryside as opposed to in the city, if this is feasible. Additionally, the attacking state must take precautions in choosing weapons and tactics to minimise incidental injury and collateral damage and select military objectives among those giving similar military advantage expected to cause the least danger to civilian lives or objects. This principle also obliges parties to endeavour to give a warning, if feasible, to civilians who may be affected by an attack. However, compliance with the principle of precaution does not mean that any of the other obligations (of distinction and proportionality) are lessened in any way. Israel has in the past issued warnings before air strikes through phone calls, text messages or ‘knocks on the roof’. In doing so, Israel argues that it is abiding by international law. It is contended, however, that giving warnings to civilians who, in practice, have no means to leave may not, in fact, comply with this cardinal principle. The Minab school strike: On February 28, the US struck an Iranian school in Minab with Tomahawk missiles, resulting in the death of some 175 civilians, many of them children. As Marko Milanović notes , even if the attack was a ‘mistake’ due to overreliance on AI, the US has violated the principle of precaution under which everything feasible should have been done to verify that the school building was a military objective. He further states that “if journalists using only open access sources could relatively quickly establish what went wrong, and trace the separation of the school from the wider IRGC compound, I’m pretty sure that the US officers, with all the tools at their disposal, could have done the same before launching this attack”. Book used: Gary D Solis, The Law of Armed Conflict: International Humanitarian Law in War (Cambridge University Press, 2010). Header image: Firefighters work to put out a fire on a car at a site impacted by a projectile during the US-Israel war on Iran. — Reuters",
-      "lang": "en",
-      "title_en": "Tracking international humanitarian law violations in the US-Israel war on Iran",
-      "summary_en": "Under international law, the decision to wage war and the rules that apply within war are entirely different legal frameworks. The decision to wage war is governed by the United Nations Charter , which prohibits the use of force between states except in self-defence or with Security Council approval. Once a war has started, however, regardless of whether it is lawful or unlawful, defensive or aggressive, the same laws apply. These rules are generally found in the Geneva Conventions and their Additional Protocols and are premised on the notion of ‘equality of belligerents’. The same laws bind every party to the conflict, and even if one party flouts those norms regularly, it does not give the other the right to disregard them. As over 20 countries across continents are now impacted by the illegal war launched by the US and Israel against Iran, with war crimes and crimes against humanity being committed in the course of hostilities, it is difficult to disagree with the notion that this is the original sin from which a multitude of evils flow. Based on the timeline, we asked international law expert Ayesha Malik on how the these events may be assessed under international humanitarian law. Here’s what she had to say. Waging war War has always been used between empires, states and peoples to resolve disputes in the attainment of certain aims. The regulation to resort to force can be traced back to ‘just war’ doctrines found in classical Greek and Roman times, which led to conditions being placed on the launching of war to restrict its prevalence. Under this notion, war could only be launched under the authority of the sovereign; it required just cause (reaction to a prior wrong), and was to be launched with rightful intention (such as doing justice and attaining peace). However, after the rise of the nation-state following the Peace of Westphalia in the seventeenth century, states acquired the right to resort to force or war to pursue their claims or protect their security and interests. International law was generally viewed as indifferent to the use of force by states, so the decision to go to war was not a matter of law, but of expediency, and to be used as an instrument of statecraft. States were still expected to proffer justifications for their actions; however, as they were not viewed as having complete freedom to act, there was no legal norm which prohibited forcible actions. This changed somewhat in the nineteenth century, which saw the first collective security regime in the form of the Concert of Europe (1815-1914), an alliance between the UK, Austria, Russia, Prussia, and France. The Hague Convention I (1907) included a promise by contracting parties “to use their best efforts to ensure the pacific settlement of international disputes”, but there were no legal norms beyond trying their best not to wage war. After World War I, states engaged in efforts to regulate the use of force and serious attempts were made at collective security. The League of Nations (1919-46) created a new world order premised on collective security, the obligation to resolve disputes peacefully, limitations on the right to wage war and collective action against aggression. The Kellogg-Briand Pact (1928) also condemned recourse to war, but only as an instrument of national policy and did not define war. Shortly after the pact, Japan invaded Manchuria in 1931, Italy invaded Abyssinia in 1934, and finally Germany invaded Poland in 1939. After World War II, nations under the guidance of Churchill, Stalin, and Roosevelt adopted the United Nations Charter on June 26, 1945, at the San Francisco Conference. One of the main aims of the drafters of the UN Charter was “to save succeeding generations from the scourge of war”. This was a revolutionary moment in the history of the legal framework governing the use of force. States were giving up their right to use force as a means of asserting or protecting their interests and legal rights, but in return, the UN was to have the power to protect the interests of states in circumstances where force was used against them or where there was a threat to the peace. There are three key provisions which deal with the use of force in the UN Charter: The prohibition on the use of force in Article 2(4) to which there are two exceptions: a. Article 51 acknowledges the inherent rights of states to individual and collective self-defence if an armed attack occurs, b. Article 42 allows the Security Council to authorise the use of force when it considers that there has been a threat to the peace, breach of the peace or act of aggression. There are several contentious areas within the right to launch a war under international law; namely, when can a state do so in anticipation of an armed attack launched against it? When can it do so in response to an armed attack by an armed group, with or without the armed group being linked to a state? And whether force can be used for humanitarian reasons outside these two exceptions? The rest of this piece will only look at the issue of anticipatory self-defence. Anticipatory self-defence The concept of anticipatory self-defence concerns whether a state is allowed to use force to respond to an armed attack which has not yet occurred. This is usually divided into two distinct types: pre-emptive self-defence against armed attacks which are imminent or preventive self-defence against threats which have not yet materialised. While some states believe that preemptive self-defence is allowed, most believe that preventive self-defence is unlawful. The most quoted example for pre-emptive self-defence is Israel’s strike on Iraq’s Osirak nuclear reactor in 1981. At the time, Tel Aviv argued in its report to the Security Council that the reactor was designed to produce atomic bombs, the target for which would have been Israel, and therefore it was exercising its inherent right of self-defence. However, UN Security Council Resolution 487 (1981) condemned Israel’s attack as inconsistent with the UN charter and recognised the right of states to develop their economy and industry for peaceful purposes. The US launched Operation Iraqi Freedom in 2003, resting their legal case on dubious claims, including that of anticipatory self-defence of weapons of mass destruction that the Iraqis did not have, being able to hit Western states in 45 minutes. A legal opinion by the former British Attorney General, Lord Goldsmith, to UK Prime Minister Blair in the lead up to the Iraq invasion noted: “Force may be used in self-defence if there is an actual or imminent threat of an armed attack…The concept of what is imminent may depend on the circumstances. Different considerations may apply, for example, where the risk is of attack from terrorists sponsored or harboured by a particular State, or where there is a threat of attack by nuclear weapons. However, in my opinion, there must be some degree of imminence. I am aware that the USA has been arguing for recognition of a broad doctrine of a right to use force to pre-empt danger in the future. If this means more than a right to respond proportionally to an imminent attack (and I understand that the doctrine is intended to carry that connotation), this is not a doctrine which, in my opinion, exists or is recognised in international law.” Later, the Non-Aligned Movement (a forum of over 120 developing nations) stated in 2016 that they “oppose and condemn any categorisation of countries as good or evil based on unilateral and unjustified criteria, and the adoption of the doctrine of pre-emptive attack, including attack by nuclear weapons by certain States, which is inconsistent with international law…” While some states, the US and Israel in particular, would like to expand the notion of imminence to include the last 47 years and stretch pre-emptive self-defence to include preventive self-defence against some vague future threat, this is not accepted in international law. The strikes against Iran by the US and Israel in February 2026 are manifestly illegal and a clear violation of Article 2(4) of the United Nations Charter. The Western press has already publicised the incorrect claim that Israel and the US are fighting a war of pre-emptive self-defence against Iran. As international law scholar Marko Milanović points out, the use of force against Iran would be lawful only if “(1) Iran had the intent (i.e. its leadership decided) to attack the US/Israel; (2) it had the capability to do so; (3) and it was necessary to use force today, because today would be the last window of opportunity to prevent this future attack”. None of these conditions is met, and the argument for pre-emptive self-defence (even if an argument for pre-emption is accepted, which many states reject) is even weaker, considering President Trump said that the US had “obliterated” Iran’s nuclear capability last year. There is no argument of international law under which these strikes could be lawful, given that there was no imminent armed attack by Iran that was being thwarted. Iran now has the right to self-defence, under Article 51 of the UN Charter, to respond to these attacks. Iran’s right to self-defence Iran’s right to use force in self-defence is only permissible if it complies with the requirements that it is necessary and proportionate. It must be imperative for Iran to use force, and that force must be confined to the purpose of self-defence. In this, the use of force must be the only way to repulse the armed attack against it, and Iran’s response must be proportionate to the attack; it cannot be excessive or even punitive. A key issue when it comes to Iran’s response in self-defence is whether it is lawful for Iran to target the Gulf states . Iran could lawfully strike US bases in the territory of the Gulf states only if it was necessary and proportionate to do so. If US military assets on the territory of Gulf states were not used to attack Tehran, then Iranian strikes against the territorial integrity of those states are not necessary or proportionate to respond to the attacks against them. This is because allowing your territory to be used in launching an armed attack on another state constitutes an act of aggression under Article 3(f) of General Assembly Resolution 3314 . While there is some evidence that Bahrain and Kuwait are now allowing their territory to be used to launch strikes against Iran, it remains to be seen whether they allowed such use before the launch of the first strike against Iran, which would legitimise the Islamic Republic’s use of force as a valid response in self-defence. Book used: Christian Henderson, The Use of Force and International Law (2nd edn, Cambridge University Press 2023). Conduct in war On August 12, 1949, the Geneva Conventions were adopted following the atrocities of World War II. Those conventions were both forward- and backwards-looking — in that they aimed to put an end to the Second World War and prepare for the next one. In 1977, states also signed Additional Protocols I and II , negotiated after the Vietnam War to accommodate the changing nature of warfare. These treaties form a core of the concerted effort to minimise the human suffering and destruction of war and remain applicable today. Cave art from the New Stone Age, around 10,000 years ago, depicts bowmen apparently in conflict. These are our first records of men fighting in groups. Around 1,400 BC, the Egyptians negotiated agreements with the Sumerians as well as other states regarding the treatment of prisoners in war. This proves that we have long recognised that there must be rules even in times of armed conflict. The principles and rules which limit the use of violence during armed conflicts aim to spare those not directly involved in hostilities and limit the effects of violence to the amount necessary for war. It is about diminishing the evils of war as far as military requirements permit. From the ancient Vedic traditions, Sun Tzu’s ‘The Art of War’, Roman law, the Bible, and the Quran, all of these texts include stipulations of what is or is not allowed in war. In the second half of the nineteenth century, the previously common battlefield practices and restrictions, i.e. the customary law of war, began to coalesce into generalised rules, becoming codified and extended by treaties and domestic laws. By the mid-nineteenth century, states began writing codes that became military laws. The first international conference to improve the condition of wounded soldiers was convened in 1864, after which the first Geneva Convention was agreed upon. Since then, the contemporary laws of war have developed along two legal currents: the Geneva and Hague conventions. The former are rules related to the protection of persons not taking part in hostilities, such as the wounded, prisoners of war, and civilians. The latter includes rules prohibiting or limiting the use of specific means and methods of warfare. Cardinal Principles Distinction The laws of armed conflict are applied when there is a “resort to armed force between States or protracted violence between governmental authorities and organised armed groups or between such groups within a State”. Therefore, they apply to interstate as well as civil wars. One of the cardinal principles of the laws of war is that of distinction. This rule states that parties to the conflict shall at all times distinguish between civilians and combatants and between civilian objects and military objectives. Only combatants and military objectives are to be targeted. However, there are certain caveats to the simple statement of this rule. Civilians can be targeted if they directly participate in hostilities as long as they do so. Moreover, combatants who are injured, surrender, or become prisoners of war cannot be targeted. Targeting Ayatollah Khamenei: On the first day of the US-Israel war with Iran, the Israelis targeted Supreme Leader Ayatollah Khamenei. The laws of war allow for the targeting of commanders or civilians directly participating in hostilities. Given the Supreme Leader exercises “supreme command of the armed forces” under Article 110(4) of Iran’s Constitution according to which he is authorised to appoint, dismiss, and accept the resignation of the chief of the joint (general) staff, the IRGC commander, and the commanders of the armed forces, he may be a lawful target in the conduct of hostilities. However, his family members were not lawful targets, and their deaths would have to be taken into account as ‘collateral damage’ in determining the proportionality of the strike. Attacks on Oil Refineries: The definition of military objective has been subject to debate. The law defines military objectives as “those objects which by their nature, location, purpose or use make an effective contribution to military action and whose total or partial destruction, capture or neutralisation, in the circumstances ruling at the time, offers a definite military advantage”. This generally includes armaments factories, missile depots and command centres; however, it can also include bridges if they are used to supply troops to the front line and hills if they offer a vantage point of high ground. Even hospitals can become a legitimate target if they are used to commit acts harmful to the enemy, though the opposing party must give a warning before attacking a hospital. The position of the US has been that military objectives include ‘war sustaining’ objectives, as the military advantage comes from the revenues which allow them to support their military operations. This renders the US targeting of oil tankers and cash stockpiles in its war against ISIS lawful. This interpretation has been contested and criticised. Legal scholar Marty Lederman, for instance, asks whether this approach would allow a state at war with the US to “target Apple headquarters, or various other tax-generating operations in Silicon Valley”. The US and Israel have also targeted oil production sites in this armed conflict, as has Iran . However, it is unclear whether oil fields in Iran or in the Gulf states were used to ‘sustain’ any armed conflict. Therefore, these strikes are likely unlawful even under the wide American definition of military objectives. Proportionality The principle of proportionality provides that the amount of ‘collateral damage’ must be weighed against the military advantage anticipated from an attack. The law itself defines an indiscriminate attack as an “attack which may be expected to cause incidental loss of civilian life, injury to civilians, damage to civilian objects, or a combination thereof, which would be excessive in relation to the concrete and direct military advantage anticipated”. A key issue with this principle is the inherent difficulty of weighing civilian life in exchange for military advantage and whether they can, in fact, be balanced at all. While many human rights reports, in particular, simply determine an attack to be disproportionate due to the civilian lives lost, that is not an adequate way to gauge the legality or otherwise of an attack. As military lawyers have stated, “I have approved targets that could have caused 3,000 civilian casualties, and I’ve raised questions about targets predicted to risk fewer than 200 civilian lives. The issue is about the importance of the target.” However, the importance of the target itself may be subjectively determined, with the importance of the military advantage to be gained being overblown, thereby undermining the calculation made. Precaution The principle of precaution requires that feasible measures be taken to ensure that civilians or civilian objects are not being attacked. If a range of options is available, for instance, in destroying a railway line, it would be preferable to destroy the line in the countryside as opposed to in the city, if this is feasible. Additionally, the attacking state must take precautions in choosing weapons and tactics to minimise incidental injury and collateral damage and select military objectives among those giving similar military advantage expected to cause the least danger to civilian lives or objects. This principle also obliges parties to endeavour to give a warning, if feasible, to civilians who may be affected by an attack. However, compliance with the principle of precaution does not mean that any of the other obligations (of distinction and proportionality) are lessened in any way. Israel has in the past issued warnings before air strikes through phone calls, text messages or ‘knocks on the roof’. In doing so, Israel argues that it is abiding by international law. It is contended, however, that giving warnings to civilians who, in practice, have no means to leave may not, in fact, comply with this cardinal principle. The Minab school strike: On February 28, the US struck an Iranian school in Minab with Tomahawk missiles, resulting in the death of some 175 civilians, many of them children. As Marko Milanović notes , even if the attack was a ‘mistake’ due to overreliance on AI, the US has violated the principle of precaution under which everything feasible should have been done to verify that the school building was a military objective. He further states that “if journalists using only open access sources could relatively quickly establish what went wrong, and trace the separation of the school from the wider IRGC compound, I’m pretty sure that the US officers, with all the tools at their disposal, could have done the same before launching this attack”. Book used: Gary D Solis, The Law of Armed Conflict: International Humanitarian Law in War (Cambridge University Press, 2010). Header image: Firefighters work to put out a fire on a car at a site impacted by a projectile during the US-Israel war on Iran. — Reuters",
-      "title": "Tracking international humanitarian law violations in the US-Israel war on Iran",
-      "summary": "Under international law, the decision to wage war and the rules that apply within war are entirely different legal frameworks. The decision to wage war is governed by the United Nations Charter , which prohibits the use of force between states except in self-defence or with Security Council approval. Once a war has started, however, regardless of whether it is lawful or unlawful, defensive or aggressive, the same laws apply. These rules are generally found in the Geneva Conventions and their Additional Protocols and are premised on the notion of ‘equality of belligerents’. The same laws bind every party to the conflict, and even if one party flouts those norms regularly, it does not give the other the right to disregard them. As over 20 countries across continents are now impacted by the illegal war launched by the US and Israel against Iran, with war crimes and crimes against humanity being committed in the course of hostilities, it is difficult to disagree with the notion that this is the original sin from which a multitude of evils flow. Based on the timeline, we asked international law expert Ayesha Malik on how the these events may be assessed under international humanitarian law. Here’s what she had to say. Waging war War has always been used between empires, states and peoples to resolve disputes in the attainment of certain aims. The regulation to resort to force can be traced back to ‘just war’ doctrines found in classical Greek and Roman times, which led to conditions being placed on the launching of war to restrict its prevalence. Under this notion, war could only be launched under the authority of the sovereign; it required just cause (reaction to a prior wrong), and was to be launched with rightful intention (such as doing justice and attaining peace). However, after the rise of the nation-state following the Peace of Westphalia in the seventeenth century, states acquired the right to resort to force or war to pursue their claims or protect their security and interests. International law was generally viewed as indifferent to the use of force by states, so the decision to go to war was not a matter of law, but of expediency, and to be used as an instrument of statecraft. States were still expected to proffer justifications for their actions; however, as they were not viewed as having complete freedom to act, there was no legal norm which prohibited forcible actions. This changed somewhat in the nineteenth century, which saw the first collective security regime in the form of the Concert of Europe (1815-1914), an alliance between the UK, Austria, Russia, Prussia, and France. The Hague Convention I (1907) included a promise by contracting parties “to use their best efforts to ensure the pacific settlement of international disputes”, but there were no legal norms beyond trying their best not to wage war. After World War I, states engaged in efforts to regulate the use of force and serious attempts were made at collective security. The League of Nations (1919-46) created a new world order premised on collective security, the obligation to resolve disputes peacefully, limitations on the right to wage war and collective action against aggression. The Kellogg-Briand Pact (1928) also condemned recourse to war, but only as an instrument of national policy and did not define war. Shortly after the pact, Japan invaded Manchuria in 1931, Italy invaded Abyssinia in 1934, and finally Germany invaded Poland in 1939. After World War II, nations under the guidance of Churchill, Stalin, and Roosevelt adopted the United Nations Charter on June 26, 1945, at the San Francisco Conference. One of the main aims of the drafters of the UN Charter was “to save succeeding generations from the scourge of war”. This was a revolutionary moment in the history of the legal framework governing the use of force. States were giving up their right to use force as a means of asserting or protecting their interests and legal rights, but in return, the UN was to have the power to protect the interests of states in circumstances where force was used against them or where there was a threat to the peace. There are three key provisions which deal with the use of force in the UN Charter: The prohibition on the use of force in Article 2(4) to which there are two exceptions: a. Article 51 acknowledges the inherent rights of states to individual and collective self-defence if an armed attack occurs, b. Article 42 allows the Security Council to authorise the use of force when it considers that there has been a threat to the peace, breach of the peace or act of aggression. There are several contentious areas within the right to launch a war under international law; namely, when can a state do so in anticipation of an armed attack launched against it? When can it do so in response to an armed attack by an armed group, with or without the armed group being linked to a state? And whether force can be used for humanitarian reasons outside these two exceptions? The rest of this piece will only look at the issue of anticipatory self-defence. Anticipatory self-defence The concept of anticipatory self-defence concerns whether a state is allowed to use force to respond to an armed attack which has not yet occurred. This is usually divided into two distinct types: pre-emptive self-defence against armed attacks which are imminent or preventive self-defence against threats which have not yet materialised. While some states believe that preemptive self-defence is allowed, most believe that preventive self-defence is unlawful. The most quoted example for pre-emptive self-defence is Israel’s strike on Iraq’s Osirak nuclear reactor in 1981. At the time, Tel Aviv argued in its report to the Security Council that the reactor was designed to produce atomic bombs, the target for which would have been Israel, and therefore it was exercising its inherent right of self-defence. However, UN Security Council Resolution 487 (1981) condemned Israel’s attack as inconsistent with the UN charter and recognised the right of states to develop their economy and industry for peaceful purposes. The US launched Operation Iraqi Freedom in 2003, resting their legal case on dubious claims, including that of anticipatory self-defence of weapons of mass destruction that the Iraqis did not have, being able to hit Western states in 45 minutes. A legal opinion by the former British Attorney General, Lord Goldsmith, to UK Prime Minister Blair in the lead up to the Iraq invasion noted: “Force may be used in self-defence if there is an actual or imminent threat of an armed attack…The concept of what is imminent may depend on the circumstances. Different considerations may apply, for example, where the risk is of attack from terrorists sponsored or harboured by a particular State, or where there is a threat of attack by nuclear weapons. However, in my opinion, there must be some degree of imminence. I am aware that the USA has been arguing for recognition of a broad doctrine of a right to use force to pre-empt danger in the future. If this means more than a right to respond proportionally to an imminent attack (and I understand that the doctrine is intended to carry that connotation), this is not a doctrine which, in my opinion, exists or is recognised in international law.” Later, the Non-Aligned Movement (a forum of over 120 developing nations) stated in 2016 that they “oppose and condemn any categorisation of countries as good or evil based on unilateral and unjustified criteria, and the adoption of the doctrine of pre-emptive attack, including attack by nuclear weapons by certain States, which is inconsistent with international law…” While some states, the US and Israel in particular, would like to expand the notion of imminence to include the last 47 years and stretch pre-emptive self-defence to include preventive self-defence against some vague future threat, this is not accepted in international law. The strikes against Iran by the US and Israel in February 2026 are manifestly illegal and a clear violation of Article 2(4) of the United Nations Charter. The Western press has already publicised the incorrect claim that Israel and the US are fighting a war of pre-emptive self-defence against Iran. As international law scholar Marko Milanović points out, the use of force against Iran would be lawful only if “(1) Iran had the intent (i.e. its leadership decided) to attack the US/Israel; (2) it had the capability to do so; (3) and it was necessary to use force today, because today would be the last window of opportunity to prevent this future attack”. None of these conditions is met, and the argument for pre-emptive self-defence (even if an argument for pre-emption is accepted, which many states reject) is even weaker, considering President Trump said that the US had “obliterated” Iran’s nuclear capability last year. There is no argument of international law under which these strikes could be lawful, given that there was no imminent armed attack by Iran that was being thwarted. Iran now has the right to self-defence, under Article 51 of the UN Charter, to respond to these attacks. Iran’s right to self-defence Iran’s right to use force in self-defence is only permissible if it complies with the requirements that it is necessary and proportionate. It must be imperative for Iran to use force, and that force must be confined to the purpose of self-defence. In this, the use of force must be the only way to repulse the armed attack against it, and Iran’s response must be proportionate to the attack; it cannot be excessive or even punitive. A key issue when it comes to Iran’s response in self-defence is whether it is lawful for Iran to target the Gulf states . Iran could lawfully strike US bases in the territory of the Gulf states only if it was necessary and proportionate to do so. If US military assets on the territory of Gulf states were not used to attack Tehran, then Iranian strikes against the territorial integrity of those states are not necessary or proportionate to respond to the attacks against them. This is because allowing your territory to be used in launching an armed attack on another state constitutes an act of aggression under Article 3(f) of General Assembly Resolution 3314 . While there is some evidence that Bahrain and Kuwait are now allowing their territory to be used to launch strikes against Iran, it remains to be seen whether they allowed such use before the launch of the first strike against Iran, which would legitimise the Islamic Republic’s use of force as a valid response in self-defence. Book used: Christian Henderson, The Use of Force and International Law (2nd edn, Cambridge University Press 2023). Conduct in war On August 12, 1949, the Geneva Conventions were adopted following the atrocities of World War II. Those conventions were both forward- and backwards-looking — in that they aimed to put an end to the Second World War and prepare for the next one. In 1977, states also signed Additional Protocols I and II , negotiated after the Vietnam War to accommodate the changing nature of warfare. These treaties form a core of the concerted effort to minimise the human suffering and destruction of war and remain applicable today. Cave art from the New Stone Age, around 10,000 years ago, depicts bowmen apparently in conflict. These are our first records of men fighting in groups. Around 1,400 BC, the Egyptians negotiated agreements with the Sumerians as well as other states regarding the treatment of prisoners in war. This proves that we have long recognised that there must be rules even in times of armed conflict. The principles and rules which limit the use of violence during armed conflicts aim to spare those not directly involved in hostilities and limit the effects of violence to the amount necessary for war. It is about diminishing the evils of war as far as military requirements permit. From the ancient Vedic traditions, Sun Tzu’s ‘The Art of War’, Roman law, the Bible, and the Quran, all of these texts include stipulations of what is or is not allowed in war. In the second half of the nineteenth century, the previously common battlefield practices and restrictions, i.e. the customary law of war, began to coalesce into generalised rules, becoming codified and extended by treaties and domestic laws. By the mid-nineteenth century, states began writing codes that became military laws. The first international conference to improve the condition of wounded soldiers was convened in 1864, after which the first Geneva Convention was agreed upon. Since then, the contemporary laws of war have developed along two legal currents: the Geneva and Hague conventions. The former are rules related to the protection of persons not taking part in hostilities, such as the wounded, prisoners of war, and civilians. The latter includes rules prohibiting or limiting the use of specific means and methods of warfare. Cardinal Principles Distinction The laws of armed conflict are applied when there is a “resort to armed force between States or protracted violence between governmental authorities and organised armed groups or between such groups within a State”. Therefore, they apply to interstate as well as civil wars. One of the cardinal principles of the laws of war is that of distinction. This rule states that parties to the conflict shall at all times distinguish between civilians and combatants and between civilian objects and military objectives. Only combatants and military objectives are to be targeted. However, there are certain caveats to the simple statement of this rule. Civilians can be targeted if they directly participate in hostilities as long as they do so. Moreover, combatants who are injured, surrender, or become prisoners of war cannot be targeted. Targeting Ayatollah Khamenei: On the first day of the US-Israel war with Iran, the Israelis targeted Supreme Leader Ayatollah Khamenei. The laws of war allow for the targeting of commanders or civilians directly participating in hostilities. Given the Supreme Leader exercises “supreme command of the armed forces” under Article 110(4) of Iran’s Constitution according to which he is authorised to appoint, dismiss, and accept the resignation of the chief of the joint (general) staff, the IRGC commander, and the commanders of the armed forces, he may be a lawful target in the conduct of hostilities. However, his family members were not lawful targets, and their deaths would have to be taken into account as ‘collateral damage’ in determining the proportionality of the strike. Attacks on Oil Refineries: The definition of military objective has been subject to debate. The law defines military objectives as “those objects which by their nature, location, purpose or use make an effective contribution to military action and whose total or partial destruction, capture or neutralisation, in the circumstances ruling at the time, offers a definite military advantage”. This generally includes armaments factories, missile depots and command centres; however, it can also include bridges if they are used to supply troops to the front line and hills if they offer a vantage point of high ground. Even hospitals can become a legitimate target if they are used to commit acts harmful to the enemy, though the opposing party must give a warning before attacking a hospital. The position of the US has been that military objectives include ‘war sustaining’ objectives, as the military advantage comes from the revenues which allow them to support their military operations. This renders the US targeting of oil tankers and cash stockpiles in its war against ISIS lawful. This interpretation has been contested and criticised. Legal scholar Marty Lederman, for instance, asks whether this approach would allow a state at war with the US to “target Apple headquarters, or various other tax-generating operations in Silicon Valley”. The US and Israel have also targeted oil production sites in this armed conflict, as has Iran . However, it is unclear whether oil fields in Iran or in the Gulf states were used to ‘sustain’ any armed conflict. Therefore, these strikes are likely unlawful even under the wide American definition of military objectives. Proportionality The principle of proportionality provides that the amount of ‘collateral damage’ must be weighed against the military advantage anticipated from an attack. The law itself defines an indiscriminate attack as an “attack which may be expected to cause incidental loss of civilian life, injury to civilians, damage to civilian objects, or a combination thereof, which would be excessive in relation to the concrete and direct military advantage anticipated”. A key issue with this principle is the inherent difficulty of weighing civilian life in exchange for military advantage and whether they can, in fact, be balanced at all. While many human rights reports, in particular, simply determine an attack to be disproportionate due to the civilian lives lost, that is not an adequate way to gauge the legality or otherwise of an attack. As military lawyers have stated, “I have approved targets that could have caused 3,000 civilian casualties, and I’ve raised questions about targets predicted to risk fewer than 200 civilian lives. The issue is about the importance of the target.” However, the importance of the target itself may be subjectively determined, with the importance of the military advantage to be gained being overblown, thereby undermining the calculation made. Precaution The principle of precaution requires that feasible measures be taken to ensure that civilians or civilian objects are not being attacked. If a range of options is available, for instance, in destroying a railway line, it would be preferable to destroy the line in the countryside as opposed to in the city, if this is feasible. Additionally, the attacking state must take precautions in choosing weapons and tactics to minimise incidental injury and collateral damage and select military objectives among those giving similar military advantage expected to cause the least danger to civilian lives or objects. This principle also obliges parties to endeavour to give a warning, if feasible, to civilians who may be affected by an attack. However, compliance with the principle of precaution does not mean that any of the other obligations (of distinction and proportionality) are lessened in any way. Israel has in the past issued warnings before air strikes through phone calls, text messages or ‘knocks on the roof’. In doing so, Israel argues that it is abiding by international law. It is contended, however, that giving warnings to civilians who, in practice, have no means to leave may not, in fact, comply with this cardinal principle. The Minab school strike: On February 28, the US struck an Iranian school in Minab with Tomahawk missiles, resulting in the death of some 175 civilians, many of them children. As Marko Milanović notes , even if the attack was a ‘mistake’ due to overreliance on AI, the US has violated the principle of precaution under which everything feasible should have been done to verify that the school building was a military objective. He further states that “if journalists using only open access sources could relatively quickly establish what went wrong, and trace the separation of the school from the wider IRGC compound, I’m pretty sure that the US officers, with all the tools at their disposal, could have done the same before launching this attack”. Book used: Gary D Solis, The Law of Armed Conflict: International Humanitarian Law in War (Cambridge University Press, 2010). Header image: Firefighters work to put out a fire on a car at a site impacted by a projectile during the US-Israel war on Iran. — Reuters",
-      "url": "https://www.dawn.com/news/1984584/tracking-international-humanitarian-law-violations-in-the-us-israel-war-on-iran",
-      "source": "Dawn - Home",
-      "published_at": "2026-03-24T10:10:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3091,24 +3433,6 @@
       "geo": {}
     },
     {
-      "id": "da3c3fc7ce95c3c4",
-      "title_orig": "Teenage girl hospitalised after shocking beachside attack filmed",
-      "summary_orig": "A 14-year-old girl is speaking out against bullying after she was hospitalised with injuries sustained in a beachside attack.",
-      "lang": "en",
-      "title_en": "Teenage girl hospitalised after shocking beachside attack filmed",
-      "summary_en": "A 14-year-old girl is speaking out against bullying after she was hospitalised with injuries sustained in a beachside attack.",
-      "title": "Teenage girl hospitalised after shocking beachside attack filmed",
-      "summary": "A 14-year-old girl is speaking out against bullying after she was hospitalised with injuries sustained in a beachside attack.",
-      "url": "https://www.abc.net.au/news/2026-03-24/teenage-girl-attack-kiama/106492232",
-      "source": "Just In",
-      "published_at": "2026-03-24T06:43:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "18ba0b5c558ad53b",
       "title_orig": "Overseas monitors struggle to track Iran’s war casualty figures",
       "summary_orig": "Iran has not updated its official death toll figures for weeks, while human rights groups outside the country are struggling with chronic communication problems, meaning the number of people killed during the war remains largely unknown.\nThe last time Iran’s health ministry gave a full update about casualties was on March 8, the ninth day of the conflict, when it said around 1,200 civilians had been killed in US and Israeli air strikes across the country.\nOverseas human rights groups have long...",
@@ -3152,51 +3476,6 @@
         "lat": 51.47,
         "lon": -0.4543
       }
-    },
-    {
-      "id": "7616c255b5cdd4b9",
-      "title_orig": "Tuesday briefing: With the horror of conflict throughout the globe, how likely is world war three?",
-      "summary_orig": "In today’s newsletter: Our diplomatic editor on how global instability feeds into conflict in so many parts of the world, and whether the threshold for a major global war has been met Good morning. The world is at war. From the trenches of eastern Ukraine to the missile-streaked skies of the Gulf, a growing proportion of humanity is living under the horror of conflict. For some observers, there are gnawing fears that the worst is yet to come. The apparent collapse of the rules-based international order, the irrelevance of institutions designed to uphold it, and the interconnectedness of the fighting have sparked warnings that we could be at the beginning of a third world war. Indeed, half of Britons polled in a recent YouGov survey thought world war three was likely in the next five to 10 years. On Monday, Donald Trump stepped back from deepening the US and Israel’s war with Iran, announcing that he would postpone military strikes on Iranian power plants for a five-day period after “very good and productive conversations” about the end to the fighting. Iran denied this version of events, claiming Trump had been scared off by their threats of attacks on water infrastructure in the Gulf. But, despite calmer stock markets and a sharp drop in the oil price, there is little sign that the fighting is near an end. Middle East | The Israeli military said it had launched a new wave of strikes on Tehran, after Donald Trump signalled a pause in US attacks against energy infrastructure after what he said were productive talks with Iran. UK Politics | Ministers are looking at providing support for household bills next winter, Keir Starmer said, as he suggested the energy price shock unleashed by the Iran conflict could continue for months to come . London | Security agencies are investigating whether a group linked to Iran is behind an arson attack on four ambulances belonging to a Jewish charity in north London. Climate crisis | More countries will face critical food insecurity if world heats up by 2C, analysis shows. New York | The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York’s LaGuardia airport. Continue reading...",
-      "lang": "en",
-      "title_en": "Tuesday briefing: With the horror of conflict throughout the globe, how likely is world war three?",
-      "summary_en": "In today’s newsletter: Our diplomatic editor on how global instability feeds into conflict in so many parts of the world, and whether the threshold for a major global war has been met Good morning. The world is at war. From the trenches of eastern Ukraine to the missile-streaked skies of the Gulf, a growing proportion of humanity is living under the horror of conflict. For some observers, there are gnawing fears that the worst is yet to come. The apparent collapse of the rules-based international order, the irrelevance of institutions designed to uphold it, and the interconnectedness of the fighting have sparked warnings that we could be at the beginning of a third world war. Indeed, half of Britons polled in a recent YouGov survey thought world war three was likely in the next five to 10 years. On Monday, Donald Trump stepped back from deepening the US and Israel’s war with Iran, announcing that he would postpone military strikes on Iranian power plants for a five-day period after “very good and productive conversations” about the end to the fighting. Iran denied this version of events, claiming Trump had been scared off by their threats of attacks on water infrastructure in the Gulf. But, despite calmer stock markets and a sharp drop in the oil price, there is little sign that the fighting is near an end. Middle East | The Israeli military said it had launched a new wave of strikes on Tehran, after Donald Trump signalled a pause in US attacks against energy infrastructure after what he said were productive talks with Iran. UK Politics | Ministers are looking at providing support for household bills next winter, Keir Starmer said, as he suggested the energy price shock unleashed by the Iran conflict could continue for months to come . London | Security agencies are investigating whether a group linked to Iran is behind an arson attack on four ambulances belonging to a Jewish charity in north London. Climate crisis | More countries will face critical food insecurity if world heats up by 2C, analysis shows. New York | The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York’s LaGuardia airport. Continue reading...",
-      "title": "Tuesday briefing: With the horror of conflict throughout the globe, how likely is world war three?",
-      "summary": "In today’s newsletter: Our diplomatic editor on how global instability feeds into conflict in so many parts of the world, and whether the threshold for a major global war has been met Good morning. The world is at war. From the trenches of eastern Ukraine to the missile-streaked skies of the Gulf, a growing proportion of humanity is living under the horror of conflict. For some observers, there are gnawing fears that the worst is yet to come. The apparent collapse of the rules-based international order, the irrelevance of institutions designed to uphold it, and the interconnectedness of the fighting have sparked warnings that we could be at the beginning of a third world war. Indeed, half of Britons polled in a recent YouGov survey thought world war three was likely in the next five to 10 years. On Monday, Donald Trump stepped back from deepening the US and Israel’s war with Iran, announcing that he would postpone military strikes on Iranian power plants for a five-day period after “very good and productive conversations” about the end to the fighting. Iran denied this version of events, claiming Trump had been scared off by their threats of attacks on water infrastructure in the Gulf. But, despite calmer stock markets and a sharp drop in the oil price, there is little sign that the fighting is near an end. Middle East | The Israeli military said it had launched a new wave of strikes on Tehran, after Donald Trump signalled a pause in US attacks against energy infrastructure after what he said were productive talks with Iran. UK Politics | Ministers are looking at providing support for household bills next winter, Keir Starmer said, as he suggested the energy price shock unleashed by the Iran conflict could continue for months to come . London | Security agencies are investigating whether a group linked to Iran is behind an arson attack on four ambulances belonging to a Jewish charity in north London. Climate crisis | More countries will face critical food insecurity if world heats up by 2C, analysis shows. New York | The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York’s LaGuardia airport. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/mar/24/tuesday-briefing-with-the-horror-of-conflict-throughout-the-globe-how-likely-is-world-war-three",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-24T06:30:24+00:00",
-      "tags": [
-        "LGA",
-        "United States",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "LaGuardia",
-        "city": "New York",
-        "country": "United States",
-        "iata": "LGA",
-        "lat": 40.7769,
-        "lon": -73.874
-      }
-    },
-    {
-      "id": "cbcd4fc5be4ea3d6",
-      "title_orig": "Russia's vast daytime drone attack kills three, wounds dozens in Ukraine",
-      "summary_orig": "LVIV/KYIV, March 24 - A rare Russian daytime drone attack on Ukraine killed three people, wounded several dozen and set a building in the historic centre of the western city of Lviv aflame on Tuesday, officials said, following an overnight bombardment that killed five.",
-      "lang": "en",
-      "title_en": "Russia's vast daytime drone attack kills three, wounds dozens in Ukraine",
-      "summary_en": "LVIV/KYIV, March 24 - A rare Russian daytime drone attack on Ukraine killed three people, wounded several dozen and set a building in the historic centre of the western city of Lviv aflame on Tuesday, officials said, following an overnight bombardment that killed five.",
-      "title": "Russia's vast daytime drone attack kills three, wounds dozens in Ukraine",
-      "summary": "LVIV/KYIV, March 24 - A rare Russian daytime drone attack on Ukraine killed three people, wounded several dozen and set a building in the historic centre of the western city of Lviv aflame on Tuesday, officials said, following an overnight bombardment that killed five.",
-      "url": "https://www.straitstimes.com/world/europe/russian-drone-missile-attack-kills-three-in-ukraine",
-      "source": "The Straits Times World News",
-      "published_at": "2026-03-24T06:16:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "293fc0398aeca019",
@@ -3314,24 +3593,6 @@
         "lat": 40.7769,
         "lon": -73.874
       }
-    },
-    {
-      "id": "9cec784ee0447b16",
-      "title_orig": "Wellington eyes direct flights to Asia after $35m runway upgrade",
-      "summary_orig": "The Wellington region is the largest market in Australasia without a direct connection to Asia.",
-      "lang": "en",
-      "title_en": "Wellington eyes direct flights to Asia after $35m runway upgrade",
-      "summary_en": "The Wellington region is the largest market in Australasia without a direct connection to Asia.",
-      "title": "Wellington eyes direct flights to Asia after $35m runway upgrade",
-      "summary": "The Wellington region is the largest market in Australasia without a direct connection to Asia.",
-      "url": "https://www.stuff.co.nz/travel/360955321/wellington-eyes-direct-flights-asia-after-35m-runway-upgrade",
-      "source": "Stuff - /",
-      "published_at": "2026-03-24T02:58:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "cc3fa8157b2ef482",
@@ -3595,33 +3856,6 @@
       }
     },
     {
-      "id": "cae26a8c0934f178",
-      "title_orig": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
-      "summary_orig": "NTSB says investigation under way as nine people remain hospitalized after plane hit fire tuck on runway US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York ’s LaGuardia airport, in an incident that closed the airport for several hours. The Air Canada Express CRJ-900 plane, operated by Jazz Aviation, was carrying 72 passengers and four crew members from Montreal. Nine people remain hospitalized after the collision, which happened at about 11.45pm ET on Sunday as the firefighting vehicle was responding to a separate incident. Continue reading...",
-      "lang": "en",
-      "title_en": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
-      "summary_en": "NTSB says investigation under way as nine people remain hospitalized after plane hit fire tuck on runway US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York ’s LaGuardia airport, in an incident that closed the airport for several hours. The Air Canada Express CRJ-900 plane, operated by Jazz Aviation, was carrying 72 passengers and four crew members from Montreal. Nine people remain hospitalized after the collision, which happened at about 11.45pm ET on Sunday as the firefighting vehicle was responding to a separate incident. Continue reading...",
-      "title": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
-      "summary": "NTSB says investigation under way as nine people remain hospitalized after plane hit fire tuck on runway US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York ’s LaGuardia airport, in an incident that closed the airport for several hours. The Air Canada Express CRJ-900 plane, operated by Jazz Aviation, was carrying 72 passengers and four crew members from Montreal. Nine people remain hospitalized after the collision, which happened at about 11.45pm ET on Sunday as the firefighting vehicle was responding to a separate incident. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-23T23:32:32+00:00",
-      "tags": [
-        "LGA",
-        "United States",
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {
-        "airport": "LaGuardia",
-        "city": "New York",
-        "country": "United States",
-        "iata": "LGA",
-        "lat": 40.7769,
-        "lon": -73.874
-      }
-    },
-    {
       "id": "7ce0c832d10e3574",
       "title_orig": "Austin airport unveils renderings, new details about 'Concourse M'",
       "summary_orig": "When Austin-Bergstrom International Airport officials unveiled their design plans for a new terminal, they also introduced 'Concourse M' — another new terminal space featuring six gates. Now, we're getting our first look at the planned space.",
@@ -3656,33 +3890,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "3caaaa8a78a35ee8",
-      "title_orig": "Pilot and copilot killed in collision between passenger jet and fire truck at New York's LaGuardia Airport",
-      "summary_orig": "Dozens of passengers and crew members were taken to area hospitals, some with serious injuries. The flight from Montreal was landing in New York on Sunday night.",
-      "lang": "en",
-      "title_en": "Pilot and copilot killed in collision between passenger jet and fire truck at New York's LaGuardia Airport",
-      "summary_en": "Dozens of passengers and crew members were taken to area hospitals, some with serious injuries. The flight from Montreal was landing in New York on Sunday night.",
-      "title": "Pilot and copilot killed in collision between passenger jet and fire truck at New York's LaGuardia Airport",
-      "summary": "Dozens of passengers and crew members were taken to area hospitals, some with serious injuries. The flight from Montreal was landing in New York on Sunday night.",
-      "url": "https://www.kgw.com/article/news/nation-world/air-canada-flight-collides-with-a-port-authority-vehicle-at-new-yorks-laguardia-airport/507-ff9eedfc-c7ef-4e35-897e-620806c06405",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-03-23T22:55:28+00:00",
-      "tags": [
-        "LGA",
-        "United States",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "LaGuardia",
-        "city": "New York",
-        "country": "United States",
-        "iata": "LGA",
-        "lat": 40.7769,
-        "lon": -73.874
-      }
     },
     {
       "id": "a7b1a34187cf76a7",
@@ -3838,24 +4045,6 @@
       "geo": {}
     },
     {
-      "id": "6c26a112141bf349",
-      "title_orig": "Swinney ‘horrified’ by arson attack on Jewish charity ambulances",
-      "summary_orig": "The First Minister’s comments come after Prime Minister Sir Keir Starmer called on communities to ‘stand together’ following the attack.",
-      "lang": "en",
-      "title_en": "Swinney ‘horrified’ by arson attack on Jewish charity ambulances",
-      "summary_en": "The First Minister’s comments come after Prime Minister Sir Keir Starmer called on communities to ‘stand together’ following the attack.",
-      "title": "Swinney ‘horrified’ by arson attack on Jewish charity ambulances",
-      "summary": "The First Minister’s comments come after Prime Minister Sir Keir Starmer called on communities to ‘stand together’ following the attack.",
-      "url": "https://www.standard.co.uk/news/uk/keir-starmer-jewish-first-minister-golders-green-london-b1276136.html",
-      "source": "The Standard News",
-      "published_at": "2026-03-23T19:23:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b215f39c8460f56c",
       "title_orig": "Leicester City Q+A: Why striker transfer overlooked and Jordan James peculiarity explained",
       "summary_orig": "Questions answered on the lack of forward arrival in January, James' lack of impact as a number 10, home form, the points required for survival, and team changes against Preston",
@@ -3867,24 +4056,6 @@
       "url": "https://www.leicestermercury.co.uk/sport/football/football-news/leicester-city-qa-striker-transfer-10882225",
       "source": "Leicestershire Live - frontpage",
       "published_at": "2026-03-23T18:47:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "55df3ee9e3e5a927",
-      "title_orig": "Murderer committed ‘most horrific' and 'violent' attack on complete stranger",
-      "summary_orig": "Nila Patel died two days after the incident outside the Leicester Royal Infirmary",
-      "lang": "en",
-      "title_en": "Murderer committed ‘most horrific' and 'violent' attack on complete stranger",
-      "summary_en": "Nila Patel died two days after the incident outside the Leicester Royal Infirmary",
-      "title": "Murderer committed ‘most horrific' and 'violent' attack on complete stranger",
-      "summary": "Nila Patel died two days after the incident outside the Leicester Royal Infirmary",
-      "url": "https://www.leicestermercury.co.uk/news/leicester-news/man-guilty-murder-woman-attacked-10882126",
-      "source": "Leicestershire Live - frontpage",
-      "published_at": "2026-03-23T18:13:42+00:00",
       "tags": [
         "airport/security"
       ],
@@ -4271,24 +4442,6 @@
       "geo": {}
     },
     {
-      "id": "de294550e8aa094b",
-      "title_orig": "White Rose Shopping Centre bosses break silence after evacuation - statement in full",
-      "summary_orig": "The shopping centre was evacuated on Monday morning",
-      "lang": "en",
-      "title_en": "White Rose Shopping Centre bosses break silence after evacuation - statement in full",
-      "summary_en": "The shopping centre was evacuated on Monday morning",
-      "title": "White Rose Shopping Centre bosses break silence after evacuation - statement in full",
-      "summary": "The shopping centre was evacuated on Monday morning",
-      "url": "https://www.leeds-live.co.uk/news/leeds-news/white-rose-shopping-centre-bosses-33642144",
-      "source": "Leeds Live - frontpage",
-      "published_at": "2026-03-23T11:13:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "37d0712fd5b43237",
       "title_orig": "What to expect from Spain's two airport strikes this Easter",
       "summary_orig": "If you're flying to or from Spain this Easter, be aware that there are two different sets of stoppages planned by airport staff which may cause delays and other disruptions for passengers.",
@@ -4514,24 +4667,6 @@
       "geo": {}
     },
     {
-      "id": "006c4754544b2dec",
-      "title_orig": "Residents in Southern Israel Are Shaken After Direct Strikes by Iranian Missiles",
-      "summary_orig": "Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israel’s main nuclear research facility.",
-      "lang": "en",
-      "title_en": "Residents in Southern Israel Are Shaken After Direct Strikes by Iranian Missiles",
-      "summary_en": "Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israel’s main nuclear research facility.",
-      "title": "Residents in Southern Israel Are Shaken After Direct Strikes by Iranian Missiles",
-      "summary": "Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israel’s main nuclear research facility.",
-      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-22T18:05:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "623ce449eafb7901",
       "title_orig": "How Quvia helps airlines throw out the IFC playbook and take control",
       "summary_orig": "The inflight connectivity marketplace is moving very quickly. And aviation industry stakeholders have never seen anything like it before. The cycles are getting faster. The technology is evolving rapidly, including the antenna hardware. At least five or more broadband Low Earth Orbit (LEO) satellite constellations are expected to be in orbit by the end of... The post How Quvia helps airlines throw out the IFC playbook and take control appeared first on Runway Girl .",
@@ -4622,24 +4757,6 @@
       "geo": {}
     },
     {
-      "id": "9f8baadecf060f67",
-      "title_orig": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
-      "summary_orig": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.",
-      "lang": "en",
-      "title_en": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
-      "summary_en": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.",
-      "title": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
-      "summary": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.",
-      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-22T09:01:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "1082700c27c009c9",
       "title_orig": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
       "summary_orig": "Victims of army drone attack on East Darfur health facility included children and medical personnel A strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday. The UN’s humanitarian office in Sudan had earlier said it was “appalled by the attack on a hospital in East Darfur yesterday, reportedly killing dozens, including children, and injuring more”. Continue reading...",
@@ -4651,24 +4768,6 @@
       "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
       "source": "World news | The Guardian",
       "published_at": "2026-03-21T23:15:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "e3bb6cfbdd80ca14",
-      "title_orig": "At least 40 injured after Iranian missile strikes Israeli town home to nuclear facility",
-      "summary_orig": "Iran says that the attack was in retaliation for the strike carried out on its nuclear Natanz facility earlier on Saturday. However, Israel denies responsibility for the attack.",
-      "lang": "en",
-      "title_en": "At least 40 injured after Iranian missile strikes Israeli town home to nuclear facility",
-      "summary_en": "Iran says that the attack was in retaliation for the strike carried out on its nuclear Natanz facility earlier on Saturday. However, Israel denies responsibility for the attack.",
-      "title": "At least 40 injured after Iranian missile strikes Israeli town home to nuclear facility",
-      "summary": "Iran says that the attack was in retaliation for the strike carried out on its nuclear Natanz facility earlier on Saturday. However, Israel denies responsibility for the attack.",
-      "url": "http://www.euronews.com/2026/03/21/at-least-40-injured-after-iranian-missile-strikes-israeli-town-home-to-nuclear-facility",
-      "source": "News | Euronews RSS",
-      "published_at": "2026-03-21T21:13:29+00:00",
       "tags": [
         "airport/security"
       ],
