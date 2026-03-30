@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T18:56:23.913506+00:00",
+  "generated_at": "2026-03-30T19:57:16.371720+00:00",
   "items": [
     {
       "id": "9316e1af06d67d6d",
@@ -12,11 +12,533 @@
       "summary": "President Trump claimed progress in talks to end the war but warned that lacking a deal he would order intense attacks on Iranian infrastructure targets. Oil and stock markets wavered on the news.",
       "url": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
       "source": "NYT > World News",
-      "published_at": "2026-03-30T18:48:53+00:00",
+      "published_at": "2026-03-30T19:47:35+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "ee1ab4c61f7e2a42",
+      "title_orig": "US reopens embassy in Venezuela months after military operation to remove Maduro",
+      "summary_orig": "The United States has formally reopened its embassy in Caracas, Venezuela, after the restoration of full diplomatic relations with the South American country following the Trump administration’s removal of then-president Nicolas Maduro in early January.\nThe State Department announced on Monday that it had resumed normal operations at the embassy in Caracas – which had been in need of significant repair, including remediation from mould – after a seven-year closure that began during US President...",
+      "lang": "en",
+      "title_en": "US reopens embassy in Venezuela months after military operation to remove Maduro",
+      "summary_en": "The United States has formally reopened its embassy in Caracas, Venezuela, after the restoration of full diplomatic relations with the South American country following the Trump administration’s removal of then-president Nicolas Maduro in early January.\nThe State Department announced on Monday that it had resumed normal operations at the embassy in Caracas – which had been in need of significant repair, including remediation from mould – after a seven-year closure that began during US President...",
+      "title": "US reopens embassy in Venezuela months after military operation to remove Maduro",
+      "summary": "The United States has formally reopened its embassy in Caracas, Venezuela, after the restoration of full diplomatic relations with the South American country following the Trump administration’s removal of then-president Nicolas Maduro in early January.\nThe State Department announced on Monday that it had resumed normal operations at the embassy in Caracas – which had been in need of significant repair, including remediation from mould – after a seven-year closure that began during US President...",
+      "url": "https://www.scmp.com/news/world/americas/article/3348456/us-reopens-embassy-venezuela-months-after-military-operation-remove-maduro?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2026-03-30T19:45:16+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "086e1918ae773b43",
+      "title_orig": "Airport security lines ease as TSA workers get paid, but shutdown continues",
+      "summary_orig": "Wait times at major airports, including Atlanta and Houston, began improving when the TSA workers were promised their first paychecks in weeks.",
+      "lang": "en",
+      "title_en": "Airport security lines ease as TSA workers get paid, but shutdown continues",
+      "summary_en": "Wait times at major airports, including Atlanta and Houston, began improving when the TSA workers were promised their first paychecks in weeks.",
+      "title": "Airport security lines ease as TSA workers get paid, but shutdown continues",
+      "summary": "Wait times at major airports, including Atlanta and Houston, began improving when the TSA workers were promised their first paychecks in weeks.",
+      "url": "https://www.pennlive.com/nation-world/2026/03/airport-security-lines-ease-as-tsa-workers-get-paid-but-shutdown-continues.html",
+      "source": "pennlive.com",
+      "published_at": "2026-03-30T19:37:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "35079d04561cd944",
+      "title_orig": "FBI says the man who drove into a Detroit-area synagogue planned a Hezbollah-inspired terror attack",
+      "summary_orig": "DETROIT (AP) — FBI says the man who drove into a Detroit-area synagogue planned a Hezbollah-inspired terror attack.",
+      "lang": "en",
+      "title_en": "FBI says the man who drove into a Detroit-area synagogue planned a Hezbollah-inspired terror attack",
+      "summary_en": "DETROIT (AP) — FBI says the man who drove into a Detroit-area synagogue planned a Hezbollah-inspired terror attack.",
+      "title": "FBI says the man who drove into a Detroit-area synagogue planned a Hezbollah-inspired terror attack",
+      "summary": "DETROIT (AP) — FBI says the man who drove into a Detroit-area synagogue planned a Hezbollah-inspired terror attack.",
+      "url": "https://wtop.com/national/2026/03/fbi-says-the-man-who-drove-into-a-detroit-area-synagogue-planned-a-hezbollah-inspired-terror-attack/",
+      "source": "WTOP News",
+      "published_at": "2026-03-30T19:35:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3bc1c386c33f45ea",
+      "title_orig": "Suit alleges DHS let St. Peter patient play violent video game before he killed for a second time",
+      "summary_orig": "A lawsuit from the family of the man killed said the game’s “life-like” depiction of violent activity triggered the attack. The suit says staff members violated policy concerning video games.",
+      "lang": "en",
+      "title_en": "Suit alleges DHS let St. Peter patient play violent video game before he killed for a second time",
+      "summary_en": "A lawsuit from the family of the man killed said the game’s “life-like” depiction of violent activity triggered the attack. The suit says staff members violated policy concerning video games.",
+      "title": "Suit alleges DHS let St. Peter patient play violent video game before he killed for a second time",
+      "summary": "A lawsuit from the family of the man killed said the game’s “life-like” depiction of violent activity triggered the attack. The suit says staff members violated policy concerning video games.",
+      "url": "https://www.startribune.com/suit-alleges-violent-video-game-spurred-st-peter-patient-to-use-guitar-to-fatally-beat-another/601650689",
+      "source": "Startribune News",
+      "published_at": "2026-03-30T19:35:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "26cf884b67665394",
+      "title_orig": "Green Party candidate in London elections shared conspiracy theory over Golders Green arson attack",
+      "summary_orig": "A Green Party candidate standing in Havering at the local elections on May 7 suggested the attack on Jewish ambulances could have been carried out by Jewish people",
+      "lang": "en",
+      "title_en": "Green Party candidate in London elections shared conspiracy theory over Golders Green arson attack",
+      "summary_en": "A Green Party candidate standing in Havering at the local elections on May 7 suggested the attack on Jewish ambulances could have been carried out by Jewish people",
+      "title": "Green Party candidate in London elections shared conspiracy theory over Golders Green arson attack",
+      "summary": "A Green Party candidate standing in Havering at the local elections on May 7 suggested the attack on Jewish ambulances could have been carried out by Jewish people",
+      "url": "https://www.standard.co.uk/news/politics/green-party-candidate-london-conspiracy-theory-golders-green-arson-attack-b1277063.html",
+      "source": "The Standard News",
+      "published_at": "2026-03-30T19:34:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "54f467ffd22d1738",
+      "title_orig": "European airports record longer waits at borders as EES deadline looms",
+      "summary_orig": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "lang": "en",
+      "title_en": "European airports record longer waits at borders as EES deadline looms",
+      "summary_en": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "title": "European airports record longer waits at borders as EES deadline looms",
+      "summary": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "url": "https://www.thelocal.de/20260330/european-airports-record-longer-border-waiting-times-as-ees-deadline-looms",
+      "source": "The Local Germany",
+      "published_at": "2026-03-30T19:31:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ddb71a4b6f5678d8",
+      "title_orig": "European airports record longer waits at borders as EES deadline looms",
+      "summary_orig": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "lang": "en",
+      "title_en": "European airports record longer waits at borders as EES deadline looms",
+      "summary_en": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "title": "European airports record longer waits at borders as EES deadline looms",
+      "summary": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "url": "https://www.thelocal.fr/20260330/european-airports-record-longer-border-waiting-times-as-ees-deadline-looms",
+      "source": "The Local France",
+      "published_at": "2026-03-30T19:31:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "58f3f786d8ae5472",
+      "title_orig": "European airports record longer waits at borders as EES deadline looms",
+      "summary_orig": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "lang": "en",
+      "title_en": "European airports record longer waits at borders as EES deadline looms",
+      "summary_en": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "title": "European airports record longer waits at borders as EES deadline looms",
+      "summary": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "url": "https://www.thelocal.es/20260330/european-airports-record-longer-border-waiting-times-as-ees-deadline-looms",
+      "source": "The Local Spain",
+      "published_at": "2026-03-30T19:31:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8dc5e738808b0b3a",
+      "title_orig": "European airports record longer waits at borders as EES deadline looms",
+      "summary_orig": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "lang": "en",
+      "title_en": "European airports record longer waits at borders as EES deadline looms",
+      "summary_en": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "title": "European airports record longer waits at borders as EES deadline looms",
+      "summary": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "url": "https://www.thelocal.it/20260330/european-airports-record-longer-border-waiting-times-as-ees-deadline-looms",
+      "source": "The Local Italy",
+      "published_at": "2026-03-30T19:31:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "36768278cfbe280c",
+      "title_orig": "European airports record longer waits at borders as EES deadline looms",
+      "summary_orig": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "lang": "en",
+      "title_en": "European airports record longer waits at borders as EES deadline looms",
+      "summary_en": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "title": "European airports record longer waits at borders as EES deadline looms",
+      "summary": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "url": "https://www.thelocal.se/20260330/european-airports-record-longer-border-waiting-times-as-ees-deadline-looms",
+      "source": "The Local Sweden",
+      "published_at": "2026-03-30T19:31:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "25b5415880d0a167",
+      "title_orig": "European airports record longer waits at borders as EES deadline looms",
+      "summary_orig": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "lang": "en",
+      "title_en": "European airports record longer waits at borders as EES deadline looms",
+      "summary_en": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "title": "European airports record longer waits at borders as EES deadline looms",
+      "summary": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
+      "url": "https://www.thelocal.dk/20260330/european-airports-record-longer-border-waiting-times-as-ees-deadline-looms",
+      "source": "The Local Denmark",
+      "published_at": "2026-03-30T19:31:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2dc943ac65e30b87",
+      "title_orig": "Israel passes law to give death penalty to Palestinians convicted of lethal attacks",
+      "summary_orig": "Knesset approves measure that has been criticised by European nations and rights groups Israel’s parliament has passed a law imposing the death penalty on Palestinians convicted of fatal attacks, a measure sharply criticised as discriminatory by European nations and rights groups. The legislation makes the death penalty the default punishment for Palestinians in the Israeli-occupied West Bank found guilty of intentionally carrying out deadly attacks deemed acts of terrorism by a military court. Continue reading...",
+      "lang": "en",
+      "title_en": "Israel passes law to give death penalty to Palestinians convicted of lethal attacks",
+      "summary_en": "Knesset approves measure that has been criticised by European nations and rights groups Israel’s parliament has passed a law imposing the death penalty on Palestinians convicted of fatal attacks, a measure sharply criticised as discriminatory by European nations and rights groups. The legislation makes the death penalty the default punishment for Palestinians in the Israeli-occupied West Bank found guilty of intentionally carrying out deadly attacks deemed acts of terrorism by a military court. Continue reading...",
+      "title": "Israel passes law to give death penalty to Palestinians convicted of lethal attacks",
+      "summary": "Knesset approves measure that has been criticised by European nations and rights groups Israel’s parliament has passed a law imposing the death penalty on Palestinians convicted of fatal attacks, a measure sharply criticised as discriminatory by European nations and rights groups. The legislation makes the death penalty the default punishment for Palestinians in the Israeli-occupied West Bank found guilty of intentionally carrying out deadly attacks deemed acts of terrorism by a military court. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/30/israel-passes-law-death-penalty-palestinian-convicted-terrorists",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-30T19:29:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "85ca33c865641aca",
+      "title_orig": "Lines at airports are getting better now that TSA agents are being paid - but it’s not ‘back to normal’ yet",
+      "summary_orig": "Experts warned that the ordeal is far from over, given how many TSA agents have quit their jobs",
+      "lang": "en",
+      "title_en": "Lines at airports are getting better now that TSA agents are being paid - but it’s not ‘back to normal’ yet",
+      "summary_en": "Experts warned that the ordeal is far from over, given how many TSA agents have quit their jobs",
+      "title": "Lines at airports are getting better now that TSA agents are being paid - but it’s not ‘back to normal’ yet",
+      "summary": "Experts warned that the ordeal is far from over, given how many TSA agents have quit their jobs",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/tsa-wait-times-airports-shutdown-latest-b2948655.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-30T19:27:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "654411c46acd92d3",
+      "title_orig": "Israel passes death penalty for Palestinians convicted of lethal attacks",
+      "summary_orig": "The law, long-sought by Israel's far-right politicians, makes death by hanging the default punishment for West Bank Palestinians convicted of killing Israelis.",
+      "lang": "en",
+      "title_en": "Israel passes death penalty for Palestinians convicted of lethal attacks",
+      "summary_en": "The law, long-sought by Israel's far-right politicians, makes death by hanging the default punishment for West Bank Palestinians convicted of killing Israelis.",
+      "title": "Israel passes death penalty for Palestinians convicted of lethal attacks",
+      "summary": "The law, long-sought by Israel's far-right politicians, makes death by hanging the default punishment for West Bank Palestinians convicted of killing Israelis.",
+      "url": "https://www.abc.net.au/news/2026-03-31/israel-passes-death-penalty-sentence-nationalist-killings/106514372",
+      "source": "Just In",
+      "published_at": "2026-03-30T19:25:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3d25f80cc1461566",
+      "title_orig": "White House blames Democrats for record-breaking DHS shutdown after House Republicans reject Senate’s compromise bill – live",
+      "summary_orig": "White House press secretary Karoline Leavitt says there are still long security lines at airports throughout the country, and morale among TSA agents has ‘plummeted’ Sign up for the Breaking News US email alerts The average price for a gallon of gasoline in the US is about to hit $4 , according to the American Automobile Association (AAA). This is up 33% from a month ago , when the average price was $2.98 per gallon. The hike is the highest national average since 2022, after Russia’s full-scale invasion of Ukraine. Continue reading...",
+      "lang": "en",
+      "title_en": "White House blames Democrats for record-breaking DHS shutdown after House Republicans reject Senate’s compromise bill – live",
+      "summary_en": "White House press secretary Karoline Leavitt says there are still long security lines at airports throughout the country, and morale among TSA agents has ‘plummeted’ Sign up for the Breaking News US email alerts The average price for a gallon of gasoline in the US is about to hit $4 , according to the American Automobile Association (AAA). This is up 33% from a month ago , when the average price was $2.98 per gallon. The hike is the highest national average since 2022, after Russia’s full-scale invasion of Ukraine. Continue reading...",
+      "title": "White House blames Democrats for record-breaking DHS shutdown after House Republicans reject Senate’s compromise bill – live",
+      "summary": "White House press secretary Karoline Leavitt says there are still long security lines at airports throughout the country, and morale among TSA agents has ‘plummeted’ Sign up for the Breaking News US email alerts The average price for a gallon of gasoline in the US is about to hit $4 , according to the American Automobile Association (AAA). This is up 33% from a month ago , when the average price was $2.98 per gallon. The hike is the highest national average since 2022, after Russia’s full-scale invasion of Ukraine. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/30/donald-trump-shutdown-ice-dhs-tsa-airports-iran-jd-vance-latest-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-30T19:22:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "861f97a87ca2b40a",
+      "title_orig": "French police make two more arrests over foiled attack on Bank of America",
+      "summary_orig": "Prosecutors investigating suspected link to Iran war due to similarities with other recent attempted attacks in Europe.",
+      "lang": "en",
+      "title_en": "French police make two more arrests over foiled attack on Bank of America",
+      "summary_en": "Prosecutors investigating suspected link to Iran war due to similarities with other recent attempted attacks in Europe.",
+      "title": "French police make two more arrests over foiled attack on Bank of America",
+      "summary": "Prosecutors investigating suspected link to Iran war due to similarities with other recent attempted attacks in Europe.",
+      "url": "https://www.aljazeera.com/news/2026/3/30/french-police-make-2-more-arrests-over-suspected-attack-on-bank-of-america?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-03-30T19:15:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a06d832aa652f67a",
+      "title_orig": "Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks",
+      "summary_orig": "Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes.",
+      "lang": "en",
+      "title_en": "Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks",
+      "summary_en": "Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes.",
+      "title": "Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks",
+      "summary": "Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes.",
+      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
+      "source": "NYT > World News",
+      "published_at": "2026-03-30T19:15:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "9a1498d31bb60306",
+      "title_orig": "Emergency workers in Greater Manchester keep being attacked as they try to save lives",
+      "summary_orig": "Manchester has one of the highest numbers of assaults on emergency workers in the country. Helena Vesty reports",
+      "lang": "en",
+      "title_en": "Emergency workers in Greater Manchester keep being attacked as they try to save lives",
+      "summary_en": "Manchester has one of the highest numbers of assaults on emergency workers in the country. Helena Vesty reports",
+      "title": "Emergency workers in Greater Manchester keep being attacked as they try to save lives",
+      "summary": "Manchester has one of the highest numbers of assaults on emergency workers in the country. Helena Vesty reports",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/emergency-workers-greater-manchester-keep-33686970",
+      "source": "MEN - News",
+      "published_at": "2026-03-30T19:14:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f8c26b0c1a3c789c",
+      "title_orig": "Israel passes law making death penalty default sentence for Palestinians convicted of lethal attacks",
+      "summary_orig": "Israel’s ​parliament passed ‌a law on ​Monday ​making the death ⁠penalty ​a default ​sentence for Palestinians convicted ​in ​military court of ‌deadly ⁠attacks, seeing through a ​main ​pledge ⁠by Prime ​Minister ​Benjamin ⁠Netanyahu’s far-right ⁠allies. The legislation has been sharply criticised as discriminatory by European nations and rights groups. The Times of Israel reported that the Knesset voted 62-48 to pass the law. The bill was spearheaded by far-right National Security Minister Itamar Ben Gvir and his Otzma Yehudit, or Jewish Power, party. The legislation results in the death penalty becoming the default punishment for Palestinians in the Israeli-occupied West Bank found guilty of intentionally carrying out deadly attacks deemed “acts of terrorism” by an Israeli military court. The legislation says that the sentence may be reduced to life imprisonment under “special circumstances”. According to The Times of Israel , the sentence handed under the law cannot be appealed. Palestinians in the West Bank are automatically tried in Israeli military courts. Meanwhile, under the law, in Israeli criminal courts, anyone “who intentionally causes the death of a person with the aim of harming an Israeli citizen or resident out of an intention to put an end to the existence of the state of Israel shall be sentenced to death or life imprisonment”. Criminal courts try Israeli nationals, including Palestinian citizens of Israel. The law sets the execution method as hanging, adding that it should be carried out within 90 days of the sentencing, with a possible postponement of up to 180 days. Opposition lawmaker and former deputy Mossad director, Ram Ben Barak, expressed outrage at the legislation before it was passed. “Do you understand what it means that there is one law for Arabs in Judea and Samaria, and a different law for the general public for which the state of Israel is responsible?” he asked fellow parliamentarians, using the Israeli name for the West Bank. “I’ll tell you what it says. It says that Hamas has defeated us. It has defeated us because we have lost all our values,” he said. “It has defeated us because we are beginning to conduct ourselves like them, unfortunately. Full of hatred. And vengeance.” ‘Discriminatory application’ In February, Amnesty International urged Israeli lawmakers to reject the legislation, which it said “would allow Israeli courts to expand their use of death sentences with discriminatory application against Palestinians”. On Sunday, Britain, France, Germany and Italy expressed “deep concern” over the legislation, which they said risked “undermining Israel’s commitments with regards to democratic principles”. While the death penalty exists for a small number of crimes in Israel, it has become a de facto abolitionist country — the Nazi Holocaust perpetrator Adolf Eichmann was the last person to be executed in 1962.",
+      "lang": "en",
+      "title_en": "Israel passes law making death penalty default sentence for Palestinians convicted of lethal attacks",
+      "summary_en": "Israel’s ​parliament passed ‌a law on ​Monday ​making the death ⁠penalty ​a default ​sentence for Palestinians convicted ​in ​military court of ‌deadly ⁠attacks, seeing through a ​main ​pledge ⁠by Prime ​Minister ​Benjamin ⁠Netanyahu’s far-right ⁠allies. The legislation has been sharply criticised as discriminatory by European nations and rights groups. The Times of Israel reported that the Knesset voted 62-48 to pass the law. The bill was spearheaded by far-right National Security Minister Itamar Ben Gvir and his Otzma Yehudit, or Jewish Power, party. The legislation results in the death penalty becoming the default punishment for Palestinians in the Israeli-occupied West Bank found guilty of intentionally carrying out deadly attacks deemed “acts of terrorism” by an Israeli military court. The legislation says that the sentence may be reduced to life imprisonment under “special circumstances”. According to The Times of Israel , the sentence handed under the law cannot be appealed. Palestinians in the West Bank are automatically tried in Israeli military courts. Meanwhile, under the law, in Israeli criminal courts, anyone “who intentionally causes the death of a person with the aim of harming an Israeli citizen or resident out of an intention to put an end to the existence of the state of Israel shall be sentenced to death or life imprisonment”. Criminal courts try Israeli nationals, including Palestinian citizens of Israel. The law sets the execution method as hanging, adding that it should be carried out within 90 days of the sentencing, with a possible postponement of up to 180 days. Opposition lawmaker and former deputy Mossad director, Ram Ben Barak, expressed outrage at the legislation before it was passed. “Do you understand what it means that there is one law for Arabs in Judea and Samaria, and a different law for the general public for which the state of Israel is responsible?” he asked fellow parliamentarians, using the Israeli name for the West Bank. “I’ll tell you what it says. It says that Hamas has defeated us. It has defeated us because we have lost all our values,” he said. “It has defeated us because we are beginning to conduct ourselves like them, unfortunately. Full of hatred. And vengeance.” ‘Discriminatory application’ In February, Amnesty International urged Israeli lawmakers to reject the legislation, which it said “would allow Israeli courts to expand their use of death sentences with discriminatory application against Palestinians”. On Sunday, Britain, France, Germany and Italy expressed “deep concern” over the legislation, which they said risked “undermining Israel’s commitments with regards to democratic principles”. While the death penalty exists for a small number of crimes in Israel, it has become a de facto abolitionist country — the Nazi Holocaust perpetrator Adolf Eichmann was the last person to be executed in 1962.",
+      "title": "Israel passes law making death penalty default sentence for Palestinians convicted of lethal attacks",
+      "summary": "Israel’s ​parliament passed ‌a law on ​Monday ​making the death ⁠penalty ​a default ​sentence for Palestinians convicted ​in ​military court of ‌deadly ⁠attacks, seeing through a ​main ​pledge ⁠by Prime ​Minister ​Benjamin ⁠Netanyahu’s far-right ⁠allies. The legislation has been sharply criticised as discriminatory by European nations and rights groups. The Times of Israel reported that the Knesset voted 62-48 to pass the law. The bill was spearheaded by far-right National Security Minister Itamar Ben Gvir and his Otzma Yehudit, or Jewish Power, party. The legislation results in the death penalty becoming the default punishment for Palestinians in the Israeli-occupied West Bank found guilty of intentionally carrying out deadly attacks deemed “acts of terrorism” by an Israeli military court. The legislation says that the sentence may be reduced to life imprisonment under “special circumstances”. According to The Times of Israel , the sentence handed under the law cannot be appealed. Palestinians in the West Bank are automatically tried in Israeli military courts. Meanwhile, under the law, in Israeli criminal courts, anyone “who intentionally causes the death of a person with the aim of harming an Israeli citizen or resident out of an intention to put an end to the existence of the state of Israel shall be sentenced to death or life imprisonment”. Criminal courts try Israeli nationals, including Palestinian citizens of Israel. The law sets the execution method as hanging, adding that it should be carried out within 90 days of the sentencing, with a possible postponement of up to 180 days. Opposition lawmaker and former deputy Mossad director, Ram Ben Barak, expressed outrage at the legislation before it was passed. “Do you understand what it means that there is one law for Arabs in Judea and Samaria, and a different law for the general public for which the state of Israel is responsible?” he asked fellow parliamentarians, using the Israeli name for the West Bank. “I’ll tell you what it says. It says that Hamas has defeated us. It has defeated us because we have lost all our values,” he said. “It has defeated us because we are beginning to conduct ourselves like them, unfortunately. Full of hatred. And vengeance.” ‘Discriminatory application’ In February, Amnesty International urged Israeli lawmakers to reject the legislation, which it said “would allow Israeli courts to expand their use of death sentences with discriminatory application against Palestinians”. On Sunday, Britain, France, Germany and Italy expressed “deep concern” over the legislation, which they said risked “undermining Israel’s commitments with regards to democratic principles”. While the death penalty exists for a small number of crimes in Israel, it has become a de facto abolitionist country — the Nazi Holocaust perpetrator Adolf Eichmann was the last person to be executed in 1962.",
+      "url": "https://www.dawn.com/news/1986920/israel-passes-law-making-death-penalty-default-sentence-for-palestinians-convicted-of-lethal-attacks",
+      "source": "Dawn - Home",
+      "published_at": "2026-03-30T19:14:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1f0dec694cf6dd03",
+      "title_orig": "CEO of Epic Games apologizes after laying off employee with terminal brain cancer",
+      "summary_orig": "Tim Sweeney, chief of firm that created Fortnite, received backlash after worker’s wife revealed loss of life insurance The chief of the company that created Fortnite, a popular online game, has issued an apology following backlash after recent mass layoffs cost an employee with terminal brain cancer his job – and his life insurance. On Sunday, Tim Sweeney, the Epic Games chief executive, apologized after Jenni Griffin, the wife of Mike Prinke, a laid off employee, revealed on social media that the loss of her husband’s job also meant he was losing his life insurance. Continue reading...",
+      "lang": "en",
+      "title_en": "CEO of Epic Games apologizes after laying off employee with terminal brain cancer",
+      "summary_en": "Tim Sweeney, chief of firm that created Fortnite, received backlash after worker’s wife revealed loss of life insurance The chief of the company that created Fortnite, a popular online game, has issued an apology following backlash after recent mass layoffs cost an employee with terminal brain cancer his job – and his life insurance. On Sunday, Tim Sweeney, the Epic Games chief executive, apologized after Jenni Griffin, the wife of Mike Prinke, a laid off employee, revealed on social media that the loss of her husband’s job also meant he was losing his life insurance. Continue reading...",
+      "title": "CEO of Epic Games apologizes after laying off employee with terminal brain cancer",
+      "summary": "Tim Sweeney, chief of firm that created Fortnite, received backlash after worker’s wife revealed loss of life insurance The chief of the company that created Fortnite, a popular online game, has issued an apology following backlash after recent mass layoffs cost an employee with terminal brain cancer his job – and his life insurance. On Sunday, Tim Sweeney, the Epic Games chief executive, apologized after Jenni Griffin, the wife of Mike Prinke, a laid off employee, revealed on social media that the loss of her husband’s job also meant he was losing his life insurance. Continue reading...",
+      "url": "https://www.theguardian.com/games/2026/mar/30/epic-games-fortnite-ceo-apologizes-lay-off",
+      "source": "World news | The Guardian",
+      "published_at": "2026-03-30T19:01:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "031b4a82c54e6380",
+      "title_orig": "Most TSA workers got first paycheck in weeks on Monday, signaling possible relief at airports",
+      "summary_orig": "TSA officers are receiving overdue paychecks as a prolonged shutdown continues. Here's what that means for the nation's airports.",
+      "lang": "en",
+      "title_en": "Most TSA workers got first paycheck in weeks on Monday, signaling possible relief at airports",
+      "summary_en": "TSA officers are receiving overdue paychecks as a prolonged shutdown continues. Here's what that means for the nation's airports.",
+      "title": "Most TSA workers got first paycheck in weeks on Monday, signaling possible relief at airports",
+      "summary": "TSA officers are receiving overdue paychecks as a prolonged shutdown continues. Here's what that means for the nation's airports.",
+      "url": "https://www.kgw.com/article/news/nation-world/tsa-workers-get-paid-airports-shutdown/507-3a9e1c94-8f92-48e2-af34-70c493dd69b8",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-03-30T19:01:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b1cec757fe464005",
+      "title_orig": "Mob boss Steven Lyons to be sent to Jakarta after Interpol swoop at Bali airport",
+      "summary_orig": "Authorities have detained the 45-year-old and are said to be planning the next legal steps, which may include extradition.",
+      "lang": "en",
+      "title_en": "Mob boss Steven Lyons to be sent to Jakarta after Interpol swoop at Bali airport",
+      "summary_en": "Authorities have detained the 45-year-old and are said to be planning the next legal steps, which may include extradition.",
+      "title": "Mob boss Steven Lyons to be sent to Jakarta after Interpol swoop at Bali airport",
+      "summary": "Authorities have detained the 45-year-old and are said to be planning the next legal steps, which may include extradition.",
+      "url": "https://www.dailyrecord.co.uk/news/scottish-news/mob-boss-steven-lyons-sent-36944757",
+      "source": "Daily Record - Home",
+      "published_at": "2026-03-30T19:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c0b2a5f82ac36007",
+      "title_orig": "Three UN peacekeepers killed in Lebanon as Israeli strikes pummel south",
+      "summary_orig": "UNIFIL is stationed in southern Lebanon to monitor hostilities along the demarcation line with Israel.",
+      "lang": "en",
+      "title_en": "Three UN peacekeepers killed in Lebanon as Israeli strikes pummel south",
+      "summary_en": "UNIFIL is stationed in southern Lebanon to monitor hostilities along the demarcation line with Israel.",
+      "title": "Three UN peacekeepers killed in Lebanon as Israeli strikes pummel south",
+      "summary": "UNIFIL is stationed in southern Lebanon to monitor hostilities along the demarcation line with Israel.",
+      "url": "https://www.straitstimes.com/world/middle-east/three-un-peacekeepers-killed-in-lebanon-as-israeli-strikes-pummel-south",
+      "source": "The Straits Times World News",
+      "published_at": "2026-03-30T19:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2487631e09eceee6",
+      "title_orig": "Florida man crashes into airport gate, tries to steal plane so he can visit sister 5 hours away",
+      "summary_orig": "Footage shows the suspect tell police “I went to an AA meeting, the next thing I know, I’m doing cocaine, drinking and smoking pot.\"",
+      "lang": "en",
+      "title_en": "Florida man crashes into airport gate, tries to steal plane so he can visit sister 5 hours away",
+      "summary_en": "Footage shows the suspect tell police “I went to an AA meeting, the next thing I know, I’m doing cocaine, drinking and smoking pot.\"",
+      "title": "Florida man crashes into airport gate, tries to steal plane so he can visit sister 5 hours away",
+      "summary": "Footage shows the suspect tell police “I went to an AA meeting, the next thing I know, I’m doing cocaine, drinking and smoking pot.\"",
+      "url": "https://www.mlive.com/news/us-world/2026/03/florida-man-crashes-into-airport-gate-tries-to-steal-plane-so-he-can-visit-sister-5-hours-away.html",
+      "source": "mlive.com",
+      "published_at": "2026-03-30T18:57:59+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "8b56eb55d2261b15",
+      "title_orig": "American’s BBQ partnership with Pecan Lodge hits the spot",
+      "summary_orig": "Some airline routes are special because of the insatiable passenger demand they create, like Seoul to Jeju in South Korea, which is often ranked as the world’s busiest route. Others are special because they link two globally influential cities like New York and London. Then there’s Dallas to New York, which is increasingly attracting a... The post American’s BBQ partnership with Pecan Lodge hits the spot appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "American’s BBQ partnership with Pecan Lodge hits the spot",
+      "summary_en": "Some airline routes are special because of the insatiable passenger demand they create, like Seoul to Jeju in South Korea, which is often ranked as the world’s busiest route. Others are special because they link two globally influential cities like New York and London. Then there’s Dallas to New York, which is increasingly attracting a... The post American’s BBQ partnership with Pecan Lodge hits the spot appeared first on Runway Girl .",
+      "title": "American’s BBQ partnership with Pecan Lodge hits the spot",
+      "summary": "Some airline routes are special because of the insatiable passenger demand they create, like Seoul to Jeju in South Korea, which is often ranked as the world’s busiest route. Others are special because they link two globally influential cities like New York and London. Then there’s Dallas to New York, which is increasingly attracting a... The post American’s BBQ partnership with Pecan Lodge hits the spot appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2026/03/american-airlines-bbq-partnership-with-pecan-lodge-hits-the-spot/",
+      "source": "Runway Girl",
+      "published_at": "2026-03-30T18:56:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6b68d32a329e2c9a",
+      "title_orig": "TSA workers asked to return $1,000 gift cards given out by Tyler Perry at Atlanta airport",
+      "summary_orig": "Some workers had already started using the gift cards Perry gave them, and it's unclear whether they will be obligated to pay back the money they already used.",
+      "lang": "en",
+      "title_en": "TSA workers asked to return $1,000 gift cards given out by Tyler Perry at Atlanta airport",
+      "summary_en": "Some workers had already started using the gift cards Perry gave them, and it's unclear whether they will be obligated to pay back the money they already used.",
+      "title": "TSA workers asked to return $1,000 gift cards given out by Tyler Perry at Atlanta airport",
+      "summary": "Some workers had already started using the gift cards Perry gave them, and it's unclear whether they will be obligated to pay back the money they already used.",
+      "url": "https://www.kgw.com/article/news/nation-world/tsa-workers-tyler-perry-gift-cards/507-8f708aae-9f5a-4d6b-af2a-680b3d256d04",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-03-30T18:56:13+00:00",
+      "tags": [
+        "ATL",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Hartsfield–Jackson",
+        "city": "Atlanta",
+        "country": "United States",
+        "iata": "ATL",
+        "lat": 33.6407,
+        "lon": -84.4277
+      }
+    },
+    {
+      "id": "6b7c30d74549cc5f",
+      "title_orig": "Israeli MPs pass bill allowing death penalty for Palestinians convicted of deadly attacks",
+      "summary_orig": "The Association for Civil Rights in Israel has filed a petition with the country’s Supreme Court challenging it.",
+      "lang": "en",
+      "title_en": "Israeli MPs pass bill allowing death penalty for Palestinians convicted of deadly attacks",
+      "summary_en": "The Association for Civil Rights in Israel has filed a petition with the country’s Supreme Court challenging it.",
+      "title": "Israeli MPs pass bill allowing death penalty for Palestinians convicted of deadly attacks",
+      "summary": "The Association for Civil Rights in Israel has filed a petition with the country’s Supreme Court challenging it.",
+      "url": "https://www.thejournal.ie/israeli-mps-debate-death-penalty-for-palestinians-convicted-of-deadly-attacks-6998883-Mar2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-03-30T18:50:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "dc5a69c551717fea",
+      "title_orig": "White House won’t rule out Trump threat on Iran’s water supply that could amount to war crime",
+      "summary_orig": "Attacking Iran’s power grid and water infrastructure would violate Geneva Convention prohibitions against attacking civilian infrastructure necessary for a population’s survival",
+      "lang": "en",
+      "title_en": "White House won’t rule out Trump threat on Iran’s water supply that could amount to war crime",
+      "summary_en": "Attacking Iran’s power grid and water infrastructure would violate Geneva Convention prohibitions against attacking civilian infrastructure necessary for a population’s survival",
+      "title": "White House won’t rule out Trump threat on Iran’s water supply that could amount to war crime",
+      "summary": "Attacking Iran’s power grid and water infrastructure would violate Geneva Convention prohibitions against attacking civilian infrastructure necessary for a population’s survival",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-war-crimes-water-supply-b2948629.html",
+      "source": "The Independent World",
+      "published_at": "2026-03-30T18:48:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -38,62 +560,17 @@
       "geo": {}
     },
     {
-      "id": "6b68d32a329e2c9a",
-      "title_orig": "TSA workers asked to return $1,000 gift cards given out by Tyler Perry at Atlanta airport",
-      "summary_orig": "Some workers had already started using the gift cards Perry gave them, and it's unclear whether they will be obligated to pay back the money they already used.",
+      "id": "f2a2b76cb0d9b2b8",
+      "title_orig": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+      "summary_orig": "In Ukraine, recent attacks have caused civilian casualties and damage to critical infrastructure, the Office for the Coordination of Humanitarian Affairs (OCHA) reports. In Odesa, a 28 March strike killed people, damaging a maternity hospital and more than 70 homes. The World Health Organization (WHO) verified 124 attacks on healthcare in Ukraine, out of 357 globally.",
       "lang": "en",
-      "title_en": "TSA workers asked to return $1,000 gift cards given out by Tyler Perry at Atlanta airport",
-      "summary_en": "Some workers had already started using the gift cards Perry gave them, and it's unclear whether they will be obligated to pay back the money they already used.",
-      "title": "TSA workers asked to return $1,000 gift cards given out by Tyler Perry at Atlanta airport",
-      "summary": "Some workers had already started using the gift cards Perry gave them, and it's unclear whether they will be obligated to pay back the money they already used.",
-      "url": "https://www.kgw.com/article/news/nation-world/tsa-workers-tyler-perry-gift-cards/507-8f708aae-9f5a-4d6b-af2a-680b3d256d04",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-03-30T18:45:09+00:00",
-      "tags": [
-        "ATL",
-        "United States",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Hartsfield–Jackson",
-        "city": "Atlanta",
-        "country": "United States",
-        "iata": "ATL",
-        "lat": 33.6407,
-        "lon": -84.4277
-      }
-    },
-    {
-      "id": "a06d832aa652f67a",
-      "title_orig": "Israel Passes Law to Allow Hanging of Palestinians Convicted of Deadly Attacks",
-      "summary_orig": "The law was written in such a way that it is unlikely to ever apply to Jewish extremists.",
-      "lang": "en",
-      "title_en": "Israel Passes Law to Allow Hanging of Palestinians Convicted of Deadly Attacks",
-      "summary_en": "The law was written in such a way that it is unlikely to ever apply to Jewish extremists.",
-      "title": "Israel Passes Law to Allow Hanging of Palestinians Convicted of Deadly Attacks",
-      "summary": "The law was written in such a way that it is unlikely to ever apply to Jewish extremists.",
-      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
-      "source": "NYT > World News",
-      "published_at": "2026-03-30T18:43:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "dc5a69c551717fea",
-      "title_orig": "White House won’t rule out Trump threat on Iran’s water supply that could amount to war crime",
-      "summary_orig": "Attacking Iran’s power grid and water infrastructure would violate Geneva Convention prohibitions against attacking civilian infrastructure necessary for a population’s survival",
-      "lang": "en",
-      "title_en": "White House won’t rule out Trump threat on Iran’s water supply that could amount to war crime",
-      "summary_en": "Attacking Iran’s power grid and water infrastructure would violate Geneva Convention prohibitions against attacking civilian infrastructure necessary for a population’s survival",
-      "title": "White House won’t rule out Trump threat on Iran’s water supply that could amount to war crime",
-      "summary": "Attacking Iran’s power grid and water infrastructure would violate Geneva Convention prohibitions against attacking civilian infrastructure necessary for a population’s survival",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-war-crimes-water-supply-b2948629.html",
-      "source": "The Independent World",
-      "published_at": "2026-03-30T18:41:37+00:00",
+      "title_en": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+      "summary_en": "In Ukraine, recent attacks have caused civilian casualties and damage to critical infrastructure, the Office for the Coordination of Humanitarian Affairs (OCHA) reports. In Odesa, a 28 March strike killed people, damaging a maternity hospital and more than 70 homes. The World Health Organization (WHO) verified 124 attacks on healthcare in Ukraine, out of 357 globally.",
+      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+      "summary": "In Ukraine, recent attacks have caused civilian casualties and damage to critical infrastructure, the Office for the Coordination of Humanitarian Affairs (OCHA) reports. In Odesa, a 28 March strike killed people, damaging a maternity hospital and more than 70 homes. The World Health Organization (WHO) verified 124 attacks on healthcare in Ukraine, out of 357 globally.",
+      "url": "https://press.un.org/en/2026/db260330.doc.htm",
+      "source": "UN Meetings Coverage and Press Releases",
+      "published_at": "2026-03-30T18:38:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -155,24 +632,6 @@
       "geo": {}
     },
     {
-      "id": "6b7c30d74549cc5f",
-      "title_orig": "Israeli MPs pass bill allowing death penalty for Palestinians convicted of deadly attacks",
-      "summary_orig": "The Association for Civil Rights in Israel has filed a petition with the country’s Supreme Court challenging it.",
-      "lang": "en",
-      "title_en": "Israeli MPs pass bill allowing death penalty for Palestinians convicted of deadly attacks",
-      "summary_en": "The Association for Civil Rights in Israel has filed a petition with the country’s Supreme Court challenging it.",
-      "title": "Israeli MPs pass bill allowing death penalty for Palestinians convicted of deadly attacks",
-      "summary": "The Association for Civil Rights in Israel has filed a petition with the country’s Supreme Court challenging it.",
-      "url": "https://www.thejournal.ie/israeli-mps-debate-death-penalty-for-palestinians-convicted-of-deadly-attacks-6998883-Mar2026/",
-      "source": "TheJournal.ie",
-      "published_at": "2026-03-30T18:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5aa613020093fc25",
       "title_orig": "Delhi Police arrests Lashkar-e-Taiba operative",
       "summary_orig": "Calling Lone a hardcore and highly-trained terrorist, officials said he reportedly established links with handlers operating on behalf of Inter-Services Intelligence (ISI)",
@@ -218,24 +677,6 @@
       }
     },
     {
-      "id": "3d25f80cc1461566",
-      "title_orig": "White House blames Democrats for record-breaking DHS shutdown after House Republicans reject Senate’s compromise bill – live",
-      "summary_orig": "White House press secretary Karoline Leavitt says there are still long security lines at airports throughout the country, and morale among TSA agents has ‘plummeted’ Sign up for the Breaking News US email alerts The average price for a gallon of gasoline in the US is about to hit $4 , according to the American Automobile Association (AAA). This is up 33% from a month ago , when the average price was $2.98 per gallon. The hike is the highest national average since 2022, after Russia’s full-scale invasion of Ukraine. Continue reading...",
-      "lang": "en",
-      "title_en": "White House blames Democrats for record-breaking DHS shutdown after House Republicans reject Senate’s compromise bill – live",
-      "summary_en": "White House press secretary Karoline Leavitt says there are still long security lines at airports throughout the country, and morale among TSA agents has ‘plummeted’ Sign up for the Breaking News US email alerts The average price for a gallon of gasoline in the US is about to hit $4 , according to the American Automobile Association (AAA). This is up 33% from a month ago , when the average price was $2.98 per gallon. The hike is the highest national average since 2022, after Russia’s full-scale invasion of Ukraine. Continue reading...",
-      "title": "White House blames Democrats for record-breaking DHS shutdown after House Republicans reject Senate’s compromise bill – live",
-      "summary": "White House press secretary Karoline Leavitt says there are still long security lines at airports throughout the country, and morale among TSA agents has ‘plummeted’ Sign up for the Breaking News US email alerts The average price for a gallon of gasoline in the US is about to hit $4 , according to the American Automobile Association (AAA). This is up 33% from a month ago , when the average price was $2.98 per gallon. The hike is the highest national average since 2022, after Russia’s full-scale invasion of Ukraine. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/30/donald-trump-shutdown-ice-dhs-tsa-airports-iran-jd-vance-latest-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-30T18:24:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "7ef3008507dc1248",
       "title_orig": "Israel legalises death penalty for Palestinians convicted of murdering Israelis",
       "summary_orig": "Israel's parliament on Monday passed a law approving the death penalty for Palestinians convicted on terror charges of carrying out deadly attacks on Israelis. The law, which also allows the courts to impose the death penalty on Israeli citizens, has been harshly criticised by Israeli and Palestinian rights groups.",
@@ -254,24 +695,6 @@
       "geo": {}
     },
     {
-      "id": "3bc1c386c33f45ea",
-      "title_orig": "Suit alleges violent video game spurred St. Peter patient to fatally beat another resident",
-      "summary_orig": "A lawsuit from the family of the man killed cited the game’s “life-like” depiction of violent activity triggered the attack. The suit says staff members violated policy concerning video games.",
-      "lang": "en",
-      "title_en": "Suit alleges violent video game spurred St. Peter patient to fatally beat another resident",
-      "summary_en": "A lawsuit from the family of the man killed cited the game’s “life-like” depiction of violent activity triggered the attack. The suit says staff members violated policy concerning video games.",
-      "title": "Suit alleges violent video game spurred St. Peter patient to fatally beat another resident",
-      "summary": "A lawsuit from the family of the man killed cited the game’s “life-like” depiction of violent activity triggered the attack. The suit says staff members violated policy concerning video games.",
-      "url": "https://www.startribune.com/suit-alleges-violent-video-game-spurred-st-peter-patient-to-use-guitar-to-fatally-beat-another/601650689",
-      "source": "Startribune News",
-      "published_at": "2026-03-30T18:15:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3fe3e8120d345d7d",
       "title_orig": "Hunt to find cyclist after 93-year-old woman attacked in violent Shirley robbery",
       "summary_orig": "A woman, 93, was attacked in a violent robbery in a street with the attacker then stealing her mobility trolley",
@@ -287,24 +710,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2dc943ac65e30b87",
-      "title_orig": "Israel passes law to give death penalty to Palestinians convicted of lethal attacks",
-      "summary_orig": "Knesset approves measure that has been criticised by European nations and rights groups Israel’s parliament has passed a law imposing the death penalty on Palestinians convicted of fatal attacks, a measure sharply criticised as discriminatory by European nations and rights groups. The legislation makes the death penalty the default punishment for Palestinians in the Israeli-occupied West Bank found guilty of intentionally carrying out deadly attacks deemed acts of terrorism by a military court. Continue reading...",
-      "lang": "en",
-      "title_en": "Israel passes law to give death penalty to Palestinians convicted of lethal attacks",
-      "summary_en": "Knesset approves measure that has been criticised by European nations and rights groups Israel’s parliament has passed a law imposing the death penalty on Palestinians convicted of fatal attacks, a measure sharply criticised as discriminatory by European nations and rights groups. The legislation makes the death penalty the default punishment for Palestinians in the Israeli-occupied West Bank found guilty of intentionally carrying out deadly attacks deemed acts of terrorism by a military court. Continue reading...",
-      "title": "Israel passes law to give death penalty to Palestinians convicted of lethal attacks",
-      "summary": "Knesset approves measure that has been criticised by European nations and rights groups Israel’s parliament has passed a law imposing the death penalty on Palestinians convicted of fatal attacks, a measure sharply criticised as discriminatory by European nations and rights groups. The legislation makes the death penalty the default punishment for Palestinians in the Israeli-occupied West Bank found guilty of intentionally carrying out deadly attacks deemed acts of terrorism by a military court. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/mar/30/israel-passes-law-death-penalty-palestinian-convicted-terrorists",
-      "source": "World news | The Guardian",
-      "published_at": "2026-03-30T18:02:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -377,24 +782,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "031b4a82c54e6380",
-      "title_orig": "Most TSA workers got first paycheck in weeks on Monday, signaling possible relief at airports",
-      "summary_orig": "TSA officers are receiving overdue paychecks as a prolonged shutdown continues. Here's what that means for the nation's airports.",
-      "lang": "en",
-      "title_en": "Most TSA workers got first paycheck in weeks on Monday, signaling possible relief at airports",
-      "summary_en": "TSA officers are receiving overdue paychecks as a prolonged shutdown continues. Here's what that means for the nation's airports.",
-      "title": "Most TSA workers got first paycheck in weeks on Monday, signaling possible relief at airports",
-      "summary": "TSA officers are receiving overdue paychecks as a prolonged shutdown continues. Here's what that means for the nation's airports.",
-      "url": "https://www.kgw.com/article/news/nation-world/tsa-workers-get-paid-airports-shutdown/507-3a9e1c94-8f92-48e2-af34-70c493dd69b8",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-03-30T17:45:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -814,12 +1201,12 @@
     {
       "id": "e79485e6906e0d9e",
       "title_orig": "Air Canada CEO to resign after backlash to video tribute of pilots killed in crash",
-      "summary_orig": "Michael Rousseau faced mockery for speaking English and not French while addressing fatal LaGuardia airport crash The head of Canada’s largest airline is stepping down after his video tribute to pilots killed in a fatal collision became a public relations nightmare for Air Canada, prompting a wave of mockery and indignation at him from both the public and politicians for not speaking French. Air Canada’s CEO, Michael Rousseau, will retire by the end of the third quarter of 2026, the company said on Monday. He will continue to lead the company and serve on the board of directors until that time, the carrier said. Continue reading...",
+      "summary_orig": "Michael Rousseau faced mockery for speaking English and not French while addressing fatal LaGuardia airport crash Sign up for the Breaking News US email to get newsletter alerts in your inbox The head of Canada’s largest airline is stepping down after his video tribute to pilots killed in a fatal collision became a public relations nightmare for Air Canada, prompting a wave of mockery and indignation at him from both the public and politicians for not speaking French. Air Canada’s CEO, Michael Rousseau, will retire by the end of the third quarter of 2026, the company said on Monday. He will continue to lead the company and serve on the board of directors until that time, the carrier said. Continue reading...",
       "lang": "en",
       "title_en": "Air Canada CEO to resign after backlash to video tribute of pilots killed in crash",
-      "summary_en": "Michael Rousseau faced mockery for speaking English and not French while addressing fatal LaGuardia airport crash The head of Canada’s largest airline is stepping down after his video tribute to pilots killed in a fatal collision became a public relations nightmare for Air Canada, prompting a wave of mockery and indignation at him from both the public and politicians for not speaking French. Air Canada’s CEO, Michael Rousseau, will retire by the end of the third quarter of 2026, the company said on Monday. He will continue to lead the company and serve on the board of directors until that time, the carrier said. Continue reading...",
+      "summary_en": "Michael Rousseau faced mockery for speaking English and not French while addressing fatal LaGuardia airport crash Sign up for the Breaking News US email to get newsletter alerts in your inbox The head of Canada’s largest airline is stepping down after his video tribute to pilots killed in a fatal collision became a public relations nightmare for Air Canada, prompting a wave of mockery and indignation at him from both the public and politicians for not speaking French. Air Canada’s CEO, Michael Rousseau, will retire by the end of the third quarter of 2026, the company said on Monday. He will continue to lead the company and serve on the board of directors until that time, the carrier said. Continue reading...",
       "title": "Air Canada CEO to resign after backlash to video tribute of pilots killed in crash",
-      "summary": "Michael Rousseau faced mockery for speaking English and not French while addressing fatal LaGuardia airport crash The head of Canada’s largest airline is stepping down after his video tribute to pilots killed in a fatal collision became a public relations nightmare for Air Canada, prompting a wave of mockery and indignation at him from both the public and politicians for not speaking French. Air Canada’s CEO, Michael Rousseau, will retire by the end of the third quarter of 2026, the company said on Monday. He will continue to lead the company and serve on the board of directors until that time, the carrier said. Continue reading...",
+      "summary": "Michael Rousseau faced mockery for speaking English and not French while addressing fatal LaGuardia airport crash Sign up for the Breaking News US email to get newsletter alerts in your inbox The head of Canada’s largest airline is stepping down after his video tribute to pilots killed in a fatal collision became a public relations nightmare for Air Canada, prompting a wave of mockery and indignation at him from both the public and politicians for not speaking French. Air Canada’s CEO, Michael Rousseau, will retire by the end of the third quarter of 2026, the company said on Monday. He will continue to lead the company and serve on the board of directors until that time, the carrier said. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/mar/30/air-canada-ceo-resignation",
       "source": "World news | The Guardian",
       "published_at": "2026-03-30T16:06:42+00:00",
@@ -868,24 +1255,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/finland-ukraine-drone-russia-uav-b2948527.html",
       "source": "The Independent World",
       "published_at": "2026-03-30T16:01:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6af3ce309fc3feea",
-      "title_orig": "Here’s where gas is cheapest and most expensive this week in Michigan",
-      "summary_orig": "Prices have surged $1.10 since February attacks on Iran disrupted global oil supplies, and experts warn the national average could soon push beyond $4 per gallon.",
-      "lang": "en",
-      "title_en": "Here’s where gas is cheapest and most expensive this week in Michigan",
-      "summary_en": "Prices have surged $1.10 since February attacks on Iran disrupted global oil supplies, and experts warn the national average could soon push beyond $4 per gallon.",
-      "title": "Here’s where gas is cheapest and most expensive this week in Michigan",
-      "summary": "Prices have surged $1.10 since February attacks on Iran disrupted global oil supplies, and experts warn the national average could soon push beyond $4 per gallon.",
-      "url": "https://www.mlive.com/news/2026/03/heres-where-gas-is-cheapest-and-most-expensive-this-week-in-michigan.html-2",
-      "source": "mlive.com",
-      "published_at": "2026-03-30T16:00:24+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1460,24 +1829,6 @@
       "geo": {}
     },
     {
-      "id": "7cad2c4a14b22c19",
-      "title_orig": "Cleveland Hopkins passenger traffic edges up in February, still down for 2026",
-      "summary_orig": "New airline service this spring to New York City, Los Angeles and Montreal should boost passenger traffic in the second quarter, according to the airport.",
-      "lang": "en",
-      "title_en": "Cleveland Hopkins passenger traffic edges up in February, still down for 2026",
-      "summary_en": "New airline service this spring to New York City, Los Angeles and Montreal should boost passenger traffic in the second quarter, according to the airport.",
-      "title": "Cleveland Hopkins passenger traffic edges up in February, still down for 2026",
-      "summary": "New airline service this spring to New York City, Los Angeles and Montreal should boost passenger traffic in the second quarter, according to the airport.",
-      "url": "https://www.cleveland.com/travel/2026/03/cleveland-hopkins-passenger-traffic-edges-up-in-february-still-down-for-2026.html",
-      "source": "cleveland.com",
-      "published_at": "2026-03-30T14:07:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1b41979730f4f99d",
       "title_orig": "Press Release: Tigerair Taiwan taps Bluebox wireless IFE for A320 fleet",
       "summary_orig": "Bluebox Aviation Systems today announces a new partnership with Tigerair Taiwan to introduce a wireless inflight entertainment experience across the airline’s 17 Airbus A320 aircraft. The deployment will be powered by Bluebox Wow, battery-powered portable wireless system, delivering the Blueview digital services platform to passengers’ personal devices. The service will mark Tigerair Taiwan’s first inflight... The post Press Release: Tigerair Taiwan taps Bluebox wireless IFE for A320 fleet appeared first on Runway Girl .",
@@ -1632,13 +1983,13 @@
     },
     {
       "id": "2ae7fb0180b311b1",
-      "title_orig": "Israel Knesset set to vote on death penalty law for Palestinians convicted of lethal attacks",
-      "summary_orig": "JERUSALEM, March 30 - Israel's parliament was set to vote on Monday on a law making the death penalty a default sentence for Palestinians convicted in military court of deadly attacks, seeing through a main pledge by Prime Minister Benjamin Netanyahu’s far-right allies.",
+      "title_orig": "Israel passes death penalty law for Palestinians convicted of lethal attacks",
+      "summary_orig": "Rights groups have decried the law as \"an act of institutionalised discrimination and racist violence against Palestinians.\"",
       "lang": "en",
-      "title_en": "Israel Knesset set to vote on death penalty law for Palestinians convicted of lethal attacks",
-      "summary_en": "JERUSALEM, March 30 - Israel's parliament was set to vote on Monday on a law making the death penalty a default sentence for Palestinians convicted in military court of deadly attacks, seeing through a main pledge by Prime Minister Benjamin Netanyahu’s far-right allies.",
-      "title": "Israel Knesset set to vote on death penalty law for Palestinians convicted of lethal attacks",
-      "summary": "JERUSALEM, March 30 - Israel's parliament was set to vote on Monday on a law making the death penalty a default sentence for Palestinians convicted in military court of deadly attacks, seeing through a main pledge by Prime Minister Benjamin Netanyahu’s far-right allies.",
+      "title_en": "Israel passes death penalty law for Palestinians convicted of lethal attacks",
+      "summary_en": "Rights groups have decried the law as \"an act of institutionalised discrimination and racist violence against Palestinians.\"",
+      "title": "Israel passes death penalty law for Palestinians convicted of lethal attacks",
+      "summary": "Rights groups have decried the law as \"an act of institutionalised discrimination and racist violence against Palestinians.\"",
       "url": "https://www.straitstimes.com/world/middle-east/israeli-death-penalty-bill-for-palestinian-murder-convicts-faces-vote",
       "source": "The Straits Times World News",
       "published_at": "2026-03-30T13:23:07+00:00",
@@ -1718,24 +2069,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "73cac7f1639cacb4",
-      "title_orig": "Why have the US and Israel bombed more than 75 Iranian police facilities?",
-      "summary_orig": "An Al Jazeera investigation finds internal security facilities in populated areas have been heavily targeted.",
-      "lang": "en",
-      "title_en": "Why have the US and Israel bombed more than 75 Iranian police facilities?",
-      "summary_en": "An Al Jazeera investigation finds internal security facilities in populated areas have been heavily targeted.",
-      "title": "Why have the US and Israel bombed more than 75 Iranian police facilities?",
-      "summary": "An Al Jazeera investigation finds internal security facilities in populated areas have been heavily targeted.",
-      "url": "https://www.aljazeera.com/news/2026/3/30/why-have-the-us-and-israel-bombed-more-than-75-iranian-police-facilities?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-03-30T12:54:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2820,24 +3153,6 @@
       "geo": {}
     },
     {
-      "id": "a19dfe630b61a9fe",
-      "title_orig": "Iran could spell the end of the gas levy: Government changes messaging on LNG plan",
-      "summary_orig": "The Government’s plan for a LNG import terminal could be at risk, with Prime Minister Christopher Luxon softening his language on the Government’s plan on Monday morning.",
-      "lang": "en",
-      "title_en": "Iran could spell the end of the gas levy: Government changes messaging on LNG plan",
-      "summary_en": "The Government’s plan for a LNG import terminal could be at risk, with Prime Minister Christopher Luxon softening his language on the Government’s plan on Monday morning.",
-      "title": "Iran could spell the end of the gas levy: Government changes messaging on LNG plan",
-      "summary": "The Government’s plan for a LNG import terminal could be at risk, with Prime Minister Christopher Luxon softening his language on the Government’s plan on Monday morning.",
-      "url": "https://www.stuff.co.nz/politics/360957813/iran-could-spell-end-gas-levy-government-changes-messaging-lng-plan",
-      "source": "Stuff - /",
-      "published_at": "2026-03-29T22:40:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d41bad3b7b32122b",
       "title_orig": "Three arrested at ICE facility at evening protest after 'No Kings' rallies in downtown Portland",
       "summary_orig": "Portland police declared an 'unlawful assembly' at the ICE protest after they said a gate and other property was vandalized.",
@@ -3857,24 +4172,6 @@
       "url": "https://runwaygirlnetwork.com/2026/03/digitizing-borders-could-free-up-space-to-reimagine-paxex/",
       "source": "Runway Girl",
       "published_at": "2026-03-24T23:53:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b0f0a950b77ed456",
-      "title_orig": "Press Release: United Airlines details premium plan for 250+ planes",
-      "summary_orig": "United Airlines has announced the next phase of its long-term plan to win brand loyal customers and further differentiate itself from competitors. The airline expects to take delivery of more than 250 new aircraft by April 2028 — the most by any airline in a two-year period — to further modernize its fleet, add new... The post Press Release: United Airlines details premium plan for 250+ planes appeared first on Runway Girl .",
-      "lang": "en",
-      "title_en": "Press Release: United Airlines details premium plan for 250+ planes",
-      "summary_en": "United Airlines has announced the next phase of its long-term plan to win brand loyal customers and further differentiate itself from competitors. The airline expects to take delivery of more than 250 new aircraft by April 2028 — the most by any airline in a two-year period — to further modernize its fleet, add new... The post Press Release: United Airlines details premium plan for 250+ planes appeared first on Runway Girl .",
-      "title": "Press Release: United Airlines details premium plan for 250+ planes",
-      "summary": "United Airlines has announced the next phase of its long-term plan to win brand loyal customers and further differentiate itself from competitors. The airline expects to take delivery of more than 250 new aircraft by April 2028 — the most by any airline in a two-year period — to further modernize its fleet, add new... The post Press Release: United Airlines details premium plan for 250+ planes appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2026/03/press-release-united-airlines-details-premium-plan-for-250-planes/",
-      "source": "Runway Girl",
-      "published_at": "2026-03-24T21:54:25+00:00",
       "tags": [
         "airport/security"
       ],
