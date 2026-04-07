@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-04-07T21:43:25.328609+00:00",
+  "generated_at": "2026-04-07T22:37:32.786997+00:00",
   "items": [
+    {
+      "id": "ab3e20964a972158",
+      "title_orig": "‘She’s got to name it Kennedy’: Passenger gives birth aboard flight heading to JFK Airport",
+      "summary_orig": "A Caribbean Airlines flight from Jamaica to New York touched down with a unexpected extra passenger on-board.",
+      "lang": "en",
+      "title_en": "‘She’s got to name it Kennedy’: Passenger gives birth aboard flight heading to JFK Airport",
+      "summary_en": "A Caribbean Airlines flight from Jamaica to New York touched down with a unexpected extra passenger on-board.",
+      "title": "‘She’s got to name it Kennedy’: Passenger gives birth aboard flight heading to JFK Airport",
+      "summary": "A Caribbean Airlines flight from Jamaica to New York touched down with a unexpected extra passenger on-board.",
+      "url": "https://www.stuff.co.nz/travel/360961600/passenger-gives-birth-aboard-caribbean-airlines-flight-heading-new-york",
+      "source": "Stuff - /",
+      "published_at": "2026-04-07T22:28:44+00:00",
+      "tags": [
+        "JFK",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "John F. Kennedy",
+        "city": "New York",
+        "country": "United States",
+        "iata": "JFK",
+        "lat": 40.6413,
+        "lon": -73.7781
+      }
+    },
     {
       "id": "0b6c533551fd49bf",
       "title_orig": "Iran War Live Updates: Deadline Nears After Trump’s Threat to Wipe Out a ‘Whole Civilization’",
@@ -12,11 +39,290 @@
       "summary": "With hours to go before President Trump’s 8 p.m. Eastern time deadline for Iran to agree to reopen the Strait of Hormuz or face intense attacks, negotiators feverishly worked toward a deal. Pakistan, an intermediary, proposed a two-week cease-fire.",
       "url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
       "source": "NYT > World News",
-      "published_at": "2026-04-07T21:34:05+00:00",
+      "published_at": "2026-04-07T22:24:03+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6286eeb4e3957dde",
+      "title_orig": "Lebanese Mourn Couple Killed in Israeli Strike, Exposing Rift Over Hezbollah",
+      "summary_orig": "The victims had no ties to Hezbollah, and Israel said they were not targets. Many Lebanese are angry with Israel, but also with Hezbollah for embroiling their country in the war.",
+      "lang": "en",
+      "title_en": "Lebanese Mourn Couple Killed in Israeli Strike, Exposing Rift Over Hezbollah",
+      "summary_en": "The victims had no ties to Hezbollah, and Israel said they were not targets. Many Lebanese are angry with Israel, but also with Hezbollah for embroiling their country in the war.",
+      "title": "Lebanese Mourn Couple Killed in Israeli Strike, Exposing Rift Over Hezbollah",
+      "summary": "The victims had no ties to Hezbollah, and Israel said they were not targets. Many Lebanese are angry with Israel, but also with Hezbollah for embroiling their country in the war.",
+      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/lebanon-couple-killed-israeli-strike.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-07T22:24:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "391bd8953bc863b9",
+      "title_orig": "Britain Reinforces That U.S. Cannot Use British Bases for Attacks on Iran",
+      "summary_orig": "The U.K. government underlined its previous stance that the United States could only use British bases for defensive purposes, after President Trump threatened to strike civilian targets.",
+      "lang": "en",
+      "title_en": "Britain Reinforces That U.S. Cannot Use British Bases for Attacks on Iran",
+      "summary_en": "The U.K. government underlined its previous stance that the United States could only use British bases for defensive purposes, after President Trump threatened to strike civilian targets.",
+      "title": "Britain Reinforces That U.S. Cannot Use British Bases for Attacks on Iran",
+      "summary": "The U.K. government underlined its previous stance that the United States could only use British bases for defensive purposes, after President Trump threatened to strike civilian targets.",
+      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/britain-iran-bases.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-07T22:21:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "75ae739ca991bfe0",
+      "title_orig": "9th Circuit judges question tear gas, force restrictions at Portland ICE protests",
+      "summary_orig": "Two Trump-appointed judges express concern that restrictions could endanger federal officers during large-scale demonstrations.",
+      "lang": "en",
+      "title_en": "9th Circuit judges question tear gas, force restrictions at Portland ICE protests",
+      "summary_en": "Two Trump-appointed judges express concern that restrictions could endanger federal officers during large-scale demonstrations.",
+      "title": "9th Circuit judges question tear gas, force restrictions at Portland ICE protests",
+      "summary": "Two Trump-appointed judges express concern that restrictions could endanger federal officers during large-scale demonstrations.",
+      "url": "https://www.oregonlive.com/portland/2026/04/9th-circuit-judges-question-tear-gas-force-restrictions-at-portland-ice-protests.html",
+      "source": "oregonlive.com",
+      "published_at": "2026-04-07T22:20:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "99242e331006f9a8",
+      "title_orig": "UN chief decries ‘incendiary rhetoric’ after Trump ramps up threats against Iran as deal deadline looms – Middle East crisis live",
+      "summary_orig": "UN chief warns that deliberate attacks on civilians amount to war crime; Trump once again implores Iran to make a deal to avert attack Trump says ‘a whole civilisation will die’ if Iran ignores demands Democrats outraged at Trump: ‘A threat to commit a war crime’ Here are some of the latest images coming in from the Middle East as the war continues in week six. The Israeli military has just warned the people of Iran not to use trains, saying that doing so “endangers your life” . Dear Citizens, for the sake of your security, we kindly request that from this moment until 21:00 Iran time, you refrain from using and travelling by train throughout Iran. Your presence on trains and near railway lines endangers your life. Continue reading...",
+      "lang": "en",
+      "title_en": "UN chief decries ‘incendiary rhetoric’ after Trump ramps up threats against Iran as deal deadline looms – Middle East crisis live",
+      "summary_en": "UN chief warns that deliberate attacks on civilians amount to war crime; Trump once again implores Iran to make a deal to avert attack Trump says ‘a whole civilisation will die’ if Iran ignores demands Democrats outraged at Trump: ‘A threat to commit a war crime’ Here are some of the latest images coming in from the Middle East as the war continues in week six. The Israeli military has just warned the people of Iran not to use trains, saying that doing so “endangers your life” . Dear Citizens, for the sake of your security, we kindly request that from this moment until 21:00 Iran time, you refrain from using and travelling by train throughout Iran. Your presence on trains and near railway lines endangers your life. Continue reading...",
+      "title": "UN chief decries ‘incendiary rhetoric’ after Trump ramps up threats against Iran as deal deadline looms – Middle East crisis live",
+      "summary": "UN chief warns that deliberate attacks on civilians amount to war crime; Trump once again implores Iran to make a deal to avert attack Trump says ‘a whole civilisation will die’ if Iran ignores demands Democrats outraged at Trump: ‘A threat to commit a war crime’ Here are some of the latest images coming in from the Middle East as the war continues in week six. The Israeli military has just warned the people of Iran not to use trains, saying that doing so “endangers your life” . Dear Citizens, for the sake of your security, we kindly request that from this moment until 21:00 Iran time, you refrain from using and travelling by train throughout Iran. Your presence on trains and near railway lines endangers your life. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
+      "source": "World news | The Guardian",
+      "published_at": "2026-04-07T22:18:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "2a6ccdfcbbffd802",
+      "title_orig": "Antisemitic threat triggers lockdown at Jewish student center near University of Oregon",
+      "summary_orig": "Officials said a suspect had been detained.",
+      "lang": "en",
+      "title_en": "Antisemitic threat triggers lockdown at Jewish student center near University of Oregon",
+      "summary_en": "Officials said a suspect had been detained.",
+      "title": "Antisemitic threat triggers lockdown at Jewish student center near University of Oregon",
+      "summary": "Officials said a suspect had been detained.",
+      "url": "https://www.oregonlive.com/news/2026/04/antisemitic-threat-triggers-lockdown-at-jewish-student-center-near-university-of-oregon.html",
+      "source": "oregonlive.com",
+      "published_at": "2026-04-07T22:17:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6d728862e90ff89a",
+      "title_orig": "Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live",
+      "summary_orig": "Tucker Carlson calls Trump strategy ‘vile on every level’ and Marjorie Taylor Greene joins Democrats’ calls to remove president using 25th amendment Sign up for Breaking News US email alerts During a press conference in Budapest with Hungary’s prime minister Viktor Orbán , vice-president JD Vance is asked how the military goals in Iran can be achieved if the US continues its attacks on the country. Vance was also asked about reports about US attacks on Kharg Island. The vice-president said the plan was to hit “some military targets” there and “I believe we have done so.” Continue reading...",
+      "lang": "en",
+      "title_en": "Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live",
+      "summary_en": "Tucker Carlson calls Trump strategy ‘vile on every level’ and Marjorie Taylor Greene joins Democrats’ calls to remove president using 25th amendment Sign up for Breaking News US email alerts During a press conference in Budapest with Hungary’s prime minister Viktor Orbán , vice-president JD Vance is asked how the military goals in Iran can be achieved if the US continues its attacks on the country. Vance was also asked about reports about US attacks on Kharg Island. The vice-president said the plan was to hit “some military targets” there and “I believe we have done so.” Continue reading...",
+      "title": "Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live",
+      "summary": "Tucker Carlson calls Trump strategy ‘vile on every level’ and Marjorie Taylor Greene joins Democrats’ calls to remove president using 25th amendment Sign up for Breaking News US email alerts During a press conference in Budapest with Hungary’s prime minister Viktor Orbán , vice-president JD Vance is asked how the military goals in Iran can be achieved if the US continues its attacks on the country. Vance was also asked about reports about US attacks on Kharg Island. The vice-president said the plan was to hit “some military targets” there and “I believe we have done so.” Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
+      "source": "World news | The Guardian",
+      "published_at": "2026-04-07T22:12:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "3b6595d76b42d868",
+      "title_orig": "Bob MacIntyre reckons Augusta 'attack' mode is best option for Masters glory bid",
+      "summary_orig": "Scot has turned up at Augusta National with a spring in his step - and it’s there for all to see",
+      "lang": "en",
+      "title_en": "Bob MacIntyre reckons Augusta 'attack' mode is best option for Masters glory bid",
+      "summary_en": "Scot has turned up at Augusta National with a spring in his step - and it’s there for all to see",
+      "title": "Bob MacIntyre reckons Augusta 'attack' mode is best option for Masters glory bid",
+      "summary": "Scot has turned up at Augusta National with a spring in his step - and it’s there for all to see",
+      "url": "https://www.scotsman.com/sport/bob-macintyre-reckons-augusta-attack-mode-is-best-option-for-masters-glory-bid-6566559",
+      "source": "The Scotsman",
+      "published_at": "2026-04-07T22:07:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "73a90f57b30a942e",
+      "title_orig": "Iran-US war latest: Kharg Island targeted by multiple US strikes as Tehran issues new ‘red line’ warning to Trump",
+      "summary_orig": "Iran says oil and gas supplies to US and partners will be disrupted for years",
+      "lang": "en",
+      "title_en": "Iran-US war latest: Kharg Island targeted by multiple US strikes as Tehran issues new ‘red line’ warning to Trump",
+      "summary_en": "Iran says oil and gas supplies to US and partners will be disrupted for years",
+      "title": "Iran-US war latest: Kharg Island targeted by multiple US strikes as Tehran issues new ‘red line’ warning to Trump",
+      "summary": "Iran says oil and gas supplies to US and partners will be disrupted for years",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-threats-deadline-strait-of-hormuz-b2952716.html",
+      "source": "The Independent World",
+      "published_at": "2026-04-07T22:01:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f4b077e33a12d364",
+      "title_orig": "‘Pete is not speaking truth to the president’: Experts sound alarm over Hegseth’s war messaging to Trump",
+      "summary_orig": "The Pentagon chief has said Iran has ‘no air defenses’ and its missiles and drones were ‘being destroyed or shot out of the sky’",
+      "lang": "en",
+      "title_en": "‘Pete is not speaking truth to the president’: Experts sound alarm over Hegseth’s war messaging to Trump",
+      "summary_en": "The Pentagon chief has said Iran has ‘no air defenses’ and its missiles and drones were ‘being destroyed or shot out of the sky’",
+      "title": "‘Pete is not speaking truth to the president’: Experts sound alarm over Hegseth’s war messaging to Trump",
+      "summary": "The Pentagon chief has said Iran has ‘no air defenses’ and its missiles and drones were ‘being destroyed or shot out of the sky’",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-trump-iran-war-b2953339.html",
+      "source": "The Independent World",
+      "published_at": "2026-04-07T22:00:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "197fe30666b021d6",
+      "title_orig": "Donald Trump says ‘a whole civilisation will die’ if Iran ignores demands",
+      "summary_orig": "Attacks on Iran increase and Israel tells Iranians to avoid train travel as deadline to reopen strait of Hormuz looms Middle East crisis – live updates Donald Trump has warned that Iran ’s “whole civilisation will die tonight” if Tehran did not comply with his demands, as the world braced to see if the president would deliver on his latest threat to order the mass destruction of Iranian power plants and bridges in the absence of a deal by 8pm EDT (1am BST). Iran’s Revolutionary Guards signalled they were also ready to escalate the war with a threat to retaliate “beyond the region” and “to deprive the US and its allies of oil and gas in the region for years”, suggesting Iran would target oil and gas production facilities in the Gulf and elsewhere, potentially sending the world into a recession. Continue reading...",
+      "lang": "en",
+      "title_en": "Donald Trump says ‘a whole civilisation will die’ if Iran ignores demands",
+      "summary_en": "Attacks on Iran increase and Israel tells Iranians to avoid train travel as deadline to reopen strait of Hormuz looms Middle East crisis – live updates Donald Trump has warned that Iran ’s “whole civilisation will die tonight” if Tehran did not comply with his demands, as the world braced to see if the president would deliver on his latest threat to order the mass destruction of Iranian power plants and bridges in the absence of a deal by 8pm EDT (1am BST). Iran’s Revolutionary Guards signalled they were also ready to escalate the war with a threat to retaliate “beyond the region” and “to deprive the US and its allies of oil and gas in the region for years”, suggesting Iran would target oil and gas production facilities in the Gulf and elsewhere, potentially sending the world into a recession. Continue reading...",
+      "title": "Donald Trump says ‘a whole civilisation will die’ if Iran ignores demands",
+      "summary": "Attacks on Iran increase and Israel tells Iranians to avoid train travel as deadline to reopen strait of Hormuz looms Middle East crisis – live updates Donald Trump has warned that Iran ’s “whole civilisation will die tonight” if Tehran did not comply with his demands, as the world braced to see if the president would deliver on his latest threat to order the mass destruction of Iranian power plants and bridges in the absence of a deal by 8pm EDT (1am BST). Iran’s Revolutionary Guards signalled they were also ready to escalate the war with a threat to retaliate “beyond the region” and “to deprive the US and its allies of oil and gas in the region for years”, suggesting Iran would target oil and gas production facilities in the Gulf and elsewhere, potentially sending the world into a recession. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
+      "source": "World news | The Guardian",
+      "published_at": "2026-04-07T21:57:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "d1aae14c26735677",
+      "title_orig": "Trump threatens to destroy Iranian 'civilization' if a deal isn't reached",
+      "summary_orig": "U.S. President Donald Trump threatened Tuesday that a ''whole civilization will die tonight'' if Iran fails to meet his latest deadline to strike a deal that includes reopening the Strait of Hormuz, while the Islamic Republic urged young people to form human chains around power plants and other potential targets.",
+      "lang": "en",
+      "title_en": "Trump threatens to destroy Iranian 'civilization' if a deal isn't reached",
+      "summary_en": "U.S. President Donald Trump threatened Tuesday that a ''whole civilization will die tonight'' if Iran fails to meet his latest deadline to strike a deal that includes reopening the Strait of Hormuz, while the Islamic Republic urged young people to form human chains around power plants and other potential targets.",
+      "title": "Trump threatens to destroy Iranian 'civilization' if a deal isn't reached",
+      "summary": "U.S. President Donald Trump threatened Tuesday that a ''whole civilization will die tonight'' if Iran fails to meet his latest deadline to strike a deal that includes reopening the Strait of Hormuz, while the Islamic Republic urged young people to form human chains around power plants and other potential targets.",
+      "url": "https://www.startribune.com/bridge-linking-saudi-arabia-to-bahrain-closed-over-iranian-threats-as-trumps-deadline-nears/601662078",
+      "source": "Startribune News",
+      "published_at": "2026-04-07T21:50:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "90bb764de8232857",
+      "title_orig": "Trump Issues Apocalyptic Threat Against Iran as Pakistan Asks Him to Hold Off Strikes",
+      "summary_orig": "A “whole civilization will die tonight,” the president said as he turned up the pressure on Iran’s leaders to reopen the Strait of Hormuz.",
+      "lang": "en",
+      "title_en": "Trump Issues Apocalyptic Threat Against Iran as Pakistan Asks Him to Hold Off Strikes",
+      "summary_en": "A “whole civilization will die tonight,” the president said as he turned up the pressure on Iran’s leaders to reopen the Strait of Hormuz.",
+      "title": "Trump Issues Apocalyptic Threat Against Iran as Pakistan Asks Him to Hold Off Strikes",
+      "summary": "A “whole civilization will die tonight,” the president said as he turned up the pressure on Iran’s leaders to reopen the Strait of Hormuz.",
+      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/trump-iran-deadline.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-07T21:47:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "12faedd45a6dd89c",
+      "title_orig": "Parrot found perched outside Dublin Airport terminal reunited with owner",
+      "summary_orig": "Dublin Airport says that Troy, whose real name is Lola, is now officially back home with its owner Gheorghe Sava.",
+      "lang": "en",
+      "title_en": "Parrot found perched outside Dublin Airport terminal reunited with owner",
+      "summary_en": "Dublin Airport says that Troy, whose real name is Lola, is now officially back home with its owner Gheorghe Sava.",
+      "title": "Parrot found perched outside Dublin Airport terminal reunited with owner",
+      "summary": "Dublin Airport says that Troy, whose real name is Lola, is now officially back home with its owner Gheorghe Sava.",
+      "url": "https://www.thejournal.ie/parrot-dunlin-airport-reunited-7006113-Apr2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-04-07T21:46:58+00:00",
+      "tags": [
+        "DUB",
+        "Ireland",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dublin",
+        "city": "Dublin",
+        "country": "Ireland",
+        "iata": "DUB",
+        "lat": 53.4213,
+        "lon": -6.2701
+      }
+    },
+    {
+      "id": "d91c731e9f600679",
+      "title_orig": "Construction workers block roads in France over soaring fuel prices",
+      "summary_orig": "Construction workers set up a roadblock on the Nantes ring road to protest rising fuel costs, saying the sharp increase is putting pressure on their businesses.",
+      "lang": "en",
+      "title_en": "Construction workers block roads in France over soaring fuel prices",
+      "summary_en": "Construction workers set up a roadblock on the Nantes ring road to protest rising fuel costs, saying the sharp increase is putting pressure on their businesses.",
+      "title": "Construction workers block roads in France over soaring fuel prices",
+      "summary": "Construction workers set up a roadblock on the Nantes ring road to protest rising fuel costs, saying the sharp increase is putting pressure on their businesses.",
+      "url": "http://www.euronews.com/video/2026/04/07/construction-workers-block-roads-in-france-over-soaring-fuel-prices",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-04-07T21:40:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "2ccccdb2747e2932",
+      "title_orig": "MAFS Australia fans slam 'cruel' behaviour after bombshell revelation",
+      "summary_orig": "Married At First Sight Australia viewers slammed one bride's behaviour after she admitted getting the ick from her husband's YouTube video",
+      "lang": "en",
+      "title_en": "MAFS Australia fans slam 'cruel' behaviour after bombshell revelation",
+      "summary_en": "Married At First Sight Australia viewers slammed one bride's behaviour after she admitted getting the ick from her husband's YouTube video",
+      "title": "MAFS Australia fans slam 'cruel' behaviour after bombshell revelation",
+      "summary": "Married At First Sight Australia viewers slammed one bride's behaviour after she admitted getting the ick from her husband's YouTube video",
+      "url": "https://www.bristolpost.co.uk/news/celebs-tv/mafs-australia-fans-slam-cruel-10905731",
+      "source": "Bristol Post - News",
+      "published_at": "2026-04-07T21:36:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -35,6 +341,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "84dc9d303df68c90",
+      "title_orig": "Barney Stewart has Rangers and Celtic score to settle as Falkirk striker reveals Hearts transfer plea",
+      "summary_orig": "The Premiership Player of the Month for March hopes to play his part in shaping the destiny of this year's title",
+      "lang": "en",
+      "title_en": "Barney Stewart has Rangers and Celtic score to settle as Falkirk striker reveals Hearts transfer plea",
+      "summary_en": "The Premiership Player of the Month for March hopes to play his part in shaping the destiny of this year's title",
+      "title": "Barney Stewart has Rangers and Celtic score to settle as Falkirk striker reveals Hearts transfer plea",
+      "summary": "The Premiership Player of the Month for March hopes to play his part in shaping the destiny of this year's title",
+      "url": "https://www.dailyrecord.co.uk/sport/football/football-news/barney-stewart-rangers-celtic-score-36980878",
+      "source": "Daily Record - Home",
+      "published_at": "2026-04-07T21:30:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -75,60 +399,6 @@
       "geo": {}
     },
     {
-      "id": "6d728862e90ff89a",
-      "title_orig": "Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live",
-      "summary_orig": "Tucker Carlson calls Trump strategy ‘vile on every level’ and Marjorie Taylor Greene joins Democrats’ calls to remove president using 25th amendment Sign up for Breaking News US email alerts During a press conference in Budapest with Hungary’s prime minister Viktor Orbán , vice-president JD Vance is asked how the military goals in Iran can be achieved if the US continues its attacks on the country. Vance was also asked about reports about US attacks on Kharg Island. The vice-president said the plan was to hit “some military targets” there and “I believe we have done so.” Continue reading...",
-      "lang": "en",
-      "title_en": "Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live",
-      "summary_en": "Tucker Carlson calls Trump strategy ‘vile on every level’ and Marjorie Taylor Greene joins Democrats’ calls to remove president using 25th amendment Sign up for Breaking News US email alerts During a press conference in Budapest with Hungary’s prime minister Viktor Orbán , vice-president JD Vance is asked how the military goals in Iran can be achieved if the US continues its attacks on the country. Vance was also asked about reports about US attacks on Kharg Island. The vice-president said the plan was to hit “some military targets” there and “I believe we have done so.” Continue reading...",
-      "title": "Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live",
-      "summary": "Tucker Carlson calls Trump strategy ‘vile on every level’ and Marjorie Taylor Greene joins Democrats’ calls to remove president using 25th amendment Sign up for Breaking News US email alerts During a press conference in Budapest with Hungary’s prime minister Viktor Orbán , vice-president JD Vance is asked how the military goals in Iran can be achieved if the US continues its attacks on the country. Vance was also asked about reports about US attacks on Kharg Island. The vice-president said the plan was to hit “some military targets” there and “I believe we have done so.” Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
-      "source": "World news | The Guardian",
-      "published_at": "2026-04-07T21:19:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f4b077e33a12d364",
-      "title_orig": "‘Pete is not speaking truth to the president’: Experts sound alarm over Hegseth’s war messaging to Trump",
-      "summary_orig": "The Pentagon chief has said Iran has ‘no air defenses’ and its missiles and drones were ‘being destroyed or shot out of the sky’",
-      "lang": "en",
-      "title_en": "‘Pete is not speaking truth to the president’: Experts sound alarm over Hegseth’s war messaging to Trump",
-      "summary_en": "The Pentagon chief has said Iran has ‘no air defenses’ and its missiles and drones were ‘being destroyed or shot out of the sky’",
-      "title": "‘Pete is not speaking truth to the president’: Experts sound alarm over Hegseth’s war messaging to Trump",
-      "summary": "The Pentagon chief has said Iran has ‘no air defenses’ and its missiles and drones were ‘being destroyed or shot out of the sky’",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-trump-iran-war-b2953339.html",
-      "source": "The Independent World",
-      "published_at": "2026-04-07T21:18:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "99242e331006f9a8",
-      "title_orig": "UN chief decries ‘incendiary rhetoric’ after Trump ramps up threats against Iran as deal deadline looms – Middle East crisis live",
-      "summary_orig": "UN chief warns that deliberate attacks on civilians amount to war crime; Trump once again implores Iran to make a deal to avert attack Trump says ‘a whole civilisation will die’ if Iran ignores demands Democrats outraged at Trump: ‘A threat to commit a war crime’ Here are some of the latest images coming in from the Middle East as the war continues in week six. The Israeli military has just warned the people of Iran not to use trains, saying that doing so “endangers your life” . Dear Citizens, for the sake of your security, we kindly request that from this moment until 21:00 Iran time, you refrain from using and travelling by train throughout Iran. Your presence on trains and near railway lines endangers your life. Continue reading...",
-      "lang": "en",
-      "title_en": "UN chief decries ‘incendiary rhetoric’ after Trump ramps up threats against Iran as deal deadline looms – Middle East crisis live",
-      "summary_en": "UN chief warns that deliberate attacks on civilians amount to war crime; Trump once again implores Iran to make a deal to avert attack Trump says ‘a whole civilisation will die’ if Iran ignores demands Democrats outraged at Trump: ‘A threat to commit a war crime’ Here are some of the latest images coming in from the Middle East as the war continues in week six. The Israeli military has just warned the people of Iran not to use trains, saying that doing so “endangers your life” . Dear Citizens, for the sake of your security, we kindly request that from this moment until 21:00 Iran time, you refrain from using and travelling by train throughout Iran. Your presence on trains and near railway lines endangers your life. Continue reading...",
-      "title": "UN chief decries ‘incendiary rhetoric’ after Trump ramps up threats against Iran as deal deadline looms – Middle East crisis live",
-      "summary": "UN chief warns that deliberate attacks on civilians amount to war crime; Trump once again implores Iran to make a deal to avert attack Trump says ‘a whole civilisation will die’ if Iran ignores demands Democrats outraged at Trump: ‘A threat to commit a war crime’ Here are some of the latest images coming in from the Middle East as the war continues in week six. The Israeli military has just warned the people of Iran not to use trains, saying that doing so “endangers your life” . Dear Citizens, for the sake of your security, we kindly request that from this moment until 21:00 Iran time, you refrain from using and travelling by train throughout Iran. Your presence on trains and near railway lines endangers your life. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
-      "source": "World news | The Guardian",
-      "published_at": "2026-04-07T21:18:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "467017ff68e770b1",
       "title_orig": "‘Dangerous escalation’: Pakistan condemns Iranian strikes on Saudi Arabia’s energy facilities",
       "summary_orig": "Pakistan on Tuesday condemned Iranian missile and drone strikes on Saudi Arabia’s energy facilities, terming the attacks as “a dangerous escalation” that undermined regional peace and stability. In a statement, the Foreign Office (FO) said, “The government of Pakistan expresses its deep concern and unequivocal condemnation of the missile and drone attacks carried out by the Islamic Republic of Iran last night against energy facilities in the Eastern Region of the kingdom of Saudi Arabia.” The statement said that Pakistan also mourned the loss of life resulting from these attacks and “strongly deplores the damage inflicted on vital infrastructure”. The statement also conveyed Pakistan’s condolences to the families of the victims, adding that the country firmly stood in solidarity with the government and people of the Kingdom of Saudi Arabia during this difficult time. “The government of Pakistan considers these attacks a serious violation of Saudi Arabia’s sovereignty and territorial integrity and a dangerous escalation that undermines regional peace and stability,” the FO said. “Pakistan reaffirms its unwavering support for the Kingdom’s security,” the statement concluded. PM speaks to Saudi crown prince Separately, Prime Minister Shehbaz Sharif said on X that he spoke with Saudi Crown Prince Mohammed bin Salman and “conveyed Pakistan’s unwavering solidarity with the Kingdom of Saudi Arabia”. “Condemned today’s attack on the Al Jubeil oil facility. We stand shoulder to shoulder with our Saudi brothers and sisters,” he said. “Appreciated the kingdom’s restraint under the wise and sagacious leadership of his royal highness the crown prince and reaffirmed Pakistan’s commitment to advancing peace efforts for de-escalation in the region,” he said. A separate statement by the Prime Minister’s Office said, “During their warm and cordial conversation, the two leaders discussed the ongoing hostilities in the region.” “The prime minister lauded the wisdom and sagacity of the Saudi leadership in exercising maximum restraint during the ongoing crisis, and stated that Pakistan was working assiduously for the success of the peace efforts, in partnership with other countries. He also apprised the crown prince on latest developments in Pakistan’s mediation efforts to de-escalate the Middle East crisis,” the PMO handout said. “The crown prince appreciated Pakistan’s peace efforts, aimed at restoring peace and stability in the region,” it added. Later, Deputy Prime Minister and Foreign Minister Ishaq Dar discussed evolving regional developments with his Saudi counterpart, Prince Faisal bin Farhan Al-Saud, the FO said. It added that Dar shared the latest developments in Pakistan’s efforts to promote “dialogue and diplomatic engagement in pursuit of peace and stability in the region”. Attack on Saudi Arabia The kingdom has come under attack from hundreds of Iranian missiles and drones since the US and Israel launched the war on Iran on February 28, most of which were intercepted, authorities have said. Early on Tuesday, Saudi Arabia’s defence ministry said that it had intercepted ballistic missiles towards its eastern region, with debris falling near energy facilities. However, it had not specified who launched the projectiles. Meanwhile, a witness who requested anonymity told AFP on Tuesday that overnight attacks on Saudi Arabia hit a petrochemical complex in a sprawling industrial area in the eastern city of Jubail, hours after similar installations in Iran were struck. “An attack caused a fire at the SABIC plants in Jubail. The sounds of explosions were very loud,” the source said, referring to the Saudi Basic Industries Corporation. Jubail in eastern Saudi Arabia is home to one of the world’s largest industrial cities, where steel, gasoline, petrochemicals, lubricating oil and chemical fertilisers are produced. The source later told AFP that workers in affected areas had been evacuated from their living quarters. Bahrain, Saudi Arabia and the United Arab Emirates issued simultaneous public safety alerts on Tuesday, while the bridge that connects Saudi Arabia to Bahrain was briefly closed as a precautionary measure following warning alerts. It should be noted that Pakistan and Saudi Arabia signed a “Strategic Mutual Defence Agreement” in Riyadh last year, pledging that any attack on either nation would be treated as an act of aggression against both. Last month, Deputy Prime Minister and Foreign Minister Ishaq Dar disclosed that Pakistan’s diplomatic intervention helped deter heavier Iranian strikes on Saudi Arabia. Amid the ongoing conflict, Chief of Defence Forces and Chief of Army Staff Asim Munir met Saudi Defence Minister Khalid bin Salman Al Saud while PM Shehbaz met the Saudi crown prince. In the latter meeting, the premier expressed Pakistan’s “full solidarity and support” for Saudi Arabia “in these challenging times” and agreed to work together for regional peace and stability. Additional input from AFP and Reuters",
@@ -140,24 +410,6 @@
       "url": "https://www.dawn.com/news/1989473/dangerous-escalation-pakistan-condemns-iranian-strikes-on-saudi-arabias-energy-facilities",
       "source": "Dawn - Home",
       "published_at": "2026-04-07T21:15:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d1aae14c26735677",
-      "title_orig": "Trump warns a 'whole civilization will die' if a deal with Iran isn't reached",
-      "summary_orig": "U.S. President Donald Trump threatened Tuesday that a ''whole civilization will die tonight'' if Iran fails to meet his latest deadline to strike a deal that includes reopening the Strait of Hormuz, while the Islamic Republic urged young people to form human chains around power plants and other potential targets.",
-      "lang": "en",
-      "title_en": "Trump warns a 'whole civilization will die' if a deal with Iran isn't reached",
-      "summary_en": "U.S. President Donald Trump threatened Tuesday that a ''whole civilization will die tonight'' if Iran fails to meet his latest deadline to strike a deal that includes reopening the Strait of Hormuz, while the Islamic Republic urged young people to form human chains around power plants and other potential targets.",
-      "title": "Trump warns a 'whole civilization will die' if a deal with Iran isn't reached",
-      "summary": "U.S. President Donald Trump threatened Tuesday that a ''whole civilization will die tonight'' if Iran fails to meet his latest deadline to strike a deal that includes reopening the Strait of Hormuz, while the Islamic Republic urged young people to form human chains around power plants and other potential targets.",
-      "url": "https://www.startribune.com/bridge-linking-saudi-arabia-to-bahrain-closed-over-iranian-threats-as-trumps-deadline-nears/601662078",
-      "source": "Startribune News",
-      "published_at": "2026-04-07T21:15:02+00:00",
       "tags": [
         "airport/security"
       ],
@@ -220,24 +472,6 @@
       "geo": {}
     },
     {
-      "id": "90bb764de8232857",
-      "title_orig": "Trump Issues Apocalyptic Threat Against Iran as Pakistan Asks Him to Hold Off Strikes",
-      "summary_orig": "A “whole civilization will die tonight,” the president said as he turned up the pressure on Iran’s leaders to reopen the Strait of Hormuz.",
-      "lang": "en",
-      "title_en": "Trump Issues Apocalyptic Threat Against Iran as Pakistan Asks Him to Hold Off Strikes",
-      "summary_en": "A “whole civilization will die tonight,” the president said as he turned up the pressure on Iran’s leaders to reopen the Strait of Hormuz.",
-      "title": "Trump Issues Apocalyptic Threat Against Iran as Pakistan Asks Him to Hold Off Strikes",
-      "summary": "A “whole civilization will die tonight,” the president said as he turned up the pressure on Iran’s leaders to reopen the Strait of Hormuz.",
-      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/trump-iran-deadline.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-07T21:00:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "7d5b6e070901b4d1",
       "title_orig": "Buses and Luas trams at a standstill in Dublin as fuel protests continue into the night",
       "summary_orig": "Northbound Luas services are unable to pass the protesters, who are currently blocking the line at O’Connell Bridge.",
@@ -292,17 +526,17 @@
       "geo": {}
     },
     {
-      "id": "3b6595d76b42d868",
-      "title_orig": "Bob MacIntyre reckons Augusta \"attack\" mode is best option for Masters glory bid",
-      "summary_orig": "Scot has turned up at Augusta National with a spring in his step - and it’s there for all to see",
+      "id": "765fab06bac14f54",
+      "title_orig": "Nantucket flight returns after part of a cabin door opens midair",
+      "summary_orig": "A Cape Air flight departing from the Massachusetts island of Nantucket returned safely to the airport after part of the main cabin door opened shortly after takeoff.",
       "lang": "en",
-      "title_en": "Bob MacIntyre reckons Augusta \"attack\" mode is best option for Masters glory bid",
-      "summary_en": "Scot has turned up at Augusta National with a spring in his step - and it’s there for all to see",
-      "title": "Bob MacIntyre reckons Augusta \"attack\" mode is best option for Masters glory bid",
-      "summary": "Scot has turned up at Augusta National with a spring in his step - and it’s there for all to see",
-      "url": "https://www.scotsman.com/sport/bob-macintyre-reckons-augusta-attack-mode-is-best-option-for-masters-glory-bid-6566559",
-      "source": "The Scotsman",
-      "published_at": "2026-04-07T20:50:42+00:00",
+      "title_en": "Nantucket flight returns after part of a cabin door opens midair",
+      "summary_en": "A Cape Air flight departing from the Massachusetts island of Nantucket returned safely to the airport after part of the main cabin door opened shortly after takeoff.",
+      "title": "Nantucket flight returns after part of a cabin door opens midair",
+      "summary": "A Cape Air flight departing from the Massachusetts island of Nantucket returned safely to the airport after part of the main cabin door opened shortly after takeoff.",
+      "url": "https://www.seattletimes.com/nation-world/nation/nantucket-flight-returns-after-part-of-a-cabin-door-opens-midair/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-04-07T20:53:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -419,12 +653,12 @@
     },
     {
       "id": "5421cd226a56d0d9",
-      "title_orig": "Trump warns a 'whole civilization will die' if a deal with Iran isn't reached",
+      "title_orig": "Trump threatens to destroy Iranian 'civilization' if a deal isn't reached",
       "summary_orig": "U.S. President Donald Trump is threatening that a “whole civilization will die tonight” if Iran fails to meet his latest deadline to strike a deal.",
       "lang": "en",
-      "title_en": "Trump warns a 'whole civilization will die' if a deal with Iran isn't reached",
+      "title_en": "Trump threatens to destroy Iranian 'civilization' if a deal isn't reached",
       "summary_en": "U.S. President Donald Trump is threatening that a “whole civilization will die tonight” if Iran fails to meet his latest deadline to strike a deal.",
-      "title": "Trump warns a 'whole civilization will die' if a deal with Iran isn't reached",
+      "title": "Trump threatens to destroy Iranian 'civilization' if a deal isn't reached",
       "summary": "U.S. President Donald Trump is threatening that a “whole civilization will die tonight” if Iran fails to meet his latest deadline to strike a deal.",
       "url": "https://www.kgw.com/article/syndication/associatedpress/bridge-linking-saudi-arabia-to-bahrain-closed-over-iranian-threats-as-trumps-deadline-nears/616-d008fec8-f781-4c35-8d64-497c35cbfe4b",
       "source": "KGW RSS Feed: news",
@@ -473,12 +707,12 @@
     },
     {
       "id": "7f7644b7c86668fc",
-      "title_orig": "Pakistan seeks extension as Trump says Iran may ‘die tonight’",
+      "title_orig": "Trump says U.S. in 'heated' Iran talks amid extension request",
       "summary_orig": "Pakistan, which has facilitated peace negotiations, asked Trump to extend for two weeks his ultimatum to unleash a massive attack on Iran.",
       "lang": "en",
-      "title_en": "Pakistan seeks extension as Trump says Iran may ‘die tonight’",
+      "title_en": "Trump says U.S. in 'heated' Iran talks amid extension request",
       "summary_en": "Pakistan, which has facilitated peace negotiations, asked Trump to extend for two weeks his ultimatum to unleash a massive attack on Iran.",
-      "title": "Pakistan seeks extension as Trump says Iran may ‘die tonight’",
+      "title": "Trump says U.S. in 'heated' Iran talks amid extension request",
       "summary": "Pakistan, which has facilitated peace negotiations, asked Trump to extend for two weeks his ultimatum to unleash a massive attack on Iran.",
       "url": "https://www.japantimes.co.jp/news/2026/04/08/world/politics/trump-iran-war-deadline/",
       "source": "Latest articles - The Japan Times",
@@ -501,24 +735,6 @@
       "url": "https://www.thehindu.com/news/national/odisha/several-villagers-police-personnel-injured-in-clash-in-odisha-amid-protests-against-mining-of-bauxite/article70834409.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2026-04-07T20:12:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "680073f74a4ce60e",
-      "title_orig": "Banga defends World Bank's role on Trump's Board of Peace",
-      "summary_orig": "WASHINGTON, April 7 - The World Bank is seeking to play a constructive role in aiding Gaza's recovery from the two-year war between Israel and Palestinian militants in the territory, the bank's President Ajay Banga said on Tuesday after protesters disrupted his speech to a think tank.",
-      "lang": "en",
-      "title_en": "Banga defends World Bank's role on Trump's Board of Peace",
-      "summary_en": "WASHINGTON, April 7 - The World Bank is seeking to play a constructive role in aiding Gaza's recovery from the two-year war between Israel and Palestinian militants in the territory, the bank's President Ajay Banga said on Tuesday after protesters disrupted his speech to a think tank.",
-      "title": "Banga defends World Bank's role on Trump's Board of Peace",
-      "summary": "WASHINGTON, April 7 - The World Bank is seeking to play a constructive role in aiding Gaza's recovery from the two-year war between Israel and Palestinian militants in the territory, the bank's President Ajay Banga said on Tuesday after protesters disrupted his speech to a think tank.",
-      "url": "https://www.straitstimes.com/world/middle-east/banga-defends-world-banks-role-on-trumps-board-of-peace",
-      "source": "The Straits Times World News",
-      "published_at": "2026-04-07T20:10:42+00:00",
       "tags": [
         "airport/security"
       ],
@@ -767,24 +983,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "73a90f57b30a942e",
-      "title_orig": "Iran-US war latest: Kharg Island targeted by multiple US strikes as Tehran issues new ‘red line’ warning to Trump",
-      "summary_orig": "Iran says oil and gas supplies to US and partners will be disrupted for years",
-      "lang": "en",
-      "title_en": "Iran-US war latest: Kharg Island targeted by multiple US strikes as Tehran issues new ‘red line’ warning to Trump",
-      "summary_en": "Iran says oil and gas supplies to US and partners will be disrupted for years",
-      "title": "Iran-US war latest: Kharg Island targeted by multiple US strikes as Tehran issues new ‘red line’ warning to Trump",
-      "summary": "Iran says oil and gas supplies to US and partners will be disrupted for years",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-threats-deadline-strait-of-hormuz-b2952716.html",
-      "source": "The Independent World",
-      "published_at": "2026-04-07T19:31:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1177,21 +1375,21 @@
       "geo": {}
     },
     {
-      "id": "197fe30666b021d6",
-      "title_orig": "Donald Trump says ‘a whole civilisation will die’ if Iran ignores demands",
-      "summary_orig": "Attacks on Iran increase and Israel tells Iranians to avoid train travel as deadline to reopen strait of Hormuz looms Middle East crisis – live updates Donald Trump has warned that Iran ’s “whole civilisation will die tonight” if Tehran did not comply with his demands, as the world braced to see if the president would deliver on his latest threat to order the mass destruction of Iranian power plants and bridges in the absence of a deal by 8pm EDT (1am BST). Iran’s Revolutionary Guards signalled they were also ready to escalate the war with a threat to retaliate “beyond the region” and “to deprive the US and its allies of oil and gas in the region for years”, suggesting Iran would target oil and gas production facilities in the Gulf and elsewhere, potentially sending the world into a recession. Continue reading...",
+      "id": "0524145c55d2ff22",
+      "title_orig": "Iranians fear power outages and further attacks as Trump’s deadline nears",
+      "summary_orig": "Tehran residents are rushing to stock up on bottled water and charge cellphones, flashlights and portable power banks as the hours tick down to Trump’s latest ultimatum for a deal in the war with Iran.",
       "lang": "en",
-      "title_en": "Donald Trump says ‘a whole civilisation will die’ if Iran ignores demands",
-      "summary_en": "Attacks on Iran increase and Israel tells Iranians to avoid train travel as deadline to reopen strait of Hormuz looms Middle East crisis – live updates Donald Trump has warned that Iran ’s “whole civilisation will die tonight” if Tehran did not comply with his demands, as the world braced to see if the president would deliver on his latest threat to order the mass destruction of Iranian power plants and bridges in the absence of a deal by 8pm EDT (1am BST). Iran’s Revolutionary Guards signalled they were also ready to escalate the war with a threat to retaliate “beyond the region” and “to deprive the US and its allies of oil and gas in the region for years”, suggesting Iran would target oil and gas production facilities in the Gulf and elsewhere, potentially sending the world into a recession. Continue reading...",
-      "title": "Donald Trump says ‘a whole civilisation will die’ if Iran ignores demands",
-      "summary": "Attacks on Iran increase and Israel tells Iranians to avoid train travel as deadline to reopen strait of Hormuz looms Middle East crisis – live updates Donald Trump has warned that Iran ’s “whole civilisation will die tonight” if Tehran did not comply with his demands, as the world braced to see if the president would deliver on his latest threat to order the mass destruction of Iranian power plants and bridges in the absence of a deal by 8pm EDT (1am BST). Iran’s Revolutionary Guards signalled they were also ready to escalate the war with a threat to retaliate “beyond the region” and “to deprive the US and its allies of oil and gas in the region for years”, suggesting Iran would target oil and gas production facilities in the Gulf and elsewhere, potentially sending the world into a recession. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
-      "source": "World news | The Guardian",
-      "published_at": "2026-04-07T18:29:20+00:00",
+      "title_en": "Iranians fear power outages and further attacks as Trump’s deadline nears",
+      "summary_en": "Tehran residents are rushing to stock up on bottled water and charge cellphones, flashlights and portable power banks as the hours tick down to Trump’s latest ultimatum for a deal in the war with Iran.",
+      "title": "Iranians fear power outages and further attacks as Trump’s deadline nears",
+      "summary": "Tehran residents are rushing to stock up on bottled water and charge cellphones, flashlights and portable power banks as the hours tick down to Trump’s latest ultimatum for a deal in the war with Iran.",
+      "url": "https://www.seattletimes.com/nation-world/iranians-fear-power-outages-and-further-attacks-as-trumps-deadline-nears/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-04-07T18:29:10+00:00",
       "tags": [
         "airport/security"
       ],
-      "type": "major news",
+      "type": "local news",
       "geo": {}
     },
     {
@@ -1214,12 +1412,12 @@
     },
     {
       "id": "a17815296bbaef65",
-      "title_orig": "Iran attempting cyberattacks against U.S. critical infrastructure, officials say",
+      "title_orig": "Iran attempting cyberattacks against critical U.S. infrastructure, officials say",
       "summary_orig": "The Iranian cyber activity comes as President Trump threatens to target Iran's critical infrastructure, particularly its bridges and power plants.",
       "lang": "en",
-      "title_en": "Iran attempting cyberattacks against U.S. critical infrastructure, officials say",
+      "title_en": "Iran attempting cyberattacks against critical U.S. infrastructure, officials say",
       "summary_en": "The Iranian cyber activity comes as President Trump threatens to target Iran's critical infrastructure, particularly its bridges and power plants.",
-      "title": "Iran attempting cyberattacks against U.S. critical infrastructure, officials say",
+      "title": "Iran attempting cyberattacks against critical U.S. infrastructure, officials say",
       "summary": "The Iranian cyber activity comes as President Trump threatens to target Iran's critical infrastructure, particularly its bridges and power plants.",
       "url": "https://www.latimes.com/politics/story/2026-04-07/iran-attempting-cyber-attacks-against-u-s-critical-infrastructure-officials-say",
       "source": "World & Nation",
@@ -1246,6 +1444,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "973378c76724ad1a",
+      "title_orig": "Lebanon buries a Christian official killed in an Israeli strike as anti-Hezbollah anger surges",
+      "summary_orig": "Hundreds have attended funeral prayers for a Lebanese Christian party official known for his anti-Hezbollah stance and his wife who were killed in an Israeli airstrike over the weekend.",
+      "lang": "en",
+      "title_en": "Lebanon buries a Christian official killed in an Israeli strike as anti-Hezbollah anger surges",
+      "summary_en": "Hundreds have attended funeral prayers for a Lebanese Christian party official known for his anti-Hezbollah stance and his wife who were killed in an Israeli airstrike over the weekend.",
+      "title": "Lebanon buries a Christian official killed in an Israeli strike as anti-Hezbollah anger surges",
+      "summary": "Hundreds have attended funeral prayers for a Lebanese Christian party official known for his anti-Hezbollah stance and his wife who were killed in an Israeli airstrike over the weekend.",
+      "url": "https://www.seattletimes.com/nation-world/lebanon-buries-a-christian-official-killed-in-an-israeli-strike-as-anti-hezbollah-anger-surges/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-04-07T18:17:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -1520,24 +1736,6 @@
       "geo": {}
     },
     {
-      "id": "41d06f9d34e976b1",
-      "title_orig": "WHO suspends Gaza medical evacuations after Israeli fire kills driver",
-      "summary_orig": "Evacuations will remain suspended until further notice, WHO says, adding that the incident is under investigation.",
-      "lang": "en",
-      "title_en": "WHO suspends Gaza medical evacuations after Israeli fire kills driver",
-      "summary_en": "Evacuations will remain suspended until further notice, WHO says, adding that the incident is under investigation.",
-      "title": "WHO suspends Gaza medical evacuations after Israeli fire kills driver",
-      "summary": "Evacuations will remain suspended until further notice, WHO says, adding that the incident is under investigation.",
-      "url": "https://www.aljazeera.com/news/2026/4/7/who-halts-gaza-medical-evacuations-after-worker-killed?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-04-07T17:19:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "e206fcf989a7f14f",
       "title_orig": "Moscow threatens Baltic states, claiming they help Ukraine strike Russia",
       "summary_orig": "The Russian foreign ministry issued veiled threats to Estonia, Latvia and Lithuania, accusing them of assisting Ukraine in Kyiv’s campaign against Russia’s oil terminals.",
@@ -1592,6 +1790,24 @@
       "geo": {}
     },
     {
+      "id": "babe61c36d004a93",
+      "title_orig": "Portugal says U.S. uses Azores base on condition no civilian infrastructure targeted",
+      "summary_orig": "LISBON, April 7 - Portugal said it had authorised 76 landings by U.S. aircraft at the Lajes air base in the Azores and 25 overflights of its territory since the start of the U.S.-Israeli war on Iran, on condition they were not used to bomb civilian infrastructure.",
+      "lang": "en",
+      "title_en": "Portugal says U.S. uses Azores base on condition no civilian infrastructure targeted",
+      "summary_en": "LISBON, April 7 - Portugal said it had authorised 76 landings by U.S. aircraft at the Lajes air base in the Azores and 25 overflights of its territory since the start of the U.S.-Israeli war on Iran, on condition they were not used to bomb civilian infrastructure.",
+      "title": "Portugal says U.S. uses Azores base on condition no civilian infrastructure targeted",
+      "summary": "LISBON, April 7 - Portugal said it had authorised 76 landings by U.S. aircraft at the Lajes air base in the Azores and 25 overflights of its territory since the start of the U.S.-Israeli war on Iran, on condition they were not used to bomb civilian infrastructure.",
+      "url": "https://www.straitstimes.com/world/portugal-says-u-s-uses-azores-base-on-condition-no-civilian-infrastructure-targeted",
+      "source": "The Straits Times World News",
+      "published_at": "2026-04-07T17:05:39+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "28b2cc9664ed1a8a",
       "title_orig": "LeT module busted, 5, including 2 Pakistani terrorists, held by J&K Police",
       "summary_orig": "Sources say a wanted Pakistani terrorist, earlier operating in Kashmir, may have managed to flee India with the help of local conduits in Rajasthan.",
@@ -1603,24 +1819,6 @@
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-kashmir-police-bust-interstate-lashkar-e-taiba-racket/article70833251.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2026-04-07T17:03:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9e5ef26c7d7bbf6d",
-      "title_orig": "Huge win for Cardiff Airport in £205m subsidy row",
-      "summary_orig": "The Competition Appeal Tribunal has ruled that the Welsh Government's £205m subsidy plans for Cardiff Airport are legal",
-      "lang": "en",
-      "title_en": "Huge win for Cardiff Airport in £205m subsidy row",
-      "summary_en": "The Competition Appeal Tribunal has ruled that the Welsh Government's £205m subsidy plans for Cardiff Airport are legal",
-      "title": "Huge win for Cardiff Airport in £205m subsidy row",
-      "summary": "The Competition Appeal Tribunal has ruled that the Welsh Government's £205m subsidy plans for Cardiff Airport are legal",
-      "url": "https://www.walesonline.co.uk/news/wales-news/bristol-airport-loses-legal-challenge-33729537",
-      "source": "WalesOnline - Home",
-      "published_at": "2026-04-07T17:00:24+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1700,24 +1898,6 @@
       "geo": {}
     },
     {
-      "id": "6286eeb4e3957dde",
-      "title_orig": "Lebanese Mourn Couple Killed in Israeli Strike, Exposing Rift Over Hezbollah",
-      "summary_orig": "The victims had no ties to Hezbollah, and Israel said they were not targets. Many Lebanese are angry with Israel, but also with Hezbollah for embroiling their country in the war.",
-      "lang": "en",
-      "title_en": "Lebanese Mourn Couple Killed in Israeli Strike, Exposing Rift Over Hezbollah",
-      "summary_en": "The victims had no ties to Hezbollah, and Israel said they were not targets. Many Lebanese are angry with Israel, but also with Hezbollah for embroiling their country in the war.",
-      "title": "Lebanese Mourn Couple Killed in Israeli Strike, Exposing Rift Over Hezbollah",
-      "summary": "The victims had no ties to Hezbollah, and Israel said they were not targets. Many Lebanese are angry with Israel, but also with Hezbollah for embroiling their country in the war.",
-      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/lebanon-couple-killed-israeli-strike.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-07T16:40:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "a1c2bbf7872b5d01",
       "title_orig": "‘Stay indoors’: India’s alert for citizens in Iran as Trump warns of strikes",
       "summary_orig": "An urgent advisory from the Indian embassy in Tehran urged Indian nationals to remain indoors and to coordinate any movement on highways with the mission.",
@@ -1748,24 +1928,6 @@
       "url": "https://www.birminghammail.co.uk/news/midlands-news/solihull-tower-block-cordoned-after-33729245",
       "source": "Birmingham Live - News",
       "published_at": "2026-04-07T16:20:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4e0212bc162eb4f9",
-      "title_orig": "Amazon, USPS strike high-stakes deal: What you need to know",
-      "summary_orig": "Amazon and the United States Postal Service announced a deal that keeps most shipments flowing between the two organizations despite earlier threats of major cuts.",
-      "lang": "en",
-      "title_en": "Amazon, USPS strike high-stakes deal: What you need to know",
-      "summary_en": "Amazon and the United States Postal Service announced a deal that keeps most shipments flowing between the two organizations despite earlier threats of major cuts.",
-      "title": "Amazon, USPS strike high-stakes deal: What you need to know",
-      "summary": "Amazon and the United States Postal Service announced a deal that keeps most shipments flowing between the two organizations despite earlier threats of major cuts.",
-      "url": "https://www.cleveland.com/news/2026/04/amazon-usps-strike-high-stakes-deal-what-you-need-to-know.html",
-      "source": "cleveland.com",
-      "published_at": "2026-04-07T16:16:17+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1824,24 +1986,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "391bd8953bc863b9",
-      "title_orig": "Britain Reinforces That U.S. Cannot Use British Bases for Attacks on Iran",
-      "summary_orig": "The U.K. government underlined its previous stance that the United States could only use British bases for defensive purposes, after President Trump threatened to strike civilian targets.",
-      "lang": "en",
-      "title_en": "Britain Reinforces That U.S. Cannot Use British Bases for Attacks on Iran",
-      "summary_en": "The U.K. government underlined its previous stance that the United States could only use British bases for defensive purposes, after President Trump threatened to strike civilian targets.",
-      "title": "Britain Reinforces That U.S. Cannot Use British Bases for Attacks on Iran",
-      "summary": "The U.K. government underlined its previous stance that the United States could only use British bases for defensive purposes, after President Trump threatened to strike civilian targets.",
-      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/britain-iran-bases.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-07T16:06:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3155,43 +3299,6 @@
       "geo": {}
     },
     {
-      "id": "8da5f6f6c13e25ee",
-      "title_orig": "Shots fired outside Israel’s Istanbul consulate, 2 police officers wounded",
-      "summary_orig": "Three suspects were “neutralised” at the site, according to media reports.",
-      "lang": "en",
-      "title_en": "Shots fired outside Israel’s Istanbul consulate, 2 police officers wounded",
-      "summary_en": "Three suspects were “neutralised” at the site, according to media reports.",
-      "title": "Shots fired outside Israel’s Istanbul consulate, 2 police officers wounded",
-      "summary": "Three suspects were “neutralised” at the site, according to media reports.",
-      "url": "https://www.straitstimes.com/world/europe/shots-fired-outside-israels-istanbul-consulate-2-police-officers-wounded",
-      "source": "The Straits Times World News",
-      "published_at": "2026-04-07T10:26:10+00:00",
-      "tags": [
-        "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2f4954a16a34fbac",
-      "title_orig": "One attacker dead, two injured in gunfight outside Israeli consulate in Istanbul",
-      "summary_orig": "Two police officers were injured, and a source said no Israeli diplomat was in the city.",
-      "lang": "en",
-      "title_en": "One attacker dead, two injured in gunfight outside Israeli consulate in Istanbul",
-      "summary_en": "Two police officers were injured, and a source said no Israeli diplomat was in the city.",
-      "title": "One attacker dead, two injured in gunfight outside Israeli consulate in Istanbul",
-      "summary": "Two police officers were injured, and a source said no Israeli diplomat was in the city.",
-      "url": "https://www.straitstimes.com/world/europe/at-least-two-dead-in-gunfight-outside-israeli-consulate-in-istanbul",
-      "source": "The Straits Times World News",
-      "published_at": "2026-04-07T10:25:39+00:00",
-      "tags": [
-        "airport/security",
-        "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a208fa83acfc081a",
       "title_orig": "‘Dhurandhar’ politics explodes: 'Lyari raj' posters in UP to PM Modi's Kerala jab, Raghav Chadha's AAP attack",
       "summary_orig": "RS MP Chadha deployed its dialogue in friction with own party AAP; the film was part of PM's speech at BJP rally in Kerala too",
@@ -3786,24 +3893,6 @@
       "geo": {}
     },
     {
-      "id": "f383f9ecf309d1d6",
-      "title_orig": "UAE retaliates against Iran, Bali’s spate of murders: 7 Asia highlights",
-      "summary_orig": "We have selected seven stories from the SCMP’s coverage of Asia over the past week that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. UAE squeezes Iranian economic lifeline in retaliation for attacks\n2. Untouchable no more: Nepal to apologise to Dalits for first time\n\n3. Bali rocked by spate of murder cases – is Indonesian island more dangerous now?\n\n4. Australia receives fuel export guarantees from...",
-      "lang": "en",
-      "title_en": "UAE retaliates against Iran, Bali’s spate of murders: 7 Asia highlights",
-      "summary_en": "We have selected seven stories from the SCMP’s coverage of Asia over the past week that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. UAE squeezes Iranian economic lifeline in retaliation for attacks\n2. Untouchable no more: Nepal to apologise to Dalits for first time\n\n3. Bali rocked by spate of murder cases – is Indonesian island more dangerous now?\n\n4. Australia receives fuel export guarantees from...",
-      "title": "UAE retaliates against Iran, Bali’s spate of murders: 7 Asia highlights",
-      "summary": "We have selected seven stories from the SCMP’s coverage of Asia over the past week that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. UAE squeezes Iranian economic lifeline in retaliation for attacks\n2. Untouchable no more: Nepal to apologise to Dalits for first time\n\n3. Bali rocked by spate of murder cases – is Indonesian island more dangerous now?\n\n4. Australia receives fuel export guarantees from...",
-      "url": "https://www.scmp.com/news/asia/article/3349208/uae-retaliates-against-iran-balis-spate-murders-7-asia-highlights?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2026-04-07T04:30:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e6a3b6510d6515bc",
       "title_orig": "Resident doctors in England to strike for six days",
       "summary_orig": "It comes after an offer from the Government was rejected by the British Medical Association.",
@@ -3990,24 +4079,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "7702f1ced2999ca0",
-      "title_orig": "The surprising science behind the airport departure board",
-      "summary_orig": "At the airport, you scan the departure boards looking for your flight. But those familiar screens are doing far more than listing flights.",
-      "lang": "en",
-      "title_en": "The surprising science behind the airport departure board",
-      "summary_en": "At the airport, you scan the departure boards looking for your flight. But those familiar screens are doing far more than listing flights.",
-      "title": "The surprising science behind the airport departure board",
-      "summary": "At the airport, you scan the departure boards looking for your flight. But those familiar screens are doing far more than listing flights.",
-      "url": "https://www.stuff.co.nz/travel/360959761/surprising-science-behind-airport-departure-board",
-      "source": "Stuff - /",
-      "published_at": "2026-04-06T16:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
