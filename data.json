@@ -1,6 +1,330 @@
 {
-  "generated_at": "2026-04-24T17:06:19.096760+00:00",
+  "generated_at": "2026-04-24T17:58:04.405417+00:00",
   "items": [
+    {
+      "id": "c8b47d5212a68366",
+      "title_orig": "Majority of complaints against gardaí policing Whitegate fuel blockade rejected by watchdog",
+      "summary_orig": "Fiosrú said that there were 101 complaints made nationally against gardaí during the recent fuel protests.",
+      "lang": "en",
+      "title_en": "Majority of complaints against gardaí policing Whitegate fuel blockade rejected by watchdog",
+      "summary_en": "Fiosrú said that there were 101 complaints made nationally against gardaí during the recent fuel protests.",
+      "title": "Majority of complaints against gardaí policing Whitegate fuel blockade rejected by watchdog",
+      "summary": "Fiosrú said that there were 101 complaints made nationally against gardaí during the recent fuel protests.",
+      "url": "https://www.thejournal.ie/fiosru-fuel-protests-whitegate-ireland-garda-7023131-Apr2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-04-24T17:46:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "218fd6c6a2aabf1f",
+      "title_orig": "NTSB Final Report — Hop-A-Jet Challenger 604 crash, I-75 Naples FL (Feb 9, 2024)",
+      "summary_orig": "TL;DR: Salt-air corrosion in the HPC variable-geometry stator vane spindle bores of both GE CF34-3B engines jammed the VGs in an off-schedule position. Power reduction for landing triggered simultaneous unrecoverable sub-idle compressor stalls in both engines. GE's hung-start troubleshooting flowchart buried the one test that could have caught it (MP 68) at block 21, so months of warning signs were missed. Coastal-based CF34-BJ operators — check your SBs. Aircraft: Bombardier CL-600-2B16 (Challenger 604), N823KD, operated by Ace Aviation Services dba Hop-A-Jet, Part 135 on-demand. GE CF34-3B engines. Outcome: Both pilots fatal. Cabin attendant + 2 pax minor injuries. 1 minor ground injury. Aircraft destroyed by post-crash fire after striking a highway sign and concrete sound barrier on I-75. Probable Cause (verbatim from NTSB): ▎ Corrosion of both engines' variable geometry (VG) system components, which led to their operation in an off-schedule position and resulted in near-simultaneous sub-idle rotating compressor stalls on approach,subsequent loss of thrust in both engines, and an off-airport landing. Contributing was inadequate fault ▎ isolation guidance from the engine manufacturer, which prevented identification of corrosion buildup in VGsystem components during troubleshooting of hung start events on both engines about 1 month before theaccident. What actually happened (the short version): - On a shallow intercept to final for RWY 23 at KAPF, crew reduced power for landing. As N2 rolled back toward idle, both engines simultaneously entered a sub-idle, unrecoverable rotating compressor stall. ITT spiked past 889°C redline. Master warning, L+R engine oil pressure warnings, then \"ENGINE\" warning fired within 7 seconds. - FDR showed behavior was NOT a fuel cutoff, combustor blowout, or flameout. It looked exactly like the hung-start rollbacks the same two engines had 25 days earlier. - Crew declared \"lost both engines\" at ~1,000 ft / 122 kts. Couldn't make the runway. Touched down on southbound I-75, veered right, clipped a highway sign, hit a sound wall. Cabin attendant egressed 2 pax through the baggage door (she only knew how because she'd helped load bags before — her training did not cover that exit ). Why the engines rolled back — the root cause: - Teardown of both engines showed extensive corrosion in the HPC case, specifically in the stage-5 statorvane spindle bores. Chemical analysis: steel corrosion + chlorine/sulfur/sodium/calcium/potassium/magnesium = classic sea salt / marine environment exposure. Aircraft had spent its life at coastal airports (Barbados, then Fort Lauderdale Executive, ~4 nm from the Atlantic). - Corrosion prevented the VG stage-5 stator vanes from traveling their full range and required higher-than-normal actuation pressures. That put the VGs in an off-schedule position. At low power (like power-reduction for landing), that = compressor instability = rotating stall. Unrecoverable at low altitude. - Fuel was fine. MFCs were fine. No fuel contamination (tested for SAP, Kathon, DEF — all clean). No mechanical failure. It was purely the VG system hung up on corroded spindle bores. The damning part — it was findable, and GE's troubleshooting flowchart missed it: - 25 days before the crash, both engines had hung starts (Jan 15, 2024). Operator worked with GE using SM SEI-780 \"Fault Isolation 07 Hung Start or Slow Start\" — a 27-block YES/NO flowchart. - The VG pressure check (MP 68) that would have caught the corrosion was Block 21 — near the end of the tree. - Since the engines successfully started the next day and showed no other anomalies, the flowchart let them exit troubleshooting before ever reaching MP 68. GE concurred with returning the airplane to service. It flew 33 uneventful flights / 57 hours before the accident. - History: this airframe had 7 additional hung starts in the preceding 10 years — all handled the same way. NTSB Findings categories: - Aircraft: Fatigue/wear/corrosion - Aircraft: Malfunction - Organizational: Adequacy of manufacturer policy/procedure - Environmental: Contributed to outcome Safety actions GE has since taken: 1. SB 72-0345 R00 (May 2024) — one-time VG functional check on any CF34-BJ engine with a hung start in the previous 24 months. As of May 2025: 34 engines inspected, 7 failed and were pulled from service (4 of the 7 were from the accident operator's fleet). 2. SB 72-0347 R00 (May 2025) — one-time borescope + VG functional check of HPC stages 5/6 on all CF34-3BJ engines within 48 months. As of Mar 2026: 1,085 inspected, 1 failed. 3. SB 71-0000 R03 (Feb 2026) — new special requirements for sea/salt environment ops or engines showing external corrosion. 4. Adding a recurring HPC case BSI + VG Functional Check (MP 68) every 48 months to the Airworthiness Limitations section of SM SEI-780. 5. Aug 2024 — revised Fault Isolation 07 to make the MP 68 VG pressure check one of the first steps instead of Block 21. --- [Source]( https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/193769/pdf ) NTSB Aviation Investigation Final Report, Accident No. ERA24FA110, adopted 4/24/2026. submitted by /u/oops_i [link] [comments]",
+      "lang": "en",
+      "title_en": "NTSB Final Report — Hop-A-Jet Challenger 604 crash, I-75 Naples FL (Feb 9, 2024)",
+      "summary_en": "TL;DR: Salt-air corrosion in the HPC variable-geometry stator vane spindle bores of both GE CF34-3B engines jammed the VGs in an off-schedule position. Power reduction for landing triggered simultaneous unrecoverable sub-idle compressor stalls in both engines. GE's hung-start troubleshooting flowchart buried the one test that could have caught it (MP 68) at block 21, so months of warning signs were missed. Coastal-based CF34-BJ operators — check your SBs. Aircraft: Bombardier CL-600-2B16 (Challenger 604), N823KD, operated by Ace Aviation Services dba Hop-A-Jet, Part 135 on-demand. GE CF34-3B engines. Outcome: Both pilots fatal. Cabin attendant + 2 pax minor injuries. 1 minor ground injury. Aircraft destroyed by post-crash fire after striking a highway sign and concrete sound barrier on I-75. Probable Cause (verbatim from NTSB): ▎ Corrosion of both engines' variable geometry (VG) system components, which led to their operation in an off-schedule position and resulted in near-simultaneous sub-idle rotating compressor stalls on approach,subsequent loss of thrust in both engines, and an off-airport landing. Contributing was inadequate fault ▎ isolation guidance from the engine manufacturer, which prevented identification of corrosion buildup in VGsystem components during troubleshooting of hung start events on both engines about 1 month before theaccident. What actually happened (the short version): - On a shallow intercept to final for RWY 23 at KAPF, crew reduced power for landing. As N2 rolled back toward idle, both engines simultaneously entered a sub-idle, unrecoverable rotating compressor stall. ITT spiked past 889°C redline. Master warning, L+R engine oil pressure warnings, then \"ENGINE\" warning fired within 7 seconds. - FDR showed behavior was NOT a fuel cutoff, combustor blowout, or flameout. It looked exactly like the hung-start rollbacks the same two engines had 25 days earlier. - Crew declared \"lost both engines\" at ~1,000 ft / 122 kts. Couldn't make the runway. Touched down on southbound I-75, veered right, clipped a highway sign, hit a sound wall. Cabin attendant egressed 2 pax through the baggage door (she only knew how because she'd helped load bags before — her training did not cover that exit ). Why the engines rolled back — the root cause: - Teardown of both engines showed extensive corrosion in the HPC case, specifically in the stage-5 statorvane spindle bores. Chemical analysis: steel corrosion + chlorine/sulfur/sodium/calcium/potassium/magnesium = classic sea salt / marine environment exposure. Aircraft had spent its life at coastal airports (Barbados, then Fort Lauderdale Executive, ~4 nm from the Atlantic). - Corrosion prevented the VG stage-5 stator vanes from traveling their full range and required higher-than-normal actuation pressures. That put the VGs in an off-schedule position. At low power (like power-reduction for landing), that = compressor instability = rotating stall. Unrecoverable at low altitude. - Fuel was fine. MFCs were fine. No fuel contamination (tested for SAP, Kathon, DEF — all clean). No mechanical failure. It was purely the VG system hung up on corroded spindle bores. The damning part — it was findable, and GE's troubleshooting flowchart missed it: - 25 days before the crash, both engines had hung starts (Jan 15, 2024). Operator worked with GE using SM SEI-780 \"Fault Isolation 07 Hung Start or Slow Start\" — a 27-block YES/NO flowchart. - The VG pressure check (MP 68) that would have caught the corrosion was Block 21 — near the end of the tree. - Since the engines successfully started the next day and showed no other anomalies, the flowchart let them exit troubleshooting before ever reaching MP 68. GE concurred with returning the airplane to service. It flew 33 uneventful flights / 57 hours before the accident. - History: this airframe had 7 additional hung starts in the preceding 10 years — all handled the same way. NTSB Findings categories: - Aircraft: Fatigue/wear/corrosion - Aircraft: Malfunction - Organizational: Adequacy of manufacturer policy/procedure - Environmental: Contributed to outcome Safety actions GE has since taken: 1. SB 72-0345 R00 (May 2024) — one-time VG functional check on any CF34-BJ engine with a hung start in the previous 24 months. As of May 2025: 34 engines inspected, 7 failed and were pulled from service (4 of the 7 were from the accident operator's fleet). 2. SB 72-0347 R00 (May 2025) — one-time borescope + VG functional check of HPC stages 5/6 on all CF34-3BJ engines within 48 months. As of Mar 2026: 1,085 inspected, 1 failed. 3. SB 71-0000 R03 (Feb 2026) — new special requirements for sea/salt environment ops or engines showing external corrosion. 4. Adding a recurring HPC case BSI + VG Functional Check (MP 68) every 48 months to the Airworthiness Limitations section of SM SEI-780. 5. Aug 2024 — revised Fault Isolation 07 to make the MP 68 VG pressure check one of the first steps instead of Block 21. --- [Source]( https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/193769/pdf ) NTSB Aviation Investigation Final Report, Accident No. ERA24FA110, adopted 4/24/2026. submitted by /u/oops_i [link] [comments]",
+      "title": "NTSB Final Report — Hop-A-Jet Challenger 604 crash, I-75 Naples FL (Feb 9, 2024)",
+      "summary": "TL;DR: Salt-air corrosion in the HPC variable-geometry stator vane spindle bores of both GE CF34-3B engines jammed the VGs in an off-schedule position. Power reduction for landing triggered simultaneous unrecoverable sub-idle compressor stalls in both engines. GE's hung-start troubleshooting flowchart buried the one test that could have caught it (MP 68) at block 21, so months of warning signs were missed. Coastal-based CF34-BJ operators — check your SBs. Aircraft: Bombardier CL-600-2B16 (Challenger 604), N823KD, operated by Ace Aviation Services dba Hop-A-Jet, Part 135 on-demand. GE CF34-3B engines. Outcome: Both pilots fatal. Cabin attendant + 2 pax minor injuries. 1 minor ground injury. Aircraft destroyed by post-crash fire after striking a highway sign and concrete sound barrier on I-75. Probable Cause (verbatim from NTSB): ▎ Corrosion of both engines' variable geometry (VG) system components, which led to their operation in an off-schedule position and resulted in near-simultaneous sub-idle rotating compressor stalls on approach,subsequent loss of thrust in both engines, and an off-airport landing. Contributing was inadequate fault ▎ isolation guidance from the engine manufacturer, which prevented identification of corrosion buildup in VGsystem components during troubleshooting of hung start events on both engines about 1 month before theaccident. What actually happened (the short version): - On a shallow intercept to final for RWY 23 at KAPF, crew reduced power for landing. As N2 rolled back toward idle, both engines simultaneously entered a sub-idle, unrecoverable rotating compressor stall. ITT spiked past 889°C redline. Master warning, L+R engine oil pressure warnings, then \"ENGINE\" warning fired within 7 seconds. - FDR showed behavior was NOT a fuel cutoff, combustor blowout, or flameout. It looked exactly like the hung-start rollbacks the same two engines had 25 days earlier. - Crew declared \"lost both engines\" at ~1,000 ft / 122 kts. Couldn't make the runway. Touched down on southbound I-75, veered right, clipped a highway sign, hit a sound wall. Cabin attendant egressed 2 pax through the baggage door (she only knew how because she'd helped load bags before — her training did not cover that exit ). Why the engines rolled back — the root cause: - Teardown of both engines showed extensive corrosion in the HPC case, specifically in the stage-5 statorvane spindle bores. Chemical analysis: steel corrosion + chlorine/sulfur/sodium/calcium/potassium/magnesium = classic sea salt / marine environment exposure. Aircraft had spent its life at coastal airports (Barbados, then Fort Lauderdale Executive, ~4 nm from the Atlantic). - Corrosion prevented the VG stage-5 stator vanes from traveling their full range and required higher-than-normal actuation pressures. That put the VGs in an off-schedule position. At low power (like power-reduction for landing), that = compressor instability = rotating stall. Unrecoverable at low altitude. - Fuel was fine. MFCs were fine. No fuel contamination (tested for SAP, Kathon, DEF — all clean). No mechanical failure. It was purely the VG system hung up on corroded spindle bores. The damning part — it was findable, and GE's troubleshooting flowchart missed it: - 25 days before the crash, both engines had hung starts (Jan 15, 2024). Operator worked with GE using SM SEI-780 \"Fault Isolation 07 Hung Start or Slow Start\" — a 27-block YES/NO flowchart. - The VG pressure check (MP 68) that would have caught the corrosion was Block 21 — near the end of the tree. - Since the engines successfully started the next day and showed no other anomalies, the flowchart let them exit troubleshooting before ever reaching MP 68. GE concurred with returning the airplane to service. It flew 33 uneventful flights / 57 hours before the accident. - History: this airframe had 7 additional hung starts in the preceding 10 years — all handled the same way. NTSB Findings categories: - Aircraft: Fatigue/wear/corrosion - Aircraft: Malfunction - Organizational: Adequacy of manufacturer policy/procedure - Environmental: Contributed to outcome Safety actions GE has since taken: 1. SB 72-0345 R00 (May 2024) — one-time VG functional check on any CF34-BJ engine with a hung start in the previous 24 months. As of May 2025: 34 engines inspected, 7 failed and were pulled from service (4 of the 7 were from the accident operator's fleet). 2. SB 72-0347 R00 (May 2025) — one-time borescope + VG functional check of HPC stages 5/6 on all CF34-3BJ engines within 48 months. As of Mar 2026: 1,085 inspected, 1 failed. 3. SB 71-0000 R03 (Feb 2026) — new special requirements for sea/salt environment ops or engines showing external corrosion. 4. Adding a recurring HPC case BSI + VG Functional Check (MP 68) every 48 months to the Airworthiness Limitations section of SM SEI-780. 5. Aug 2024 — revised Fault Isolation 07 to make the MP 68 VG pressure check one of the first steps instead of Block 21. --- [Source]( https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/193769/pdf ) NTSB Aviation Investigation Final Report, Accident No. ERA24FA110, adopted 4/24/2026. submitted by /u/oops_i [link] [comments]",
+      "url": "https://www.reddit.com/r/flying/comments/1sumrbn/ntsb_final_report_hopajet_challenger_604_crash/",
+      "source": "Flying",
+      "published_at": "2026-04-24T17:44:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "71420b99f26c4b95",
+      "title_orig": "Former Nigeria forward Michael Eneramo, 40, dies of suspected heart attack during game",
+      "summary_orig": "ABUJA, Nigeria (AP) — Former Nigeria forward Michael Eneramo died after collapsing on the field during a friendly game on…",
+      "lang": "en",
+      "title_en": "Former Nigeria forward Michael Eneramo, 40, dies of suspected heart attack during game",
+      "summary_en": "ABUJA, Nigeria (AP) — Former Nigeria forward Michael Eneramo died after collapsing on the field during a friendly game on…",
+      "title": "Former Nigeria forward Michael Eneramo, 40, dies of suspected heart attack during game",
+      "summary": "ABUJA, Nigeria (AP) — Former Nigeria forward Michael Eneramo died after collapsing on the field during a friendly game on…",
+      "url": "https://wtop.com/sports/2026/04/former-nigeria-forward-michael-eneramo-40-dies-of-suspected-heart-attack-during-game/",
+      "source": "WTOP News",
+      "published_at": "2026-04-24T17:40:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "265c4a3c715634c8",
+      "title_orig": "Town of Peace River, Alta. cancels evacuation alert as flood threat recedes",
+      "summary_orig": "The Town of Peace River has cancelled an evacuation alert after the threat of flooding eased overnight, but residents are being advised to be prepared for changing conditions.",
+      "lang": "en",
+      "title_en": "Town of Peace River, Alta. cancels evacuation alert as flood threat recedes",
+      "summary_en": "The Town of Peace River has cancelled an evacuation alert after the threat of flooding eased overnight, but residents are being advised to be prepared for changing conditions.",
+      "title": "Town of Peace River, Alta. cancels evacuation alert as flood threat recedes",
+      "summary": "The Town of Peace River has cancelled an evacuation alert after the threat of flooding eased overnight, but residents are being advised to be prepared for changing conditions.",
+      "url": "https://globalnews.ca/news/11815917/peace-river-alta-cancels-evacuation-alert/",
+      "source": "globalnews.ca",
+      "published_at": "2026-04-24T17:39:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b6ecd0373e098690",
+      "title_orig": "NTSB Final Report — Hop-A-Jet Challenger 604 crash, I-75 Naples FL (Feb 9, 2024)",
+      "summary_orig": "TL;DR: Salt-air corrosion in the HPC variable-geometry stator vane spindle bores of both GE CF34-3B engines jammed the VGs in an off-schedule position. Power reduction for landing triggered simultaneous unrecoverable sub-idle compressor stalls in both engines. GE's hung-start troubleshooting flowchart buried the one test that could have caught it (MP 68) at block 21, so months of warning signs were missed. Coastal-based CF34-BJ operators — check your SBs. Aircraft: Bombardier CL-600-2B16 (Challenger 604), N823KD, operated by Ace Aviation Services dba Hop-A-Jet, Part 135 on-demand. GE CF34-3B engines. Outcome: Both pilots fatal. Cabin attendant + 2 pax minor injuries. 1 minor ground injury. Aircraft destroyed by post-crash fire after striking a highway sign and concrete sound barrier on I-75. Probable Cause (verbatim from NTSB): ▎ Corrosion of both engines' variable geometry (VG) system components, which led to their operation in an off-schedule position and resulted in near-simultaneous sub-idle rotating compressor stalls on approach, subsequent loss of thrust in both engines, and an off-airport landing. Contributing was inadequate fault ▎ isolation guidance from the engine manufacturer, which prevented identification of corrosion buildup in VG system components during troubleshooting of hung start events on both engines about 1 month before the accident. What actually happened (the short version): - On a shallow intercept to final for RWY 23 at KAPF, crew reduced power for landing. As N2 rolled back toward idle, both engines simultaneously entered a sub-idle, unrecoverable rotating compressor stall. ITT spiked past 889°C redline. Master warning, L+R engine oil pressure warnings, then \"ENGINE\" warning fired within 7 seconds. - FDR showed behavior was NOT a fuel cutoff, combustor blowout, or flameout. It looked exactly like the hung-start rollbacks the same two engines had 25 days earlier. - Crew declared \"lost both engines\" at ~1,000 ft / 122 kts. Couldn't make the runway. Touched down on southbound I-75, veered right, clipped a highway sign, hit a sound wall. Cabin attendant egressed 2 pax through the baggage door (she only knew how because she'd helped load bags before — her training did not cover that exit ). Why the engines rolled back — the root cause: - Teardown of both engines showed extensive corrosion in the HPC case, specifically in the stage-5 stator vane spindle bores. Chemical analysis: steel corrosion + chlorine/sulfur/sodium/calcium/potassium/magnesium = classic sea salt / marine environment exposure. Aircraft had spent its life at coastal airports (Barbados, then Fort Lauderdale Executive, ~4 nm from the Atlantic). - Corrosion prevented the VG stage-5 stator vanes from traveling their full range and required higher-than-normal actuation pressures. That put the VGs in an off-schedule position. At low power (like power-reduction for landing), that = compressor instability = rotating stall. Unrecoverable at low altitude. - Fuel was fine. MFCs were fine. No fuel contamination (tested for SAP, Kathon, DEF — all clean). No mechanical failure. It was purely the VG system hung up on corroded spindle bores. The damning part — it was findable, and GE's troubleshooting flowchart missed it: - 25 days before the crash, both engines had hung starts (Jan 15, 2024). Operator worked with GE using SM SEI-780 \"Fault Isolation 07 Hung Start or Slow Start\" — a 27-block YES/NO flowchart. - The VG pressure check (MP 68) that would have caught the corrosion was Block 21 — near the end of the tree. - Since the engines successfully started the next day and showed no other anomalies, the flowchart let them exit troubleshooting before ever reaching MP 68. GE concurred with returning the airplane to service. It flew 33 uneventful flights / 57 hours before the accident. - History: this airframe had 7 additional hung starts in the preceding 10 years — all handled the same way. NTSB Findings categories: - Aircraft: Fatigue/wear/corrosion - Aircraft: Malfunction - Organizational: Adequacy of manufacturer policy/procedure - Environmental: Contributed to outcome Safety actions GE has since taken: 1. SB 72-0345 R00 (May 2024) — one-time VG functional check on any CF34-BJ engine with a hung start in the previous 24 months. As of May 2025: 34 engines inspected, 7 failed and were pulled from service (4 of the 7 were from the accident operator's fleet). 2. SB 72-0347 R00 (May 2025) — one-time borescope + VG functional check of HPC stages 5/6 on all CF34-3BJ engines within 48 months. As of Mar 2026: 1,085 inspected, 1 failed. 3. SB 71-0000 R03 (Feb 2026) — new special requirements for sea/salt environment ops or engines showing external corrosion. 4. Adding a recurring HPC case BSI + VG Functional Check (MP 68) every 48 months to the Airworthiness Limitations section of SM SEI-780. 5. Aug 2024 — revised Fault Isolation 07 to make the MP 68 VG pressure check one of the first steps instead of Block 21. --- [Source]( https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/193769/pdf ) NTSB Aviation Investigation Final Report, Accident No. ERA24FA110, adopted 4/24/2026. submitted by /u/oops_i [link] [comments]",
+      "lang": "en",
+      "title_en": "NTSB Final Report — Hop-A-Jet Challenger 604 crash, I-75 Naples FL (Feb 9, 2024)",
+      "summary_en": "TL;DR: Salt-air corrosion in the HPC variable-geometry stator vane spindle bores of both GE CF34-3B engines jammed the VGs in an off-schedule position. Power reduction for landing triggered simultaneous unrecoverable sub-idle compressor stalls in both engines. GE's hung-start troubleshooting flowchart buried the one test that could have caught it (MP 68) at block 21, so months of warning signs were missed. Coastal-based CF34-BJ operators — check your SBs. Aircraft: Bombardier CL-600-2B16 (Challenger 604), N823KD, operated by Ace Aviation Services dba Hop-A-Jet, Part 135 on-demand. GE CF34-3B engines. Outcome: Both pilots fatal. Cabin attendant + 2 pax minor injuries. 1 minor ground injury. Aircraft destroyed by post-crash fire after striking a highway sign and concrete sound barrier on I-75. Probable Cause (verbatim from NTSB): ▎ Corrosion of both engines' variable geometry (VG) system components, which led to their operation in an off-schedule position and resulted in near-simultaneous sub-idle rotating compressor stalls on approach, subsequent loss of thrust in both engines, and an off-airport landing. Contributing was inadequate fault ▎ isolation guidance from the engine manufacturer, which prevented identification of corrosion buildup in VG system components during troubleshooting of hung start events on both engines about 1 month before the accident. What actually happened (the short version): - On a shallow intercept to final for RWY 23 at KAPF, crew reduced power for landing. As N2 rolled back toward idle, both engines simultaneously entered a sub-idle, unrecoverable rotating compressor stall. ITT spiked past 889°C redline. Master warning, L+R engine oil pressure warnings, then \"ENGINE\" warning fired within 7 seconds. - FDR showed behavior was NOT a fuel cutoff, combustor blowout, or flameout. It looked exactly like the hung-start rollbacks the same two engines had 25 days earlier. - Crew declared \"lost both engines\" at ~1,000 ft / 122 kts. Couldn't make the runway. Touched down on southbound I-75, veered right, clipped a highway sign, hit a sound wall. Cabin attendant egressed 2 pax through the baggage door (she only knew how because she'd helped load bags before — her training did not cover that exit ). Why the engines rolled back — the root cause: - Teardown of both engines showed extensive corrosion in the HPC case, specifically in the stage-5 stator vane spindle bores. Chemical analysis: steel corrosion + chlorine/sulfur/sodium/calcium/potassium/magnesium = classic sea salt / marine environment exposure. Aircraft had spent its life at coastal airports (Barbados, then Fort Lauderdale Executive, ~4 nm from the Atlantic). - Corrosion prevented the VG stage-5 stator vanes from traveling their full range and required higher-than-normal actuation pressures. That put the VGs in an off-schedule position. At low power (like power-reduction for landing), that = compressor instability = rotating stall. Unrecoverable at low altitude. - Fuel was fine. MFCs were fine. No fuel contamination (tested for SAP, Kathon, DEF — all clean). No mechanical failure. It was purely the VG system hung up on corroded spindle bores. The damning part — it was findable, and GE's troubleshooting flowchart missed it: - 25 days before the crash, both engines had hung starts (Jan 15, 2024). Operator worked with GE using SM SEI-780 \"Fault Isolation 07 Hung Start or Slow Start\" — a 27-block YES/NO flowchart. - The VG pressure check (MP 68) that would have caught the corrosion was Block 21 — near the end of the tree. - Since the engines successfully started the next day and showed no other anomalies, the flowchart let them exit troubleshooting before ever reaching MP 68. GE concurred with returning the airplane to service. It flew 33 uneventful flights / 57 hours before the accident. - History: this airframe had 7 additional hung starts in the preceding 10 years — all handled the same way. NTSB Findings categories: - Aircraft: Fatigue/wear/corrosion - Aircraft: Malfunction - Organizational: Adequacy of manufacturer policy/procedure - Environmental: Contributed to outcome Safety actions GE has since taken: 1. SB 72-0345 R00 (May 2024) — one-time VG functional check on any CF34-BJ engine with a hung start in the previous 24 months. As of May 2025: 34 engines inspected, 7 failed and were pulled from service (4 of the 7 were from the accident operator's fleet). 2. SB 72-0347 R00 (May 2025) — one-time borescope + VG functional check of HPC stages 5/6 on all CF34-3BJ engines within 48 months. As of Mar 2026: 1,085 inspected, 1 failed. 3. SB 71-0000 R03 (Feb 2026) — new special requirements for sea/salt environment ops or engines showing external corrosion. 4. Adding a recurring HPC case BSI + VG Functional Check (MP 68) every 48 months to the Airworthiness Limitations section of SM SEI-780. 5. Aug 2024 — revised Fault Isolation 07 to make the MP 68 VG pressure check one of the first steps instead of Block 21. --- [Source]( https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/193769/pdf ) NTSB Aviation Investigation Final Report, Accident No. ERA24FA110, adopted 4/24/2026. submitted by /u/oops_i [link] [comments]",
+      "title": "NTSB Final Report — Hop-A-Jet Challenger 604 crash, I-75 Naples FL (Feb 9, 2024)",
+      "summary": "TL;DR: Salt-air corrosion in the HPC variable-geometry stator vane spindle bores of both GE CF34-3B engines jammed the VGs in an off-schedule position. Power reduction for landing triggered simultaneous unrecoverable sub-idle compressor stalls in both engines. GE's hung-start troubleshooting flowchart buried the one test that could have caught it (MP 68) at block 21, so months of warning signs were missed. Coastal-based CF34-BJ operators — check your SBs. Aircraft: Bombardier CL-600-2B16 (Challenger 604), N823KD, operated by Ace Aviation Services dba Hop-A-Jet, Part 135 on-demand. GE CF34-3B engines. Outcome: Both pilots fatal. Cabin attendant + 2 pax minor injuries. 1 minor ground injury. Aircraft destroyed by post-crash fire after striking a highway sign and concrete sound barrier on I-75. Probable Cause (verbatim from NTSB): ▎ Corrosion of both engines' variable geometry (VG) system components, which led to their operation in an off-schedule position and resulted in near-simultaneous sub-idle rotating compressor stalls on approach, subsequent loss of thrust in both engines, and an off-airport landing. Contributing was inadequate fault ▎ isolation guidance from the engine manufacturer, which prevented identification of corrosion buildup in VG system components during troubleshooting of hung start events on both engines about 1 month before the accident. What actually happened (the short version): - On a shallow intercept to final for RWY 23 at KAPF, crew reduced power for landing. As N2 rolled back toward idle, both engines simultaneously entered a sub-idle, unrecoverable rotating compressor stall. ITT spiked past 889°C redline. Master warning, L+R engine oil pressure warnings, then \"ENGINE\" warning fired within 7 seconds. - FDR showed behavior was NOT a fuel cutoff, combustor blowout, or flameout. It looked exactly like the hung-start rollbacks the same two engines had 25 days earlier. - Crew declared \"lost both engines\" at ~1,000 ft / 122 kts. Couldn't make the runway. Touched down on southbound I-75, veered right, clipped a highway sign, hit a sound wall. Cabin attendant egressed 2 pax through the baggage door (she only knew how because she'd helped load bags before — her training did not cover that exit ). Why the engines rolled back — the root cause: - Teardown of both engines showed extensive corrosion in the HPC case, specifically in the stage-5 stator vane spindle bores. Chemical analysis: steel corrosion + chlorine/sulfur/sodium/calcium/potassium/magnesium = classic sea salt / marine environment exposure. Aircraft had spent its life at coastal airports (Barbados, then Fort Lauderdale Executive, ~4 nm from the Atlantic). - Corrosion prevented the VG stage-5 stator vanes from traveling their full range and required higher-than-normal actuation pressures. That put the VGs in an off-schedule position. At low power (like power-reduction for landing), that = compressor instability = rotating stall. Unrecoverable at low altitude. - Fuel was fine. MFCs were fine. No fuel contamination (tested for SAP, Kathon, DEF — all clean). No mechanical failure. It was purely the VG system hung up on corroded spindle bores. The damning part — it was findable, and GE's troubleshooting flowchart missed it: - 25 days before the crash, both engines had hung starts (Jan 15, 2024). Operator worked with GE using SM SEI-780 \"Fault Isolation 07 Hung Start or Slow Start\" — a 27-block YES/NO flowchart. - The VG pressure check (MP 68) that would have caught the corrosion was Block 21 — near the end of the tree. - Since the engines successfully started the next day and showed no other anomalies, the flowchart let them exit troubleshooting before ever reaching MP 68. GE concurred with returning the airplane to service. It flew 33 uneventful flights / 57 hours before the accident. - History: this airframe had 7 additional hung starts in the preceding 10 years — all handled the same way. NTSB Findings categories: - Aircraft: Fatigue/wear/corrosion - Aircraft: Malfunction - Organizational: Adequacy of manufacturer policy/procedure - Environmental: Contributed to outcome Safety actions GE has since taken: 1. SB 72-0345 R00 (May 2024) — one-time VG functional check on any CF34-BJ engine with a hung start in the previous 24 months. As of May 2025: 34 engines inspected, 7 failed and were pulled from service (4 of the 7 were from the accident operator's fleet). 2. SB 72-0347 R00 (May 2025) — one-time borescope + VG functional check of HPC stages 5/6 on all CF34-3BJ engines within 48 months. As of Mar 2026: 1,085 inspected, 1 failed. 3. SB 71-0000 R03 (Feb 2026) — new special requirements for sea/salt environment ops or engines showing external corrosion. 4. Adding a recurring HPC case BSI + VG Functional Check (MP 68) every 48 months to the Airworthiness Limitations section of SM SEI-780. 5. Aug 2024 — revised Fault Isolation 07 to make the MP 68 VG pressure check one of the first steps instead of Block 21. --- [Source]( https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/193769/pdf ) NTSB Aviation Investigation Final Report, Accident No. ERA24FA110, adopted 4/24/2026. submitted by /u/oops_i [link] [comments]",
+      "url": "https://www.reddit.com/r/aviation/comments/1sumgup/ntsb_final_report_hopajet_challenger_604_crash/",
+      "source": "aviation",
+      "published_at": "2026-04-24T17:33:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "social",
+      "geo": {}
+    },
+    {
+      "id": "509532d2a9daf7f0",
+      "title_orig": "10 properties under evacuation alert due to wildfire in the Cariboo",
+      "summary_orig": "The Xeni Gwet’in First Nation Government, Tŝilhqot’in National Government and Cariboo Regional District issued the alert, which covers 465.96 hectares.",
+      "lang": "en",
+      "title_en": "10 properties under evacuation alert due to wildfire in the Cariboo",
+      "summary_en": "The Xeni Gwet’in First Nation Government, Tŝilhqot’in National Government and Cariboo Regional District issued the alert, which covers 465.96 hectares.",
+      "title": "10 properties under evacuation alert due to wildfire in the Cariboo",
+      "summary": "The Xeni Gwet’in First Nation Government, Tŝilhqot’in National Government and Cariboo Regional District issued the alert, which covers 465.96 hectares.",
+      "url": "https://globalnews.ca/news/11815937/evacuation-alert-wildfire-cariboo/",
+      "source": "globalnews.ca",
+      "published_at": "2026-04-24T17:33:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4f6ba0b38de9224e",
+      "title_orig": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
+      "summary_orig": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
+      "lang": "en",
+      "title_en": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
+      "summary_en": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
+      "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
+      "summary": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
+      "url": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-04-24T17:31:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d7ab0c4934866e49",
+      "title_orig": "Top 5: These Are The Largest US Air Force Bases By Runway Length",
+      "summary_orig": "At the top of the list, a 15,024-foot runway pushes the boundaries of what's possible",
+      "lang": "en",
+      "title_en": "Top 5: These Are The Largest US Air Force Bases By Runway Length",
+      "summary_en": "At the top of the list, a 15,024-foot runway pushes the boundaries of what's possible",
+      "title": "Top 5: These Are The Largest US Air Force Bases By Runway Length",
+      "summary": "At the top of the list, a 15,024-foot runway pushes the boundaries of what's possible",
+      "url": "https://simpleflying.com/largest-us-air-force-bases-by-runway-length/",
+      "source": "Simple Flying",
+      "published_at": "2026-04-24T17:30:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4ec2ae4097063832",
+      "title_orig": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
+      "summary_orig": "Kosovo's court sentences two men to life imprisonment and another to a 30-year term for the 2023 attack.",
+      "lang": "en",
+      "title_en": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
+      "summary_en": "Kosovo's court sentences two men to life imprisonment and another to a 30-year term for the 2023 attack.",
+      "title": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
+      "summary": "Kosovo's court sentences two men to life imprisonment and another to a 30-year term for the 2023 attack.",
+      "url": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-04-24T17:20:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "521080c6a9087249",
+      "title_orig": "In Britain, 7 Unelected Lords Help Block an Assisted Dying Bill",
+      "summary_orig": "A small group in the House of Lords proposed hundreds of amendments that helped stymie a bill that was meant to legalize medically assisted death for the terminally ill.",
+      "lang": "en",
+      "title_en": "In Britain, 7 Unelected Lords Help Block an Assisted Dying Bill",
+      "summary_en": "A small group in the House of Lords proposed hundreds of amendments that helped stymie a bill that was meant to legalize medically assisted death for the terminally ill.",
+      "title": "In Britain, 7 Unelected Lords Help Block an Assisted Dying Bill",
+      "summary": "A small group in the House of Lords proposed hundreds of amendments that helped stymie a bill that was meant to legalize medically assisted death for the terminally ill.",
+      "url": "https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-24T17:18:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1375beabea39901b",
+      "title_orig": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+      "summary_orig": "Amal Khalil was killed while reporting on an Israeli air strike in southern Lebanon during a 10-day ceasefire.",
+      "lang": "en",
+      "title_en": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+      "summary_en": "Amal Khalil was killed while reporting on an Israeli air strike in southern Lebanon during a 10-day ceasefire.",
+      "title": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+      "summary": "Amal Khalil was killed while reporting on an Israeli air strike in southern Lebanon during a 10-day ceasefire.",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-04-24T17:14:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a9ac3c74d409e4ed",
+      "title_orig": "Iranian national in custody after stabbing at central London protest",
+      "summary_orig": "Vahid Madaffard, 37, appeared at Westminster Magistrates’ Court on Friday charged with causing grievous bodily harm with intent",
+      "lang": "en",
+      "title_en": "Iranian national in custody after stabbing at central London protest",
+      "summary_en": "Vahid Madaffard, 37, appeared at Westminster Magistrates’ Court on Friday charged with causing grievous bodily harm with intent",
+      "title": "Iranian national in custody after stabbing at central London protest",
+      "summary": "Vahid Madaffard, 37, appeared at Westminster Magistrates’ Court on Friday charged with causing grievous bodily harm with intent",
+      "url": "https://www.standard.co.uk/news/crime/iranian-national-custody-stabbing-central-london-protest-b1279929.html",
+      "source": "The Standard News",
+      "published_at": "2026-04-24T17:04:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e8bdf99340ad06b8",
+      "title_orig": "Days after students protest in Kashmir’s Sopore, six youths held under PSA over ‘vandalism’",
+      "summary_orig": "The stringent Public Safety Act allows detention without trial for up to two years. Police say the six ‘miscreants’ were involved ‘acts of vandalism’ during the student protest in Sopore after girl students accused a lecturer of ‘inappropriate behaviour’.",
+      "lang": "en",
+      "title_en": "Days after students protest in Kashmir’s Sopore, six youths held under PSA over ‘vandalism’",
+      "summary_en": "The stringent Public Safety Act allows detention without trial for up to two years. Police say the six ‘miscreants’ were involved ‘acts of vandalism’ during the student protest in Sopore after girl students accused a lecturer of ‘inappropriate behaviour’.",
+      "title": "Days after students protest in Kashmir’s Sopore, six youths held under PSA over ‘vandalism’",
+      "summary": "The stringent Public Safety Act allows detention without trial for up to two years. Police say the six ‘miscreants’ were involved ‘acts of vandalism’ during the student protest in Sopore after girl students accused a lecturer of ‘inappropriate behaviour’.",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/days-after-students-protest-in-kashmirs-sopore-six-youths-held-under-psa-over-vandalism/article70902577.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-04-24T17:03:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "78876d7500529f88",
+      "title_orig": "‘No clear strategy’: how Trump went from shock and awe to wait and see in Iran",
+      "summary_orig": "Lack of a sustained plan to end the war has convinced US allies that the White House is running out of ideas Nearly eight weeks after Donald Trump launched his assault on Iran , the White House has shifted from a strategy of shock-and-awe bombardments and leadership decapitation to a plan of sustained economic pressure as it tests the wills of a regime practiced over decades at wars of attrition. Since the negotiations stalled, the White House has begun to shift its messaging to say it is willing to wait to strike a more durable deal with Iran – despite the growing economic toll inflicted on the world economy by the closure of the strait of Hormuz. The reason, senior officials have said, is because of the joint US-Israeli strikes were so successful that they have fractured Iran’s leadership and prevented a new consolidation of power. Continue reading...",
+      "lang": "en",
+      "title_en": "‘No clear strategy’: how Trump went from shock and awe to wait and see in Iran",
+      "summary_en": "Lack of a sustained plan to end the war has convinced US allies that the White House is running out of ideas Nearly eight weeks after Donald Trump launched his assault on Iran , the White House has shifted from a strategy of shock-and-awe bombardments and leadership decapitation to a plan of sustained economic pressure as it tests the wills of a regime practiced over decades at wars of attrition. Since the negotiations stalled, the White House has begun to shift its messaging to say it is willing to wait to strike a more durable deal with Iran – despite the growing economic toll inflicted on the world economy by the closure of the strait of Hormuz. The reason, senior officials have said, is because of the joint US-Israeli strikes were so successful that they have fractured Iran’s leadership and prevented a new consolidation of power. Continue reading...",
+      "title": "‘No clear strategy’: how Trump went from shock and awe to wait and see in Iran",
+      "summary": "Lack of a sustained plan to end the war has convinced US allies that the White House is running out of ideas Nearly eight weeks after Donald Trump launched his assault on Iran , the White House has shifted from a strategy of shock-and-awe bombardments and leadership decapitation to a plan of sustained economic pressure as it tests the wills of a regime practiced over decades at wars of attrition. Since the negotiations stalled, the White House has begun to shift its messaging to say it is willing to wait to strike a more durable deal with Iran – despite the growing economic toll inflicted on the world economy by the closure of the strait of Hormuz. The reason, senior officials have said, is because of the joint US-Israeli strikes were so successful that they have fractured Iran’s leadership and prevented a new consolidation of power. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/apr/24/trump-iran-war-no-strategy",
+      "source": "World news | The Guardian",
+      "published_at": "2026-04-24T17:02:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a09b1438bb09e639",
+      "title_orig": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
+      "summary_orig": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war UK politics live – latest updates Downing Street has been forced to insist that Britain will not yield sovereignty over the Falkland Islands, after a leaked Pentagon email proposed the US should reassess its support for the UK’s claim on the islands because of a lack of British support over Iran. The memo reflected ways in which the Trump administration could punish Britain for failing to follow the US lead in bombing Iran, and comes before a potentially fraught three-day state visit to the US by King Charles. Continue reading...",
+      "lang": "en",
+      "title_en": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
+      "summary_en": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war UK politics live – latest updates Downing Street has been forced to insist that Britain will not yield sovereignty over the Falkland Islands, after a leaked Pentagon email proposed the US should reassess its support for the UK’s claim on the islands because of a lack of British support over Iran. The memo reflected ways in which the Trump administration could punish Britain for failing to follow the US lead in bombing Iran, and comes before a potentially fraught three-day state visit to the US by King Charles. Continue reading...",
+      "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
+      "summary": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war UK politics live – latest updates Downing Street has been forced to insist that Britain will not yield sovereignty over the Falkland Islands, after a leaked Pentagon email proposed the US should reassess its support for the UK’s claim on the islands because of a lack of British support over Iran. The memo reflected ways in which the Trump administration could punish Britain for failing to follow the US lead in bombing Iran, and comes before a potentially fraught three-day state visit to the US by King Charles. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
+      "source": "World news | The Guardian",
+      "published_at": "2026-04-24T17:00:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "13805d1a308c5093",
+      "title_orig": "The New Runway Projects That Will Reshape Airports In 2026",
+      "summary_orig": "2026 is lining up to be a huge year in terms of airport developments throughout the world.",
+      "lang": "en",
+      "title_en": "The New Runway Projects That Will Reshape Airports In 2026",
+      "summary_en": "2026 is lining up to be a huge year in terms of airport developments throughout the world.",
+      "title": "The New Runway Projects That Will Reshape Airports In 2026",
+      "summary": "2026 is lining up to be a huge year in terms of airport developments throughout the world.",
+      "url": "https://simpleflying.com/new-runway-projects-reshape-airports-2026/",
+      "source": "Simple Flying",
+      "published_at": "2026-04-24T17:00:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "61db44de4fa55e1d",
+      "title_orig": "Horse Power: Montregard to strike Gold at Sandown and Winter Flower to score at Haydock",
+      "summary_orig": "Tom Lacey's seven-year-old to score on final day of the Jumps season at the Esher track as William Haggas's Winter Flower can grab victory on Merseyside while Jonbon, Cerulean Bay, Good Earth, Pursuit Of Love, Symbol Of Majesty, Jenny Jerome, Kabral Du Mathan, Wilstar, Blow Your Wad, Calymystic, Liverpool Star and Strike Red may also be Saturday scorers",
+      "lang": "en",
+      "title_en": "Horse Power: Montregard to strike Gold at Sandown and Winter Flower to score at Haydock",
+      "summary_en": "Tom Lacey's seven-year-old to score on final day of the Jumps season at the Esher track as William Haggas's Winter Flower can grab victory on Merseyside while Jonbon, Cerulean Bay, Good Earth, Pursuit Of Love, Symbol Of Majesty, Jenny Jerome, Kabral Du Mathan, Wilstar, Blow Your Wad, Calymystic, Liverpool Star and Strike Red may also be Saturday scorers",
+      "title": "Horse Power: Montregard to strike Gold at Sandown and Winter Flower to score at Haydock",
+      "summary": "Tom Lacey's seven-year-old to score on final day of the Jumps season at the Esher track as William Haggas's Winter Flower can grab victory on Merseyside while Jonbon, Cerulean Bay, Good Earth, Pursuit Of Love, Symbol Of Majesty, Jenny Jerome, Kabral Du Mathan, Wilstar, Blow Your Wad, Calymystic, Liverpool Star and Strike Red may also be Saturday scorers",
+      "url": "https://www.liverpoolecho.co.uk/sport/other-sport/horse-racing/horse-power-montregard-strike-gold-33797873",
+      "source": "Liverpool Echo - News",
+      "published_at": "2026-04-24T17:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8fe6d6affc1c1332",
+      "title_orig": "Iran foreign minister to embark on three-nation tour as US peace talks remain stalled",
+      "summary_orig": "Abbas Araghchi to visit Pakistan, Oman and Russia to see if talks can be reopened, with both sides still in stalemate Middle East crisis – live updates The Iranian foreign minister, Abbas Araghchi, is planning a tour of Pakistan, Russia and Oman in an effort to see if there is a basis to reopen peace talks that can end with a permanent US-Israeli commitment to cease its attacks on Iran, now one of Tehran’s key demands. Araghchi is also likely to discuss a potential permanent new arrangement on governing the strait of Hormuz with Oman, which oversees the south of the strait. Continue reading...",
+      "lang": "en",
+      "title_en": "Iran foreign minister to embark on three-nation tour as US peace talks remain stalled",
+      "summary_en": "Abbas Araghchi to visit Pakistan, Oman and Russia to see if talks can be reopened, with both sides still in stalemate Middle East crisis – live updates The Iranian foreign minister, Abbas Araghchi, is planning a tour of Pakistan, Russia and Oman in an effort to see if there is a basis to reopen peace talks that can end with a permanent US-Israeli commitment to cease its attacks on Iran, now one of Tehran’s key demands. Araghchi is also likely to discuss a potential permanent new arrangement on governing the strait of Hormuz with Oman, which oversees the south of the strait. Continue reading...",
+      "title": "Iran foreign minister to embark on three-nation tour as US peace talks remain stalled",
+      "summary": "Abbas Araghchi to visit Pakistan, Oman and Russia to see if talks can be reopened, with both sides still in stalemate Middle East crisis – live updates The Iranian foreign minister, Abbas Araghchi, is planning a tour of Pakistan, Russia and Oman in an effort to see if there is a basis to reopen peace talks that can end with a permanent US-Israeli commitment to cease its attacks on Iran, now one of Tehran’s key demands. Araghchi is also likely to discuss a potential permanent new arrangement on governing the strait of Hormuz with Oman, which oversees the south of the strait. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled",
+      "source": "World news | The Guardian",
+      "published_at": "2026-04-24T16:48:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "390cfb39856b9f98",
       "title_orig": "Romania tests AI-powered drone interceptors as Ukraine war gets closer",
@@ -31,24 +355,6 @@
       "url": "https://www.standard.co.uk/news/london/which-tube-lines-are-running-during-strike-b1279814.html",
       "source": "The Standard News",
       "published_at": "2026-04-24T16:43:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d957034717ffa21e",
-      "title_orig": "Time runs out for assisted dying bill for England and Wales",
-      "summary_orig": "LONDON (AP) — A proposed bill to allow terminally ill adults in England and Wales to choose to end their…",
-      "lang": "en",
-      "title_en": "Time runs out for assisted dying bill for England and Wales",
-      "summary_en": "LONDON (AP) — A proposed bill to allow terminally ill adults in England and Wales to choose to end their…",
-      "title": "Time runs out for assisted dying bill for England and Wales",
-      "summary": "LONDON (AP) — A proposed bill to allow terminally ill adults in England and Wales to choose to end their…",
-      "url": "https://wtop.com/world/2026/04/bill-to-allow-assisted-dying-in-england-and-wales-is-set-to-fall-as-parliamentary-time-runs-out/",
-      "source": "WTOP News",
-      "published_at": "2026-04-24T16:39:36+00:00",
       "tags": [
         "airport/security"
       ],
@@ -245,24 +551,6 @@
       "geo": {}
     },
     {
-      "id": "2fccec97c502900b",
-      "title_orig": "A 30th N.S. long-term care home, about 3,000 total workers, join ongoing strike",
-      "summary_orig": "Essential services are being maintained, but physiotherapists, occupational therapists and recreational therapists are not reporting to work.",
-      "lang": "en",
-      "title_en": "A 30th N.S. long-term care home, about 3,000 total workers, join ongoing strike",
-      "summary_en": "Essential services are being maintained, but physiotherapists, occupational therapists and recreational therapists are not reporting to work.",
-      "title": "A 30th N.S. long-term care home, about 3,000 total workers, join ongoing strike",
-      "summary": "Essential services are being maintained, but physiotherapists, occupational therapists and recreational therapists are not reporting to work.",
-      "url": "https://globalnews.ca/news/11815802/cupe-long-term-care-workers-strike-30th-home/",
-      "source": "globalnews.ca",
-      "published_at": "2026-04-24T16:03:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f6068f9e1b650fe4",
       "title_orig": "Wildfire that has destroyed nearly 90 homes in Georgia threatens more evacuations",
       "summary_orig": "Officials say more evacuations may be necessary for more residents near a large wildfire that has destroyed dozens of homes in rural southeast Georgia",
@@ -290,7 +578,7 @@
       "title": "UK eases airline penalties as jet fuel shortages threaten flights",
       "summary": "Carriers will retain airport slots if they cancel services as passengers are urged to continue with travel plans Penalties on airlines that cancel UK flights because of jet fuel shortages have been eased, it has emerged, as the government issued fresh advice to reassure the public they can still fly and should stick to travel plans. Airlines that cancel owing to a lack of fuel will not lose their rights to valuable takeoff and landing slots at busy airports, which can be forfeited when flights fail to operate over a period. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/apr/24/uk-eases-airline-penalties-jet-fuel-shortages-flights",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-04-24T15:48:33+00:00",
       "tags": [
         "airport/security"
@@ -434,7 +722,7 @@
       "title": "Assisted dying bill fails to become law after running out of time in parliament – as it happened",
       "summary": "This blog is now closed, you can read more on this story here Downing Street has hit back at reports suggesting the US could reconsider its position over the UK’s claim to the Falkland Islands because the UK did not do enough to assist the American bombing of Iran was leaked. The prime minister’s official spokesperson said: “The UK position is clear and isn’t going to change … It’s a longstanding one. It’s an unchanged one, and it will remain the case.” Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/apr/24/keir-starmer-peter-mandelson-us-met-police-westminster-assisted-dying-latest-news",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-04-24T15:11:33+00:00",
       "tags": [
         "airport/security"
@@ -554,7 +842,7 @@
       "id": "483adb7f14ed4d10",
       "title_orig": "Crashes involving bikes surge during London Tube strikes",
       "summary_orig": "",
-      "lang": "af",
+      "lang": "en",
       "title_en": "Crashes involving bikes surge during London Tube strikes",
       "summary_en": "",
       "title": "Crashes involving bikes surge during London Tube strikes",
@@ -714,12 +1002,12 @@
     },
     {
       "id": "60a91794921f6d1f",
-      "title_orig": "Burke reportedly removed from disciplinary hearing after protest over presence of solicitors",
+      "title_orig": "Enoch Burke removed from disciplinary hearing after protest over presence of solicitors",
       "summary_orig": "The third iteration of the DAP began meeting in Athlone at 10am today.",
       "lang": "en",
-      "title_en": "Burke reportedly removed from disciplinary hearing after protest over presence of solicitors",
+      "title_en": "Enoch Burke removed from disciplinary hearing after protest over presence of solicitors",
       "summary_en": "The third iteration of the DAP began meeting in Athlone at 10am today.",
-      "title": "Burke reportedly removed from disciplinary hearing after protest over presence of solicitors",
+      "title": "Enoch Burke removed from disciplinary hearing after protest over presence of solicitors",
       "summary": "The third iteration of the DAP began meeting in Athlone at 10am today.",
       "url": "https://www.thejournal.ie/enoch-burke-third-dap-failed-high-court-injunction-7022227-Apr2026/",
       "source": "TheJournal.ie",
@@ -747,51 +1035,6 @@
       ],
       "type": "local news",
       "geo": {}
-    },
-    {
-      "id": "7d5c2955eef55b7e",
-      "title_orig": "Dad killed by punch in pub attack married childhood sweetheart as he lay in coma",
-      "summary_orig": "\"I live with guilt and regret every day for going out that night\"",
-      "lang": "en",
-      "title_en": "Dad killed by punch in pub attack married childhood sweetheart as he lay in coma",
-      "summary_en": "\"I live with guilt and regret every day for going out that night\"",
-      "title": "Dad killed by punch in pub attack married childhood sweetheart as he lay in coma",
-      "summary": "\"I live with guilt and regret every day for going out that night\"",
-      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/dad-killed-punch-pub-attack-33832955",
-      "source": "MEN - News",
-      "published_at": "2026-04-24T14:18:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b84f6d95c7232fa8",
-      "title_orig": "Greece makes change on EU biometric checks after Manchester Airport flight chaos",
-      "summary_orig": "A plane left without some of its passengers due to delays caused by the new entry and exit system",
-      "lang": "en",
-      "title_en": "Greece makes change on EU biometric checks after Manchester Airport flight chaos",
-      "summary_en": "A plane left without some of its passengers due to delays caused by the new entry and exit system",
-      "title": "Greece makes change on EU biometric checks after Manchester Airport flight chaos",
-      "summary": "A plane left without some of its passengers due to delays caused by the new entry and exit system",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/greece-makes-change-on-eu-33833050",
-      "source": "MEN - News",
-      "published_at": "2026-04-24T14:16:44+00:00",
-      "tags": [
-        "MAN",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN",
-        "lat": 53.3652,
-        "lon": -2.2727
-      }
     },
     {
       "id": "b192013506dcc0b2",
@@ -841,24 +1084,6 @@
       "url": "https://www.straitstimes.com/world/middle-east/israeli-strike-kills-three-in-gaza-medics-say",
       "source": "The Straits Times World News",
       "published_at": "2026-04-24T14:01:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "395f88f36e1e613e",
-      "title_orig": "Missing firearm prompts Newaygo High School to go on brief lockdown",
-      "summary_orig": "The firearm was later found at the student's residence, and the hold was lifted.",
-      "lang": "en",
-      "title_en": "Missing firearm prompts Newaygo High School to go on brief lockdown",
-      "summary_en": "The firearm was later found at the student's residence, and the hold was lifted.",
-      "title": "Missing firearm prompts Newaygo High School to go on brief lockdown",
-      "summary": "The firearm was later found at the student's residence, and the hold was lifted.",
-      "url": "https://www.mlive.com/news/muskegon/2026/04/missing-firearm-prompts-newaygo-high-school-to-go-on-brief-lockdown.html",
-      "source": "mlive.com",
-      "published_at": "2026-04-24T13:55:21+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1199,42 +1424,6 @@
       }
     },
     {
-      "id": "4f6ba0b38de9224e",
-      "title_orig": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
-      "summary_orig": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
-      "lang": "en",
-      "title_en": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
-      "summary_en": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
-      "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
-      "summary": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
-      "url": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-04-24T12:39:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b9ca3b86b373fa5a",
-      "title_orig": "Racist stalked woman before rape because he 'thought she was Muslim'",
-      "summary_orig": "John Ashby, 32, followed the victim off a bus and forced his into her home with a stick in Walsall, West Midlands, subjecting her to a stream of Islamophobic abuse during the attack",
-      "lang": "en",
-      "title_en": "Racist stalked woman before rape because he 'thought she was Muslim'",
-      "summary_en": "John Ashby, 32, followed the victim off a bus and forced his into her home with a stick in Walsall, West Midlands, subjecting her to a stream of Islamophobic abuse during the attack",
-      "title": "Racist stalked woman before rape because he 'thought she was Muslim'",
-      "summary": "John Ashby, 32, followed the victim off a bus and forced his into her home with a stick in Walsall, West Midlands, subjecting her to a stream of Islamophobic abuse during the attack",
-      "url": "https://www.liverpoolecho.co.uk/news/racist-stalked-woman-before-rape-33832628",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-04-24T12:38:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d7d3e038c04a43a9",
       "title_orig": "Iran to resume international flights from Tehran airport",
       "summary_orig": "The first flights to resume will be to Istanbul in Turkey and Muscat in Oman.",
@@ -1246,24 +1435,6 @@
       "url": "https://www.straitstimes.com/world/middle-east/iran-to-resume-international-flights-from-tehran-airport",
       "source": "The Straits Times World News",
       "published_at": "2026-04-24T12:30:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e288b455cee0b4f7",
-      "title_orig": "First picture of murder suspect accused of Stockbridge Village takeaway attack",
-      "summary_orig": "Jahfari Moore made his first appearance at Sefton Magistrates' Court on Thursday in connection with the death of Carl Ennis",
-      "lang": "en",
-      "title_en": "First picture of murder suspect accused of Stockbridge Village takeaway attack",
-      "summary_en": "Jahfari Moore made his first appearance at Sefton Magistrates' Court on Thursday in connection with the death of Carl Ennis",
-      "title": "First picture of murder suspect accused of Stockbridge Village takeaway attack",
-      "summary": "Jahfari Moore made his first appearance at Sefton Magistrates' Court on Thursday in connection with the death of Carl Ennis",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/first-picture-murder-suspect-accused-33829947",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-04-24T12:18:52+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2054,24 +2225,6 @@
       "geo": {}
     },
     {
-      "id": "521080c6a9087249",
-      "title_orig": "In Britain, 7 Unelected Lords Are Helping to Block an Assisted Dying Bill",
-      "summary_orig": "A small group in the House of Lords has proposed hundreds of amendments that are helping stymie a bill that was meant to legalize medically assisted death for the terminally ill.",
-      "lang": "en",
-      "title_en": "In Britain, 7 Unelected Lords Are Helping to Block an Assisted Dying Bill",
-      "summary_en": "A small group in the House of Lords has proposed hundreds of amendments that are helping stymie a bill that was meant to legalize medically assisted death for the terminally ill.",
-      "title": "In Britain, 7 Unelected Lords Are Helping to Block an Assisted Dying Bill",
-      "summary": "A small group in the House of Lords has proposed hundreds of amendments that are helping stymie a bill that was meant to legalize medically assisted death for the terminally ill.",
-      "url": "https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-24T04:01:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "9c0a4fb0c9319d4e",
       "title_orig": "US soldier allegedly bet on Maduro operation using intel",
       "summary_orig": "A US soldier faces charges for using classified information to bet on online prediction markets related to the US operation to capture former Venezuelan president Nicolas Maduro, the Department of Justice said Thursday. US Army soldier Gannon Ken Van Dyke, 38, of Fayetteville, North Carolina, allegedly made over $400,000 by using the online platform Polymarket to bet on outcomes related to US forces arriving in Venezuela’s capital Caracas and deposing Maduro — an operation he helped plan and execute, according to justice officials. The US military launched strikes on Caracas on January 3, arresting Maduro and his wife Cilia Flores and whisking them to New York to face drug trafficking charges. “Our men and women in uniform are trusted with classified information in order to accomplish their mission…and are prohibited from using this highly sensitive information for personal financial gain,” Acting US Attorney General Todd Blanche said in a statement. Polymarket said in a statement it had flagged the user who made the bets to the Department of Justice and cooperated with their investigation. “Insider trading has no place on Polymarket,” the statement said. “Today’s arrest is proof the system works.” Van Dyke faces one count of wire fraud, one count of an unlawful monetary transaction and three counts of violating the Commodity Exchange Act, according to the indictment. The indictment marks the latest instance of insider information being used to bet on the actions of the second Trump administration. Earlier in the year, six accounts on Polymarket made $1.2 million after betting that the United States would attack Iran on February 28, the day the war in the Middle East began. No arrests have been made in connection with those bets, and so far there is no evidence US President Donald Trump or White House officials are linked to the transactions. “The whole world, unfortunately, has become somewhat of a casino…in Europe and every place, they’re doing these betting things,” Trump told reporters Thursday, adding: “I was never much in favor of it.” Conflicts of interest Democratic lawmakers and other critics have accused Trump and his family of having conflicts of interest since the beginning of his second term. “The Trump family has made $4 billion off the presidency,” leftist senator Bernie Sanders wrote Thursday in a post on X with a list of alleged income sources, calling it “unprecedented kleptocracy.” In March, Trump posted on his Truth Social platform about “very productive” talks with Iran, sending oil prices downward and stocks surging — and people who placed the flurry of futures trades beforehand likely pocketed tens of millions of dollars, according to calculations by a market operator for AFP. Members of the Trump family have also made hundreds of millions of dollars in profits from cryptocurrencies, a market he has sought to deregulate. And Trump’s son Donald Jr. is a partner at 1789 Capital, which made a multi-million investment in Polymarket last year, leading the prediction market to name him as a company adviser. If Van Dyke, who used Polymarket to wager, is convicted on all counts, he faces a maximum sentence of 50 years in prison.",
@@ -2389,24 +2542,6 @@
       "url": "https://www.standard.co.uk/news/transport/tube-strike-london-underground-tfl-rmt-b1279795.html",
       "source": "The Standard News",
       "published_at": "2026-04-23T19:35:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "fc5033c26bc0eaa3",
-      "title_orig": "Secretary-General Saddened by Death of Second French Peacekeeper in Lebanon Attack, Calls for ‘Prompt’ Investigation, Accountability",
-      "summary_orig": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
-      "lang": "en",
-      "title_en": "Secretary-General Saddened by Death of Second French Peacekeeper in Lebanon Attack, Calls for ‘Prompt’ Investigation, Accountability",
-      "summary_en": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
-      "title": "Secretary-General Saddened by Death of Second French Peacekeeper in Lebanon Attack, Calls for ‘Prompt’ Investigation, Accountability",
-      "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
-      "url": "https://press.un.org/en/2026/sgsm23099.doc.htm",
-      "source": "UN Meetings Coverage and Press Releases",
-      "published_at": "2026-04-23T19:09:57+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2740,24 +2875,6 @@
       "url": "https://www.leeds-live.co.uk/sport/leeds-united/gary-neville-names-chelsea-players-33821228",
       "source": "Leeds Live - frontpage",
       "published_at": "2026-04-23T09:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bd4800112f5f4220",
-      "title_orig": "Ben Brereton Diaz sparks Derby County transfer hope as he opens up on Pride Park switch",
-      "summary_orig": "The former Nottingham Forest and Blackburn striker has scored eight goals for Derby this season but there are question marks over his future at Southampton",
-      "lang": "en",
-      "title_en": "Ben Brereton Diaz sparks Derby County transfer hope as he opens up on Pride Park switch",
-      "summary_en": "The former Nottingham Forest and Blackburn striker has scored eight goals for Derby this season but there are question marks over his future at Southampton",
-      "title": "Ben Brereton Diaz sparks Derby County transfer hope as he opens up on Pride Park switch",
-      "summary": "The former Nottingham Forest and Blackburn striker has scored eight goals for Derby this season but there are question marks over his future at Southampton",
-      "url": "https://www.derbytelegraph.co.uk/sport/football/football-news/ben-brereton-diaz-derby-county-10931120",
-      "source": "Derbyshire Live - frontpage",
-      "published_at": "2026-04-23T08:13:08+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3271,24 +3388,6 @@
       "url": "https://www.latimes.com/politics/story/2026-04-07/trumps-message-to-iran-on-deadline-day-a-whole-civilization-will-die-tonight",
       "source": "World & Nation",
       "published_at": "2026-04-07T14:31:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "17e83504f0395eb2",
-      "title_orig": "After daring rescue inside Iran, bellowing threats from Trump",
-      "summary_orig": "President Trump threatened to escalate strikes if Iran doesn't open the Strait of Hormuz by his Tuesday deadline. Details emerge of a U.S. airman's rescue in Iran.",
-      "lang": "en",
-      "title_en": "After daring rescue inside Iran, bellowing threats from Trump",
-      "summary_en": "President Trump threatened to escalate strikes if Iran doesn't open the Strait of Hormuz by his Tuesday deadline. Details emerge of a U.S. airman's rescue in Iran.",
-      "title": "After daring rescue inside Iran, bellowing threats from Trump",
-      "summary": "President Trump threatened to escalate strikes if Iran doesn't open the Strait of Hormuz by his Tuesday deadline. Details emerge of a U.S. airman's rescue in Iran.",
-      "url": "https://www.latimes.com/world-nation/story/2026-04-05/trump-issues-expletive-laced-threat-against-iran-details-of-u-s-aviators-rescue-emerge",
-      "source": "World & Nation",
-      "published_at": "2026-04-05T15:34:16+00:00",
       "tags": [
         "airport/security"
       ],
