@@ -1,18 +1,225 @@
 {
-  "generated_at": "2026-04-26T16:40:53.125796+00:00",
+  "generated_at": "2026-04-26T17:39:02.593472+00:00",
   "items": [
     {
-      "id": "cf887aa39cae81b6",
-      "title_orig": "Iranian FM Araghchi back in Pakistan after Oman visit, to head to Moscow after short stay: diplomatic source",
+      "id": "f937d3b24cbf736f",
+      "title_orig": "Man hospitalized after axe attack in Battle Creek",
+      "summary_orig": "A 44-year-old suspect was taken into custody after fleeing the scene Saturday night.",
+      "lang": "en",
+      "title_en": "Man hospitalized after axe attack in Battle Creek",
+      "summary_en": "A 44-year-old suspect was taken into custody after fleeing the scene Saturday night.",
+      "title": "Man hospitalized after axe attack in Battle Creek",
+      "summary": "A 44-year-old suspect was taken into custody after fleeing the scene Saturday night.",
+      "url": "https://www.mlive.com/news/kalamazoo/2026/04/man-hospitalized-after-axe-attack-in-battle-creek.html",
+      "source": "mlive.com",
+      "published_at": "2026-04-26T17:25:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "93002d31138ef0b9",
+      "title_orig": "Woman (80s) dies in crash in Dublin car park",
+      "summary_orig": "The collision occurred in a car park on Idrone Avenue, Knocklyon, Dublin 16 this morning at approximately 10.55am.",
+      "lang": "en",
+      "title_en": "Woman (80s) dies in crash in Dublin car park",
+      "summary_en": "The collision occurred in a car park on Idrone Avenue, Knocklyon, Dublin 16 this morning at approximately 10.55am.",
+      "title": "Woman (80s) dies in crash in Dublin car park",
+      "summary": "The collision occurred in a car park on Idrone Avenue, Knocklyon, Dublin 16 this morning at approximately 10.55am.",
+      "url": "https://www.thejournal.ie/woman-dies-crash-car-park-dublin-7024649-Apr2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-04-26T17:24:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d7e7f540b3badb19",
+      "title_orig": "Mali troops and Russian mercenaries withdraw from Kidal after coordinated rebel attacks",
+      "summary_orig": "DAKAR, Senegal (AP) — Malian troops and Russian mercenaries withdrew from the northern city of Kidal after a series of…",
+      "lang": "en",
+      "title_en": "Mali troops and Russian mercenaries withdraw from Kidal after coordinated rebel attacks",
+      "summary_en": "DAKAR, Senegal (AP) — Malian troops and Russian mercenaries withdrew from the northern city of Kidal after a series of…",
+      "title": "Mali troops and Russian mercenaries withdraw from Kidal after coordinated rebel attacks",
+      "summary": "DAKAR, Senegal (AP) — Malian troops and Russian mercenaries withdrew from the northern city of Kidal after a series of…",
+      "url": "https://wtop.com/world/2026/04/mali-separatists-confirm-they-joined-islamic-militants-in-coordinated-attacks/",
+      "source": "WTOP News",
+      "published_at": "2026-04-26T17:24:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "da49fdf597cb6d7c",
+      "title_orig": "Mali defence minister killed in attacks, reports say",
+      "summary_orig": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
+      "lang": "en",
+      "title_en": "Mali defence minister killed in attacks, reports say",
+      "summary_en": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
+      "title": "Mali defence minister killed in attacks, reports say",
+      "summary": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
+      "url": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-04-26T17:23:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6d605c7f95271d90",
+      "title_orig": "Motorcyclist dies after horror crash on Manchester Airport Link Road as road remains closed",
+      "summary_orig": "The rider, a man in his 30s, tragically died in the crash on the Manchester Airport Eastern Link Road",
+      "lang": "en",
+      "title_en": "Motorcyclist dies after horror crash on Manchester Airport Link Road as road remains closed",
+      "summary_en": "The rider, a man in his 30s, tragically died in the crash on the Manchester Airport Eastern Link Road",
+      "title": "Motorcyclist dies after horror crash on Manchester Airport Link Road as road remains closed",
+      "summary": "The rider, a man in his 30s, tragically died in the crash on the Manchester Airport Eastern Link Road",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/motorcyclist-dies-after-horror-crash-33841571",
+      "source": "MEN - News",
+      "published_at": "2026-04-26T17:20:54+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "f3f38a136acc96f8",
+      "title_orig": "Death toll from bus bombing in southwest Colombia rises to 20 during a wave of violence",
+      "summary_orig": "BOGOTA, Colombia (AP) — The number of people killed in a bombing in a volatile region in southwest Colombia rose…",
+      "lang": "en",
+      "title_en": "Death toll from bus bombing in southwest Colombia rises to 20 during a wave of violence",
+      "summary_en": "BOGOTA, Colombia (AP) — The number of people killed in a bombing in a volatile region in southwest Colombia rose…",
+      "title": "Death toll from bus bombing in southwest Colombia rises to 20 during a wave of violence",
+      "summary": "BOGOTA, Colombia (AP) — The number of people killed in a bombing in a volatile region in southwest Colombia rose…",
+      "url": "https://wtop.com/world/2026/04/death-toll-from-bus-bombing-in-southwest-colombia-rises-to-20-during-a-wave-of-violence/",
+      "source": "WTOP News",
+      "published_at": "2026-04-26T17:14:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "36d488cf0edd5163",
+      "title_orig": "Three people arrested at immigration protest in Nottingham's Old Market Square",
+      "summary_orig": "Two groups of protesters arrived in the city centre for the demonstration",
+      "lang": "en",
+      "title_en": "Three people arrested at immigration protest in Nottingham's Old Market Square",
+      "summary_en": "Two groups of protesters arrived in the city centre for the demonstration",
+      "title": "Three people arrested at immigration protest in Nottingham's Old Market Square",
+      "summary": "Two groups of protesters arrived in the city centre for the demonstration",
+      "url": "https://www.nottinghampost.com/news/nottingham-news/three-people-arrested-immigration-protest-10936837",
+      "source": "Nottinghamshire Live - frontpage",
+      "published_at": "2026-04-26T17:04:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c05d0729c2df78af",
+      "title_orig": "Media dinner shooting suspect wrote about targeting  administration officials, Trump says",
+      "summary_orig": "The man accused of opening fire at the White House Correspondents' Dinner sent writings to family members minutes before the shooting referring to himself as a ''Friendly Federal Assassin,'' railing against Trump administration policies and signaling what investigators increasingly believe was a politically driven attack, according to a law enforcement official familiar with the investigation.",
+      "lang": "en",
+      "title_en": "Media dinner shooting suspect wrote about targeting  administration officials, Trump says",
+      "summary_en": "The man accused of opening fire at the White House Correspondents' Dinner sent writings to family members minutes before the shooting referring to himself as a ''Friendly Federal Assassin,'' railing against Trump administration policies and signaling what investigators increasingly believe was a politically driven attack, according to a law enforcement official familiar with the investigation.",
+      "title": "Media dinner shooting suspect wrote about targeting  administration officials, Trump says",
+      "summary": "The man accused of opening fire at the White House Correspondents' Dinner sent writings to family members minutes before the shooting referring to himself as a ''Friendly Federal Assassin,'' railing against Trump administration policies and signaling what investigators increasingly believe was a politically driven attack, according to a law enforcement official familiar with the investigation.",
+      "url": "https://www.startribune.com/gunman-at-trump-dinner-was-believed-to-have-been-targeting-administration-officials-blanche-says/601801503",
+      "source": "Startribune News",
+      "published_at": "2026-04-26T16:55:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "562178ae409c4518",
+      "title_orig": "Iranian FM Araghchi lands in Pakistan after Oman visit, to head to Moscow after short stay: diplomatic source",
       "summary_orig": "Iranian Foreign Minister Abbas Araghchi was back in Pakistan on Sunday, a diplomatic source told Dawn , a day after he left Islamabad for a visit to Oman as part of a tri-nation tour. He is undertaking the trip against the backdrop of ongoing diplomatic efforts, notably by Pakistan, to bring Tehran and Washington to the table to talks aimed at ending the conflict that began with US-Israeli strikes on Iran on February 28. Araghchi arrived at the Nur Khan air base in Rawalpindi after completing a day-long visit to Oman, the diplomatic source said, adding that he would meet with senior Pakistani officials during his short stay in Islamabad. The Iranian foreign minister will then depart for Moscow, he added. Meeting with Oman’s sultan Earlier in Oman, Araghchi met with Sultan Haitham bin Tariq and briefed him “on the Iranian side’s perspectives” regarding the regional developments and the peace efforts, Oman’s foreign ministry said in a statement on X. Araghchi “listened to His Majesty’s views on ways to advance these efforts in a manner that enhances opportunities for reaching sustainable political solutions and limits the repercussions of crises on the peoples of the region”, the statement said. It added that the sultan affirmed the importance of prioritising the language of dialogue and diplomacy in addressing issues, in a way that contributed to consolidating the foundations of peace. Araghchi expressed Iran’s appreciation for Oman’s positions in “supporting dialogue efforts and enhancing endeavours for security and stability in the region, especially amid the current regional challenges”, the statement said. Separately, Iran’s foreign ministry said in a statement that the security in the Strait of Hormuz and broader Gulf waters and diplomatic efforts to end the US-Israeli war on Iran were discussed during the meeting. It quoted Araghchi as saying the US military presence in the Middle East was fuelling insecurity and division. It said he called for a regional security framework free of outside interference during the meeting. Separately, Iranian state broadcaster IRIB reported that he also held a phone call with his Saudi counterpart, Faisal bin Farhan, and discussed regional developments and ongoing diplomatic processes. Later, state-run news agency IRNA reported that he also held a phone call with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani and exchanged views on the “latest regional developments and ongoing diplomatic efforts”. Araghchi hands over Iran’s proposals Araghchi earlier arrived in Islamabad on Friday night and handed over Tehran’s response to US proposals for ending the war during meetings with Pakistan’s civil and military leadership before leaving for Oman on Saturday. He departed for Muscat after a day of intensive consultations, reportedly abo­ard a Gulfstream G600 owned by the Pakistan military. Neither the Pakistani military nor the Iranian officials confirmed or denied this. This suggested Pakistani facilitation of his regional tour to find a diplomatic solution to the conflict. A Pakistani source involved in the process said the Iranian side had delivered both its proposals and its perspective on the American proposals. Sources said Iran emphasised its terms while indicating readiness to remain engaged in shaping a future diplomatic course. Officials familiar with the discussions said Tehran stressed that any framework must be “rational and fair” and maintained that negotiations cannot proceed under pressure, particularly in the presence of the naval blockade of Iranian ports by the US. At the same time, the Iranian side signalled willingness to stay engaged through Pakistan’s mediation but insisted that it would not accept terms seen as undermining its sovereignty or security interests. No details of the proposals were made public. The visit unfolded amid indications earlier from Washington that Special Envoy Steve Witkoff and adviser Jared Kushner would travel to Islamabad to engage with the Iranian delegation. However, as Araghchi departed for Moscow, US President Donald Trump called off the trip. Impasse in talks Pakistan’s civil and military leadership has been engaged in feverish diplomacy, seeking to bring the US and Iran back to the negotiating table after the first round of talks in Islamabad yielded no result. The first round of historic direct US-Iran talks was held in Islamabad on April 11 and 12, following a Pakistan-brokered ceasefire on April 8. It had ended without an agreement, but also without a breakdown . However, the expected second round of negotiations witnessed a delay due to continued friction between the US and Iran, particularly regarding Iran’s closure of the Strait of Hormuz and the US blockade of Iran’s ports. Meanwhile, Trump has announced an extension in the ceasefire until Tehran submits a “unified proposal” and “discussions are concluded, one way or the other”. The US has, however, maintained its blockade of Iranian ports. On the other hand, the Strait of Hormuz — through which one-fifth of the world’s oil and gas supply used to pass during peacetime — also remains blocked. After the US and Israel attacked Iran on Feb 28, Tehran responded by shutting down the strait and later announced it would charge vessels using the maritime route. The US earlier this month blockaded Iranian ports to stop its oil exports and returned over 30 ships leaving Iranian ports. Unrestricted navigation through the Strait of Hormuz has emerged as one of the issues at the core of the impasse between the US and Iran. Another point of contention is Washington’s demand for long-term commitments on Iran’s nuclear programme, including constraints on enrichment and safeguards against weaponisation. Additional input from Reuters",
       "lang": "en",
-      "title_en": "Iranian FM Araghchi back in Pakistan after Oman visit, to head to Moscow after short stay: diplomatic source",
+      "title_en": "Iranian FM Araghchi lands in Pakistan after Oman visit, to head to Moscow after short stay: diplomatic source",
       "summary_en": "Iranian Foreign Minister Abbas Araghchi was back in Pakistan on Sunday, a diplomatic source told Dawn , a day after he left Islamabad for a visit to Oman as part of a tri-nation tour. He is undertaking the trip against the backdrop of ongoing diplomatic efforts, notably by Pakistan, to bring Tehran and Washington to the table to talks aimed at ending the conflict that began with US-Israeli strikes on Iran on February 28. Araghchi arrived at the Nur Khan air base in Rawalpindi after completing a day-long visit to Oman, the diplomatic source said, adding that he would meet with senior Pakistani officials during his short stay in Islamabad. The Iranian foreign minister will then depart for Moscow, he added. Meeting with Oman’s sultan Earlier in Oman, Araghchi met with Sultan Haitham bin Tariq and briefed him “on the Iranian side’s perspectives” regarding the regional developments and the peace efforts, Oman’s foreign ministry said in a statement on X. Araghchi “listened to His Majesty’s views on ways to advance these efforts in a manner that enhances opportunities for reaching sustainable political solutions and limits the repercussions of crises on the peoples of the region”, the statement said. It added that the sultan affirmed the importance of prioritising the language of dialogue and diplomacy in addressing issues, in a way that contributed to consolidating the foundations of peace. Araghchi expressed Iran’s appreciation for Oman’s positions in “supporting dialogue efforts and enhancing endeavours for security and stability in the region, especially amid the current regional challenges”, the statement said. Separately, Iran’s foreign ministry said in a statement that the security in the Strait of Hormuz and broader Gulf waters and diplomatic efforts to end the US-Israeli war on Iran were discussed during the meeting. It quoted Araghchi as saying the US military presence in the Middle East was fuelling insecurity and division. It said he called for a regional security framework free of outside interference during the meeting. Separately, Iranian state broadcaster IRIB reported that he also held a phone call with his Saudi counterpart, Faisal bin Farhan, and discussed regional developments and ongoing diplomatic processes. Later, state-run news agency IRNA reported that he also held a phone call with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani and exchanged views on the “latest regional developments and ongoing diplomatic efforts”. Araghchi hands over Iran’s proposals Araghchi earlier arrived in Islamabad on Friday night and handed over Tehran’s response to US proposals for ending the war during meetings with Pakistan’s civil and military leadership before leaving for Oman on Saturday. He departed for Muscat after a day of intensive consultations, reportedly abo­ard a Gulfstream G600 owned by the Pakistan military. Neither the Pakistani military nor the Iranian officials confirmed or denied this. This suggested Pakistani facilitation of his regional tour to find a diplomatic solution to the conflict. A Pakistani source involved in the process said the Iranian side had delivered both its proposals and its perspective on the American proposals. Sources said Iran emphasised its terms while indicating readiness to remain engaged in shaping a future diplomatic course. Officials familiar with the discussions said Tehran stressed that any framework must be “rational and fair” and maintained that negotiations cannot proceed under pressure, particularly in the presence of the naval blockade of Iranian ports by the US. At the same time, the Iranian side signalled willingness to stay engaged through Pakistan’s mediation but insisted that it would not accept terms seen as undermining its sovereignty or security interests. No details of the proposals were made public. The visit unfolded amid indications earlier from Washington that Special Envoy Steve Witkoff and adviser Jared Kushner would travel to Islamabad to engage with the Iranian delegation. However, as Araghchi departed for Moscow, US President Donald Trump called off the trip. Impasse in talks Pakistan’s civil and military leadership has been engaged in feverish diplomacy, seeking to bring the US and Iran back to the negotiating table after the first round of talks in Islamabad yielded no result. The first round of historic direct US-Iran talks was held in Islamabad on April 11 and 12, following a Pakistan-brokered ceasefire on April 8. It had ended without an agreement, but also without a breakdown . However, the expected second round of negotiations witnessed a delay due to continued friction between the US and Iran, particularly regarding Iran’s closure of the Strait of Hormuz and the US blockade of Iran’s ports. Meanwhile, Trump has announced an extension in the ceasefire until Tehran submits a “unified proposal” and “discussions are concluded, one way or the other”. The US has, however, maintained its blockade of Iranian ports. On the other hand, the Strait of Hormuz — through which one-fifth of the world’s oil and gas supply used to pass during peacetime — also remains blocked. After the US and Israel attacked Iran on Feb 28, Tehran responded by shutting down the strait and later announced it would charge vessels using the maritime route. The US earlier this month blockaded Iranian ports to stop its oil exports and returned over 30 ships leaving Iranian ports. Unrestricted navigation through the Strait of Hormuz has emerged as one of the issues at the core of the impasse between the US and Iran. Another point of contention is Washington’s demand for long-term commitments on Iran’s nuclear programme, including constraints on enrichment and safeguards against weaponisation. Additional input from Reuters",
-      "title": "Iranian FM Araghchi back in Pakistan after Oman visit, to head to Moscow after short stay: diplomatic source",
+      "title": "Iranian FM Araghchi lands in Pakistan after Oman visit, to head to Moscow after short stay: diplomatic source",
       "summary": "Iranian Foreign Minister Abbas Araghchi was back in Pakistan on Sunday, a diplomatic source told Dawn , a day after he left Islamabad for a visit to Oman as part of a tri-nation tour. He is undertaking the trip against the backdrop of ongoing diplomatic efforts, notably by Pakistan, to bring Tehran and Washington to the table to talks aimed at ending the conflict that began with US-Israeli strikes on Iran on February 28. Araghchi arrived at the Nur Khan air base in Rawalpindi after completing a day-long visit to Oman, the diplomatic source said, adding that he would meet with senior Pakistani officials during his short stay in Islamabad. The Iranian foreign minister will then depart for Moscow, he added. Meeting with Oman’s sultan Earlier in Oman, Araghchi met with Sultan Haitham bin Tariq and briefed him “on the Iranian side’s perspectives” regarding the regional developments and the peace efforts, Oman’s foreign ministry said in a statement on X. Araghchi “listened to His Majesty’s views on ways to advance these efforts in a manner that enhances opportunities for reaching sustainable political solutions and limits the repercussions of crises on the peoples of the region”, the statement said. It added that the sultan affirmed the importance of prioritising the language of dialogue and diplomacy in addressing issues, in a way that contributed to consolidating the foundations of peace. Araghchi expressed Iran’s appreciation for Oman’s positions in “supporting dialogue efforts and enhancing endeavours for security and stability in the region, especially amid the current regional challenges”, the statement said. Separately, Iran’s foreign ministry said in a statement that the security in the Strait of Hormuz and broader Gulf waters and diplomatic efforts to end the US-Israeli war on Iran were discussed during the meeting. It quoted Araghchi as saying the US military presence in the Middle East was fuelling insecurity and division. It said he called for a regional security framework free of outside interference during the meeting. Separately, Iranian state broadcaster IRIB reported that he also held a phone call with his Saudi counterpart, Faisal bin Farhan, and discussed regional developments and ongoing diplomatic processes. Later, state-run news agency IRNA reported that he also held a phone call with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani and exchanged views on the “latest regional developments and ongoing diplomatic efforts”. Araghchi hands over Iran’s proposals Araghchi earlier arrived in Islamabad on Friday night and handed over Tehran’s response to US proposals for ending the war during meetings with Pakistan’s civil and military leadership before leaving for Oman on Saturday. He departed for Muscat after a day of intensive consultations, reportedly abo­ard a Gulfstream G600 owned by the Pakistan military. Neither the Pakistani military nor the Iranian officials confirmed or denied this. This suggested Pakistani facilitation of his regional tour to find a diplomatic solution to the conflict. A Pakistani source involved in the process said the Iranian side had delivered both its proposals and its perspective on the American proposals. Sources said Iran emphasised its terms while indicating readiness to remain engaged in shaping a future diplomatic course. Officials familiar with the discussions said Tehran stressed that any framework must be “rational and fair” and maintained that negotiations cannot proceed under pressure, particularly in the presence of the naval blockade of Iranian ports by the US. At the same time, the Iranian side signalled willingness to stay engaged through Pakistan’s mediation but insisted that it would not accept terms seen as undermining its sovereignty or security interests. No details of the proposals were made public. The visit unfolded amid indications earlier from Washington that Special Envoy Steve Witkoff and adviser Jared Kushner would travel to Islamabad to engage with the Iranian delegation. However, as Araghchi departed for Moscow, US President Donald Trump called off the trip. Impasse in talks Pakistan’s civil and military leadership has been engaged in feverish diplomacy, seeking to bring the US and Iran back to the negotiating table after the first round of talks in Islamabad yielded no result. The first round of historic direct US-Iran talks was held in Islamabad on April 11 and 12, following a Pakistan-brokered ceasefire on April 8. It had ended without an agreement, but also without a breakdown . However, the expected second round of negotiations witnessed a delay due to continued friction between the US and Iran, particularly regarding Iran’s closure of the Strait of Hormuz and the US blockade of Iran’s ports. Meanwhile, Trump has announced an extension in the ceasefire until Tehran submits a “unified proposal” and “discussions are concluded, one way or the other”. The US has, however, maintained its blockade of Iranian ports. On the other hand, the Strait of Hormuz — through which one-fifth of the world’s oil and gas supply used to pass during peacetime — also remains blocked. After the US and Israel attacked Iran on Feb 28, Tehran responded by shutting down the strait and later announced it would charge vessels using the maritime route. The US earlier this month blockaded Iranian ports to stop its oil exports and returned over 30 ships leaving Iranian ports. Unrestricted navigation through the Strait of Hormuz has emerged as one of the issues at the core of the impasse between the US and Iran. Another point of contention is Washington’s demand for long-term commitments on Iran’s nuclear programme, including constraints on enrichment and safeguards against weaponisation. Additional input from Reuters",
-      "url": "https://www.dawn.com/news/1995258/iranian-fm-araghchi-back-in-pakistan-after-oman-visit-to-head-to-moscow-after-short-stay-diplomatic-source",
+      "url": "https://www.dawn.com/news/1995258/iranian-fm-araghchi-lands-in-pakistan-after-oman-visit-to-head-to-moscow-after-short-stay-diplomatic-source",
       "source": "Dawn - Home",
-      "published_at": "2026-04-26T16:36:46+00:00",
+      "published_at": "2026-04-26T16:54:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1ca6da426160510b",
+      "title_orig": "Residents evacuated and exclusion zone in place as bomb disposal teams called to Greenfield street",
+      "summary_orig": "A number of items were seized from a property by explosives specialists during the incident in Oldham",
+      "lang": "en",
+      "title_en": "Residents evacuated and exclusion zone in place as bomb disposal teams called to Greenfield street",
+      "summary_en": "A number of items were seized from a property by explosives specialists during the incident in Oldham",
+      "title": "Residents evacuated and exclusion zone in place as bomb disposal teams called to Greenfield street",
+      "summary": "A number of items were seized from a property by explosives specialists during the incident in Oldham",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/residents-evacuated-exclusion-zone-place-33841469",
+      "source": "MEN - News",
+      "published_at": "2026-04-26T16:51:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9676dc1985559967",
+      "title_orig": "Britain is losing its hybrid war with Russia and is unprepared for conflict, warns top former US aide",
+      "summary_orig": "Exclusive: Ex-government advisor and White House aide Fiona Hill leads a growing chorus of experts warning that the UK has no capacity to survive an escalation of a hybrid attack from Vladimir Putin let alone a full-scale global conflict, reports world affairs editor Sam Kiley",
+      "lang": "en",
+      "title_en": "Britain is losing its hybrid war with Russia and is unprepared for conflict, warns top former US aide",
+      "summary_en": "Exclusive: Ex-government advisor and White House aide Fiona Hill leads a growing chorus of experts warning that the UK has no capacity to survive an escalation of a hybrid attack from Vladimir Putin let alone a full-scale global conflict, reports world affairs editor Sam Kiley",
+      "title": "Britain is losing its hybrid war with Russia and is unprepared for conflict, warns top former US aide",
+      "summary": "Exclusive: Ex-government advisor and White House aide Fiona Hill leads a growing chorus of experts warning that the UK has no capacity to survive an escalation of a hybrid attack from Vladimir Putin let alone a full-scale global conflict, reports world affairs editor Sam Kiley",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-war-defence-fiona-hill-russia-iran-b2963630.html",
+      "source": "The Independent World",
+      "published_at": "2026-04-26T16:39:21+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f448452659d3b18a",
+      "title_orig": "Pakistan notifies 6 land routes for transportation of goods to Iran amid blockade of Hormuz, Iranian ports",
+      "summary_orig": "ISLAMABAD: Pakistan has notified six routes for the transportation of goods to Iran against an encashable bank guarantee amid reports that thousands of containers destined for Iran are awaiting clearance at Pakistani ports. For this to come into force, the Ministry of Commerce has issued a statutory regulatory order, Transit of Goods through Territory of Pakistan Order 2026. According to the order, following routes have been designated for the transit of goods: Gwadar-Gabd Karachi/ Port Qasim-Lyari-Ormara-Pasni-Gabd Karachi/ Port Qasim- Khuzdar-Dalbandin-Taftan Gawadar-Turbat-Hoshab-Panjgur-Nagg-Besima-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Gwadar-Liari-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Karachi/ Port Qasim -Gwadar- Gabd Meanwhile, it has been reported that more than 3,000 containers destined for Iran have been stuck at the Karachi port for the past few days. This has been reported as the blockade of the Strait of Hormuz — which was the route for one-fifth of the world’s oil and gas supply in peacetime — and that of Iranian ports continues amid a conflict between the US and Iran. The conflict, which had begun with US-Israeli strikes on Iran on February 28, is paused for now as a ceasefire remains effective. The Ministry of Commerce said in its order that the transportation of cargo under the notification shall be regulated in accordance with the provisions of the Customs Act, 1969, the rules made thereunder, and the procedure prescribed by the Federal Board of Revenue. The order “shall apply to the transportation of transit goods in transport units, consigned from the territory of a third country and destined to a place in the territory of Iran through the territory of Pakistan”. It has been issued in pursuance of Article 2 of the Agreement between the government of Pakistan and the government of Iran on International Transport of Passengers and Goods by Road executed in June 2008, and in exercise of the powers conferred by sub-section (1) of section 3 of the Imports and Exports (Control) Act, 1950, the ministry said. The order has come into force with effect from April 25. Under the order, the transportation of goods has been defined as cross-stuffing, which means the transfer of goods from one container to another container or by any other mode of transportation that shall be allowed in a mode and manner allowed under relevant Customs laws and regulations. It further defines Customs Security as an encashable financial guarantee, submitted by the traders or through their authorised brokers on transit goods, for an amount equivalent to the import levies of Pakistan, as provided in relevant Customs laws, rules and regulations. A shipper under the order means any natural or legal person by whom or in whose name a contract of carriage of goods has been concluded with a carrier, or any person by whom or in whose name the goods are actually delivered to the carrier in relation to the contract of carriage of goods. Under the order, transit has been defined as the movement of goods in transit across the territory of Pakistan when the passage across such territory is only a portion of a complete journey, which begins and ends beyond the borders of Pakistan. Moreover, a transit transport corridor has been explained as a route for use by a carrier for the transit of goods.",
+      "lang": "en",
+      "title_en": "Pakistan notifies 6 land routes for transportation of goods to Iran amid blockade of Hormuz, Iranian ports",
+      "summary_en": "ISLAMABAD: Pakistan has notified six routes for the transportation of goods to Iran against an encashable bank guarantee amid reports that thousands of containers destined for Iran are awaiting clearance at Pakistani ports. For this to come into force, the Ministry of Commerce has issued a statutory regulatory order, Transit of Goods through Territory of Pakistan Order 2026. According to the order, following routes have been designated for the transit of goods: Gwadar-Gabd Karachi/ Port Qasim-Lyari-Ormara-Pasni-Gabd Karachi/ Port Qasim- Khuzdar-Dalbandin-Taftan Gawadar-Turbat-Hoshab-Panjgur-Nagg-Besima-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Gwadar-Liari-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Karachi/ Port Qasim -Gwadar- Gabd Meanwhile, it has been reported that more than 3,000 containers destined for Iran have been stuck at the Karachi port for the past few days. This has been reported as the blockade of the Strait of Hormuz — which was the route for one-fifth of the world’s oil and gas supply in peacetime — and that of Iranian ports continues amid a conflict between the US and Iran. The conflict, which had begun with US-Israeli strikes on Iran on February 28, is paused for now as a ceasefire remains effective. The Ministry of Commerce said in its order that the transportation of cargo under the notification shall be regulated in accordance with the provisions of the Customs Act, 1969, the rules made thereunder, and the procedure prescribed by the Federal Board of Revenue. The order “shall apply to the transportation of transit goods in transport units, consigned from the territory of a third country and destined to a place in the territory of Iran through the territory of Pakistan”. It has been issued in pursuance of Article 2 of the Agreement between the government of Pakistan and the government of Iran on International Transport of Passengers and Goods by Road executed in June 2008, and in exercise of the powers conferred by sub-section (1) of section 3 of the Imports and Exports (Control) Act, 1950, the ministry said. The order has come into force with effect from April 25. Under the order, the transportation of goods has been defined as cross-stuffing, which means the transfer of goods from one container to another container or by any other mode of transportation that shall be allowed in a mode and manner allowed under relevant Customs laws and regulations. It further defines Customs Security as an encashable financial guarantee, submitted by the traders or through their authorised brokers on transit goods, for an amount equivalent to the import levies of Pakistan, as provided in relevant Customs laws, rules and regulations. A shipper under the order means any natural or legal person by whom or in whose name a contract of carriage of goods has been concluded with a carrier, or any person by whom or in whose name the goods are actually delivered to the carrier in relation to the contract of carriage of goods. Under the order, transit has been defined as the movement of goods in transit across the territory of Pakistan when the passage across such territory is only a portion of a complete journey, which begins and ends beyond the borders of Pakistan. Moreover, a transit transport corridor has been explained as a route for use by a carrier for the transit of goods.",
+      "title": "Pakistan notifies 6 land routes for transportation of goods to Iran amid blockade of Hormuz, Iranian ports",
+      "summary": "ISLAMABAD: Pakistan has notified six routes for the transportation of goods to Iran against an encashable bank guarantee amid reports that thousands of containers destined for Iran are awaiting clearance at Pakistani ports. For this to come into force, the Ministry of Commerce has issued a statutory regulatory order, Transit of Goods through Territory of Pakistan Order 2026. According to the order, following routes have been designated for the transit of goods: Gwadar-Gabd Karachi/ Port Qasim-Lyari-Ormara-Pasni-Gabd Karachi/ Port Qasim- Khuzdar-Dalbandin-Taftan Gawadar-Turbat-Hoshab-Panjgur-Nagg-Besima-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Gwadar-Liari-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Karachi/ Port Qasim -Gwadar- Gabd Meanwhile, it has been reported that more than 3,000 containers destined for Iran have been stuck at the Karachi port for the past few days. This has been reported as the blockade of the Strait of Hormuz — which was the route for one-fifth of the world’s oil and gas supply in peacetime — and that of Iranian ports continues amid a conflict between the US and Iran. The conflict, which had begun with US-Israeli strikes on Iran on February 28, is paused for now as a ceasefire remains effective. The Ministry of Commerce said in its order that the transportation of cargo under the notification shall be regulated in accordance with the provisions of the Customs Act, 1969, the rules made thereunder, and the procedure prescribed by the Federal Board of Revenue. The order “shall apply to the transportation of transit goods in transport units, consigned from the territory of a third country and destined to a place in the territory of Iran through the territory of Pakistan”. It has been issued in pursuance of Article 2 of the Agreement between the government of Pakistan and the government of Iran on International Transport of Passengers and Goods by Road executed in June 2008, and in exercise of the powers conferred by sub-section (1) of section 3 of the Imports and Exports (Control) Act, 1950, the ministry said. The order has come into force with effect from April 25. Under the order, the transportation of goods has been defined as cross-stuffing, which means the transfer of goods from one container to another container or by any other mode of transportation that shall be allowed in a mode and manner allowed under relevant Customs laws and regulations. It further defines Customs Security as an encashable financial guarantee, submitted by the traders or through their authorised brokers on transit goods, for an amount equivalent to the import levies of Pakistan, as provided in relevant Customs laws, rules and regulations. A shipper under the order means any natural or legal person by whom or in whose name a contract of carriage of goods has been concluded with a carrier, or any person by whom or in whose name the goods are actually delivered to the carrier in relation to the contract of carriage of goods. Under the order, transit has been defined as the movement of goods in transit across the territory of Pakistan when the passage across such territory is only a portion of a complete journey, which begins and ends beyond the borders of Pakistan. Moreover, a transit transport corridor has been explained as a route for use by a carrier for the transit of goods.",
+      "url": "https://www.dawn.com/news/1995253/pakistan-notifies-6-land-routes-for-transportation-of-goods-to-iran-amid-blockade-of-hormuz-iranian-ports",
+      "source": "Dawn - Home",
+      "published_at": "2026-04-26T16:39:19+00:00",
       "tags": [
         "airport/security"
       ],
@@ -38,53 +245,17 @@
       "geo": {}
     },
     {
-      "id": "f448452659d3b18a",
-      "title_orig": "Pakistan notifies 6 land routes for transportation of goods to Iran amid blockade of Hormuz, Iranian ports",
-      "summary_orig": "ISLAMABAD: Pakistan has notified six routes for the transportation of goods to Iran against an encashable bank guarantee amid reports that thousands of containers destined for Iran are awaiting clearance at Pakistani ports. For this to come into force, the Ministry of Commerce has issued a statutory regulatory order, Transit of Goods through Territory of Pakistan Order 2026. According to the order, the following routes have been designated for the transit of goods: Gwadar-Gabd Karachi/ Port Qasim-Lyari-Ormara-Pasni-Gabd Karachi/ Port Qasim- Khuzdar-Dalbandin-Taftan Gawadar-Turbat-Hoshab-Panjgur-Nagg-Besima-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Gwadar-Liari-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Karachi/ Port Qasim -Gwadar- Gabd Meanwhile, it has been reported that more than 3,000 containers destined for Iran have been stuck at the Karachi port for the past few days. This has been reported as the blockade of the Strait of Hormuz — which was the route for one-fifth of the world’s oil and gas supply in peacetime — and that of Iranian ports continues amid a conflict between the US and Iran. The conflict, which had begun with US-Israeli strikes on Iran on February 28, is paused for now as a ceasefire remains effective. The Ministry of Commerce said in its order that the transportation of cargo under the notification shall be regulated in accordance with the provisions of the Customs Act, 1969, the rules made thereunder, and the procedure prescribed by the Federal Board of Revenue. The order “shall apply to the transportation of transit goods in transport units, consigned from the territory of a third country and destined to a place in the territory of Iran through the territory of Pakistan”. It has been issued in pursuance of Article 2 of the Agreement between the government of Pakistan and the government of Iran on International Transport of Passengers and Goods by Road executed in June 2008, and in exercise of the powers conferred by sub-section (1) of section 3 of the Imports and Exports (Control) Act, 1950, the ministry said. The order has come into force with effect from April 25. Under the order, the transportation of goods has been defined as cross-stuffing, which means the transfer of goods from one container to another container or by any other mode of transportation that shall be allowed in a mode and manner allowed under relevant Customs laws and regulations. It further defines Customs Security as an encashable financial guarantee, submitted by the traders or through their authorised brokers on transit goods, for an amount equivalent to the import levies of Pakistan, as provided in relevant Customs laws, rules and regulations. A shipper under the order means any natural or legal person by whom or in whose name a contract of carriage of goods has been concluded with a carrier, or any person by whom or in whose name the goods are actually delivered to the carrier in relation to the contract of carriage of goods. Under the order, transit has been defined as the movement of goods in transit across the territory of Pakistan when the passage across such territory is only a portion of a complete journey, which begins and ends beyond the borders of Pakistan. Moreover, a transit transport corridor has been explained as a route for use by a carrier for the transit of goods.",
+      "id": "cbad4c7e2045cb77",
+      "title_orig": "Filipino American mourned in WA after military attack kills 19 in Philippines",
+      "summary_orig": "About a 100 people gathered in Othello Park in the Rainier Valley on Saturday evening to mourn the loss of Kai Dana Sorem. The 26-year-old activist was killed on April 19 or 20 by the Armed Forces of the Philippines, also known as AFP, in Toboso, Negros Occidental, in the Philippines. Sorem, who was raised […]",
       "lang": "en",
-      "title_en": "Pakistan notifies 6 land routes for transportation of goods to Iran amid blockade of Hormuz, Iranian ports",
-      "summary_en": "ISLAMABAD: Pakistan has notified six routes for the transportation of goods to Iran against an encashable bank guarantee amid reports that thousands of containers destined for Iran are awaiting clearance at Pakistani ports. For this to come into force, the Ministry of Commerce has issued a statutory regulatory order, Transit of Goods through Territory of Pakistan Order 2026. According to the order, the following routes have been designated for the transit of goods: Gwadar-Gabd Karachi/ Port Qasim-Lyari-Ormara-Pasni-Gabd Karachi/ Port Qasim- Khuzdar-Dalbandin-Taftan Gawadar-Turbat-Hoshab-Panjgur-Nagg-Besima-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Gwadar-Liari-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Karachi/ Port Qasim -Gwadar- Gabd Meanwhile, it has been reported that more than 3,000 containers destined for Iran have been stuck at the Karachi port for the past few days. This has been reported as the blockade of the Strait of Hormuz — which was the route for one-fifth of the world’s oil and gas supply in peacetime — and that of Iranian ports continues amid a conflict between the US and Iran. The conflict, which had begun with US-Israeli strikes on Iran on February 28, is paused for now as a ceasefire remains effective. The Ministry of Commerce said in its order that the transportation of cargo under the notification shall be regulated in accordance with the provisions of the Customs Act, 1969, the rules made thereunder, and the procedure prescribed by the Federal Board of Revenue. The order “shall apply to the transportation of transit goods in transport units, consigned from the territory of a third country and destined to a place in the territory of Iran through the territory of Pakistan”. It has been issued in pursuance of Article 2 of the Agreement between the government of Pakistan and the government of Iran on International Transport of Passengers and Goods by Road executed in June 2008, and in exercise of the powers conferred by sub-section (1) of section 3 of the Imports and Exports (Control) Act, 1950, the ministry said. The order has come into force with effect from April 25. Under the order, the transportation of goods has been defined as cross-stuffing, which means the transfer of goods from one container to another container or by any other mode of transportation that shall be allowed in a mode and manner allowed under relevant Customs laws and regulations. It further defines Customs Security as an encashable financial guarantee, submitted by the traders or through their authorised brokers on transit goods, for an amount equivalent to the import levies of Pakistan, as provided in relevant Customs laws, rules and regulations. A shipper under the order means any natural or legal person by whom or in whose name a contract of carriage of goods has been concluded with a carrier, or any person by whom or in whose name the goods are actually delivered to the carrier in relation to the contract of carriage of goods. Under the order, transit has been defined as the movement of goods in transit across the territory of Pakistan when the passage across such territory is only a portion of a complete journey, which begins and ends beyond the borders of Pakistan. Moreover, a transit transport corridor has been explained as a route for use by a carrier for the transit of goods.",
-      "title": "Pakistan notifies 6 land routes for transportation of goods to Iran amid blockade of Hormuz, Iranian ports",
-      "summary": "ISLAMABAD: Pakistan has notified six routes for the transportation of goods to Iran against an encashable bank guarantee amid reports that thousands of containers destined for Iran are awaiting clearance at Pakistani ports. For this to come into force, the Ministry of Commerce has issued a statutory regulatory order, Transit of Goods through Territory of Pakistan Order 2026. According to the order, the following routes have been designated for the transit of goods: Gwadar-Gabd Karachi/ Port Qasim-Lyari-Ormara-Pasni-Gabd Karachi/ Port Qasim- Khuzdar-Dalbandin-Taftan Gawadar-Turbat-Hoshab-Panjgur-Nagg-Besima-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Gwadar-Liari-Khuzdar-Quetta/ Lakpass-Dalbandin-Nokundi-Taftan Karachi/ Port Qasim -Gwadar- Gabd Meanwhile, it has been reported that more than 3,000 containers destined for Iran have been stuck at the Karachi port for the past few days. This has been reported as the blockade of the Strait of Hormuz — which was the route for one-fifth of the world’s oil and gas supply in peacetime — and that of Iranian ports continues amid a conflict between the US and Iran. The conflict, which had begun with US-Israeli strikes on Iran on February 28, is paused for now as a ceasefire remains effective. The Ministry of Commerce said in its order that the transportation of cargo under the notification shall be regulated in accordance with the provisions of the Customs Act, 1969, the rules made thereunder, and the procedure prescribed by the Federal Board of Revenue. The order “shall apply to the transportation of transit goods in transport units, consigned from the territory of a third country and destined to a place in the territory of Iran through the territory of Pakistan”. It has been issued in pursuance of Article 2 of the Agreement between the government of Pakistan and the government of Iran on International Transport of Passengers and Goods by Road executed in June 2008, and in exercise of the powers conferred by sub-section (1) of section 3 of the Imports and Exports (Control) Act, 1950, the ministry said. The order has come into force with effect from April 25. Under the order, the transportation of goods has been defined as cross-stuffing, which means the transfer of goods from one container to another container or by any other mode of transportation that shall be allowed in a mode and manner allowed under relevant Customs laws and regulations. It further defines Customs Security as an encashable financial guarantee, submitted by the traders or through their authorised brokers on transit goods, for an amount equivalent to the import levies of Pakistan, as provided in relevant Customs laws, rules and regulations. A shipper under the order means any natural or legal person by whom or in whose name a contract of carriage of goods has been concluded with a carrier, or any person by whom or in whose name the goods are actually delivered to the carrier in relation to the contract of carriage of goods. Under the order, transit has been defined as the movement of goods in transit across the territory of Pakistan when the passage across such territory is only a portion of a complete journey, which begins and ends beyond the borders of Pakistan. Moreover, a transit transport corridor has been explained as a route for use by a carrier for the transit of goods.",
-      "url": "https://www.dawn.com/news/1995253/pakistan-notifies-6-land-routes-for-transportation-of-goods-to-iran-amid-blockade-of-hormuz-iranian-ports",
-      "source": "Dawn - Home",
-      "published_at": "2026-04-26T16:32:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9676dc1985559967",
-      "title_orig": "Britain is losing its hybrid war with Russia and is unprepared for conflict, warns top former US aide",
-      "summary_orig": "Exclusive: Ex-government advisor and White House aide Fiona Hill leads a growing chorus of experts warning that the UK has no capacity to survive an escalation of a hybrid attack from Vladimir Putin let alone a full-scale global conflict, reports world affairs editor Sam Kiley",
-      "lang": "en",
-      "title_en": "Britain is losing its hybrid war with Russia and is unprepared for conflict, warns top former US aide",
-      "summary_en": "Exclusive: Ex-government advisor and White House aide Fiona Hill leads a growing chorus of experts warning that the UK has no capacity to survive an escalation of a hybrid attack from Vladimir Putin let alone a full-scale global conflict, reports world affairs editor Sam Kiley",
-      "title": "Britain is losing its hybrid war with Russia and is unprepared for conflict, warns top former US aide",
-      "summary": "Exclusive: Ex-government advisor and White House aide Fiona Hill leads a growing chorus of experts warning that the UK has no capacity to survive an escalation of a hybrid attack from Vladimir Putin let alone a full-scale global conflict, reports world affairs editor Sam Kiley",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-war-defence-fiona-hill-russia-iran-b2963630.html",
-      "source": "The Independent World",
-      "published_at": "2026-04-26T16:26:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d7e7f540b3badb19",
-      "title_orig": "Mali troops and Russian mercenaries withdraw from northern city after rebel attacks",
-      "summary_orig": "DAKAR, Senegal (AP) — Malian troops and Russian mercenaries withdrew from the northern city of Kidal after a series of…",
-      "lang": "en",
-      "title_en": "Mali troops and Russian mercenaries withdraw from northern city after rebel attacks",
-      "summary_en": "DAKAR, Senegal (AP) — Malian troops and Russian mercenaries withdrew from the northern city of Kidal after a series of…",
-      "title": "Mali troops and Russian mercenaries withdraw from northern city after rebel attacks",
-      "summary": "DAKAR, Senegal (AP) — Malian troops and Russian mercenaries withdrew from the northern city of Kidal after a series of…",
-      "url": "https://wtop.com/world/2026/04/mali-separatists-confirm-they-joined-islamic-militants-in-coordinated-attacks/",
-      "source": "WTOP News",
-      "published_at": "2026-04-26T16:26:00+00:00",
+      "title_en": "Filipino American mourned in WA after military attack kills 19 in Philippines",
+      "summary_en": "About a 100 people gathered in Othello Park in the Rainier Valley on Saturday evening to mourn the loss of Kai Dana Sorem. The 26-year-old activist was killed on April 19 or 20 by the Armed Forces of the Philippines, also known as AFP, in Toboso, Negros Occidental, in the Philippines. Sorem, who was raised […]",
+      "title": "Filipino American mourned in WA after military attack kills 19 in Philippines",
+      "summary": "About a 100 people gathered in Othello Park in the Rainier Valley on Saturday evening to mourn the loss of Kai Dana Sorem. The 26-year-old activist was killed on April 19 or 20 by the Armed Forces of the Philippines, also known as AFP, in Toboso, Negros Occidental, in the Philippines. Sorem, who was raised […]",
+      "url": "https://www.seattletimes.com/seattle-news/filipino-american-mourned-in-wa-after-military-attack-kills-19-in-philippines/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-04-26T16:36:11+00:00",
       "tags": [
         "airport/security"
       ],
@@ -137,6 +308,24 @@
       }
     },
     {
+      "id": "089dc11686f6597b",
+      "title_orig": "Trump claims gala shooting gives urgency to White House ballroom plan",
+      "summary_orig": "President presses case for controversial $400m project following White House correspondents’ dinner shooting The shooting at the Washington Hilton hotel gives new urgency to the project to construct a 1,000-seat ballroom at the White House, Donald Trump claimed after the incident on Saturday night. The US president pressed the case for his controversial ballroom initiative at the press conference he held at the White House on Saturday and a social media post on Sunday, after an armed attacker was arrested as he rushed towards the Hilton’s ballroom, where Trump was attending the White House Correspondents Association’s annual dinner . Continue reading...",
+      "lang": "en",
+      "title_en": "Trump claims gala shooting gives urgency to White House ballroom plan",
+      "summary_en": "President presses case for controversial $400m project following White House correspondents’ dinner shooting The shooting at the Washington Hilton hotel gives new urgency to the project to construct a 1,000-seat ballroom at the White House, Donald Trump claimed after the incident on Saturday night. The US president pressed the case for his controversial ballroom initiative at the press conference he held at the White House on Saturday and a social media post on Sunday, after an armed attacker was arrested as he rushed towards the Hilton’s ballroom, where Trump was attending the White House Correspondents Association’s annual dinner . Continue reading...",
+      "title": "Trump claims gala shooting gives urgency to White House ballroom plan",
+      "summary": "President presses case for controversial $400m project following White House correspondents’ dinner shooting The shooting at the Washington Hilton hotel gives new urgency to the project to construct a 1,000-seat ballroom at the White House, Donald Trump claimed after the incident on Saturday night. The US president pressed the case for his controversial ballroom initiative at the press conference he held at the White House on Saturday and a social media post on Sunday, after an armed attacker was arrested as he rushed towards the Hilton’s ballroom, where Trump was attending the White House Correspondents Association’s annual dinner . Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/apr/26/trump-white-house-ballroom-dinner-shooting",
+      "source": "World news | The Guardian",
+      "published_at": "2026-04-26T16:19:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
       "id": "1dee4b8c258a3ad6",
       "title_orig": "Liverpool 18-year-old striker fresh from Arne Slot call-up scores twice before penalty heartbreak",
       "summary_orig": "Liverpool Under-21s were beaten in dramatic fashion in their Premier League 2 play-off first round clash against Crystal Palace at the Academy on Sunday afternoon",
@@ -166,24 +355,6 @@
       "url": "https://www.standard.co.uk/news/uk/ira-psni-belfast-northern-ireland-dup-b1280044.html",
       "source": "The Standard News",
       "published_at": "2026-04-26T16:18:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5c3ce1b8c0e346d0",
-      "title_orig": "Separatists in Mali say government troops and Russian mercenaries left the northern city of Kidal after rebel attacks",
-      "summary_orig": "DAKAR, Senegal (AP) — Separatists in Mali say government troops and Russian mercenaries left the northern city of Kidal after…",
-      "lang": "en",
-      "title_en": "Separatists in Mali say government troops and Russian mercenaries left the northern city of Kidal after rebel attacks",
-      "summary_en": "DAKAR, Senegal (AP) — Separatists in Mali say government troops and Russian mercenaries left the northern city of Kidal after…",
-      "title": "Separatists in Mali say government troops and Russian mercenaries left the northern city of Kidal after rebel attacks",
-      "summary": "DAKAR, Senegal (AP) — Separatists in Mali say government troops and Russian mercenaries left the northern city of Kidal after…",
-      "url": "https://wtop.com/world/2026/04/separatists-in-mali-say-government-troops-and-russian-mercenaries-left-the-northern-city-of-kidal-after-rebel-attacks/",
-      "source": "WTOP News",
-      "published_at": "2026-04-26T16:16:21+00:00",
       "tags": [
         "airport/security"
       ],
@@ -461,24 +632,6 @@
       "geo": {}
     },
     {
-      "id": "da49fdf597cb6d7c",
-      "title_orig": "Russian mercenaries to withdraw from Mali city after attacks",
-      "summary_orig": "Clashes resumed in Kidal following co-ordinated attacks across Mali by armed groups on Saturday.",
-      "lang": "en",
-      "title_en": "Russian mercenaries to withdraw from Mali city after attacks",
-      "summary_en": "Clashes resumed in Kidal following co-ordinated attacks across Mali by armed groups on Saturday.",
-      "title": "Russian mercenaries to withdraw from Mali city after attacks",
-      "summary": "Clashes resumed in Kidal following co-ordinated attacks across Mali by armed groups on Saturday.",
-      "url": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-04-26T15:23:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "153ef32c2f322a9c",
       "title_orig": "Shooting raises questions about Trump security",
       "summary_orig": "The shooting at the White House correspondents' dinner is the third time in three years Trump has been at the centre of a major security incident.",
@@ -585,51 +738,6 @@
       ],
       "type": "major news",
       "geo": {}
-    },
-    {
-      "id": "3d71e0500f134975",
-      "title_orig": "Activists protest against H-CITI project at Hyderabad’s KBR Park",
-      "summary_orig": "Citizens and activists allege H-CITI flyovers and underpasses threaten trees, eco-sensitive zones, groundwater recharge and Hyderabad’s last major urban green lung",
-      "lang": "en",
-      "title_en": "Activists protest against H-CITI project at Hyderabad’s KBR Park",
-      "summary_en": "Citizens and activists allege H-CITI flyovers and underpasses threaten trees, eco-sensitive zones, groundwater recharge and Hyderabad’s last major urban green lung",
-      "title": "Activists protest against H-CITI project at Hyderabad’s KBR Park",
-      "summary": "Citizens and activists allege H-CITI flyovers and underpasses threaten trees, eco-sensitive zones, groundwater recharge and Hyderabad’s last major urban green lung",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/activists-protest-against-h-citi-project-at-hyderabads-kbr-park/article70908675.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-04-26T14:38:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1dce47ba55e496db",
-      "title_orig": "Everything we know after serious crash shuts Manchester Airport Link Road",
-      "summary_orig": "Police and paramedics raced to the scene on Sunday (April 26)",
-      "lang": "en",
-      "title_en": "Everything we know after serious crash shuts Manchester Airport Link Road",
-      "summary_en": "Police and paramedics raced to the scene on Sunday (April 26)",
-      "title": "Everything we know after serious crash shuts Manchester Airport Link Road",
-      "summary": "Police and paramedics raced to the scene on Sunday (April 26)",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/everything-know-after-serious-crash-33840909",
-      "source": "MEN - News",
-      "published_at": "2026-04-26T14:23:58+00:00",
-      "tags": [
-        "MAN",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN",
-        "lat": 53.3652,
-        "lon": -2.2727
-      }
     },
     {
       "id": "30a19407b9d50d97",
@@ -785,33 +893,6 @@
       "geo": {}
     },
     {
-      "id": "676097c83d1a78d0",
-      "title_orig": "Manchester Airport link road LIVE as A555 remains shut following serious incident - latest updates",
-      "summary_orig": "Police and paramedics remain in attendance with the A555 closed in both directions",
-      "lang": "en",
-      "title_en": "Manchester Airport link road LIVE as A555 remains shut following serious incident - latest updates",
-      "summary_en": "Police and paramedics remain in attendance with the A555 closed in both directions",
-      "title": "Manchester Airport link road LIVE as A555 remains shut following serious incident - latest updates",
-      "summary": "Police and paramedics remain in attendance with the A555 closed in both directions",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-airport-link-road-live-33840599",
-      "source": "MEN - News",
-      "published_at": "2026-04-26T13:35:35+00:00",
-      "tags": [
-        "MAN",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN",
-        "lat": 53.3652,
-        "lon": -2.2727
-      }
-    },
-    {
       "id": "bb4c9cded688d3b5",
       "title_orig": "King ‘greatly relieved’ president and guests not hurt during gunman attack",
       "summary_orig": "Charles and Camilla begin a four-day state visit to America on Monday.",
@@ -895,24 +976,6 @@
       "url": "https://www.standard.co.uk/news/royals/king-charles-us-visit-security-trump-washington-shooting-b1280043.html",
       "source": "The Standard News",
       "published_at": "2026-04-26T12:35:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a65764d72bee6b65",
-      "title_orig": "Six wildfires so far this year in Greater Manchester prompt urgent warnings",
-      "summary_orig": "Recent incidents have prompted major evacuations and left large areas of moorland scorched",
-      "lang": "en",
-      "title_en": "Six wildfires so far this year in Greater Manchester prompt urgent warnings",
-      "summary_en": "Recent incidents have prompted major evacuations and left large areas of moorland scorched",
-      "title": "Six wildfires so far this year in Greater Manchester prompt urgent warnings",
-      "summary": "Recent incidents have prompted major evacuations and left large areas of moorland scorched",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/six-wildfires-far-year-greater-33840159",
-      "source": "MEN - News",
-      "published_at": "2026-04-26T12:32:30+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1622,24 +1685,6 @@
       "geo": {}
     },
     {
-      "id": "8663c9ac3fa4342d",
-      "title_orig": "World reacts to shooting at White House correspondents’ dinner",
-      "summary_orig": "US politicians from across the aisle, world leaders condemn the attack and express relief that Trump is safe.",
-      "lang": "en",
-      "title_en": "World reacts to shooting at White House correspondents’ dinner",
-      "summary_en": "US politicians from across the aisle, world leaders condemn the attack and express relief that Trump is safe.",
-      "title": "World reacts to shooting at White House correspondents’ dinner",
-      "summary": "US politicians from across the aisle, world leaders condemn the attack and express relief that Trump is safe.",
-      "url": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-04-26T07:57:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "692fec6fb81f283c",
       "title_orig": "Israeli attacks kill at least four Palestinians in Gaza, medics say",
       "summary_orig": "At least 800 Palestinians have been killed since an October 2025 ceasefire took effect.",
@@ -2018,24 +2063,6 @@
       "geo": {}
     },
     {
-      "id": "d088060a94376523",
-      "title_orig": "Trump unharmed after security incident at White House correspondents dinner; no injuries reported",
-      "summary_orig": "President Donald Trump and other top U.S. officials were evacuated after shots were reportedly fired outside the White House Correspondents’ Dinner at the Washington Hilton. Secret Service and law enforcement swarmed the scene as guests took cover.",
-      "lang": "en",
-      "title_en": "Trump unharmed after security incident at White House correspondents dinner; no injuries reported",
-      "summary_en": "President Donald Trump and other top U.S. officials were evacuated after shots were reportedly fired outside the White House Correspondents’ Dinner at the Washington Hilton. Secret Service and law enforcement swarmed the scene as guests took cover.",
-      "title": "Trump unharmed after security incident at White House correspondents dinner; no injuries reported",
-      "summary": "President Donald Trump and other top U.S. officials were evacuated after shots were reportedly fired outside the White House Correspondents’ Dinner at the Washington Hilton. Secret Service and law enforcement swarmed the scene as guests took cover.",
-      "url": "https://www.cleveland.com/nation/2026/04/trump-unharmed-after-security-incident-at-white-house-correspondents-dinner-no-injuries-reported.html",
-      "source": "cleveland.com",
-      "published_at": "2026-04-26T01:50:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a487b6e2d44aa589",
       "title_orig": "Trump safe after evacuation from shooting at gala dinner",
       "summary_orig": "A suspect is in custody, authorities said, following incident at White House Correspondents’ Association Dinner in Washington.",
@@ -2162,24 +2189,6 @@
       "geo": {}
     },
     {
-      "id": "6b38718590462975",
-      "title_orig": "North Dakota state legislator one of two killed in plane crash near Crystal Airport",
-      "summary_orig": "The plane crashed shortly after taking off, killing state Rep. Liz Conmy of Fargo and one other occupant.",
-      "lang": "en",
-      "title_en": "North Dakota state legislator one of two killed in plane crash near Crystal Airport",
-      "summary_en": "The plane crashed shortly after taking off, killing state Rep. Liz Conmy of Fargo and one other occupant.",
-      "title": "North Dakota state legislator one of two killed in plane crash near Crystal Airport",
-      "summary": "The plane crashed shortly after taking off, killing state Rep. Liz Conmy of Fargo and one other occupant.",
-      "url": "https://www.startribune.com/small-plane-crashes-near-crystal-airport-minnesota-takeoff/601799871",
-      "source": "Startribune News",
-      "published_at": "2026-04-26T00:06:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d41bb0a38034bf55",
       "title_orig": "Possible swatting incident forces evacuation of Costco in Marina del Rey",
       "summary_orig": "An investigation is underway after a suspected swatting call forced the evacuation of a Costco store in Marina del Rey Saturday. An employee said they received a call from an anonymous person claiming they intended to carry out a shooting at the store within 15 minutes. Culver City police responded to the Costco at 13463 [...]",
@@ -2199,13 +2208,13 @@
     },
     {
       "id": "d1e9b41444706b1a",
-      "title_orig": "Explosive device kills 13 and injures 38 on bus in Colombia",
-      "summary_orig": "An explosive device killed 13 people travelling on a bus in southwestern Colombia on Saturday, an attack the country’s army chief described as a “terrorist act” that also left at least 38 injured as violence linked to drug trafficking in the region escalates.\nOctavio Guzman, the governor of the region of Cauca, said on social media that the device was set off while the bus was travelling along the Panamerican Highway in the municipality of Cajibio.\nFive children were among the injured, Cauca...",
+      "title_orig": "Explosive device kills 19 and injures 38 on bus in Colombia",
+      "summary_orig": "The death toll ⁠from an explosives ⁠attack on a highway ⁠in southwestern Colombia rose to 19 on Sunday, authorities said, as the government blamed a dissident faction of the former FARC guerrilla ‌group for the bombing.\nThe blast on the Pan-American Highway in the Cajibio municipality also injured 38 people, including five minors, and destroyed dozens of vehicles on the road linking Popayan and Cali.\nOctavio Guzman, the governor of the region of Cauca, said on social media that the device was...",
       "lang": "en",
-      "title_en": "Explosive device kills 13 and injures 38 on bus in Colombia",
-      "summary_en": "An explosive device killed 13 people travelling on a bus in southwestern Colombia on Saturday, an attack the country’s army chief described as a “terrorist act” that also left at least 38 injured as violence linked to drug trafficking in the region escalates.\nOctavio Guzman, the governor of the region of Cauca, said on social media that the device was set off while the bus was travelling along the Panamerican Highway in the municipality of Cajibio.\nFive children were among the injured, Cauca...",
-      "title": "Explosive device kills 13 and injures 38 on bus in Colombia",
-      "summary": "An explosive device killed 13 people travelling on a bus in southwestern Colombia on Saturday, an attack the country’s army chief described as a “terrorist act” that also left at least 38 injured as violence linked to drug trafficking in the region escalates.\nOctavio Guzman, the governor of the region of Cauca, said on social media that the device was set off while the bus was travelling along the Panamerican Highway in the municipality of Cajibio.\nFive children were among the injured, Cauca...",
+      "title_en": "Explosive device kills 19 and injures 38 on bus in Colombia",
+      "summary_en": "The death toll ⁠from an explosives ⁠attack on a highway ⁠in southwestern Colombia rose to 19 on Sunday, authorities said, as the government blamed a dissident faction of the former FARC guerrilla ‌group for the bombing.\nThe blast on the Pan-American Highway in the Cajibio municipality also injured 38 people, including five minors, and destroyed dozens of vehicles on the road linking Popayan and Cali.\nOctavio Guzman, the governor of the region of Cauca, said on social media that the device was...",
+      "title": "Explosive device kills 19 and injures 38 on bus in Colombia",
+      "summary": "The death toll ⁠from an explosives ⁠attack on a highway ⁠in southwestern Colombia rose to 19 on Sunday, authorities said, as the government blamed a dissident faction of the former FARC guerrilla ‌group for the bombing.\nThe blast on the Pan-American Highway in the Cajibio municipality also injured 38 people, including five minors, and destroyed dozens of vehicles on the road linking Popayan and Cali.\nOctavio Guzman, the governor of the region of Cauca, said on social media that the device was...",
       "url": "https://www.scmp.com/news/world/americas/article/3351446/explosive-device-kills-13-and-injures-38-bus-colombia?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-04-26T00:02:48+00:00",
@@ -2414,42 +2423,6 @@
       "geo": {}
     },
     {
-      "id": "c61904e5447a58d7",
-      "title_orig": "Six charged in UK after report van drove into drone maker’s gate",
-      "summary_orig": "The business allegedly targeted is understood to be specialised military drone maker UAV Tactical Systems.",
-      "lang": "en",
-      "title_en": "Six charged in UK after report van drove into drone maker’s gate",
-      "summary_en": "The business allegedly targeted is understood to be specialised military drone maker UAV Tactical Systems.",
-      "title": "Six charged in UK after report van drove into drone maker’s gate",
-      "summary": "The business allegedly targeted is understood to be specialised military drone maker UAV Tactical Systems.",
-      "url": "https://www.straitstimes.com/world/europe/six-charged-in-uk-after-report-van-drove-into-drone-makers-gate",
-      "source": "The Straits Times World News",
-      "published_at": "2026-04-25T21:14:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1de3324bf85f7272",
-      "title_orig": "Bomb attack on Colombia highway kills 14 ahead of election",
-      "summary_orig": "A spate of violence is hitting the South American country ahead of a May presidential election.",
-      "lang": "en",
-      "title_en": "Bomb attack on Colombia highway kills 14 ahead of election",
-      "summary_en": "A spate of violence is hitting the South American country ahead of a May presidential election.",
-      "title": "Bomb attack on Colombia highway kills 14 ahead of election",
-      "summary": "A spate of violence is hitting the South American country ahead of a May presidential election.",
-      "url": "https://www.straitstimes.com/world/latest-colombia-bomb-attack-leaves-7-dead-more-than-20-hurt",
-      "source": "The Straits Times World News",
-      "published_at": "2026-04-25T20:56:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "58e2325f96df686c",
       "title_orig": "Militants and separatists launch coordinated attacks across Mali",
       "summary_orig": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and other cities on Saturday in one of the largest coordinated attacks in the country in recent years. The al-Qaida-linked militant group JNIM claimed responsibility for the attacks on Bamako’s international airport and four other cities in central and northern Mali on its website, Az-Zallaqa. It said the attacks were carried out jointly with the Azawad Liberation Front, a Tuareg-led separatist group. Continue reading...",
@@ -2551,24 +2524,6 @@
       "url": "https://www.leeds-live.co.uk/news/leeds-news/six-arrested-leeds-following-large-33838287",
       "source": "Leeds Live - frontpage",
       "published_at": "2026-04-25T16:54:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3d8043a9e0093d68",
-      "title_orig": "Fuel protesters set to descend on London in major national demonstration",
-      "summary_orig": "Monday's rally is dubbed the ‘National Fuel Tax Protest’ and has been arranged by Reform UK",
-      "lang": "en",
-      "title_en": "Fuel protesters set to descend on London in major national demonstration",
-      "summary_en": "Monday's rally is dubbed the ‘National Fuel Tax Protest’ and has been arranged by Reform UK",
-      "title": "Fuel protesters set to descend on London in major national demonstration",
-      "summary": "Monday's rally is dubbed the ‘National Fuel Tax Protest’ and has been arranged by Reform UK",
-      "url": "https://www.standard.co.uk/news/london/national-fuel-tax-protest-westminster-reform-iran-war-b1279982.html",
-      "source": "The Standard News",
-      "published_at": "2026-04-25T16:44:33+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2681,24 +2636,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7f63a0de4df99433",
-      "title_orig": "Russian airstrikes kill at least seven people in Ukraine overnight",
-      "summary_orig": "Dnipro bore the brunt of the attacks but Odesa and Kharkiv were also targeted in largest onslaught for several days Russian drone and missile strikes across Ukraine killed at least seven people overnight, including five in the city of Dnipro, Ukrainian local authorities have said. Reports say that at least 34 people have been injured in the strikes, which lasted “practically all night”, according to the Dnipropetrovsk regional head, Oleksandr Hanzha. The bodies of four people were found in the ruins of a house destroyed in the attacks, and workers continued to search for bodies on Saturday morning. Continue reading...",
-      "lang": "en",
-      "title_en": "Russian airstrikes kill at least seven people in Ukraine overnight",
-      "summary_en": "Dnipro bore the brunt of the attacks but Odesa and Kharkiv were also targeted in largest onslaught for several days Russian drone and missile strikes across Ukraine killed at least seven people overnight, including five in the city of Dnipro, Ukrainian local authorities have said. Reports say that at least 34 people have been injured in the strikes, which lasted “practically all night”, according to the Dnipropetrovsk regional head, Oleksandr Hanzha. The bodies of four people were found in the ruins of a house destroyed in the attacks, and workers continued to search for bodies on Saturday morning. Continue reading...",
-      "title": "Russian airstrikes kill at least seven people in Ukraine overnight",
-      "summary": "Dnipro bore the brunt of the attacks but Odesa and Kharkiv were also targeted in largest onslaught for several days Russian drone and missile strikes across Ukraine killed at least seven people overnight, including five in the city of Dnipro, Ukrainian local authorities have said. Reports say that at least 34 people have been injured in the strikes, which lasted “practically all night”, according to the Dnipropetrovsk regional head, Oleksandr Hanzha. The bodies of four people were found in the ruins of a house destroyed in the attacks, and workers continued to search for bodies on Saturday morning. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
-      "source": "World news | The Guardian",
-      "published_at": "2026-04-25T13:17:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2929,24 +2866,6 @@
       "url": "https://www.thelocal.it/20260425/italys-ees-airport-chaos-is-the-latest-example-of-the-same-old-problem",
       "source": "The Local Italy",
       "published_at": "2026-04-25T08:00:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cd1bbd66d839ce0b",
-      "title_orig": "US military strike on alleged drug boat kills 2 in eastern Pacific",
-      "summary_orig": "The U.S. military says it launched another strike on a boat accused of ferrying drugs in the eastern Pacific Ocean, killing two people Friday.",
-      "lang": "en",
-      "title_en": "US military strike on alleged drug boat kills 2 in eastern Pacific",
-      "summary_en": "The U.S. military says it launched another strike on a boat accused of ferrying drugs in the eastern Pacific Ocean, killing two people Friday.",
-      "title": "US military strike on alleged drug boat kills 2 in eastern Pacific",
-      "summary": "The U.S. military says it launched another strike on a boat accused of ferrying drugs in the eastern Pacific Ocean, killing two people Friday.",
-      "url": "https://www.kgw.com/article/syndication/associatedpress/us-military-strike-on-alleged-drug-boat-kills-2-in-eastern-pacific/616-84d979ce-f00e-4b67-b933-c6dc450fe1c2",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-04-25T03:46:30+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3640,24 +3559,6 @@
       "url": "https://www.latimes.com/politics/story/2026-04-08/iran-ceasefire-deal-frays-as-attacks-continue-trumps-peace-terms-remain-unclear",
       "source": "World & Nation",
       "published_at": "2026-04-08T18:49:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a17815296bbaef65",
-      "title_orig": "Iran attempting cyberattacks against critical U.S. infrastructure, officials say",
-      "summary_orig": "The Iranian cyber activity comes as President Trump threatens to target Iran's critical infrastructure, particularly its bridges and power plants.",
-      "lang": "en",
-      "title_en": "Iran attempting cyberattacks against critical U.S. infrastructure, officials say",
-      "summary_en": "The Iranian cyber activity comes as President Trump threatens to target Iran's critical infrastructure, particularly its bridges and power plants.",
-      "title": "Iran attempting cyberattacks against critical U.S. infrastructure, officials say",
-      "summary": "The Iranian cyber activity comes as President Trump threatens to target Iran's critical infrastructure, particularly its bridges and power plants.",
-      "url": "https://www.latimes.com/politics/story/2026-04-07/iran-attempting-cyber-attacks-against-u-s-critical-infrastructure-officials-say",
-      "source": "World & Nation",
-      "published_at": "2026-04-07T18:27:46+00:00",
       "tags": [
         "airport/security"
       ],
