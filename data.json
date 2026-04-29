@@ -1,6 +1,663 @@
 {
-  "generated_at": "2026-04-29T15:40:18.153370+00:00",
+  "generated_at": "2026-04-29T17:26:56.655080+00:00",
   "items": [
+    {
+      "id": "b63c681230c6894e",
+      "title_orig": "Golders Green terror attack: Everything we know as two stabbed in 'appalling' knife rampage",
+      "summary_orig": "The stabbing in Golders Green, in which two people were injured, has been declared a terror incident",
+      "lang": "en",
+      "title_en": "Golders Green terror attack: Everything we know as two stabbed in 'appalling' knife rampage",
+      "summary_en": "The stabbing in Golders Green, in which two people were injured, has been declared a terror incident",
+      "title": "Golders Green terror attack: Everything we know as two stabbed in 'appalling' knife rampage",
+      "summary": "The stabbing in Golders Green, in which two people were injured, has been declared a terror incident",
+      "url": "https://www.standard.co.uk/news/crime/golders-green-terrorist-attack-details-stabbing-london-b1280420.html",
+      "source": "The Standard News",
+      "published_at": "2026-04-29T17:15:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d4c128aa347f5e4f",
+      "title_orig": "Major new coach service linking Stansted Airport and Finsbury Park launches amid efforts to ease congestion",
+      "summary_orig": "Operator Flibco said the route would provide a greener and cheaper direct connection for passengers and staff",
+      "lang": "en",
+      "title_en": "Major new coach service linking Stansted Airport and Finsbury Park launches amid efforts to ease congestion",
+      "summary_en": "Operator Flibco said the route would provide a greener and cheaper direct connection for passengers and staff",
+      "title": "Major new coach service linking Stansted Airport and Finsbury Park launches amid efforts to ease congestion",
+      "summary": "Operator Flibco said the route would provide a greener and cheaper direct connection for passengers and staff",
+      "url": "https://www.standard.co.uk/news/politics/coach-service-stansted-airport-finsbury-park-congestion-b1280437.html",
+      "source": "The Standard News",
+      "published_at": "2026-04-29T17:14:55+00:00",
+      "tags": [
+        "STN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Stansted",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "STN",
+        "lat": 51.885,
+        "lon": 0.235
+      }
+    },
+    {
+      "id": "09a34f8254031911",
+      "title_orig": "Suspect took photo with knives in hotel room before correspondents' dinner attack, investigators say",
+      "summary_orig": "The suspect, Cole Allen, appeared to be wearing black pants, a black shirt and a red tie when he snapped the image in his room at the Washington Hilton.",
+      "lang": "en",
+      "title_en": "Suspect took photo with knives in hotel room before correspondents' dinner attack, investigators say",
+      "summary_en": "The suspect, Cole Allen, appeared to be wearing black pants, a black shirt and a red tie when he snapped the image in his room at the Washington Hilton.",
+      "title": "Suspect took photo with knives in hotel room before correspondents' dinner attack, investigators say",
+      "summary": "The suspect, Cole Allen, appeared to be wearing black pants, a black shirt and a red tie when he snapped the image in his room at the Washington Hilton.",
+      "url": "https://www.kgw.com/article/news/nation-world/suspect-white-house-correspondents-association-dinner-assassination-attempt-attack-hotel-photo/507-751212c0-7380-4706-b771-bce6afe7bf51",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-04-29T17:13:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2d61f139f59fae6d",
+      "title_orig": "Court rejects autorickshaw permit plea of man acquitted in 26/11 terror case",
+      "summary_orig": "Bombay High Court says refusal of authorities to issue police clearance certificate on security grounds justified",
+      "lang": "en",
+      "title_en": "Court rejects autorickshaw permit plea of man acquitted in 26/11 terror case",
+      "summary_en": "Bombay High Court says refusal of authorities to issue police clearance certificate on security grounds justified",
+      "title": "Court rejects autorickshaw permit plea of man acquitted in 26/11 terror case",
+      "summary": "Bombay High Court says refusal of authorities to issue police clearance certificate on security grounds justified",
+      "url": "https://www.thehindu.com/news/national/maharashtra/court-rejects-autorickshaw-permit-plea-of-man-acquitted-in-2611-terror-case/article70921452.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-04-29T17:11:17+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f2e70f11a102e6e1",
+      "title_orig": "Nigel Farage referred to standards watchdog over failure to declare £5m gift",
+      "summary_orig": "The Reform UK leader revealed he had received a seven-figure sum from a crypto investor to boost his security and that his home was firebombed.",
+      "lang": "en",
+      "title_en": "Nigel Farage referred to standards watchdog over failure to declare £5m gift",
+      "summary_en": "The Reform UK leader revealed he had received a seven-figure sum from a crypto investor to boost his security and that his home was firebombed.",
+      "title": "Nigel Farage referred to standards watchdog over failure to declare £5m gift",
+      "summary": "The Reform UK leader revealed he had received a seven-figure sum from a crypto investor to boost his security and that his home was firebombed.",
+      "url": "https://www.standard.co.uk/news/politics/nigel-farage-reform-uk-mps-member-of-parliament-b1280423.html",
+      "source": "The Standard News",
+      "published_at": "2026-04-29T17:09:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "66123c808748d71a",
+      "title_orig": "Bombay High Court grants bail to Sharad Kalaskar in Narendra Dabholkar murder case",
+      "summary_orig": "The court refused a request by the Central Bureau of Investigation to stay the bail order for four weeks, while noting doubts over his identification as the assailant",
+      "lang": "en",
+      "title_en": "Bombay High Court grants bail to Sharad Kalaskar in Narendra Dabholkar murder case",
+      "summary_en": "The court refused a request by the Central Bureau of Investigation to stay the bail order for four weeks, while noting doubts over his identification as the assailant",
+      "title": "Bombay High Court grants bail to Sharad Kalaskar in Narendra Dabholkar murder case",
+      "summary": "The court refused a request by the Central Bureau of Investigation to stay the bail order for four weeks, while noting doubts over his identification as the assailant",
+      "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-grants-bail-to-sharad-kalaskar-in-narendra-dabholkar-murder-case/article70921476.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-04-29T17:08:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4966673762d30413",
+      "title_orig": "Iran-US war latest: Hegseth won’t say if he advised Trump to attack Iran during heated hearing",
+      "summary_orig": "The war in Iran has so far cost an estimated $25 billion, a Pentagon official told the hearing",
+      "lang": "en",
+      "title_en": "Iran-US war latest: Hegseth won’t say if he advised Trump to attack Iran during heated hearing",
+      "summary_en": "The war in Iran has so far cost an estimated $25 billion, a Pentagon official told the hearing",
+      "title": "Iran-US war latest: Hegseth won’t say if he advised Trump to attack Iran during heated hearing",
+      "summary": "The war in Iran has so far cost an estimated $25 billion, a Pentagon official told the hearing",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strait-of-hormuz-blockade-israel-b2966886.html",
+      "source": "The Independent World",
+      "published_at": "2026-04-29T17:08:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c2a1befa686331fc",
+      "title_orig": "Police treating stabbing of two men in Golders Green as terrorism",
+      "summary_orig": "Assailant reportedly hunting for anyone ‘visibly Jewish’ in suspected antisemitic  attack in north London Police are treating the stabbing of two men in Golders Green, north London as terrorism, with the suspect described as hunting for anyone “visibly Jewish” to attack. The stabbings happened just after 11am on Wednesday with the violence coming after a series of arson attacks on Jewish targets in London since March, including two previous incidents in Golders Green. Continue reading...",
+      "lang": "en",
+      "title_en": "Police treating stabbing of two men in Golders Green as terrorism",
+      "summary_en": "Assailant reportedly hunting for anyone ‘visibly Jewish’ in suspected antisemitic  attack in north London Police are treating the stabbing of two men in Golders Green, north London as terrorism, with the suspect described as hunting for anyone “visibly Jewish” to attack. The stabbings happened just after 11am on Wednesday with the violence coming after a series of arson attacks on Jewish targets in London since March, including two previous incidents in Golders Green. Continue reading...",
+      "title": "Police treating stabbing of two men in Golders Green as terrorism",
+      "summary": "Assailant reportedly hunting for anyone ‘visibly Jewish’ in suspected antisemitic  attack in north London Police are treating the stabbing of two men in Golders Green, north London as terrorism, with the suspect described as hunting for anyone “visibly Jewish” to attack. The stabbings happened just after 11am on Wednesday with the violence coming after a series of arson attacks on Jewish targets in London since March, including two previous incidents in Golders Green. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/29/stabbing-golders-green-london",
+      "source": "World news | The Guardian",
+      "published_at": "2026-04-29T17:04:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "4fd94af3e2a219fb",
+      "title_orig": "Attacks on hospitals and medics rising, driven by Middle East conflict, says World Health Organization",
+      "summary_orig": "GENEVA, April 29 - The World Health Organization said on Wednesday that attacks on healthcare facilities and staff are increasing globally, with a notable uptick recorded since the recent conflict in the Middle East began.",
+      "lang": "en",
+      "title_en": "Attacks on hospitals and medics rising, driven by Middle East conflict, says World Health Organization",
+      "summary_en": "GENEVA, April 29 - The World Health Organization said on Wednesday that attacks on healthcare facilities and staff are increasing globally, with a notable uptick recorded since the recent conflict in the Middle East began.",
+      "title": "Attacks on hospitals and medics rising, driven by Middle East conflict, says World Health Organization",
+      "summary": "GENEVA, April 29 - The World Health Organization said on Wednesday that attacks on healthcare facilities and staff are increasing globally, with a notable uptick recorded since the recent conflict in the Middle East began.",
+      "url": "https://www.straitstimes.com/world/europe/attacks-on-hospitals-and-medics-rising-driven-by-middle-east-conflict-says-world-health-organization",
+      "source": "The Straits Times World News",
+      "published_at": "2026-04-29T16:58:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "493767e84507cdec",
+      "title_orig": "Russian-speaker known as 'El Money' 'offered men cash for arson attack on Prime Minister's homes'",
+      "summary_orig": "Three Ukrainian nationals are standing trial at the Old Bailey over the alleged attacks",
+      "lang": "en",
+      "title_en": "Russian-speaker known as 'El Money' 'offered men cash for arson attack on Prime Minister's homes'",
+      "summary_en": "Three Ukrainian nationals are standing trial at the Old Bailey over the alleged attacks",
+      "title": "Russian-speaker known as 'El Money' 'offered men cash for arson attack on Prime Minister's homes'",
+      "summary": "Three Ukrainian nationals are standing trial at the Old Bailey over the alleged attacks",
+      "url": "https://www.standard.co.uk/news/politics/russian-el-money-arson-prime-minister-keir-starmer-home-b1280387.html",
+      "source": "The Standard News",
+      "published_at": "2026-04-29T16:57:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "da22d84c7e1c1897",
+      "title_orig": "Selfie shows armed shooting suspect in hotel room before attack at White House Correspondents’ dinner",
+      "summary_orig": "According to the government, the photo was taken at 8:03 p.m. It shows Cole Tomas Allen in a black dress shirt, black slacks and a red necktie tucked into his pants behind his belt.",
+      "lang": "en",
+      "title_en": "Selfie shows armed shooting suspect in hotel room before attack at White House Correspondents’ dinner",
+      "summary_en": "According to the government, the photo was taken at 8:03 p.m. It shows Cole Tomas Allen in a black dress shirt, black slacks and a red necktie tucked into his pants behind his belt.",
+      "title": "Selfie shows armed shooting suspect in hotel room before attack at White House Correspondents’ dinner",
+      "summary": "According to the government, the photo was taken at 8:03 p.m. It shows Cole Tomas Allen in a black dress shirt, black slacks and a red necktie tucked into his pants behind his belt.",
+      "url": "https://wtop.com/local/2026/04/selfie-shows-armed-shooting-suspect-in-hotel-room-before-attack-at-white-house-correspondents-dinner/",
+      "source": "WTOP News",
+      "published_at": "2026-04-29T16:53:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "242bd83286439f24",
+      "title_orig": "Protest outside Queen's University Belfast over closure of Clement's cafes: Live updates",
+      "summary_orig": "A small crowd gathered at around 5.30pm on Wednesday evening",
+      "lang": "en",
+      "title_en": "Protest outside Queen's University Belfast over closure of Clement's cafes: Live updates",
+      "summary_en": "A small crowd gathered at around 5.30pm on Wednesday evening",
+      "title": "Protest outside Queen's University Belfast over closure of Clement's cafes: Live updates",
+      "summary": "A small crowd gathered at around 5.30pm on Wednesday evening",
+      "url": "https://www.belfastlive.co.uk/news/belfast-news/protest-outside-queens-university-belfast-33862031",
+      "source": "BelfastLive - Home",
+      "published_at": "2026-04-29T16:51:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b052de5a7f8b4565",
+      "title_orig": "Watch: How the Golders Green attack unfolded",
+      "summary_orig": "Two Jewish men were been stabbed in Golders Green, north London, as the Metropolitan Police formally declared it a terrorist incident.",
+      "lang": "en",
+      "title_en": "Watch: How the Golders Green attack unfolded",
+      "summary_en": "Two Jewish men were been stabbed in Golders Green, north London, as the Metropolitan Police formally declared it a terrorist incident.",
+      "title": "Watch: How the Golders Green attack unfolded",
+      "summary": "Two Jewish men were been stabbed in Golders Green, north London, as the Metropolitan Police formally declared it a terrorist incident.",
+      "url": "https://www.bbc.com/news/videos/cddp47gj07yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-04-29T16:50:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4da0976c87f88ab0",
+      "title_orig": "Police declare attack in north London a terrorist incident after two Jewish men stabbed – latest updates",
+      "summary_orig": "PM calls Cobra meeting after condemning  ‘appalling antisemitic attack’; man with ‘history of serious violence and mental health issues’ arrested Specialist officers from Counter Terrorism Policing are leading the investigation and working with police to establish the full circumstances and any links to terrorism, the Met said in a statement. Head of counter terrorism policing Laurence Taylor said: Whilst I must stress this investigation is at an early stage, we are working quickly to understand exactly what happened. Thank you to those who were in the area at the time and supported the response to this terrible incident. Our thoughts are with the victims of this horrific attack. We are grateful to officers who swiftly Tasered and arrested the suspect before he could cause further harm. We are aware of the significant distress and concern this incident is likely to cause in the face of a number of incidents in the local area. A suspect is in custody, and investigators are considering all possible motives. An investigation is under way and a man has been arrested following a stabbing incident in Barnet. At 11:16hrs on Wednesday 29 April, officers responded following reports of people stabbed in Highfield Avenue. Continue reading...",
+      "lang": "en",
+      "title_en": "Police declare attack in north London a terrorist incident after two Jewish men stabbed – latest updates",
+      "summary_en": "PM calls Cobra meeting after condemning  ‘appalling antisemitic attack’; man with ‘history of serious violence and mental health issues’ arrested Specialist officers from Counter Terrorism Policing are leading the investigation and working with police to establish the full circumstances and any links to terrorism, the Met said in a statement. Head of counter terrorism policing Laurence Taylor said: Whilst I must stress this investigation is at an early stage, we are working quickly to understand exactly what happened. Thank you to those who were in the area at the time and supported the response to this terrible incident. Our thoughts are with the victims of this horrific attack. We are grateful to officers who swiftly Tasered and arrested the suspect before he could cause further harm. We are aware of the significant distress and concern this incident is likely to cause in the face of a number of incidents in the local area. A suspect is in custody, and investigators are considering all possible motives. An investigation is under way and a man has been arrested following a stabbing incident in Barnet. At 11:16hrs on Wednesday 29 April, officers responded following reports of people stabbed in Highfield Avenue. Continue reading...",
+      "title": "Police declare attack in north London a terrorist incident after two Jewish men stabbed – latest updates",
+      "summary": "PM calls Cobra meeting after condemning  ‘appalling antisemitic attack’; man with ‘history of serious violence and mental health issues’ arrested Specialist officers from Counter Terrorism Policing are leading the investigation and working with police to establish the full circumstances and any links to terrorism, the Met said in a statement. Head of counter terrorism policing Laurence Taylor said: Whilst I must stress this investigation is at an early stage, we are working quickly to understand exactly what happened. Thank you to those who were in the area at the time and supported the response to this terrible incident. Our thoughts are with the victims of this horrific attack. We are grateful to officers who swiftly Tasered and arrested the suspect before he could cause further harm. We are aware of the significant distress and concern this incident is likely to cause in the face of a number of incidents in the local area. A suspect is in custody, and investigators are considering all possible motives. An investigation is under way and a man has been arrested following a stabbing incident in Barnet. At 11:16hrs on Wednesday 29 April, officers responded following reports of people stabbed in Highfield Avenue. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/live/2026/apr/29/two-people-stabbed-golders-green-says-jewish-group-latest-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2026-04-29T16:48:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "30387c7922f0c5a4",
+      "title_orig": "France urges citizens to leave Mali after rebel attacks",
+      "summary_orig": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
+      "lang": "en",
+      "title_en": "France urges citizens to leave Mali after rebel attacks",
+      "summary_en": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
+      "title": "France urges citizens to leave Mali after rebel attacks",
+      "summary": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
+      "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-04-29T16:46:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bcbd3d04a655dcf8",
+      "title_orig": "Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say",
+      "summary_orig": "Two men who were stabbed in Golders Green on Wednesday were in stable condition, the police said. One man was arrested on suspicion of attempted murder.",
+      "lang": "en",
+      "title_en": "Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say",
+      "summary_en": "Two men who were stabbed in Golders Green on Wednesday were in stable condition, the police said. One man was arrested on suspicion of attempted murder.",
+      "title": "Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say",
+      "summary": "Two men who were stabbed in Golders Green on Wednesday were in stable condition, the police said. One man was arrested on suspicion of attempted murder.",
+      "url": "https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html",
+      "source": "NYT > World News",
+      "published_at": "2026-04-29T16:43:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "702d28f72208d3f5",
+      "title_orig": "Hate speech stems from an ‘us versus them’ mindset: Supreme Court judgment",
+      "summary_orig": "Hate speech is not merely a deviation from acceptable discourse; it is fundamentally antithetical to the constitutional value of fraternity and strikes at the moral fabric of our Republic, SC says",
+      "lang": "en",
+      "title_en": "Hate speech stems from an ‘us versus them’ mindset: Supreme Court judgment",
+      "summary_en": "Hate speech is not merely a deviation from acceptable discourse; it is fundamentally antithetical to the constitutional value of fraternity and strikes at the moral fabric of our Republic, SC says",
+      "title": "Hate speech stems from an ‘us versus them’ mindset: Supreme Court judgment",
+      "summary": "Hate speech is not merely a deviation from acceptable discourse; it is fundamentally antithetical to the constitutional value of fraternity and strikes at the moral fabric of our Republic, SC says",
+      "url": "https://www.thehindu.com/news/national/supreme-court-hate-speech-action-laws-april-29-2026/article70919308.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-04-29T16:38:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c4695023cbf528e6",
+      "title_orig": "Arson attacks on Starmer property plotted by Russian-speaking ‘El Money’ – court",
+      "summary_orig": "Three men have been accused of being behind a series of fires in London in 2025.",
+      "lang": "en",
+      "title_en": "Arson attacks on Starmer property plotted by Russian-speaking ‘El Money’ – court",
+      "summary_en": "Three men have been accused of being behind a series of fires in London in 2025.",
+      "title": "Arson attacks on Starmer property plotted by Russian-speaking ‘El Money’ – court",
+      "summary": "Three men have been accused of being behind a series of fires in London in 2025.",
+      "url": "https://www.standard.co.uk/news/crime/keir-starmer-russian-london-old-bailey-telegram-b1280434.html",
+      "source": "The Standard News",
+      "published_at": "2026-04-29T16:35:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "158f6d07acd6d4c5",
+      "title_orig": "2 Jewish men stabbed in 'terrorist' attack in London",
+      "summary_orig": "Two Jewish men were stabbed on Wednesday in north London, an attack police declared a “terrorist incident” and which follows a series of arson attacks targeting Jewish sites. King Charles III, Prime Minister Keir Starmer and London mayor Sadiq Khan led the condemnation of the “appalling” assaults in Golders Green, which is home to a large Jewish population. Police said a 45-year-old man had been arrested after having also tried to stab officers. The two victims — aged 76 and 34 — were in a stable condition in hospital. Speaking from the scene and facing heckles from some in the local community, Metropolitan police commissioner Mark Rowley said the suspect has “a history of serious violence and mental health issues”. “Let me be clear: this is an attack on one community (and) an attack on one community is an attack on all London’s communities,” Rowley added. Starmer echoed the sentiment, saying on X that “attacks on our Jewish community are attacks on Britain” while vowing “those responsible will be brought to justice”. King Charles III, who is on a state visit to the United States, said he was “deeply concerned” in a statement issued by Buckingham Palace. The stabbings come after a spate of arson attacks on synagogues and other Jewish sites in north London in recent weeks that have heightened security fears for the community. ‘Horrific attack’ Israel’s foreign ministry condemned Starmer’s government shortly following Wednesday’s incident. “After attacks on synagogues, Jewish institutions, community ambulances and now Jews targeted in Golders Green, the UK government can no longer claim this is under control,” it said on X. Assistant Commissioner Laurence Taylor, who is also head of UK Counter Terrorism Policing, said the stabbings had “now formally been declared a terrorist incident”. Counter-terror officers and the capital’s Metropolitan police were “also working with the security services to ensure we have a full intelligence picture”, he added. “One of the lines of enquiry is whether this attack was deliberately targeting the Jewish community,” Taylor noted, standing outside the Met’s New Scotland Yard headquarters in central London. The incident unfolded shortly after 1000 GMT, with the Shomrim Jewish neighbourhood watch group first reporting that a knife-wielding man was “attempting to stab Jewish members of the public”. Shomrim members helped detain the suspect before police arrived and subdued him using an electroshock weapon. The response of the Jewish volunteers earned widespread praise. The victims were also treated at the scene by Hatzola, a Jewish volunteer ambulance service. The stabbings follow a deadly assault on a synagogue in Manchester last October on the Jewish holy day of Yom Kippur. That attack killed two people and seriously injured three, prompting increased anxiety among Jewish communities. “Why do we have to live in fear? We’re doing our best to live our lives as normal as possible but everyday is a struggle,” Shomrim volunteer Stephen Bak told AFP at the Golders Green scene on Wednesday. ‘Shocking’ Mayor of London Sadiq Khan called the spate of anti-Semitic attacks “shocking”. “There must be absolutely no place for antisemitism in society,” he added on X. Ephraim Mirvis, Britain’s chief rabbi, said the community was “strong” and “resilient” but “such attacks need to stop now”. “Zero tolerance — that’s what our community wants,” he told reporters from the scene. “Our society needs to know this is intolerable… We would like to see actions added to words.” The first London attack in late March saw four ambulances belonging to Hatzola set ablaze. Other incidents have followed, including an attack on the Kenton United Synagogue in Harrow as well as the premises of a Jewish charity. Last week, the Finchley Reform Synagogue was targeted. Police have arrested at least 26 people for the various attacks, launched since the start of the US-Iran war on Iran on February 28.",
+      "lang": "en",
+      "title_en": "2 Jewish men stabbed in 'terrorist' attack in London",
+      "summary_en": "Two Jewish men were stabbed on Wednesday in north London, an attack police declared a “terrorist incident” and which follows a series of arson attacks targeting Jewish sites. King Charles III, Prime Minister Keir Starmer and London mayor Sadiq Khan led the condemnation of the “appalling” assaults in Golders Green, which is home to a large Jewish population. Police said a 45-year-old man had been arrested after having also tried to stab officers. The two victims — aged 76 and 34 — were in a stable condition in hospital. Speaking from the scene and facing heckles from some in the local community, Metropolitan police commissioner Mark Rowley said the suspect has “a history of serious violence and mental health issues”. “Let me be clear: this is an attack on one community (and) an attack on one community is an attack on all London’s communities,” Rowley added. Starmer echoed the sentiment, saying on X that “attacks on our Jewish community are attacks on Britain” while vowing “those responsible will be brought to justice”. King Charles III, who is on a state visit to the United States, said he was “deeply concerned” in a statement issued by Buckingham Palace. The stabbings come after a spate of arson attacks on synagogues and other Jewish sites in north London in recent weeks that have heightened security fears for the community. ‘Horrific attack’ Israel’s foreign ministry condemned Starmer’s government shortly following Wednesday’s incident. “After attacks on synagogues, Jewish institutions, community ambulances and now Jews targeted in Golders Green, the UK government can no longer claim this is under control,” it said on X. Assistant Commissioner Laurence Taylor, who is also head of UK Counter Terrorism Policing, said the stabbings had “now formally been declared a terrorist incident”. Counter-terror officers and the capital’s Metropolitan police were “also working with the security services to ensure we have a full intelligence picture”, he added. “One of the lines of enquiry is whether this attack was deliberately targeting the Jewish community,” Taylor noted, standing outside the Met’s New Scotland Yard headquarters in central London. The incident unfolded shortly after 1000 GMT, with the Shomrim Jewish neighbourhood watch group first reporting that a knife-wielding man was “attempting to stab Jewish members of the public”. Shomrim members helped detain the suspect before police arrived and subdued him using an electroshock weapon. The response of the Jewish volunteers earned widespread praise. The victims were also treated at the scene by Hatzola, a Jewish volunteer ambulance service. The stabbings follow a deadly assault on a synagogue in Manchester last October on the Jewish holy day of Yom Kippur. That attack killed two people and seriously injured three, prompting increased anxiety among Jewish communities. “Why do we have to live in fear? We’re doing our best to live our lives as normal as possible but everyday is a struggle,” Shomrim volunteer Stephen Bak told AFP at the Golders Green scene on Wednesday. ‘Shocking’ Mayor of London Sadiq Khan called the spate of anti-Semitic attacks “shocking”. “There must be absolutely no place for antisemitism in society,” he added on X. Ephraim Mirvis, Britain’s chief rabbi, said the community was “strong” and “resilient” but “such attacks need to stop now”. “Zero tolerance — that’s what our community wants,” he told reporters from the scene. “Our society needs to know this is intolerable… We would like to see actions added to words.” The first London attack in late March saw four ambulances belonging to Hatzola set ablaze. Other incidents have followed, including an attack on the Kenton United Synagogue in Harrow as well as the premises of a Jewish charity. Last week, the Finchley Reform Synagogue was targeted. Police have arrested at least 26 people for the various attacks, launched since the start of the US-Iran war on Iran on February 28.",
+      "title": "2 Jewish men stabbed in 'terrorist' attack in London",
+      "summary": "Two Jewish men were stabbed on Wednesday in north London, an attack police declared a “terrorist incident” and which follows a series of arson attacks targeting Jewish sites. King Charles III, Prime Minister Keir Starmer and London mayor Sadiq Khan led the condemnation of the “appalling” assaults in Golders Green, which is home to a large Jewish population. Police said a 45-year-old man had been arrested after having also tried to stab officers. The two victims — aged 76 and 34 — were in a stable condition in hospital. Speaking from the scene and facing heckles from some in the local community, Metropolitan police commissioner Mark Rowley said the suspect has “a history of serious violence and mental health issues”. “Let me be clear: this is an attack on one community (and) an attack on one community is an attack on all London’s communities,” Rowley added. Starmer echoed the sentiment, saying on X that “attacks on our Jewish community are attacks on Britain” while vowing “those responsible will be brought to justice”. King Charles III, who is on a state visit to the United States, said he was “deeply concerned” in a statement issued by Buckingham Palace. The stabbings come after a spate of arson attacks on synagogues and other Jewish sites in north London in recent weeks that have heightened security fears for the community. ‘Horrific attack’ Israel’s foreign ministry condemned Starmer’s government shortly following Wednesday’s incident. “After attacks on synagogues, Jewish institutions, community ambulances and now Jews targeted in Golders Green, the UK government can no longer claim this is under control,” it said on X. Assistant Commissioner Laurence Taylor, who is also head of UK Counter Terrorism Policing, said the stabbings had “now formally been declared a terrorist incident”. Counter-terror officers and the capital’s Metropolitan police were “also working with the security services to ensure we have a full intelligence picture”, he added. “One of the lines of enquiry is whether this attack was deliberately targeting the Jewish community,” Taylor noted, standing outside the Met’s New Scotland Yard headquarters in central London. The incident unfolded shortly after 1000 GMT, with the Shomrim Jewish neighbourhood watch group first reporting that a knife-wielding man was “attempting to stab Jewish members of the public”. Shomrim members helped detain the suspect before police arrived and subdued him using an electroshock weapon. The response of the Jewish volunteers earned widespread praise. The victims were also treated at the scene by Hatzola, a Jewish volunteer ambulance service. The stabbings follow a deadly assault on a synagogue in Manchester last October on the Jewish holy day of Yom Kippur. That attack killed two people and seriously injured three, prompting increased anxiety among Jewish communities. “Why do we have to live in fear? We’re doing our best to live our lives as normal as possible but everyday is a struggle,” Shomrim volunteer Stephen Bak told AFP at the Golders Green scene on Wednesday. ‘Shocking’ Mayor of London Sadiq Khan called the spate of anti-Semitic attacks “shocking”. “There must be absolutely no place for antisemitism in society,” he added on X. Ephraim Mirvis, Britain’s chief rabbi, said the community was “strong” and “resilient” but “such attacks need to stop now”. “Zero tolerance — that’s what our community wants,” he told reporters from the scene. “Our society needs to know this is intolerable… We would like to see actions added to words.” The first London attack in late March saw four ambulances belonging to Hatzola set ablaze. Other incidents have followed, including an attack on the Kenton United Synagogue in Harrow as well as the premises of a Jewish charity. Last week, the Finchley Reform Synagogue was targeted. Police have arrested at least 26 people for the various attacks, launched since the start of the US-Iran war on Iran on February 28.",
+      "url": "https://www.dawn.com/news/1996120/2-jewish-men-stabbed-in-terrorist-attack-in-london",
+      "source": "Dawn - Home",
+      "published_at": "2026-04-29T16:35:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c6dac8c129544583",
+      "title_orig": "Golders Green stabbing: Terrorist incident declared as two Jewish Londoners 'seriously injured' in attack",
+      "summary_orig": "A 45-year-old man has been arrested on suspicion of attempted murder following knife attack",
+      "lang": "en",
+      "title_en": "Golders Green stabbing: Terrorist incident declared as two Jewish Londoners 'seriously injured' in attack",
+      "summary_en": "A 45-year-old man has been arrested on suspicion of attempted murder following knife attack",
+      "title": "Golders Green stabbing: Terrorist incident declared as two Jewish Londoners 'seriously injured' in attack",
+      "summary": "A 45-year-old man has been arrested on suspicion of attempted murder following knife attack",
+      "url": "https://www.standard.co.uk/news/crime/golders-green-stabbing-london-b1280385.html",
+      "source": "The Standard News",
+      "published_at": "2026-04-29T16:19:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "12c77ad1fa9e3bad",
+      "title_orig": "Flying Finnair on its refreshed E190: spotless cabin, few amenities",
+      "summary_orig": "Flying home after the Aircraft Interiors Expo (AIX) can be a sobering experience for me. After spending days learning about the latest and greatest in #PaxEx innovations, I often find myself in the oldest aircraft with the oldest cabins on the ride home from Hamburg. It serves as a reminder of what the real world... The post Flying Finnair on its refreshed E190: spotless cabin, few amenities appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "Flying Finnair on its refreshed E190: spotless cabin, few amenities",
+      "summary_en": "Flying home after the Aircraft Interiors Expo (AIX) can be a sobering experience for me. After spending days learning about the latest and greatest in #PaxEx innovations, I often find myself in the oldest aircraft with the oldest cabins on the ride home from Hamburg. It serves as a reminder of what the real world... The post Flying Finnair on its refreshed E190: spotless cabin, few amenities appeared first on Runway Girl .",
+      "title": "Flying Finnair on its refreshed E190: spotless cabin, few amenities",
+      "summary": "Flying home after the Aircraft Interiors Expo (AIX) can be a sobering experience for me. After spending days learning about the latest and greatest in #PaxEx innovations, I often find myself in the oldest aircraft with the oldest cabins on the ride home from Hamburg. It serves as a reminder of what the real world... The post Flying Finnair on its refreshed E190: spotless cabin, few amenities appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2026/04/flying-finnair-on-its-refreshed-e190-spotless-cabin-few-amenities/",
+      "source": "Runway Girl",
+      "published_at": "2026-04-29T16:18:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5cb4a38633731881",
+      "title_orig": "London police say stabbing of 2 Jewish men is declared a terrorist incident",
+      "summary_orig": "Two Jewish men were stabbed and injured in a London street on Wednesday, in what police called an act of terrorism. Police arrested a 45-year-old man on suspicion of attempted murder in the city's latest antisemitic attack. The Metropolitan Police said the attack in the Golders Green area left two men, aged 34 and 76, hospitalized with knife wounds.",
+      "lang": "en",
+      "title_en": "London police say stabbing of 2 Jewish men is declared a terrorist incident",
+      "summary_en": "Two Jewish men were stabbed and injured in a London street on Wednesday, in what police called an act of terrorism. Police arrested a 45-year-old man on suspicion of attempted murder in the city's latest antisemitic attack. The Metropolitan Police said the attack in the Golders Green area left two men, aged 34 and 76, hospitalized with knife wounds.",
+      "title": "London police say stabbing of 2 Jewish men is declared a terrorist incident",
+      "summary": "Two Jewish men were stabbed and injured in a London street on Wednesday, in what police called an act of terrorism. Police arrested a 45-year-old man on suspicion of attempted murder in the city's latest antisemitic attack. The Metropolitan Police said the attack in the Golders Green area left two men, aged 34 and 76, hospitalized with knife wounds.",
+      "url": "https://www.france24.com/en/video/20260429-london-police-say-stabbing-of-2-jewish-men-is-declared-a-terrorist-incident",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-04-29T16:13:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "863a9a06722086a0",
+      "title_orig": "Antisemitic stab suspect ‘has history of violence and mental health issues’",
+      "summary_orig": "Two Jewish men, aged 76 and 34, were stabbed in a terrorist attack in north London on Wednesday.",
+      "lang": "en",
+      "title_en": "Antisemitic stab suspect ‘has history of violence and mental health issues’",
+      "summary_en": "Two Jewish men, aged 76 and 34, were stabbed in a terrorist attack in north London on Wednesday.",
+      "title": "Antisemitic stab suspect ‘has history of violence and mental health issues’",
+      "summary": "Two Jewish men, aged 76 and 34, were stabbed in a terrorist attack in north London on Wednesday.",
+      "url": "https://www.standard.co.uk/news/uk/mark-rowley-jewish-golders-green-london-metropolitan-police-b1280426.html",
+      "source": "The Standard News",
+      "published_at": "2026-04-29T16:10:39+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "52ace041ae7b9dd7",
+      "title_orig": "Emmerdale viewers rumble truth behind Dawn's pregnancy bombshell",
+      "summary_orig": "Fans of the ITV soap were left shocked at the reveal",
+      "lang": "en",
+      "title_en": "Emmerdale viewers rumble truth behind Dawn's pregnancy bombshell",
+      "summary_en": "Fans of the ITV soap were left shocked at the reveal",
+      "title": "Emmerdale viewers rumble truth behind Dawn's pregnancy bombshell",
+      "summary": "Fans of the ITV soap were left shocked at the reveal",
+      "url": "https://www.manchestereveningnews.co.uk/news/tv/emmerdale-viewers-rumble-truth-behind-33860350",
+      "source": "MEN - News",
+      "published_at": "2026-04-29T16:09:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "6c69e0ae7b847206",
+      "title_orig": "‘Do we need to think about moving away?’: Jewish community fears for safety after Golders Green stabbings",
+      "summary_orig": "Residents call for stronger action after two men attacked on north London street in suspected antisemitic incident “People feel scared, people feel unsafe,” said Baruch Stern, of Gross Butchers, behind the cordon raised after two men were stabbed in north London in an apparent antisemitic attack. “People think, is it really the place for me to be here? Is the UK safe for Jewish people, or is it something we need to think about, moving away?” It is feared the stabbings in Golders Green are the latest in a string of incidents that have targeted Jewish schools, synagogues and charities over the last few months. Continue reading...",
+      "lang": "en",
+      "title_en": "‘Do we need to think about moving away?’: Jewish community fears for safety after Golders Green stabbings",
+      "summary_en": "Residents call for stronger action after two men attacked on north London street in suspected antisemitic incident “People feel scared, people feel unsafe,” said Baruch Stern, of Gross Butchers, behind the cordon raised after two men were stabbed in north London in an apparent antisemitic attack. “People think, is it really the place for me to be here? Is the UK safe for Jewish people, or is it something we need to think about, moving away?” It is feared the stabbings in Golders Green are the latest in a string of incidents that have targeted Jewish schools, synagogues and charities over the last few months. Continue reading...",
+      "title": "‘Do we need to think about moving away?’: Jewish community fears for safety after Golders Green stabbings",
+      "summary": "Residents call for stronger action after two men attacked on north London street in suspected antisemitic incident “People feel scared, people feel unsafe,” said Baruch Stern, of Gross Butchers, behind the cordon raised after two men were stabbed in north London in an apparent antisemitic attack. “People think, is it really the place for me to be here? Is the UK safe for Jewish people, or is it something we need to think about, moving away?” It is feared the stabbings in Golders Green are the latest in a string of incidents that have targeted Jewish schools, synagogues and charities over the last few months. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/29/golders-green-jewish-community-fear-for-safety-after-antisemitic-stabbing",
+      "source": "World news | The Guardian",
+      "published_at": "2026-04-29T16:07:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "2fae9f3fe58c3301",
+      "title_orig": "How Iranian diplomats turned embassy accounts into viral meme machines",
+      "summary_orig": "Memes, humour, and trolling of American politicians: This is how a handful of Iranian embassies have become superstars on “X”, attracting millions of views. But how did the old-fashioned and largely ignored accounts of Iran’s diplomats in South Africa, Thailand, and the United Kingdom suddenly turn into Gen Z-style viral feeds, with millions of views?",
+      "lang": "en",
+      "title_en": "How Iranian diplomats turned embassy accounts into viral meme machines",
+      "summary_en": "Memes, humour, and trolling of American politicians: This is how a handful of Iranian embassies have become superstars on “X”, attracting millions of views. But how did the old-fashioned and largely ignored accounts of Iran’s diplomats in South Africa, Thailand, and the United Kingdom suddenly turn into Gen Z-style viral feeds, with millions of views?",
+      "title": "How Iranian diplomats turned embassy accounts into viral meme machines",
+      "summary": "Memes, humour, and trolling of American politicians: This is how a handful of Iranian embassies have become superstars on “X”, attracting millions of views. But how did the old-fashioned and largely ignored accounts of Iran’s diplomats in South Africa, Thailand, and the United Kingdom suddenly turn into Gen Z-style viral feeds, with millions of views?",
+      "url": "https://www.france24.com/en/middle-east/20260429-iran-embassy-memes-viral-propaganda-war-diplomats-hijack-x",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-04-29T16:04:31+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "4da5b16cf2573152",
+      "title_orig": "Men accused of being approached by Russian contact to attack Starmer-linked assets in London",
+      "summary_orig": "A British court has heard that two men from Ukraine and a Romanian man were allegedly offered payment by a Russian-speaking contact to set fires last year to property linked to Prime Minister Keir Starmer.",
+      "lang": "en",
+      "title_en": "Men accused of being approached by Russian contact to attack Starmer-linked assets in London",
+      "summary_en": "A British court has heard that two men from Ukraine and a Romanian man were allegedly offered payment by a Russian-speaking contact to set fires last year to property linked to Prime Minister Keir Starmer.",
+      "title": "Men accused of being approached by Russian contact to attack Starmer-linked assets in London",
+      "summary": "A British court has heard that two men from Ukraine and a Romanian man were allegedly offered payment by a Russian-speaking contact to set fires last year to property linked to Prime Minister Keir Starmer.",
+      "url": "https://www.seattletimes.com/business/men-accused-of-being-approached-by-russian-contact-to-attack-starmer-linked-assets-in-london/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-04-29T16:01:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ea017bc34d970df9",
+      "title_orig": "Men accused of being approached by Russian contact to attack Starmer-linked assets in London",
+      "summary_orig": "A British court has heard that two men from Ukraine and a Romanian man were allegedly offered payment by a Russian-speaking contact to set fires last year to property linked to Prime Minister Keir Starmer",
+      "lang": "en",
+      "title_en": "Men accused of being approached by Russian contact to attack Starmer-linked assets in London",
+      "summary_en": "A British court has heard that two men from Ukraine and a Romanian man were allegedly offered payment by a Russian-speaking contact to set fires last year to property linked to Prime Minister Keir Starmer",
+      "title": "Men accused of being approached by Russian contact to attack Starmer-linked assets in London",
+      "summary": "A British court has heard that two men from Ukraine and a Romanian man were allegedly offered payment by a Russian-speaking contact to set fires last year to property linked to Prime Minister Keir Starmer",
+      "url": "https://www.independent.co.uk/news/world/europe/keir-starmer-men-london-british-toyota-b2967435.html",
+      "source": "The Independent World",
+      "published_at": "2026-04-29T16:00:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "334a3ee3f5984014",
+      "title_orig": "Man arrested after stabbing two Jewish people in Golders Green – video",
+      "summary_orig": "A man has been arrested after he was seen running along Golders Green Road armed with a knife and 'attempting to stab Jewish members of the public', the Jewish security group Shomrim has said on social media. The Metropolitan police said they 'confronted a man they believed to be a terrorist, who refused to show his hands, who was violent and continued to pose a clear threat', they added that the officers who intervened were not armed and 'feared that he was carrying an explosive device'.  Shomrim said the two people stabbed were being treated by the Jewish volunteer ambulance service Hatzola. Police have declared the attack a terrorist incident Two stabbed in Golders Green, north-west London, says Jewish group Continue reading...",
+      "lang": "en",
+      "title_en": "Man arrested after stabbing two Jewish people in Golders Green – video",
+      "summary_en": "A man has been arrested after he was seen running along Golders Green Road armed with a knife and 'attempting to stab Jewish members of the public', the Jewish security group Shomrim has said on social media. The Metropolitan police said they 'confronted a man they believed to be a terrorist, who refused to show his hands, who was violent and continued to pose a clear threat', they added that the officers who intervened were not armed and 'feared that he was carrying an explosive device'.  Shomrim said the two people stabbed were being treated by the Jewish volunteer ambulance service Hatzola. Police have declared the attack a terrorist incident Two stabbed in Golders Green, north-west London, says Jewish group Continue reading...",
+      "title": "Man arrested after stabbing two Jewish people in Golders Green – video",
+      "summary": "A man has been arrested after he was seen running along Golders Green Road armed with a knife and 'attempting to stab Jewish members of the public', the Jewish security group Shomrim has said on social media. The Metropolitan police said they 'confronted a man they believed to be a terrorist, who refused to show his hands, who was violent and continued to pose a clear threat', they added that the officers who intervened were not armed and 'feared that he was carrying an explosive device'.  Shomrim said the two people stabbed were being treated by the Jewish volunteer ambulance service Hatzola. Police have declared the attack a terrorist incident Two stabbed in Golders Green, north-west London, says Jewish group Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/video/2026/apr/29/man-arrested-after-stabbing-two-jewish-people-in-golders-green-video",
+      "source": "UK news | The Guardian",
+      "published_at": "2026-04-29T15:58:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "0f5d2f569d244c09",
+      "title_orig": "Airline cancels '60 percent' of flights on May 12 as UK tourist spot faces strikes",
+      "summary_orig": "Travellers to the EU country are set for disruption on May 12",
+      "lang": "en",
+      "title_en": "Airline cancels '60 percent' of flights on May 12 as UK tourist spot faces strikes",
+      "summary_en": "Travellers to the EU country are set for disruption on May 12",
+      "title": "Airline cancels '60 percent' of flights on May 12 as UK tourist spot faces strikes",
+      "summary": "Travellers to the EU country are set for disruption on May 12",
+      "url": "https://www.liverpoolecho.co.uk/travel/airline-cancels-60-percent-flights-33861580",
+      "source": "Liverpool Echo - Home",
+      "published_at": "2026-04-29T15:58:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "95df55073e61d356",
+      "title_orig": "Police declare London stabbing attack on Jewish men a terror incident",
+      "summary_orig": "The Metropolitan Police said the attack left two men, aged 34 and 76, hospitalized with knife wounds and that a 45-year-old man has been arrested.",
+      "lang": "en",
+      "title_en": "Police declare London stabbing attack on Jewish men a terror incident",
+      "summary_en": "The Metropolitan Police said the attack left two men, aged 34 and 76, hospitalized with knife wounds and that a 45-year-old man has been arrested.",
+      "title": "Police declare London stabbing attack on Jewish men a terror incident",
+      "summary": "The Metropolitan Police said the attack left two men, aged 34 and 76, hospitalized with knife wounds and that a 45-year-old man has been arrested.",
+      "url": "https://globalnews.ca/news/11822116/stabbing-jewish-community-terror-incident-golders-green-london/",
+      "source": "globalnews.ca",
+      "published_at": "2026-04-29T15:55:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "c210a5d13fa9e482",
+      "title_orig": "Compensation given to families of lightning strike victims",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Compensation given to families of lightning strike victims",
+      "summary_en": "",
+      "title": "Compensation given to families of lightning strike victims",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/karnataka/compensation-given-to-families-of-lightning-strike-victims/article70920569.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-04-29T15:47:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0592399ddce08dca",
+      "title_orig": "Heroes drove at Golders Green knifeman and alerted mother with baby to ‘terrorist targeting Jews’",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Heroes drove at Golders Green knifeman and alerted mother with baby to ‘terrorist targeting Jews’",
+      "summary_en": "",
+      "title": "Heroes drove at Golders Green knifeman and alerted mother with baby to ‘terrorist targeting Jews’",
+      "summary": "",
+      "url": "https://metro.co.uk/2026/04/29/heroes-drove-golders-green-knifeman-alerted-mother-baby-terrorist-targeting-jews-28168963/",
+      "source": "Metro",
+      "published_at": "2026-04-29T15:41:12+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "51254ec430f20abf",
+      "title_orig": "Islamic State-linked insurgents leave Mali town as army tries to reassert control",
+      "summary_orig": "BAMAKO, April 29 - Malian forces are back in control of a town on the Niger border that Islamic State-linked insurgents entered this week, residents said on Wednesday, as they pushed to regain control of territory following coordinated attacks over the weekend.",
+      "lang": "en",
+      "title_en": "Islamic State-linked insurgents leave Mali town as army tries to reassert control",
+      "summary_en": "BAMAKO, April 29 - Malian forces are back in control of a town on the Niger border that Islamic State-linked insurgents entered this week, residents said on Wednesday, as they pushed to regain control of territory following coordinated attacks over the weekend.",
+      "title": "Islamic State-linked insurgents leave Mali town as army tries to reassert control",
+      "summary": "BAMAKO, April 29 - Malian forces are back in control of a town on the Niger border that Islamic State-linked insurgents entered this week, residents said on Wednesday, as they pushed to regain control of territory following coordinated attacks over the weekend.",
+      "url": "https://www.straitstimes.com/world/europe/islamic-state-linked-insurgents-leave-mali-town-as-army-tries-to-reassert-control",
+      "source": "The Straits Times World News",
+      "published_at": "2026-04-29T15:38:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "21cb39ffd4a529f3",
+      "title_orig": "Extra police patrols at Leeds synagogues and Jewish schools following Golders Green attack",
+      "summary_orig": "Police in Leeds have increased patrols at the city’s synagogues and Jewish schools, following an attack in Golders Green.",
+      "lang": "en",
+      "title_en": "Extra police patrols at Leeds synagogues and Jewish schools following Golders Green attack",
+      "summary_en": "Police in Leeds have increased patrols at the city’s synagogues and Jewish schools, following an attack in Golders Green.",
+      "title": "Extra police patrols at Leeds synagogues and Jewish schools following Golders Green attack",
+      "summary": "Police in Leeds have increased patrols at the city’s synagogues and Jewish schools, following an attack in Golders Green.",
+      "url": "https://www.yorkshireeveningpost.co.uk/news/crime/extra-police-patrols-at-leeds-synagogues-after-golders-green-attack-8182568",
+      "source": "Yorkshire Evening Post",
+      "published_at": "2026-04-29T15:34:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b063d911a039cc75",
+      "title_orig": "Arson attacks on Starmer property plotted by Russian-speaking ‘El Money’ – court",
+      "summary_orig": "Three Ukrainians are accused of plotting the series of fires in north London last spring.",
+      "lang": "en",
+      "title_en": "Arson attacks on Starmer property plotted by Russian-speaking ‘El Money’ – court",
+      "summary_en": "Three Ukrainians are accused of plotting the series of fires in north London last spring.",
+      "title": "Arson attacks on Starmer property plotted by Russian-speaking ‘El Money’ – court",
+      "summary": "Three Ukrainians are accused of plotting the series of fires in north London last spring.",
+      "url": "https://www.standard.co.uk/news/crime/keir-starmer-russian-london-prime-minister-b1280402.html",
+      "source": "The Standard News",
+      "published_at": "2026-04-29T15:32:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "0830d28e43c9eb42",
       "title_orig": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
@@ -39,12 +696,12 @@
     },
     {
       "id": "eda949a4dce04254",
-      "title_orig": "London stabbings suspect has 'history' of violence, mental health issues",
+      "title_orig": "Suspect in stabbing of two Jewish men in London has 'history' of violence, mental health issues",
       "summary_orig": "The stabbing of two Jewish men today has been formally declared “a terrorist incident” by police.",
       "lang": "en",
-      "title_en": "London stabbings suspect has 'history' of violence, mental health issues",
+      "title_en": "Suspect in stabbing of two Jewish men in London has 'history' of violence, mental health issues",
       "summary_en": "The stabbing of two Jewish men today has been formally declared “a terrorist incident” by police.",
-      "title": "London stabbings suspect has 'history' of violence, mental health issues",
+      "title": "Suspect in stabbing of two Jewish men in London has 'history' of violence, mental health issues",
       "summary": "The stabbing of two Jewish men today has been formally declared “a terrorist incident” by police.",
       "url": "https://www.thejournal.ie/two-london-jews-stabbed-in-latest-attack-targeting-jewish-community-7026932-Apr2026/",
       "source": "TheJournal.ie",
@@ -56,32 +713,14 @@
       "geo": {}
     },
     {
-      "id": "4da0976c87f88ab0",
-      "title_orig": "Police declare attack in north London a terrorist incident after two Jewish men stabbed – latest updates",
-      "summary_orig": "Prime minister calls Cobra meeting after condemning  ‘appalling antisemitic attack’; 45 year-old man arrested Specialist officers from Counter Terrorism Policing are leading the investigation and working with police to establish the full circumstances and any links to terrorism, the Met said in a statement. Head of counter terrorism policing Laurence Taylor said: Whilst I must stress this investigation is at an early stage, we are working quickly to understand exactly what happened. Thank you to those who were in the area at the time and supported the response to this terrible incident. Our thoughts are with the victims of this horrific attack. We are grateful to officers who swiftly Tasered and arrested the suspect before he could cause further harm. We are aware of the significant distress and concern this incident is likely to cause in the face of a number of incidents in the local area. A suspect is in custody, and investigators are considering all possible motives. An investigation is under way and a man has been arrested following a stabbing incident in Barnet. At 11:16hrs on Wednesday 29 April, officers responded following reports of people stabbed in Highfield Avenue. Continue reading...",
-      "lang": "en",
-      "title_en": "Police declare attack in north London a terrorist incident after two Jewish men stabbed – latest updates",
-      "summary_en": "Prime minister calls Cobra meeting after condemning  ‘appalling antisemitic attack’; 45 year-old man arrested Specialist officers from Counter Terrorism Policing are leading the investigation and working with police to establish the full circumstances and any links to terrorism, the Met said in a statement. Head of counter terrorism policing Laurence Taylor said: Whilst I must stress this investigation is at an early stage, we are working quickly to understand exactly what happened. Thank you to those who were in the area at the time and supported the response to this terrible incident. Our thoughts are with the victims of this horrific attack. We are grateful to officers who swiftly Tasered and arrested the suspect before he could cause further harm. We are aware of the significant distress and concern this incident is likely to cause in the face of a number of incidents in the local area. A suspect is in custody, and investigators are considering all possible motives. An investigation is under way and a man has been arrested following a stabbing incident in Barnet. At 11:16hrs on Wednesday 29 April, officers responded following reports of people stabbed in Highfield Avenue. Continue reading...",
-      "title": "Police declare attack in north London a terrorist incident after two Jewish men stabbed – latest updates",
-      "summary": "Prime minister calls Cobra meeting after condemning  ‘appalling antisemitic attack’; 45 year-old man arrested Specialist officers from Counter Terrorism Policing are leading the investigation and working with police to establish the full circumstances and any links to terrorism, the Met said in a statement. Head of counter terrorism policing Laurence Taylor said: Whilst I must stress this investigation is at an early stage, we are working quickly to understand exactly what happened. Thank you to those who were in the area at the time and supported the response to this terrible incident. Our thoughts are with the victims of this horrific attack. We are grateful to officers who swiftly Tasered and arrested the suspect before he could cause further harm. We are aware of the significant distress and concern this incident is likely to cause in the face of a number of incidents in the local area. A suspect is in custody, and investigators are considering all possible motives. An investigation is under way and a man has been arrested following a stabbing incident in Barnet. At 11:16hrs on Wednesday 29 April, officers responded following reports of people stabbed in Highfield Avenue. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/live/2026/apr/29/two-people-stabbed-golders-green-says-jewish-group-latest-updates",
-      "source": "UK news | The Guardian",
-      "published_at": "2026-04-29T15:20:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "80a154ab066a6228",
-      "title_orig": "King Charles to visit New York to commemorate 9/11 victims",
-      "summary_orig": "WASHINGTON/NEW YORK, April 29 - Britain's King Charles and his wife Queen Camilla arrive in New York on Wednesday to commemorate victims of the September 11, 2001, al Qaeda attack on the city, part of a four-day state visit to the U.S.",
+      "title_orig": "King Charles visits New York to commemorate 9/11 victims",
+      "summary_orig": "WASHINGTON/NEW YORK, April 29 - Britain's King Charles and Queen Camilla arrived in New York on Wednesday to commemorate victims of the September 11, 2001, al Qaeda attack on the city, part of a four-day state visit to the United States.",
       "lang": "en",
-      "title_en": "King Charles to visit New York to commemorate 9/11 victims",
-      "summary_en": "WASHINGTON/NEW YORK, April 29 - Britain's King Charles and his wife Queen Camilla arrive in New York on Wednesday to commemorate victims of the September 11, 2001, al Qaeda attack on the city, part of a four-day state visit to the U.S.",
-      "title": "King Charles to visit New York to commemorate 9/11 victims",
-      "summary": "WASHINGTON/NEW YORK, April 29 - Britain's King Charles and his wife Queen Camilla arrive in New York on Wednesday to commemorate victims of the September 11, 2001, al Qaeda attack on the city, part of a four-day state visit to the U.S.",
+      "title_en": "King Charles visits New York to commemorate 9/11 victims",
+      "summary_en": "WASHINGTON/NEW YORK, April 29 - Britain's King Charles and Queen Camilla arrived in New York on Wednesday to commemorate victims of the September 11, 2001, al Qaeda attack on the city, part of a four-day state visit to the United States.",
+      "title": "King Charles visits New York to commemorate 9/11 victims",
+      "summary": "WASHINGTON/NEW YORK, April 29 - Britain's King Charles and Queen Camilla arrived in New York on Wednesday to commemorate victims of the September 11, 2001, al Qaeda attack on the city, part of a four-day state visit to the United States.",
       "url": "https://www.straitstimes.com/world/europe/king-charles-to-visit-new-york-to-commemorate-9/11-victims1",
       "source": "The Straits Times World News",
       "published_at": "2026-04-29T15:13:29+00:00",
@@ -103,24 +742,6 @@
       "url": "https://www.pennlive.com/nation-world/2026/04/2-killed-others-injured-after-plane-crashes-into-hanger.html",
       "source": "pennlive.com",
       "published_at": "2026-04-29T15:13:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e759ad1dc03cf3d1",
-      "title_orig": "Antisemitic stab suspect ‘has history of violence and mental health issues’",
-      "summary_orig": "Two Jewish men, aged 76 and 34, were stabbed in a terrorist attack in north London on Wednesday.",
-      "lang": "en",
-      "title_en": "Antisemitic stab suspect ‘has history of violence and mental health issues’",
-      "summary_en": "Two Jewish men, aged 76 and 34, were stabbed in a terrorist attack in north London on Wednesday.",
-      "title": "Antisemitic stab suspect ‘has history of violence and mental health issues’",
-      "summary": "Two Jewish men, aged 76 and 34, were stabbed in a terrorist attack in north London on Wednesday.",
-      "url": "https://www.standard.co.uk/news/uk/jewish-mark-rowley-london-golders-green-scotland-yard-b1280426.html",
-      "source": "The Standard News",
-      "published_at": "2026-04-29T15:12:36+00:00",
       "tags": [
         "airport/security"
       ],
@@ -182,42 +803,6 @@
       "geo": {}
     },
     {
-      "id": "09a34f8254031911",
-      "title_orig": "Suspect took photo with knives in hotel room before correspondents' dinner attack, investigators say",
-      "summary_orig": "The suspect, Cole Allen, appeared to be wearing black pants, a black shirt and a red tie when he snapped the image in his room at the Washington Hilton.",
-      "lang": "en",
-      "title_en": "Suspect took photo with knives in hotel room before correspondents' dinner attack, investigators say",
-      "summary_en": "The suspect, Cole Allen, appeared to be wearing black pants, a black shirt and a red tie when he snapped the image in his room at the Washington Hilton.",
-      "title": "Suspect took photo with knives in hotel room before correspondents' dinner attack, investigators say",
-      "summary": "The suspect, Cole Allen, appeared to be wearing black pants, a black shirt and a red tie when he snapped the image in his room at the Washington Hilton.",
-      "url": "https://www.kgw.com/article/news/nation-world/suspect-white-house-correspondents-association-dinner-assassination-attempt-attack-hotel-photo/507-751212c0-7380-4706-b771-bce6afe7bf51",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-04-29T15:03:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c6dac8c129544583",
-      "title_orig": "Golders Green stabbing: Terrorist incident declared as two Jewish Londoners 'seriously injured' in attack",
-      "summary_orig": "A 45-year-old man has been arrested on suspicion of attempted murder following knife attack",
-      "lang": "en",
-      "title_en": "Golders Green stabbing: Terrorist incident declared as two Jewish Londoners 'seriously injured' in attack",
-      "summary_en": "A 45-year-old man has been arrested on suspicion of attempted murder following knife attack",
-      "title": "Golders Green stabbing: Terrorist incident declared as two Jewish Londoners 'seriously injured' in attack",
-      "summary": "A 45-year-old man has been arrested on suspicion of attempted murder following knife attack",
-      "url": "https://www.standard.co.uk/news/crime/golders-green-stabbing-london-b1280385.html",
-      "source": "The Standard News",
-      "published_at": "2026-04-29T15:01:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "51985d6da7415690",
       "title_orig": "Man offered Ukrainians money to carry out Starmer arson attacks, court hears",
       "summary_orig": "The three men are accused of targeting north London properties linked to Prime Minister Sir Keir Starmer.",
@@ -254,53 +839,17 @@
       "geo": {}
     },
     {
-      "id": "7004bacbde546426",
-      "title_orig": "Arson attacks on Starmer property plotted by Russian-speaking ‘El Money’ – court",
-      "summary_orig": "Three Ukrainians are accused of plotting the series of fires in north London last spring.",
+      "id": "57f738e9423491ec",
+      "title_orig": "Fuel protest fallout: Farmers and agri-contractors to get payments by June",
+      "summary_orig": "Two schemes costed at €100m and €120m respectively have been unveiled.",
       "lang": "en",
-      "title_en": "Arson attacks on Starmer property plotted by Russian-speaking ‘El Money’ – court",
-      "summary_en": "Three Ukrainians are accused of plotting the series of fires in north London last spring.",
-      "title": "Arson attacks on Starmer property plotted by Russian-speaking ‘El Money’ – court",
-      "summary": "Three Ukrainians are accused of plotting the series of fires in north London last spring.",
-      "url": "https://www.standard.co.uk/news/crime/keir-starmer-london-russian-prime-minister-b1280402.html",
-      "source": "The Standard News",
-      "published_at": "2026-04-29T14:59:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7d6009b6c5446bd4",
-      "title_orig": "Moment Jewish man stabbed at bus stop as police declare 'terrorist incident'",
-      "summary_orig": "Police say two Jewish men, one in his 70s and one in his 30s, were stabbed in North London",
-      "lang": "en",
-      "title_en": "Moment Jewish man stabbed at bus stop as police declare 'terrorist incident'",
-      "summary_en": "Police say two Jewish men, one in his 70s and one in his 30s, were stabbed in North London",
-      "title": "Moment Jewish man stabbed at bus stop as police declare 'terrorist incident'",
-      "summary": "Police say two Jewish men, one in his 70s and one in his 30s, were stabbed in North London",
-      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/cctv-jewish-man-stabbed-london-37088068",
-      "source": "Daily Record - Home",
-      "published_at": "2026-04-29T14:55:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0648c8afcba119dc",
-      "title_orig": "Nigel Farage referred to standards watchdog over failure to declare £5m gift",
-      "summary_orig": "The Reform UK leader revealed he had received a seven-figure sum from a crypto investor to boost his security and that his home was firebombed.",
-      "lang": "en",
-      "title_en": "Nigel Farage referred to standards watchdog over failure to declare £5m gift",
-      "summary_en": "The Reform UK leader revealed he had received a seven-figure sum from a crypto investor to boost his security and that his home was firebombed.",
-      "title": "Nigel Farage referred to standards watchdog over failure to declare £5m gift",
-      "summary": "The Reform UK leader revealed he had received a seven-figure sum from a crypto investor to boost his security and that his home was firebombed.",
-      "url": "https://www.standard.co.uk/news/politics/nigel-farage-reform-uk-member-of-parliament-mps-b1280423.html",
-      "source": "The Standard News",
-      "published_at": "2026-04-29T14:54:51+00:00",
+      "title_en": "Fuel protest fallout: Farmers and agri-contractors to get payments by June",
+      "summary_en": "Two schemes costed at €100m and €120m respectively have been unveiled.",
+      "title": "Fuel protest fallout: Farmers and agri-contractors to get payments by June",
+      "summary": "Two schemes costed at €100m and €120m respectively have been unveiled.",
+      "url": "https://www.thejournal.ie/fuel-support-scheme-7026614-Apr2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-04-29T15:00:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -337,24 +886,6 @@
       "url": "https://www.nottinghampost.com/news/nottingham-news/multiple-arrests-made-man-stabbed-10941875",
       "source": "Nottinghamshire Live - frontpage",
       "published_at": "2026-04-29T14:48:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "99e2d9f00d1d7b6a",
-      "title_orig": "High Court disposes of PIL against construction of Ramalayam in Akiveedu",
-      "summary_orig": "The issue made headlines following a confrontation between local groups over renovation of the shrine and alleged attack on Legislative Assembly Deputy Speaker during his visit",
-      "lang": "en",
-      "title_en": "High Court disposes of PIL against construction of Ramalayam in Akiveedu",
-      "summary_en": "The issue made headlines following a confrontation between local groups over renovation of the shrine and alleged attack on Legislative Assembly Deputy Speaker during his visit",
-      "title": "High Court disposes of PIL against construction of Ramalayam in Akiveedu",
-      "summary": "The issue made headlines following a confrontation between local groups over renovation of the shrine and alleged attack on Legislative Assembly Deputy Speaker during his visit",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/high-court-disposes-of-pil-against-construction-of-ramalayam-in-akiveedu/article70921216.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-04-29T14:44:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -407,30 +938,12 @@
       "title": "Mystery ‘El Money’ figure offered to pay men to set fire to property linked to Starmer, court hears",
       "summary": "Three defendants deny plotting arson attack on two homes and a car connected to prime minister in London last year A series of arson attacks on property linked to Keir Starmer was masterminded by a Russian-speaking contact using the pseudonym “El Money”, a court has heard. Roman Lavrynovych, 22, and Petro Pochynok, 35, both from Ukraine, and Stanislav Carpiuc, 27, a Romanian national, sat with their heads bent towards interpreters as Duncan Atkinson KC, prosecuting, opened the trial over the arson attacks in May last year. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/apr/29/men-accused-arson-attacks-keir-starmer-london",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-04-29T14:38:42+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "27f090493b3c8d49",
-      "title_orig": "Three major London bridges placed on ‘critical’ list by TfL",
-      "summary_orig": "London's historic bridges are stunning, but they are a ticking time bomb for repairs.",
-      "lang": "en",
-      "title_en": "Three major London bridges placed on ‘critical’ list by TfL",
-      "summary_en": "London's historic bridges are stunning, but they are a ticking time bomb for repairs.",
-      "title": "Three major London bridges placed on ‘critical’ list by TfL",
-      "summary": "London's historic bridges are stunning, but they are a ticking time bomb for repairs.",
-      "url": "https://metro.co.uk/2026/04/29/three-major-london-bridges-placed-critical-list-tfl-28165352/",
-      "source": "Metro",
-      "published_at": "2026-04-29T14:34:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -596,24 +1109,6 @@
       "geo": {}
     },
     {
-      "id": "30387c7922f0c5a4",
-      "title_orig": "France urges citizens to leave Mali after rebel attacks",
-      "summary_orig": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
-      "lang": "en",
-      "title_en": "France urges citizens to leave Mali after rebel attacks",
-      "summary_en": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
-      "title": "France urges citizens to leave Mali after rebel attacks",
-      "summary": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
-      "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-04-29T14:18:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "37938008c0921bd3",
       "title_orig": "‘We saw terrible things’: Mali refugees tell of atrocities amid attacks",
       "summary_orig": "Thousands of Malians have been forced to flee their country as several groups, including the army, assault them.",
@@ -629,42 +1124,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "1427120bdc62fc9c",
-      "title_orig": "Martin Lewis urges travellers to make two 'crucial checks' before flying abroad",
-      "summary_orig": "Travellers risk being turned away at the airport otherwise",
-      "lang": "en",
-      "title_en": "Martin Lewis urges travellers to make two 'crucial checks' before flying abroad",
-      "summary_en": "Travellers risk being turned away at the airport otherwise",
-      "title": "Martin Lewis urges travellers to make two 'crucial checks' before flying abroad",
-      "summary": "Travellers risk being turned away at the airport otherwise",
-      "url": "https://www.birminghammail.co.uk/travel/martin-lewis-urges-travellers-make-33860131",
-      "source": "Birmingham Live - Home",
-      "published_at": "2026-04-29T14:11:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b7f081562944c3b0",
-      "title_orig": "Moment sex attacker calmly follows woman down street before brutal assault",
-      "summary_orig": "Arez Omer, 40, saw the woman walking home after a night out",
-      "lang": "en",
-      "title_en": "Moment sex attacker calmly follows woman down street before brutal assault",
-      "summary_en": "Arez Omer, 40, saw the woman walking home after a night out",
-      "title": "Moment sex attacker calmly follows woman down street before brutal assault",
-      "summary": "Arez Omer, 40, saw the woman walking home after a night out",
-      "url": "https://www.birminghammail.co.uk/black-country/moment-sex-attacker-calmly-follows-33859973",
-      "source": "Birmingham Live - Home",
-      "published_at": "2026-04-29T14:09:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -722,24 +1181,6 @@
       "geo": {}
     },
     {
-      "id": "7d33eb127352be38",
-      "title_orig": "'My husband had terminal cancer with no warning signs - what his death taught me'",
-      "summary_orig": "Jemma Hough, 42, said her husband Jon, 47, first attributed his devastating symptoms to middle age or food intolerances",
-      "lang": "en",
-      "title_en": "'My husband had terminal cancer with no warning signs - what his death taught me'",
-      "summary_en": "Jemma Hough, 42, said her husband Jon, 47, first attributed his devastating symptoms to middle age or food intolerances",
-      "title": "'My husband had terminal cancer with no warning signs - what his death taught me'",
-      "summary": "Jemma Hough, 42, said her husband Jon, 47, first attributed his devastating symptoms to middle age or food intolerances",
-      "url": "https://www.manchestereveningnews.co.uk/news/real-life/my-husband-terminal-cancer-no-33855914",
-      "source": "MEN - News",
-      "published_at": "2026-04-29T14:00:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "1f6526cd635dfad3",
       "title_orig": "5 Aerodynamic Advantages Of The B-2 Spirit For Long-Range Stealth Missions",
       "summary_orig": "The B-2 was designed as the world's first stealth strategic bomber and all aspects of its airframe and aerodynamic performance reflect this.",
@@ -751,24 +1192,6 @@
       "url": "https://simpleflying.com/5-aerodynamic-advantages-b-2-spirit-long-range-stealth-missions/",
       "source": "Simple Flying",
       "published_at": "2026-04-29T14:00:17+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2174b04d39d51d4c",
-      "title_orig": "Liverpool suffer Manchester United setback as 15-year-old strikes twice",
-      "summary_orig": "Liverpool were beaten at Manchester United in the U18 Premier League North on Wednesday afternoon",
-      "lang": "en",
-      "title_en": "Liverpool suffer Manchester United setback as 15-year-old strikes twice",
-      "summary_en": "Liverpool were beaten at Manchester United in the U18 Premier League North on Wednesday afternoon",
-      "title": "Liverpool suffer Manchester United setback as 15-year-old strikes twice",
-      "summary": "Liverpool were beaten at Manchester United in the U18 Premier League North on Wednesday afternoon",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-suffer-manchester-united-setback-33859756",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2026-04-29T13:57:29+00:00",
       "tags": [
         "airport/security"
       ],
@@ -866,24 +1289,6 @@
       "geo": {}
     },
     {
-      "id": "c2a1befa686331fc",
-      "title_orig": "Two stabbed in suspected antisemitic attack in north London",
-      "summary_orig": "Counter-terrorism police leading investigation as man arrested over attack in Golders Green Counter-terrorism detectives are leading an investigation after two Jewish men were stabbed and wounded in Golders Green, north London in a suspected antisemitic attack. The stabbings happened at about 11am on Wednesday and came after a series of arson attacks on Jewish targets in London, including two previous incidents in Golders Green. Continue reading...",
-      "lang": "en",
-      "title_en": "Two stabbed in suspected antisemitic attack in north London",
-      "summary_en": "Counter-terrorism police leading investigation as man arrested over attack in Golders Green Counter-terrorism detectives are leading an investigation after two Jewish men were stabbed and wounded in Golders Green, north London in a suspected antisemitic attack. The stabbings happened at about 11am on Wednesday and came after a series of arson attacks on Jewish targets in London, including two previous incidents in Golders Green. Continue reading...",
-      "title": "Two stabbed in suspected antisemitic attack in north London",
-      "summary": "Counter-terrorism police leading investigation as man arrested over attack in Golders Green Counter-terrorism detectives are leading an investigation after two Jewish men were stabbed and wounded in Golders Green, north London in a suspected antisemitic attack. The stabbings happened at about 11am on Wednesday and came after a series of arson attacks on Jewish targets in London, including two previous incidents in Golders Green. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/29/stabbing-golders-green-london",
-      "source": "World news | The Guardian",
-      "published_at": "2026-04-29T13:26:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "5076509446a0a4ad",
       "title_orig": "SC emphasises impartiality of electoral officers, says any deviation imperils democratic order itself",
       "summary_orig": "ISLAMABAD: The Supreme Court on Wednesday affirmed that the discharge of electoral duties demanded scrupulous adherence to the law, transparency in action, and an unwavering commitment to impartiality. “Any deviation from neutrality or departure from the statutory framework, during the election process, imperils not merely the outcome of a particular election, but the democratic order itself,” emphasised Justice Shakeel Ahmed. Justice Ahmed observed that “only through these principles public confidence in the electoral process is sustained and the sovereign will of the electorate is preserved”. Justice Ahmed was a member of the three-judge bench that overturned the Nov 24, 2025 Balochistan Election Tribunal’s ruling and had ordered the Election Commission of Pakistan (ECP) to notify Pakhtunkhwa National Awami Party’s (PNAP) Khushal Khan Kakar as the returned candidate from NA-251 (Sherani-cum-Zhob-cum-Killa Saifullah) for the February 8, 2024 general election. Headed by Justice Shahid Waheed, the court had taken up a set of appeals moved by Kakar and his opponent, Syed Samiullah, of the Jamiat Ulema-i-Islam. The controversy arose after the 2024 general election, where respondent Samiullah was initially declared the returned candidate by the ECP on Feb 18, having secured 46,210 votes against the appellant’s 46,117 votes. Challenging this notification, Kakar filed an election petition before the Election Tribunal, which was partly allowed. The tribunal directed the ECP to carry out repolling at 22 disputed stations and declared the election of the returned candidate void. In his detailed reasons, Justice Ahmad observed that the electoral functionaries are trustees of the people’s mandate and custodians of the integrity of the electoral process. He explained that Form-45 constitutes a primary and contemporaneous record of votes counted at each polling station and is prepared immediately after completion of the counting process, in the presence of candidates or their duly authorised agents, and, therefore, carried statutory sanctity. Form-48, by contrast, is merely a consolidated statement derived from the Forms-45, the judgment said, adding the returning officer (RO) exercises no adjudicatory authority to vary, substitute or recompute the result recorded in Forms-45, except to correct patent clerical mistakes apparent on the face of the record and strictly in accordance with law. “The RO is bound to strict statutory duties, including neutral and transparent conduct of the election,” the judgment said, adding the RO must act as an impartial officer responsible for maintaining the integrity of the electoral process. Justice Ahmad emphasised that RO must simply compile the result from Forms-45 into Form-48, but “cannot modify or alter the votes unless ordered or an obvious clerical or arithmetical mistake was discovered and corrected transparently in accordance with law”. “The RO must also ensure that the record accurately reflects the votes polled”, the judgment said, adding: “If the RO deducts votes from a candidate and adds them to another without lawful authority, the act constitutes tampering with election results, abuse of statutory process and violation of election laws.” Such conduct has “materially affects the election results and undermined the democratic process”, Justice Ahmad regretted. The discrepancy between Forms-45 and Forms-48, in the present case, indicates a serious irregularity. By reducing the votes of the appellant and adding them to his rival/the respondent, the RO appears to have exceeded his statutory powers and possibly acted with malafide intent, Justice Ahmad regretted. Such an alteration, which completely reversed the election results, materially affects the outcome of the elections and undermines the integrity of the electoral process, he said. Justice Ahmed further said that the controversy brought before the SC strikes at the very heart of Constitutional democracy and the sanctity of the ballot. In a constitutional order founded upon representative governance, the legitimacy of public institutions ultimately rests upon the integrity, transparency and credibility of the electoral process. Where doubts arose, whether the will of the electorate, as expressed at the polling stations, has been faithfully carried through the statutory process of consolidation, the matter assumes significance beyond the fortunes of individual candidates, he said. Justice Ahmad reminded that Article 218(3) of the Constitution enjoins upon ECP the solemn and non-negotiable duty to organise and conduct elections honestly, justly and fairly, and to vigilantly guard against corrupt practices. “This constitutional command is not directory, but mandatory. Any manipulation at the stage of vote consolidation erodes democratic legitimacy and shakes the foundations of the people’s mandate,” he said. An administrative officer cannot be allowed to substitute his arithmetic for the sovereign will of the electorate. Where the true count of votes is evident from uncontroverted Forms-45, duly acknowledged by ECP, no shadow can be cast upon their authenticity, Justice Ahmad said. He also emphasised that the SC was not powerless; where the evidence conclusively demonstrates that the appellant secured a lawful majority, the proper course was not to direct a re-poll, but to declare the appellant duly elected. “The law neither condones manipulation nor permits its fruits to endure. Tampering at the consolidation stage by the RO is even more perilous than irregularities at the polling station,” Justice Ahmad emphasised.",
@@ -935,6 +1340,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "af33828657f7f5d6",
+      "title_orig": "Hundreds march in Johannesburg against illegal migration as shops shut over looting fears",
+      "summary_orig": "Hundreds of South Africans have protested in Johannesburg against illegal migration.",
+      "lang": "en",
+      "title_en": "Hundreds march in Johannesburg against illegal migration as shops shut over looting fears",
+      "summary_en": "Hundreds of South Africans have protested in Johannesburg against illegal migration.",
+      "title": "Hundreds march in Johannesburg against illegal migration as shops shut over looting fears",
+      "summary": "Hundreds of South Africans have protested in Johannesburg against illegal migration.",
+      "url": "https://www.seattletimes.com/nation-world/hundreds-march-in-johannesburg-against-illegal-migration-as-shops-shut-over-looting-fears/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-04-29T13:17:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -1118,24 +1541,6 @@
       "geo": {}
     },
     {
-      "id": "e42f1eb1a44fb056",
-      "title_orig": "Two Jewish men stabbed in north London terrorist incident",
-      "summary_orig": "A 45-year-old man has been arrested on suspicion of attempted murder.",
-      "lang": "en",
-      "title_en": "Two Jewish men stabbed in north London terrorist incident",
-      "summary_en": "A 45-year-old man has been arrested on suspicion of attempted murder.",
-      "title": "Two Jewish men stabbed in north London terrorist incident",
-      "summary": "A 45-year-old man has been arrested on suspicion of attempted murder.",
-      "url": "https://www.politico.eu/article/two-jewish-men-stabbed-uk-north-london/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "source": "POLITICO",
-      "published_at": "2026-04-29T12:36:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7be860ede04d09ea",
       "title_orig": "Trial date move for Derbyshire footballer charged with pub attack",
       "summary_orig": "Ryan Colclough made 100 appearances for Chesterfield between 2023 and 2025",
@@ -1244,24 +1649,6 @@
       "geo": {}
     },
     {
-      "id": "7d39750cc03905f0",
-      "title_orig": "London police say stabbing of 2 Jewish men is declared a terrorist incident",
-      "summary_orig": "The incident follows a series of arson attacks in recent weeks targeting Jewish sites in London, including a synagogue and a charity’s ambulances.",
-      "lang": "en",
-      "title_en": "London police say stabbing of 2 Jewish men is declared a terrorist incident",
-      "summary_en": "The incident follows a series of arson attacks in recent weeks targeting Jewish sites in London, including a synagogue and a charity’s ambulances.",
-      "title": "London police say stabbing of 2 Jewish men is declared a terrorist incident",
-      "summary": "The incident follows a series of arson attacks in recent weeks targeting Jewish sites in London, including a synagogue and a charity’s ambulances.",
-      "url": "https://www.stuff.co.nz/world-news/360972096/community-groups-say-2-stabbed-jewish-neighborhood-l",
-      "source": "Stuff - /",
-      "published_at": "2026-04-29T12:01:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4ac441bbb3df931b",
       "title_orig": "Lib Dems push for ban on MPs taking money from X, citing Maga threat",
       "summary_orig": "Ed Davey attacks Reform calling it ‘Maga franchise’ and says Elon Musk funnels far-right ideas into UK via X UK politics live – latest updates The Liberal Democrats are pushing for a ban on MPs accepting payments from X as part of a proposed wider crackdown on what Ed Davey will call a “serious threat” to UK democracy from Donald Trump’s US and other countries. Announcing the plan on Tuesday, the Lib Dem leader renewed his attacks on Reform UK – a series of whose MPs have taken money from X – calling it “a franchise of Maga politics” rather than a British political entity. Continue reading...",
@@ -1316,24 +1703,6 @@
       "geo": {}
     },
     {
-      "id": "493767e84507cdec",
-      "title_orig": "Russian-speaker known as 'El Money' 'offered men cash for arson attack on Prime Minister's homes'",
-      "summary_orig": "Three Ukrainian nationals are standing trial at the Old Bailey over the alleged attacks",
-      "lang": "en",
-      "title_en": "Russian-speaker known as 'El Money' 'offered men cash for arson attack on Prime Minister's homes'",
-      "summary_en": "Three Ukrainian nationals are standing trial at the Old Bailey over the alleged attacks",
-      "title": "Russian-speaker known as 'El Money' 'offered men cash for arson attack on Prime Minister's homes'",
-      "summary": "Three Ukrainian nationals are standing trial at the Old Bailey over the alleged attacks",
-      "url": "https://www.standard.co.uk/news/politics/russian-el-money-arson-prime-minister-keir-starmer-home-b1280387.html",
-      "source": "The Standard News",
-      "published_at": "2026-04-29T11:49:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5e161f6de527ee1f",
       "title_orig": "Mali's Tuareg rebels vow regime 'will fall', urge Russian forces to withdraw",
       "summary_orig": "A spokesperson for Mali's Tuareg rebel group Azawad Liberation Front pledged on Wednesday that the country's ruling junta \"will fall\" and said the group wanted to see Russian forces withdraw \"from all of Mali\" after weekend attacks by Islamist insurgents and Tuareg separatists targeting major cities.",
@@ -1363,24 +1732,6 @@
       "url": "https://www.standard.co.uk/news/uk/jewish-north-west-london-shomrim-chris-philp-police-b1280394.html",
       "source": "The Standard News",
       "published_at": "2026-04-29T11:47:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c37cf32213c31ffd",
-      "title_orig": "Golders Green attack declared terrorist incident after two Jewish men stabbed in London",
-      "summary_orig": "\"Yet another appalling antisemitic attack\"",
-      "lang": "en",
-      "title_en": "Golders Green attack declared terrorist incident after two Jewish men stabbed in London",
-      "summary_en": "\"Yet another appalling antisemitic attack\"",
-      "title": "Golders Green attack declared terrorist incident after two Jewish men stabbed in London",
-      "summary": "\"Yet another appalling antisemitic attack\"",
-      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/golders-green-stabbing-man-tasered-33858796",
-      "source": "MEN - News",
-      "published_at": "2026-04-29T11:46:13+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1442,17 +1793,17 @@
       "geo": {}
     },
     {
-      "id": "d2ef79d2bb15e859",
-      "title_orig": "Another Russian oil facility burns after Zelenskyy touts Ukraine’s drone reach",
-      "summary_orig": "Russian officials have not been forthcoming about Ukrainian claims that Kyiv is carrying out more long-range attacks and that its domestically developed drones are increasingly accurate.",
+      "id": "6efec2031cbe2d17",
+      "title_orig": "Two Jewish men stabbed in London, police treat attack as terrorism",
+      "summary_orig": "A man was seen running with a knife and attempting to stab Jewish members of the public.",
       "lang": "en",
-      "title_en": "Another Russian oil facility burns after Zelenskyy touts Ukraine’s drone reach",
-      "summary_en": "Russian officials have not been forthcoming about Ukrainian claims that Kyiv is carrying out more long-range attacks and that its domestically developed drones are increasingly accurate.",
-      "title": "Another Russian oil facility burns after Zelenskyy touts Ukraine’s drone reach",
-      "summary": "Russian officials have not been forthcoming about Ukrainian claims that Kyiv is carrying out more long-range attacks and that its domestically developed drones are increasingly accurate.",
-      "url": "https://www.stuff.co.nz/world-news/360972089/another-russian-oil-facility-burns-after-zelenskyy-touts-ukr",
-      "source": "Stuff - /",
-      "published_at": "2026-04-29T11:37:37+00:00",
+      "title_en": "Two Jewish men stabbed in London, police treat attack as terrorism",
+      "summary_en": "A man was seen running with a knife and attempting to stab Jewish members of the public.",
+      "title": "Two Jewish men stabbed in London, police treat attack as terrorism",
+      "summary": "A man was seen running with a knife and attempting to stab Jewish members of the public.",
+      "url": "https://www.straitstimes.com/world/europe/uk-police-arrest-man-after-two-people-stabbed-in-jewish-area-of-london-security-group-says",
+      "source": "The Straits Times World News",
+      "published_at": "2026-04-29T11:33:12+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1583,24 +1934,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "60a24f7cb108f0b6",
-      "title_orig": "Trial Begins for 3 Men Accused of Arson Attacks at Starmer’s Homes",
-      "summary_orig": "Two Ukrainians and a Romanian were charged last year with setting fire to two buildings and a car linked to Prime Minister Keir Starmer of Britain.",
-      "lang": "en",
-      "title_en": "Trial Begins for 3 Men Accused of Arson Attacks at Starmer’s Homes",
-      "summary_en": "Two Ukrainians and a Romanian were charged last year with setting fire to two buildings and a car linked to Prime Minister Keir Starmer of Britain.",
-      "title": "Trial Begins for 3 Men Accused of Arson Attacks at Starmer’s Homes",
-      "summary": "Two Ukrainians and a Romanian were charged last year with setting fire to two buildings and a car linked to Prime Minister Keir Starmer of Britain.",
-      "url": "https://www.nytimes.com/2026/04/29/world/europe/arson-keir-starmer-homes.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-29T10:58:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1829,24 +2162,6 @@
       "geo": {}
     },
     {
-      "id": "dbec16f307c4bfd3",
-      "title_orig": "What next for Mali's military leaders after shock of rebel offensive?",
-      "summary_orig": "The military came to power to bolster security but the weekend's attacks have brought that into question.",
-      "lang": "en",
-      "title_en": "What next for Mali's military leaders after shock of rebel offensive?",
-      "summary_en": "The military came to power to bolster security but the weekend's attacks have brought that into question.",
-      "title": "What next for Mali's military leaders after shock of rebel offensive?",
-      "summary": "The military came to power to bolster security but the weekend's attacks have brought that into question.",
-      "url": "https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-04-29T09:03:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "973155db8ffc68de",
       "title_orig": "'UP was known for potholes, now has 21 airports: PM Modi slams SP, Congress in Hardoi",
       "summary_orig": "Earlier today, Prime Minister Modi inaugurated the Ganga Expressway in Uttar Pradesh's Hardoi district, built at a total cost of around  ₹36,230 crore.",
@@ -1876,24 +2191,6 @@
       "url": "https://www.thelocal.es/20260429/ryanair-threatens-to-pull-out-of-spains-zaragoza-as-it-cuts-flights",
       "source": "The Local Spain",
       "published_at": "2026-04-29T08:56:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cba29198cff625d3",
-      "title_orig": "France urges citizens to leave Mali 'as soon as possible' amid security risks",
-      "summary_orig": "PARIS, April 29 - France has urged its nationals in Mali to leave \\\"as soon as possible\\\" following coordinated attacks at the weekend, including in the capital Bamako, a travel advice update for the West African country said.",
-      "lang": "en",
-      "title_en": "France urges citizens to leave Mali 'as soon as possible' amid security risks",
-      "summary_en": "PARIS, April 29 - France has urged its nationals in Mali to leave \\\"as soon as possible\\\" following coordinated attacks at the weekend, including in the capital Bamako, a travel advice update for the West African country said.",
-      "title": "France urges citizens to leave Mali 'as soon as possible' amid security risks",
-      "summary": "PARIS, April 29 - France has urged its nationals in Mali to leave \\\"as soon as possible\\\" following coordinated attacks at the weekend, including in the capital Bamako, a travel advice update for the West African country said.",
-      "url": "https://www.straitstimes.com/world/europe/france-urges-citizens-to-leave-mali-as-soon-as-possible-amid-security-risks",
-      "source": "The Straits Times World News",
-      "published_at": "2026-04-29T08:53:24+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1991,24 +2288,6 @@
       "geo": {}
     },
     {
-      "id": "3274d599bd25c447",
-      "title_orig": "Russia attacks port infrastructure in Ukraine's south, hits hospital",
-      "summary_orig": "April 29 - Russia has attacked port infrastructure in Ukraine's southern Odesa region with drones in overnight strikes that also damaged residential buildings and a hospital and left two people wounded, Ukrainian officials said on Wednesday.",
-      "lang": "en",
-      "title_en": "Russia attacks port infrastructure in Ukraine's south, hits hospital",
-      "summary_en": "April 29 - Russia has attacked port infrastructure in Ukraine's southern Odesa region with drones in overnight strikes that also damaged residential buildings and a hospital and left two people wounded, Ukrainian officials said on Wednesday.",
-      "title": "Russia attacks port infrastructure in Ukraine's south, hits hospital",
-      "summary": "April 29 - Russia has attacked port infrastructure in Ukraine's southern Odesa region with drones in overnight strikes that also damaged residential buildings and a hospital and left two people wounded, Ukrainian officials said on Wednesday.",
-      "url": "https://www.straitstimes.com/world/europe/russia-attacks-port-infrastructure-in-ukraines-south-hits-hospital",
-      "source": "The Straits Times World News",
-      "published_at": "2026-04-29T07:43:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f33ad5c933a99d16",
       "title_orig": "Acid attack in Indonesia evokes brutality of Suharto era",
       "summary_orig": "The brutal ambush of an outspoken military critic led to four arrests, but activists say that more were involved.",
@@ -2070,24 +2349,6 @@
         "lat": 13.69,
         "lon": 100.7501
       }
-    },
-    {
-      "id": "0cdfbfdbc85472e7",
-      "title_orig": "US embassy congratulates Iraq’s PM-designate, says it hopes for peaceful future",
-      "summary_orig": "Iraq’s new Premier is expected to address Washington’s demand that Baghdad disarm Iran-backed groups.",
-      "lang": "en",
-      "title_en": "US embassy congratulates Iraq’s PM-designate, says it hopes for peaceful future",
-      "summary_en": "Iraq’s new Premier is expected to address Washington’s demand that Baghdad disarm Iran-backed groups.",
-      "title": "US embassy congratulates Iraq’s PM-designate, says it hopes for peaceful future",
-      "summary": "Iraq’s new Premier is expected to address Washington’s demand that Baghdad disarm Iran-backed groups.",
-      "url": "https://www.straitstimes.com/world/middle-east/us-embassy-congratulates-iraqs-pm-designate-says-hopes-for-peaceful-future",
-      "source": "The Straits Times World News",
-      "published_at": "2026-04-29T07:20:00+00:00",
-      "tags": [
-        "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "93f609695d141fe8",
@@ -2195,24 +2456,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "d0ef4e3daa95f98a",
-      "title_orig": "Anxiety, resentment around AI spur violence against tech’s figureheads",
-      "summary_orig": "The attacks against AI figureheads have no demonstrable ties to one another.",
-      "lang": "en",
-      "title_en": "Anxiety, resentment around AI spur violence against tech’s figureheads",
-      "summary_en": "The attacks against AI figureheads have no demonstrable ties to one another.",
-      "title": "Anxiety, resentment around AI spur violence against tech’s figureheads",
-      "summary": "The attacks against AI figureheads have no demonstrable ties to one another.",
-      "url": "https://www.straitstimes.com/world/anxiety-resentment-around-ai-spur-violence-against-techs-figureheads",
-      "source": "The Straits Times World News",
-      "published_at": "2026-04-29T06:46:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2549,24 +2792,6 @@
       "geo": {}
     },
     {
-      "id": "352c2e2896a27e6a",
-      "title_orig": "Southern California woman fears her missing mastiff was attacked, taken by mountain lion",
-      "summary_orig": "A missing dog and a trail of blood has residents in the San Bernardino County foothills fearing another possible mountain lion attack after two dogs were killed earlier this month in a neighboring community. \"We see a lot of bears, a lot of coyotes, we see a lot of deers,\" said 17-year-old Gianna Sedillo, who [...]",
-      "lang": "en",
-      "title_en": "Southern California woman fears her missing mastiff was attacked, taken by mountain lion",
-      "summary_en": "A missing dog and a trail of blood has residents in the San Bernardino County foothills fearing another possible mountain lion attack after two dogs were killed earlier this month in a neighboring community. \"We see a lot of bears, a lot of coyotes, we see a lot of deers,\" said 17-year-old Gianna Sedillo, who [...]",
-      "title": "Southern California woman fears her missing mastiff was attacked, taken by mountain lion",
-      "summary": "A missing dog and a trail of blood has residents in the San Bernardino County foothills fearing another possible mountain lion attack after two dogs were killed earlier this month in a neighboring community. \"We see a lot of bears, a lot of coyotes, we see a lot of deers,\" said 17-year-old Gianna Sedillo, who [...]",
-      "url": "https://ktla.com/news/inland-empire/southern-california-woman-fears-missing-mastiff-was-attacked-mountain-lion/",
-      "source": "KTLA",
-      "published_at": "2026-04-28T23:58:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "74d84fe6dfdd149e",
       "title_orig": "Evacuation, shelter-in-place orders lifted after brush fire erupts in Fallbrook",
       "summary_orig": "FALLBROOK, Calif. (FOX 5/KUSI) -- A vegetation fire erupted in Fallbrook Tuesday afternoon, prompting evacuation and shelter-in-place orders in nearby communities. The fire, dubbed the Live Oak Fire, sparked near Live Oak Park Road and Gum Tree Lane in Fallbrook around 4:23 p.m. Evacuation orders were issued for the area near Gum Tree Lane. The [...]",
@@ -2711,24 +2936,6 @@
       "geo": {}
     },
     {
-      "id": "d5ab835f3e264e41",
-      "title_orig": "ICE agent who fatally shot Renee Good has moved state and resumed work, report says",
-      "summary_orig": "Ross was captured on camera firing several shots through the windshield of Good’s vehicle as she tried to leave the area on January 7, an incident that caused widespread protests in Minneapolis and the surrounding areas",
-      "lang": "en",
-      "title_en": "ICE agent who fatally shot Renee Good has moved state and resumed work, report says",
-      "summary_en": "Ross was captured on camera firing several shots through the windshield of Good’s vehicle as she tried to leave the area on January 7, an incident that caused widespread protests in Minneapolis and the surrounding areas",
-      "title": "ICE agent who fatally shot Renee Good has moved state and resumed work, report says",
-      "summary": "Ross was captured on camera firing several shots through the windshield of Good’s vehicle as she tried to leave the area on January 7, an incident that caused widespread protests in Minneapolis and the surrounding areas",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/jonathan-ross-shooting-renee-good-minneapolis-b2966686.html",
-      "source": "The Independent World",
-      "published_at": "2026-04-28T19:02:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "f940c481ce5db5a8",
       "title_orig": "How the UAE’s decision to leave Opec could recast the Middle East",
       "summary_orig": "Defection is damaging to Saudi Arabia’s prestige – and could strengthen the US hand in the region The United Arab Emirates’ decision to walk out of Opec is a political as much as business decision, and will reignite the simmering rows between the UAE and Saudi Arabia – which had been covered up by their shared anger with Iran over its attacks on the Gulf states since the start of the US-Israel war on Tehran. In the short term, leaving the oil producing cartel it joined in 1967 gives the UAE the freedom to respond quickly to a long-term prospect of constrained supplies, and to maximise profit. But it is a decision the UAE has considered before, as UAE and Saudi tensions over production quotas have been longstanding. Continue reading...",
@@ -2758,24 +2965,6 @@
       "url": "https://runwaygirlnetwork.com/2026/04/diehl-space%c2%b3-lav-to-enter-service-this-year-narrowbody-version-underway/",
       "source": "Runway Girl",
       "published_at": "2026-04-28T17:55:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e434c1c9e1647cf0",
-      "title_orig": "Amplified false narrative was used to attack Garda member after Whitegate, officers say",
-      "summary_orig": "Peter Firth of the GRA has outlined how one of his colleagues became the victim of an international hate campaign.",
-      "lang": "en",
-      "title_en": "Amplified false narrative was used to attack Garda member after Whitegate, officers say",
-      "summary_en": "Peter Firth of the GRA has outlined how one of his colleagues became the victim of an international hate campaign.",
-      "title": "Amplified false narrative was used to attack Garda member after Whitegate, officers say",
-      "summary": "Peter Firth of the GRA has outlined how one of his colleagues became the victim of an international hate campaign.",
-      "url": "https://www.thejournal.ie/whitegate-doxxing-disinformation-online-abuse-gardai-7022444-Apr2026/",
-      "source": "TheJournal.ie",
-      "published_at": "2026-04-28T17:14:43+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2837,24 +3026,6 @@
       "geo": {}
     },
     {
-      "id": "243e42f7746fba33",
-      "title_orig": "Memorial wall in Golders Green targeted in suspected arson attack",
-      "summary_orig": "While counter-terrorism police are leading the investigation, the incident is not being treated as terrorism.",
-      "lang": "en",
-      "title_en": "Memorial wall in Golders Green targeted in suspected arson attack",
-      "summary_en": "While counter-terrorism police are leading the investigation, the incident is not being treated as terrorism.",
-      "title": "Memorial wall in Golders Green targeted in suspected arson attack",
-      "summary": "While counter-terrorism police are leading the investigation, the incident is not being treated as terrorism.",
-      "url": "https://www.standard.co.uk/news/uk/metropolitan-police-golders-green-jewish-iran-met-b1280276.html",
-      "source": "The Standard News",
-      "published_at": "2026-04-28T16:19:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "0f85e7c7d4130451",
       "title_orig": "Should you stay together for the kids?",
       "summary_orig": "There are many reasons people stay in relationships that are terminally strained or miserable. But top of the list (aside from money) are the kids.",
@@ -2888,24 +3059,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "517b096fc653c96a",
-      "title_orig": "Crazed thug stabbed binman then drove motorbike at police officer slashing at him with machete",
-      "summary_orig": "Man attacked refuse worker with screwdriver and then tried to stab police officer with two-and-half-foot machete.",
-      "lang": "en",
-      "title_en": "Crazed thug stabbed binman then drove motorbike at police officer slashing at him with machete",
-      "summary_en": "Man attacked refuse worker with screwdriver and then tried to stab police officer with two-and-half-foot machete.",
-      "title": "Crazed thug stabbed binman then drove motorbike at police officer slashing at him with machete",
-      "summary": "Man attacked refuse worker with screwdriver and then tried to stab police officer with two-and-half-foot machete.",
-      "url": "https://www.yorkshireeveningpost.co.uk/news/crime/crazed-biker-thug-stabbed-binman-then-slashed-at-officer-with-machete-7825395",
-      "source": "Yorkshire Evening Post",
-      "published_at": "2026-04-28T15:33:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2960,24 +3113,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "5b6c5417939ad675",
-      "title_orig": "Grandad helped murder accused 'off the ground' moments before alleged pub attack",
-      "summary_orig": "Nathan Gothard had reportedly been making lewd comments to women in the build-up to the incident",
-      "lang": "en",
-      "title_en": "Grandad helped murder accused 'off the ground' moments before alleged pub attack",
-      "summary_en": "Nathan Gothard had reportedly been making lewd comments to women in the build-up to the incident",
-      "title": "Grandad helped murder accused 'off the ground' moments before alleged pub attack",
-      "summary": "Nathan Gothard had reportedly been making lewd comments to women in the build-up to the incident",
-      "url": "https://www.leicestermercury.co.uk/news/local-news/grandad-helped-murder-accused-off-10938926",
-      "source": "Leicestershire Live - frontpage",
-      "published_at": "2026-04-28T11:21:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -3458,42 +3593,6 @@
       "geo": {}
     },
     {
-      "id": "9cc4a071066cb305",
-      "title_orig": "New IRA suspected in car bomb blast outside Northern Ireland police station",
-      "summary_orig": "Police probe a car bomb outside Dunmurry station near Belfast, with two minors evacuated and the New IRA suspected of the overnight attack.",
-      "lang": "en",
-      "title_en": "New IRA suspected in car bomb blast outside Northern Ireland police station",
-      "summary_en": "Police probe a car bomb outside Dunmurry station near Belfast, with two minors evacuated and the New IRA suspected of the overnight attack.",
-      "title": "New IRA suspected in car bomb blast outside Northern Ireland police station",
-      "summary": "Police probe a car bomb outside Dunmurry station near Belfast, with two minors evacuated and the New IRA suspected of the overnight attack.",
-      "url": "http://www.euronews.com/2026/04/27/police-in-northern-ireland-suspect-dissident-republicans-in-latest-car-bombing-attack",
-      "source": "News | Euronews RSS",
-      "published_at": "2026-04-27T07:01:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "c69a7a8902abec8a",
-      "title_orig": "U.S. Military Strikes Another Boat in Eastern Pacific, Killing 3",
-      "summary_orig": "The United States has carried out dozens of boat strikes since September against people the Trump administration accuses of smuggling drugs.",
-      "lang": "en",
-      "title_en": "U.S. Military Strikes Another Boat in Eastern Pacific, Killing 3",
-      "summary_en": "The United States has carried out dozens of boat strikes since September against people the Trump administration accuses of smuggling drugs.",
-      "title": "U.S. Military Strikes Another Boat in Eastern Pacific, Killing 3",
-      "summary": "The United States has carried out dozens of boat strikes since September against people the Trump administration accuses of smuggling drugs.",
-      "url": "https://www.nytimes.com/2026/04/27/world/americas/us-military-boat-strike-pacific-drugs.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-27T04:54:56+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "4c9e6dd643b36a4f",
       "title_orig": "D.C. gala gunman wrote 'manifesto,' traveled from California before attack, officials say",
       "summary_orig": "The man accused of breaching security to attack a Washington press gala wrote an anti-Trump \"manifesto\" and traveled from California, officials said.",
@@ -3748,24 +3847,6 @@
       "url": "https://runwaygirlnetwork.com/2026/04/gilat-confident-on-entering-airbus-catalog-as-airframer-goes-modular/",
       "source": "Runway Girl",
       "published_at": "2026-04-23T15:38:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "fbbc7fdf34e910b3",
-      "title_orig": "Press Release: American and TSA expand TSA PreCheck Touchless ID",
-      "summary_orig": "American Airlines, in partnership with the Transportation Security Administration (TSA), today announced TSA PreCheck Touchless ID is available at all of American’s hub airports, giving eligible AAdvantage® members a more streamlined, touchless experience at TSA security checkpoints. Customers traveling through Charlotte (CLT), Chicago (ORD), Dallas-Fort Worth (DFW), Los Angeles (LAX), Miami (MIA), New York (JFK and... The post Press Release: American and TSA expand TSA PreCheck Touchless ID appeared first on Runway Girl .",
-      "lang": "en",
-      "title_en": "Press Release: American and TSA expand TSA PreCheck Touchless ID",
-      "summary_en": "American Airlines, in partnership with the Transportation Security Administration (TSA), today announced TSA PreCheck Touchless ID is available at all of American’s hub airports, giving eligible AAdvantage® members a more streamlined, touchless experience at TSA security checkpoints. Customers traveling through Charlotte (CLT), Chicago (ORD), Dallas-Fort Worth (DFW), Los Angeles (LAX), Miami (MIA), New York (JFK and... The post Press Release: American and TSA expand TSA PreCheck Touchless ID appeared first on Runway Girl .",
-      "title": "Press Release: American and TSA expand TSA PreCheck Touchless ID",
-      "summary": "American Airlines, in partnership with the Transportation Security Administration (TSA), today announced TSA PreCheck Touchless ID is available at all of American’s hub airports, giving eligible AAdvantage® members a more streamlined, touchless experience at TSA security checkpoints. Customers traveling through Charlotte (CLT), Chicago (ORD), Dallas-Fort Worth (DFW), Los Angeles (LAX), Miami (MIA), New York (JFK and... The post Press Release: American and TSA expand TSA PreCheck Touchless ID appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2026/04/american-airlines-tsa-precheck-touchless-id/",
-      "source": "Runway Girl",
-      "published_at": "2026-04-22T17:30:08+00:00",
       "tags": [
         "airport/security"
       ],
