@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T08:27:07.326591+00:00",
+  "generated_at": "2026-05-04T10:36:42.528131+00:00",
   "items": [
     {
       "id": "1b955375bf0d89d7",
@@ -12,7 +12,7 @@
       "summary": "On the quiet morning of March 20 at Incheon International Airport, the head of a government agency responsible for administering industrial accident insurance stood before a memorial adorned with flowers and a photo of Nguyen Van Tuan, a 23-year-old Vietnamese worker who died 10 days earlier in a conveyor belt accident at a gravel factory in Icheon, Gyeonggi Province. As president of the Korea Workers’ Compensation and Welfare Service (K-COMWEL), Park Jong-kil bowed deeply, offered flowers and placed his hand on the shoulder of Tuan’s friend who was there to escort his remains home. In halting words bridged by interpreters, Park delivered a letter expressing gratitude for Tuan’s contributions to Korea and offering sympathy. “The language was different, but the grief was the same,” he recalled in an interview at the agency’s Seoul office on April 23, ahead of Industrial Accident Workers’ Memorial Week (April 28-May 4). That airport farewell marked the debut of the country’s first pilot scheme expanding funeral support for deceased foreign workers, a benefit the agency is",
       "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260504/new-korean-initiative-honors-foreign-workers-killed-on-job?utm_source=rss",
       "source": "Korea Times News",
-      "published_at": "2026-05-04T08:22:03+00:00",
+      "published_at": "2026-05-04T10:27:03+00:00",
       "tags": [
         "ICN",
         "South Korea",
@@ -29,6 +29,105 @@
       }
     },
     {
+      "id": "e3328e843095df4b",
+      "title_orig": "Model has part of skull removed after attack from partner",
+      "summary_orig": "The model went on TV four months ago to reveal the horrors of her injuries.",
+      "lang": "en",
+      "title_en": "Model has part of skull removed after attack from partner",
+      "summary_en": "The model went on TV four months ago to reveal the horrors of her injuries.",
+      "title": "Model has part of skull removed after attack from partner",
+      "summary": "The model went on TV four months ago to reveal the horrors of her injuries.",
+      "url": "https://metro.co.uk/2026/05/04/model-part-skull-removed-attack-partner-28227496/",
+      "source": "Metro",
+      "published_at": "2026-05-04T10:16:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "04c27b95c9867311",
+      "title_orig": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+      "summary_orig": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.",
+      "lang": "en",
+      "title_en": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+      "summary_en": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.",
+      "title": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+      "summary": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.",
+      "url": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-04T10:08:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "05428153c7f8741c",
+      "title_orig": "Russian missile attack kills five in Ukraine's Kharkiv region, officials say",
+      "summary_orig": "May 4 - A Russian missile attack on the town of Merefa, in Ukraine's northeastern Kharkiv region, killed five people and wounded several others, Ukrainian officials said on Monday.",
+      "lang": "en",
+      "title_en": "Russian missile attack kills five in Ukraine's Kharkiv region, officials say",
+      "summary_en": "May 4 - A Russian missile attack on the town of Merefa, in Ukraine's northeastern Kharkiv region, killed five people and wounded several others, Ukrainian officials said on Monday.",
+      "title": "Russian missile attack kills five in Ukraine's Kharkiv region, officials say",
+      "summary": "May 4 - A Russian missile attack on the town of Merefa, in Ukraine's northeastern Kharkiv region, killed five people and wounded several others, Ukrainian officials said on Monday.",
+      "url": "https://www.straitstimes.com/world/europe/russian-missile-attack-kills-five-in-ukraines-kharkiv-region-officials-say",
+      "source": "The Straits Times World News",
+      "published_at": "2026-05-04T10:04:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ba4b465e812ae67b",
+      "title_orig": "Plane hits light pole on NJ Turnpike, damages delivery truck",
+      "summary_orig": "The United Airlines passenger jet was coming in for a landing at Newark airport.",
+      "lang": "en",
+      "title_en": "Plane hits light pole on NJ Turnpike, damages delivery truck",
+      "summary_en": "The United Airlines passenger jet was coming in for a landing at Newark airport.",
+      "title": "Plane hits light pole on NJ Turnpike, damages delivery truck",
+      "summary": "The United Airlines passenger jet was coming in for a landing at Newark airport.",
+      "url": "https://www.syracuse.com/us-news/2026/05/plane-hits-light-pole-on-nj-turnpike-damages-delivery-truck.html",
+      "source": "syracuse.com",
+      "published_at": "2026-05-04T10:03:26+00:00",
+      "tags": [
+        "EWR",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Newark Liberty",
+        "city": "Newark",
+        "country": "United States",
+        "iata": "EWR",
+        "lat": 40.6895,
+        "lon": -74.1745
+      }
+    },
+    {
+      "id": "5eb3904f5a81f12e",
+      "title_orig": "Inside Israel's AI targeting system: How data from a phone become a death sentence",
+      "summary_orig": "The Israeli military has used a targeting system powered by artificial intelligence to launch what it says are attacks on Hezbollah in Lebanon.",
+      "lang": "en",
+      "title_en": "Inside Israel's AI targeting system: How data from a phone become a death sentence",
+      "summary_en": "The Israeli military has used a targeting system powered by artificial intelligence to launch what it says are attacks on Hezbollah in Lebanon.",
+      "title": "Inside Israel's AI targeting system: How data from a phone become a death sentence",
+      "summary": "The Israeli military has used a targeting system powered by artificial intelligence to launch what it says are attacks on Hezbollah in Lebanon.",
+      "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+      "source": "World & Nation",
+      "published_at": "2026-05-04T10:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "0e256ec5ad19dcf3",
       "title_orig": "Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships",
       "summary_orig": "Iranian military says it will ‘respond harshly’ to any threat after Trump warns that interference with US operation in Hormuz will be ‘dealt with forcefully’ Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran We have a bit more of the statement from Maj Gen Ali Abdollahi, the commander of Iran’s Khatam al-Anbiya central headquarters, who said earlier that the US or any other foreign armed forces would be attacked if they entered the strait of Hormuz (see post at 07.39 for more details). Abdollahi also said: We will maintain and vigorously manage the security of the strait of Hormuz with all our might, and we inform all commercial ships and tankers to refrain from any attempt to transit without the coordination of the armed forces stationed in the strait of Hormuz, so as not to jeopardise their security. Continue reading...",
@@ -39,7 +138,142 @@
       "summary": "Iranian military says it will ‘respond harshly’ to any threat after Trump warns that interference with US operation in Hormuz will be ‘dealt with forcefully’ Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran We have a bit more of the statement from Maj Gen Ali Abdollahi, the commander of Iran’s Khatam al-Anbiya central headquarters, who said earlier that the US or any other foreign armed forces would be attacked if they entered the strait of Hormuz (see post at 07.39 for more details). Abdollahi also said: We will maintain and vigorously manage the security of the strait of Hormuz with all our might, and we inform all commercial ships and tankers to refrain from any attempt to transit without the coordination of the armed forces stationed in the strait of Hormuz, so as not to jeopardise their security. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
       "source": "World news | The Guardian",
-      "published_at": "2026-05-04T08:04:52+00:00",
+      "published_at": "2026-05-04T09:54:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "85f378f5733db7f3",
+      "title_orig": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "summary_orig": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+      "lang": "en",
+      "title_en": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "summary_en": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-05-04T09:49:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "93493214a01fda0b",
+      "title_orig": "Two attacked with blade in Newton Abbot as attempted murder arrest is made",
+      "summary_orig": "Police were called shortly after midnight",
+      "lang": "en",
+      "title_en": "Two attacked with blade in Newton Abbot as attempted murder arrest is made",
+      "summary_en": "Police were called shortly after midnight",
+      "title": "Two attacked with blade in Newton Abbot as attempted murder arrest is made",
+      "summary": "Police were called shortly after midnight",
+      "url": "https://www.devonlive.com/news/devon-news/two-attacked-blade-newton-abbot-10948541",
+      "source": "Devon Live - frontpage",
+      "published_at": "2026-05-04T09:46:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "14485e2a613774bf",
+      "title_orig": "Brits travelling to Portugal and Italy see airport change amid queue chaos",
+      "summary_orig": "The disruption from the EU's new Entry/Exit System (EES) continues as delays hit two major airports",
+      "lang": "en",
+      "title_en": "Brits travelling to Portugal and Italy see airport change amid queue chaos",
+      "summary_en": "The disruption from the EU's new Entry/Exit System (EES) continues as delays hit two major airports",
+      "title": "Brits travelling to Portugal and Italy see airport change amid queue chaos",
+      "summary": "The disruption from the EU's new Entry/Exit System (EES) continues as delays hit two major airports",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/travel/brits-travelling-portugal-italy-see-37106828",
+      "source": "Daily Record - Home",
+      "published_at": "2026-05-04T09:43:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1e105f9bcff1a4bc",
+      "title_orig": "'Not a nation that bows': Bilawal hails Pakistan's victory against India during Marka-i-Haq",
+      "summary_orig": "PPP Chairman Bilawal Bhutto-Zardari on Monday hailed Pakistan’s “victory” against India during last year’s military conflict, affirming that the country was “not a nation that bows”. He was addressing an event in Karachi organised by the Sindh government to commemorate Marka-i-Haq, where Chief Minister Murad Ali Shah also spoke. The term “ Marka-i-Haq ” is used by the state to refer to the 2025 conflict with India, starting from the April 22 Pahalgam attack to the end of Operation Bunyanum Marsoos with a ceasefire on May 10. “This victory was not the victory of weapons alone. It was a triumph of resolve. It was a triumph of unity and of people who refused to kneel,” said Bilawal, who is also the former foreign minister and had led a delegation abroad to convey Pakistan’s stance on the conflict. “From the mountains of the north to the shores of the Arabian Sea, from the fields of Punjab to the deserts of Sindh and Balochistan, Pakistan stood as one,” he affirmed. “We are not a nation that bows before pressure. We are not a nation that compromises its sovereignty. We are a nation that rises again and again, stronger, prouder and more united,” the PPP chairman declared. Bilawal recalled, “Our armed forces fought with courage, discipline and honour. Our diplomats defended our position with clarity and conviction, and our brave and resilient people stood firm behind their nation.” “Today, we do not merely mark the passage of time. We mark the endurance of a nation. We commemorate not just a victory, but the vindication of the very idea of Pakistan,” he said. Bilawal recalled that a year ago, Pakistan “stood at the edge of uncertainty [as] drums of conflict echoed our borders”. “The air was thick with fear, speculation, and the designs of those who believed Pakistan could be bent, broken or bullied. They were wrong,” the PPP chairman added. He emphasised that victory was “not measured by territory held or battles won”, but by “dignity preserved [and] sovereignty defended”. Victory, he added, was measured “by the message sent to the world that Pakistan will never be coerced, never be silenced, and will never surrender”. The ex-FM also took aim at those “beyond our borders who seek to rewrite history”, asserting that history was “not written by noise”, but rather by nations that endured. Bilawal clarified that Pakistan did not seek conflict or glorify war. “But when the test came, we did not falter. We stood our ground not out of aggression, but out of necessity; not out of ambition, but out of duty. This moment demands not arrogance but reflection, not complacency but responsibility.” The PPP chairman also spoke about the country’s path forward, noting that victory brought with it the “burden to build a stronger Pakistan”. “The burden to ensure that the sacrifices made are honoured not only in words but in action. […] This means investing in our people, education, health, and opportunity. It means strengthening our economy so that no external pressure can dictate our destiny. It means pursuing peace not as a sign of weakness, but as a reflection of strength,” he added. The former FM asserted that peace must be just, dignified and mutual. Addressing the youth, he said, “This victory belongs to you as much as it does to any institution or any individual. You are the custodians of this nation’s future.” Marka-i-Haq Just two days after the Pahalgam attack in occupied Kashmir that killed 26 people , India took a series of aggressive measures against Pakistan, including unilaterally suspending the critical Indus Waters Treaty (IWT). Pakistan retaliated by suspending all kinds of trade, closing its airspace for Indian flights and shutting down the Wagah border. Subsequently, New Delhi launched deadly overnight air strikes on Pakistan on May 6-7 over allegations about the Pahalgam attack , which Islamabad denied . In retaliation, Pakistan Air Force downed five Indian jets, later raising the tally to seven . After tit-for-tat strikes on each other’s airbases, it took American intervention on May 10 for both sides to finally reach a ceasefire . The period of the conflict was named Marka-i-Haq , with the government declaring that May 10 — the day of the retaliatory Operation Bunyanum Marsoos against India — will be observed every year as “ Youm-i-Marka-i-Haq ”.",
+      "lang": "en",
+      "title_en": "'Not a nation that bows': Bilawal hails Pakistan's victory against India during Marka-i-Haq",
+      "summary_en": "PPP Chairman Bilawal Bhutto-Zardari on Monday hailed Pakistan’s “victory” against India during last year’s military conflict, affirming that the country was “not a nation that bows”. He was addressing an event in Karachi organised by the Sindh government to commemorate Marka-i-Haq, where Chief Minister Murad Ali Shah also spoke. The term “ Marka-i-Haq ” is used by the state to refer to the 2025 conflict with India, starting from the April 22 Pahalgam attack to the end of Operation Bunyanum Marsoos with a ceasefire on May 10. “This victory was not the victory of weapons alone. It was a triumph of resolve. It was a triumph of unity and of people who refused to kneel,” said Bilawal, who is also the former foreign minister and had led a delegation abroad to convey Pakistan’s stance on the conflict. “From the mountains of the north to the shores of the Arabian Sea, from the fields of Punjab to the deserts of Sindh and Balochistan, Pakistan stood as one,” he affirmed. “We are not a nation that bows before pressure. We are not a nation that compromises its sovereignty. We are a nation that rises again and again, stronger, prouder and more united,” the PPP chairman declared. Bilawal recalled, “Our armed forces fought with courage, discipline and honour. Our diplomats defended our position with clarity and conviction, and our brave and resilient people stood firm behind their nation.” “Today, we do not merely mark the passage of time. We mark the endurance of a nation. We commemorate not just a victory, but the vindication of the very idea of Pakistan,” he said. Bilawal recalled that a year ago, Pakistan “stood at the edge of uncertainty [as] drums of conflict echoed our borders”. “The air was thick with fear, speculation, and the designs of those who believed Pakistan could be bent, broken or bullied. They were wrong,” the PPP chairman added. He emphasised that victory was “not measured by territory held or battles won”, but by “dignity preserved [and] sovereignty defended”. Victory, he added, was measured “by the message sent to the world that Pakistan will never be coerced, never be silenced, and will never surrender”. The ex-FM also took aim at those “beyond our borders who seek to rewrite history”, asserting that history was “not written by noise”, but rather by nations that endured. Bilawal clarified that Pakistan did not seek conflict or glorify war. “But when the test came, we did not falter. We stood our ground not out of aggression, but out of necessity; not out of ambition, but out of duty. This moment demands not arrogance but reflection, not complacency but responsibility.” The PPP chairman also spoke about the country’s path forward, noting that victory brought with it the “burden to build a stronger Pakistan”. “The burden to ensure that the sacrifices made are honoured not only in words but in action. […] This means investing in our people, education, health, and opportunity. It means strengthening our economy so that no external pressure can dictate our destiny. It means pursuing peace not as a sign of weakness, but as a reflection of strength,” he added. The former FM asserted that peace must be just, dignified and mutual. Addressing the youth, he said, “This victory belongs to you as much as it does to any institution or any individual. You are the custodians of this nation’s future.” Marka-i-Haq Just two days after the Pahalgam attack in occupied Kashmir that killed 26 people , India took a series of aggressive measures against Pakistan, including unilaterally suspending the critical Indus Waters Treaty (IWT). Pakistan retaliated by suspending all kinds of trade, closing its airspace for Indian flights and shutting down the Wagah border. Subsequently, New Delhi launched deadly overnight air strikes on Pakistan on May 6-7 over allegations about the Pahalgam attack , which Islamabad denied . In retaliation, Pakistan Air Force downed five Indian jets, later raising the tally to seven . After tit-for-tat strikes on each other’s airbases, it took American intervention on May 10 for both sides to finally reach a ceasefire . The period of the conflict was named Marka-i-Haq , with the government declaring that May 10 — the day of the retaliatory Operation Bunyanum Marsoos against India — will be observed every year as “ Youm-i-Marka-i-Haq ”.",
+      "title": "'Not a nation that bows': Bilawal hails Pakistan's victory against India during Marka-i-Haq",
+      "summary": "PPP Chairman Bilawal Bhutto-Zardari on Monday hailed Pakistan’s “victory” against India during last year’s military conflict, affirming that the country was “not a nation that bows”. He was addressing an event in Karachi organised by the Sindh government to commemorate Marka-i-Haq, where Chief Minister Murad Ali Shah also spoke. The term “ Marka-i-Haq ” is used by the state to refer to the 2025 conflict with India, starting from the April 22 Pahalgam attack to the end of Operation Bunyanum Marsoos with a ceasefire on May 10. “This victory was not the victory of weapons alone. It was a triumph of resolve. It was a triumph of unity and of people who refused to kneel,” said Bilawal, who is also the former foreign minister and had led a delegation abroad to convey Pakistan’s stance on the conflict. “From the mountains of the north to the shores of the Arabian Sea, from the fields of Punjab to the deserts of Sindh and Balochistan, Pakistan stood as one,” he affirmed. “We are not a nation that bows before pressure. We are not a nation that compromises its sovereignty. We are a nation that rises again and again, stronger, prouder and more united,” the PPP chairman declared. Bilawal recalled, “Our armed forces fought with courage, discipline and honour. Our diplomats defended our position with clarity and conviction, and our brave and resilient people stood firm behind their nation.” “Today, we do not merely mark the passage of time. We mark the endurance of a nation. We commemorate not just a victory, but the vindication of the very idea of Pakistan,” he said. Bilawal recalled that a year ago, Pakistan “stood at the edge of uncertainty [as] drums of conflict echoed our borders”. “The air was thick with fear, speculation, and the designs of those who believed Pakistan could be bent, broken or bullied. They were wrong,” the PPP chairman added. He emphasised that victory was “not measured by territory held or battles won”, but by “dignity preserved [and] sovereignty defended”. Victory, he added, was measured “by the message sent to the world that Pakistan will never be coerced, never be silenced, and will never surrender”. The ex-FM also took aim at those “beyond our borders who seek to rewrite history”, asserting that history was “not written by noise”, but rather by nations that endured. Bilawal clarified that Pakistan did not seek conflict or glorify war. “But when the test came, we did not falter. We stood our ground not out of aggression, but out of necessity; not out of ambition, but out of duty. This moment demands not arrogance but reflection, not complacency but responsibility.” The PPP chairman also spoke about the country’s path forward, noting that victory brought with it the “burden to build a stronger Pakistan”. “The burden to ensure that the sacrifices made are honoured not only in words but in action. […] This means investing in our people, education, health, and opportunity. It means strengthening our economy so that no external pressure can dictate our destiny. It means pursuing peace not as a sign of weakness, but as a reflection of strength,” he added. The former FM asserted that peace must be just, dignified and mutual. Addressing the youth, he said, “This victory belongs to you as much as it does to any institution or any individual. You are the custodians of this nation’s future.” Marka-i-Haq Just two days after the Pahalgam attack in occupied Kashmir that killed 26 people , India took a series of aggressive measures against Pakistan, including unilaterally suspending the critical Indus Waters Treaty (IWT). Pakistan retaliated by suspending all kinds of trade, closing its airspace for Indian flights and shutting down the Wagah border. Subsequently, New Delhi launched deadly overnight air strikes on Pakistan on May 6-7 over allegations about the Pahalgam attack , which Islamabad denied . In retaliation, Pakistan Air Force downed five Indian jets, later raising the tally to seven . After tit-for-tat strikes on each other’s airbases, it took American intervention on May 10 for both sides to finally reach a ceasefire . The period of the conflict was named Marka-i-Haq , with the government declaring that May 10 — the day of the retaliatory Operation Bunyanum Marsoos against India — will be observed every year as “ Youm-i-Marka-i-Haq ”.",
+      "url": "https://www.dawn.com/news/1997435/not-a-nation-that-bows-bilawal-hails-pakistans-victory-against-india-during-marka-i-haq",
+      "source": "Dawn - Home",
+      "published_at": "2026-05-04T09:41:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "781168a5c80f513f",
+      "title_orig": "United Airlines flight strikes truck and light pole before landing at Newark Airport",
+      "summary_orig": "Federal authorities are investigating following the incident at Newark Liberty International Airport",
+      "lang": "en",
+      "title_en": "United Airlines flight strikes truck and light pole before landing at Newark Airport",
+      "summary_en": "Federal authorities are investigating following the incident at Newark Liberty International Airport",
+      "title": "United Airlines flight strikes truck and light pole before landing at Newark Airport",
+      "summary": "Federal authorities are investigating following the incident at Newark Liberty International Airport",
+      "url": "https://www.independent.co.uk/travel/news-and-advice/united-airlines-plane-crash-newark-airport-b2969982.html",
+      "source": "The Independent World",
+      "published_at": "2026-05-04T09:15:11+00:00",
+      "tags": [
+        "EWR",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Newark Liberty",
+        "city": "Newark",
+        "country": "United States",
+        "iata": "EWR",
+        "lat": 40.6895,
+        "lon": -74.1745
+      }
+    },
+    {
+      "id": "f196d9a83a8e09a0",
+      "title_orig": "Iran executes three men over involvement in anti-govt protests",
+      "summary_orig": "They were convicted of involvement in anti-government protests that rocked Iran in December and January.",
+      "lang": "en",
+      "title_en": "Iran executes three men over involvement in anti-govt protests",
+      "summary_en": "They were convicted of involvement in anti-government protests that rocked Iran in December and January.",
+      "title": "Iran executes three men over involvement in anti-govt protests",
+      "summary": "They were convicted of involvement in anti-government protests that rocked Iran in December and January.",
+      "url": "https://www.straitstimes.com/world/middle-east/iran-executes-three-men-over-involvement-in-anti-govt-protests",
+      "source": "The Straits Times World News",
+      "published_at": "2026-05-04T09:15:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fe70a06189c07e55",
+      "title_orig": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
+      "summary_orig": "Israel has failed to arrest a wave of violence against Palestinians, prompting military officials to urge the government to intervene.",
+      "lang": "en",
+      "title_en": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
+      "summary_en": "Israel has failed to arrest a wave of violence against Palestinians, prompting military officials to urge the government to intervene.",
+      "title": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
+      "summary": "Israel has failed to arrest a wave of violence against Palestinians, prompting military officials to urge the government to intervene.",
+      "url": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-04T09:08:32+00:00",
       "tags": [
         "airport/security"
       ],
@@ -57,7 +291,151 @@
       "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
       "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published_at": "2026-05-04T07:58:36+00:00",
+      "published_at": "2026-05-04T09:06:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "504c7451f1fa0fb2",
+      "title_orig": "Australian inquiry opens public hearings into Bondi Beach shooting",
+      "summary_orig": "An inquiry into a shooting that killed 15 people at a Hanukkah festival near Australia's Bondi Beach heard Monday that Sydney's Jewish community feared \"catastrophe\" was coming as antisemitic attacks rose. The federal royal commission -- the highest level of government inquiry -- was called to probe factors leading to the attack by two gunmen on Jewish families near Australia's best-known beach in December.",
+      "lang": "en",
+      "title_en": "Australian inquiry opens public hearings into Bondi Beach shooting",
+      "summary_en": "An inquiry into a shooting that killed 15 people at a Hanukkah festival near Australia's Bondi Beach heard Monday that Sydney's Jewish community feared \"catastrophe\" was coming as antisemitic attacks rose. The federal royal commission -- the highest level of government inquiry -- was called to probe factors leading to the attack by two gunmen on Jewish families near Australia's best-known beach in December.",
+      "title": "Australian inquiry opens public hearings into Bondi Beach shooting",
+      "summary": "An inquiry into a shooting that killed 15 people at a Hanukkah festival near Australia's Bondi Beach heard Monday that Sydney's Jewish community feared \"catastrophe\" was coming as antisemitic attacks rose. The federal royal commission -- the highest level of government inquiry -- was called to probe factors leading to the attack by two gunmen on Jewish families near Australia's best-known beach in December.",
+      "url": "https://www.france24.com/en/video/20260504-australian-inquiry-opens-public-hearings-into-bondi-beach-shooting",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-05-04T09:03:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "64bae34dcf9abed8",
+      "title_orig": "Inside The Old Skydiving Plane Hunting Drones in Ukraine",
+      "summary_orig": "As Russian drones overwhelm Ukraine’s vast air defenses, civilian volunteers are stepping in to take them down. The New York Times takes flight with a crew that’s turned an old skydiving plane into a drone hunter.",
+      "lang": "en",
+      "title_en": "Inside The Old Skydiving Plane Hunting Drones in Ukraine",
+      "summary_en": "As Russian drones overwhelm Ukraine’s vast air defenses, civilian volunteers are stepping in to take them down. The New York Times takes flight with a crew that’s turned an old skydiving plane into a drone hunter.",
+      "title": "Inside The Old Skydiving Plane Hunting Drones in Ukraine",
+      "summary": "As Russian drones overwhelm Ukraine’s vast air defenses, civilian volunteers are stepping in to take them down. The New York Times takes flight with a crew that’s turned an old skydiving plane into a drone hunter.",
+      "url": "https://www.nytimes.com/video/world/europe/100000010837657/inside-the-old-skydiving-plane-hunting-drones-in-ukraine.html",
+      "source": "NYT > World News",
+      "published_at": "2026-05-04T09:01:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "c6a79ef88f44eb1c",
+      "title_orig": "Australia begins hearings into Bondi Beach attack and rising antisemitism",
+      "summary_orig": "Witnesses from ⁠the Jewish community told the public inquiry into December's mass shooting that they felt unsafe amid rising hostility since the start of the war in Gaza.",
+      "lang": "en",
+      "title_en": "Australia begins hearings into Bondi Beach attack and rising antisemitism",
+      "summary_en": "Witnesses from ⁠the Jewish community told the public inquiry into December's mass shooting that they felt unsafe amid rising hostility since the start of the war in Gaza.",
+      "title": "Australia begins hearings into Bondi Beach attack and rising antisemitism",
+      "summary": "Witnesses from ⁠the Jewish community told the public inquiry into December's mass shooting that they felt unsafe amid rising hostility since the start of the war in Gaza.",
+      "url": "https://www.japantimes.co.jp/news/2026/05/04/asia-pacific/crime-legal/australia-bondi-beach-hearings/",
+      "source": "Latest articles - The Japan Times",
+      "published_at": "2026-05-04T09:01:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "48ad4767f4d5470c",
+      "title_orig": "Can Malaysia’s Umno reclaim role as pillar of Malay political power with solo election bid?",
+      "summary_orig": "Malaysia’s Umno is making a heady gamble by planning to strike out on its own, experts say, as the former ruling party looks to rally support from among the country’s Malay-Muslim majority in preparation for national polls that must be called in less than two years from now.\nUmno President Ahmad Zahid Hamidi on Sunday said the Barisan Nasional (BN) coalition that the party led was “almost certain” of standing alone in the coming general election, after more than three years as a junior partner...",
+      "lang": "en",
+      "title_en": "Can Malaysia’s Umno reclaim role as pillar of Malay political power with solo election bid?",
+      "summary_en": "Malaysia’s Umno is making a heady gamble by planning to strike out on its own, experts say, as the former ruling party looks to rally support from among the country’s Malay-Muslim majority in preparation for national polls that must be called in less than two years from now.\nUmno President Ahmad Zahid Hamidi on Sunday said the Barisan Nasional (BN) coalition that the party led was “almost certain” of standing alone in the coming general election, after more than three years as a junior partner...",
+      "title": "Can Malaysia’s Umno reclaim role as pillar of Malay political power with solo election bid?",
+      "summary": "Malaysia’s Umno is making a heady gamble by planning to strike out on its own, experts say, as the former ruling party looks to rally support from among the country’s Malay-Muslim majority in preparation for national polls that must be called in less than two years from now.\nUmno President Ahmad Zahid Hamidi on Sunday said the Barisan Nasional (BN) coalition that the party led was “almost certain” of standing alone in the coming general election, after more than three years as a junior partner...",
+      "url": "https://www.scmp.com/week-asia/politics/article/3352362/can-malaysias-umno-reclaim-role-pillar-malay-political-power-solo-election-bid?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2026-05-04T09:00:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "21ca2c5e39dae9f4",
+      "title_orig": "Chinese consulate met Vancouver official in bid to stop event critical of communist rule",
+      "summary_orig": "The meeting took place in early April, as the Shen Yun dance group was to perform at a city-owned theatre.",
+      "lang": "en",
+      "title_en": "Chinese consulate met Vancouver official in bid to stop event critical of communist rule",
+      "summary_en": "The meeting took place in early April, as the Shen Yun dance group was to perform at a city-owned theatre.",
+      "title": "Chinese consulate met Vancouver official in bid to stop event critical of communist rule",
+      "summary": "The meeting took place in early April, as the Shen Yun dance group was to perform at a city-owned theatre.",
+      "url": "https://globalnews.ca/news/11825739/chinese-consulate-vancouver-shen-yun-communist-party/",
+      "source": "globalnews.ca",
+      "published_at": "2026-05-04T09:00:37+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "55208efda9c8496c",
+      "title_orig": "Iran-US war latest: Tehran threatens to attack US forces in Strait of Hormuz after Trump vows to help stranded ships",
+      "summary_orig": "The US president threatened new strikes if Iran ‘misbehaves’",
+      "lang": "en",
+      "title_en": "Iran-US war latest: Tehran threatens to attack US forces in Strait of Hormuz after Trump vows to help stranded ships",
+      "summary_en": "The US president threatened new strikes if Iran ‘misbehaves’",
+      "title": "Iran-US war latest: Tehran threatens to attack US forces in Strait of Hormuz after Trump vows to help stranded ships",
+      "summary": "The US president threatened new strikes if Iran ‘misbehaves’",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strait-of-hormuz-blockade-oil-b2969916.html",
+      "source": "The Independent World",
+      "published_at": "2026-05-04T08:32:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1d092158cd240f56",
+      "title_orig": "Edinburgh Airport: All the delayed and cancelled flights today - see full list",
+      "summary_orig": "Edinburgh Airport is the busiest in Scotland, used by 15.8 million passengers in 2024. Flights take off from Edinburgh for more than 150 destinations around the globe.",
+      "lang": "en",
+      "title_en": "Edinburgh Airport: All the delayed and cancelled flights today - see full list",
+      "summary_en": "Edinburgh Airport is the busiest in Scotland, used by 15.8 million passengers in 2024. Flights take off from Edinburgh for more than 150 destinations around the globe.",
+      "title": "Edinburgh Airport: All the delayed and cancelled flights today - see full list",
+      "summary": "Edinburgh Airport is the busiest in Scotland, used by 15.8 million passengers in 2024. Flights take off from Edinburgh for more than 150 destinations around the globe.",
+      "url": "https://www.edinburghnews.scotsman.com/news/edinburgh-airport-all-the-delayed-and-cancelled-flights-today-see-full-list-4635177",
+      "source": "Edinburgh News",
+      "published_at": "2026-05-04T08:27:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "baa20c7d54eae56d",
+      "title_orig": "Ukraine strikes key Russian oil port and 'shadow fleet' tankers",
+      "summary_orig": "Ukraine launches a major wave of drone strikes on Russia's oil export hubs, hitting a key Baltic Sea port and three \"shadow fleet\" tankers.",
+      "lang": "en",
+      "title_en": "Ukraine strikes key Russian oil port and 'shadow fleet' tankers",
+      "summary_en": "Ukraine launches a major wave of drone strikes on Russia's oil export hubs, hitting a key Baltic Sea port and three \"shadow fleet\" tankers.",
+      "title": "Ukraine strikes key Russian oil port and 'shadow fleet' tankers",
+      "summary": "Ukraine launches a major wave of drone strikes on Russia's oil export hubs, hitting a key Baltic Sea port and three \"shadow fleet\" tankers.",
+      "url": "https://www.stuff.co.nz/world-news/360974180/ukraine-hits-key-russian-oilloading-port-and-3-shadow-fleet",
+      "source": "Stuff - /",
+      "published_at": "2026-05-04T08:08:55+00:00",
       "tags": [
         "airport/security"
       ],
@@ -116,24 +494,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "99695caca04b9645",
-      "title_orig": "Labour urged to 'abolish' drop-off rule across all UK airports",
-      "summary_orig": "A petition on the Parliamentary website has called on the Labour Party government to act.",
-      "lang": "en",
-      "title_en": "Labour urged to 'abolish' drop-off rule across all UK airports",
-      "summary_en": "A petition on the Parliamentary website has called on the Labour Party government to act.",
-      "title": "Labour urged to 'abolish' drop-off rule across all UK airports",
-      "summary": "A petition on the Parliamentary website has called on the Labour Party government to act.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/labour-urged-abolish-drop-rule-33882968",
-      "source": "Birmingham Live - Home",
-      "published_at": "2026-05-04T07:47:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -236,17 +596,17 @@
       "geo": {}
     },
     {
-      "id": "44b1a1ee0c3c77ef",
-      "title_orig": "Operation Sindoor showed world Indian military's capabilities: Rajnath Singh",
-      "summary_orig": "Addressing an event in Uttar Pradesh's Prayagraj, Rajnath Singh emphasised that while the armed forces \"showed patience\", they were clinical in destroying terrorist infrastructure",
+      "id": "d46938fe03661b9b",
+      "title_orig": "Attempted murder arrest in Newton Abbot after blade used in attack",
+      "summary_orig": "A road is closed near the Swan Inn pub",
       "lang": "en",
-      "title_en": "Operation Sindoor showed world Indian military's capabilities: Rajnath Singh",
-      "summary_en": "Addressing an event in Uttar Pradesh's Prayagraj, Rajnath Singh emphasised that while the armed forces \"showed patience\", they were clinical in destroying terrorist infrastructure",
-      "title": "Operation Sindoor showed world Indian military's capabilities: Rajnath Singh",
-      "summary": "Addressing an event in Uttar Pradesh's Prayagraj, Rajnath Singh emphasised that while the armed forces \"showed patience\", they were clinical in destroying terrorist infrastructure",
-      "url": "https://www.thehindu.com/news/national/operation-sindoor-showed-world-indian-militarys-capabilities-rajnath-singh/article70937527.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-05-04T07:07:47+00:00",
+      "title_en": "Attempted murder arrest in Newton Abbot after blade used in attack",
+      "summary_en": "A road is closed near the Swan Inn pub",
+      "title": "Attempted murder arrest in Newton Abbot after blade used in attack",
+      "summary": "A road is closed near the Swan Inn pub",
+      "url": "https://www.devonlive.com/news/devon-news/newton-abbot-road-shut-near-10948397",
+      "source": "Devon Live - frontpage",
+      "published_at": "2026-05-04T07:08:22+00:00",
       "tags": [
         "airport/security"
       ],
@@ -290,24 +650,6 @@
       "geo": {}
     },
     {
-      "id": "37ecb7bada7d20d8",
-      "title_orig": "Strike action at Motherwell company called off after union agrees pay deal",
-      "summary_orig": "Unite secured an increase of eight per cent this year with a further increase of a minimum of five per cent in 2027.",
-      "lang": "en",
-      "title_en": "Strike action at Motherwell company called off after union agrees pay deal",
-      "summary_en": "Unite secured an increase of eight per cent this year with a further increase of a minimum of five per cent in 2027.",
-      "title": "Strike action at Motherwell company called off after union agrees pay deal",
-      "summary": "Unite secured an increase of eight per cent this year with a further increase of a minimum of five per cent in 2027.",
-      "url": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/strike-action-motherwell-company-called-37096542",
-      "source": "Daily Record - Home",
-      "published_at": "2026-05-04T06:50:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c12ba871c32738f7",
       "title_orig": "Trump says US forces to 'guide' stranded ships through Strait of Hormuz",
       "summary_orig": "Trump made the pledge yesterday, despite Iranian warnings that US forces entering the Strait will be attacked.",
@@ -319,24 +661,6 @@
       "url": "https://www.thejournal.ie/trump-us-strait-of-hormuz-iran-7030669-May2026/",
       "source": "TheJournal.ie",
       "published_at": "2026-05-04T06:40:34+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "55208efda9c8496c",
-      "title_orig": "Iran-US war latest: Trump pledges to reopen Strait of Hormuz from today as Tehran warns of ceasefire violation",
-      "summary_orig": "The US president threatened new strikes if Iran ‘misbehaves’",
-      "lang": "en",
-      "title_en": "Iran-US war latest: Trump pledges to reopen Strait of Hormuz from today as Tehran warns of ceasefire violation",
-      "summary_en": "The US president threatened new strikes if Iran ‘misbehaves’",
-      "title": "Iran-US war latest: Trump pledges to reopen Strait of Hormuz from today as Tehran warns of ceasefire violation",
-      "summary": "The US president threatened new strikes if Iran ‘misbehaves’",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strait-of-hormuz-blockade-oil-b2969916.html",
-      "source": "The Independent World",
-      "published_at": "2026-05-04T06:32:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -443,24 +767,6 @@
       }
     },
     {
-      "id": "d3ca588cd71a821e",
-      "title_orig": "There is a new Tom Kerridge M&S £15 dine in deal - these are the ones you should try",
-      "summary_orig": "We tried the new additions to M&S’s Tom Kerridge Gastropub range, including pulled pork croquettes, a pork stroganoff and a Bombay potato bake, to see how the latest dishes compare.",
-      "lang": "en",
-      "title_en": "There is a new Tom Kerridge M&S £15 dine in deal - these are the ones you should try",
-      "summary_en": "We tried the new additions to M&S’s Tom Kerridge Gastropub range, including pulled pork croquettes, a pork stroganoff and a Bombay potato bake, to see how the latest dishes compare.",
-      "title": "There is a new Tom Kerridge M&S £15 dine in deal - these are the ones you should try",
-      "summary": "We tried the new additions to M&S’s Tom Kerridge Gastropub range, including pulled pork croquettes, a pork stroganoff and a Bombay potato bake, to see how the latest dishes compare.",
-      "url": "https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/new-tom-kerridge-ms-15-33866968",
-      "source": "MEN - News",
-      "published_at": "2026-05-04T05:15:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "05d42490dbacbc86",
       "title_orig": "Japan sees largest protest in support of pacifist constitution as PM Takaichi pushes revisions",
       "summary_orig": "Japanese leader Sanae Takaichi has called for discussions to revise the constitution, saying it should ‘reflect the demands of the times’ Japan’s prime minister, Sanae Takaichi, has called for “advanced discussions” on revising the pacifist constitution, as large demonstrations were held nationwide to oppose any changes to the country’s supreme law. Speaking during an official visit to Vietnam, Takaichi said the constitution, which was written by US occupation forces after the second world war, “should periodically be updated to reflect the demands of the times”. Continue reading...",
@@ -490,24 +796,6 @@
       "url": "https://airlive.net/incident/2026/05/04/ntsb-launches-investigation-after-a-united-boeing-767-clips-light-pole-during-very-low-approach-to-newark/",
       "source": "AIRLIVE",
       "published_at": "2026-05-04T05:12:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d11950122378a401",
-      "title_orig": "DWP urged to ditch state pension change which would cost claimants £2,100",
-      "summary_orig": "The bombshell report from the thinktank, which is led by the former Labour Party government leader Sir Tony Blair, was released on Friday.",
-      "lang": "en",
-      "title_en": "DWP urged to ditch state pension change which would cost claimants £2,100",
-      "summary_en": "The bombshell report from the thinktank, which is led by the former Labour Party government leader Sir Tony Blair, was released on Friday.",
-      "title": "DWP urged to ditch state pension change which would cost claimants £2,100",
-      "summary": "The bombshell report from the thinktank, which is led by the former Labour Party government leader Sir Tony Blair, was released on Friday.",
-      "url": "https://www.birminghammail.co.uk/news/cost-of-living/dwp-urged-ditch-state-pension-33882642",
-      "source": "Birmingham Live - News",
-      "published_at": "2026-05-04T05:10:03+00:00",
       "tags": [
         "airport/security"
       ],
@@ -569,24 +857,6 @@
       "geo": {}
     },
     {
-      "id": "8df6014d53e0d595",
-      "title_orig": "Kelechi Iheanacho lands new Celtic moniker from Martin O'Neill as he explains plan behind substitute role",
-      "summary_orig": "The striker has emerged as the \"super impact player\" for the Hoops in the title run-in",
-      "lang": "en",
-      "title_en": "Kelechi Iheanacho lands new Celtic moniker from Martin O'Neill as he explains plan behind substitute role",
-      "summary_en": "The striker has emerged as the \"super impact player\" for the Hoops in the title run-in",
-      "title": "Kelechi Iheanacho lands new Celtic moniker from Martin O'Neill as he explains plan behind substitute role",
-      "summary": "The striker has emerged as the \"super impact player\" for the Hoops in the title run-in",
-      "url": "https://www.dailyrecord.co.uk/sport/football/football-news/kelechi-iheanacho-lands-new-celtic-37105431",
-      "source": "Daily Record - Home",
-      "published_at": "2026-05-04T05:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7388daad799a12fc",
       "title_orig": "Dubai Airport delays passenger target as Iran war crimps growth",
       "summary_orig": "It had to shut down several times due to drone incidents in its vicinity.",
@@ -612,24 +882,6 @@
         "lat": 25.2532,
         "lon": 55.3657
       }
-    },
-    {
-      "id": "f255038e80fe6fa0",
-      "title_orig": "Massive fire at scrap yard in Hyderabad’s Bholakpur triggers firefighting, late night evacuation",
-      "summary_orig": "No human casualties have been reported. However, a dog domesticated within the warehouse died in the fire.",
-      "lang": "en",
-      "title_en": "Massive fire at scrap yard in Hyderabad’s Bholakpur triggers firefighting, late night evacuation",
-      "summary_en": "No human casualties have been reported. However, a dog domesticated within the warehouse died in the fire.",
-      "title": "Massive fire at scrap yard in Hyderabad’s Bholakpur triggers firefighting, late night evacuation",
-      "summary": "No human casualties have been reported. However, a dog domesticated within the warehouse died in the fire.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/massive-fire-at-scrap-yard-in-hyderabads-bholakpur-triggers-firefighting-late-night-evacuation/article70937145.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-05-04T04:28:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "4f6a58f1719c10da",
@@ -697,24 +949,6 @@
       "url": "https://www.dawn.com/news/1997329/interlinked-crises",
       "source": "Dawn - Home",
       "published_at": "2026-05-04T03:26:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "be79cd1b9e44917b",
-      "title_orig": "United flight landing in Newark strikes pole on New Jersey Turnpike, damages delivery truck",
-      "summary_orig": "NEWARK, N.J. (AP) — A United Airlines passenger jet carrying 221 passengers from Venice, Italy, struck a light pole on…",
-      "lang": "en",
-      "title_en": "United flight landing in Newark strikes pole on New Jersey Turnpike, damages delivery truck",
-      "summary_en": "NEWARK, N.J. (AP) — A United Airlines passenger jet carrying 221 passengers from Venice, Italy, struck a light pole on…",
-      "title": "United flight landing in Newark strikes pole on New Jersey Turnpike, damages delivery truck",
-      "summary": "NEWARK, N.J. (AP) — A United Airlines passenger jet carrying 221 passengers from Venice, Italy, struck a light pole on…",
-      "url": "https://wtop.com/national/2026/05/faa-investigating-after-united-flight-landing-in-newark-strikes-light-pole-on-new-jersey-turnpike/",
-      "source": "WTOP News",
-      "published_at": "2026-05-04T02:45:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -857,6 +1091,24 @@
       "geo": {}
     },
     {
+      "id": "7fbb6c9f686c7471",
+      "title_orig": "Former police spokesman John Tse set for top government media role",
+      "summary_orig": "A Hong Kong police chief superintendent turned public relations adviser will lead the government’s Information Services Department, becoming the first non-administrative officer to take up the post.\nJohn Tse Chun-chung, who has served as the government’s information coordinator since 2024, is expected to take up the post on a three-year contract on Tuesday.\nTse, 49, joined the force in 1999. He became a well-known face during the 2019 anti-government protests, when he led the police’s daily...",
+      "lang": "en",
+      "title_en": "Former police spokesman John Tse set for top government media role",
+      "summary_en": "A Hong Kong police chief superintendent turned public relations adviser will lead the government’s Information Services Department, becoming the first non-administrative officer to take up the post.\nJohn Tse Chun-chung, who has served as the government’s information coordinator since 2024, is expected to take up the post on a three-year contract on Tuesday.\nTse, 49, joined the force in 1999. He became a well-known face during the 2019 anti-government protests, when he led the police’s daily...",
+      "title": "Former police spokesman John Tse set for top government media role",
+      "summary": "A Hong Kong police chief superintendent turned public relations adviser will lead the government’s Information Services Department, becoming the first non-administrative officer to take up the post.\nJohn Tse Chun-chung, who has served as the government’s information coordinator since 2024, is expected to take up the post on a three-year contract on Tuesday.\nTse, 49, joined the force in 1999. He became a well-known face during the 2019 anti-government protests, when he led the police’s daily...",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3352301/police-turned-pr-adviser-john-tse-set-top-government-media-role?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2026-05-04T01:02:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "135ee4123cba9c4b",
       "title_orig": "‘I didn’t see’: Mother of MAC bombing suspect said his mental health seemed improved before attack",
       "summary_orig": "The suspect in Saturday’s fiery attack on the private club was beloved by family and friends but faced mental health challenges.",
@@ -890,6 +1142,24 @@
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "afcd90644ac551ed",
+      "title_orig": "Live: Iran warns it will attack US ships in Strait of Hormuz after Trump announces escort missions",
+      "summary_orig": "Iran's military warned on Monday that US forces would be attacked if they entered the Strait of Hormuz after US President Donald Trump said the United States would begin escorting stranded third-country vessels through the strategic waterway. Tehran said any “American interference” in the strait would be seen as a breach of the fragile ceasefire that has held since the start of April. Follow our liveblog for the latest updates.",
+      "lang": "en",
+      "title_en": "Live: Iran warns it will attack US ships in Strait of Hormuz after Trump announces escort missions",
+      "summary_en": "Iran's military warned on Monday that US forces would be attacked if they entered the Strait of Hormuz after US President Donald Trump said the United States would begin escorting stranded third-country vessels through the strategic waterway. Tehran said any “American interference” in the strait would be seen as a breach of the fragile ceasefire that has held since the start of April. Follow our liveblog for the latest updates.",
+      "title": "Live: Iran warns it will attack US ships in Strait of Hormuz after Trump announces escort missions",
+      "summary": "Iran's military warned on Monday that US forces would be attacked if they entered the Strait of Hormuz after US President Donald Trump said the United States would begin escorting stranded third-country vessels through the strategic waterway. Tehran said any “American interference” in the strait would be seen as a breach of the fragile ceasefire that has held since the start of April. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260504-live-us-to-escort-ships-through-strait-of-hormuz-as-iran-warns-of-ceasefire-breach-trump",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-05-04T00:06:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
@@ -1100,24 +1370,6 @@
       "geo": {}
     },
     {
-      "id": "18c26cd499e8da88",
-      "title_orig": "Families participate in Saskatoon’s first Autism Aviation Day",
-      "summary_orig": "Saskatoon's first Autism Aviation Day gave families a unique opportunity to practice navigating airport procedures in a supportive, low-stress environment.",
-      "lang": "en",
-      "title_en": "Families participate in Saskatoon’s first Autism Aviation Day",
-      "summary_en": "Saskatoon's first Autism Aviation Day gave families a unique opportunity to practice navigating airport procedures in a supportive, low-stress environment.",
-      "title": "Families participate in Saskatoon’s first Autism Aviation Day",
-      "summary": "Saskatoon's first Autism Aviation Day gave families a unique opportunity to practice navigating airport procedures in a supportive, low-stress environment.",
-      "url": "https://globalnews.ca/news/11828087/families-participate-in-saskatoons-first-autism-aviation-day/",
-      "source": "globalnews.ca",
-      "published_at": "2026-05-03T21:13:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7fc9509fec35cdb6",
       "title_orig": "Iran warns will attack US forces in Hormuz after Trump announces escort plan",
       "summary_orig": "US President Donald Trump described his plan as a “humanitarian gesture”.",
@@ -1201,24 +1453,6 @@
       "url": "https://www.dawn.com/news/1997223/peshawar-zalmi-beat-hyderabad-kingsmen-by-5-wickets-lift-psl-trophy-a-second-time",
       "source": "Dawn - Home",
       "published_at": "2026-05-03T20:03:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "08bc86696aeeac43",
-      "title_orig": "2 men, including social activist, killed in separate attacks in KP's Bajaur",
-      "summary_orig": "BAJAUR: Two people, including a social activist, were killed in separate attacks in Khyber Pakhtunkhwa’s Bajaur district on Sunday, police and rescue officials told Dawn . The first incident took place in the Kohi area of Salarzai tehsil, where unidentified armed assailants attacked social activist Malik Ziaur Rehman near his residence, Salarzai Deputy Superintendent of Police (DSP) Jamal Shah said. “Unidentified assailants opened fire on him near his house, leaving him critically injured,” he said. According to Rescue 1122 Khar station spokesperson Riaz Ahmad Khan, the 37-year-old succumbed to his injuries at the district headquarters hospital Khar, where he was taken in a critical condition after the attack. An official at the Salarzai police station told Dawn that a team of law enforcers was immediately sent to the site of the incident, and a search had been launched to locate the attackers, who had fled after firing at Rehman. Police are also further investigating the incident. Area residents told Dawn that Rehman’s father, Malik Fatchi Khan, was also killed by unidentified attackers a few years ago. Separately, a man identified as Sayed Door Khan was killed in a blast caused by an improvised explosive device in Bajaur’s Asil Targaoo area, Khar DSP Saidur Rehman said. He said Sayed was critically injured in the blast and succumbed to his injuries at the hospital. The DSP said an investigation of the incident was under way to trace those responsible for the blast and ascertain the motive of the attack.",
-      "lang": "en",
-      "title_en": "2 men, including social activist, killed in separate attacks in KP's Bajaur",
-      "summary_en": "BAJAUR: Two people, including a social activist, were killed in separate attacks in Khyber Pakhtunkhwa’s Bajaur district on Sunday, police and rescue officials told Dawn . The first incident took place in the Kohi area of Salarzai tehsil, where unidentified armed assailants attacked social activist Malik Ziaur Rehman near his residence, Salarzai Deputy Superintendent of Police (DSP) Jamal Shah said. “Unidentified assailants opened fire on him near his house, leaving him critically injured,” he said. According to Rescue 1122 Khar station spokesperson Riaz Ahmad Khan, the 37-year-old succumbed to his injuries at the district headquarters hospital Khar, where he was taken in a critical condition after the attack. An official at the Salarzai police station told Dawn that a team of law enforcers was immediately sent to the site of the incident, and a search had been launched to locate the attackers, who had fled after firing at Rehman. Police are also further investigating the incident. Area residents told Dawn that Rehman’s father, Malik Fatchi Khan, was also killed by unidentified attackers a few years ago. Separately, a man identified as Sayed Door Khan was killed in a blast caused by an improvised explosive device in Bajaur’s Asil Targaoo area, Khar DSP Saidur Rehman said. He said Sayed was critically injured in the blast and succumbed to his injuries at the hospital. The DSP said an investigation of the incident was under way to trace those responsible for the blast and ascertain the motive of the attack.",
-      "title": "2 men, including social activist, killed in separate attacks in KP's Bajaur",
-      "summary": "BAJAUR: Two people, including a social activist, were killed in separate attacks in Khyber Pakhtunkhwa’s Bajaur district on Sunday, police and rescue officials told Dawn . The first incident took place in the Kohi area of Salarzai tehsil, where unidentified armed assailants attacked social activist Malik Ziaur Rehman near his residence, Salarzai Deputy Superintendent of Police (DSP) Jamal Shah said. “Unidentified assailants opened fire on him near his house, leaving him critically injured,” he said. According to Rescue 1122 Khar station spokesperson Riaz Ahmad Khan, the 37-year-old succumbed to his injuries at the district headquarters hospital Khar, where he was taken in a critical condition after the attack. An official at the Salarzai police station told Dawn that a team of law enforcers was immediately sent to the site of the incident, and a search had been launched to locate the attackers, who had fled after firing at Rehman. Police are also further investigating the incident. Area residents told Dawn that Rehman’s father, Malik Fatchi Khan, was also killed by unidentified attackers a few years ago. Separately, a man identified as Sayed Door Khan was killed in a blast caused by an improvised explosive device in Bajaur’s Asil Targaoo area, Khar DSP Saidur Rehman said. He said Sayed was critically injured in the blast and succumbed to his injuries at the hospital. The DSP said an investigation of the incident was under way to trace those responsible for the blast and ascertain the motive of the attack.",
-      "url": "https://www.dawn.com/news/1997227/2-men-including-social-activist-killed-in-separate-attacks-in-kps-bajaur",
-      "source": "Dawn - Home",
-      "published_at": "2026-05-03T19:31:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1460,24 +1694,6 @@
       "geo": {}
     },
     {
-      "id": "de39696e347a4f3a",
-      "title_orig": "Bulk carrier near Strait of Hormuz reports attack as Iran makes new peace proposal",
-      "summary_orig": "The fragile three-week ceasefire appears to be holding, though President Donald Trump on Saturday told journalists that further strikes remained a possibility.",
-      "lang": "en",
-      "title_en": "Bulk carrier near Strait of Hormuz reports attack as Iran makes new peace proposal",
-      "summary_en": "The fragile three-week ceasefire appears to be holding, though President Donald Trump on Saturday told journalists that further strikes remained a possibility.",
-      "title": "Bulk carrier near Strait of Hormuz reports attack as Iran makes new peace proposal",
-      "summary": "The fragile three-week ceasefire appears to be holding, though President Donald Trump on Saturday told journalists that further strikes remained a possibility.",
-      "url": "https://www.pennlive.com/nation-world/2026/05/bulk-carrier-near-strait-of-hormuz-reports-attack-as-iran-makes-new-peace-proposal.html",
-      "source": "pennlive.com",
-      "published_at": "2026-05-03T15:54:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "799d3c5b8b42bc2b",
       "title_orig": "Man and woman killed in 'suspicious' Bristol explosion as bomb squad on scene",
       "summary_orig": "Three others including a child were injured in this morning’s ‘suspicious incident’",
@@ -1511,78 +1727,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "13cd65ef34df6071",
-      "title_orig": "Italian media reports US top diplomat Rubio to meet Pope Leo",
-      "summary_orig": "Marco Rubio will travel to Rome this week for a visit reportedly aimed at easing strained relations with the Italyn government and the Holy See. Both Giorgia Meloni and Pope Leo XIV have faced criticism from Donald Trump, who has publicly attacked the pontiff’s anti-war remarks.\n \nMarco Rubio is due to be in the Italian capital during the first anniversary of Pope Leo XIV’s papacy, the first US-born leader of the Catholic Church. France 24 correspondent Seema Gupta reports the latest from Rome.",
-      "lang": "en",
-      "title_en": "Italian media reports US top diplomat Rubio to meet Pope Leo",
-      "summary_en": "Marco Rubio will travel to Rome this week for a visit reportedly aimed at easing strained relations with the Italyn government and the Holy See. Both Giorgia Meloni and Pope Leo XIV have faced criticism from Donald Trump, who has publicly attacked the pontiff’s anti-war remarks.\n \nMarco Rubio is due to be in the Italian capital during the first anniversary of Pope Leo XIV’s papacy, the first US-born leader of the Catholic Church. France 24 correspondent Seema Gupta reports the latest from Rome.",
-      "title": "Italian media reports US top diplomat Rubio to meet Pope Leo",
-      "summary": "Marco Rubio will travel to Rome this week for a visit reportedly aimed at easing strained relations with the Italyn government and the Holy See. Both Giorgia Meloni and Pope Leo XIV have faced criticism from Donald Trump, who has publicly attacked the pontiff’s anti-war remarks.\n \nMarco Rubio is due to be in the Italian capital during the first anniversary of Pope Leo XIV’s papacy, the first US-born leader of the Catholic Church. France 24 correspondent Seema Gupta reports the latest from Rome.",
-      "url": "https://www.france24.com/en/italian-media-reports-us-top-diplomat-rubio-to-meet-pope-leo",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-05-03T15:26:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "91301b74e4250714",
-      "title_orig": "Southern Lebanon: Israeli strikes kill one, wounds rescuers",
-      "summary_orig": "Israel has carried out fresh air strikes in southern Lebanon. Officials there said at least one person was killed and four others were wounded.\n\nThe strikes came after the Israel Defense Forces issued new evacuation warnings on Sunday for residents in more than ten villages and towns, including the city of Nabatieh. Residents were ordered to leave their homes and move at least 1,000 metres away to open areas.\n\nThe hostilities are continuing despite a ceasefire signed last month between Israel and Lebanon, which was intended to halt the fighting with Iran-backed Hezbollah.\n\nIsrael has accused Hezbollah of repeated violations of the truce. France 24 International affairs editor Shirli Sitbon shares further insights.",
-      "lang": "en",
-      "title_en": "Southern Lebanon: Israeli strikes kill one, wounds rescuers",
-      "summary_en": "Israel has carried out fresh air strikes in southern Lebanon. Officials there said at least one person was killed and four others were wounded.\n\nThe strikes came after the Israel Defense Forces issued new evacuation warnings on Sunday for residents in more than ten villages and towns, including the city of Nabatieh. Residents were ordered to leave their homes and move at least 1,000 metres away to open areas.\n\nThe hostilities are continuing despite a ceasefire signed last month between Israel and Lebanon, which was intended to halt the fighting with Iran-backed Hezbollah.\n\nIsrael has accused Hezbollah of repeated violations of the truce. France 24 International affairs editor Shirli Sitbon shares further insights.",
-      "title": "Southern Lebanon: Israeli strikes kill one, wounds rescuers",
-      "summary": "Israel has carried out fresh air strikes in southern Lebanon. Officials there said at least one person was killed and four others were wounded.\n\nThe strikes came after the Israel Defense Forces issued new evacuation warnings on Sunday for residents in more than ten villages and towns, including the city of Nabatieh. Residents were ordered to leave their homes and move at least 1,000 metres away to open areas.\n\nThe hostilities are continuing despite a ceasefire signed last month between Israel and Lebanon, which was intended to halt the fighting with Iran-backed Hezbollah.\n\nIsrael has accused Hezbollah of repeated violations of the truce. France 24 International affairs editor Shirli Sitbon shares further insights.",
-      "url": "https://www.france24.com/en/southern-lebanon-israeli-strikes-kill-one-wounds-rescuers",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-05-03T15:25:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "323add33ac52c529",
-      "title_orig": "French interior minister vows crackdown on illegal raves after thousands gather at military site",
-      "summary_orig": "French Interior Minister Laurent Nunez vowed on Sunday to crack down on illegal raves as he visited the area in central France where a massive free party was held on a military base despite authorities' warnings about the risk of unexploded mortars. Organisers said they chose Nunez's hometown of Bourges to protest against a proposed bill increasing penalties for unregistered raves.",
-      "lang": "en",
-      "title_en": "French interior minister vows crackdown on illegal raves after thousands gather at military site",
-      "summary_en": "French Interior Minister Laurent Nunez vowed on Sunday to crack down on illegal raves as he visited the area in central France where a massive free party was held on a military base despite authorities' warnings about the risk of unexploded mortars. Organisers said they chose Nunez's hometown of Bourges to protest against a proposed bill increasing penalties for unregistered raves.",
-      "title": "French interior minister vows crackdown on illegal raves after thousands gather at military site",
-      "summary": "French Interior Minister Laurent Nunez vowed on Sunday to crack down on illegal raves as he visited the area in central France where a massive free party was held on a military base despite authorities' warnings about the risk of unexploded mortars. Organisers said they chose Nunez's hometown of Bourges to protest against a proposed bill increasing penalties for unregistered raves.",
-      "url": "https://www.france24.com/en/france/20260503-french-interior-minister-promises-crackdown-on-illegal-rave-parties",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-05-03T15:24:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "c64a0269381880cf",
-      "title_orig": "Russian strikes on Ukraine kill three",
-      "summary_orig": "Ukraine and Russia exchanged cross-border drone strikes as the war continued. Across Ukraine, at least three people were killed in overnight Russian attacks. Drones struck residential buildings and port infrastructure in the southern city of Odesa, causing significant damage. Strikes were also reported in the frontline region of Kherson Oblast. The Ukrainian air force said Russia launched 268 drones and one ballistic missile overnight.\n \nMeanwhile, Ukrainian drones targeted the Leningrad Oblast, hitting oil export terminals. Separate strikes also hit two of Russia’s so-called shadow fleet tankers at the Port of Novorossiysk on the Black Sea. Caroline Baum reports.",
-      "lang": "en",
-      "title_en": "Russian strikes on Ukraine kill three",
-      "summary_en": "Ukraine and Russia exchanged cross-border drone strikes as the war continued. Across Ukraine, at least three people were killed in overnight Russian attacks. Drones struck residential buildings and port infrastructure in the southern city of Odesa, causing significant damage. Strikes were also reported in the frontline region of Kherson Oblast. The Ukrainian air force said Russia launched 268 drones and one ballistic missile overnight.\n \nMeanwhile, Ukrainian drones targeted the Leningrad Oblast, hitting oil export terminals. Separate strikes also hit two of Russia’s so-called shadow fleet tankers at the Port of Novorossiysk on the Black Sea. Caroline Baum reports.",
-      "title": "Russian strikes on Ukraine kill three",
-      "summary": "Ukraine and Russia exchanged cross-border drone strikes as the war continued. Across Ukraine, at least three people were killed in overnight Russian attacks. Drones struck residential buildings and port infrastructure in the southern city of Odesa, causing significant damage. Strikes were also reported in the frontline region of Kherson Oblast. The Ukrainian air force said Russia launched 268 drones and one ballistic missile overnight.\n \nMeanwhile, Ukrainian drones targeted the Leningrad Oblast, hitting oil export terminals. Separate strikes also hit two of Russia’s so-called shadow fleet tankers at the Port of Novorossiysk on the Black Sea. Caroline Baum reports.",
-      "url": "https://www.france24.com/en/russian-strikes-on-ukraine-kill-three",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-05-03T15:24:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1637,24 +1781,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "aeb695370017a245",
-      "title_orig": "Ukrainian drones strike Russia's Primorsk oil port",
-      "summary_orig": "Ukrainian drones struck Russia's Primorsk port and a number of vessels in the Baltic Sea on Sunday as part of a wave of attacks targeting Russian energy infrastructure. While Ukraine's President Volodymyr Zelensky said the strikes limit \"Russia's war potential\", Kremlin spokesman Dmitry Peskov said that global oil prices may rise further if ​Ukraine continues to hit Russian oil infrastructure.",
-      "lang": "en",
-      "title_en": "Ukrainian drones strike Russia's Primorsk oil port",
-      "summary_en": "Ukrainian drones struck Russia's Primorsk port and a number of vessels in the Baltic Sea on Sunday as part of a wave of attacks targeting Russian energy infrastructure. While Ukraine's President Volodymyr Zelensky said the strikes limit \"Russia's war potential\", Kremlin spokesman Dmitry Peskov said that global oil prices may rise further if ​Ukraine continues to hit Russian oil infrastructure.",
-      "title": "Ukrainian drones strike Russia's Primorsk oil port",
-      "summary": "Ukrainian drones struck Russia's Primorsk port and a number of vessels in the Baltic Sea on Sunday as part of a wave of attacks targeting Russian energy infrastructure. While Ukraine's President Volodymyr Zelensky said the strikes limit \"Russia's war potential\", Kremlin spokesman Dmitry Peskov said that global oil prices may rise further if ​Ukraine continues to hit Russian oil infrastructure.",
-      "url": "https://www.france24.com/en/europe/20260503-ukrainian-drones-strike-russia-baltic-sea-port-primorsk",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-05-03T14:26:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1838,60 +1964,6 @@
       "geo": {}
     },
     {
-      "id": "672dddcb532fa100",
-      "title_orig": "Illegal party at French military site draws nearly 40,000",
-      "summary_orig": "Up to 40,000 people gathered for an illegal rave at a former military site in France. Local officials said bomb disposal experts had to intervene after a shell was discovered near a road running through the party site. Camille Corcoran reports.",
-      "lang": "en",
-      "title_en": "Illegal party at French military site draws nearly 40,000",
-      "summary_en": "Up to 40,000 people gathered for an illegal rave at a former military site in France. Local officials said bomb disposal experts had to intervene after a shell was discovered near a road running through the party site. Camille Corcoran reports.",
-      "title": "Illegal party at French military site draws nearly 40,000",
-      "summary": "Up to 40,000 people gathered for an illegal rave at a former military site in France. Local officials said bomb disposal experts had to intervene after a shell was discovered near a road running through the party site. Camille Corcoran reports.",
-      "url": "https://www.france24.com/en/illegal-party-at-french-military-site-draws-nearly-40-000",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-05-03T12:17:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "9ec0a87a79e49771",
-      "title_orig": "How can China best profit from Trump’s latest rift with traditional US allies?",
-      "summary_orig": "Donald Trump’s latest attacks on US allies in Europe – including the order to withdraw troops from Germany and threats to do the same in Italy and Spain – may help to relieve the pressure on China.\nFor now, Beijing’s priority should be to deny the US the chance to “redirect attention towards China” and let Washington’s own actions do the work, some analysts have argued.\nTrump has escalated his attacks on European allies in his second term, threatening to quit Nato over their refusal to support...",
-      "lang": "en",
-      "title_en": "How can China best profit from Trump’s latest rift with traditional US allies?",
-      "summary_en": "Donald Trump’s latest attacks on US allies in Europe – including the order to withdraw troops from Germany and threats to do the same in Italy and Spain – may help to relieve the pressure on China.\nFor now, Beijing’s priority should be to deny the US the chance to “redirect attention towards China” and let Washington’s own actions do the work, some analysts have argued.\nTrump has escalated his attacks on European allies in his second term, threatening to quit Nato over their refusal to support...",
-      "title": "How can China best profit from Trump’s latest rift with traditional US allies?",
-      "summary": "Donald Trump’s latest attacks on US allies in Europe – including the order to withdraw troops from Germany and threats to do the same in Italy and Spain – may help to relieve the pressure on China.\nFor now, Beijing’s priority should be to deny the US the chance to “redirect attention towards China” and let Washington’s own actions do the work, some analysts have argued.\nTrump has escalated his attacks on European allies in his second term, threatening to quit Nato over their refusal to support...",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3352274/how-can-china-best-profit-trumps-latest-rift-traditional-us-allies?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2026-05-03T12:00:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "52c7304a2dfd1d57",
-      "title_orig": "Hong Kong police hunt for man over damage to US consulate sign",
-      "summary_orig": "Hong Kong police are searching for a man suspected of causing criminal damage to the sign outside the United States consulate in Central.\nPolice received a report at around 2.40pm on Sunday from consulate staff that the sign on the exterior wall of the premises on Garden Road showed signs of tampering.\nOfficers at the scene discovered the first “S” in the “States” had been partially dislodged from the wall. The rest of the sign was undamaged.\nAuthorities are searching for a man in connection...",
-      "lang": "en",
-      "title_en": "Hong Kong police hunt for man over damage to US consulate sign",
-      "summary_en": "Hong Kong police are searching for a man suspected of causing criminal damage to the sign outside the United States consulate in Central.\nPolice received a report at around 2.40pm on Sunday from consulate staff that the sign on the exterior wall of the premises on Garden Road showed signs of tampering.\nOfficers at the scene discovered the first “S” in the “States” had been partially dislodged from the wall. The rest of the sign was undamaged.\nAuthorities are searching for a man in connection...",
-      "title": "Hong Kong police hunt for man over damage to US consulate sign",
-      "summary": "Hong Kong police are searching for a man suspected of causing criminal damage to the sign outside the United States consulate in Central.\nPolice received a report at around 2.40pm on Sunday from consulate staff that the sign on the exterior wall of the premises on Garden Road showed signs of tampering.\nOfficers at the scene discovered the first “S” in the “States” had been partially dislodged from the wall. The rest of the sign was undamaged.\nAuthorities are searching for a man in connection...",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352281/hong-kong-police-hunt-man-over-damage-us-consulate-sign?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2026-05-03T11:58:11+00:00",
-      "tags": [
-        "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7ee0845d53d2889d",
       "title_orig": "Polanski says he would discourage ‘globalise the intifada’ chant but warns against march bans",
       "summary_orig": "Green party leader says specifically outlawing controversial phrase would restrict freedom of speech Zack Polanski has said he would discourage pro-Palestine protesters from using the chant “globalise the intifada”, but the Green party leader warned against specifically outlawing the phrase or banning a protest planned in London later this month. Speaking earlier in the weekend, Keir Starmer called for “tougher action” against marchers using the chant after last week’s attack on Jewish people in Golders Green, saying pro-Gaza marches risked having a cumulative effect of being intimidating. Continue reading...",
@@ -1907,42 +1979,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "3fed0aeccd2bde42",
-      "title_orig": "Two dead, three injured after explosion in southern England, police say",
-      "summary_orig": "Police, who declared it a major incident, said they were not treating it as a suspected terrorist event.",
-      "lang": "en",
-      "title_en": "Two dead, three injured after explosion in southern England, police say",
-      "summary_en": "Police, who declared it a major incident, said they were not treating it as a suspected terrorist event.",
-      "title": "Two dead, three injured after explosion in southern England, police say",
-      "summary": "Police, who declared it a major incident, said they were not treating it as a suspected terrorist event.",
-      "url": "https://www.straitstimes.com/world/europe/two-people-die-after-explosion-in-southern-england-police-say",
-      "source": "The Straits Times World News",
-      "published_at": "2026-05-03T11:04:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c5a5fe1ebf8744ea",
-      "title_orig": "Hezbollah lawmaker says group can ‘thwart’ goals of Lebanon-Israel talks",
-      "summary_orig": "Israeli attacks on Lebanon have killed more than 2,600 people and displaced more than a million.",
-      "lang": "en",
-      "title_en": "Hezbollah lawmaker says group can ‘thwart’ goals of Lebanon-Israel talks",
-      "summary_en": "Israeli attacks on Lebanon have killed more than 2,600 people and displaced more than a million.",
-      "title": "Hezbollah lawmaker says group can ‘thwart’ goals of Lebanon-Israel talks",
-      "summary": "Israeli attacks on Lebanon have killed more than 2,600 people and displaced more than a million.",
-      "url": "https://www.straitstimes.com/world/middle-east/hezbollah-lawmaker-says-group-can-thwart-goals-of-lebanon-israel-talks",
-      "source": "The Straits Times World News",
-      "published_at": "2026-05-03T10:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1982,24 +2018,6 @@
       "geo": {}
     },
     {
-      "id": "e7effa76f94832ab",
-      "title_orig": "Brixton shooting: Four in hospital after drive-by attack at south London BBQ",
-      "summary_orig": "Four people were rushed to hospital with gunshot wounds and one remains in a life-threatening condition after the attack in south London",
-      "lang": "en",
-      "title_en": "Brixton shooting: Four in hospital after drive-by attack at south London BBQ",
-      "summary_en": "Four people were rushed to hospital with gunshot wounds and one remains in a life-threatening condition after the attack in south London",
-      "title": "Brixton shooting: Four in hospital after drive-by attack at south London BBQ",
-      "summary": "Four people were rushed to hospital with gunshot wounds and one remains in a life-threatening condition after the attack in south London",
-      "url": "https://www.standard.co.uk/news/crime/brixton-shooting-four-injured-coldharbour-lane-b1280842.html",
-      "source": "The Standard News",
-      "published_at": "2026-05-03T09:33:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4d49a82351ae42b3",
       "title_orig": "The quiet Cambridge yard that was nearly destroyed by a bomb in World War Two",
       "summary_orig": "Jordan's Yard used to be filled with shops and homes but is now ignored by most people who walk past it",
@@ -2011,24 +2029,6 @@
       "url": "https://www.cambridge-news.co.uk/news/history/quiet-cambridge-yard-nearly-destroyed-33850138",
       "source": "Cambridgeshire Live - Home",
       "published_at": "2026-05-03T09:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "19ba68cc7a09f958",
-      "title_orig": "Zack Polanski hits back at Met chief over Golders Green attack arrest criticism",
-      "summary_orig": "Sir Mark Rowley criticised the Green Party leader after he shared a post which suggested police had used excessive force at the Golders Green terror attack",
-      "lang": "en",
-      "title_en": "Zack Polanski hits back at Met chief over Golders Green attack arrest criticism",
-      "summary_en": "Sir Mark Rowley criticised the Green Party leader after he shared a post which suggested police had used excessive force at the Golders Green terror attack",
-      "title": "Zack Polanski hits back at Met chief over Golders Green attack arrest criticism",
-      "summary": "Sir Mark Rowley criticised the Green Party leader after he shared a post which suggested police had used excessive force at the Golders Green terror attack",
-      "url": "https://www.standard.co.uk/news/london/zack-polanski-golders-green-mark-rowley-met-police-b1280896.html",
-      "source": "The Standard News",
-      "published_at": "2026-05-03T08:55:29+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2369,24 +2369,6 @@
       "geo": {}
     },
     {
-      "id": "3065b6186fcec36e",
-      "title_orig": "Killer, towpath sex attacker and dangerous driver among those jailed in April",
-      "summary_orig": "Various cases have been dealt with at Leicester's courts",
-      "lang": "en",
-      "title_en": "Killer, towpath sex attacker and dangerous driver among those jailed in April",
-      "summary_en": "Various cases have been dealt with at Leicester's courts",
-      "title": "Killer, towpath sex attacker and dangerous driver among those jailed in April",
-      "summary": "Various cases have been dealt with at Leicester's courts",
-      "url": "https://www.leicestermercury.co.uk/news/leicester-news/gallery/killer-towpath-sex-attacker-dangerous-10946961",
-      "source": "Leicestershire Live - frontpage",
-      "published_at": "2026-05-02T14:45:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "92d86619054713b9",
       "title_orig": "Leeds United loanee Joe Gelhardt keeps Premier League hopes alive after playing role in Hull City win",
       "summary_orig": "Hull City are headed for the play-offs on a dramatic afternoon for the Leeds United loan striker",
@@ -2501,24 +2483,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "12a8d5e709a3974a",
-      "title_orig": "In Bulgaria, a New Government Challenges an Old Puppet Master",
-      "summary_orig": "Delyan Peevski was a focus of protests that led to Bulgarian elections. Can a new government shake his hold on power?",
-      "lang": "en",
-      "title_en": "In Bulgaria, a New Government Challenges an Old Puppet Master",
-      "summary_en": "Delyan Peevski was a focus of protests that led to Bulgarian elections. Can a new government shake his hold on power?",
-      "title": "In Bulgaria, a New Government Challenges an Old Puppet Master",
-      "summary": "Delyan Peevski was a focus of protests that led to Bulgarian elections. Can a new government shake his hold on power?",
-      "url": "https://www.nytimes.com/2026/05/01/world/europe/bulgaria-election-peevski.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-02T02:09:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2753,24 +2717,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c815ea3d6b773838",
-      "title_orig": "Hezbollah Using Fiber-Optic Drones Against Israeli Targets",
-      "summary_orig": "The Lebanese militant group is attacking Israeli troops with explosive drones controlled by fiber-optic cables, like those commonly used in the war in Ukraine.",
-      "lang": "en",
-      "title_en": "Hezbollah Using Fiber-Optic Drones Against Israeli Targets",
-      "summary_en": "The Lebanese militant group is attacking Israeli troops with explosive drones controlled by fiber-optic cables, like those commonly used in the war in Ukraine.",
-      "title": "Hezbollah Using Fiber-Optic Drones Against Israeli Targets",
-      "summary": "The Lebanese militant group is attacking Israeli troops with explosive drones controlled by fiber-optic cables, like those commonly used in the war in Ukraine.",
-      "url": "https://www.nytimes.com/2026/04/30/world/middleeast/hezbollah-fiber-optic-drones.html",
-      "source": "NYT > World News",
-      "published_at": "2026-04-30T21:10:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3316,24 +3262,6 @@
       "url": "https://www.latimes.com/california/story/2026-04-19/trump-doj-habeas-corpus-immigration-detention",
       "source": "World & Nation",
       "published_at": "2026-04-19T10:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b28ccb125d3998b8",
-      "title_orig": "In 1960, fears over papal influence. In 2026, a president attacks a pope",
-      "summary_orig": "Trump's feud with Pope Leo XIV flips history from fears presidents would be loyal to a pope to openly fighting with one.",
-      "lang": "en",
-      "title_en": "In 1960, fears over papal influence. In 2026, a president attacks a pope",
-      "summary_en": "Trump's feud with Pope Leo XIV flips history from fears presidents would be loyal to a pope to openly fighting with one.",
-      "title": "In 1960, fears over papal influence. In 2026, a president attacks a pope",
-      "summary": "Trump's feud with Pope Leo XIV flips history from fears presidents would be loyal to a pope to openly fighting with one.",
-      "url": "https://www.latimes.com/world-nation/story/2026-04-15/in-1960-fears-over-papal-sway-in-2026-president-attacks-pope",
-      "source": "World & Nation",
-      "published_at": "2026-04-15T10:00:00+00:00",
       "tags": [
         "airport/security"
       ],
