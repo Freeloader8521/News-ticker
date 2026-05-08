@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-05-08T16:56:15.371542+00:00",
+  "generated_at": "2026-05-08T18:12:13.140746+00:00",
   "items": [
+    {
+      "id": "7e25eb0a4faa342e",
+      "title_orig": "Andrew Mountbatten-Windsor ‘demands taxpayer-funded security’ after ‘attack at Sandringham home’",
+      "summary_orig": "The former Duke of York is said to have been left 'shaken' by the recent security incident.",
+      "lang": "en",
+      "title_en": "Andrew Mountbatten-Windsor ‘demands taxpayer-funded security’ after ‘attack at Sandringham home’",
+      "summary_en": "The former Duke of York is said to have been left 'shaken' by the recent security incident.",
+      "title": "Andrew Mountbatten-Windsor ‘demands taxpayer-funded security’ after ‘attack at Sandringham home’",
+      "summary": "The former Duke of York is said to have been left 'shaken' by the recent security incident.",
+      "url": "https://metro.co.uk/2026/05/08/andrew-mountbatten-windsor-demands-taxpayer-funded-security-attack-sandringham-home-28290453/",
+      "source": "Metro",
+      "published_at": "2026-05-08T17:56:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5e55172b5fbe92f3",
+      "title_orig": "Brothers accused of assaulting armed cop at Manchester Airport accused of lying while defence call alleged victim 'rotten apple'",
+      "summary_orig": "Mohammed Fahir Amaaz and Muhammad Amaad deny assaulting PC Zachary Marsden",
+      "lang": "en",
+      "title_en": "Brothers accused of assaulting armed cop at Manchester Airport accused of lying while defence call alleged victim 'rotten apple'",
+      "summary_en": "Mohammed Fahir Amaaz and Muhammad Amaad deny assaulting PC Zachary Marsden",
+      "title": "Brothers accused of assaulting armed cop at Manchester Airport accused of lying while defence call alleged victim 'rotten apple'",
+      "summary": "Mohammed Fahir Amaaz and Muhammad Amaad deny assaulting PC Zachary Marsden",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/brothers-accused-assaulting-armed-cop-33914022",
+      "source": "MEN - News",
+      "published_at": "2026-05-08T17:54:11+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "b5a9d2d5c81639fe",
+      "title_orig": "Greece's examines mystery naval drone found in Ionian Sea",
+      "summary_orig": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
+      "lang": "en",
+      "title_en": "Greece's examines mystery naval drone found in Ionian Sea",
+      "summary_en": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
+      "title": "Greece's examines mystery naval drone found in Ionian Sea",
+      "summary": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
+      "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-05-08T17:53:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "fb100ae0241e8154",
       "title_orig": "Iran War Live Updates: U.S. Fires on Iranian Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks",
@@ -12,11 +75,29 @@
       "summary": "Iran’s foreign minister accused Washington of undermining diplomacy. Secretary of State Marco Rubio said the U.S. expected to hear from Tehran on Friday.",
       "url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
       "source": "NYT > World News",
-      "published_at": "2026-05-08T16:43:28+00:00",
+      "published_at": "2026-05-08T17:45:32+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "b476250d095bcc5c",
+      "title_orig": "Canvas system is online after a cyberattack disrupted thousands of schools",
+      "summary_orig": "Tens of thousands of students studying for final exams around the world Friday regained access to a key online learning…",
+      "lang": "en",
+      "title_en": "Canvas system is online after a cyberattack disrupted thousands of schools",
+      "summary_en": "Tens of thousands of students studying for final exams around the world Friday regained access to a key online learning…",
+      "title": "Canvas system is online after a cyberattack disrupted thousands of schools",
+      "summary": "Tens of thousands of students studying for final exams around the world Friday regained access to a key online learning…",
+      "url": "https://wtop.com/education/2026/05/canvas-system-used-by-thousands-of-schools-is-back-online-after-a-cyberattack-disrupted-studies/",
+      "source": "WTOP News",
+      "published_at": "2026-05-08T17:43:45+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -30,7 +111,241 @@
       "summary": "High court strikes down a redistricting referendum that recently passed which would’ve given Democrats four more House seats Virginia supreme court strikes down new congressional maps in win for Republicans Sign up for the Breaking News US email A reminder that my colleagues are covering the latest on the conflict in the Middle East. Including secretary of state Marco Rubio’s visit to Rome, to mend strained relations with Italian leaders and the Vatican after Donald Trump chided Pope Leo XIV for his stance on the war in Iran. Rubio told reporters in Rome that the US should get a response on Friday from Iran to its proposal to end the war. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/may/08/donald-trump-republicans-tennessee-redistricting-maps-voting-rights-iran-latest-news-updates",
       "source": "World news | The Guardian",
-      "published_at": "2026-05-08T16:39:25+00:00",
+      "published_at": "2026-05-08T17:43:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "bcc13f5fda15226f",
+      "title_orig": "Cyberattack on system used by thousands of US schools disrupts final exams",
+      "summary_orig": "Nationwide Canvas outage left students and faculty ‘dead in the water’ and rushing to rearrange end of academic year A system that thousands of schools and universities in the US use was offline on Thursday during a cyberattack , creating chaos as students tried to study for finals and underscoring education’s dependence on technology. Students quickly took to social media to ask if others were unable to access Canvas, with many panicking that they could no longer view course materials housed within the platform to study for their final exams. Continue reading...",
+      "lang": "en",
+      "title_en": "Cyberattack on system used by thousands of US schools disrupts final exams",
+      "summary_en": "Nationwide Canvas outage left students and faculty ‘dead in the water’ and rushing to rearrange end of academic year A system that thousands of schools and universities in the US use was offline on Thursday during a cyberattack , creating chaos as students tried to study for finals and underscoring education’s dependence on technology. Students quickly took to social media to ask if others were unable to access Canvas, with many panicking that they could no longer view course materials housed within the platform to study for their final exams. Continue reading...",
+      "title": "Cyberattack on system used by thousands of US schools disrupts final exams",
+      "summary": "Nationwide Canvas outage left students and faculty ‘dead in the water’ and rushing to rearrange end of academic year A system that thousands of schools and universities in the US use was offline on Thursday during a cyberattack , creating chaos as students tried to study for finals and underscoring education’s dependence on technology. Students quickly took to social media to ask if others were unable to access Canvas, with many panicking that they could no longer view course materials housed within the platform to study for their final exams. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/may/08/canvas-cyberattack-us-schools-universities",
+      "source": "World news | The Guardian",
+      "published_at": "2026-05-08T17:41:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "879027084c3e1ff9",
+      "title_orig": "ABC lawyers accuse Trump’s FCC of punishing network for political reasons",
+      "summary_orig": "Network lawyers in a legal motion strongly pushed back against the FCC’s investigation into The View talkshow Lawyers representing an ABC station have accused the Federal Communications Commission (FCC) of punishing the network for political purposes in a strongly worded attack on the Trump-controlled commission’s investigation into top-rated talkshow, The View. In a legal motion filed on Thursday, KTRK-TV, a Houston-based local television station owned by ABC, pushed back strongly against the FCC investigation, accusing the purportedly independent agency of taking actions that “threaten to upend decades of settled law and practice and chill critical protected speech, both with respect to The View and more broadly”. Continue reading...",
+      "lang": "en",
+      "title_en": "ABC lawyers accuse Trump’s FCC of punishing network for political reasons",
+      "summary_en": "Network lawyers in a legal motion strongly pushed back against the FCC’s investigation into The View talkshow Lawyers representing an ABC station have accused the Federal Communications Commission (FCC) of punishing the network for political purposes in a strongly worded attack on the Trump-controlled commission’s investigation into top-rated talkshow, The View. In a legal motion filed on Thursday, KTRK-TV, a Houston-based local television station owned by ABC, pushed back strongly against the FCC investigation, accusing the purportedly independent agency of taking actions that “threaten to upend decades of settled law and practice and chill critical protected speech, both with respect to The View and more broadly”. Continue reading...",
+      "title": "ABC lawyers accuse Trump’s FCC of punishing network for political reasons",
+      "summary": "Network lawyers in a legal motion strongly pushed back against the FCC’s investigation into The View talkshow Lawyers representing an ABC station have accused the Federal Communications Commission (FCC) of punishing the network for political purposes in a strongly worded attack on the Trump-controlled commission’s investigation into top-rated talkshow, The View. In a legal motion filed on Thursday, KTRK-TV, a Houston-based local television station owned by ABC, pushed back strongly against the FCC investigation, accusing the purportedly independent agency of taking actions that “threaten to upend decades of settled law and practice and chill critical protected speech, both with respect to The View and more broadly”. Continue reading...",
+      "url": "https://www.theguardian.com/media/2026/may/08/abc-lawyers-trump-fcc-targeting-network",
+      "source": "World news | The Guardian",
+      "published_at": "2026-05-08T17:34:42+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "7de680bac09cea3c",
+      "title_orig": "Foreign Office updates Turkey travel warning due to 'high threat'",
+      "summary_orig": "The FCDO advises against all travel to some parts of Turkey",
+      "lang": "en",
+      "title_en": "Foreign Office updates Turkey travel warning due to 'high threat'",
+      "summary_en": "The FCDO advises against all travel to some parts of Turkey",
+      "title": "Foreign Office updates Turkey travel warning due to 'high threat'",
+      "summary": "The FCDO advises against all travel to some parts of Turkey",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/foreign-office-updates-turkey-travel-33915671",
+      "source": "Liverpool Echo - News",
+      "published_at": "2026-05-08T17:31:22+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "1f6a8528fb552f79",
+      "title_orig": "A Canvas outage tied to a cyberattack has wreaked havoc on colleges’ final exam season",
+      "summary_orig": "Schools and universities across the country are recovering from an outage that knocked down Canvas, an online platform that manages…",
+      "lang": "en",
+      "title_en": "A Canvas outage tied to a cyberattack has wreaked havoc on colleges’ final exam season",
+      "summary_en": "Schools and universities across the country are recovering from an outage that knocked down Canvas, an online platform that manages…",
+      "title": "A Canvas outage tied to a cyberattack has wreaked havoc on colleges’ final exam season",
+      "summary": "Schools and universities across the country are recovering from an outage that knocked down Canvas, an online platform that manages…",
+      "url": "https://wtop.com/education/2026/05/a-canvas-outage-tied-to-a-cyberattack-has-wreaked-havoc-on-colleges-final-exam-season/",
+      "source": "WTOP News",
+      "published_at": "2026-05-08T17:24:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "17befb3acdedd0bd",
+      "title_orig": "Drunk easyJet passenger demanded to see captain and sang name of flight attendant",
+      "summary_orig": "Fintan Wyatt also asked the member of cabin crew \"f*** me girl, has your fella left you or something?\" on a flight from Sharm El-Sheikh to John Lennon Airport",
+      "lang": "en",
+      "title_en": "Drunk easyJet passenger demanded to see captain and sang name of flight attendant",
+      "summary_en": "Fintan Wyatt also asked the member of cabin crew \"f*** me girl, has your fella left you or something?\" on a flight from Sharm El-Sheikh to John Lennon Airport",
+      "title": "Drunk easyJet passenger demanded to see captain and sang name of flight attendant",
+      "summary": "Fintan Wyatt also asked the member of cabin crew \"f*** me girl, has your fella left you or something?\" on a flight from Sharm El-Sheikh to John Lennon Airport",
+      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/drunk-easyjet-passenger-demanded-see-33914529",
+      "source": "Liverpool Echo - News",
+      "published_at": "2026-05-08T17:21:27+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8b18b7aa0d17917f",
+      "title_orig": "Middle East crisis live: US fires on two Iranian-flagged oil tankers it claims were trying to violate blockade",
+      "summary_orig": "Centcom says it has struck two tankers heading for Iran after Tehran warned Washington was violating fragile ceasefire Ceasefire under threat after strikes exchanged in strait The ship monitor Tanker Trackers has posted the following on X about the Ocean Koi oil tanker: Her new name is actually JIN LI (9255933), and has been so since 2025-11-30. Examining our data, we can see that she’s transported various Iranian hydrocarbons on at least 16 occasions since 2021; and with full knowledge of Iran because half of her loadings were conducted directly at port in Iran while the other half were conducted via Ship-to-Ship transfer further out. JIN LI’s ownership is based in Shanghai, China. The vessel was slapped with sanctions by US OFAC on 2026-02-25. Continue reading...",
+      "lang": "en",
+      "title_en": "Middle East crisis live: US fires on two Iranian-flagged oil tankers it claims were trying to violate blockade",
+      "summary_en": "Centcom says it has struck two tankers heading for Iran after Tehran warned Washington was violating fragile ceasefire Ceasefire under threat after strikes exchanged in strait The ship monitor Tanker Trackers has posted the following on X about the Ocean Koi oil tanker: Her new name is actually JIN LI (9255933), and has been so since 2025-11-30. Examining our data, we can see that she’s transported various Iranian hydrocarbons on at least 16 occasions since 2021; and with full knowledge of Iran because half of her loadings were conducted directly at port in Iran while the other half were conducted via Ship-to-Ship transfer further out. JIN LI’s ownership is based in Shanghai, China. The vessel was slapped with sanctions by US OFAC on 2026-02-25. Continue reading...",
+      "title": "Middle East crisis live: US fires on two Iranian-flagged oil tankers it claims were trying to violate blockade",
+      "summary": "Centcom says it has struck two tankers heading for Iran after Tehran warned Washington was violating fragile ceasefire Ceasefire under threat after strikes exchanged in strait The ship monitor Tanker Trackers has posted the following on X about the Ocean Koi oil tanker: Her new name is actually JIN LI (9255933), and has been so since 2025-11-30. Examining our data, we can see that she’s transported various Iranian hydrocarbons on at least 16 occasions since 2021; and with full knowledge of Iran because half of her loadings were conducted directly at port in Iran while the other half were conducted via Ship-to-Ship transfer further out. JIN LI’s ownership is based in Shanghai, China. The vessel was slapped with sanctions by US OFAC on 2026-02-25. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/may/08/iran-us-israel-donald-trump-lebanon-ceasefire-oil-strait-hormuz-missiles-latest-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2026-05-08T17:20:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "70194595b28fc818",
+      "title_orig": "More than a dozen reported killed in Israeli attacks on south Lebanon",
+      "summary_orig": "Israeli air raids on southern Lebanon escalate ahead of new round of talks expected next week in Washington, DC.",
+      "lang": "en",
+      "title_en": "More than a dozen reported killed in Israeli attacks on south Lebanon",
+      "summary_en": "Israeli air raids on southern Lebanon escalate ahead of new round of talks expected next week in Washington, DC.",
+      "title": "More than a dozen reported killed in Israeli attacks on south Lebanon",
+      "summary": "Israeli air raids on southern Lebanon escalate ahead of new round of talks expected next week in Washington, DC.",
+      "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-05-08T17:18:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f173f80da5f86bfa",
+      "title_orig": "Marco Rubio hits out at journalist asking if he will tell Trump to stop Pope attacks",
+      "summary_orig": "Marco Rubio lashed out at a journalist after they asked him if he will tell Donald Trump to stop attacking Pope Leo XIV .",
+      "lang": "en",
+      "title_en": "Marco Rubio hits out at journalist asking if he will tell Trump to stop Pope attacks",
+      "summary_en": "Marco Rubio lashed out at a journalist after they asked him if he will tell Donald Trump to stop attacking Pope Leo XIV .",
+      "title": "Marco Rubio hits out at journalist asking if he will tell Trump to stop Pope attacks",
+      "summary": "Marco Rubio lashed out at a journalist after they asked him if he will tell Donald Trump to stop attacking Pope Leo XIV .",
+      "url": "https://www.independent.co.uk/tv/news/marco-rubio-pope-trump-attacks-video-b2973255.html",
+      "source": "The Independent World",
+      "published_at": "2026-05-08T17:14:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ecd16c0228f47218",
+      "title_orig": "Shaw named Football Writers' Women's Player of Year",
+      "summary_orig": "Manchester City striker Khadija Shaw is crowned the Football Writers' Association Women's Player of the Season.",
+      "lang": "en",
+      "title_en": "Shaw named Football Writers' Women's Player of Year",
+      "summary_en": "Manchester City striker Khadija Shaw is crowned the Football Writers' Association Women's Player of the Season.",
+      "title": "Shaw named Football Writers' Women's Player of Year",
+      "summary": "Manchester City striker Khadija Shaw is crowned the Football Writers' Association Women's Player of the Season.",
+      "url": "https://www.bbc.com/sport/football/articles/c4g08d8nkj5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-05-08T17:06:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "72a06521a21af207",
+      "title_orig": "Suspect in White House correspondents’ dinner attack seeks recusal of top Justice Dept. officials",
+      "summary_orig": "A man charged with attacking the White House Correspondents’ Association dinner is seeking to disqualify top Justice Department officials from direct involvement in prosecuting him because they could be considered victims or witnesses in the case.",
+      "lang": "en",
+      "title_en": "Suspect in White House correspondents’ dinner attack seeks recusal of top Justice Dept. officials",
+      "summary_en": "A man charged with attacking the White House Correspondents’ Association dinner is seeking to disqualify top Justice Department officials from direct involvement in prosecuting him because they could be considered victims or witnesses in the case.",
+      "title": "Suspect in White House correspondents’ dinner attack seeks recusal of top Justice Dept. officials",
+      "summary": "A man charged with attacking the White House Correspondents’ Association dinner is seeking to disqualify top Justice Department officials from direct involvement in prosecuting him because they could be considered victims or witnesses in the case.",
+      "url": "https://www.seattletimes.com/nation-world/nation/suspect-in-white-house-correspondents-dinner-attack-seeks-recusal-of-top-justice-dept-officials/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-05-08T16:54:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "77cfa682d91af799",
+      "title_orig": "Bombers rookie Dante Daniels turns childhood struggles into CFL dream",
+      "summary_orig": "Dante Daniels says he was an emotional kid and was quick to tears. Fast-forward to today, however, and that sensitive boy has grown into a 272-pound rookie tight end.",
+      "lang": "en",
+      "title_en": "Bombers rookie Dante Daniels turns childhood struggles into CFL dream",
+      "summary_en": "Dante Daniels says he was an emotional kid and was quick to tears. Fast-forward to today, however, and that sensitive boy has grown into a 272-pound rookie tight end.",
+      "title": "Bombers rookie Dante Daniels turns childhood struggles into CFL dream",
+      "summary": "Dante Daniels says he was an emotional kid and was quick to tears. Fast-forward to today, however, and that sensitive boy has grown into a 272-pound rookie tight end.",
+      "url": "https://globalnews.ca/news/11840612/bombers-rookie-childhood-struggles-cfl-dream/",
+      "source": "globalnews.ca",
+      "published_at": "2026-05-08T16:51:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "4d22d1a81e4a69ff",
+      "title_orig": "Ninth arrest in investigation into Golders Green arson attack",
+      "summary_orig": "A 48-year-old man was arrested on Thursday in east London on suspicion of conspiracy to commit arson, Counter Terrorism Policing (CTP) London said",
+      "lang": "en",
+      "title_en": "Ninth arrest in investigation into Golders Green arson attack",
+      "summary_en": "A 48-year-old man was arrested on Thursday in east London on suspicion of conspiracy to commit arson, Counter Terrorism Policing (CTP) London said",
+      "title": "Ninth arrest in investigation into Golders Green arson attack",
+      "summary": "A 48-year-old man was arrested on Thursday in east London on suspicion of conspiracy to commit arson, Counter Terrorism Policing (CTP) London said",
+      "url": "https://www.standard.co.uk/news/crime/ninth-arrest-golders-green-arson-attack-b1281629.html",
+      "source": "The Standard News",
+      "published_at": "2026-05-08T16:50:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fa1ee4980c1d8ef8",
+      "title_orig": "Evacuation of hantavirus-stricken cruise ship could face delays due to bad weather",
+      "summary_orig": "‘Unprecedented operation’ under way to receive MV Hondius off Tenerife to assess and repatriate those onboard • What is hantavirus? • Where did the cruise ship hantavirus come from and what happens next? The evacuation of the hantavirus-stricken MV Hondius cruise ship must be completed within 24 hours of the vessel reaching Tenerife on Sunday or face days or even weeks of delay because of bad weather, authorities in the Canary Islands warned on Friday. The Dutch-flagged vessel, which was sailing from Argentina to Cape Verde, is due to arrive in the Spanish archipelago this weekend, triggering what Spain’s health minister has termed an “unprecedented operation” to receive, assess and repatriate the 149 passengers and crew members onboard. Continue reading...",
+      "lang": "en",
+      "title_en": "Evacuation of hantavirus-stricken cruise ship could face delays due to bad weather",
+      "summary_en": "‘Unprecedented operation’ under way to receive MV Hondius off Tenerife to assess and repatriate those onboard • What is hantavirus? • Where did the cruise ship hantavirus come from and what happens next? The evacuation of the hantavirus-stricken MV Hondius cruise ship must be completed within 24 hours of the vessel reaching Tenerife on Sunday or face days or even weeks of delay because of bad weather, authorities in the Canary Islands warned on Friday. The Dutch-flagged vessel, which was sailing from Argentina to Cape Verde, is due to arrive in the Spanish archipelago this weekend, triggering what Spain’s health minister has termed an “unprecedented operation” to receive, assess and repatriate the 149 passengers and crew members onboard. Continue reading...",
+      "title": "Evacuation of hantavirus-stricken cruise ship could face delays due to bad weather",
+      "summary": "‘Unprecedented operation’ under way to receive MV Hondius off Tenerife to assess and repatriate those onboard • What is hantavirus? • Where did the cruise ship hantavirus come from and what happens next? The evacuation of the hantavirus-stricken MV Hondius cruise ship must be completed within 24 hours of the vessel reaching Tenerife on Sunday or face days or even weeks of delay because of bad weather, authorities in the Canary Islands warned on Friday. The Dutch-flagged vessel, which was sailing from Argentina to Cape Verde, is due to arrive in the Spanish archipelago this weekend, triggering what Spain’s health minister has termed an “unprecedented operation” to receive, assess and repatriate the 149 passengers and crew members onboard. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/may/08/spanish-authorities-prepare-arrival-hantavirus-cruise-ship-hondius",
+      "source": "World news | The Guardian",
+      "published_at": "2026-05-08T16:41:32+00:00",
       "tags": [
         "airport/security"
       ],
@@ -53,24 +368,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8b18b7aa0d17917f",
-      "title_orig": "Middle East crisis live: US fires on two Iranian-flagged oil tankers it claims were trying to violate blockade",
-      "summary_orig": "Centcom says it has struck two tankers heading for Iran after Tehran warned Washington was violating fragile ceasefire Ceasefire under threat after strikes exchanged in strait The ship monitor Tanker Trackers has posted the following on X about the Ocean Koi oil tanker: Her new name is actually JIN LI (9255933), and has been so since 2025-11-30. Examining our data, we can see that she’s transported various Iranian hydrocarbons on at least 16 occasions since 2021; and with full knowledge of Iran because half of her loadings were conducted directly at port in Iran while the other half were conducted via Ship-to-Ship transfer further out. JIN LI’s ownership is based in Shanghai, China. The vessel was slapped with sanctions by US OFAC on 2026-02-25. Continue reading...",
-      "lang": "en",
-      "title_en": "Middle East crisis live: US fires on two Iranian-flagged oil tankers it claims were trying to violate blockade",
-      "summary_en": "Centcom says it has struck two tankers heading for Iran after Tehran warned Washington was violating fragile ceasefire Ceasefire under threat after strikes exchanged in strait The ship monitor Tanker Trackers has posted the following on X about the Ocean Koi oil tanker: Her new name is actually JIN LI (9255933), and has been so since 2025-11-30. Examining our data, we can see that she’s transported various Iranian hydrocarbons on at least 16 occasions since 2021; and with full knowledge of Iran because half of her loadings were conducted directly at port in Iran while the other half were conducted via Ship-to-Ship transfer further out. JIN LI’s ownership is based in Shanghai, China. The vessel was slapped with sanctions by US OFAC on 2026-02-25. Continue reading...",
-      "title": "Middle East crisis live: US fires on two Iranian-flagged oil tankers it claims were trying to violate blockade",
-      "summary": "Centcom says it has struck two tankers heading for Iran after Tehran warned Washington was violating fragile ceasefire Ceasefire under threat after strikes exchanged in strait The ship monitor Tanker Trackers has posted the following on X about the Ocean Koi oil tanker: Her new name is actually JIN LI (9255933), and has been so since 2025-11-30. Examining our data, we can see that she’s transported various Iranian hydrocarbons on at least 16 occasions since 2021; and with full knowledge of Iran because half of her loadings were conducted directly at port in Iran while the other half were conducted via Ship-to-Ship transfer further out. JIN LI’s ownership is based in Shanghai, China. The vessel was slapped with sanctions by US OFAC on 2026-02-25. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/may/08/iran-us-israel-donald-trump-lebanon-ceasefire-oil-strait-hormuz-missiles-latest-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2026-05-08T16:36:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -326,24 +623,6 @@
       "geo": {}
     },
     {
-      "id": "c57fd37dd2c9d4aa",
-      "title_orig": "Man tells court he was threatened into setting fire to car linked to Starmer",
-      "summary_orig": "Roman Lavrynovych is one of three accused of arson attacks on a vehicle and two houses in London tied to the prime minister A Ukrainian man has admitted setting fire to a car that once belonged to Keir Starmer for £3,000, after telling a court he had been being threatened by a “powerful” Russian-speaking man using the pseudonym El Money. Roman Lavrynovych, 22, is accused, along with Stanislav Carpiuc, 27, and Petro Pochynok, 35, of arson attacks on a vehicle and two houses in north London linked to the prime minister. Continue reading...",
-      "lang": "en",
-      "title_en": "Man tells court he was threatened into setting fire to car linked to Starmer",
-      "summary_en": "Roman Lavrynovych is one of three accused of arson attacks on a vehicle and two houses in London tied to the prime minister A Ukrainian man has admitted setting fire to a car that once belonged to Keir Starmer for £3,000, after telling a court he had been being threatened by a “powerful” Russian-speaking man using the pseudonym El Money. Roman Lavrynovych, 22, is accused, along with Stanislav Carpiuc, 27, and Petro Pochynok, 35, of arson attacks on a vehicle and two houses in north London linked to the prime minister. Continue reading...",
-      "title": "Man tells court he was threatened into setting fire to car linked to Starmer",
-      "summary": "Roman Lavrynovych is one of three accused of arson attacks on a vehicle and two houses in London tied to the prime minister A Ukrainian man has admitted setting fire to a car that once belonged to Keir Starmer for £3,000, after telling a court he had been being threatened by a “powerful” Russian-speaking man using the pseudonym El Money. Roman Lavrynovych, 22, is accused, along with Stanislav Carpiuc, 27, and Petro Pochynok, 35, of arson attacks on a vehicle and two houses in north London linked to the prime minister. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/may/08/man-tells-court-he-was-threatened-into-setting-fire-to-car-linked-to-starmer",
-      "source": "World news | The Guardian",
-      "published_at": "2026-05-08T15:49:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "5f72bbb73e0f2115",
       "title_orig": "U.S. Coast Guard now using drones to safeguard Lake Erie",
       "summary_orig": "Two sailing drones will help the U.S. Coast Guard keep and eye on illegal activity on Lake Erie.",
@@ -373,6 +652,24 @@
       "url": "https://www.dailyrecord.co.uk/news/uk-world-news/massive-protests-start-tenerife-ahead-37131355",
       "source": "Daily Record - Home",
       "published_at": "2026-05-08T15:38:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8e3cf3a978cbfdfa",
+      "title_orig": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
+      "summary_orig": "U.S. forces fired on and disabled two Iranian oil tankers on Friday after exchanging fire with Iranian forces in the Strait of Hormuz overnight. The United Arab Emirates, meanwhile, reported another Iranian missile and drone attack.",
+      "lang": "en",
+      "title_en": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
+      "summary_en": "U.S. forces fired on and disabled two Iranian oil tankers on Friday after exchanging fire with Iranian forces in the Strait of Hormuz overnight. The United Arab Emirates, meanwhile, reported another Iranian missile and drone attack.",
+      "title": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
+      "summary": "U.S. forces fired on and disabled two Iranian oil tankers on Friday after exchanging fire with Iranian forces in the Strait of Hormuz overnight. The United Arab Emirates, meanwhile, reported another Iranian missile and drone attack.",
+      "url": "https://www.startribune.com/uae-reports-drone-and-missile-attack-as-iran-war-ceasefire-is-challenged/601838750",
+      "source": "Startribune News",
+      "published_at": "2026-05-08T15:35:11+00:00",
       "tags": [
         "airport/security"
       ],
@@ -488,24 +785,6 @@
       "geo": {}
     },
     {
-      "id": "c0cf8a91ec8acfd5",
-      "title_orig": "Caterers in Kerala hit the streets as LPG price hike triggers crisis",
-      "summary_orig": "They stage protests in all 14 districts demanding the rollback of the hike of ₹993 per cylinder, which came into effect on May 1",
-      "lang": "en",
-      "title_en": "Caterers in Kerala hit the streets as LPG price hike triggers crisis",
-      "summary_en": "They stage protests in all 14 districts demanding the rollback of the hike of ₹993 per cylinder, which came into effect on May 1",
-      "title": "Caterers in Kerala hit the streets as LPG price hike triggers crisis",
-      "summary": "They stage protests in all 14 districts demanding the rollback of the hike of ₹993 per cylinder, which came into effect on May 1",
-      "url": "https://www.thehindu.com/news/national/kerala/caterers-in-kerala-hit-the-streets-as-lpg-price-hike-triggers-crisis/article70955922.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-05-08T15:21:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "581d92b12f1893bc",
       "title_orig": "The abandoned mansion next to Heathrow Airport that used to be home to a king",
       "summary_orig": "The last owner died in 1958.",
@@ -544,6 +823,24 @@
       "url": "https://metro.co.uk/2026/05/08/death-penalty-sought-haitian-man-fatal-florida-hammer-attack-28284823/",
       "source": "Metro",
       "published_at": "2026-05-08T15:11:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f8f319a8724129db",
+      "title_orig": "Deadly bear attack in Glacier National Park is the first in decades at the iconic park",
+      "summary_orig": "Authorities say a missing hiker's death in Glacier National Park was likely caused by a bear attack.",
+      "lang": "en",
+      "title_en": "Deadly bear attack in Glacier National Park is the first in decades at the iconic park",
+      "summary_en": "Authorities say a missing hiker's death in Glacier National Park was likely caused by a bear attack.",
+      "title": "Deadly bear attack in Glacier National Park is the first in decades at the iconic park",
+      "summary": "Authorities say a missing hiker's death in Glacier National Park was likely caused by a bear attack.",
+      "url": "https://www.seattletimes.com/nation-world/nation/bear-attack-likely-kills-a-hiker-in-glacier-national-park-for-the-first-time-in-decades/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-05-08T15:10:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -615,7 +912,7 @@
       "summary": "As the country heads into Victory Day, the economy is stalling, internet restrictions are growing and the Kremlin is fearing Ukrainian attacks.",
       "url": "https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html",
       "source": "NYT > World News",
-      "published_at": "2026-05-08T14:58:34+00:00",
+      "published_at": "2026-05-08T14:58:35+00:00",
       "tags": [
         "airport/security"
       ],
@@ -641,6 +938,42 @@
       "geo": {}
     },
     {
+      "id": "74432f486fe973bc",
+      "title_orig": "Canvas system is online after a cyberattack disrupted thousands of schools",
+      "summary_orig": "A system that thousands of schools and universities use to support instruction was back online Friday after it went down during a cyberattack.",
+      "lang": "en",
+      "title_en": "Canvas system is online after a cyberattack disrupted thousands of schools",
+      "summary_en": "A system that thousands of schools and universities use to support instruction was back online Friday after it went down during a cyberattack.",
+      "title": "Canvas system is online after a cyberattack disrupted thousands of schools",
+      "summary": "A system that thousands of schools and universities use to support instruction was back online Friday after it went down during a cyberattack.",
+      "url": "https://www.seattletimes.com/nation-world/nation/canvas-system-used-by-thousands-of-schools-is-back-online-after-a-cyberattack-disrupted-studies/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-05-08T14:38:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "3f4c08c1835d9375",
+      "title_orig": "Two Yellowstone hikers seriously injured in suspected grizzly bear attack",
+      "summary_orig": "The attack occurred on a trail — Mystic Falls, near Old Faithful — that until 2024 had been closed to reduce the chance of conflicts with grizzly bears.",
+      "lang": "en",
+      "title_en": "Two Yellowstone hikers seriously injured in suspected grizzly bear attack",
+      "summary_en": "The attack occurred on a trail — Mystic Falls, near Old Faithful — that until 2024 had been closed to reduce the chance of conflicts with grizzly bears.",
+      "title": "Two Yellowstone hikers seriously injured in suspected grizzly bear attack",
+      "summary": "The attack occurred on a trail — Mystic Falls, near Old Faithful — that until 2024 had been closed to reduce the chance of conflicts with grizzly bears.",
+      "url": "https://www.latimes.com/california/story/2026-05-08/two-hikers-in-yellowstone-seriously-injured-in-bear-attack",
+      "source": "World & Nation",
+      "published_at": "2026-05-08T14:37:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "bd8695b0f813d7dd",
       "title_orig": "Australia sanctions BLA, three senior leaders for 'engagement in and support of terrorist attacks'",
       "summary_orig": "Australia on Friday imposed sanctions on the Balochistan Liberation Army (BLA) and three of its senior leaders, according to a statement from Foreign Minister Penny Wong’s office. “The Australian Government has today imposed counter-terrorism financing sanctions on the Balochistan Liberation Army and three senior leaders for their engagement in and support of terrorist attacks,” said the statement dated May 8. The Australian Ministry of Foreign Affairs said the BLA is a “group that has conducted violent terror attacks across Pakistan”. “These appalling attacks have targeted civilians, critical infrastructure, and foreign nationals, as well as the Pakistani state,” the statement read, adding that Australia’s commitment to counter-terrorism and curbing violent extremism is “unwavering”. “These sanctions help cut off financial support of terrorists, making it harder for them to fund operations, recruit and spread their harmful ideology,” it added. Wong’s office reaffirmed its commitment to dismantling networks threatening Australia’s security, in collaboration with international partners. It added that using or dealing with the assets of a listed person or entity, or making assets available to them, is a criminal offence punishable by heavy fines and up to 10 years’ imprisonment. Pakistan has been lobbying other nations and institutions to proscribe the banned BLA, which perpetrated attacks like the Jaffar Express hijacking in March 2025, where terrorists took control of a train with over 400 passengers on board. The 33 terrorists were killed in an operation launched by the military the next day. In February, Pakistan’s Ambassador to the United Nations, Asim Iftikhar Ahmad, urged the United Nations Security Council to move swiftly to designate the BLA as a terrorist organisation under its sanctions regime, saying the listing request was already under consideration by the council. “We hope the council will act swiftly to designate BLA under the 1267 sanctions regime, acceding to the listing request that is currently under consideration,” Pakistan’s Permanent Representative to the United Nations, Ambassador Asim Iftikhar Ahmad, told a UNSC briefing on ‘Threats to International Peace and Security caused by Terrorist Acts’. Last August, Pakistan welcomed the US’ decision to add the BLA and Majeed Brigade to its Foreign Terrorist Organisation list, according to a Foreign Office (FO) press release. “BLA/Majeed Brigade is involved in multiple terrorist attacks in Pakistan, including the heinous Jaffer Express terrorist incident and the Khuzdar bus attack that resulted in the loss of precious lives,” the release said.",
@@ -652,24 +985,6 @@
       "url": "https://www.dawn.com/news/1998704/australia-sanctions-bla-three-senior-leaders-for-engagement-in-and-support-of-terrorist-attacks",
       "source": "Dawn - Home",
       "published_at": "2026-05-08T14:35:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e6ed502b647f7081",
-      "title_orig": "University of Michigan Canvas learning system still down after cyberattack",
-      "summary_orig": "As of Friday morning, the learning system was still down at UM.",
-      "lang": "en",
-      "title_en": "University of Michigan Canvas learning system still down after cyberattack",
-      "summary_en": "As of Friday morning, the learning system was still down at UM.",
-      "title": "University of Michigan Canvas learning system still down after cyberattack",
-      "summary": "As of Friday morning, the learning system was still down at UM.",
-      "url": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-canvas-learning-system-still-down-after-cyberattack.html",
-      "source": "mlive.com",
-      "published_at": "2026-05-08T14:32:10+00:00",
       "tags": [
         "airport/security"
       ],
@@ -706,6 +1021,24 @@
       "url": "https://www.pennlive.com/nation-world/2026/05/pentagon-releases-new-ufo-files-invites-public-to-draw-own-conclusions.html",
       "source": "pennlive.com",
       "published_at": "2026-05-08T14:22:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0a10803e03a7b449",
+      "title_orig": "Virginia Supreme Court strikes down Democrats’ redrawn US House maps, giving Republicans a win",
+      "summary_orig": "The Virginia Supreme Court has struck down a Democratic congressional redistricting plan that had won voter approval.",
+      "lang": "en",
+      "title_en": "Virginia Supreme Court strikes down Democrats’ redrawn US House maps, giving Republicans a win",
+      "summary_en": "The Virginia Supreme Court has struck down a Democratic congressional redistricting plan that had won voter approval.",
+      "title": "Virginia Supreme Court strikes down Democrats’ redrawn US House maps, giving Republicans a win",
+      "summary": "The Virginia Supreme Court has struck down a Democratic congressional redistricting plan that had won voter approval.",
+      "url": "https://www.seattletimes.com/nation-world/nation/virginia-supreme-court-strikes-down-democrats-redistricting-plan-dimming-partys-midterm-hopes/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-05-08T14:16:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -821,24 +1154,6 @@
       "geo": {}
     },
     {
-      "id": "9b1a161e9c6659e1",
-      "title_orig": "Two college-bound pitchers threw simultaneous no-hitters with no extra innings and a 3-0 score",
-      "summary_orig": "New Lothrop's Mallory Heroux and Powers Catholic's Alexa Glady combined for 24 strikeouts in a wild 3-0 game where all the runs scored on walks, hit batters and errors in a chaotic first inning.",
-      "lang": "en",
-      "title_en": "Two college-bound pitchers threw simultaneous no-hitters with no extra innings and a 3-0 score",
-      "summary_en": "New Lothrop's Mallory Heroux and Powers Catholic's Alexa Glady combined for 24 strikeouts in a wild 3-0 game where all the runs scored on walks, hit batters and errors in a chaotic first inning.",
-      "title": "Two college-bound pitchers threw simultaneous no-hitters with no extra innings and a 3-0 score",
-      "summary": "New Lothrop's Mallory Heroux and Powers Catholic's Alexa Glady combined for 24 strikeouts in a wild 3-0 game where all the runs scored on walks, hit batters and errors in a chaotic first inning.",
-      "url": "https://www.mlive.com/highschoolsports/2026/05/two-college-bound-pitchers-throw-simultaneous-no-hitters-with-no-extra-innings-and-a-3-0-score.html",
-      "source": "mlive.com",
-      "published_at": "2026-05-08T13:54:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "28723fecbfae2c56",
       "title_orig": "Megyn Kelly blasts Trump on Iran and declares ‘I don’t trust a word’ the president says about the conflict",
       "summary_orig": "The Right-wing broadcaster complained about President Donald Trump’s inconsistent rhetoric and varying deadlines on war in latest attack on his leadership",
@@ -873,24 +1188,6 @@
         "diplomatic"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "dced6ba960a08e6c",
-      "title_orig": "Hiker dead of apparent bear attack in Glacier national park in Montana",
-      "summary_orig": "Man was reported missing on Sunday and on Wednesday officials found a body with wounds indicating a bear attack Sign up for the Breaking News US newsletter email A hiker in Glacier national park is believed to have been killed in a confrontation with a bear, which is likely the first such fatality in the Montana park since 1998, authorities said. The body of the male victim was found on Wednesday, and on Friday morning his identity and other details about him had not yet been publicly disclosed. The man had been reported missing and a search and rescue team was sent out to look for him this week and came upon his remains. Continue reading...",
-      "lang": "en",
-      "title_en": "Hiker dead of apparent bear attack in Glacier national park in Montana",
-      "summary_en": "Man was reported missing on Sunday and on Wednesday officials found a body with wounds indicating a bear attack Sign up for the Breaking News US newsletter email A hiker in Glacier national park is believed to have been killed in a confrontation with a bear, which is likely the first such fatality in the Montana park since 1998, authorities said. The body of the male victim was found on Wednesday, and on Friday morning his identity and other details about him had not yet been publicly disclosed. The man had been reported missing and a search and rescue team was sent out to look for him this week and came upon his remains. Continue reading...",
-      "title": "Hiker dead of apparent bear attack in Glacier national park in Montana",
-      "summary": "Man was reported missing on Sunday and on Wednesday officials found a body with wounds indicating a bear attack Sign up for the Breaking News US newsletter email A hiker in Glacier national park is believed to have been killed in a confrontation with a bear, which is likely the first such fatality in the Montana park since 1998, authorities said. The body of the male victim was found on Wednesday, and on Friday morning his identity and other details about him had not yet been publicly disclosed. The man had been reported missing and a search and rescue team was sent out to look for him this week and came upon his remains. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/may/08/hiker-dead-bear-attack-montana",
-      "source": "World news | The Guardian",
-      "published_at": "2026-05-08T13:45:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1545,24 +1842,6 @@
       "url": "https://www.politico.eu/article/dutch-pm-rob-jetten-we-will-not-be-intimidated-attack-d66-offices/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "source": "POLITICO",
       "published_at": "2026-05-08T10:12:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6ec5e160762a3076",
-      "title_orig": "US says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz",
-      "summary_orig": "President Donald Trump said the ceasefire was holding despite the violence.",
-      "lang": "en",
-      "title_en": "US says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz",
-      "summary_en": "President Donald Trump said the ceasefire was holding despite the violence.",
-      "title": "US says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz",
-      "summary": "President Donald Trump said the ceasefire was holding despite the violence.",
-      "url": "https://www.syracuse.com/us-news/2026/05/us-says-it-intercepted-iranian-attacks-on-3-navy-ships-in-strait-of-hormuz.html",
-      "source": "syracuse.com",
-      "published_at": "2026-05-08T10:03:29+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2462,24 +2741,6 @@
       "geo": {}
     },
     {
-      "id": "34df67beca0c17db",
-      "title_orig": "Attacker who firebombed a Jewish gathering in Colorado pleads guilty to murder and gets life in prison",
-      "summary_orig": "The Colorado Springs man attacked a group of marchers demonstrating on behalf of Israeli hostages in Gaza",
-      "lang": "en",
-      "title_en": "Attacker who firebombed a Jewish gathering in Colorado pleads guilty to murder and gets life in prison",
-      "summary_en": "The Colorado Springs man attacked a group of marchers demonstrating on behalf of Israeli hostages in Gaza",
-      "title": "Attacker who firebombed a Jewish gathering in Colorado pleads guilty to murder and gets life in prison",
-      "summary": "The Colorado Springs man attacked a group of marchers demonstrating on behalf of Israeli hostages in Gaza",
-      "url": "https://www.independent.co.uk/news/world/americas/crime/colorado-firebombing-attack-guilty-mohamed-soliman-b2972459.html",
-      "source": "The Independent World",
-      "published_at": "2026-05-07T19:37:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "47af26410a8467e2",
       "title_orig": "Israel Says It Killed a Hezbollah Chief Near Beirut, Testing the Truce",
       "summary_orig": "The strike was the first near the Lebanese capital since a cease-fire that has curbed fighting but not halted it. Washington is pushing for a lasting peace, hoping it will ease diplomacy with Iran.",
@@ -2552,24 +2813,6 @@
       "geo": {}
     },
     {
-      "id": "b949fe5d99164e94",
-      "title_orig": "\"Suffering\" - Star out of Leeds United visit in Tottenham team news with eight now injured and striker doubt",
-      "summary_orig": "Fresh Tottenham Hotspur team news for Monday night’s Premier League visit of Leeds United.",
-      "lang": "en",
-      "title_en": "\"Suffering\" - Star out of Leeds United visit in Tottenham team news with eight now injured and striker doubt",
-      "summary_en": "Fresh Tottenham Hotspur team news for Monday night’s Premier League visit of Leeds United.",
-      "title": "\"Suffering\" - Star out of Leeds United visit in Tottenham team news with eight now injured and striker doubt",
-      "summary": "Fresh Tottenham Hotspur team news for Monday night’s Premier League visit of Leeds United.",
-      "url": "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-tottenham-hotspur-roberto-de-zerbi-guglielmo-vicario-dominic-solanke-8512978",
-      "source": "Yorkshire Evening Post",
-      "published_at": "2026-05-07T16:55:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5d0ea72edfde5fc9",
       "title_orig": "Where Leicester City find the League One hitman they desperately need",
       "summary_orig": "Leicester City go into the summer without any senior strikers, making it their transfer priority. There's plenty of places they can turn to find a 20-goal forward",
@@ -2617,24 +2860,6 @@
       "url": "https://runwaygirlnetwork.com/2026/05/press-release-global-aviation-conference-frankfurt-arises-as-key-forum/",
       "source": "Runway Girl",
       "published_at": "2026-05-07T15:28:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8cdc56db886bbc36",
-      "title_orig": "Moment man arrested for killing grandfather in Leicestershire pub attack revealed",
-      "summary_orig": "David Darke had died in hospital a week after being punched to the ground by Nathan Gothard",
-      "lang": "en",
-      "title_en": "Moment man arrested for killing grandfather in Leicestershire pub attack revealed",
-      "summary_en": "David Darke had died in hospital a week after being punched to the ground by Nathan Gothard",
-      "title": "Moment man arrested for killing grandfather in Leicestershire pub attack revealed",
-      "summary": "David Darke had died in hospital a week after being punched to the ground by Nathan Gothard",
-      "url": "https://www.leicestermercury.co.uk/news/local-news/footage-shows-moment-nathan-gothard-10953903",
-      "source": "Leicestershire Live - frontpage",
-      "published_at": "2026-05-07T14:01:38+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2966,24 +3191,6 @@
       "geo": {}
     },
     {
-      "id": "501c3141682eb130",
-      "title_orig": "A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters",
-      "summary_orig": "The J.W. Marriott in Venezuela’s capital is suddenly awash in U.S. diplomats, spies and fortune seekers, showcasing changes in the country.",
-      "lang": "en",
-      "title_en": "A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters",
-      "summary_en": "The J.W. Marriott in Venezuela’s capital is suddenly awash in U.S. diplomats, spies and fortune seekers, showcasing changes in the country.",
-      "title": "A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters",
-      "summary": "The J.W. Marriott in Venezuela’s capital is suddenly awash in U.S. diplomats, spies and fortune seekers, showcasing changes in the country.",
-      "url": "https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html",
-      "source": "NYT > World News",
-      "published_at": "2026-05-07T01:45:20+00:00",
-      "tags": [
-        "diplomatic"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "39da7a6e615d3fc8",
       "title_orig": "US says migration has made Europe an ‘incubator’ for terrorism in new counter-terrorism strategy",
       "summary_orig": "The 16-page report was led by Trump-ally Sebastian Gorka, and places drug cartels in the Americas at the centre of counter-terrorism efforts The Trump administration has accused Europe of being an “incubator” for terrorism fuelled by mass migration, in a new counter-terrorism strategy unveiled on Wednesday. The strategy also focuses on rooting out “violent left-wing extremists” including “radically pro-transgender” groups, as Trump’s conservative administration steps up its political attacks on opponents. Continue reading...",
@@ -3107,24 +3314,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "69d9877f68b7de98",
-      "title_orig": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
-      "summary_orig": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La Nación, which has been a critical voice against the country’s president, Rodrigo Chaves, an ally of Donald Trump. During Chaves’s 2022 presidential campaign, La Nación published several articles documenting allegations of sexual harassment against him that had forced him out of his job at the World Bank. The paper also reported on allegations of illegal campaign financing , which Chaves denied . Continue reading...",
-      "lang": "en",
-      "title_en": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
-      "summary_en": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La Nación, which has been a critical voice against the country’s president, Rodrigo Chaves, an ally of Donald Trump. During Chaves’s 2022 presidential campaign, La Nación published several articles documenting allegations of sexual harassment against him that had forced him out of his job at the World Bank. The paper also reported on allegations of illegal campaign financing , which Chaves denied . Continue reading...",
-      "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
-      "summary": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La Nación, which has been a critical voice against the country’s president, Rodrigo Chaves, an ally of Donald Trump. During Chaves’s 2022 presidential campaign, La Nación published several articles documenting allegations of sexual harassment against him that had forced him out of his job at the World Bank. The paper also reported on allegations of illegal campaign financing , which Chaves denied . Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
-      "source": "World news | The Guardian",
-      "published_at": "2026-05-06T13:13:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -3503,42 +3692,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "20f81a5fb78186da",
-      "title_orig": "‘An epidemic’: is antisemitism out of control in the UK? – The Latest",
-      "summary_orig": "The stabbing of two Jewish men in Golders Green, north-west London, has become the latest in a series of antisemitic attacks. So is rising antisemitism now a national emergency? And is more security for the Jewish community really the answer? Helen Pidd is joined by columnist Rafael Behr – watch on YouTube Continue reading...",
-      "lang": "en",
-      "title_en": "‘An epidemic’: is antisemitism out of control in the UK? – The Latest",
-      "summary_en": "The stabbing of two Jewish men in Golders Green, north-west London, has become the latest in a series of antisemitic attacks. So is rising antisemitism now a national emergency? And is more security for the Jewish community really the answer? Helen Pidd is joined by columnist Rafael Behr – watch on YouTube Continue reading...",
-      "title": "‘An epidemic’: is antisemitism out of control in the UK? – The Latest",
-      "summary": "The stabbing of two Jewish men in Golders Green, north-west London, has become the latest in a series of antisemitic attacks. So is rising antisemitism now a national emergency? And is more security for the Jewish community really the answer? Helen Pidd is joined by columnist Rafael Behr – watch on YouTube Continue reading...",
-      "url": "https://www.theguardian.com/news/audio/2026/apr/30/an-epidemic-is-antisemitism-out-of-control-in-the-uk-the-latest",
-      "source": "UK news | The Guardian",
-      "published_at": "2026-04-30T17:36:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "fa5fa0bc54445e11",
-      "title_orig": "Keir Starmer calls on public to 'open their eyes to Jewish pain' after London terror attack – video",
-      "summary_orig": "The British prime minister condemned antisemitism and praised first responders after two Jewish men were stabbed in Golders Green, north London, on Wednesday. He pledged to strengthen the visible police presence in Jewish communities and increase support for Jewish security services. Police are treating the attack as terrorism. The stabbings follow a series of arson attacks on Jewish targets in London since March, including two previous incidents in Golders Green Starmer calls on public to ‘open their eyes to Jewish pain’ in wake of Golders Green attack Continue reading...",
-      "lang": "en",
-      "title_en": "Keir Starmer calls on public to 'open their eyes to Jewish pain' after London terror attack – video",
-      "summary_en": "The British prime minister condemned antisemitism and praised first responders after two Jewish men were stabbed in Golders Green, north London, on Wednesday. He pledged to strengthen the visible police presence in Jewish communities and increase support for Jewish security services. Police are treating the attack as terrorism. The stabbings follow a series of arson attacks on Jewish targets in London since March, including two previous incidents in Golders Green Starmer calls on public to ‘open their eyes to Jewish pain’ in wake of Golders Green attack Continue reading...",
-      "title": "Keir Starmer calls on public to 'open their eyes to Jewish pain' after London terror attack – video",
-      "summary": "The British prime minister condemned antisemitism and praised first responders after two Jewish men were stabbed in Golders Green, north London, on Wednesday. He pledged to strengthen the visible police presence in Jewish communities and increase support for Jewish security services. Police are treating the attack as terrorism. The stabbings follow a series of arson attacks on Jewish targets in London since March, including two previous incidents in Golders Green Starmer calls on public to ‘open their eyes to Jewish pain’ in wake of Golders Green attack Continue reading...",
-      "url": "https://www.theguardian.com/news/video/2026/apr/30/keir-starmer-calls-on-public-to-open-their-eyes-to-jewish-pain-after-london-terror-attack-video",
-      "source": "UK news | The Guardian",
-      "published_at": "2026-04-30T16:49:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
