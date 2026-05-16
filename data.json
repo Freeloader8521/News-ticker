@@ -1,6 +1,142 @@
 {
-  "generated_at": "2026-05-16T22:44:32.349512+00:00",
+  "generated_at": "2026-05-16T23:50:07.822458+00:00",
   "items": [
+    {
+      "id": "f62046911f395a6b",
+      "title_orig": "2 fires burning in Antelope Valley prompt evacuation warnings",
+      "summary_orig": "Two fires burning in the Antelope Valley have prompted evacuation warnings for residents on Saturday. The Corral Fire is burning near 110th Street West and West Avenue E near the Lancaster area and was reported just after 1:30 p.m. As of 4 p.m., the blaze grew to around 161 acres, according to Cal Fire. Evacuation [...]",
+      "lang": "en",
+      "title_en": "2 fires burning in Antelope Valley prompt evacuation warnings",
+      "summary_en": "Two fires burning in the Antelope Valley have prompted evacuation warnings for residents on Saturday. The Corral Fire is burning near 110th Street West and West Avenue E near the Lancaster area and was reported just after 1:30 p.m. As of 4 p.m., the blaze grew to around 161 acres, according to Cal Fire. Evacuation [...]",
+      "title": "2 fires burning in Antelope Valley prompt evacuation warnings",
+      "summary": "Two fires burning in the Antelope Valley have prompted evacuation warnings for residents on Saturday. The Corral Fire is burning near 110th Street West and West Avenue E near the Lancaster area and was reported just after 1:30 p.m. As of 4 p.m., the blaze grew to around 161 acres, according to Cal Fire. Evacuation [...]",
+      "url": "https://ktla.com/news/local-news/2-fires-burning-in-antelope-valley-prompt-evacuation-warnings/",
+      "source": "KTLA",
+      "published_at": "2026-05-16T23:39:57+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9b1b9367b8d87a59",
+      "title_orig": "Video shows moment Ukrainian drones destroy $70m Russian jet",
+      "summary_orig": "Ukrainian president Volodymyr Zelenskyy shares black and white footage of a drone hurtling towards the rare Russian amphibious aircraft deep behind enemy lines.",
+      "lang": "en",
+      "title_en": "Video shows moment Ukrainian drones destroy $70m Russian jet",
+      "summary_en": "Ukrainian president Volodymyr Zelenskyy shares black and white footage of a drone hurtling towards the rare Russian amphibious aircraft deep behind enemy lines.",
+      "title": "Video shows moment Ukrainian drones destroy $70m Russian jet",
+      "summary": "Ukrainian president Volodymyr Zelenskyy shares black and white footage of a drone hurtling towards the rare Russian amphibious aircraft deep behind enemy lines.",
+      "url": "https://www.stuff.co.nz/world-news/360979904/ukrainian-drones-destroy-70m-russian-plane-airbase",
+      "source": "Stuff - /",
+      "published_at": "2026-05-16T23:36:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d4b577dd23fa614c",
+      "title_orig": "International traveler diagnosed with measles after arriving at LAX",
+      "summary_orig": "A Los Angeles area resident who arrived at Tom Bradley International Terminal B at LAX on May 14, was recently diagnosed with the measles, the Los Angeles County Department of Public Health announced Saturday. The infected person returned to Los Angeles from an international trip. They arrived on Alaska Airlines flight 1354. “Individuals who were [...]",
+      "lang": "en",
+      "title_en": "International traveler diagnosed with measles after arriving at LAX",
+      "summary_en": "A Los Angeles area resident who arrived at Tom Bradley International Terminal B at LAX on May 14, was recently diagnosed with the measles, the Los Angeles County Department of Public Health announced Saturday. The infected person returned to Los Angeles from an international trip. They arrived on Alaska Airlines flight 1354. “Individuals who were [...]",
+      "title": "International traveler diagnosed with measles after arriving at LAX",
+      "summary": "A Los Angeles area resident who arrived at Tom Bradley International Terminal B at LAX on May 14, was recently diagnosed with the measles, the Los Angeles County Department of Public Health announced Saturday. The infected person returned to Los Angeles from an international trip. They arrived on Alaska Airlines flight 1354. “Individuals who were [...]",
+      "url": "https://ktla.com/news/local-news/international-traveler-diagnosed-with-measles-after-arriving-at-lax/",
+      "source": "KTLA",
+      "published_at": "2026-05-16T23:33:34+00:00",
+      "tags": [
+        "LAX",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Los Angeles",
+        "city": "Los Angeles",
+        "country": "United States",
+        "iata": "LAX",
+        "lat": 33.9416,
+        "lon": -118.4085
+      }
+    },
+    {
+      "id": "2517ee62b9e8604f",
+      "title_orig": "Pro-Palestine march comes face-to-face with anti-immigration protest in London",
+      "summary_orig": "Tens of thousands of people have marched through central London in two separate protests: one against immigration and another in support of Palestinians.",
+      "lang": "en",
+      "title_en": "Pro-Palestine march comes face-to-face with anti-immigration protest in London",
+      "summary_en": "Tens of thousands of people have marched through central London in two separate protests: one against immigration and another in support of Palestinians.",
+      "title": "Pro-Palestine march comes face-to-face with anti-immigration protest in London",
+      "summary": "Tens of thousands of people have marched through central London in two separate protests: one against immigration and another in support of Palestinians.",
+      "url": "https://www.abc.net.au/news/2026-05-17/tens-of-thousands-march-in-london-pro-palestine-anti-immigration/106689212",
+      "source": "Just In",
+      "published_at": "2026-05-16T23:29:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "969ece340f0775a5",
+      "title_orig": "U.S. links Toronto consulate shooting to alleged Iranian-backed commander",
+      "summary_orig": "An man has been charged with terrorism offences in the U.S. and is accused of helping direct the March shooting at the U.S. consulate in Toronto and other attacks.",
+      "lang": "en",
+      "title_en": "U.S. links Toronto consulate shooting to alleged Iranian-backed commander",
+      "summary_en": "An man has been charged with terrorism offences in the U.S. and is accused of helping direct the March shooting at the U.S. consulate in Toronto and other attacks.",
+      "title": "U.S. links Toronto consulate shooting to alleged Iranian-backed commander",
+      "summary": "An man has been charged with terrorism offences in the U.S. and is accused of helping direct the March shooting at the U.S. consulate in Toronto and other attacks.",
+      "url": "https://globalnews.ca/news/11853087/toronto-consulate-shooting-terrorism/",
+      "source": "globalnews.ca",
+      "published_at": "2026-05-16T23:11:48+00:00",
+      "tags": [
+        "airport/security",
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "46eccb4416c19ebc",
+      "title_orig": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "summary_orig": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+      "lang": "en",
+      "title_en": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "summary_en": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "summary": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-05-16T23:10:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "25bd4f7b21c40f6c",
+      "title_orig": "German police assault protesters at Nakba anniversary rally",
+      "summary_orig": "German police hit and pepper-spray protesters as thousands gathered in Berlin to mark the 78th anniversary of the Nakba.",
+      "lang": "en",
+      "title_en": "German police assault protesters at Nakba anniversary rally",
+      "summary_en": "German police hit and pepper-spray protesters as thousands gathered in Berlin to mark the 78th anniversary of the Nakba.",
+      "title": "German police assault protesters at Nakba anniversary rally",
+      "summary": "German police hit and pepper-spray protesters as thousands gathered in Berlin to mark the 78th anniversary of the Nakba.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/german-police-assault-protesters-at-nakba-anniversary-rally?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-05-16T22:59:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
     {
       "id": "b6a3a2bf115d19f0",
       "title_orig": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
@@ -263,24 +399,6 @@
       "geo": {}
     },
     {
-      "id": "9b1b9367b8d87a59",
-      "title_orig": "Video shows moment Ukrainian drones destroy $70m Russian jet",
-      "summary_orig": "Ukrainian president Volodymyr Zelenskyy shares black and white footage of a drone hurtling towards the rare Russian amphibious aircraft deep behind enemy lines.",
-      "lang": "en",
-      "title_en": "Video shows moment Ukrainian drones destroy $70m Russian jet",
-      "summary_en": "Ukrainian president Volodymyr Zelenskyy shares black and white footage of a drone hurtling towards the rare Russian amphibious aircraft deep behind enemy lines.",
-      "title": "Video shows moment Ukrainian drones destroy $70m Russian jet",
-      "summary": "Ukrainian president Volodymyr Zelenskyy shares black and white footage of a drone hurtling towards the rare Russian amphibious aircraft deep behind enemy lines.",
-      "url": "https://www.stuff.co.nz/world-news/360979904/ukrainian-drones-destroy-70m-russian-plane-airbase",
-      "source": "Stuff - /",
-      "published_at": "2026-05-16T19:45:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "6652ed38cd660c2e",
       "title_orig": "Trump says Islamic State group leader was killed in a joint US-Nigerian mission",
       "summary_orig": "Nigerian officials called the operation one of the region’s biggest counterterrorism victories in years after a strike killed Abu Bakr al-Mainuki.",
@@ -380,24 +498,6 @@
       "geo": {}
     },
     {
-      "id": "defda66de6c472ef",
-      "title_orig": "Trump says U.S. forces, Nigeria military killed Islamic State leader",
-      "summary_orig": "Trump said Abu-Bilal al-Minuki was second in command of ISIS globally and referred to him as the “most active terrorist in the world,” in a Truth Social post.",
-      "lang": "en",
-      "title_en": "Trump says U.S. forces, Nigeria military killed Islamic State leader",
-      "summary_en": "Trump said Abu-Bilal al-Minuki was second in command of ISIS globally and referred to him as the “most active terrorist in the world,” in a Truth Social post.",
-      "title": "Trump says U.S. forces, Nigeria military killed Islamic State leader",
-      "summary": "Trump said Abu-Bilal al-Minuki was second in command of ISIS globally and referred to him as the “most active terrorist in the world,” in a Truth Social post.",
-      "url": "https://www.seattletimes.com/nation-world/trump-says-u-s-forces-nigeria-military-killed-islamic-state-leader/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-05-16T18:56:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "62e11c7bd8f15728",
       "title_orig": "Tens of thousands of people attend two protests as 43 arrested",
       "summary_orig": "Tommy Robinson’s Unite the Kingdom march and the pro-Palestine Nakba Day rally both took place on Saturday with about 4,000 police officers on duty.",
@@ -463,24 +563,6 @@
       "url": "https://www.walesonline.co.uk/news/wales-news/gallery/hundreds-descend-welsh-beach-fury-33959716",
       "source": "WalesOnline - Home",
       "published_at": "2026-05-16T18:32:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "eeab934849c5d78f",
-      "title_orig": "VIDEO: 'Clearly marked' United Nations vehicles struck by drones in Ukraine",
-      "summary_orig": "Dramatic video shows a pair of United Nations vehicles being struck by two drones in southern Ukraine.  According to the UN’s Ukraine Office for the Coordination of Humanitarian Affairs (OCHA), the incident occurred on Thursday in Kherson, a port city by the Black Sea.  “A clearly marked UN vehicle was struck by a drone...delivering aid to [...]",
-      "lang": "en",
-      "title_en": "VIDEO: 'Clearly marked' United Nations vehicles struck by drones in Ukraine",
-      "summary_en": "Dramatic video shows a pair of United Nations vehicles being struck by two drones in southern Ukraine.  According to the UN’s Ukraine Office for the Coordination of Humanitarian Affairs (OCHA), the incident occurred on Thursday in Kherson, a port city by the Black Sea.  “A clearly marked UN vehicle was struck by a drone...delivering aid to [...]",
-      "title": "VIDEO: 'Clearly marked' United Nations vehicles struck by drones in Ukraine",
-      "summary": "Dramatic video shows a pair of United Nations vehicles being struck by two drones in southern Ukraine.  According to the UN’s Ukraine Office for the Coordination of Humanitarian Affairs (OCHA), the incident occurred on Thursday in Kherson, a port city by the Black Sea.  “A clearly marked UN vehicle was struck by a drone...delivering aid to [...]",
-      "url": "https://ktla.com/news/video-clearly-marked-united-nations-vehicles-struck-by-drones-in-ukraine/",
-      "source": "KTLA",
-      "published_at": "2026-05-16T18:32:41+00:00",
       "tags": [
         "airport/security"
       ],
@@ -758,24 +840,6 @@
       "geo": {}
     },
     {
-      "id": "012f2fe38f5df665",
-      "title_orig": "Liverpool star backs Mohamed Salah's bombshell statement as another pointed message sent",
-      "summary_orig": "Mohamed Salah released a bomshell statement on Saturday afternoon in which he said that Liverpool must rediscover their identity to become feared again",
-      "lang": "en",
-      "title_en": "Liverpool star backs Mohamed Salah's bombshell statement as another pointed message sent",
-      "summary_en": "Mohamed Salah released a bomshell statement on Saturday afternoon in which he said that Liverpool must rediscover their identity to become feared again",
-      "title": "Liverpool star backs Mohamed Salah's bombshell statement as another pointed message sent",
-      "summary": "Mohamed Salah released a bomshell statement on Saturday afternoon in which he said that Liverpool must rediscover their identity to become feared again",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mo-salah-liverpool-statement-jones-33959567",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2026-05-16T16:46:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "8d8a5945e1b4031f",
       "title_orig": "Police drone helps track down fleeing e-bike rider in Redlands",
       "summary_orig": "A police drone helped officers track down and arrest an e-bike rider accused of leading authorities on a high-speed chase through Redlands, according to the Redlands Police Department. In an Instagram post shared Friday, Redlands police said officers spotted a rider on an electric motorcycle-style bike allegedly running stop signs and driving on the wrong [...]",
@@ -893,24 +957,6 @@
       }
     },
     {
-      "id": "e42389f22c06857f",
-      "title_orig": "Israeli strike that killed Hamas military leader Izz al-Din al-Haddad, in photos",
-      "summary_orig": "GAZA CITY (AP) — Photos from Gaza City show the aftermath of an Israeli airstrike that killed Izz al-Din al-Haddad, a senior Hamas military commander identified by Israel as one of the architects of the Oct. 7, 2023, attacks. Images capture flames and destruction at the strike site, residents responding and mourners gathering for funeral […]",
-      "lang": "en",
-      "title_en": "Israeli strike that killed Hamas military leader Izz al-Din al-Haddad, in photos",
-      "summary_en": "GAZA CITY (AP) — Photos from Gaza City show the aftermath of an Israeli airstrike that killed Izz al-Din al-Haddad, a senior Hamas military commander identified by Israel as one of the architects of the Oct. 7, 2023, attacks. Images capture flames and destruction at the strike site, residents responding and mourners gathering for funeral […]",
-      "title": "Israeli strike that killed Hamas military leader Izz al-Din al-Haddad, in photos",
-      "summary": "GAZA CITY (AP) — Photos from Gaza City show the aftermath of an Israeli airstrike that killed Izz al-Din al-Haddad, a senior Hamas military commander identified by Israel as one of the architects of the Oct. 7, 2023, attacks. Images capture flames and destruction at the strike site, residents responding and mourners gathering for funeral […]",
-      "url": "https://www.seattletimes.com/nation-world/israeli-strike-that-killed-hamas-military-leader-izz-al-din-al-haddad-in-photos/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-05-16T16:20:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a8cd93b0df20b49b",
       "title_orig": "Croatia Airlines Airbus A220-300 damaged and evacuated following aborted takeoff",
       "summary_orig": "A Croatia Airlines flight bound for Germany made a dramatic emergency stop at Split Airport, veering off the runway and into the grass during an aborted takeoff roll. SPLIT, Croatia — Flight OU412, a scheduled service from the coastal city of Split to Frankfurt on Saturday afternoon, was accelerating for departure on runway 23 at […] The post Croatia Airlines Airbus A220-300 damaged and evacuated following aborted takeoff appeared first on AIRLIVE .",
@@ -998,24 +1044,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "c0d732b22065c656",
-      "title_orig": "Man dies after shark attacks him in front of  a friend in Australia",
-      "summary_orig": "The unnamed 38-year-old was spearfishing with a friend when he was mauled.",
-      "lang": "en",
-      "title_en": "Man dies after shark attacks him in front of  a friend in Australia",
-      "summary_en": "The unnamed 38-year-old was spearfishing with a friend when he was mauled.",
-      "title": "Man dies after shark attacks him in front of  a friend in Australia",
-      "summary": "The unnamed 38-year-old was spearfishing with a friend when he was mauled.",
-      "url": "https://metro.co.uk/2026/05/16/man-dies-shark-attacks-front-a-friend-australia-28396107/",
-      "source": "Metro",
-      "published_at": "2026-05-16T16:01:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1163,24 +1191,6 @@
       "geo": {}
     },
     {
-      "id": "633cf536e8bb7f72",
-      "title_orig": "Drones, bullets and cartel warfare fuel an invisible displacement crisis in Mexico",
-      "summary_orig": "María Cabrera and her family fled into the night-cloaked mountains of central Mexico with only the clothes on their backs when bombs fell from the sky and bullets ricocheted off her concrete floors.",
-      "lang": "en",
-      "title_en": "Drones, bullets and cartel warfare fuel an invisible displacement crisis in Mexico",
-      "summary_en": "María Cabrera and her family fled into the night-cloaked mountains of central Mexico with only the clothes on their backs when bombs fell from the sky and bullets ricocheted off her concrete floors.",
-      "title": "Drones, bullets and cartel warfare fuel an invisible displacement crisis in Mexico",
-      "summary": "María Cabrera and her family fled into the night-cloaked mountains of central Mexico with only the clothes on their backs when bombs fell from the sky and bullets ricocheted off her concrete floors.",
-      "url": "https://www.seattletimes.com/business/drones-bullets-and-cartel-warfare-fuel-an-invisible-displacement-crisis-in-mexico/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-05-16T15:21:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5c9363f099ad7a71",
       "title_orig": "Gaza: Israel kills Hamas leader as deaths mount despite ceasefire",
       "summary_orig": "Israel’s military on Saturday said it had killed the chief of Hamas’ military wing in an air strike on Gaza the previous day, the most senior Hamas official killed by Israel since ‌an October US-backed ceasefire agreement that was meant to halt fighting.\nA senior Hamas official, speaking on the condition of anonymity, confirmed Izz al-Din al-Haddad, who was born in 1970, was killed in the attack. Hamas Gaza spokesperson Hazem Qassem later said in a video statement published on Facebook that...",
@@ -1228,24 +1238,6 @@
       "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-updates-today-b2977836.html",
       "source": "The Independent World",
       "published_at": "2026-05-16T15:11:03+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8add527db5d113e7",
-      "title_orig": "Wayne Rooney hospitalised after Jordan Pickford incident on BBC show",
-      "summary_orig": "The former Everton striker was filming a segment for his BBC show",
-      "lang": "en",
-      "title_en": "Wayne Rooney hospitalised after Jordan Pickford incident on BBC show",
-      "summary_en": "The former Everton striker was filming a segment for his BBC show",
-      "title": "Wayne Rooney hospitalised after Jordan Pickford incident on BBC show",
-      "summary": "The former Everton striker was filming a segment for his BBC show",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/wayne-rooney-hospitalised-after-jordan-33959253",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-05-16T15:01:01+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1415,24 +1407,6 @@
       "geo": {}
     },
     {
-      "id": "dc00b69a96ee5ad5",
-      "title_orig": "Tens of thousands march in London in far-right and pro-Palestine protests",
-      "summary_orig": "British capital sees heightened security as a right-wing rally takes place at the same time as Nakba Day march.",
-      "lang": "en",
-      "title_en": "Tens of thousands march in London in far-right and pro-Palestine protests",
-      "summary_en": "British capital sees heightened security as a right-wing rally takes place at the same time as Nakba Day march.",
-      "title": "Tens of thousands march in London in far-right and pro-Palestine protests",
-      "summary": "British capital sees heightened security as a right-wing rally takes place at the same time as Nakba Day march.",
-      "url": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-05-16T13:59:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "f46255b3bff41cd4",
       "title_orig": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
       "summary_orig": "As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation.",
@@ -1453,33 +1427,15 @@
     {
       "id": "6fd99c7f8981cc10",
       "title_orig": "Tens of thousands march in London in separate immigration, pro‑Palestinian protests",
-      "summary_orig": "LONDON, May 16 - Tens of thousands of people marched through central London on Saturday in two separate protests - one against high levels of immigration and a perceived Islamic threat to British identity, and another in support of Palestinians.",
+      "summary_orig": "Police deployed 4,000 officers in what they called their biggest public order operation in years.",
       "lang": "en",
       "title_en": "Tens of thousands march in London in separate immigration, pro‑Palestinian protests",
-      "summary_en": "LONDON, May 16 - Tens of thousands of people marched through central London on Saturday in two separate protests - one against high levels of immigration and a perceived Islamic threat to British identity, and another in support of Palestinians.",
+      "summary_en": "Police deployed 4,000 officers in what they called their biggest public order operation in years.",
       "title": "Tens of thousands march in London in separate immigration, pro‑Palestinian protests",
-      "summary": "LONDON, May 16 - Tens of thousands of people marched through central London on Saturday in two separate protests - one against high levels of immigration and a perceived Islamic threat to British identity, and another in support of Palestinians.",
+      "summary": "Police deployed 4,000 officers in what they called their biggest public order operation in years.",
       "url": "https://www.straitstimes.com/world/europe/tens-of-thousands-march-in-london-in-separate-immigration-pro-palestinian-protests",
       "source": "The Straits Times World News",
       "published_at": "2026-05-16T13:48:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "38b8465f882ba160",
-      "title_orig": "Nigeria police detain 3 suspects in a rare school attack in the south of the country",
-      "summary_orig": "Police in Nigeria say they have detained three gunmen who allegedly stormed into two primary schools in a rare attack in the southwest of the country.",
-      "lang": "en",
-      "title_en": "Nigeria police detain 3 suspects in a rare school attack in the south of the country",
-      "summary_en": "Police in Nigeria say they have detained three gunmen who allegedly stormed into two primary schools in a rare attack in the southwest of the country.",
-      "title": "Nigeria police detain 3 suspects in a rare school attack in the south of the country",
-      "summary": "Police in Nigeria say they have detained three gunmen who allegedly stormed into two primary schools in a rare attack in the southwest of the country.",
-      "url": "https://www.seattletimes.com/nation-world/nigeria-police-detain-3-suspects-in-a-rare-school-attack-in-the-south-of-the-country/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-05-16T13:36:42+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2390,24 +2346,6 @@
       "url": "https://www.dawn.com/news/2000596/gwadar-varsity-vc-officials-untraceable-even-after-48-hours",
       "source": "Dawn - Home",
       "published_at": "2026-05-16T03:10:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9c7186705b0ba3c2",
-      "title_orig": "All Whites' group opponents Belgium recall star striker for World Cup",
-      "summary_orig": "Romelu Lukaku, midfield great Kevin de Bruyne and Real Madrid goalkeeper Thibaut Courtois are set to play their fourth World Cup campaigns.",
-      "lang": "en",
-      "title_en": "All Whites' group opponents Belgium recall star striker for World Cup",
-      "summary_en": "Romelu Lukaku, midfield great Kevin de Bruyne and Real Madrid goalkeeper Thibaut Courtois are set to play their fourth World Cup campaigns.",
-      "title": "All Whites' group opponents Belgium recall star striker for World Cup",
-      "summary": "Romelu Lukaku, midfield great Kevin de Bruyne and Real Madrid goalkeeper Thibaut Courtois are set to play their fourth World Cup campaigns.",
-      "url": "https://www.stuff.co.nz/sport/360979823/injury-hit-romelu-lukaku-included-belgiums-world-cup-squad-fourth-time",
-      "source": "Stuff - /",
-      "published_at": "2026-05-16T03:07:01+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3567,24 +3505,6 @@
       "geo": {}
     },
     {
-      "id": "64d317fb7aa212ae",
-      "title_orig": "Iranians recount desperate attempts to find survivors after school bombing",
-      "summary_orig": "Iranians recount their desperate attempts to find survivors after the deadly missile strike, attributed to the U.S., on the Shajareh Tayyebeh Elementary School on the war's first day.",
-      "lang": "en",
-      "title_en": "Iranians recount desperate attempts to find survivors after school bombing",
-      "summary_en": "Iranians recount their desperate attempts to find survivors after the deadly missile strike, attributed to the U.S., on the Shajareh Tayyebeh Elementary School on the war's first day.",
-      "title": "Iranians recount desperate attempts to find survivors after school bombing",
-      "summary": "Iranians recount their desperate attempts to find survivors after the deadly missile strike, attributed to the U.S., on the Shajareh Tayyebeh Elementary School on the war's first day.",
-      "url": "https://www.latimes.com/world-nation/story/2026-05-06/we-found-his-sweater-in-morgue-bloodied-dusty-but-no-body",
-      "source": "World & Nation",
-      "published_at": "2026-05-06T10:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "c84c87ca4a2b3254",
       "title_orig": "While ICE cracked down on L.A. protests, Marines were told to use force as 'last resort'",
       "summary_orig": "Documents obtained by nonprofit American Oversight show a glaring contrast between the training of Marines and that of immigration agents, who have been accused of using unnecessary force.",
@@ -3594,6 +3514,24 @@
       "title": "While ICE cracked down on L.A. protests, Marines were told to use force as 'last resort'",
       "summary": "Documents obtained by nonprofit American Oversight show a glaring contrast between the training of Marines and that of immigration agents, who have been accused of using unnecessary force.",
       "url": "https://www.latimes.com/politics/story/2026-05-06/ice-protests-marines-immigration-los-angeles-use-of-force",
+      "source": "World & Nation",
+      "published_at": "2026-05-06T10:00:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "64d317fb7aa212ae",
+      "title_orig": "Iranians recount desperate attempts to find survivors after school bombing",
+      "summary_orig": "Iranians recount their desperate attempts to find survivors after the deadly missile strike, attributed to the U.S., on the Shajareh Tayyebeh Elementary School on the war's first day.",
+      "lang": "en",
+      "title_en": "Iranians recount desperate attempts to find survivors after school bombing",
+      "summary_en": "Iranians recount their desperate attempts to find survivors after the deadly missile strike, attributed to the U.S., on the Shajareh Tayyebeh Elementary School on the war's first day.",
+      "title": "Iranians recount desperate attempts to find survivors after school bombing",
+      "summary": "Iranians recount their desperate attempts to find survivors after the deadly missile strike, attributed to the U.S., on the Shajareh Tayyebeh Elementary School on the war's first day.",
+      "url": "https://www.latimes.com/world-nation/story/2026-05-06/we-found-his-sweater-in-morgue-bloodied-dusty-but-no-body",
       "source": "World & Nation",
       "published_at": "2026-05-06T10:00:00+00:00",
       "tags": [
