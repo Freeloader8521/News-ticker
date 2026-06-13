@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-06-13T22:04:21.194167+00:00",
+  "generated_at": "2026-06-13T23:06:51.409835+00:00",
   "items": [
+    {
+      "id": "5395b345be50d564",
+      "title_orig": "Resident doctors in England call off strike action after Government offer",
+      "summary_orig": "Doctors were set to stage a four-day walk out from 7am but was called off after a last-minute offer, which has been put to members.",
+      "lang": "en",
+      "title_en": "Resident doctors in England call off strike action after Government offer",
+      "summary_en": "Doctors were set to stage a four-day walk out from 7am but was called off after a last-minute offer, which has been put to members.",
+      "title": "Resident doctors in England call off strike action after Government offer",
+      "summary": "Doctors were set to stage a four-day walk out from 7am but was called off after a last-minute offer, which has been put to members.",
+      "url": "https://www.standard.co.uk/news/health/jack-fletcher-doctors-government-england-b1285979.html",
+      "source": "The Standard News",
+      "published_at": "2026-06-13T22:37:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "574d3f58fde1c706",
+      "title_orig": "Shooting at South Carolina mall leaves at least two people wounded",
+      "summary_orig": "Authorities say the gunfire at South Carolina’s largest mall stemmed from a dispute and was not a random attack",
+      "lang": "en",
+      "title_en": "Shooting at South Carolina mall leaves at least two people wounded",
+      "summary_en": "Authorities say the gunfire at South Carolina’s largest mall stemmed from a dispute and was not a random attack",
+      "title": "Shooting at South Carolina mall leaves at least two people wounded",
+      "summary": "Authorities say the gunfire at South Carolina’s largest mall stemmed from a dispute and was not a random attack",
+      "url": "https://www.independent.co.uk/news/world/americas/crime/south-carolina-shooting-haywood-mall-b2995276.html",
+      "source": "The Independent World",
+      "published_at": "2026-06-13T22:35:47+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "da71a5fa87ea2b6b",
+      "title_orig": "Tommy Robinson detained at Heathrow under counter-terrorism laws",
+      "summary_orig": "Police stop comes after far-right activist rose to global prominence on social media amid racial tensions in Britain Tommy Robinson was detained by police on Saturday at Heathrow airport under counter-terrorism laws, after a week in which he rose to global prominence on social media. It was understood the far-right activist, whose real name is Stephen Yaxley-Lennon, was stopped and his phone was seized under section 3 of the Counter-Terrorism Border Security Act 2019. Continue reading...",
+      "lang": "en",
+      "title_en": "Tommy Robinson detained at Heathrow under counter-terrorism laws",
+      "summary_en": "Police stop comes after far-right activist rose to global prominence on social media amid racial tensions in Britain Tommy Robinson was detained by police on Saturday at Heathrow airport under counter-terrorism laws, after a week in which he rose to global prominence on social media. It was understood the far-right activist, whose real name is Stephen Yaxley-Lennon, was stopped and his phone was seized under section 3 of the Counter-Terrorism Border Security Act 2019. Continue reading...",
+      "title": "Tommy Robinson detained at Heathrow under counter-terrorism laws",
+      "summary": "Police stop comes after far-right activist rose to global prominence on social media amid racial tensions in Britain Tommy Robinson was detained by police on Saturday at Heathrow airport under counter-terrorism laws, after a week in which he rose to global prominence on social media. It was understood the far-right activist, whose real name is Stephen Yaxley-Lennon, was stopped and his phone was seized under section 3 of the Counter-Terrorism Border Security Act 2019. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/13/tommy-robinson-detained-at-heathrow-under-counter-terrorism-laws",
+      "source": "World news | The Guardian",
+      "published_at": "2026-06-13T22:08:08+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
     {
       "id": "9599a60d7f4e387f",
       "title_orig": "Crews battle vegetation fire at MCAS Miramar base",
@@ -56,6 +119,24 @@
       "geo": {}
     },
     {
+      "id": "5798b8c9ce84d713",
+      "title_orig": "US strike against Tren de Aragua leader in Venezuela exemplifies Trump’s approach to war on drugs",
+      "summary_orig": "The Trump administration killed Venezuelan gang leader El Niño Guerrero during an airstrike conducted by the U.S. military in southeastern Venezuela.",
+      "lang": "en",
+      "title_en": "US strike against Tren de Aragua leader in Venezuela exemplifies Trump’s approach to war on drugs",
+      "summary_en": "The Trump administration killed Venezuelan gang leader El Niño Guerrero during an airstrike conducted by the U.S. military in southeastern Venezuela.",
+      "title": "US strike against Tren de Aragua leader in Venezuela exemplifies Trump’s approach to war on drugs",
+      "summary": "The Trump administration killed Venezuelan gang leader El Niño Guerrero during an airstrike conducted by the U.S. military in southeastern Venezuela.",
+      "url": "https://www.seattletimes.com/nation-world/world/us-strike-against-tren-de-aragua-leader-in-venezuela-exemplifies-trumps-approach-to-war-on-drugs/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-06-13T21:29:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
       "id": "168b35c82a5f27c3",
       "title_orig": "PM Modi lands in France for G7 Summit, bilateral engagements with Macron",
       "summary_orig": "PM Narendra Modi was received at the airport by France's Education Minister Edouard Geffray, Minister of Higher Education, Research and Space Philippe Baptiste.",
@@ -72,6 +153,33 @@
       ],
       "type": "local news",
       "geo": {}
+    },
+    {
+      "id": "286b5537e55d9ed0",
+      "title_orig": "Canadian Prime Minister Mark Carney 'back home' on two-day visit to Ireland",
+      "summary_orig": "He, and his wife Diana Fox Carney, arrived at Dublin Airport at about 10:00 local time and met Taoiseach (Irish PM) Micheál Martin.",
+      "lang": "en",
+      "title_en": "Canadian Prime Minister Mark Carney 'back home' on two-day visit to Ireland",
+      "summary_en": "He, and his wife Diana Fox Carney, arrived at Dublin Airport at about 10:00 local time and met Taoiseach (Irish PM) Micheál Martin.",
+      "title": "Canadian Prime Minister Mark Carney 'back home' on two-day visit to Ireland",
+      "summary": "He, and his wife Diana Fox Carney, arrived at Dublin Airport at about 10:00 local time and met Taoiseach (Irish PM) Micheál Martin.",
+      "url": "https://www.bbc.com/news/articles/cx2xpv8v7v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-13T21:00:32+00:00",
+      "tags": [
+        "DUB",
+        "Ireland",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Dublin",
+        "city": "Dublin",
+        "country": "Ireland",
+        "iata": "DUB",
+        "lat": 53.4213,
+        "lon": -6.2701
+      }
     },
     {
       "id": "bc7233b8f8ad2956",
@@ -209,24 +317,6 @@
       "geo": {}
     },
     {
-      "id": "574d3f58fde1c706",
-      "title_orig": "Shooting at South Carolina mall leaves at least two people wounded",
-      "summary_orig": "Authorities say the gunfire at South Carolina’s largest mall stemmed from a dispute and was not a random attack",
-      "lang": "en",
-      "title_en": "Shooting at South Carolina mall leaves at least two people wounded",
-      "summary_en": "Authorities say the gunfire at South Carolina’s largest mall stemmed from a dispute and was not a random attack",
-      "title": "Shooting at South Carolina mall leaves at least two people wounded",
-      "summary": "Authorities say the gunfire at South Carolina’s largest mall stemmed from a dispute and was not a random attack",
-      "url": "https://www.independent.co.uk/news/world/americas/crime/south-carolina-shooting-haywood-mall-b2995276.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-13T20:24:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "66ca2a13dc5072ea",
       "title_orig": "Resident doctors call off strike action after new government offer",
       "summary_orig": "They were set to stage a four-day walkout from 7am on Monday",
@@ -274,24 +364,6 @@
       "url": "https://ktla.com/news/local-news/drones-seized-pilots-cited-near-sofi-stadium-during-world-cup-security-operation/",
       "source": "KTLA",
       "published_at": "2026-06-13T19:56:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "03e1a3d656d7abb2",
-      "title_orig": "Resident doctors in England call off strike action after Government offer",
-      "summary_orig": "Doctors were set to stage a four-day walk out from 7am but was called off after a last-minute offer, which has been put to members.",
-      "lang": "en",
-      "title_en": "Resident doctors in England call off strike action after Government offer",
-      "summary_en": "Doctors were set to stage a four-day walk out from 7am but was called off after a last-minute offer, which has been put to members.",
-      "title": "Resident doctors in England call off strike action after Government offer",
-      "summary": "Doctors were set to stage a four-day walk out from 7am but was called off after a last-minute offer, which has been put to members.",
-      "url": "https://www.standard.co.uk/news/health/doctors-government-england-b1285979.html",
-      "source": "The Standard News",
-      "published_at": "2026-06-13T19:53:53+00:00",
       "tags": [
         "airport/security"
       ],
@@ -741,7 +813,7 @@
       "title": "Far-right and anti-racist protesters clash in UK cities after Belfast riots",
       "summary": "Police make several arrests as rival demonstrators take to streets of Brighton, Liverpool, Sheffield and Glasgow Far-right marches took place across the UK on Saturday after violent unrest in Belfast and Southampton in recent days. Several people were arrested on Saturday afternoon as far-right groups clashed with anti-racist and anti-fascist demonstrators in Brighton, Liverpool, Sheffield and Glasgow. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/jun/13/far-right-anti-racist-protesters-clash-brighton-liverpool-sheffield-glasgow",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-06-13T17:30:22+00:00",
       "tags": [
         "airport/security"
@@ -1020,24 +1092,6 @@
       "geo": {}
     },
     {
-      "id": "9783c9e1e101a7de",
-      "title_orig": "City centre CCTV 'so poor' it couldn't be used as evidence of horror Gay Village attack",
-      "summary_orig": "Police left gathering evidence so long that potential footage of a hate crime incident had been overwritten. Now, the M.E.N can reveal that city CCTV that captured attack was too unclear to be used as evidence, with the suspect not identified.",
-      "lang": "en",
-      "title_en": "City centre CCTV 'so poor' it couldn't be used as evidence of horror Gay Village attack",
-      "summary_en": "Police left gathering evidence so long that potential footage of a hate crime incident had been overwritten. Now, the M.E.N can reveal that city CCTV that captured attack was too unclear to be used as evidence, with the suspect not identified.",
-      "title": "City centre CCTV 'so poor' it couldn't be used as evidence of horror Gay Village attack",
-      "summary": "Police left gathering evidence so long that potential footage of a hate crime incident had been overwritten. Now, the M.E.N can reveal that city CCTV that captured attack was too unclear to be used as evidence, with the suspect not identified.",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/city-centre-cctv-so-poor-34090851",
-      "source": "MEN - News",
-      "published_at": "2026-06-13T15:58:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2669de00f1a15285",
       "title_orig": "Ghana formally protests Canada's denial of visa for footballer Thomas Partey",
       "summary_orig": "Canada’s immigration service said its officials apply rules ‘consistently and without exception’.",
@@ -1254,42 +1308,6 @@
       "geo": {}
     },
     {
-      "id": "ecb29b096b0b32aa",
-      "title_orig": "Ukraine-Russia war latest: Kyiv used AI-controlled ‘terminator drones’ to kill Russian soldiers for first time",
-      "summary_orig": "Ukraine continues to ⁠pummel Russia's energy infrastructure as peace ​talks ⁠to resolve the war stall",
-      "lang": "en",
-      "title_en": "Ukraine-Russia war latest: Kyiv used AI-controlled ‘terminator drones’ to kill Russian soldiers for first time",
-      "summary_en": "Ukraine continues to ⁠pummel Russia's energy infrastructure as peace ​talks ⁠to resolve the war stall",
-      "title": "Ukraine-Russia war latest: Kyiv used AI-controlled ‘terminator drones’ to kill Russian soldiers for first time",
-      "summary": "Ukraine continues to ⁠pummel Russia's energy infrastructure as peace ​talks ⁠to resolve the war stall",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-crimea-bridge-news-b2994432.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-13T14:03:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d4670ef7a6dd06c0",
-      "title_orig": "Woman critical after shark attack at one of Australia’s most popular beaches",
-      "summary_orig": "Two busy beaches were shut following the attack near Sydney.",
-      "lang": "en",
-      "title_en": "Woman critical after shark attack at one of Australia’s most popular beaches",
-      "summary_en": "Two busy beaches were shut following the attack near Sydney.",
-      "title": "Woman critical after shark attack at one of Australia’s most popular beaches",
-      "summary": "Two busy beaches were shut following the attack near Sydney.",
-      "url": "https://metro.co.uk/2026/06/13/woman-mauled-shark-front-families-off-popular-beach-28761822/",
-      "source": "Metro",
-      "published_at": "2026-06-13T14:01:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "12f3d9b5bf4d59e8",
       "title_orig": "'Terrible anniversary' as families mark three years since Nottingham attacks",
       "summary_orig": "Bereaved family members and survivors laid flowers to remember the lives of Grace, Barney and Ian",
@@ -1454,24 +1472,6 @@
       "url": "https://www.mlive.com/news/flint/2026/06/kids-can-sell-their-crafts-learn-about-money-and-walk-a-mini-runway-at-this-saginaw-event.html",
       "source": "mlive.com",
       "published_at": "2026-06-13T13:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "facfd617c8123104",
-      "title_orig": "Pakistan says Iran-US peace deal is within 24 hours, Tehran urges caution",
-      "summary_orig": "Lebanon's state media has reported Israeli strikes on the country's south, as Pakistan says a US-Iran peace deal signing is expected within 24 hours.",
-      "lang": "en",
-      "title_en": "Pakistan says Iran-US peace deal is within 24 hours, Tehran urges caution",
-      "summary_en": "Lebanon's state media has reported Israeli strikes on the country's south, as Pakistan says a US-Iran peace deal signing is expected within 24 hours.",
-      "title": "Pakistan says Iran-US peace deal is within 24 hours, Tehran urges caution",
-      "summary": "Lebanon's state media has reported Israeli strikes on the country's south, as Pakistan says a US-Iran peace deal signing is expected within 24 hours.",
-      "url": "https://www.abc.net.au/news/2026-06-13/lebanon-israeli-strikes-pakistan-peace-deal-iran-united-states/106794956",
-      "source": "Just In",
-      "published_at": "2026-06-13T12:58:41+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2744,24 +2744,6 @@
       "tags": [
         "airport/security",
         "diplomatic"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f2929b5332e24a44",
-      "title_orig": "Asylum seekers removed from Essex hotel targeted by far right as Home Office ends contract",
-      "summary_orig": "Bell hotel in Epping was scene of violent protests after asylum seeker living there sexually assaulted girl and woman Asylum seekers have been removed from the Epping hotel that became a flashpoint for anti-immigration protests across England last summer as the Home Office terminates its contract with the establishment. The hotel on the outskirts of the Essex town was the scene of increasingly large protests after an asylum seeker who was living there sexually assaulted a 14-year-old girl and a woman. Continue reading...",
-      "lang": "en",
-      "title_en": "Asylum seekers removed from Essex hotel targeted by far right as Home Office ends contract",
-      "summary_en": "Bell hotel in Epping was scene of violent protests after asylum seeker living there sexually assaulted girl and woman Asylum seekers have been removed from the Epping hotel that became a flashpoint for anti-immigration protests across England last summer as the Home Office terminates its contract with the establishment. The hotel on the outskirts of the Essex town was the scene of increasingly large protests after an asylum seeker who was living there sexually assaulted a 14-year-old girl and a woman. Continue reading...",
-      "title": "Asylum seekers removed from Essex hotel targeted by far right as Home Office ends contract",
-      "summary": "Bell hotel in Epping was scene of violent protests after asylum seeker living there sexually assaulted girl and woman Asylum seekers have been removed from the Epping hotel that became a flashpoint for anti-immigration protests across England last summer as the Home Office terminates its contract with the establishment. The hotel on the outskirts of the Essex town was the scene of increasingly large protests after an asylum seeker who was living there sexually assaulted a 14-year-old girl and a woman. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/12/asylum-seekers-essex-hotel-epping-far-right-home-office-ends-contract",
-      "source": "UK news | The Guardian",
-      "published_at": "2026-06-12T17:59:43+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "major news",
       "geo": {}
