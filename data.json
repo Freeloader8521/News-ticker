@@ -1,18 +1,162 @@
 {
-  "generated_at": "2026-06-14T17:00:13.993195+00:00",
+  "generated_at": "2026-06-14T18:16:55.538002+00:00",
   "items": [
     {
-      "id": "84ff69a404d2e332",
-      "title_orig": "UK airport closed suddenly for 'ongoing incident' with passengers left stranded",
-      "summary_orig": "Inverness Airport was shut to all passengers for around two hours this afternoon",
+      "id": "82326b00610e43e9",
+      "title_orig": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
+      "summary_orig": "President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a cease-fire agreement with Tehran.",
       "lang": "en",
-      "title_en": "UK airport closed suddenly for 'ongoing incident' with passengers left stranded",
-      "summary_en": "Inverness Airport was shut to all passengers for around two hours this afternoon",
-      "title": "UK airport closed suddenly for 'ongoing incident' with passengers left stranded",
-      "summary": "Inverness Airport was shut to all passengers for around two hours this afternoon",
-      "url": "https://www.birminghammail.co.uk/news/world-news/uk-airport-closed-suddenly-ongoing-34119903",
-      "source": "Birmingham Live - News",
-      "published_at": "2026-06-14T16:48:28+00:00",
+      "title_en": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
+      "summary_en": "President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a cease-fire agreement with Tehran.",
+      "title": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
+      "summary": "President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a cease-fire agreement with Tehran.",
+      "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+      "source": "NYT > World News",
+      "published_at": "2026-06-14T18:07:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a2134bc0450790d0",
+      "title_orig": "Police arrest 14 as rival protests take place over Israeli property event in London",
+      "summary_orig": "About 1,000 people demonstrated for and against show in north London synagogue promoting sale of property in Israel About 1,000 people protested for and against a show promoting the sale of property in Israel on Sunday, with police making 14 arrests. Those opposed to the event, which was held in a north London synagogue, claimed it was also selling property in land illegally occupied by Israel and is part of an expansionist plan to drive out Palestinians. Organisers denied this was the case. Continue reading...",
+      "lang": "en",
+      "title_en": "Police arrest 14 as rival protests take place over Israeli property event in London",
+      "summary_en": "About 1,000 people demonstrated for and against show in north London synagogue promoting sale of property in Israel About 1,000 people protested for and against a show promoting the sale of property in Israel on Sunday, with police making 14 arrests. Those opposed to the event, which was held in a north London synagogue, claimed it was also selling property in land illegally occupied by Israel and is part of an expansionist plan to drive out Palestinians. Organisers denied this was the case. Continue reading...",
+      "title": "Police arrest 14 as rival protests take place over Israeli property event in London",
+      "summary": "About 1,000 people demonstrated for and against show in north London synagogue promoting sale of property in Israel About 1,000 people protested for and against a show promoting the sale of property in Israel on Sunday, with police making 14 arrests. Those opposed to the event, which was held in a north London synagogue, claimed it was also selling property in land illegally occupied by Israel and is part of an expansionist plan to drive out Palestinians. Organisers denied this was the case. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/rival-protests-take-place-over-israeli-property-event-in-london",
+      "source": "World news | The Guardian",
+      "published_at": "2026-06-14T17:47:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e62d3b00588f7b4e",
+      "title_orig": "G7 protesters smash windows and set Tesla on fire as they march in Geneva",
+      "summary_orig": "Thousands of people took to the streets to protest the ‘meeting of the rich’",
+      "lang": "en",
+      "title_en": "G7 protesters smash windows and set Tesla on fire as they march in Geneva",
+      "summary_en": "Thousands of people took to the streets to protest the ‘meeting of the rich’",
+      "title": "G7 protesters smash windows and set Tesla on fire as they march in Geneva",
+      "summary": "Thousands of people took to the streets to protest the ‘meeting of the rich’",
+      "url": "https://www.independent.co.uk/news/world/europe/g7-protests-geneva-summit-march-tesla-fire-b2995511.html",
+      "source": "The Independent World",
+      "published_at": "2026-06-14T17:43:24+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8c511cb51991ba69",
+      "title_orig": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
+      "summary_orig": "The attacks complicated an already delicate moment as President Trump and Iran appeared to be edging toward finalizing a framework peace agreement.",
+      "lang": "en",
+      "title_en": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
+      "summary_en": "The attacks complicated an already delicate moment as President Trump and Iran appeared to be edging toward finalizing a framework peace agreement.",
+      "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
+      "summary": "The attacks complicated an already delicate moment as President Trump and Iran appeared to be edging toward finalizing a framework peace agreement.",
+      "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-14T17:39:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "d02637c708d1e038",
+      "title_orig": "China’s direct strike threat to Australia is ‘growing’, think tank report finds",
+      "summary_orig": "China is capable of a direct missile strike on Australia and the threat is growing as Beijing amasses long-range and hypersonic weapons and builds islands in the South China Sea, an Australian think tank said on Sunday.\nA Lowy Institute report found the main threat to Australia was from Chinese missiles fired from ships, submarines and a new intermediate-range ballistic missile that could reach the island continent from China.\nChina’s capacity to strike Australia would grow over the next decade...",
+      "lang": "en",
+      "title_en": "China’s direct strike threat to Australia is ‘growing’, think tank report finds",
+      "summary_en": "China is capable of a direct missile strike on Australia and the threat is growing as Beijing amasses long-range and hypersonic weapons and builds islands in the South China Sea, an Australian think tank said on Sunday.\nA Lowy Institute report found the main threat to Australia was from Chinese missiles fired from ships, submarines and a new intermediate-range ballistic missile that could reach the island continent from China.\nChina’s capacity to strike Australia would grow over the next decade...",
+      "title": "China’s direct strike threat to Australia is ‘growing’, think tank report finds",
+      "summary": "China is capable of a direct missile strike on Australia and the threat is growing as Beijing amasses long-range and hypersonic weapons and builds islands in the South China Sea, an Australian think tank said on Sunday.\nA Lowy Institute report found the main threat to Australia was from Chinese missiles fired from ships, submarines and a new intermediate-range ballistic missile that could reach the island continent from China.\nChina’s capacity to strike Australia would grow over the next decade...",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3357080/chinas-direct-strike-threat-australia-growing-think-tank-report-finds?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2026-06-14T17:37:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fb421f5c0c0a363a",
+      "title_orig": "Putin, Zelenskyy speak with Trump by phone as drone strikes kill 2 in Russia and UK detains tanker",
+      "summary_orig": "Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy each spoke by phone with U.S. President Donald Trump on Sunday,…",
+      "lang": "en",
+      "title_en": "Putin, Zelenskyy speak with Trump by phone as drone strikes kill 2 in Russia and UK detains tanker",
+      "summary_en": "Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy each spoke by phone with U.S. President Donald Trump on Sunday,…",
+      "title": "Putin, Zelenskyy speak with Trump by phone as drone strikes kill 2 in Russia and UK detains tanker",
+      "summary": "Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy each spoke by phone with U.S. President Donald Trump on Sunday,…",
+      "url": "https://wtop.com/russia-ukraine-war-news/2026/06/ukrainian-drone-strikes-kill-1-and-spark-fire-at-oil-facility-in-russia/",
+      "source": "WTOP News",
+      "published_at": "2026-06-14T17:34:36+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "14bd29b226e48390",
+      "title_orig": "Middle East crisis live: Trump warns ‘let’s not blow it’ on US-Iran peace deal as he condemns Israel attacks on Beirut",
+      "summary_orig": "US president says Israel should not have attacked Beirut but warns against retaliation after Iran says Israeli strikes won’t go ‘unanswered’ Trump calls for restraint after Israel airstrikes on Beirut Iranian hardliners in vociferous push to reject US peace deal Israel says it has struck Beirut’s south suburbs, with explosions heard in the city. The Israeli military claimed the attacks on the Lebanese capital were in response to Hezbollah firing into Israeli territory. The military were reportedly targeting Hezbollah targets in Beirut’s southern suburbs, the group’s stronghold known as Dahiyeh, according to a joint statement by prime minister Benjamin Netanyahu and defense minister Israel Katz. Continue reading...",
+      "lang": "en",
+      "title_en": "Middle East crisis live: Trump warns ‘let’s not blow it’ on US-Iran peace deal as he condemns Israel attacks on Beirut",
+      "summary_en": "US president says Israel should not have attacked Beirut but warns against retaliation after Iran says Israeli strikes won’t go ‘unanswered’ Trump calls for restraint after Israel airstrikes on Beirut Iranian hardliners in vociferous push to reject US peace deal Israel says it has struck Beirut’s south suburbs, with explosions heard in the city. The Israeli military claimed the attacks on the Lebanese capital were in response to Hezbollah firing into Israeli territory. The military were reportedly targeting Hezbollah targets in Beirut’s southern suburbs, the group’s stronghold known as Dahiyeh, according to a joint statement by prime minister Benjamin Netanyahu and defense minister Israel Katz. Continue reading...",
+      "title": "Middle East crisis live: Trump warns ‘let’s not blow it’ on US-Iran peace deal as he condemns Israel attacks on Beirut",
+      "summary": "US president says Israel should not have attacked Beirut but warns against retaliation after Iran says Israeli strikes won’t go ‘unanswered’ Trump calls for restraint after Israel airstrikes on Beirut Iranian hardliners in vociferous push to reject US peace deal Israel says it has struck Beirut’s south suburbs, with explosions heard in the city. The Israeli military claimed the attacks on the Lebanese capital were in response to Hezbollah firing into Israeli territory. The military were reportedly targeting Hezbollah targets in Beirut’s southern suburbs, the group’s stronghold known as Dahiyeh, according to a joint statement by prime minister Benjamin Netanyahu and defense minister Israel Katz. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
+      "source": "World news | The Guardian",
+      "published_at": "2026-06-14T17:23:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "df52ff01bb9af19d",
+      "title_orig": "Trump says Israeli strike on Lebanon ‘should not have happened’, but insists Iran deal still close",
+      "summary_orig": "Iranian speaker Mohammad Bagher Ghalibaf says there's no point in talks, citing US failure to honour commitments.",
+      "lang": "en",
+      "title_en": "Trump says Israeli strike on Lebanon ‘should not have happened’, but insists Iran deal still close",
+      "summary_en": "Iranian speaker Mohammad Bagher Ghalibaf says there's no point in talks, citing US failure to honour commitments.",
+      "title": "Trump says Israeli strike on Lebanon ‘should not have happened’, but insists Iran deal still close",
+      "summary": "Iranian speaker Mohammad Bagher Ghalibaf says there's no point in talks, citing US failure to honour commitments.",
+      "url": "https://www.straitstimes.com/world/middle-east/trump-says-israeli-strike-on-lebanon-should-not-have-happened-but-iran-deal-close",
+      "source": "The Straits Times World News",
+      "published_at": "2026-06-14T17:09:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "88b8a370208be97e",
+      "title_orig": "Thousands hold G7 protest in Geneva as world leaders prepare for summit in nearby France",
+      "summary_orig": "Protesters in Geneva clashed with police, set a car on fire and smashed the windows of a bank on Sunday to show their discontent with the G7 group of major advanced economies on the eve of a summit in nearby France to be attended by the group’s leaders including US President Donald Trump.\nEnvironmentalists and feminists joined foes of imperialism, defenders of independent media, supporters of Palestinian rights and others in a lakeside park in Geneva for a march across the Swiss city. A boat...",
+      "lang": "en",
+      "title_en": "Thousands hold G7 protest in Geneva as world leaders prepare for summit in nearby France",
+      "summary_en": "Protesters in Geneva clashed with police, set a car on fire and smashed the windows of a bank on Sunday to show their discontent with the G7 group of major advanced economies on the eve of a summit in nearby France to be attended by the group’s leaders including US President Donald Trump.\nEnvironmentalists and feminists joined foes of imperialism, defenders of independent media, supporters of Palestinian rights and others in a lakeside park in Geneva for a march across the Swiss city. A boat...",
+      "title": "Thousands hold G7 protest in Geneva as world leaders prepare for summit in nearby France",
+      "summary": "Protesters in Geneva clashed with police, set a car on fire and smashed the windows of a bank on Sunday to show their discontent with the G7 group of major advanced economies on the eve of a summit in nearby France to be attended by the group’s leaders including US President Donald Trump.\nEnvironmentalists and feminists joined foes of imperialism, defenders of independent media, supporters of Palestinian rights and others in a lakeside park in Geneva for a march across the Swiss city. A boat...",
+      "url": "https://www.scmp.com/news/world/europe/article/3357079/thousands-hold-g7-protest-geneva-world-leaders-prepare-summit-nearby-france?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2026-06-14T17:08:43+00:00",
       "tags": [
         "airport/security"
       ],
@@ -30,7 +174,7 @@
       "summary": "Russia and the United States projected their own centralized views onto Ukraine and Iran, analysts said. As a result, the smaller countries trapped larger ones in a costly confrontation.",
       "url": "https://www.nytimes.com/2026/06/14/world/europe/us-iran-rusisa-ukraine.html",
       "source": "NYT > World News",
-      "published_at": "2026-06-14T16:45:23+00:00",
+      "published_at": "2026-06-14T17:08:22+00:00",
       "tags": [
         "airport/security"
       ],
@@ -38,21 +182,129 @@
       "geo": {}
     },
     {
-      "id": "82326b00610e43e9",
-      "title_orig": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
-      "summary_orig": "President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a cease-fire agreement with Tehran.",
+      "id": "a1d343ef9f1500bd",
+      "title_orig": "Irrigation dept. to restart dredging in Korapuzha",
+      "summary_orig": "The dredging work was halted following mass protests in February 2026. Residents and political parties had alleged that sand was being illegally extracted under the pretext of dredging",
       "lang": "en",
-      "title_en": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
-      "summary_en": "President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a cease-fire agreement with Tehran.",
-      "title": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
-      "summary": "President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a cease-fire agreement with Tehran.",
-      "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-      "source": "NYT > World News",
-      "published_at": "2026-06-14T16:44:58+00:00",
+      "title_en": "Irrigation dept. to restart dredging in Korapuzha",
+      "summary_en": "The dredging work was halted following mass protests in February 2026. Residents and political parties had alleged that sand was being illegally extracted under the pretext of dredging",
+      "title": "Irrigation dept. to restart dredging in Korapuzha",
+      "summary": "The dredging work was halted following mass protests in February 2026. Residents and political parties had alleged that sand was being illegally extracted under the pretext of dredging",
+      "url": "https://www.thehindu.com/news/national/kerala/dredging-in-korapuzha-river-to-resume/article71101271.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-06-14T17:04:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0af621b1ba6a5e1e",
+      "title_orig": "Swiss police fire tear gas as anti-G7 protesters target UN buildings",
+      "summary_orig": "Swiss police on Sunday fired tear gas at demonstrators protesting the upcoming Group of Seven summit in France after some protesters started targeting buildings linked to the United Nations in Geneva.",
+      "lang": "en",
+      "title_en": "Swiss police fire tear gas as anti-G7 protesters target UN buildings",
+      "summary_en": "Swiss police on Sunday fired tear gas at demonstrators protesting the upcoming Group of Seven summit in France after some protesters started targeting buildings linked to the United Nations in Geneva.",
+      "title": "Swiss police fire tear gas as anti-G7 protesters target UN buildings",
+      "summary": "Swiss police on Sunday fired tear gas at demonstrators protesting the upcoming Group of Seven summit in France after some protesters started targeting buildings linked to the United Nations in Geneva.",
+      "url": "https://www.france24.com/en/europe/20260614-switzerland-police-tear-gas-as-anti-g7-protesters-target-un-buildings-geneva-united-nations",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-06-14T17:03:36+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "267f15235f17c16d",
+      "title_orig": "Protesters in Geneva clash with police ahead of the G7 summit in nearby France",
+      "summary_orig": "GENEVA (AP) — Protesters in Geneva clashed with police, set a car on fire and smashed the windows of a…",
+      "lang": "en",
+      "title_en": "Protesters in Geneva clash with police ahead of the G7 summit in nearby France",
+      "summary_en": "GENEVA (AP) — Protesters in Geneva clashed with police, set a car on fire and smashed the windows of a…",
+      "title": "Protesters in Geneva clash with police ahead of the G7 summit in nearby France",
+      "summary": "GENEVA (AP) — Protesters in Geneva clashed with police, set a car on fire and smashed the windows of a…",
+      "url": "https://wtop.com/world/2026/06/downtown-geneva-boards-up-as-drastic-security-tightens-ahead-of-anti-g7-protests/",
+      "source": "WTOP News",
+      "published_at": "2026-06-14T16:59:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "07709f1398ee1306",
+      "title_orig": "Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal",
+      "summary_orig": "The strikes threatened to hamper negotiations over a deal, which in its current form is a deep disappointment to Israel's government.",
+      "lang": "en",
+      "title_en": "Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal",
+      "summary_en": "The strikes threatened to hamper negotiations over a deal, which in its current form is a deep disappointment to Israel's government.",
+      "title": "Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal",
+      "summary": "The strikes threatened to hamper negotiations over a deal, which in its current form is a deep disappointment to Israel's government.",
+      "url": "https://wtop.com/middle-east/2026/06/qatari-mediators-travel-to-tehran-for-final-touches-on-a-possible-deal-to-end-war/",
+      "source": "WTOP News",
+      "published_at": "2026-06-14T16:50:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "359878124b6758c0",
+      "title_orig": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
+      "summary_orig": "Activists rally in Geneva to denounce policies of G7 countries ahead of group's annual meeting this week in France.",
+      "lang": "en",
+      "title_en": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
+      "summary_en": "Activists rally in Geneva to denounce policies of G7 countries ahead of group's annual meeting this week in France.",
+      "title": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
+      "summary": "Activists rally in Geneva to denounce policies of G7 countries ahead of group's annual meeting this week in France.",
+      "url": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-14T16:49:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "8d458af934d217a0",
+      "title_orig": "Al Jazeera reports from Israeli attack site in southern Beirut",
+      "summary_orig": "Al Jazeera reports from the site of an Israeli attack on a residential building in southern Beirut.",
+      "lang": "en",
+      "title_en": "Al Jazeera reports from Israeli attack site in southern Beirut",
+      "summary_en": "Al Jazeera reports from the site of an Israeli attack on a residential building in southern Beirut.",
+      "title": "Al Jazeera reports from Israeli attack site in southern Beirut",
+      "summary": "Al Jazeera reports from the site of an Israeli attack on a residential building in southern Beirut.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-14T16:49:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "84ff69a404d2e332",
+      "title_orig": "UK airport closed suddenly for 'ongoing incident' with passengers left stranded",
+      "summary_orig": "Inverness Airport was shut to all passengers for around two hours this afternoon",
+      "lang": "en",
+      "title_en": "UK airport closed suddenly for 'ongoing incident' with passengers left stranded",
+      "summary_en": "Inverness Airport was shut to all passengers for around two hours this afternoon",
+      "title": "UK airport closed suddenly for 'ongoing incident' with passengers left stranded",
+      "summary": "Inverness Airport was shut to all passengers for around two hours this afternoon",
+      "url": "https://www.birminghammail.co.uk/news/world-news/uk-airport-closed-suddenly-ongoing-34119903",
+      "source": "Birmingham Live - News",
+      "published_at": "2026-06-14T16:48:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -128,31 +380,13 @@
       "geo": {}
     },
     {
-      "id": "14bd29b226e48390",
-      "title_orig": "Middle East crisis live: Trump warns ‘let’s not blow it’ on US-Iran peace deal as he condemns Israel attacks on Beirut",
-      "summary_orig": "US president says Israel should not have attacked Beirut but warns against retaliation after Iran says Israeli strikes won’t go ‘unanswered’ Trump calls for restraint after Israel airstrikes on Beirut Iranian hardliners in vociferous push to reject US peace deal Israel says it has struck Beirut’s south suburbs, with explosions heard in the city. The Israeli military claimed the attacks on the Lebanese capital were in response to Hezbollah firing into Israeli territory. The military were reportedly targeting Hezbollah targets in Beirut’s southern suburbs, the group’s stronghold known as Dahiyeh, according to a joint statement by prime minister Benjamin Netanyahu and defense minister Israel Katz. Continue reading...",
-      "lang": "en",
-      "title_en": "Middle East crisis live: Trump warns ‘let’s not blow it’ on US-Iran peace deal as he condemns Israel attacks on Beirut",
-      "summary_en": "US president says Israel should not have attacked Beirut but warns against retaliation after Iran says Israeli strikes won’t go ‘unanswered’ Trump calls for restraint after Israel airstrikes on Beirut Iranian hardliners in vociferous push to reject US peace deal Israel says it has struck Beirut’s south suburbs, with explosions heard in the city. The Israeli military claimed the attacks on the Lebanese capital were in response to Hezbollah firing into Israeli territory. The military were reportedly targeting Hezbollah targets in Beirut’s southern suburbs, the group’s stronghold known as Dahiyeh, according to a joint statement by prime minister Benjamin Netanyahu and defense minister Israel Katz. Continue reading...",
-      "title": "Middle East crisis live: Trump warns ‘let’s not blow it’ on US-Iran peace deal as he condemns Israel attacks on Beirut",
-      "summary": "US president says Israel should not have attacked Beirut but warns against retaliation after Iran says Israeli strikes won’t go ‘unanswered’ Trump calls for restraint after Israel airstrikes on Beirut Iranian hardliners in vociferous push to reject US peace deal Israel says it has struck Beirut’s south suburbs, with explosions heard in the city. The Israeli military claimed the attacks on the Lebanese capital were in response to Hezbollah firing into Israeli territory. The military were reportedly targeting Hezbollah targets in Beirut’s southern suburbs, the group’s stronghold known as Dahiyeh, according to a joint statement by prime minister Benjamin Netanyahu and defense minister Israel Katz. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
-      "source": "World news | The Guardian",
-      "published_at": "2026-06-14T16:24:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "22f9b4fa5b4ca027",
-      "title_orig": "Trump calls for restraint after Israel launches fresh airstrikes on Beirut",
+      "title_orig": "‘Let’s not blow it’: Trump calls for restraint after Israel launches fresh airstrikes on Beirut",
       "summary_orig": "US president says ‘all sides should stand down’ as mediators seek to conclude preliminary US-Iran peace deal negotiations Middle East crisis – live updates Donald Trump was forced to call for restraint on Sunday after Israel launched fresh airstrikes on Beirut as mediators sought to conclude negotiations on a preliminary peace deal between Iran and the US that would bring the three-month war in the Middle East to a definitive end. Trump played down new Israeli strikes but said “all sides should stand down”. Continue reading...",
       "lang": "en",
-      "title_en": "Trump calls for restraint after Israel launches fresh airstrikes on Beirut",
+      "title_en": "‘Let’s not blow it’: Trump calls for restraint after Israel launches fresh airstrikes on Beirut",
       "summary_en": "US president says ‘all sides should stand down’ as mediators seek to conclude preliminary US-Iran peace deal negotiations Middle East crisis – live updates Donald Trump was forced to call for restraint on Sunday after Israel launched fresh airstrikes on Beirut as mediators sought to conclude negotiations on a preliminary peace deal between Iran and the US that would bring the three-month war in the Middle East to a definitive end. Trump played down new Israeli strikes but said “all sides should stand down”. Continue reading...",
-      "title": "Trump calls for restraint after Israel launches fresh airstrikes on Beirut",
+      "title": "‘Let’s not blow it’: Trump calls for restraint after Israel launches fresh airstrikes on Beirut",
       "summary": "US president says ‘all sides should stand down’ as mediators seek to conclude preliminary US-Iran peace deal negotiations Middle East crisis – live updates Donald Trump was forced to call for restraint on Sunday after Israel launched fresh airstrikes on Beirut as mediators sought to conclude negotiations on a preliminary peace deal between Iran and the US that would bring the three-month war in the Middle East to a definitive end. Trump played down new Israeli strikes but said “all sides should stand down”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal",
       "source": "World news | The Guardian",
@@ -161,24 +395,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "267f15235f17c16d",
-      "title_orig": "Thousands hold G7 protest in Geneva as leaders prepare to hold summit in nearby France",
-      "summary_orig": "GENEVA (AP) — Protesters in Geneva clashed with police, set a car on fire and smashed the windows of a…",
-      "lang": "en",
-      "title_en": "Thousands hold G7 protest in Geneva as leaders prepare to hold summit in nearby France",
-      "summary_en": "GENEVA (AP) — Protesters in Geneva clashed with police, set a car on fire and smashed the windows of a…",
-      "title": "Thousands hold G7 protest in Geneva as leaders prepare to hold summit in nearby France",
-      "summary": "GENEVA (AP) — Protesters in Geneva clashed with police, set a car on fire and smashed the windows of a…",
-      "url": "https://wtop.com/world/2026/06/downtown-geneva-boards-up-as-drastic-security-tightens-ahead-of-anti-g7-protests/",
-      "source": "WTOP News",
-      "published_at": "2026-06-14T16:17:34+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -427,12 +643,12 @@
     {
       "id": "210398e1e5496701",
       "title_orig": "Protesters smash windows and set Tesla ablaze in anti-G-7 march in Geneva",
-      "summary_orig": "Some demonstrators are protesting the summit as a symbol of concentrated political and economic power.",
+      "summary_orig": "Demonstrators said they came to protest against the G-7 as a symbol of concentrated political and economic power.",
       "lang": "en",
       "title_en": "Protesters smash windows and set Tesla ablaze in anti-G-7 march in Geneva",
-      "summary_en": "Some demonstrators are protesting the summit as a symbol of concentrated political and economic power.",
+      "summary_en": "Demonstrators said they came to protest against the G-7 as a symbol of concentrated political and economic power.",
       "title": "Protesters smash windows and set Tesla ablaze in anti-G-7 march in Geneva",
-      "summary": "Some demonstrators are protesting the summit as a symbol of concentrated political and economic power.",
+      "summary": "Demonstrators said they came to protest against the G-7 as a symbol of concentrated political and economic power.",
       "url": "https://www.straitstimes.com/world/europe/protesters-smash-windows-and-set-tesla-ablaze-in-anti-g7-march-in-geneva",
       "source": "The Straits Times World News",
       "published_at": "2026-06-14T15:44:04+00:00",
@@ -490,24 +706,6 @@
       "url": "https://www.thehindu.com/news/national/karnataka/rally-to-protest-against-sir-in-belagavi-today/article71101614.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
       "published_at": "2026-06-14T15:35:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1f1ec60d43e5b2cb",
-      "title_orig": "Lebanon says three killed in Israeli strike on Beirut suburb",
-      "summary_orig": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
-      "lang": "en",
-      "title_en": "Lebanon says three killed in Israeli strike on Beirut suburb",
-      "summary_en": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
-      "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
-      "summary": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
-      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-14T15:34:32+00:00",
       "tags": [
         "airport/security"
       ],
@@ -587,24 +785,6 @@
       "geo": {}
     },
     {
-      "id": "9f2622a2bfc0f543",
-      "title_orig": "Jagan alleges blocking of YSRCP’s Facebook page",
-      "summary_orig": "This is nothing but an attack on the democratic values and freedom of expression, he says, and vows to challenge the unfair actions through every legal and constitutional avenue",
-      "lang": "en",
-      "title_en": "Jagan alleges blocking of YSRCP’s Facebook page",
-      "summary_en": "This is nothing but an attack on the democratic values and freedom of expression, he says, and vows to challenge the unfair actions through every legal and constitutional avenue",
-      "title": "Jagan alleges blocking of YSRCP’s Facebook page",
-      "summary": "This is nothing but an attack on the democratic values and freedom of expression, he says, and vows to challenge the unfair actions through every legal and constitutional avenue",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-alleges-blocking-of-ysrcps-facebook-page/article71101620.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-14T15:10:06+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "93552e9a99c4053f",
       "title_orig": "Iran-US war latest: Trump says Israel’s attack on Beirut should ‘not have happened’ as he urges Netanyahu not to ‘blow it’",
       "summary_orig": "The strikes in Lebanon have thrown the peace deal into jeopardy",
@@ -634,24 +814,6 @@
       "url": "https://www.standard.co.uk/news/london/man-attack-gang-london-southbank-b1286029.html",
       "source": "The Standard News",
       "published_at": "2026-06-14T15:03:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c61dea2ea2d4d0aa",
-      "title_orig": "Thiruvananthapuram Corporation BJP councillor \nR. Sugathan faces 19 criminal cases",
-      "summary_orig": "Youth Morcha protests against arrest",
-      "lang": "en",
-      "title_en": "Thiruvananthapuram Corporation BJP councillor \nR. Sugathan faces 19 criminal cases",
-      "summary_en": "Youth Morcha protests against arrest",
-      "title": "Thiruvananthapuram Corporation BJP councillor \nR. Sugathan faces 19 criminal cases",
-      "summary": "Youth Morcha protests against arrest",
-      "url": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-corporation-bjp-councillor-r-sugathan-faces-19-criminal-cases/article71101593.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-14T15:00:49+00:00",
       "tags": [
         "airport/security"
       ],
@@ -706,42 +868,6 @@
       "url": "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-transfers-attacking-options-largie-ramazani-8719873",
       "source": "Yorkshire Evening Post",
       "published_at": "2026-06-14T14:58:26+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f2a181f95595dbc2",
-      "title_orig": "Israeli fire kills six in Gaza despite new effort to salvage truce",
-      "summary_orig": "CAIRO, June 14 - Israeli strikes and gunfire killed at least six Palestinians in the Gaza Strip on Sunday, health officials said, as mediators stepped up efforts to salvage the U.S.-brokered ceasefire.",
-      "lang": "en",
-      "title_en": "Israeli fire kills six in Gaza despite new effort to salvage truce",
-      "summary_en": "CAIRO, June 14 - Israeli strikes and gunfire killed at least six Palestinians in the Gaza Strip on Sunday, health officials said, as mediators stepped up efforts to salvage the U.S.-brokered ceasefire.",
-      "title": "Israeli fire kills six in Gaza despite new effort to salvage truce",
-      "summary": "CAIRO, June 14 - Israeli strikes and gunfire killed at least six Palestinians in the Gaza Strip on Sunday, health officials said, as mediators stepped up efforts to salvage the U.S.-brokered ceasefire.",
-      "url": "https://www.straitstimes.com/world/middle-east/israeli-fire-kills-six-in-gaza-despite-new-effort-to-salvage-truce",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-14T14:53:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "76051f15b8dad6d7",
-      "title_orig": "Post-Operation Sindoor, CISF trains over 7,000 personnel in drone, counter-drone operations",
-      "summary_orig": "The training in conjunction with Indian Air Force has been initiated amid the growing threat from unauthorised unmanned aerial vehicles",
-      "lang": "en",
-      "title_en": "Post-Operation Sindoor, CISF trains over 7,000 personnel in drone, counter-drone operations",
-      "summary_en": "The training in conjunction with Indian Air Force has been initiated amid the growing threat from unauthorised unmanned aerial vehicles",
-      "title": "Post-Operation Sindoor, CISF trains over 7,000 personnel in drone, counter-drone operations",
-      "summary": "The training in conjunction with Indian Air Force has been initiated amid the growing threat from unauthorised unmanned aerial vehicles",
-      "url": "https://www.thehindu.com/news/national/post-operation-sindoor-cisf-trains-over-7000-personnel-in-drone-counter-drone-operations/article71101559.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-14T14:47:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -818,24 +944,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8c511cb51991ba69",
-      "title_orig": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
-      "summary_orig": "The attacks complicated an already delicate moment as President Trump and Iran appeared to be edging toward finalizing a framework peace agreement.",
-      "lang": "en",
-      "title_en": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
-      "summary_en": "The attacks complicated an already delicate moment as President Trump and Iran appeared to be edging toward finalizing a framework peace agreement.",
-      "title": "Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates",
-      "summary": "The attacks complicated an already delicate moment as President Trump and Iran appeared to be edging toward finalizing a framework peace agreement.",
-      "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-14T14:33:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1039,6 +1147,24 @@
       "url": "https://metro.co.uk/2026/06/14/kremlin-mouthpiece-says-russia-rig-oil-tankers-bombs-ship-intercepted-off-uk-coast-28772012/",
       "source": "Metro",
       "published_at": "2026-06-14T13:38:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "351a6c334f508a62",
+      "title_orig": "Palestinian death toll in Gaza tops 73,000 as Israel launches strikes despite ceasefire",
+      "summary_orig": "Gaza’s Health Ministry says the Palestinian death toll from the Israel-Hamas war has surpassed 73,000.",
+      "lang": "en",
+      "title_en": "Palestinian death toll in Gaza tops 73,000 as Israel launches strikes despite ceasefire",
+      "summary_en": "Gaza’s Health Ministry says the Palestinian death toll from the Israel-Hamas war has surpassed 73,000.",
+      "title": "Palestinian death toll in Gaza tops 73,000 as Israel launches strikes despite ceasefire",
+      "summary": "Gaza’s Health Ministry says the Palestinian death toll from the Israel-Hamas war has surpassed 73,000.",
+      "url": "https://www.seattletimes.com/nation-world/palestinian-death-toll-in-gaza-tops-73000-officials-say-as-israel-strikes-despite-ceasefire/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
+      "source": "The Seattle Times The Seattle Times",
+      "published_at": "2026-06-14T13:24:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1271,24 +1397,6 @@
       "geo": {}
     },
     {
-      "id": "52cdceb789ec7952",
-      "title_orig": "Liverpool legend explains why he wants Alexander Isak out of the World Cup",
-      "summary_orig": "Vladmir Smicer has been discussing Alexander Isak and why the Liverpool striker will not benefit from a long run at the World Cup with Sweden",
-      "lang": "en",
-      "title_en": "Liverpool legend explains why he wants Alexander Isak out of the World Cup",
-      "summary_en": "Vladmir Smicer has been discussing Alexander Isak and why the Liverpool striker will not benefit from a long run at the World Cup with Sweden",
-      "title": "Liverpool legend explains why he wants Alexander Isak out of the World Cup",
-      "summary": "Vladmir Smicer has been discussing Alexander Isak and why the Liverpool striker will not benefit from a long run at the World Cup with Sweden",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-legend-explains-wants-alexander-34117208",
-      "source": "Liverpool Echo - Home",
-      "published_at": "2026-06-14T11:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e7faf2051542b0b3",
       "title_orig": "Ukraine is winning the drone war. Now it needs to win over Trump.",
       "summary_orig": "Battlefield gains and drone deals with Europe have given Kyiv rare leverage heading into the G7 world leaders’ summit, even as Washington's attention is elsewhere.",
@@ -1426,24 +1534,6 @@
       "url": "https://airlive.net/emergency/2026/06/14/pilots-of-air-canada-ac937-declared-an-emergency-after-turning-back-to-edinburgh/",
       "source": "AIRLIVE",
       "published_at": "2026-06-14T10:09:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e8ed51e842fcf9c7",
-      "title_orig": "Girl, 14, 'attacked' in Birmingham street and taken to hospital as two women arrested",
-      "summary_orig": "A teenager was injured in a reported attack on Nursery Road in Lozells and taken to hospital with two women arrested on suspicion of assault",
-      "lang": "en",
-      "title_en": "Girl, 14, 'attacked' in Birmingham street and taken to hospital as two women arrested",
-      "summary_en": "A teenager was injured in a reported attack on Nursery Road in Lozells and taken to hospital with two women arrested on suspicion of assault",
-      "title": "Girl, 14, 'attacked' in Birmingham street and taken to hospital as two women arrested",
-      "summary": "A teenager was injured in a reported attack on Nursery Road in Lozells and taken to hospital with two women arrested on suspicion of assault",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/girl-14-attacked-birmingham-street-34118590",
-      "source": "Birmingham Live - News",
-      "published_at": "2026-06-14T10:07:14+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1812,24 +1902,6 @@
       "geo": {}
     },
     {
-      "id": "f288c353d3499530",
-      "title_orig": "Why Northrop Grumman Must Accelerate B-21 Raider Production Before The USAF Can Hit Its 100-Bomber Target",
-      "summary_orig": "The urgency is rising to debut the Air Force's newest bomber.",
-      "lang": "en",
-      "title_en": "Why Northrop Grumman Must Accelerate B-21 Raider Production Before The USAF Can Hit Its 100-Bomber Target",
-      "summary_en": "The urgency is rising to debut the Air Force's newest bomber.",
-      "title": "Why Northrop Grumman Must Accelerate B-21 Raider Production Before The USAF Can Hit Its 100-Bomber Target",
-      "summary": "The urgency is rising to debut the Air Force's newest bomber.",
-      "url": "https://simpleflying.com/why-northrop-grumman-must-speed-up-b21-raider-production/",
-      "source": "Simple Flying",
-      "published_at": "2026-06-14T07:00:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "cddba6659bca6a86",
       "title_orig": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
       "summary_orig": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
@@ -2007,24 +2079,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d3ee68ceb737bf0d",
-      "title_orig": "Middle East live: Iran questions US willingness to fulfill commitments after Israel attack on Beirut",
-      "summary_orig": "Iran’s ⁠top ​negotiator on Sunday questioned the United States willingness to fulfill its commitments after Israel ​attacked ⁠Beirut’s southern suburbs. In a post on X, Baqer Qalibaf referred to the ongoing peace negotiations between Tehran and Washington and warned that “if you lack the will and ability to fulfill your commitments, speaking of continuing the path is not possible”. Follow our liveblog for the latest updates.",
-      "lang": "en",
-      "title_en": "Middle East live: Iran questions US willingness to fulfill commitments after Israel attack on Beirut",
-      "summary_en": "Iran’s ⁠top ​negotiator on Sunday questioned the United States willingness to fulfill its commitments after Israel ​attacked ⁠Beirut’s southern suburbs. In a post on X, Baqer Qalibaf referred to the ongoing peace negotiations between Tehran and Washington and warned that “if you lack the will and ability to fulfill your commitments, speaking of continuing the path is not possible”. Follow our liveblog for the latest updates.",
-      "title": "Middle East live: Iran questions US willingness to fulfill commitments after Israel attack on Beirut",
-      "summary": "Iran’s ⁠top ​negotiator on Sunday questioned the United States willingness to fulfill its commitments after Israel ​attacked ⁠Beirut’s southern suburbs. In a post on X, Baqer Qalibaf referred to the ongoing peace negotiations between Tehran and Washington and warned that “if you lack the will and ability to fulfill your commitments, speaking of continuing the path is not possible”. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-06-14T05:12:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2568,24 +2622,6 @@
       "geo": {}
     },
     {
-      "id": "8ce47e47e2159ed0",
-      "title_orig": "Drones seized, pilots cited near SoFi Stadium during World Cup security operation",
-      "summary_orig": "The FBI says several drone operators were cited and had their aircraft confiscated after violating temporary flight restrictions during World Cup-related events in the Los Angeles area. In a social media post Saturday, the FBI's Los Angeles field office said its Counter Drone Enforcement Team had been actively monitoring airspace around Friday night's FIFA World [...]",
-      "lang": "en",
-      "title_en": "Drones seized, pilots cited near SoFi Stadium during World Cup security operation",
-      "summary_en": "The FBI says several drone operators were cited and had their aircraft confiscated after violating temporary flight restrictions during World Cup-related events in the Los Angeles area. In a social media post Saturday, the FBI's Los Angeles field office said its Counter Drone Enforcement Team had been actively monitoring airspace around Friday night's FIFA World [...]",
-      "title": "Drones seized, pilots cited near SoFi Stadium during World Cup security operation",
-      "summary": "The FBI says several drone operators were cited and had their aircraft confiscated after violating temporary flight restrictions during World Cup-related events in the Los Angeles area. In a social media post Saturday, the FBI's Los Angeles field office said its Counter Drone Enforcement Team had been actively monitoring airspace around Friday night's FIFA World [...]",
-      "url": "https://ktla.com/news/local-news/drones-seized-pilots-cited-near-sofi-stadium-during-world-cup-security-operation/",
-      "source": "KTLA",
-      "published_at": "2026-06-13T19:56:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "e221d220102b7841",
       "title_orig": "Knicks fan, 17, left in a coma after brutal attack near MSG",
       "summary_orig": "The NYPD released a photo of a man who is wanted for gang assault after the attack",
@@ -2635,25 +2671,6 @@
       "published_at": "2026-06-13T18:25:23+00:00",
       "tags": [
         "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3ccb26d4d8ed31d3",
-      "title_orig": "US-Venezuela joint operation kills leader of Tren de Aragua gang",
-      "summary_orig": "The leader of the transnational gang Tren de Aragua has been killed in southern Venezuela as part of a joint operation with the United States, in what a top Pentagon official on Saturday described as a warning to “narco-terrorists” in Latin America. Hector Rusthenford Guerrero Flores, alias Nino Guerrero, was “neutralised” in southeastern Bolivar state, Venezuela’s Ministry of Communications said in a statement on Friday. US President Donald Trump said Guerrero was killed in “a swift and lethal kinetic strike” by US forces, in an attack “coordinated closely with our friends in Venezuela”. “As a result, Tren de Aragua terrorists no longer have safe haven in Venezuela or anywhere else,” Trump wrote on his Truth Social platform Friday night. On Saturday, a senior aide to Pentagon Chief Pete Hegseth said the killing was meant to serve as a stark warning. “The death of Nino Guerrero sends a clear message to Latin America. There is no refuge for narco-terrorists in our hemisphere,” Patrick Weaver, Hegseth’s deputy chief of staff, said in a post on X on Saturday morning. Trump’s social post confirming Guerrero’s killing was accompanied by a 10-second video, showing an overhead view of a building surrounded by greenery before an explosion erupts, sending up a cloud of smoke. No people are clearly visible in the footage. ‘Countless acts of violence’ Founded in Venezuela, Tren de Aragua has been designated a terrorist organisation by the United States and is also active in Colombia, Peru and Chile. Federal prosecutors in New York filed racketeering, drug and firearms charges against the gang leader in December. “Guerrero Flores has been the mastermind of Tren de Aragua’s evolution from a Venezuelan prison gang into a transnational terrorist organisation,” US Attorney Jay Clayton said in a statement when the indictment was announced. Tren de Aragua, under Guerrero Flores’s leadership, has “committed countless acts of violence, extortion, and drug trafficking all over North America, South America, and Europe”, he said. The US State Department had offered a $5 million reward for information leading to his arrest or conviction. A photo of Tren de Aragua leader Hector Rusthenford Guerrero Flores. — Photo courtesy Immigration and Customs Enforcement According to a report by the InSight Crime think tank, Guerrero made Tren de Aragua “what it is today during his incarceration at Tocoron”. Under his leadership, Tocoron “became one of the country’s most notorious prisons, largely because of the unofficial policy of the Venezuelan government of handing control of certain prisons … over to criminal leaders known as pranes”. “This freedom and the gang’s criminal revenues allowed for the construction of a zoo, a swimming pool, a playground, a restaurant, and a nightclub inside the prison,” the report added. The joint operation is the latest sign of improving ties between Caracas and Washington since the capture of former president Nicolas Maduro by US forces in January. The two countries restored diplomatic relations in March, which had been severed in 2019. The United States is in the process of reactivating its embassy in Caracas.",
-      "lang": "en",
-      "title_en": "US-Venezuela joint operation kills leader of Tren de Aragua gang",
-      "summary_en": "The leader of the transnational gang Tren de Aragua has been killed in southern Venezuela as part of a joint operation with the United States, in what a top Pentagon official on Saturday described as a warning to “narco-terrorists” in Latin America. Hector Rusthenford Guerrero Flores, alias Nino Guerrero, was “neutralised” in southeastern Bolivar state, Venezuela’s Ministry of Communications said in a statement on Friday. US President Donald Trump said Guerrero was killed in “a swift and lethal kinetic strike” by US forces, in an attack “coordinated closely with our friends in Venezuela”. “As a result, Tren de Aragua terrorists no longer have safe haven in Venezuela or anywhere else,” Trump wrote on his Truth Social platform Friday night. On Saturday, a senior aide to Pentagon Chief Pete Hegseth said the killing was meant to serve as a stark warning. “The death of Nino Guerrero sends a clear message to Latin America. There is no refuge for narco-terrorists in our hemisphere,” Patrick Weaver, Hegseth’s deputy chief of staff, said in a post on X on Saturday morning. Trump’s social post confirming Guerrero’s killing was accompanied by a 10-second video, showing an overhead view of a building surrounded by greenery before an explosion erupts, sending up a cloud of smoke. No people are clearly visible in the footage. ‘Countless acts of violence’ Founded in Venezuela, Tren de Aragua has been designated a terrorist organisation by the United States and is also active in Colombia, Peru and Chile. Federal prosecutors in New York filed racketeering, drug and firearms charges against the gang leader in December. “Guerrero Flores has been the mastermind of Tren de Aragua’s evolution from a Venezuelan prison gang into a transnational terrorist organisation,” US Attorney Jay Clayton said in a statement when the indictment was announced. Tren de Aragua, under Guerrero Flores’s leadership, has “committed countless acts of violence, extortion, and drug trafficking all over North America, South America, and Europe”, he said. The US State Department had offered a $5 million reward for information leading to his arrest or conviction. A photo of Tren de Aragua leader Hector Rusthenford Guerrero Flores. — Photo courtesy Immigration and Customs Enforcement According to a report by the InSight Crime think tank, Guerrero made Tren de Aragua “what it is today during his incarceration at Tocoron”. Under his leadership, Tocoron “became one of the country’s most notorious prisons, largely because of the unofficial policy of the Venezuelan government of handing control of certain prisons … over to criminal leaders known as pranes”. “This freedom and the gang’s criminal revenues allowed for the construction of a zoo, a swimming pool, a playground, a restaurant, and a nightclub inside the prison,” the report added. The joint operation is the latest sign of improving ties between Caracas and Washington since the capture of former president Nicolas Maduro by US forces in January. The two countries restored diplomatic relations in March, which had been severed in 2019. The United States is in the process of reactivating its embassy in Caracas.",
-      "title": "US-Venezuela joint operation kills leader of Tren de Aragua gang",
-      "summary": "The leader of the transnational gang Tren de Aragua has been killed in southern Venezuela as part of a joint operation with the United States, in what a top Pentagon official on Saturday described as a warning to “narco-terrorists” in Latin America. Hector Rusthenford Guerrero Flores, alias Nino Guerrero, was “neutralised” in southeastern Bolivar state, Venezuela’s Ministry of Communications said in a statement on Friday. US President Donald Trump said Guerrero was killed in “a swift and lethal kinetic strike” by US forces, in an attack “coordinated closely with our friends in Venezuela”. “As a result, Tren de Aragua terrorists no longer have safe haven in Venezuela or anywhere else,” Trump wrote on his Truth Social platform Friday night. On Saturday, a senior aide to Pentagon Chief Pete Hegseth said the killing was meant to serve as a stark warning. “The death of Nino Guerrero sends a clear message to Latin America. There is no refuge for narco-terrorists in our hemisphere,” Patrick Weaver, Hegseth’s deputy chief of staff, said in a post on X on Saturday morning. Trump’s social post confirming Guerrero’s killing was accompanied by a 10-second video, showing an overhead view of a building surrounded by greenery before an explosion erupts, sending up a cloud of smoke. No people are clearly visible in the footage. ‘Countless acts of violence’ Founded in Venezuela, Tren de Aragua has been designated a terrorist organisation by the United States and is also active in Colombia, Peru and Chile. Federal prosecutors in New York filed racketeering, drug and firearms charges against the gang leader in December. “Guerrero Flores has been the mastermind of Tren de Aragua’s evolution from a Venezuelan prison gang into a transnational terrorist organisation,” US Attorney Jay Clayton said in a statement when the indictment was announced. Tren de Aragua, under Guerrero Flores’s leadership, has “committed countless acts of violence, extortion, and drug trafficking all over North America, South America, and Europe”, he said. The US State Department had offered a $5 million reward for information leading to his arrest or conviction. A photo of Tren de Aragua leader Hector Rusthenford Guerrero Flores. — Photo courtesy Immigration and Customs Enforcement According to a report by the InSight Crime think tank, Guerrero made Tren de Aragua “what it is today during his incarceration at Tocoron”. Under his leadership, Tocoron “became one of the country’s most notorious prisons, largely because of the unofficial policy of the Venezuelan government of handing control of certain prisons … over to criminal leaders known as pranes”. “This freedom and the gang’s criminal revenues allowed for the construction of a zoo, a swimming pool, a playground, a restaurant, and a nightclub inside the prison,” the report added. The joint operation is the latest sign of improving ties between Caracas and Washington since the capture of former president Nicolas Maduro by US forces in January. The two countries restored diplomatic relations in March, which had been severed in 2019. The United States is in the process of reactivating its embassy in Caracas.",
-      "url": "https://www.dawn.com/news/2007609/us-venezuela-joint-operation-kills-leader-of-tren-de-aragua-gang",
-      "source": "Dawn - Home",
-      "published_at": "2026-06-13T18:21:44+00:00",
-      "tags": [
-        "airport/security",
-        "diplomatic"
       ],
       "type": "local news",
       "geo": {}
@@ -2749,24 +2766,6 @@
       "geo": {}
     },
     {
-      "id": "ed1791370de34b51",
-      "title_orig": "In the news quiz: Which NZ minister defended nearly $17,000 spent on airport parking across two years?",
-      "summary_orig": "How well did you follow the news in the week of June 14, 2026?",
-      "lang": "en",
-      "title_en": "In the news quiz: Which NZ minister defended nearly $17,000 spent on airport parking across two years?",
-      "summary_en": "How well did you follow the news in the week of June 14, 2026?",
-      "title": "In the news quiz: Which NZ minister defended nearly $17,000 spent on airport parking across two years?",
-      "summary": "How well did you follow the news in the week of June 14, 2026?",
-      "url": "https://www.stuff.co.nz/quizzes/360991809/stuff-quiz-news-quiz-june-14-2026",
-      "source": "Stuff - /",
-      "published_at": "2026-06-13T16:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "10d8c23cfcc17641",
       "title_orig": "'You're not going to believe this': The call that changed everything for a mum with 'terminal' cancer",
       "summary_orig": "An Auckland teacher says she was told her cancer had returned and was terminal - only for follow-up scans to find no trace of the disease.",
@@ -2778,24 +2777,6 @@
       "url": "https://www.stuff.co.nz/nz-news/360991793/she-started-planning-her-bucket-list-after-being-told-she-had-cancer-it-turns-out-she-didnt",
       "source": "Stuff - /",
       "published_at": "2026-06-13T16:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2669de00f1a15285",
-      "title_orig": "Ghana formally protests Canada's denial of visa for footballer Thomas Partey",
-      "summary_orig": "Canada’s immigration service said its officials apply rules ‘consistently and without exception’.",
-      "lang": "en",
-      "title_en": "Ghana formally protests Canada's denial of visa for footballer Thomas Partey",
-      "summary_en": "Canada’s immigration service said its officials apply rules ‘consistently and without exception’.",
-      "title": "Ghana formally protests Canada's denial of visa for footballer Thomas Partey",
-      "summary": "Canada’s immigration service said its officials apply rules ‘consistently and without exception’.",
-      "url": "https://www.thejournal.ie/ghana-canada-thomas-partey-7070198-Jun2026/",
-      "source": "TheJournal.ie",
-      "published_at": "2026-06-13T15:48:53+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2854,24 +2835,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cdef3541ba8ed221",
-      "title_orig": "Albanians protest against another luxury development on Adriatic coast",
-      "summary_orig": "Fencing removed at environmentally sensitive site, mirroring protests against Trump son-in-law’s project About 200 protesters on Saturday tore down metal and razor-wire fences surrounding a luxury development site on Albania ’s Adriatic coast, in another sign of growing anger against construction in environmentally sensitive areas. Albanians have been protesting for weeks against a planned luxury resort backed by a company linked to Jared Kushner , the son-in-law of Donald Trump , near Vlora, which is famed for its flamingos and a turtle nesting site. Continue reading...",
-      "lang": "en",
-      "title_en": "Albanians protest against another luxury development on Adriatic coast",
-      "summary_en": "Fencing removed at environmentally sensitive site, mirroring protests against Trump son-in-law’s project About 200 protesters on Saturday tore down metal and razor-wire fences surrounding a luxury development site on Albania ’s Adriatic coast, in another sign of growing anger against construction in environmentally sensitive areas. Albanians have been protesting for weeks against a planned luxury resort backed by a company linked to Jared Kushner , the son-in-law of Donald Trump , near Vlora, which is famed for its flamingos and a turtle nesting site. Continue reading...",
-      "title": "Albanians protest against another luxury development on Adriatic coast",
-      "summary": "Fencing removed at environmentally sensitive site, mirroring protests against Trump son-in-law’s project About 200 protesters on Saturday tore down metal and razor-wire fences surrounding a luxury development site on Albania ’s Adriatic coast, in another sign of growing anger against construction in environmentally sensitive areas. Albanians have been protesting for weeks against a planned luxury resort backed by a company linked to Jared Kushner , the son-in-law of Donald Trump , near Vlora, which is famed for its flamingos and a turtle nesting site. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jun/13/albania-protest-luxury-development-adriatic-coast",
-      "source": "World news | The Guardian",
-      "published_at": "2026-06-13T14:34:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2947,24 +2910,6 @@
       "geo": {}
     },
     {
-      "id": "ffc180aac976de90",
-      "title_orig": "Customs officials seize 2.7 kg gold worth  ₹4.26 crore hidden in aircraft speaker on Dubai-Ahmedabad flight | Watch",
-      "summary_orig": "The incident occurred on board an IndiGo flight 6E-1478, which arrived at the Sardar Vallabhbhai Patel International Airport in Ahmedabad from Dubai.",
-      "lang": "en",
-      "title_en": "Customs officials seize 2.7 kg gold worth  ₹4.26 crore hidden in aircraft speaker on Dubai-Ahmedabad flight | Watch",
-      "summary_en": "The incident occurred on board an IndiGo flight 6E-1478, which arrived at the Sardar Vallabhbhai Patel International Airport in Ahmedabad from Dubai.",
-      "title": "Customs officials seize 2.7 kg gold worth  ₹4.26 crore hidden in aircraft speaker on Dubai-Ahmedabad flight | Watch",
-      "summary": "The incident occurred on board an IndiGo flight 6E-1478, which arrived at the Sardar Vallabhbhai Patel International Airport in Ahmedabad from Dubai.",
-      "url": "https://www.hindustantimes.com/india-news/custom-officials-seize-2-7-kg-gold-worth-rs-4-26-crore-in-indigo-plane-speaker-at-dubai-ahmedabad-flight-101781351936812.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2026-06-13T12:21:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "17175a21f43e61a1",
       "title_orig": "Patrick Agyemang's Derby County 'comeback’ begins - all you need to know",
       "summary_orig": "Derby County striker Patrick Agyemang is making strides in his recovery from a serious injury by doing rehabilitation work in America. The forward is currently working with Roba Physical Therapy and Wellness clinic, which is based in Connecticut, as he begins the long road back from a ruptured Achilles.",
@@ -2976,24 +2921,6 @@
       "url": "https://www.derbytelegraph.co.uk/sport/football/football-news/patrick-agyemangs-derby-county-comeback-11012619",
       "source": "Derbyshire Live - frontpage",
       "published_at": "2026-06-13T11:12:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2993ab735c19e7af",
-      "title_orig": "Belfast riots show lingering scars of decades of sectarian unrest",
-      "summary_orig": "The violence largely unfolded in areas where Protestants are still divided from Catholic neighbourhoods.",
-      "lang": "en",
-      "title_en": "Belfast riots show lingering scars of decades of sectarian unrest",
-      "summary_en": "The violence largely unfolded in areas where Protestants are still divided from Catholic neighbourhoods.",
-      "title": "Belfast riots show lingering scars of decades of sectarian unrest",
-      "summary": "The violence largely unfolded in areas where Protestants are still divided from Catholic neighbourhoods.",
-      "url": "https://www.straitstimes.com/world/europe/belfast-riots-show-lingering-scars-of-decades-of-sectarian-unrest",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-13T11:10:00+00:00",
       "tags": [
         "airport/security"
       ],
