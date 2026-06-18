@@ -1,18 +1,478 @@
 {
-  "generated_at": "2026-06-18T16:28:38.578068+00:00",
+  "generated_at": "2026-06-18T18:47:02.447861+00:00",
   "items": [
+    {
+      "id": "d3c9d0086de28bff",
+      "title_orig": "Gunmen Attack a Major Airport in Niger",
+      "summary_orig": "An early morning assault on Niamey airport was the second such attack in the West African country this year.",
+      "lang": "en",
+      "title_en": "Gunmen Attack a Major Airport in Niger",
+      "summary_en": "An early morning assault on Niamey airport was the second such attack in the West African country this year.",
+      "title": "Gunmen Attack a Major Airport in Niger",
+      "summary": "An early morning assault on Niamey airport was the second such attack in the West African country this year.",
+      "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-18T18:29:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e63b98d0c7a90603",
+      "title_orig": "Muslim Youth League urges Education Minister not to change stance on PM SHRI",
+      "summary_orig": "MYL Malappuram constituency committee organises a protest programme",
+      "lang": "en",
+      "title_en": "Muslim Youth League urges Education Minister not to change stance on PM SHRI",
+      "summary_en": "MYL Malappuram constituency committee organises a protest programme",
+      "title": "Muslim Youth League urges Education Minister not to change stance on PM SHRI",
+      "summary": "MYL Malappuram constituency committee organises a protest programme",
+      "url": "https://www.thehindu.com/news/national/kerala/muslim-youth-league-urges-education-minister-not-to-change-stance-on-pm-shri/article71119234.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-06-18T18:29:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "292c9aacafebcfae",
+      "title_orig": "Gulf States Are Frustrated by Failure to Tackle Iran’s Missiles, Analysts Say",
+      "summary_orig": "The preliminary U.S.-Iranian peace deal does not address Iranian rockets or drones, raising questions in the region about relying on Washington as a security guarantor.",
+      "lang": "en",
+      "title_en": "Gulf States Are Frustrated by Failure to Tackle Iran’s Missiles, Analysts Say",
+      "summary_en": "The preliminary U.S.-Iranian peace deal does not address Iranian rockets or drones, raising questions in the region about relying on Washington as a security guarantor.",
+      "title": "Gulf States Are Frustrated by Failure to Tackle Iran’s Missiles, Analysts Say",
+      "summary": "The preliminary U.S.-Iranian peace deal does not address Iranian rockets or drones, raising questions in the region about relying on Washington as a security guarantor.",
+      "url": "https://www.nytimes.com/2026/06/18/world/middleeast/gulf-states-us-iran-deal.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-18T18:25:11+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "afa842bd588d92dd",
+      "title_orig": "Ukraine sends Moscow oil refinery up in flames with largest drone attack on city in two years",
+      "summary_orig": "President Volodymyr Zelensky calls strike a ‘fully justified response to Russian strikes on our cities and communities’",
+      "lang": "en",
+      "title_en": "Ukraine sends Moscow oil refinery up in flames with largest drone attack on city in two years",
+      "summary_en": "President Volodymyr Zelensky calls strike a ‘fully justified response to Russian strikes on our cities and communities’",
+      "title": "Ukraine sends Moscow oil refinery up in flames with largest drone attack on city in two years",
+      "summary": "President Volodymyr Zelensky calls strike a ‘fully justified response to Russian strikes on our cities and communities’",
+      "url": "https://www.independent.co.uk/news/world/europe/moscow-oil-refinery-attack-ukraine-russia-war-b2998213.html",
+      "source": "The Independent World",
+      "published_at": "2026-06-18T18:11:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "09413cf0dd2c7e55",
+      "title_orig": "Inmates guilty of murdering child killer who was ‘tucked up in bed’ after attack",
+      "summary_orig": "Kyle Bevan was stabbed 25 times during an attack by convicted killers Mark Fellows, Lee Newell and David Taylor at high-security HMP Wakefield.",
+      "lang": "en",
+      "title_en": "Inmates guilty of murdering child killer who was ‘tucked up in bed’ after attack",
+      "summary_en": "Kyle Bevan was stabbed 25 times during an attack by convicted killers Mark Fellows, Lee Newell and David Taylor at high-security HMP Wakefield.",
+      "title": "Inmates guilty of murdering child killer who was ‘tucked up in bed’ after attack",
+      "summary": "Kyle Bevan was stabbed 25 times during an attack by convicted killers Mark Fellows, Lee Newell and David Taylor at high-security HMP Wakefield.",
+      "url": "https://www.standard.co.uk/news/crime/mcgowan-hmp-wakefield-leeds-crown-court-ian-watkins-cctv-b1286671.html",
+      "source": "The Standard News",
+      "published_at": "2026-06-18T18:08:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "690c20542969ee1c",
+      "title_orig": "Tamil Nadu government to look for new airport site instead of Parandur",
+      "summary_orig": "TVK is not against development; why should waterbodies, cultivable land be destroyed to build an airport for Chennai, asks Minister for Energy Resources and Law R. Nirmalkumar",
+      "lang": "en",
+      "title_en": "Tamil Nadu government to look for new airport site instead of Parandur",
+      "summary_en": "TVK is not against development; why should waterbodies, cultivable land be destroyed to build an airport for Chennai, asks Minister for Energy Resources and Law R. Nirmalkumar",
+      "title": "Tamil Nadu government to look for new airport site instead of Parandur",
+      "summary": "TVK is not against development; why should waterbodies, cultivable land be destroyed to build an airport for Chennai, asks Minister for Energy Resources and Law R. Nirmalkumar",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-to-look-for-new-airport-site-instead-ofparandur/article71117747.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-06-18T18:04:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "857c57f126bbc479",
+      "title_orig": "Hakki Pikki people stranded in Mozambique returning to India on Friday",
+      "summary_orig": "The High Commission of India in Mozambique responded to their plea and assisted in getting their documents",
+      "lang": "en",
+      "title_en": "Hakki Pikki people stranded in Mozambique returning to India on Friday",
+      "summary_en": "The High Commission of India in Mozambique responded to their plea and assisted in getting their documents",
+      "title": "Hakki Pikki people stranded in Mozambique returning to India on Friday",
+      "summary": "The High Commission of India in Mozambique responded to their plea and assisted in getting their documents",
+      "url": "https://www.thehindu.com/news/national/karnataka/hakki-pikki-people-stranded-in-mozambique-returning-to-india-on-friday/article71117706.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-06-18T17:58:36+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "9d97e15acb645de6",
+      "title_orig": "Saudia A321XLR is low-density, high-premium and now flying",
+      "summary_orig": "In a proud moment for Saudia, the national flag carrier of the Kingdom of Saudi Arabia recently took delivery of the first of 15 Airbus A321XLR twinjets, and quickly pressed it into revenue service. Delivered on 24 May, the 144-seat aircraft (HZ-ASBA) has linked Saudia’s Jeddah hub with Vienna, Paris and Riyadh, and plied Riyadh-Rome... The post Saudia A321XLR is low-density, high-premium and now flying appeared first on Runway Girl .",
+      "lang": "en",
+      "title_en": "Saudia A321XLR is low-density, high-premium and now flying",
+      "summary_en": "In a proud moment for Saudia, the national flag carrier of the Kingdom of Saudi Arabia recently took delivery of the first of 15 Airbus A321XLR twinjets, and quickly pressed it into revenue service. Delivered on 24 May, the 144-seat aircraft (HZ-ASBA) has linked Saudia’s Jeddah hub with Vienna, Paris and Riyadh, and plied Riyadh-Rome... The post Saudia A321XLR is low-density, high-premium and now flying appeared first on Runway Girl .",
+      "title": "Saudia A321XLR is low-density, high-premium and now flying",
+      "summary": "In a proud moment for Saudia, the national flag carrier of the Kingdom of Saudi Arabia recently took delivery of the first of 15 Airbus A321XLR twinjets, and quickly pressed it into revenue service. Delivered on 24 May, the 144-seat aircraft (HZ-ASBA) has linked Saudia’s Jeddah hub with Vienna, Paris and Riyadh, and plied Riyadh-Rome... The post Saudia A321XLR is low-density, high-premium and now flying appeared first on Runway Girl .",
+      "url": "https://runwaygirlnetwork.com/2026/06/saudia-a321xlr-is-low-density-high-premium-and-now-flying/",
+      "source": "Runway Girl",
+      "published_at": "2026-06-18T17:48:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b1121dcb4cf7a86d",
+      "title_orig": "Somalia warns Israel against meddling in Somaliland",
+      "summary_orig": "The message came after Somaliland opened its first overseas embassy this week, in Jerusalem.",
+      "lang": "en",
+      "title_en": "Somalia warns Israel against meddling in Somaliland",
+      "summary_en": "The message came after Somaliland opened its first overseas embassy this week, in Jerusalem.",
+      "title": "Somalia warns Israel against meddling in Somaliland",
+      "summary": "The message came after Somaliland opened its first overseas embassy this week, in Jerusalem.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-18T17:39:37+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "7644356c2e3cd4eb",
+      "title_orig": "Grief, tears as families hold rites for Indian sailors killed in US strike",
+      "summary_orig": "Grief, tears as families hold last rites for Indian sailors killed in US strike.",
+      "lang": "en",
+      "title_en": "Grief, tears as families hold rites for Indian sailors killed in US strike",
+      "summary_en": "Grief, tears as families hold last rites for Indian sailors killed in US strike.",
+      "title": "Grief, tears as families hold rites for Indian sailors killed in US strike",
+      "summary": "Grief, tears as families hold last rites for Indian sailors killed in US strike.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/grief-tears-as-families-hold-rites-for-indian-sailors-killed-in-us-strike?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-18T17:33:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "0ff8cab0b51bb471",
+      "title_orig": "'There's no country unblemished': Mick Wallace on accepting an award from Iran",
+      "summary_orig": "Wallace was asked on air about Iran’s restrictions on freedom of speech, its crackdown on anti-government protests, and other human rights abuses.",
+      "lang": "en",
+      "title_en": "'There's no country unblemished': Mick Wallace on accepting an award from Iran",
+      "summary_en": "Wallace was asked on air about Iran’s restrictions on freedom of speech, its crackdown on anti-government protests, and other human rights abuses.",
+      "title": "'There's no country unblemished': Mick Wallace on accepting an award from Iran",
+      "summary": "Wallace was asked on air about Iran’s restrictions on freedom of speech, its crackdown on anti-government protests, and other human rights abuses.",
+      "url": "https://www.thejournal.ie/mick-wallace-mep-iran-award-7075068-Jun2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-06-18T17:33:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8a07ed72b22f9eff",
+      "title_orig": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "summary_orig": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "lang": "en",
+      "title_en": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "summary_en": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-18T17:28:32+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b449f6d060ccfe37",
+      "title_orig": "Iran-US war latest: Trump lifts blockade in Strait of Hormuz but says navy will remain in the area during peace talks",
+      "summary_orig": "The US president told the G7 that he would ‘go back to bombing’ if a full agreement was not struck within 60 days",
+      "lang": "en",
+      "title_en": "Iran-US war latest: Trump lifts blockade in Strait of Hormuz but says navy will remain in the area during peace talks",
+      "summary_en": "The US president told the G7 that he would ‘go back to bombing’ if a full agreement was not struck within 60 days",
+      "title": "Iran-US war latest: Trump lifts blockade in Strait of Hormuz but says navy will remain in the area during peace talks",
+      "summary": "The US president told the G7 that he would ‘go back to bombing’ if a full agreement was not struck within 60 days",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-peace-deal-strait-of-hormuz-oil-b2998073.html",
+      "source": "The Independent World",
+      "published_at": "2026-06-18T17:28:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5f9b9b010faea260",
+      "title_orig": "Officer disgusted as brick attacker freed just days after prison sentence",
+      "summary_orig": "PC Conor McIntyre was left with a bloodied face and severely concussed after an unprovoked brick attack in Lancaster, Lancashire",
+      "lang": "en",
+      "title_en": "Officer disgusted as brick attacker freed just days after prison sentence",
+      "summary_en": "PC Conor McIntyre was left with a bloodied face and severely concussed after an unprovoked brick attack in Lancaster, Lancashire",
+      "title": "Officer disgusted as brick attacker freed just days after prison sentence",
+      "summary": "PC Conor McIntyre was left with a bloodied face and severely concussed after an unprovoked brick attack in Lancaster, Lancashire",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/officer-disgusted-brick-attacker-freed-34147353",
+      "source": "Birmingham Live - News",
+      "published_at": "2026-06-18T17:17:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "13e8dbd9f5996fff",
+      "title_orig": "Jet2 passenger left with hole in cheek after being attacked by thug following seat row",
+      "summary_orig": "'You should be thoroughly ashamed of yourself', a judge told Christopher Nolan",
+      "lang": "en",
+      "title_en": "Jet2 passenger left with hole in cheek after being attacked by thug following seat row",
+      "summary_en": "'You should be thoroughly ashamed of yourself', a judge told Christopher Nolan",
+      "title": "Jet2 passenger left with hole in cheek after being attacked by thug following seat row",
+      "summary": "'You should be thoroughly ashamed of yourself', a judge told Christopher Nolan",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/jet2-passenger-left-hole-cheek-34144256",
+      "source": "MEN - News",
+      "published_at": "2026-06-18T17:12:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "50cc99083c6eab2a",
+      "title_orig": "'My husband's hiccups turned out to be terminal cancer'",
+      "summary_orig": "'I remember thinking we still had years ahead of us'",
+      "lang": "en",
+      "title_en": "'My husband's hiccups turned out to be terminal cancer'",
+      "summary_en": "'I remember thinking we still had years ahead of us'",
+      "title": "'My husband's hiccups turned out to be terminal cancer'",
+      "summary": "'I remember thinking we still had years ahead of us'",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/my-husbands-hiccups-turned-out-34145982",
+      "source": "MEN - News",
+      "published_at": "2026-06-18T17:05:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "637fbe838a21f6d2",
+      "title_orig": "Teen-aged Suspect in U.S. Consulate Shooting Is Arrested at Toronto Airport",
+      "summary_orig": "The teen had fled from the police during a raid at an apartment building that set off a shootout, which left an officer dead and another suspect injured.",
+      "lang": "en",
+      "title_en": "Teen-aged Suspect in U.S. Consulate Shooting Is Arrested at Toronto Airport",
+      "summary_en": "The teen had fled from the police during a raid at an apartment building that set off a shootout, which left an officer dead and another suspect injured.",
+      "title": "Teen-aged Suspect in U.S. Consulate Shooting Is Arrested at Toronto Airport",
+      "summary": "The teen had fled from the police during a raid at an apartment building that set off a shootout, which left an officer dead and another suspect injured.",
+      "url": "https://www.nytimes.com/2026/06/18/world/canada/toronto-police-shooting-suspect-arrest.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-18T17:02:46+00:00",
+      "tags": [
+        "airport/security",
+        "diplomatic"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "96492247aaaeb7b1",
+      "title_orig": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
+      "summary_orig": "An Israeli attack on a vehicle in Gaza City has killed at least three Palestinians.",
+      "lang": "en",
+      "title_en": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
+      "summary_en": "An Israeli attack on a vehicle in Gaza City has killed at least three Palestinians.",
+      "title": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
+      "summary": "An Israeli attack on a vehicle in Gaza City has killed at least three Palestinians.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/more-than-1000-killed-in-israel-attacks-on-gaza-since-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-18T16:52:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "62bc7d4d62918ac2",
+      "title_orig": "Israel kills at least three Palestinians in Gaza City drone strike",
+      "summary_orig": "Gaza's Health Ministry says at least 1,007 Palestinians have been killed by Israel since the so-called 'ceasefire'.",
+      "lang": "en",
+      "title_en": "Israel kills at least three Palestinians in Gaza City drone strike",
+      "summary_en": "Gaza's Health Ministry says at least 1,007 Palestinians have been killed by Israel since the so-called 'ceasefire'.",
+      "title": "Israel kills at least three Palestinians in Gaza City drone strike",
+      "summary": "Gaza's Health Ministry says at least 1,007 Palestinians have been killed by Israel since the so-called 'ceasefire'.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-18T16:50:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "625e23a1d54caa78",
+      "title_orig": "Tiruvannamalai SP suspends constable for allegedly attacking Tasmac staff",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Tiruvannamalai SP suspends constable for allegedly attacking Tasmac staff",
+      "summary_en": "",
+      "title": "Tiruvannamalai SP suspends constable for allegedly attacking Tasmac staff",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tiruvannamalai-sp-suspends-constable-for-allegedly-attacking-tasmac-staff/article71117917.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-06-18T16:43:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "42364c05754364af",
+      "title_orig": "CJP gets police nod for June 20 protest in Delhi, renews call for Dharmendra Pradhan's resignation",
+      "summary_orig": "CJP said citizens from across the country would gather peacefully to demand accountability for paper leaks and the growing number of student suicides.",
+      "lang": "en",
+      "title_en": "CJP gets police nod for June 20 protest in Delhi, renews call for Dharmendra Pradhan's resignation",
+      "summary_en": "CJP said citizens from across the country would gather peacefully to demand accountability for paper leaks and the growing number of student suicides.",
+      "title": "CJP gets police nod for June 20 protest in Delhi, renews call for Dharmendra Pradhan's resignation",
+      "summary": "CJP said citizens from across the country would gather peacefully to demand accountability for paper leaks and the growing number of student suicides.",
+      "url": "https://www.hindustantimes.com/india-news/cjp-gets-police-nod-for-june-20-protest-in-delhi-renews-call-for-dharmendra-pradhans-resignation-jantar-mantar-101781799843089.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2026-06-18T16:43:03+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d650fbe5b33be46d",
+      "title_orig": "Daughter charged after her 76 year-old father with dementia is killed in pit bull attack at family home",
+      "summary_orig": "Janna Campbell faces manslaughter and reckless endangerment charges after the death of her father Stephen at the family home in Vermont",
+      "lang": "en",
+      "title_en": "Daughter charged after her 76 year-old father with dementia is killed in pit bull attack at family home",
+      "summary_en": "Janna Campbell faces manslaughter and reckless endangerment charges after the death of her father Stephen at the family home in Vermont",
+      "title": "Daughter charged after her 76 year-old father with dementia is killed in pit bull attack at family home",
+      "summary": "Janna Campbell faces manslaughter and reckless endangerment charges after the death of her father Stephen at the family home in Vermont",
+      "url": "https://www.independent.co.uk/news/world/americas/crime/janna-stephen-campbell-pit-bull-death-b2998524.html",
+      "source": "The Independent World",
+      "published_at": "2026-06-18T16:38:50+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "2ac3d8cc879ae690",
+      "title_orig": "City employee injured after falling into manhole on Austin Airport property",
+      "summary_orig": "An Austin Water employee was seriously injured Wednesday morning after falling into a manhole while performing maintenance on Austin-Bergstrom International Airport property.",
+      "lang": "en",
+      "title_en": "City employee injured after falling into manhole on Austin Airport property",
+      "summary_en": "An Austin Water employee was seriously injured Wednesday morning after falling into a manhole while performing maintenance on Austin-Bergstrom International Airport property.",
+      "title": "City employee injured after falling into manhole on Austin Airport property",
+      "summary": "An Austin Water employee was seriously injured Wednesday morning after falling into a manhole while performing maintenance on Austin-Bergstrom International Airport property.",
+      "url": "https://www.kxan.com/news/local/austin/city-employee-injured-after-falling-into-manhole-near-austin-airport/",
+      "source": "KXAN Austin",
+      "published_at": "2026-06-18T16:37:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
     {
       "id": "81902690c7871f20",
       "title_orig": "Ukraine sets Moscow refinery ablaze in biggest attack in years",
-      "summary_orig": "Ukraine on Thursday launched its largest drone attack on Moscow in years, sparking fires, hitting a major oil refinery and forcing evacuations at the country’s largest airport. Russia vowed to retaliate for the attack as AFP reporters saw dramatic scenes of black smoke billowing over the capital’s southern skyline and drops of black rain mixed with soot falling from the sky. At least 17 people were wounded in the strikes, which also set a shopping centre and apartment building ablaze, authorities said. The attack came as Russian President Vladimir Putin hosted Southeast Asian leaders at a summit in the central city of Kazan, about 700 kilometres east of Moscow. An explosion takes place at the Moscow oil refinery after Ukrainian drone attacks on Moscow, Russia on June 18, 2026. — Reuters The Russian leader had yet to comment on the strikes, despite issuing press statements throughout the day, though his Foreign Minister Sergei Lavrov vowed Moscow would retaliate with its own “massive” strikes on Ukraine. Ukraine’s Volodymyr Zelensky said the attack was an “absolutely justified response” to deadly strikes on Kyiv — including one earlier this week on a landmark cathedral and a Unesco-protected 11th-century monastery. He said he wanted Russians to put pressure on Putin for the consequences of Europe’s worst conflict since World War II. “The main thing is that the people of Russia begin to feel that it is one man, Putin, who is waging this war, while ordinary people pay the price for everything,” Zelensky told reporters, including AFP . “If Ukraine is going to burn, your Moscow will burn too.” Moscow has hit Ukraine with daily barrages of missiles and drones. Airport closures It was the second time this month that Kyiv launched a major attack during an international summit, after striking Saint Petersburg at the start of a landmark economic forum near the city. Moscow’s airports were shut for hours, leading to hundreds of flight delays. The country’s busiest — Sheremetyevo — announced it had evacuated passengers to “safe locations” during the barrage, before it re-opened at around 11am (0800 GMT). Konstantin, walking near the refinery in the southeastern Kapotnya district, told AFP he had “never seen anything like it”. An apartment building damaged in a Ukrainian drone attack in Zhukovsky, in the Moscow region, Russia on June 18, 2026. — Reuters Valentina, a 29-year-old manager, said she was woken up by the noise. “It’s really scary,” she told AFP , walking in the park with her daughter, the huge column of smoke behind them. Moscow Mayor Sergei Sobyanin said that “several drones” had reached the Moscow oil refinery, without specifying damage to the facility. Authorities announced they had closed traffic on the streets nearby. Another drone crashed into an apartment building, while drone debris sparked a fire at a shopping centre near the capital’s suburbs. One social media video showed smoke pouring from the upper floors of an apartment block, while a woman behind the camera could be heard weeping in distress. ‘Long-range sanctions’ Russian air defences shot down around 180 drones on approach to Moscow, Sobyanin said, while the defence ministry reported it had intercepted more than 500 Ukrainian drones across the entire country overnight. Kyiv has stepped up its drone strikes on Russia in recent months — calling them “long-range sanctions” and hitting oil refineries that fund Moscow’s war chest. It was the second Ukrainian strike on the Moscow refinery this week. Diplomatic talks on ending the more than four-year conflict remain stalled. “It is time the war ended, and Russia must take the necessary steps in diplomacy,” Zelensky said after the strike. Russia also launched more than 200 drones and multiple ballistic missiles at Ukraine between late Wednesday and early Thursday, according to the Ukrainian air force. AFP reporters in Kyiv saw people rushing to shelters in the early hours after air defence blasts rocked over the Ukrainian capital. Putin in Kazan In the hours following the attack, Putin posed for a photo with leaders at a summit of the Association of Southeast Asian Nations (Asean) in Kazan and made no mention of the strike in his opening remarks to the forum. Thailand, Vietnam, Cambodia, Laos, Malaysia and Singapore sent their prime ministers to Kazan, while the Philippines sent President Ferdinand Marcos. Russia’s President Vladimir Putin attends a meeting with Laos’ Prime Minister Sonexay Siphandone on the sidelines of the Russia-Asean Summit in Kazan, Russia on June 18, 2026. — Reuters Putin has long sought to project stability in Russia, despite the economic and social effects of his four-year offensive on Ukraine. But a recent spate of attacks has forced the Kremlin to respond. After Kyiv launched similar attacks on Saint Petersburg earlier this month, the Russian leader promised to bolster air defences. US leader Donald Trump this week said Moscow should “make a deal” to end the Ukraine war.",
+      "summary_orig": "Ukraine on Thursday launched its largest drone attack on Moscow in years, sparking fires, hitting a major oil refinery and forcing evacuations at the country’s largest airport. Russia vowed to retaliate for the attack as AFP reporters saw dramatic scenes of black smoke billowing over the capital’s southern skyline and drops of black rain mixed with soot falling from the sky. At least 17 people were wounded in the strikes, which also set a shopping centre and apartment building ablaze, authorities said. The attack came as Russian President Vladimir Putin hosted Southeast Asian leaders at a summit in the central city of Kazan, about 700 kilometres east of Moscow. @dawn.today Scores of Ukrainian drones bore down on Moscow on Thursday (June 18), hitting the Russian capital's oil refinery for the second time this week in what Kyiv cast as a demonstration of its growing capabilities that should force Russia to accept a peace deal. A video posted on social media showed a moment of explosion at the refinery in the densely populated southeastern district of Kapotnya. The refinery is supplying the Russian capital. Via Reuters DawnToday ♬ original sound - Dawn.com - Dawn.com The Russian leader had yet to comment on the strikes, despite issuing press statements throughout the day, though his Foreign Minister Sergei Lavrov vowed Moscow would retaliate with its own “massive” strikes on Ukraine. Ukraine’s Volodymyr Zelensky said the attack was an “absolutely justified response” to deadly strikes on Kyiv — including one earlier this week on a landmark cathedral and a Unesco-protected 11th-century monastery. He said he wanted Russians to put pressure on Putin for the consequences of Europe’s worst conflict since World War II. “The main thing is that the people of Russia begin to feel that it is one man, Putin, who is waging this war, while ordinary people pay the price for everything,” Zelensky told reporters, including AFP . “If Ukraine is going to burn, your Moscow will burn too.” Moscow has hit Ukraine with daily barrages of missiles and drones. Airport closures It was the second time this month that Kyiv launched a major attack during an international summit, after striking Saint Petersburg at the start of a landmark economic forum near the city. Moscow’s airports were shut for hours, leading to hundreds of flight delays. The country’s busiest — Sheremetyevo — announced it had evacuated passengers to “safe locations” during the barrage, before it re-opened at around 11am (0800 GMT). Konstantin, walking near the refinery in the southeastern Kapotnya district, told AFP he had “never seen anything like it”. An apartment building damaged in a Ukrainian drone attack in Zhukovsky, in the Moscow region, Russia on June 18, 2026. — Reuters Valentina, a 29-year-old manager, said she was woken up by the noise. “It’s really scary,” she told AFP , walking in the park with her daughter, the huge column of smoke behind them. Moscow Mayor Sergei Sobyanin said that “several drones” had reached the Moscow oil refinery, without specifying damage to the facility. Authorities announced they had closed traffic on the streets nearby. Another drone crashed into an apartment building, while drone debris sparked a fire at a shopping centre near the capital’s suburbs. One social media video showed smoke pouring from the upper floors of an apartment block, while a woman behind the camera could be heard weeping in distress. ‘Long-range sanctions’ Russian air defences shot down around 180 drones on approach to Moscow, Sobyanin said, while the defence ministry reported it had intercepted more than 500 Ukrainian drones across the entire country overnight. Kyiv has stepped up its drone strikes on Russia in recent months — calling them “long-range sanctions” and hitting oil refineries that fund Moscow’s war chest. It was the second Ukrainian strike on the Moscow refinery this week. Diplomatic talks on ending the more than four-year conflict remain stalled. “It is time the war ended, and Russia must take the necessary steps in diplomacy,” Zelensky said after the strike. Russia also launched more than 200 drones and multiple ballistic missiles at Ukraine between late Wednesday and early Thursday, according to the Ukrainian air force. AFP reporters in Kyiv saw people rushing to shelters in the early hours after air defence blasts rocked over the Ukrainian capital. Putin in Kazan In the hours following the attack, Putin posed for a photo with leaders at a summit of the Association of Southeast Asian Nations (Asean) in Kazan and made no mention of the strike in his opening remarks to the forum. Thailand, Vietnam, Cambodia, Laos, Malaysia and Singapore sent their prime ministers to Kazan, while the Philippines sent President Ferdinand Marcos. Russia’s President Vladimir Putin attends a meeting with Laos’ Prime Minister Sonexay Siphandone on the sidelines of the Russia-Asean Summit in Kazan, Russia on June 18, 2026. — Reuters Putin has long sought to project stability in Russia, despite the economic and social effects of his four-year offensive on Ukraine. But a recent spate of attacks has forced the Kremlin to respond. After Kyiv launched similar attacks on Saint Petersburg earlier this month, the Russian leader promised to bolster air defences. US leader Donald Trump this week said Moscow should “make a deal” to end the Ukraine war.",
       "lang": "en",
       "title_en": "Ukraine sets Moscow refinery ablaze in biggest attack in years",
-      "summary_en": "Ukraine on Thursday launched its largest drone attack on Moscow in years, sparking fires, hitting a major oil refinery and forcing evacuations at the country’s largest airport. Russia vowed to retaliate for the attack as AFP reporters saw dramatic scenes of black smoke billowing over the capital’s southern skyline and drops of black rain mixed with soot falling from the sky. At least 17 people were wounded in the strikes, which also set a shopping centre and apartment building ablaze, authorities said. The attack came as Russian President Vladimir Putin hosted Southeast Asian leaders at a summit in the central city of Kazan, about 700 kilometres east of Moscow. An explosion takes place at the Moscow oil refinery after Ukrainian drone attacks on Moscow, Russia on June 18, 2026. — Reuters The Russian leader had yet to comment on the strikes, despite issuing press statements throughout the day, though his Foreign Minister Sergei Lavrov vowed Moscow would retaliate with its own “massive” strikes on Ukraine. Ukraine’s Volodymyr Zelensky said the attack was an “absolutely justified response” to deadly strikes on Kyiv — including one earlier this week on a landmark cathedral and a Unesco-protected 11th-century monastery. He said he wanted Russians to put pressure on Putin for the consequences of Europe’s worst conflict since World War II. “The main thing is that the people of Russia begin to feel that it is one man, Putin, who is waging this war, while ordinary people pay the price for everything,” Zelensky told reporters, including AFP . “If Ukraine is going to burn, your Moscow will burn too.” Moscow has hit Ukraine with daily barrages of missiles and drones. Airport closures It was the second time this month that Kyiv launched a major attack during an international summit, after striking Saint Petersburg at the start of a landmark economic forum near the city. Moscow’s airports were shut for hours, leading to hundreds of flight delays. The country’s busiest — Sheremetyevo — announced it had evacuated passengers to “safe locations” during the barrage, before it re-opened at around 11am (0800 GMT). Konstantin, walking near the refinery in the southeastern Kapotnya district, told AFP he had “never seen anything like it”. An apartment building damaged in a Ukrainian drone attack in Zhukovsky, in the Moscow region, Russia on June 18, 2026. — Reuters Valentina, a 29-year-old manager, said she was woken up by the noise. “It’s really scary,” she told AFP , walking in the park with her daughter, the huge column of smoke behind them. Moscow Mayor Sergei Sobyanin said that “several drones” had reached the Moscow oil refinery, without specifying damage to the facility. Authorities announced they had closed traffic on the streets nearby. Another drone crashed into an apartment building, while drone debris sparked a fire at a shopping centre near the capital’s suburbs. One social media video showed smoke pouring from the upper floors of an apartment block, while a woman behind the camera could be heard weeping in distress. ‘Long-range sanctions’ Russian air defences shot down around 180 drones on approach to Moscow, Sobyanin said, while the defence ministry reported it had intercepted more than 500 Ukrainian drones across the entire country overnight. Kyiv has stepped up its drone strikes on Russia in recent months — calling them “long-range sanctions” and hitting oil refineries that fund Moscow’s war chest. It was the second Ukrainian strike on the Moscow refinery this week. Diplomatic talks on ending the more than four-year conflict remain stalled. “It is time the war ended, and Russia must take the necessary steps in diplomacy,” Zelensky said after the strike. Russia also launched more than 200 drones and multiple ballistic missiles at Ukraine between late Wednesday and early Thursday, according to the Ukrainian air force. AFP reporters in Kyiv saw people rushing to shelters in the early hours after air defence blasts rocked over the Ukrainian capital. Putin in Kazan In the hours following the attack, Putin posed for a photo with leaders at a summit of the Association of Southeast Asian Nations (Asean) in Kazan and made no mention of the strike in his opening remarks to the forum. Thailand, Vietnam, Cambodia, Laos, Malaysia and Singapore sent their prime ministers to Kazan, while the Philippines sent President Ferdinand Marcos. Russia’s President Vladimir Putin attends a meeting with Laos’ Prime Minister Sonexay Siphandone on the sidelines of the Russia-Asean Summit in Kazan, Russia on June 18, 2026. — Reuters Putin has long sought to project stability in Russia, despite the economic and social effects of his four-year offensive on Ukraine. But a recent spate of attacks has forced the Kremlin to respond. After Kyiv launched similar attacks on Saint Petersburg earlier this month, the Russian leader promised to bolster air defences. US leader Donald Trump this week said Moscow should “make a deal” to end the Ukraine war.",
+      "summary_en": "Ukraine on Thursday launched its largest drone attack on Moscow in years, sparking fires, hitting a major oil refinery and forcing evacuations at the country’s largest airport. Russia vowed to retaliate for the attack as AFP reporters saw dramatic scenes of black smoke billowing over the capital’s southern skyline and drops of black rain mixed with soot falling from the sky. At least 17 people were wounded in the strikes, which also set a shopping centre and apartment building ablaze, authorities said. The attack came as Russian President Vladimir Putin hosted Southeast Asian leaders at a summit in the central city of Kazan, about 700 kilometres east of Moscow. @dawn.today Scores of Ukrainian drones bore down on Moscow on Thursday (June 18), hitting the Russian capital's oil refinery for the second time this week in what Kyiv cast as a demonstration of its growing capabilities that should force Russia to accept a peace deal. A video posted on social media showed a moment of explosion at the refinery in the densely populated southeastern district of Kapotnya. The refinery is supplying the Russian capital. Via Reuters DawnToday ♬ original sound - Dawn.com - Dawn.com The Russian leader had yet to comment on the strikes, despite issuing press statements throughout the day, though his Foreign Minister Sergei Lavrov vowed Moscow would retaliate with its own “massive” strikes on Ukraine. Ukraine’s Volodymyr Zelensky said the attack was an “absolutely justified response” to deadly strikes on Kyiv — including one earlier this week on a landmark cathedral and a Unesco-protected 11th-century monastery. He said he wanted Russians to put pressure on Putin for the consequences of Europe’s worst conflict since World War II. “The main thing is that the people of Russia begin to feel that it is one man, Putin, who is waging this war, while ordinary people pay the price for everything,” Zelensky told reporters, including AFP . “If Ukraine is going to burn, your Moscow will burn too.” Moscow has hit Ukraine with daily barrages of missiles and drones. Airport closures It was the second time this month that Kyiv launched a major attack during an international summit, after striking Saint Petersburg at the start of a landmark economic forum near the city. Moscow’s airports were shut for hours, leading to hundreds of flight delays. The country’s busiest — Sheremetyevo — announced it had evacuated passengers to “safe locations” during the barrage, before it re-opened at around 11am (0800 GMT). Konstantin, walking near the refinery in the southeastern Kapotnya district, told AFP he had “never seen anything like it”. An apartment building damaged in a Ukrainian drone attack in Zhukovsky, in the Moscow region, Russia on June 18, 2026. — Reuters Valentina, a 29-year-old manager, said she was woken up by the noise. “It’s really scary,” she told AFP , walking in the park with her daughter, the huge column of smoke behind them. Moscow Mayor Sergei Sobyanin said that “several drones” had reached the Moscow oil refinery, without specifying damage to the facility. Authorities announced they had closed traffic on the streets nearby. Another drone crashed into an apartment building, while drone debris sparked a fire at a shopping centre near the capital’s suburbs. One social media video showed smoke pouring from the upper floors of an apartment block, while a woman behind the camera could be heard weeping in distress. ‘Long-range sanctions’ Russian air defences shot down around 180 drones on approach to Moscow, Sobyanin said, while the defence ministry reported it had intercepted more than 500 Ukrainian drones across the entire country overnight. Kyiv has stepped up its drone strikes on Russia in recent months — calling them “long-range sanctions” and hitting oil refineries that fund Moscow’s war chest. It was the second Ukrainian strike on the Moscow refinery this week. Diplomatic talks on ending the more than four-year conflict remain stalled. “It is time the war ended, and Russia must take the necessary steps in diplomacy,” Zelensky said after the strike. Russia also launched more than 200 drones and multiple ballistic missiles at Ukraine between late Wednesday and early Thursday, according to the Ukrainian air force. AFP reporters in Kyiv saw people rushing to shelters in the early hours after air defence blasts rocked over the Ukrainian capital. Putin in Kazan In the hours following the attack, Putin posed for a photo with leaders at a summit of the Association of Southeast Asian Nations (Asean) in Kazan and made no mention of the strike in his opening remarks to the forum. Thailand, Vietnam, Cambodia, Laos, Malaysia and Singapore sent their prime ministers to Kazan, while the Philippines sent President Ferdinand Marcos. Russia’s President Vladimir Putin attends a meeting with Laos’ Prime Minister Sonexay Siphandone on the sidelines of the Russia-Asean Summit in Kazan, Russia on June 18, 2026. — Reuters Putin has long sought to project stability in Russia, despite the economic and social effects of his four-year offensive on Ukraine. But a recent spate of attacks has forced the Kremlin to respond. After Kyiv launched similar attacks on Saint Petersburg earlier this month, the Russian leader promised to bolster air defences. US leader Donald Trump this week said Moscow should “make a deal” to end the Ukraine war.",
       "title": "Ukraine sets Moscow refinery ablaze in biggest attack in years",
-      "summary": "Ukraine on Thursday launched its largest drone attack on Moscow in years, sparking fires, hitting a major oil refinery and forcing evacuations at the country’s largest airport. Russia vowed to retaliate for the attack as AFP reporters saw dramatic scenes of black smoke billowing over the capital’s southern skyline and drops of black rain mixed with soot falling from the sky. At least 17 people were wounded in the strikes, which also set a shopping centre and apartment building ablaze, authorities said. The attack came as Russian President Vladimir Putin hosted Southeast Asian leaders at a summit in the central city of Kazan, about 700 kilometres east of Moscow. An explosion takes place at the Moscow oil refinery after Ukrainian drone attacks on Moscow, Russia on June 18, 2026. — Reuters The Russian leader had yet to comment on the strikes, despite issuing press statements throughout the day, though his Foreign Minister Sergei Lavrov vowed Moscow would retaliate with its own “massive” strikes on Ukraine. Ukraine’s Volodymyr Zelensky said the attack was an “absolutely justified response” to deadly strikes on Kyiv — including one earlier this week on a landmark cathedral and a Unesco-protected 11th-century monastery. He said he wanted Russians to put pressure on Putin for the consequences of Europe’s worst conflict since World War II. “The main thing is that the people of Russia begin to feel that it is one man, Putin, who is waging this war, while ordinary people pay the price for everything,” Zelensky told reporters, including AFP . “If Ukraine is going to burn, your Moscow will burn too.” Moscow has hit Ukraine with daily barrages of missiles and drones. Airport closures It was the second time this month that Kyiv launched a major attack during an international summit, after striking Saint Petersburg at the start of a landmark economic forum near the city. Moscow’s airports were shut for hours, leading to hundreds of flight delays. The country’s busiest — Sheremetyevo — announced it had evacuated passengers to “safe locations” during the barrage, before it re-opened at around 11am (0800 GMT). Konstantin, walking near the refinery in the southeastern Kapotnya district, told AFP he had “never seen anything like it”. An apartment building damaged in a Ukrainian drone attack in Zhukovsky, in the Moscow region, Russia on June 18, 2026. — Reuters Valentina, a 29-year-old manager, said she was woken up by the noise. “It’s really scary,” she told AFP , walking in the park with her daughter, the huge column of smoke behind them. Moscow Mayor Sergei Sobyanin said that “several drones” had reached the Moscow oil refinery, without specifying damage to the facility. Authorities announced they had closed traffic on the streets nearby. Another drone crashed into an apartment building, while drone debris sparked a fire at a shopping centre near the capital’s suburbs. One social media video showed smoke pouring from the upper floors of an apartment block, while a woman behind the camera could be heard weeping in distress. ‘Long-range sanctions’ Russian air defences shot down around 180 drones on approach to Moscow, Sobyanin said, while the defence ministry reported it had intercepted more than 500 Ukrainian drones across the entire country overnight. Kyiv has stepped up its drone strikes on Russia in recent months — calling them “long-range sanctions” and hitting oil refineries that fund Moscow’s war chest. It was the second Ukrainian strike on the Moscow refinery this week. Diplomatic talks on ending the more than four-year conflict remain stalled. “It is time the war ended, and Russia must take the necessary steps in diplomacy,” Zelensky said after the strike. Russia also launched more than 200 drones and multiple ballistic missiles at Ukraine between late Wednesday and early Thursday, according to the Ukrainian air force. AFP reporters in Kyiv saw people rushing to shelters in the early hours after air defence blasts rocked over the Ukrainian capital. Putin in Kazan In the hours following the attack, Putin posed for a photo with leaders at a summit of the Association of Southeast Asian Nations (Asean) in Kazan and made no mention of the strike in his opening remarks to the forum. Thailand, Vietnam, Cambodia, Laos, Malaysia and Singapore sent their prime ministers to Kazan, while the Philippines sent President Ferdinand Marcos. Russia’s President Vladimir Putin attends a meeting with Laos’ Prime Minister Sonexay Siphandone on the sidelines of the Russia-Asean Summit in Kazan, Russia on June 18, 2026. — Reuters Putin has long sought to project stability in Russia, despite the economic and social effects of his four-year offensive on Ukraine. But a recent spate of attacks has forced the Kremlin to respond. After Kyiv launched similar attacks on Saint Petersburg earlier this month, the Russian leader promised to bolster air defences. US leader Donald Trump this week said Moscow should “make a deal” to end the Ukraine war.",
+      "summary": "Ukraine on Thursday launched its largest drone attack on Moscow in years, sparking fires, hitting a major oil refinery and forcing evacuations at the country’s largest airport. Russia vowed to retaliate for the attack as AFP reporters saw dramatic scenes of black smoke billowing over the capital’s southern skyline and drops of black rain mixed with soot falling from the sky. At least 17 people were wounded in the strikes, which also set a shopping centre and apartment building ablaze, authorities said. The attack came as Russian President Vladimir Putin hosted Southeast Asian leaders at a summit in the central city of Kazan, about 700 kilometres east of Moscow. @dawn.today Scores of Ukrainian drones bore down on Moscow on Thursday (June 18), hitting the Russian capital's oil refinery for the second time this week in what Kyiv cast as a demonstration of its growing capabilities that should force Russia to accept a peace deal. A video posted on social media showed a moment of explosion at the refinery in the densely populated southeastern district of Kapotnya. The refinery is supplying the Russian capital. Via Reuters DawnToday ♬ original sound - Dawn.com - Dawn.com The Russian leader had yet to comment on the strikes, despite issuing press statements throughout the day, though his Foreign Minister Sergei Lavrov vowed Moscow would retaliate with its own “massive” strikes on Ukraine. Ukraine’s Volodymyr Zelensky said the attack was an “absolutely justified response” to deadly strikes on Kyiv — including one earlier this week on a landmark cathedral and a Unesco-protected 11th-century monastery. He said he wanted Russians to put pressure on Putin for the consequences of Europe’s worst conflict since World War II. “The main thing is that the people of Russia begin to feel that it is one man, Putin, who is waging this war, while ordinary people pay the price for everything,” Zelensky told reporters, including AFP . “If Ukraine is going to burn, your Moscow will burn too.” Moscow has hit Ukraine with daily barrages of missiles and drones. Airport closures It was the second time this month that Kyiv launched a major attack during an international summit, after striking Saint Petersburg at the start of a landmark economic forum near the city. Moscow’s airports were shut for hours, leading to hundreds of flight delays. The country’s busiest — Sheremetyevo — announced it had evacuated passengers to “safe locations” during the barrage, before it re-opened at around 11am (0800 GMT). Konstantin, walking near the refinery in the southeastern Kapotnya district, told AFP he had “never seen anything like it”. An apartment building damaged in a Ukrainian drone attack in Zhukovsky, in the Moscow region, Russia on June 18, 2026. — Reuters Valentina, a 29-year-old manager, said she was woken up by the noise. “It’s really scary,” she told AFP , walking in the park with her daughter, the huge column of smoke behind them. Moscow Mayor Sergei Sobyanin said that “several drones” had reached the Moscow oil refinery, without specifying damage to the facility. Authorities announced they had closed traffic on the streets nearby. Another drone crashed into an apartment building, while drone debris sparked a fire at a shopping centre near the capital’s suburbs. One social media video showed smoke pouring from the upper floors of an apartment block, while a woman behind the camera could be heard weeping in distress. ‘Long-range sanctions’ Russian air defences shot down around 180 drones on approach to Moscow, Sobyanin said, while the defence ministry reported it had intercepted more than 500 Ukrainian drones across the entire country overnight. Kyiv has stepped up its drone strikes on Russia in recent months — calling them “long-range sanctions” and hitting oil refineries that fund Moscow’s war chest. It was the second Ukrainian strike on the Moscow refinery this week. Diplomatic talks on ending the more than four-year conflict remain stalled. “It is time the war ended, and Russia must take the necessary steps in diplomacy,” Zelensky said after the strike. Russia also launched more than 200 drones and multiple ballistic missiles at Ukraine between late Wednesday and early Thursday, according to the Ukrainian air force. AFP reporters in Kyiv saw people rushing to shelters in the early hours after air defence blasts rocked over the Ukrainian capital. Putin in Kazan In the hours following the attack, Putin posed for a photo with leaders at a summit of the Association of Southeast Asian Nations (Asean) in Kazan and made no mention of the strike in his opening remarks to the forum. Thailand, Vietnam, Cambodia, Laos, Malaysia and Singapore sent their prime ministers to Kazan, while the Philippines sent President Ferdinand Marcos. Russia’s President Vladimir Putin attends a meeting with Laos’ Prime Minister Sonexay Siphandone on the sidelines of the Russia-Asean Summit in Kazan, Russia on June 18, 2026. — Reuters Putin has long sought to project stability in Russia, despite the economic and social effects of his four-year offensive on Ukraine. But a recent spate of attacks has forced the Kremlin to respond. After Kyiv launched similar attacks on Saint Petersburg earlier this month, the Russian leader promised to bolster air defences. US leader Donald Trump this week said Moscow should “make a deal” to end the Ukraine war.",
       "url": "https://www.dawn.com/news/2008917/ukraine-sets-moscow-refinery-ablaze-in-biggest-attack-in-years",
       "source": "Dawn - Home",
-      "published_at": "2026-06-18T16:24:03+00:00",
+      "published_at": "2026-06-18T16:35:18+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "825387b3b2b2ac7d",
+      "title_orig": "Heathrow third runway: Sadiq Khan slams airport expansion 'rushed' by Starmer and Reeves as Burnham eyes No10",
+      "summary_orig": "A public consultation on the masterplan for a bigger Heathrow will run only until the end of August as Labour rival Andy Burnham ’marches’ on Downing Street",
+      "lang": "en",
+      "title_en": "Heathrow third runway: Sadiq Khan slams airport expansion 'rushed' by Starmer and Reeves as Burnham eyes No10",
+      "summary_en": "A public consultation on the masterplan for a bigger Heathrow will run only until the end of August as Labour rival Andy Burnham ’marches’ on Downing Street",
+      "title": "Heathrow third runway: Sadiq Khan slams airport expansion 'rushed' by Starmer and Reeves as Burnham eyes No10",
+      "summary": "A public consultation on the masterplan for a bigger Heathrow will run only until the end of August as Labour rival Andy Burnham ’marches’ on Downing Street",
+      "url": "https://www.standard.co.uk/news/london/heathrow-flights-third-runway-airport-expansion-reeves-starmer-burnham-b1286648.html",
+      "source": "The Standard News",
+      "published_at": "2026-06-18T16:34:01+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "373b93f6c24b48b8",
+      "title_orig": "Ukraine, Germany sign agreement on anti-ballistic capabilities, Zelensky says",
+      "summary_orig": "Zelensky said that Fire Point, Ukraine's largest missile and drone maker, was one of the participants in the initiative.",
+      "lang": "en",
+      "title_en": "Ukraine, Germany sign agreement on anti-ballistic capabilities, Zelensky says",
+      "summary_en": "Zelensky said that Fire Point, Ukraine's largest missile and drone maker, was one of the participants in the initiative.",
+      "title": "Ukraine, Germany sign agreement on anti-ballistic capabilities, Zelensky says",
+      "summary": "Zelensky said that Fire Point, Ukraine's largest missile and drone maker, was one of the participants in the initiative.",
+      "url": "https://www.straitstimes.com/world/europe/ukraine-germany-sign-agreement-on-anti-ballistic-capabilities-zelenskiy-says",
+      "source": "The Straits Times World News",
+      "published_at": "2026-06-18T16:19:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -29,7 +489,7 @@
       "title": "Heathrow third runway likely to affect health of millions nearby, official report warns",
       "summary": "Analysis says expansion could also harm access to housing, education, healthcare, open spaces and transport Construction of a third runway at Heathrow is likely to have significant adverse effects on the health and wellbeing of up to 3 million people living nearby, an official report has said, as the government launched the next stage of its rapid airport expansion plan . An analysis for the Department for Transport has found that expanding London’s hub airport could have “major adverse” impacts on the health of the most local population. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/jun/18/heathrow-third-runway-likely-to-affect-health-millions-people-nearby-official-report",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-06-18T16:19:01+00:00",
       "tags": [
         "airport/security"
@@ -146,42 +606,6 @@
       "geo": {}
     },
     {
-      "id": "4ddd69e6de786fe0",
-      "title_orig": "Govt. veterinary college students stage protest against upcoming private college",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Govt. veterinary college students stage protest against upcoming private college",
-      "summary_en": "",
-      "title": "Govt. veterinary college students stage protest against upcoming private college",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/karnataka/govt-veterinary-college-students-stage-protest-against-upcoming-private-college/article71118259.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-18T16:02:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8a07ed72b22f9eff",
-      "title_orig": "Gunmen attack Niger's biggest airport for second time in months",
-      "summary_orig": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "lang": "en",
-      "title_en": "Gunmen attack Niger's biggest airport for second time in months",
-      "summary_en": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "title": "Gunmen attack Niger's biggest airport for second time in months",
-      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-18T16:01:07+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "0524c493fe37b500",
       "title_orig": "Lebanon: Tyre residents return to homes shattered by strikes",
       "summary_orig": "Lebanese families returning to Tyre found their homes in ruins on 18 June after Israeli strikes and voiced cautious optimism about a new US-Iran agreement.",
@@ -218,24 +642,6 @@
       "geo": {}
     },
     {
-      "id": "b449f6d060ccfe37",
-      "title_orig": "Iran-US war latest: Trump hits out at ‘jealous fools’ criticising his peace deal with Tehran",
-      "summary_orig": "The US president told the G7 that he would ‘go back to bombing’ if a full agreement was not struck within 60 days",
-      "lang": "en",
-      "title_en": "Iran-US war latest: Trump hits out at ‘jealous fools’ criticising his peace deal with Tehran",
-      "summary_en": "The US president told the G7 that he would ‘go back to bombing’ if a full agreement was not struck within 60 days",
-      "title": "Iran-US war latest: Trump hits out at ‘jealous fools’ criticising his peace deal with Tehran",
-      "summary": "The US president told the G7 that he would ‘go back to bombing’ if a full agreement was not struck within 60 days",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-peace-deal-strait-of-hormuz-oil-b2998073.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-18T15:56:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "048e9f83e4f7f88d",
       "title_orig": "Man attacked with chair outside Sutton Coldfield chip shop as area taped off",
       "summary_orig": "A man was attacked and had to be taken to hospital after an incident opposite a pub and near a chip shop",
@@ -263,7 +669,7 @@
       "title": "Polls open in historic byelection in Makerfield that could determine Keir Starmer’s future – as it happened",
       "summary": "Andy Burnham hopes a successful byelection will mean he can encourage Keir Starmer to step aside as prime minister The trial of two Russian-linked arsonists who targeted property connected to Keir Starmer shows that the UK is under attack from bad actors who want to “exploit division” and “destabilise our democracy”, the prime minister has said. Roman Lavrynovych, 22, from Ukraine, and Stanislav Carpiuc, 27, from Romania, were found guilty on Monday of conspiring to carry out arson attacks on property linked to the prime minister, and appear to have operated under the instruction of an online handler with links to Russia. Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-polls-open-labour-leadership-andy-burnham-keir-starmer-latest-news-updates",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-06-18T15:50:50+00:00",
       "tags": [
         "airport/security"
@@ -597,42 +1003,6 @@
       "geo": {}
     },
     {
-      "id": "11d580bcedbd254f",
-      "title_orig": "Bombers add Murphy to club’s Ring of Honour",
-      "summary_orig": "The Winnipeg Blue Bombers will add former coach and general manager Cal Murphy to the club's Ring of Honour on July 30.",
-      "lang": "en",
-      "title_en": "Bombers add Murphy to club’s Ring of Honour",
-      "summary_en": "The Winnipeg Blue Bombers will add former coach and general manager Cal Murphy to the club's Ring of Honour on July 30.",
-      "title": "Bombers add Murphy to club’s Ring of Honour",
-      "summary": "The Winnipeg Blue Bombers will add former coach and general manager Cal Murphy to the club's Ring of Honour on July 30.",
-      "url": "https://globalnews.ca/news/11911500/bombers-add-murphy-to-clubs-ring-of-honour/",
-      "source": "globalnews.ca",
-      "published_at": "2026-06-18T15:10:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "164e4e7ebda7bde3",
-      "title_orig": "‘Kafir’ screenshot case puts CPI(M) on the defensive again",
-      "summary_orig": "The UDF has seized on the development to intensify its attack on the CPI(M), arguing that the ‘Kafir’ screenshot case is exposing the party’s “real face”",
-      "lang": "en",
-      "title_en": "‘Kafir’ screenshot case puts CPI(M) on the defensive again",
-      "summary_en": "The UDF has seized on the development to intensify its attack on the CPI(M), arguing that the ‘Kafir’ screenshot case is exposing the party’s “real face”",
-      "title": "‘Kafir’ screenshot case puts CPI(M) on the defensive again",
-      "summary": "The UDF has seized on the development to intensify its attack on the CPI(M), arguing that the ‘Kafir’ screenshot case is exposing the party’s “real face”",
-      "url": "https://www.thehindu.com/news/national/kerala/kafir-screenshot-case-puts-cpim-on-the-defensive-again/article71118048.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-18T15:08:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "67d244eb342504a6",
       "title_orig": "UK sending 150,000 more drones to Ukraine after strikes wreak havoc on Moscow",
       "summary_orig": "",
@@ -662,24 +1032,6 @@
       "url": "https://simpleflying.com/allegiant-airs-top-10-airports-2026/",
       "source": "Simple Flying",
       "published_at": "2026-06-18T15:03:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2e4d04d27c2d330a",
-      "title_orig": "Attack on ED officials: Bail plea of three accused rejected",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "Attack on ED officials: Bail plea of three accused rejected",
-      "summary_en": "",
-      "title": "Attack on ED officials: Bail plea of three accused rejected",
-      "summary": "",
-      "url": "https://www.thehindu.com/news/national/kerala/attack-on-ed-officials-bail-plea-of-three-accused-rejected/article71118388.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-18T15:01:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -777,24 +1129,6 @@
       "geo": {}
     },
     {
-      "id": "54c0bf7a9773381d",
-      "title_orig": "Kane is England's greatest striker, says Lineker",
-      "summary_orig": "Gary Lineker thinks Harry Kane is \"the greatest English striker we've ever had\" after the England captain equalled his record of 10 World Cup goals.",
-      "lang": "en",
-      "title_en": "Kane is England's greatest striker, says Lineker",
-      "summary_en": "Gary Lineker thinks Harry Kane is \"the greatest English striker we've ever had\" after the England captain equalled his record of 10 World Cup goals.",
-      "title": "Kane is England's greatest striker, says Lineker",
-      "summary": "Gary Lineker thinks Harry Kane is \"the greatest English striker we've ever had\" after the England captain equalled his record of 10 World Cup goals.",
-      "url": "https://www.bbc.com/sport/football/articles/cvg5de1dyn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-18T14:37:23+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "d14a59a2b28abffa",
       "title_orig": "Patients die in Gaza waiting for medical evacuations Israel keeps blocking",
       "summary_orig": "Despite having medical referrals to leave Gaza, Palestinians are not allowed to leave.",
@@ -885,52 +1219,6 @@
       "geo": {}
     },
     {
-      "id": "825387b3b2b2ac7d",
-      "title_orig": "Heathrow third runway: Sadiq Khan slams airport expansion 'rushed' by Starmer and Reeves as Burnham eyes No10",
-      "summary_orig": "A public consultation on the masterplan for a bigger Heathrow will run only until the end of August as Labour rival Andy Burnham ’marches’ on Downing Street",
-      "lang": "en",
-      "title_en": "Heathrow third runway: Sadiq Khan slams airport expansion 'rushed' by Starmer and Reeves as Burnham eyes No10",
-      "summary_en": "A public consultation on the masterplan for a bigger Heathrow will run only until the end of August as Labour rival Andy Burnham ’marches’ on Downing Street",
-      "title": "Heathrow third runway: Sadiq Khan slams airport expansion 'rushed' by Starmer and Reeves as Burnham eyes No10",
-      "summary": "A public consultation on the masterplan for a bigger Heathrow will run only until the end of August as Labour rival Andy Burnham ’marches’ on Downing Street",
-      "url": "https://www.standard.co.uk/news/london/heathrow-flights-third-runway-airport-expansion-reeves-starmer-burnham-b1286648.html",
-      "source": "The Standard News",
-      "published_at": "2026-06-18T14:18:01+00:00",
-      "tags": [
-        "LHR",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Heathrow",
-        "city": "London",
-        "country": "United Kingdom",
-        "iata": "LHR",
-        "lat": 51.47,
-        "lon": -0.4543
-      }
-    },
-    {
-      "id": "43a20310de9bc702",
-      "title_orig": "Toronto police arrest missing suspect accused of U.S. Consulate shooting",
-      "summary_orig": "It was early March when bullets were shot at the consulate on University Avenue in an attack police have since linked to a 'criminals for hire' network operating in Toronto.",
-      "lang": "en",
-      "title_en": "Toronto police arrest missing suspect accused of U.S. Consulate shooting",
-      "summary_en": "It was early March when bullets were shot at the consulate on University Avenue in an attack police have since linked to a 'criminals for hire' network operating in Toronto.",
-      "title": "Toronto police arrest missing suspect accused of U.S. Consulate shooting",
-      "summary": "It was early March when bullets were shot at the consulate on University Avenue in an attack police have since linked to a 'criminals for hire' network operating in Toronto.",
-      "url": "https://globalnews.ca/news/11911405/zara-jabbi-arrest/",
-      "source": "globalnews.ca",
-      "published_at": "2026-06-18T14:17:06+00:00",
-      "tags": [
-        "airport/security",
-        "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "92d2f64de317b796",
       "title_orig": "Russian nuclear chief accuses Ukraine of killing worker at Zaporizhzhia power plant in drone attack",
       "summary_orig": "MOSCOW, June 18 - The head of Russia's state nuclear corporation Rosatom on Thursday accused Ukraine of killing a key worker in a drone attack on the Russian-controlled Zaporizhzhia nuclear power plant in southeastern Ukraine.",
@@ -960,6 +1248,24 @@
       "url": "https://www.dawn.com/news/2008883/sc-orders-adiala-superintendent-other-officials-to-submit-replies-on-denial-of-access-to-imran",
       "source": "Dawn - Home",
       "published_at": "2026-06-18T14:06:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ce19ee015c701a6e",
+      "title_orig": "KEY POINTS: What changes about life in Spain in July 2026",
+      "summary_orig": "Big summer music festivals, the start of Gibraltar's Brexit deal, the end of Spain's migrant amnesty, another anti-tourism protest, the deadline for Spain's annual income tax return, and plenty more - read on for the full lowdown on July 2026 in Spain.",
+      "lang": "en",
+      "title_en": "KEY POINTS: What changes about life in Spain in July 2026",
+      "summary_en": "Big summer music festivals, the start of Gibraltar's Brexit deal, the end of Spain's migrant amnesty, another anti-tourism protest, the deadline for Spain's annual income tax return, and plenty more - read on for the full lowdown on July 2026 in Spain.",
+      "title": "KEY POINTS: What changes about life in Spain in July 2026",
+      "summary": "Big summer music festivals, the start of Gibraltar's Brexit deal, the end of Spain's migrant amnesty, another anti-tourism protest, the deadline for Spain's annual income tax return, and plenty more - read on for the full lowdown on July 2026 in Spain.",
+      "url": "https://www.thelocal.es/20260618/key-points-what-changes-about-life-in-spain-in-july-2026",
+      "source": "The Local Spain",
+      "published_at": "2026-06-18T14:04:57+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1039,42 +1345,6 @@
       "geo": {}
     },
     {
-      "id": "f2af3b9cbd61985c",
-      "title_orig": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
-      "summary_orig": "Kyiv says attack, which also forced evacuation at Russia’s biggest airport, was in response to strike on historic monastery Explainer: how significant was attack on Moscow? Ukrainian drones have hit several locations across Moscow in Kyiv’s biggest air raid on the city since the start of Russia’s full-scale invasion, setting a major ⁠oil refinery on fire and forcing evacuations at the country’s largest airport. Volodymyr Zelenskyy described the attack as a response to Russia’s strike on a historic Kyiv monastery complex earlier this week. “We do not want this war and never did,” the Ukrainian president said in a voice message to journalists. “But if Ukraine is going to burn, your Moscow will burn too … It is time to end the aggression, time to end this war.” Continue reading...",
-      "lang": "en",
-      "title_en": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
-      "summary_en": "Kyiv says attack, which also forced evacuation at Russia’s biggest airport, was in response to strike on historic monastery Explainer: how significant was attack on Moscow? Ukrainian drones have hit several locations across Moscow in Kyiv’s biggest air raid on the city since the start of Russia’s full-scale invasion, setting a major ⁠oil refinery on fire and forcing evacuations at the country’s largest airport. Volodymyr Zelenskyy described the attack as a response to Russia’s strike on a historic Kyiv monastery complex earlier this week. “We do not want this war and never did,” the Ukrainian president said in a voice message to journalists. “But if Ukraine is going to burn, your Moscow will burn too … It is time to end the aggression, time to end this war.” Continue reading...",
-      "title": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
-      "summary": "Kyiv says attack, which also forced evacuation at Russia’s biggest airport, was in response to strike on historic monastery Explainer: how significant was attack on Moscow? Ukrainian drones have hit several locations across Moscow in Kyiv’s biggest air raid on the city since the start of Russia’s full-scale invasion, setting a major ⁠oil refinery on fire and forcing evacuations at the country’s largest airport. Volodymyr Zelenskyy described the attack as a response to Russia’s strike on a historic Kyiv monastery complex earlier this week. “We do not want this war and never did,” the Ukrainian president said in a voice message to journalists. “But if Ukraine is going to burn, your Moscow will burn too … It is time to end the aggression, time to end this war.” Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
-      "source": "World news | The Guardian",
-      "published_at": "2026-06-18T13:42:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "9f368dcc0795d178",
-      "title_orig": "Inmates guilty of murdering child killer who was ‘tucked up in bed’ after attack",
-      "summary_orig": "Kyle Bevan was stabbed 25 times during an attack by convicted killers Mark Fellows, Lee Newell and David Taylor at high-security HMP Wakefield.",
-      "lang": "en",
-      "title_en": "Inmates guilty of murdering child killer who was ‘tucked up in bed’ after attack",
-      "summary_en": "Kyle Bevan was stabbed 25 times during an attack by convicted killers Mark Fellows, Lee Newell and David Taylor at high-security HMP Wakefield.",
-      "title": "Inmates guilty of murdering child killer who was ‘tucked up in bed’ after attack",
-      "summary": "Kyle Bevan was stabbed 25 times during an attack by convicted killers Mark Fellows, Lee Newell and David Taylor at high-security HMP Wakefield.",
-      "url": "https://www.standard.co.uk/news/crime/mcgowan-hmp-wakefield-ian-watkins-cctv-haverfordwest-b1286671.html",
-      "source": "The Standard News",
-      "published_at": "2026-06-18T13:29:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "6d71ded0c4384a0c",
       "title_orig": "Zelenskyy says 'Moscow will burn' if Russian strikes continue",
       "summary_orig": "Scores of drones targeted Moscow overnight in what was Ukraine's largest attack on the Russian capital.",
@@ -1129,24 +1399,6 @@
       "geo": {}
     },
     {
-      "id": "4bd91b274520dd92",
-      "title_orig": "In Britain, resisting a genocide is now treated as terrorism",
-      "summary_orig": "The Filton 4 case reveals a democracy more frightened of protesters than of the destruction they protest against.",
-      "lang": "en",
-      "title_en": "In Britain, resisting a genocide is now treated as terrorism",
-      "summary_en": "The Filton 4 case reveals a democracy more frightened of protesters than of the destruction they protest against.",
-      "title": "In Britain, resisting a genocide is now treated as terrorism",
-      "summary": "The Filton 4 case reveals a democracy more frightened of protesters than of the destruction they protest against.",
-      "url": "https://www.aljazeera.com/opinions/2026/6/18/in-britain-resisting-a-genocide-is-now-treated-as-terrorism?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-06-18T13:19:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "cbf0992fc15b47be",
       "title_orig": "What the US-Iran deal means for West Asian security and Pakistan",
       "summary_orig": "The US and Iran have agreed to a basic framework. Whether this formal consensus translates into a concrete agreement is an open question. While Iran has officially declared the end of the war, Israel insists “our struggle has not yet ended”. Between these two statements lies all the space the spoilers need. The ceasefire was made possible by pragmatists. It will be threatened by apocalypticists. In Washington and Jerusalem, there are people at the helm of affairs who do not read this war as a security crisis to be resolved but a scheduled event — one that a ceasefire can delay but not, in their theology, prevent. For them, a deal is not a solution. It is an obstacle. And obstacles, in the eschatological imagination, are not negotiated around. They are removed. A changed world Whether the framework holds or collapses, one thing is clear: the West Asian security structure that existed on the morning of Feb 28, 2026, has ceased to exist. Firstly, South Asian and West Asian security complexes are no longer analytically separable, as once theorised by British political scientist Barry Buzan. Secondly, the war subjected regional alliances and client-patron relations to a stress test, and, to the surprise of many capitals, the old security arrangements proved to be holding nothing at all. Many in the Gulf relied on American security guarantees. And it was not for the first time that the American security umbrella failed to protect them against Israeli belligerence and Iranian retaliation. This shared sense of being treated as collateral rather than partners will continue to haunt the GCC-US relations for years to come. The GCC, meanwhile, did not respond to the recent war in unison. Instead, the US-Israeli war of aggression against Iran deepened some older fault-lines among the Arab states of the Gulf region. In the Pakistani imagination, Saudi-UAE relations are often assumed to be a tight axis. This is no longer the case. These countries have experienced rifts and complete ruptures in the recent past, and the war has only consolidated them. Saudi Arabia and the UAE are proposing two distinct security mechanisms that carry significant implications for Pakistan. Where does Pakistan fit in? Saudi Arabia desires to see an extended role for Pakistan and Turkey while normalising its relations with Iran. The starting point was the Strategic Mutual Defence Agreement Saudi Arabia signed with Pakistan on September 17, 2025 — just days after the Israeli strike on Doha. That particular act of aggression by Israel clearly demonstrated that Qatar’s status as a major non-NATO ally and host of the largest US base in the region could not shield it from external aggression. It has also nudged Doha to diversify its security arrangements, bringing it closer to the Saudi-Pakistan framework. There was also subsequent talk of widening this framework — reports suggested Pakistan signalled Turkey and Qatar may join the Saudi defence pact, which would essentially formalise a Riyadh-Ankara-Islamabad-Doha (RAID) mechanism. Abu Dhabi chooses a different route Abu Dhabi took the worst of Iran’s retaliation and answered with what American analysts termed a “defiant and forceful posture”, welcoming Israeli military assistance. Abu Dhabi’s response during the war has clearly illustrated that it is keen to integrate Israel and India into the Gulf security structure. There are apprehensions that Emirati-Israeli-Indian intelligence and security cooperation could facilitate covert activities elsewhere in the Gulf, with destabilising consequences for the GCC as a whole. A case in point is the arrest of eight former Indian naval officers caught spying for Israel in Qatar in 2022. All of the accused were sentenced to death in late 2023. It was only after personal intervention by Indian Prime Minister Narendra Modi that the Qatari government released seven of the eight men in February 2024. At a time when the Gulf’s two most consequential powers are pulling regional security in opposite directions, the question of where Pakistan plants its flag is not an academic one. Millions of Pakistani livelihoods, billions in remittances, energy imports on deferred payments and the credibility of Islamabad’s emerging mediatory role all ride on the answer. What next for Pakistan? Recent history offers the clearest insights. Pakistan has avoided camp politics. The recalibration of its relationship with the United States and China over the past decade is the most instructive example: Islamabad has learned to navigate the US-China rivalry without taking sides. Pakistan’s insistence on strategic autonomy has been acknowledged at the highest level as something real, not rhetorical. Russian President Vladimir Putin recently dismissed the claim that Pakistan is a Chinese colony. In response to an Indian journalist, he emphasised that Pakistan is an independent, sovereign nation that maintains multi-faceted and diverse diplomatic ties across the globe rather than being solely aligned with or controlled by Beijing. Pakistan then walked the tightrope between Iran and the Gulf states during the most serious regional war in a generation — maintaining open channels to Tehran while standing publicly with Riyadh, mediating where others were merely spectating. The Saudi-UAE divergence over regional security presents a similar test. Pakistan’s historic ties with both countries run very deep — not merely at the level of diplomacy, but at the human level, where ties are hardest to sever. Nearly three million Pakistanis live and work across the two countries, sending home remittances that form a major pillar for Pakistan’s fragile economy. Pakistan will not choose between Riyadh and Abu Dhabi — not because it lacks the courage to choose, but because it has learned, at some cost, that preserving both relationships is itself the strategy. This is exactly why Pakistan has prevented a public outcry over the UAE’s demand to return a USD3.5 billion loan , terming it a routine transaction with a brotherly nation. The no-camps policy has doctrinal backing. Pakistan’s National Security Policy 2022-26, the first ever publicly released by any Pakistani government, is explicit on this point — articulating a vision of “geo-economics over geopolitics,” of engagement with all major powers without subordination to any. In the fractured Gulf of 2026, that may be the most sophisticated position available. The old Gulf, predictable and broadly aligned, is not coming back. However, Islamabad has learned the hard way: choosing sides among friends is not a strategy.",
@@ -1183,86 +1435,14 @@
       "geo": {}
     },
     {
-      "id": "3dbac92b9cf94e3d",
-      "title_orig": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
-      "summary_orig": "Israeli attacks in southern Lebanon continue in spite of a US-Iran deal that would mean ceasing military operations.",
-      "lang": "en",
-      "title_en": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
-      "summary_en": "Israeli attacks in southern Lebanon continue in spite of a US-Iran deal that would mean ceasing military operations.",
-      "title": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
-      "summary": "Israeli attacks in southern Lebanon continue in spite of a US-Iran deal that would mean ceasing military operations.",
-      "url": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-06-18T13:04:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "aff9a0d14b4886bc",
-      "title_orig": "Kept outside of negotiations, can the US-Iran deal bring peace to Lebanon?",
-      "summary_orig": "Since the signing of the peace deal between Iran and the US, fighting in Lebanon has dropped. But according to Lebanese media, Israeli strikes on south of the country did kill at least five people. Whether the deal will lead to peace in Lebanon remains unclear.",
-      "lang": "en",
-      "title_en": "Kept outside of negotiations, can the US-Iran deal bring peace to Lebanon?",
-      "summary_en": "Since the signing of the peace deal between Iran and the US, fighting in Lebanon has dropped. But according to Lebanese media, Israeli strikes on south of the country did kill at least five people. Whether the deal will lead to peace in Lebanon remains unclear.",
-      "title": "Kept outside of negotiations, can the US-Iran deal bring peace to Lebanon?",
-      "summary": "Since the signing of the peace deal between Iran and the US, fighting in Lebanon has dropped. But according to Lebanese media, Israeli strikes on south of the country did kill at least five people. Whether the deal will lead to peace in Lebanon remains unclear.",
-      "url": "https://www.france24.com/en/kept-outside-of-negotiations-can-the-us-iran-deal-bring-peace-to-lebanon",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-06-18T12:56:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "740ea7ce0ba8148d",
-      "title_orig": "Mets vs. Phillies prediction: Polymarket odds, props, projections and best bet for Thursday",
-      "summary_orig": "Mets vs. Phillies prediction for tonight’s NL East matchup, including Polymarket prices, Dimers simulations, Sean Manaea strikeout best bet and hitter projections.",
-      "lang": "en",
-      "title_en": "Mets vs. Phillies prediction: Polymarket odds, props, projections and best bet for Thursday",
-      "summary_en": "Mets vs. Phillies prediction for tonight’s NL East matchup, including Polymarket prices, Dimers simulations, Sean Manaea strikeout best bet and hitter projections.",
-      "title": "Mets vs. Phillies prediction: Polymarket odds, props, projections and best bet for Thursday",
-      "summary": "Mets vs. Phillies prediction for tonight’s NL East matchup, including Polymarket prices, Dimers simulations, Sean Manaea strikeout best bet and hitter projections.",
-      "url": "https://www.syracuse.com/betting/2026/06/mets-vs-phillies-prediction-polymarket-odds-props-projections-and-best-bet-for-thursday.html",
-      "source": "syracuse.com",
-      "published_at": "2026-06-18T12:55:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "292c9aacafebcfae",
-      "title_orig": "Gulf States Are Frustrated by Failure to Tackle Iran’s Missiles, Analysts Say",
-      "summary_orig": "The preliminary U.S.-Iranian peace deal does not address Iranian rockets or drones, raising questions in the region about relying on Washington as a security guarantor.",
-      "lang": "en",
-      "title_en": "Gulf States Are Frustrated by Failure to Tackle Iran’s Missiles, Analysts Say",
-      "summary_en": "The preliminary U.S.-Iranian peace deal does not address Iranian rockets or drones, raising questions in the region about relying on Washington as a security guarantor.",
-      "title": "Gulf States Are Frustrated by Failure to Tackle Iran’s Missiles, Analysts Say",
-      "summary": "The preliminary U.S.-Iranian peace deal does not address Iranian rockets or drones, raising questions in the region about relying on Washington as a security guarantor.",
-      "url": "https://www.nytimes.com/2026/06/18/world/middleeast/gulf-states-us-iran-deal.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-18T12:53:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "1fe6b8478e64fbc1",
       "title_orig": "Death toll from Israeli fire in Gaza since ceasefire passes 1,000, says health ministry",
-      "summary_orig": "CAIRO, June 18 - The number of Palestinians killed by Israeli fire in Gaza has reached more than 1,000 since a U.S.-brokered ceasefire last October, the enclave's health ministry said on Thursday, as at least three people were reported killed in the latest strike.",
+      "summary_orig": "CAIRO, June 18 - The number of Palestinians killed by Israeli fire in Gaza has reached more than 1,000 since a U.S.-brokered ceasefire last October, the enclave's health ministry said on Thursday, as at least four people were reported killed in the latest strikes.",
       "lang": "en",
       "title_en": "Death toll from Israeli fire in Gaza since ceasefire passes 1,000, says health ministry",
-      "summary_en": "CAIRO, June 18 - The number of Palestinians killed by Israeli fire in Gaza has reached more than 1,000 since a U.S.-brokered ceasefire last October, the enclave's health ministry said on Thursday, as at least three people were reported killed in the latest strike.",
+      "summary_en": "CAIRO, June 18 - The number of Palestinians killed by Israeli fire in Gaza has reached more than 1,000 since a U.S.-brokered ceasefire last October, the enclave's health ministry said on Thursday, as at least four people were reported killed in the latest strikes.",
       "title": "Death toll from Israeli fire in Gaza since ceasefire passes 1,000, says health ministry",
-      "summary": "CAIRO, June 18 - The number of Palestinians killed by Israeli fire in Gaza has reached more than 1,000 since a U.S.-brokered ceasefire last October, the enclave's health ministry said on Thursday, as at least three people were reported killed in the latest strike.",
+      "summary": "CAIRO, June 18 - The number of Palestinians killed by Israeli fire in Gaza has reached more than 1,000 since a U.S.-brokered ceasefire last October, the enclave's health ministry said on Thursday, as at least four people were reported killed in the latest strikes.",
       "url": "https://www.straitstimes.com/world/middle-east/death-toll-from-israeli-fire-in-gaza-since-ceasefire-passes-1000-says-health-ministry",
       "source": "The Straits Times World News",
       "published_at": "2026-06-18T12:45:01+00:00",
@@ -1392,24 +1572,6 @@
       "url": "https://runwaygirlnetwork.com/2026/06/intellian-opens-new-california-manufacturing-campus/",
       "source": "Runway Girl",
       "published_at": "2026-06-18T12:00:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "afa842bd588d92dd",
-      "title_orig": "Ukraine sends Moscow oil refinery up in flames with largest drone attack on city in two years",
-      "summary_orig": "President Volodymyr Zelensky calls strike a ‘fully justified response to Russian strikes on our cities and communities’",
-      "lang": "en",
-      "title_en": "Ukraine sends Moscow oil refinery up in flames with largest drone attack on city in two years",
-      "summary_en": "President Volodymyr Zelensky calls strike a ‘fully justified response to Russian strikes on our cities and communities’",
-      "title": "Ukraine sends Moscow oil refinery up in flames with largest drone attack on city in two years",
-      "summary": "President Volodymyr Zelensky calls strike a ‘fully justified response to Russian strikes on our cities and communities’",
-      "url": "https://www.independent.co.uk/news/world/europe/moscow-oil-refinery-attack-ukraine-russia-war-b2998213.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-18T11:43:44+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1615,42 +1777,6 @@
       "geo": {}
     },
     {
-      "id": "258879dd89b9f4d6",
-      "title_orig": "Russian attacks could cut Ukraine grain exports by a third, say officials",
-      "summary_orig": "Export disruptions could have broad consequences for Ukraine’s wartime economy and global markets.",
-      "lang": "en",
-      "title_en": "Russian attacks could cut Ukraine grain exports by a third, say officials",
-      "summary_en": "Export disruptions could have broad consequences for Ukraine’s wartime economy and global markets.",
-      "title": "Russian attacks could cut Ukraine grain exports by a third, say officials",
-      "summary": "Export disruptions could have broad consequences for Ukraine’s wartime economy and global markets.",
-      "url": "https://www.straitstimes.com/world/europe/russian-attacks-could-cut-ukraine-grain-exports-by-a-third",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-18T10:29:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "72bcf5259fb00653",
-      "title_orig": "Oxfordshire council seeks injunction over flags tied to lamp-posts across county",
-      "summary_orig": "Council says it has so far spent £15,000 removing flags put up under campaign linked to anti-immigration protests Oxfordshire county council is seeking an injunction against the Raise the Colours campaign group after England flags were tied to lamp-posts across the county. The campaign has been putting up flags across the country since August last year, and there is a particular proliferation of them in and around Oxford. Though the campaign has said it is motivated by pride and patriotism, the flag raising has been linked to anti-immigration protests. Continue reading...",
-      "lang": "en",
-      "title_en": "Oxfordshire council seeks injunction over flags tied to lamp-posts across county",
-      "summary_en": "Council says it has so far spent £15,000 removing flags put up under campaign linked to anti-immigration protests Oxfordshire county council is seeking an injunction against the Raise the Colours campaign group after England flags were tied to lamp-posts across the county. The campaign has been putting up flags across the country since August last year, and there is a particular proliferation of them in and around Oxford. Though the campaign has said it is motivated by pride and patriotism, the flag raising has been linked to anti-immigration protests. Continue reading...",
-      "title": "Oxfordshire council seeks injunction over flags tied to lamp-posts across county",
-      "summary": "Council says it has so far spent £15,000 removing flags put up under campaign linked to anti-immigration protests Oxfordshire county council is seeking an injunction against the Raise the Colours campaign group after England flags were tied to lamp-posts across the county. The campaign has been putting up flags across the country since August last year, and there is a particular proliferation of them in and around Oxford. Though the campaign has said it is motivated by pride and patriotism, the flag raising has been linked to anti-immigration protests. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/18/oxfordshire-council-seeks-injunction-over-flags-tied-to-lamp-posts-across-county",
-      "source": "UK news | The Guardian",
-      "published_at": "2026-06-18T10:29:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "534b1359b3fc8018",
       "title_orig": "EasyJet unveils first international route from Newquay as part of massive expansion",
       "summary_orig": "New routes include Manchester to Cairo, Liverpool to Reykjavik, and Newquay to Geneva — Cornwall's first international easyJet service from Cornwall Airport Newquay",
@@ -1705,24 +1831,6 @@
       "geo": {}
     },
     {
-      "id": "4c9ca48954a711d9",
-      "title_orig": "Montreal's New Airport Just Opened - But It Can't Offer A Single International Flight",
-      "summary_orig": "Porter would have launched 11 new routes from the new airport by next week, but all of them will be domestic due to YUL's exclusivity clauses.",
-      "lang": "en",
-      "title_en": "Montreal's New Airport Just Opened - But It Can't Offer A Single International Flight",
-      "summary_en": "Porter would have launched 11 new routes from the new airport by next week, but all of them will be domestic due to YUL's exclusivity clauses.",
-      "title": "Montreal's New Airport Just Opened - But It Can't Offer A Single International Flight",
-      "summary": "Porter would have launched 11 new routes from the new airport by next week, but all of them will be domestic due to YUL's exclusivity clauses.",
-      "url": "https://simpleflying.com/montreal-new-airport-opens-no-international-flight/",
-      "source": "Simple Flying",
-      "published_at": "2026-06-18T09:57:48+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "78bb56d1fa5bb4dd",
       "title_orig": "Banned dog 'destroyed' after Truro attack killed pet and injured people",
       "summary_orig": "A smaller dog died and two people suffered injuries as its owner lost control",
@@ -1741,17 +1849,17 @@
       "geo": {}
     },
     {
-      "id": "758538f50885e187",
-      "title_orig": "Tactical analysis: England look exciting but how can they tighten up?",
-      "summary_orig": "England produced some exciting attacking football while beating Croatia 4-2 but why did they look so shaky defensively?",
+      "id": "f6f45a8f0a6fa546",
+      "title_orig": "CALENDAR: The transport strikes to expect in Italy this July",
+      "summary_orig": "From two days of air travel disruption to public transport strikes in southern cities, here's what to look out for in July 2026.",
       "lang": "en",
-      "title_en": "Tactical analysis: England look exciting but how can they tighten up?",
-      "summary_en": "England produced some exciting attacking football while beating Croatia 4-2 but why did they look so shaky defensively?",
-      "title": "Tactical analysis: England look exciting but how can they tighten up?",
-      "summary": "England produced some exciting attacking football while beating Croatia 4-2 but why did they look so shaky defensively?",
-      "url": "https://www.bbc.com/sport/articles/c98256ypwy0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-18T09:38:00+00:00",
+      "title_en": "CALENDAR: The transport strikes to expect in Italy this July",
+      "summary_en": "From two days of air travel disruption to public transport strikes in southern cities, here's what to look out for in July 2026.",
+      "title": "CALENDAR: The transport strikes to expect in Italy this July",
+      "summary": "From two days of air travel disruption to public transport strikes in southern cities, here's what to look out for in July 2026.",
+      "url": "https://www.thelocal.it/20260618/calendar-the-transport-strikes-to-expect-in-italy-this-july",
+      "source": "The Local Italy",
+      "published_at": "2026-06-18T09:36:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1769,24 +1877,6 @@
       "summary": "Russia's defense ministry said 555 drones were shot down across the country. Sobyanin said 180 were shot down around Moscow alone.",
       "url": "https://www.japantimes.co.jp/news/2026/06/18/world/ukraine-moscow-drone-strike/",
       "source": "Latest articles - The Japan Times",
-      "published_at": "2026-06-18T09:33:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "98ba568bddeeffb6",
-      "title_orig": "Dear Annie: Should I give up my safe accounting job to become a photographer?",
-      "summary_orig": "How do I strike a balance between being practical and pursuing my dreams? Is it possible to have both?",
-      "lang": "en",
-      "title_en": "Dear Annie: Should I give up my safe accounting job to become a photographer?",
-      "summary_en": "How do I strike a balance between being practical and pursuing my dreams? Is it possible to have both?",
-      "title": "Dear Annie: Should I give up my safe accounting job to become a photographer?",
-      "summary": "How do I strike a balance between being practical and pursuing my dreams? Is it possible to have both?",
-      "url": "https://www.pennlive.com/advice/2026/06/dear-annie-should-i-give-up-my-safe-accounting-job-to-become-a-photographer.html",
-      "source": "pennlive.com",
       "published_at": "2026-06-18T09:33:00+00:00",
       "tags": [
         "airport/security"
@@ -2119,24 +2209,6 @@
       "geo": {}
     },
     {
-      "id": "42ee960088877b4d",
-      "title_orig": "10yo's killer had early onset schizophrenia at time of attack, inquest told",
-      "summary_orig": "The inquest into the 2020 death of Biddy Porter hears her killer had developed early onset schizophrenia, which is \"extremely rare\" for a person of their age at the time.",
-      "lang": "en",
-      "title_en": "10yo's killer had early onset schizophrenia at time of attack, inquest told",
-      "summary_en": "The inquest into the 2020 death of Biddy Porter hears her killer had developed early onset schizophrenia, which is \"extremely rare\" for a person of their age at the time.",
-      "title": "10yo's killer had early onset schizophrenia at time of attack, inquest told",
-      "summary": "The inquest into the 2020 death of Biddy Porter hears her killer had developed early onset schizophrenia, which is \"extremely rare\" for a person of their age at the time.",
-      "url": "https://www.abc.net.au/news/2026-06-18/biddy-porter-inquest-killer-early-onset-schizophrenia/106784504",
-      "source": "Just In",
-      "published_at": "2026-06-18T06:04:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b1efd916af90e58b",
       "title_orig": "Leicester City transfer latest - Fatawu interest, Russell Martin reunion, 18-goal striker battle",
       "summary_orig": "Leicester City are being linked with a handful of players in the early days of the transfer window with outgoings also set to play a big part",
@@ -2245,24 +2317,6 @@
       "geo": {}
     },
     {
-      "id": "5747f971422a133c",
-      "title_orig": "Russia-linked arson attacks show bad actors targeting UK, says Starmer",
-      "summary_orig": "Prime minister says country needs to resist those who seek to ‘exploit division’ and ‘destabilise democracy’ The trial of two Russian-linked arsonists who targeted property connected to Keir Starmer shows that the UK is under attack from bad actors who want to “exploit division” and “destabilise our democracy”, the prime minister has said. Roman Lavrynovych, 22, from Ukraine, and Stanislav Carpiuc, 27, from Romania, were found guilty on Monday of conspiring to carry out arson attacks on property linked to the prime minister, and appear to have operated under the instruction of an online handler with links to Russia. Continue reading...",
-      "lang": "en",
-      "title_en": "Russia-linked arson attacks show bad actors targeting UK, says Starmer",
-      "summary_en": "Prime minister says country needs to resist those who seek to ‘exploit division’ and ‘destabilise democracy’ The trial of two Russian-linked arsonists who targeted property connected to Keir Starmer shows that the UK is under attack from bad actors who want to “exploit division” and “destabilise our democracy”, the prime minister has said. Roman Lavrynovych, 22, from Ukraine, and Stanislav Carpiuc, 27, from Romania, were found guilty on Monday of conspiring to carry out arson attacks on property linked to the prime minister, and appear to have operated under the instruction of an online handler with links to Russia. Continue reading...",
-      "title": "Russia-linked arson attacks show bad actors targeting UK, says Starmer",
-      "summary": "Prime minister says country needs to resist those who seek to ‘exploit division’ and ‘destabilise democracy’ The trial of two Russian-linked arsonists who targeted property connected to Keir Starmer shows that the UK is under attack from bad actors who want to “exploit division” and “destabilise our democracy”, the prime minister has said. Roman Lavrynovych, 22, from Ukraine, and Stanislav Carpiuc, 27, from Romania, were found guilty on Monday of conspiring to carry out arson attacks on property linked to the prime minister, and appear to have operated under the instruction of an online handler with links to Russia. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/jun/18/keir-starmer-russian-linked-arson-attack-property-bad-actors",
-      "source": "UK news | The Guardian",
-      "published_at": "2026-06-18T05:00:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "8b16893619309dc0",
       "title_orig": "Cornwall fire service criticised as staff 'unprepared' for terrorist attacks'",
       "summary_orig": "It was found to require improvement in seven out of 10 performance areas",
@@ -2310,24 +2364,6 @@
       "url": "https://www.hindustantimes.com/india-news/its-a-rough-profession-trump-responds-to-question-over-indian-sailors-death-in-us-attack-g7-summit-pm-modi-france-101781756629270.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2026-06-18T04:40:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9f3ae0331783c566",
-      "title_orig": "Rebellion crisis LIVE: Shiv Sena (UBT) workers protest against six rebel MPs in Mumbai's Ghatkopar",
-      "summary_orig": "Rebellion crisis LIVE: The rebel MPs were bribed with  ₹10 crore each after earlier getting  ₹15 crore and were moved from Delhi to a “safe location” in Rajasthan, Sanjay Raut alleged. The MP previously claimed they were offered  ₹50 crore to switch sides. The BJP denied involvement.",
-      "lang": "en",
-      "title_en": "Rebellion crisis LIVE: Shiv Sena (UBT) workers protest against six rebel MPs in Mumbai's Ghatkopar",
-      "summary_en": "Rebellion crisis LIVE: The rebel MPs were bribed with  ₹10 crore each after earlier getting  ₹15 crore and were moved from Delhi to a “safe location” in Rajasthan, Sanjay Raut alleged. The MP previously claimed they were offered  ₹50 crore to switch sides. The BJP denied involvement.",
-      "title": "Rebellion crisis LIVE: Shiv Sena (UBT) workers protest against six rebel MPs in Mumbai's Ghatkopar",
-      "summary": "Rebellion crisis LIVE: The rebel MPs were bribed with  ₹10 crore each after earlier getting  ₹15 crore and were moved from Delhi to a “safe location” in Rajasthan, Sanjay Raut alleged. The MP previously claimed they were offered  ₹50 crore to switch sides. The BJP denied involvement.",
-      "url": "https://www.hindustantimes.com/india-news/shiv-sena-ubt-tmc-rebellion-crisis-live-updates-uddhav-thackeray-mamata-banerjee-samajwadi-party-nda-bjp-lok-sabha-news-101781751582739.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2026-06-18T04:09:22+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2443,42 +2479,6 @@
       "geo": {}
     },
     {
-      "id": "c46650443910d049",
-      "title_orig": "IIT Delhi ranks 118 in QS rankings, up from 123",
-      "summary_orig": "IIT Delhi ranked 118th in QS World University Rankings 2027, the highest for any Indian university, while IIT Bombay fell to 134th.",
-      "lang": "en",
-      "title_en": "IIT Delhi ranks 118 in QS rankings, up from 123",
-      "summary_en": "IIT Delhi ranked 118th in QS World University Rankings 2027, the highest for any Indian university, while IIT Bombay fell to 134th.",
-      "title": "IIT Delhi ranks 118 in QS rankings, up from 123",
-      "summary": "IIT Delhi ranked 118th in QS World University Rankings 2027, the highest for any Indian university, while IIT Bombay fell to 134th.",
-      "url": "https://www.hindustantimes.com/india-news/iitdelhi-ranks-118-in-qs-rankings-up-from-123-101781723901645.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2026-06-18T01:14:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ba473ab85a9f1563",
-      "title_orig": "China mulls space-based control system for high-speed rail. Can it be hacked?",
-      "summary_orig": "On a summer evening in 2011, two high-speed trains hurtling through the Chinese countryside met in a fireball of twisted metal and shattered glass. The Wenzhou disaster, as it came to be known, killed 40 people and injured nearly 200.\nThe official inquiry traced the catastrophe to a lightning strike that had fried a trackside circuit, making one train “invisible” to the control centre, which then wrongly cleared the line for the train behind.\nHowever, could the “brain” of the railway ever be...",
-      "lang": "en",
-      "title_en": "China mulls space-based control system for high-speed rail. Can it be hacked?",
-      "summary_en": "On a summer evening in 2011, two high-speed trains hurtling through the Chinese countryside met in a fireball of twisted metal and shattered glass. The Wenzhou disaster, as it came to be known, killed 40 people and injured nearly 200.\nThe official inquiry traced the catastrophe to a lightning strike that had fried a trackside circuit, making one train “invisible” to the control centre, which then wrongly cleared the line for the train behind.\nHowever, could the “brain” of the railway ever be...",
-      "title": "China mulls space-based control system for high-speed rail. Can it be hacked?",
-      "summary": "On a summer evening in 2011, two high-speed trains hurtling through the Chinese countryside met in a fireball of twisted metal and shattered glass. The Wenzhou disaster, as it came to be known, killed 40 people and injured nearly 200.\nThe official inquiry traced the catastrophe to a lightning strike that had fried a trackside circuit, making one train “invisible” to the control centre, which then wrongly cleared the line for the train behind.\nHowever, could the “brain” of the railway ever be...",
-      "url": "https://www.scmp.com/news/china/science/article/3356721/china-mulls-space-based-control-system-high-speed-rail-can-it-be-hacked?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2026-06-18T01:00:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "eced54b8abe07988",
       "title_orig": "Hollywood treasures from 'Star Wars' to 'The Big Lebowski' head to the auction block",
       "summary_orig": "Heritage Auctions will sell Mark Hamill's \"Empire Strikes Back\" lightsaber, a John Lennon manuscript and more next month.",
@@ -2494,24 +2494,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "4dfe87c980e2cc44",
-      "title_orig": "Trump signs Iran peace plan, claiming deal averts ‘worldwide depression’",
-      "summary_orig": "Details of the 14-point agreement revealed as senior US officials claim ‘major win’ despite significant concessions to Tehran Reaction: Donald Trump’s Iran deal met with anger, relief and incredulity Analysis: Trump’s Iran deal is result of unrealistic ambitions for an untenable war Donald Trump has signed a 14-point agreement with Iran, claiming it delivered a “major win” for the United States – even as it made significant political and financial concessions to Iran to reopen the strait of Hormuz and prevent a “worldwide depression”. In extraordinary remarks on Wednesday, Donald Trump went from threatening Iran with a new wave of attacks to suggesting the country had basic rights to enrich uranium for civilian use, that he would not pressure Tehran to abandon its ballistic missiles programme and the US was “going to have to give back” billions of dollars in frozen Iranian assets. Continue reading...",
-      "lang": "en",
-      "title_en": "Trump signs Iran peace plan, claiming deal averts ‘worldwide depression’",
-      "summary_en": "Details of the 14-point agreement revealed as senior US officials claim ‘major win’ despite significant concessions to Tehran Reaction: Donald Trump’s Iran deal met with anger, relief and incredulity Analysis: Trump’s Iran deal is result of unrealistic ambitions for an untenable war Donald Trump has signed a 14-point agreement with Iran, claiming it delivered a “major win” for the United States – even as it made significant political and financial concessions to Iran to reopen the strait of Hormuz and prevent a “worldwide depression”. In extraordinary remarks on Wednesday, Donald Trump went from threatening Iran with a new wave of attacks to suggesting the country had basic rights to enrich uranium for civilian use, that he would not pressure Tehran to abandon its ballistic missiles programme and the US was “going to have to give back” billions of dollars in frozen Iranian assets. Continue reading...",
-      "title": "Trump signs Iran peace plan, claiming deal averts ‘worldwide depression’",
-      "summary": "Details of the 14-point agreement revealed as senior US officials claim ‘major win’ despite significant concessions to Tehran Reaction: Donald Trump’s Iran deal met with anger, relief and incredulity Analysis: Trump’s Iran deal is result of unrealistic ambitions for an untenable war Donald Trump has signed a 14-point agreement with Iran, claiming it delivered a “major win” for the United States – even as it made significant political and financial concessions to Iran to reopen the strait of Hormuz and prevent a “worldwide depression”. In extraordinary remarks on Wednesday, Donald Trump went from threatening Iran with a new wave of attacks to suggesting the country had basic rights to enrich uranium for civilian use, that he would not pressure Tehran to abandon its ballistic missiles programme and the US was “going to have to give back” billions of dollars in frozen Iranian assets. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal",
-      "source": "World news | The Guardian",
-      "published_at": "2026-06-18T00:36:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -2722,24 +2704,6 @@
       "geo": {}
     },
     {
-      "id": "897c554e7e3518d0",
-      "title_orig": "President Trump says US will help India if attacked under PM Modi’s leadership",
-      "summary_orig": "The two leaders met for the first time in 16 months on margins of the G7 Summit in France in an effort to repair bilateral relations that witnessed strains",
-      "lang": "en",
-      "title_en": "President Trump says US will help India if attacked under PM Modi’s leadership",
-      "summary_en": "The two leaders met for the first time in 16 months on margins of the G7 Summit in France in an effort to repair bilateral relations that witnessed strains",
-      "title": "President Trump says US will help India if attacked under PM Modi’s leadership",
-      "summary": "The two leaders met for the first time in 16 months on margins of the G7 Summit in France in an effort to repair bilateral relations that witnessed strains",
-      "url": "https://www.hindustantimes.com/india-news/president-trump-says-us-will-help-india-if-attacked-under-pm-modi-s-leadership-101781719583751.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2026-06-17T18:07:27+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ab7cea26b49dcb19",
       "title_orig": "Press Release: Emirates launches comprehensive travel insurance",
       "summary_orig": "Emirates has become the first airline in the world to offer Comprehensive Travel Cover, an industry-first travel insurance product that handles it all, including medical cover for conflict-related incidents, backed by airline-managed hotel accommodation and extended-stay support across a range of disruption scenarios. When itineraries include connecting on other airlines or Emirates services are unavailable,... The post Press Release: Emirates launches comprehensive travel insurance appeared first on Runway Girl .",
@@ -2769,24 +2733,6 @@
       "url": "https://runwaygirlnetwork.com/2026/06/jetblue-introduces-new-culinary-partners-for-mint-experience/",
       "source": "Runway Girl",
       "published_at": "2026-06-17T17:00:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "cc40df6ccbd1b6cc",
-      "title_orig": "Air Force releases identities of all victims in fatal B-52 bomber crash",
-      "summary_orig": "The Air Force officially identified all eight crew members who were killed when a B-52 bomber crashed at Edwards Air Force Base in Southern California earlier this week. The aircraft went down around 11:20 a.m. Monday, moments after departing for a routine test mission supporting the Radar Modernization Program. The crew members were identified on [...]",
-      "lang": "en",
-      "title_en": "Air Force releases identities of all victims in fatal B-52 bomber crash",
-      "summary_en": "The Air Force officially identified all eight crew members who were killed when a B-52 bomber crashed at Edwards Air Force Base in Southern California earlier this week. The aircraft went down around 11:20 a.m. Monday, moments after departing for a routine test mission supporting the Radar Modernization Program. The crew members were identified on [...]",
-      "title": "Air Force releases identities of all victims in fatal B-52 bomber crash",
-      "summary": "The Air Force officially identified all eight crew members who were killed when a B-52 bomber crashed at Edwards Air Force Base in Southern California earlier this week. The aircraft went down around 11:20 a.m. Monday, moments after departing for a routine test mission supporting the Radar Modernization Program. The crew members were identified on [...]",
-      "url": "https://ktla.com/news/california/air-force-identities-victimsl-b-52-crash/",
-      "source": "KTLA",
-      "published_at": "2026-06-17T16:55:32+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3039,6 +2985,24 @@
       "url": "https://airlive.net/accident/2026/06/17/a-cessna-680-citation-latitude-has-crashed-while-on-approach-to-laredo-international-airport/",
       "source": "AIRLIVE",
       "published_at": "2026-06-17T05:50:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a1962cb77a63f170",
+      "title_orig": "Today in Spain: A roundup of the latest news on Wednesday",
+      "summary_orig": "Snap election proposal rejected, man in Valencia arrested on suspicion of murdering son's speech therapist, students in Bilbao protest low score in Basque exam and more news from Spain this Wednesday June 17th.",
+      "lang": "en",
+      "title_en": "Today in Spain: A roundup of the latest news on Wednesday",
+      "summary_en": "Snap election proposal rejected, man in Valencia arrested on suspicion of murdering son's speech therapist, students in Bilbao protest low score in Basque exam and more news from Spain this Wednesday June 17th.",
+      "title": "Today in Spain: A roundup of the latest news on Wednesday",
+      "summary": "Snap election proposal rejected, man in Valencia arrested on suspicion of murdering son's speech therapist, students in Bilbao protest low score in Basque exam and more news from Spain this Wednesday June 17th.",
+      "url": "https://www.thelocal.es/20260617/today-in-spain-a-roundup-of-the-latest-news-on-wednesday-87",
+      "source": "The Local Spain",
+      "published_at": "2026-06-17T05:40:26+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3418,24 +3382,6 @@
       "url": "https://runwaygirlnetwork.com/2026/06/etihad-dct-abu-dhabi-launch-complimentary-medical-travel-insurance/",
       "source": "Runway Girl",
       "published_at": "2026-06-12T17:36:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f1daf354274ca81f",
-      "title_orig": "Air Canada glows with enthusiasm as A321XLR enters revenue service",
-      "summary_orig": "Sporting SES-powered 2Ku inflight connectivity, Collins Aerospace-made seats in business and economy class, and Panasonic Avionics’ next-gen Astrova IFE system from nose to tail, Air Canada’s first Airbus A321XLR entered into revenue service on 9 June and will operate its first transatlantic flight between Montréal and Toulouse, France on 15 June. Bearing the aptly named... The post Air Canada glows with enthusiasm as A321XLR enters revenue service appeared first on Runway Girl .",
-      "lang": "en",
-      "title_en": "Air Canada glows with enthusiasm as A321XLR enters revenue service",
-      "summary_en": "Sporting SES-powered 2Ku inflight connectivity, Collins Aerospace-made seats in business and economy class, and Panasonic Avionics’ next-gen Astrova IFE system from nose to tail, Air Canada’s first Airbus A321XLR entered into revenue service on 9 June and will operate its first transatlantic flight between Montréal and Toulouse, France on 15 June. Bearing the aptly named... The post Air Canada glows with enthusiasm as A321XLR enters revenue service appeared first on Runway Girl .",
-      "title": "Air Canada glows with enthusiasm as A321XLR enters revenue service",
-      "summary": "Sporting SES-powered 2Ku inflight connectivity, Collins Aerospace-made seats in business and economy class, and Panasonic Avionics’ next-gen Astrova IFE system from nose to tail, Air Canada’s first Airbus A321XLR entered into revenue service on 9 June and will operate its first transatlantic flight between Montréal and Toulouse, France on 15 June. Bearing the aptly named... The post Air Canada glows with enthusiasm as A321XLR enters revenue service appeared first on Runway Girl .",
-      "url": "https://runwaygirlnetwork.com/2026/06/air-canada-glows-with-enthusiasm-as-a321xlr-enters-revenue-service/",
-      "source": "Runway Girl",
-      "published_at": "2026-06-12T17:12:41+00:00",
       "tags": [
         "airport/security"
       ],
