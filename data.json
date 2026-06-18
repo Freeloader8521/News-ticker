@@ -1,18 +1,297 @@
 {
-  "generated_at": "2026-06-18T21:24:50.501812+00:00",
+  "generated_at": "2026-06-18T23:22:47.958425+00:00",
   "items": [
     {
-      "id": "72a5bb2c3263c1ff",
-      "title_orig": "Evacuation alert lifted for West Kelowna residents following wildfire",
-      "summary_orig": "In an update on Thursday, the Regional District of Central Okanagan said it was quiet on the fire overnight and no major issues were reported.",
+      "id": "576e08a32654f071",
+      "title_orig": "Health officials warn about possible measles exposure at LAX, airport hotel",
+      "summary_orig": "Los Angeles County Department of Public Health officials are warning the public about a possible measles exposure at LAX and two other known locations. The case was confirmed in a traveler who was infectious while traveling through the county and visited the airport, at least one other location and additional healthcare settings. Officials said the [...]",
       "lang": "en",
-      "title_en": "Evacuation alert lifted for West Kelowna residents following wildfire",
-      "summary_en": "In an update on Thursday, the Regional District of Central Okanagan said it was quiet on the fire overnight and no major issues were reported.",
-      "title": "Evacuation alert lifted for West Kelowna residents following wildfire",
-      "summary": "In an update on Thursday, the Regional District of Central Okanagan said it was quiet on the fire overnight and no major issues were reported.",
-      "url": "https://globalnews.ca/news/11912085/evacuation-alert-lifted-west-kelowna-wildfire/",
+      "title_en": "Health officials warn about possible measles exposure at LAX, airport hotel",
+      "summary_en": "Los Angeles County Department of Public Health officials are warning the public about a possible measles exposure at LAX and two other known locations. The case was confirmed in a traveler who was infectious while traveling through the county and visited the airport, at least one other location and additional healthcare settings. Officials said the [...]",
+      "title": "Health officials warn about possible measles exposure at LAX, airport hotel",
+      "summary": "Los Angeles County Department of Public Health officials are warning the public about a possible measles exposure at LAX and two other known locations. The case was confirmed in a traveler who was infectious while traveling through the county and visited the airport, at least one other location and additional healthcare settings. Officials said the [...]",
+      "url": "https://ktla.com/news/local-news/possible-measles-exposure-at-lax/",
+      "source": "KTLA",
+      "published_at": "2026-06-18T23:13:24+00:00",
+      "tags": [
+        "LAX",
+        "United States",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Los Angeles",
+        "city": "Los Angeles",
+        "country": "United States",
+        "iata": "LAX",
+        "lat": 33.9416,
+        "lon": -118.4085
+      }
+    },
+    {
+      "id": "40839832331da553",
+      "title_orig": "Man shot by police along Siletz Highway was suspect in alleged racist attack on fruit stand",
+      "summary_orig": "Lincoln City police confirmed that the man killed in a shootout near the Lower Siletz Water District on Wednesday was Daniel Noonan, the suspect in a bias crime.",
+      "lang": "en",
+      "title_en": "Man shot by police along Siletz Highway was suspect in alleged racist attack on fruit stand",
+      "summary_en": "Lincoln City police confirmed that the man killed in a shootout near the Lower Siletz Water District on Wednesday was Daniel Noonan, the suspect in a bias crime.",
+      "title": "Man shot by police along Siletz Highway was suspect in alleged racist attack on fruit stand",
+      "summary": "Lincoln City police confirmed that the man killed in a shootout near the Lower Siletz Water District on Wednesday was Daniel Noonan, the suspect in a bias crime.",
+      "url": "https://www.kgw.com/article/news/crime/fruit-stand-racist-police-shooting-siletz-highway-daniel-noonan-lincoln-county/283-db25f789-e343-4cbc-a05a-1a8487e83bd1",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-06-18T23:07:10+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "75ad7c632b7c2c4a",
+      "title_orig": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital",
+      "summary_orig": "Ukraine struck a major Moscow oil refinery for a second time in a week, sending plumes of black smoke over the capital in one of its biggest drone attacks since Russia’s full-scale invasion over four years ago, officials said.",
+      "lang": "en",
+      "title_en": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital",
+      "summary_en": "Ukraine struck a major Moscow oil refinery for a second time in a week, sending plumes of black smoke over the capital in one of its biggest drone attacks since Russia’s full-scale invasion over four years ago, officials said.",
+      "title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital",
+      "summary": "Ukraine struck a major Moscow oil refinery for a second time in a week, sending plumes of black smoke over the capital in one of its biggest drone attacks since Russia’s full-scale invasion over four years ago, officials said.",
+      "url": "https://www.stuff.co.nz/world-news/360994972/ukrainian-drones-set-moscow-refinery-ablaze-major-att",
+      "source": "Stuff - /",
+      "published_at": "2026-06-18T22:51:46+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "75eea6c91f674435",
+      "title_orig": "U.S. warns Americans against popular Bahamas beach activity after injuries, death, assault reports",
+      "summary_orig": "The U.S. Embassy in the Bahamas is urging Americans to avoid renting jet skis after multiple injuries, a tourist death and reported sexual assaults linked to operators in Nassau.",
+      "lang": "en",
+      "title_en": "U.S. warns Americans against popular Bahamas beach activity after injuries, death, assault reports",
+      "summary_en": "The U.S. Embassy in the Bahamas is urging Americans to avoid renting jet skis after multiple injuries, a tourist death and reported sexual assaults linked to operators in Nassau.",
+      "title": "U.S. warns Americans against popular Bahamas beach activity after injuries, death, assault reports",
+      "summary": "The U.S. Embassy in the Bahamas is urging Americans to avoid renting jet skis after multiple injuries, a tourist death and reported sexual assaults linked to operators in Nassau.",
+      "url": "https://www.cleveland.com/news/2026/06/us-warns-americans-against-popular-bahamas-beach-activity-after-injuries-death-assault-reports.html",
+      "source": "cleveland.com",
+      "published_at": "2026-06-18T22:47:32+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "28fb6989d218161d",
+      "title_orig": "Mission 2 Fire in Fallbrook: Vehicle blaze prompts evacuations",
+      "summary_orig": "A vehicle fire on Interstate 15 in Fallbrook, San Diego County, spread to nearly 10 acres of brush, leading to temporary evacuations on Thursday afternoon.",
+      "lang": "en",
+      "title_en": "Mission 2 Fire in Fallbrook: Vehicle blaze prompts evacuations",
+      "summary_en": "A vehicle fire on Interstate 15 in Fallbrook, San Diego County, spread to nearly 10 acres of brush, leading to temporary evacuations on Thursday afternoon.",
+      "title": "Mission 2 Fire in Fallbrook: Vehicle blaze prompts evacuations",
+      "summary": "A vehicle fire on Interstate 15 in Fallbrook, San Diego County, spread to nearly 10 acres of brush, leading to temporary evacuations on Thursday afternoon.",
+      "url": "https://fox5sandiego.com/weather/california-wildfires/fallbrook-brush-fire-evacuations/",
+      "source": "FOX 5 San Diego & KUSI News",
+      "published_at": "2026-06-18T22:40:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "452cf8b23f072b97",
+      "title_orig": "‘Nightmare scenario’: Man who broke into Portland home, tried to assault woman holding baby, sentenced",
+      "summary_orig": "Judson Defir, 43, said he was so high on methamphetamine he didn’t remember the attacks.",
+      "lang": "en",
+      "title_en": "‘Nightmare scenario’: Man who broke into Portland home, tried to assault woman holding baby, sentenced",
+      "summary_en": "Judson Defir, 43, said he was so high on methamphetamine he didn’t remember the attacks.",
+      "title": "‘Nightmare scenario’: Man who broke into Portland home, tried to assault woman holding baby, sentenced",
+      "summary": "Judson Defir, 43, said he was so high on methamphetamine he didn’t remember the attacks.",
+      "url": "https://www.oregonlive.com/crime/2026/06/nightmare-scenario-man-who-broke-into-portland-home-tried-to-assault-woman-holding-baby-sentenced.html",
+      "source": "oregonlive.com",
+      "published_at": "2026-06-18T22:36:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8bde787388d7680b",
+      "title_orig": "How Ukraine’s new drone tactics are causing chaos in Russia after largest-ever attack on Moscow",
+      "summary_orig": "Ukrainian officials say more resources have been focused on ‘middle strikes’ on radars and air defences around 180km behind the front lines",
+      "lang": "en",
+      "title_en": "How Ukraine’s new drone tactics are causing chaos in Russia after largest-ever attack on Moscow",
+      "summary_en": "Ukrainian officials say more resources have been focused on ‘middle strikes’ on radars and air defences around 180km behind the front lines",
+      "title": "How Ukraine’s new drone tactics are causing chaos in Russia after largest-ever attack on Moscow",
+      "summary": "Ukrainian officials say more resources have been focused on ‘middle strikes’ on radars and air defences around 180km behind the front lines",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-drones-oil-refineries-brovdi-b2998767.html",
+      "source": "The Independent World",
+      "published_at": "2026-06-18T22:23:22+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f58d5df416d0aee4",
+      "title_orig": "Winnipeg Blue Bombers to add Cal Murphy to Ring of Honour",
+      "summary_orig": "Murphy will be the second head coach added to the Bombers' Ring of Honour during halftime of their game on July 30.",
+      "lang": "en",
+      "title_en": "Winnipeg Blue Bombers to add Cal Murphy to Ring of Honour",
+      "summary_en": "Murphy will be the second head coach added to the Bombers' Ring of Honour during halftime of their game on July 30.",
+      "title": "Winnipeg Blue Bombers to add Cal Murphy to Ring of Honour",
+      "summary": "Murphy will be the second head coach added to the Bombers' Ring of Honour during halftime of their game on July 30.",
+      "url": "https://globalnews.ca/news/11912257/winnipeg-blue-bombers-to-add-cal-murphy-to-ring-of-honour/",
       "source": "globalnews.ca",
-      "published_at": "2026-06-18T21:21:56+00:00",
+      "published_at": "2026-06-18T22:04:23+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8a07ed72b22f9eff",
+      "title_orig": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "summary_orig": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "lang": "en",
+      "title_en": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "summary_en": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-18T21:47:25+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "5d43e4389e154255",
+      "title_orig": "Drone strike on young football team bus could drag Belarus into Russia-Ukraine war",
+      "summary_orig": "'If someone is provoking us and trying to drag us into the war, I think it will end badly for those who are trying to do this.'",
+      "lang": "en",
+      "title_en": "Drone strike on young football team bus could drag Belarus into Russia-Ukraine war",
+      "summary_en": "'If someone is provoking us and trying to drag us into the war, I think it will end badly for those who are trying to do this.'",
+      "title": "Drone strike on young football team bus could drag Belarus into Russia-Ukraine war",
+      "summary": "'If someone is provoking us and trying to drag us into the war, I think it will end badly for those who are trying to do this.'",
+      "url": "https://metro.co.uk/2026/06/18/drone-strike-young-football-team-bus-drag-belarus-russia-ukraine-war-28834415/",
+      "source": "Metro",
+      "published_at": "2026-06-18T21:37:48+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "acc85eb75bb1623e",
+      "title_orig": "Love Island plunged into chaos after bombshell revelation leaves fans fuming",
+      "summary_orig": "Love Island fans admitted they struggled to watch tonight's instalment after a bombshell rocked the villa",
+      "lang": "en",
+      "title_en": "Love Island plunged into chaos after bombshell revelation leaves fans fuming",
+      "summary_en": "Love Island fans admitted they struggled to watch tonight's instalment after a bombshell rocked the villa",
+      "title": "Love Island plunged into chaos after bombshell revelation leaves fans fuming",
+      "summary": "Love Island fans admitted they struggled to watch tonight's instalment after a bombshell rocked the villa",
+      "url": "https://www.bristolpost.co.uk/news/celebs-tv/love-island-plunged-chaos-after-11020707",
+      "source": "Bristol Post - News",
+      "published_at": "2026-06-18T21:32:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "916f9c43c5c2f029",
+      "title_orig": "Vance calls Iran deal a ‘win-win’ as Trump lashes out at ‘fools’ who oppose it",
+      "summary_orig": "Vice-President J.D. Vance went on the offensive on Thursday to defend the “win-win” US-Iran agreement as critics slammed its vague provisions, even as others welcomed the apparent end to an expensive and unpopular war, no matter how potentially flawed the deal might be.\n“We have all the cards,” Vance told reporters at the White House. “Have a little bit of faith in the president of the United States. The idea that he is going to strike a deal that’s been bad for the American people, it’s...",
+      "lang": "en",
+      "title_en": "Vance calls Iran deal a ‘win-win’ as Trump lashes out at ‘fools’ who oppose it",
+      "summary_en": "Vice-President J.D. Vance went on the offensive on Thursday to defend the “win-win” US-Iran agreement as critics slammed its vague provisions, even as others welcomed the apparent end to an expensive and unpopular war, no matter how potentially flawed the deal might be.\n“We have all the cards,” Vance told reporters at the White House. “Have a little bit of faith in the president of the United States. The idea that he is going to strike a deal that’s been bad for the American people, it’s...",
+      "title": "Vance calls Iran deal a ‘win-win’ as Trump lashes out at ‘fools’ who oppose it",
+      "summary": "Vice-President J.D. Vance went on the offensive on Thursday to defend the “win-win” US-Iran agreement as critics slammed its vague provisions, even as others welcomed the apparent end to an expensive and unpopular war, no matter how potentially flawed the deal might be.\n“We have all the cards,” Vance told reporters at the White House. “Have a little bit of faith in the president of the United States. The idea that he is going to strike a deal that’s been bad for the American people, it’s...",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3357623/vance-calls-iran-deal-win-win-trump-lashes-out-fools-who-oppose-it?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2026-06-18T21:27:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d3c9d0086de28bff",
+      "title_orig": "Gunmen Attack a Major Airport in Niger",
+      "summary_orig": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year.",
+      "lang": "en",
+      "title_en": "Gunmen Attack a Major Airport in Niger",
+      "summary_en": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year.",
+      "title": "Gunmen Attack a Major Airport in Niger",
+      "summary": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year.",
+      "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-18T21:15:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1ecb06bb59eedcea",
+      "title_orig": "Myanmar military airstrike kills seven civilians in Rakhine state",
+      "summary_orig": "A Myanmar military airstrike on the Rakhine state town of Kyauktaw killed at least seven civilians.",
+      "lang": "en",
+      "title_en": "Myanmar military airstrike kills seven civilians in Rakhine state",
+      "summary_en": "A Myanmar military airstrike on the Rakhine state town of Kyauktaw killed at least seven civilians.",
+      "title": "Myanmar military airstrike kills seven civilians in Rakhine state",
+      "summary": "A Myanmar military airstrike on the Rakhine state town of Kyauktaw killed at least seven civilians.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-18T21:15:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "401227632f7bd474",
+      "title_orig": "World Cup 2026: Manzambi's brace powers Switzerland past Bosnia",
+      "summary_orig": "Switzerland put on a devastating display at the Sofi Stadium in Los Angeles, overwhelming Bosnia-Herzegovina 4-1 after a stunning second-half turnaround. With Bosnia down to ten men following an 80th-minute red card, substitutes Jovan Manzambi and Ruben Vargas ran riot. Ermin Mahmic's late strike provided only consolation for the Bosnians.",
+      "lang": "en",
+      "title_en": "World Cup 2026: Manzambi's brace powers Switzerland past Bosnia",
+      "summary_en": "Switzerland put on a devastating display at the Sofi Stadium in Los Angeles, overwhelming Bosnia-Herzegovina 4-1 after a stunning second-half turnaround. With Bosnia down to ten men following an 80th-minute red card, substitutes Jovan Manzambi and Ruben Vargas ran riot. Ermin Mahmic's late strike provided only consolation for the Bosnians.",
+      "title": "World Cup 2026: Manzambi's brace powers Switzerland past Bosnia",
+      "summary": "Switzerland put on a devastating display at the Sofi Stadium in Los Angeles, overwhelming Bosnia-Herzegovina 4-1 after a stunning second-half turnaround. With Bosnia down to ten men following an 80th-minute red card, substitutes Jovan Manzambi and Ruben Vargas ran riot. Ermin Mahmic's late strike provided only consolation for the Bosnians.",
+      "url": "https://www.france24.com/en/sport/20260618-world-cup-2026-manzambi-s-brace-powers-switzerland-past-bosnia",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-06-18T21:14:04+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "c7d3160e16ea14b6",
+      "title_orig": "Upstate hospital worker detained by ICE at Syracuse airport on way to World Cup game",
+      "summary_orig": "He's the fourth Upstate hospital worker detained by ICE agents in Syracuse.",
+      "lang": "en",
+      "title_en": "Upstate hospital worker detained by ICE at Syracuse airport on way to World Cup game",
+      "summary_en": "He's the fourth Upstate hospital worker detained by ICE agents in Syracuse.",
+      "title": "Upstate hospital worker detained by ICE at Syracuse airport on way to World Cup game",
+      "summary": "He's the fourth Upstate hospital worker detained by ICE agents in Syracuse.",
+      "url": "https://www.syracuse.com/crime/2026/06/upstate-hospital-worker-detained-by-ice-at-syracuse-airport-on-way-to-world-cup-game.html",
+      "source": "syracuse.com",
+      "published_at": "2026-06-18T21:13:01+00:00",
       "tags": [
         "airport/security"
       ],
@@ -38,22 +317,31 @@
       "geo": {}
     },
     {
-      "id": "d3c9d0086de28bff",
-      "title_orig": "Gunmen Attack a Major Airport in Niger",
-      "summary_orig": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year.",
+      "id": "29c85648d26bed6a",
+      "title_orig": "Body of man found in landing gear of plane at Gatwick Airport",
+      "summary_orig": "It is understood the man had hidden himself in the landing gear of the Airbus A320 before take-off from Tangier",
       "lang": "en",
-      "title_en": "Gunmen Attack a Major Airport in Niger",
-      "summary_en": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year.",
-      "title": "Gunmen Attack a Major Airport in Niger",
-      "summary": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year.",
-      "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-18T20:56:55+00:00",
+      "title_en": "Body of man found in landing gear of plane at Gatwick Airport",
+      "summary_en": "It is understood the man had hidden himself in the landing gear of the Airbus A320 before take-off from Tangier",
+      "title": "Body of man found in landing gear of plane at Gatwick Airport",
+      "summary": "It is understood the man had hidden himself in the landing gear of the Airbus A320 before take-off from Tangier",
+      "url": "https://www.standard.co.uk/news/london/body-of-man-found-in-landing-gear-of-plane-at-gatwick-airport-b1286729.html",
+      "source": "The Standard News",
+      "published_at": "2026-06-18T21:03:28+00:00",
       "tags": [
+        "LGW",
+        "United Kingdom",
         "airport/security"
       ],
-      "type": "major news",
-      "geo": {}
+      "type": "local news",
+      "geo": {
+        "airport": "Gatwick",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LGW",
+        "lat": 51.1537,
+        "lon": -0.1821
+      }
     },
     {
       "id": "56fc285547a85111",
@@ -67,24 +355,6 @@
       "url": "https://www.walesonline.co.uk/news/wales-news/man-attacked-neighbour-after-parking-34146545",
       "source": "WalesOnline - Home",
       "published_at": "2026-06-18T20:19:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7b8a5f1a5a572b74",
-      "title_orig": "Halifax airport expands European reach with new direct flight to Brussels",
-      "summary_orig": "Air Canada will now offer direct flights to Brussels out of Halifax Stanfield International Airport. The airport will have direct flights to 15 European destinations this summer.",
-      "lang": "en",
-      "title_en": "Halifax airport expands European reach with new direct flight to Brussels",
-      "summary_en": "Air Canada will now offer direct flights to Brussels out of Halifax Stanfield International Airport. The airport will have direct flights to 15 European destinations this summer.",
-      "title": "Halifax airport expands European reach with new direct flight to Brussels",
-      "summary": "Air Canada will now offer direct flights to Brussels out of Halifax Stanfield International Airport. The airport will have direct flights to 15 European destinations this summer.",
-      "url": "https://globalnews.ca/news/11911983/halifax-airport-europe-brussels/",
-      "source": "globalnews.ca",
-      "published_at": "2026-06-18T20:18:01+00:00",
       "tags": [
         "airport/security"
       ],
@@ -121,24 +391,6 @@
       "url": "https://www.walesonline.co.uk/news/uk-news/how-trio-notorious-prisoners-ganged-34147639",
       "source": "WalesOnline - Home",
       "published_at": "2026-06-18T19:45:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2f851821446f4ffc",
-      "title_orig": "Oil flows through strait but Lebanon strikes raise peace doubts",
-      "summary_orig": "Some 12.5 million barrels of crude oil have sailed through the Strait of Hormuz overnight, US Vice President JD Vance says, but in Lebanon, Israel launched fresh air strikes, raising doubts over peace in the region.",
-      "lang": "en",
-      "title_en": "Oil flows through strait but Lebanon strikes raise peace doubts",
-      "summary_en": "Some 12.5 million barrels of crude oil have sailed through the Strait of Hormuz overnight, US Vice President JD Vance says, but in Lebanon, Israel launched fresh air strikes, raising doubts over peace in the region.",
-      "title": "Oil flows through strait but Lebanon strikes raise peace doubts",
-      "summary": "Some 12.5 million barrels of crude oil have sailed through the Strait of Hormuz overnight, US Vice President JD Vance says, but in Lebanon, Israel launched fresh air strikes, raising doubts over peace in the region.",
-      "url": "https://www.abc.net.au/news/2026-06-19/oil-flows-through-strait-but-lebanon-strikes-raise-peace-doubts/106816852",
-      "source": "Just In",
-      "published_at": "2026-06-18T19:39:04+00:00",
       "tags": [
         "airport/security"
       ],
@@ -246,7 +498,7 @@
       "summary": "The teen had fled from the police during a raid at an apartment building that set off a shootout, which left an officer dead and another suspect injured.",
       "url": "https://www.nytimes.com/2026/06/18/world/canada/toronto-police-shooting-suspect-arrest.html",
       "source": "NYT > World News",
-      "published_at": "2026-06-18T18:36:06+00:00",
+      "published_at": "2026-06-18T18:36:07+00:00",
       "tags": [
         "airport/security",
         "diplomatic"
@@ -417,24 +669,6 @@
       "geo": {}
     },
     {
-      "id": "8a07ed72b22f9eff",
-      "title_orig": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "summary_orig": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "lang": "en",
-      "title_en": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "summary_en": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-18T17:28:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5f9b9b010faea260",
       "title_orig": "Officer disgusted as brick attacker freed just days after prison sentence",
       "summary_orig": "PC Conor McIntyre was left with a bloodied face and severely concussed after an unprovoked brick attack in Lancaster, Lancashire",
@@ -468,60 +702,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "50cc99083c6eab2a",
-      "title_orig": "'My husband's hiccups turned out to be terminal cancer'",
-      "summary_orig": "'I remember thinking we still had years ahead of us'",
-      "lang": "en",
-      "title_en": "'My husband's hiccups turned out to be terminal cancer'",
-      "summary_en": "'I remember thinking we still had years ahead of us'",
-      "title": "'My husband's hiccups turned out to be terminal cancer'",
-      "summary": "'I remember thinking we still had years ahead of us'",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/my-husbands-hiccups-turned-out-34145982",
-      "source": "MEN - News",
-      "published_at": "2026-06-18T17:05:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "96492247aaaeb7b1",
-      "title_orig": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
-      "summary_orig": "An Israeli attack on a vehicle in Gaza City has killed at least three Palestinians.",
-      "lang": "en",
-      "title_en": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
-      "summary_en": "An Israeli attack on a vehicle in Gaza City has killed at least three Palestinians.",
-      "title": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
-      "summary": "An Israeli attack on a vehicle in Gaza City has killed at least three Palestinians.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/more-than-1000-killed-in-israel-attacks-on-gaza-since-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-06-18T16:52:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "62bc7d4d62918ac2",
-      "title_orig": "Israel kills at least three Palestinians in Gaza City drone strike",
-      "summary_orig": "Gaza's Health Ministry says at least 1,007 Palestinians have been killed by Israel since the so-called 'ceasefire'.",
-      "lang": "en",
-      "title_en": "Israel kills at least three Palestinians in Gaza City drone strike",
-      "summary_en": "Gaza's Health Ministry says at least 1,007 Palestinians have been killed by Israel since the so-called 'ceasefire'.",
-      "title": "Israel kills at least three Palestinians in Gaza City drone strike",
-      "summary": "Gaza's Health Ministry says at least 1,007 Palestinians have been killed by Israel since the so-called 'ceasefire'.",
-      "url": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-06-18T16:50:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -671,24 +851,6 @@
       "url": "https://www.kgw.com/article/news/nation-world/traveling-juneteenth-tsa-expects-busiest-travel-days-of-year/507-0f4a0790-dd47-4373-9ee2-b874d8e3320e",
       "source": "KGW RSS Feed: news",
       "published_at": "2026-06-18T16:14:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d72aa032ca85a89b",
-      "title_orig": "Royal Ascot 2026: Scandinavia strikes Gold for Aidan O'Brien's century",
-      "summary_orig": "Aidan O'Brien's four-year-old lands the Group One feature to bring up 100 winners at Royal Ascot for his Ballydoyle trainer",
-      "lang": "en",
-      "title_en": "Royal Ascot 2026: Scandinavia strikes Gold for Aidan O'Brien's century",
-      "summary_en": "Aidan O'Brien's four-year-old lands the Group One feature to bring up 100 winners at Royal Ascot for his Ballydoyle trainer",
-      "title": "Royal Ascot 2026: Scandinavia strikes Gold for Aidan O'Brien's century",
-      "summary": "Aidan O'Brien's four-year-old lands the Group One feature to bring up 100 winners at Royal Ascot for his Ballydoyle trainer",
-      "url": "https://www.liverpoolecho.co.uk/sport/other-sport/horse-racing/royal-ascot-2026-scandinavia-strikes-34137521",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-06-18T16:14:07+00:00",
       "tags": [
         "airport/security"
       ],
@@ -931,33 +1093,6 @@
       "geo": {}
     },
     {
-      "id": "ddff3c2ebdaf1196",
-      "title_orig": "Thunderstorm Ground Stop Caused 700+ Flight Delays At Chicago O'Hare",
-      "summary_orig": "A powerful convective weather system moved across the Midwest, forcing the FAA to halt all inbound traffic at Chicago O'Hare International Airport.",
-      "lang": "en",
-      "title_en": "Thunderstorm Ground Stop Caused 700+ Flight Delays At Chicago O'Hare",
-      "summary_en": "A powerful convective weather system moved across the Midwest, forcing the FAA to halt all inbound traffic at Chicago O'Hare International Airport.",
-      "title": "Thunderstorm Ground Stop Caused 700+ Flight Delays At Chicago O'Hare",
-      "summary": "A powerful convective weather system moved across the Midwest, forcing the FAA to halt all inbound traffic at Chicago O'Hare International Airport.",
-      "url": "https://simpleflying.com/thunderstorm-ground-stop-caused-700-flight-delays-at-chicago-ohare/",
-      "source": "Simple Flying",
-      "published_at": "2026-06-18T15:34:50+00:00",
-      "tags": [
-        "ORD",
-        "United States",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "O'Hare",
-        "city": "Chicago",
-        "country": "United States",
-        "iata": "ORD",
-        "lat": 41.9742,
-        "lon": -87.9073
-      }
-    },
-    {
       "id": "419c472e6e96b4bd",
       "title_orig": "Netanyahu's first reaction since US-Iran deal: ‘Israel troops to remain in Lebanon'",
       "summary_orig": "His comments come after Israeli strikes killed three people in Lebanon in two separate incidents.",
@@ -971,24 +1106,6 @@
       "published_at": "2026-06-18T15:34:15+00:00",
       "tags": [
         "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d9e638468809dbaa",
-      "title_orig": "Foreign Office updates Tukey travel advice from today",
-      "summary_orig": "The FCDO has issued warnings regarding regional tensions and conflict",
-      "lang": "en",
-      "title_en": "Foreign Office updates Tukey travel advice from today",
-      "summary_en": "The FCDO has issued warnings regarding regional tensions and conflict",
-      "title": "Foreign Office updates Tukey travel advice from today",
-      "summary": "The FCDO has issued warnings regarding regional tensions and conflict",
-      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/foreign-office-updates-tukey-travel-34146305",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-06-18T15:33:15+00:00",
-      "tags": [
-        "diplomatic"
       ],
       "type": "local news",
       "geo": {}
@@ -1086,24 +1203,6 @@
       "url": "https://www.yorkshireeveningpost.co.uk/news/crime/hmp-wakefield-kyle-bevan-murder-verdict-8748895",
       "source": "Yorkshire Evening Post",
       "published_at": "2026-06-18T15:13:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2db567d93ac13140",
-      "title_orig": "Allegiant Air’s New Top 10 Airports 2026: Major Winners & Losers Revealed [Map]",
-      "summary_orig": "Allegiant’s 2026 network reshuffle boosts Florida while Las Vegas takes the biggest hit.",
-      "lang": "en",
-      "title_en": "Allegiant Air’s New Top 10 Airports 2026: Major Winners & Losers Revealed [Map]",
-      "summary_en": "Allegiant’s 2026 network reshuffle boosts Florida while Las Vegas takes the biggest hit.",
-      "title": "Allegiant Air’s New Top 10 Airports 2026: Major Winners & Losers Revealed [Map]",
-      "summary": "Allegiant’s 2026 network reshuffle boosts Florida while Las Vegas takes the biggest hit.",
-      "url": "https://simpleflying.com/allegiant-airs-top-10-airports-2026/",
-      "source": "Simple Flying",
-      "published_at": "2026-06-18T15:03:52+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1216,24 +1315,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d92a0f26c855c6c1",
-      "title_orig": "Ukraine hits Moscow with ‘large-scale’ attack",
-      "summary_orig": "🔴 🇺🇦 🇷🇺 #Ukraine targeted #Moscow's oil refinery in a wave of drone strikes early on Thursday, with the attack wounding at least 17 people.\n \nIn a post on X, Ukrainian President Volodymyr #Zelensky said #Kyiv also struck targets in #Russia's Rostov region and in the occupied territories of Ukraine.",
-      "lang": "en",
-      "title_en": "Ukraine hits Moscow with ‘large-scale’ attack",
-      "summary_en": "🔴 🇺🇦 🇷🇺 #Ukraine targeted #Moscow's oil refinery in a wave of drone strikes early on Thursday, with the attack wounding at least 17 people.\n \nIn a post on X, Ukrainian President Volodymyr #Zelensky said #Kyiv also struck targets in #Russia's Rostov region and in the occupied territories of Ukraine.",
-      "title": "Ukraine hits Moscow with ‘large-scale’ attack",
-      "summary": "🔴 🇺🇦 🇷🇺 #Ukraine targeted #Moscow's oil refinery in a wave of drone strikes early on Thursday, with the attack wounding at least 17 people.\n \nIn a post on X, Ukrainian President Volodymyr #Zelensky said #Kyiv also struck targets in #Russia's Rostov region and in the occupied territories of Ukraine.",
-      "url": "https://www.france24.com/en/video/20260618-ukraine-hits-moscow-with-large-scale-attack",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-06-18T14:29:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1376,24 +1457,6 @@
       "published_at": "2026-06-18T13:47:11+00:00",
       "tags": [
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6d71ded0c4384a0c",
-      "title_orig": "Zelenskyy warns 'Moscow will burn' as Russian capital comes under attack",
-      "summary_orig": "Scores of drones targeted Moscow overnight in what was Ukraine's largest attack on the Russian capital.",
-      "lang": "en",
-      "title_en": "Zelenskyy warns 'Moscow will burn' as Russian capital comes under attack",
-      "summary_en": "Scores of drones targeted Moscow overnight in what was Ukraine's largest attack on the Russian capital.",
-      "title": "Zelenskyy warns 'Moscow will burn' as Russian capital comes under attack",
-      "summary": "Scores of drones targeted Moscow overnight in what was Ukraine's largest attack on the Russian capital.",
-      "url": "https://www.abc.net.au/news/2026-06-18/zelenskyy-says-moscow-will-burn-if-russian-strikes-continue/106816266",
-      "source": "Just In",
-      "published_at": "2026-06-18T13:24:43+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
@@ -1608,24 +1671,6 @@
       "url": "https://runwaygirlnetwork.com/2026/06/intellian-opens-new-california-manufacturing-campus/",
       "source": "Runway Girl",
       "published_at": "2026-06-18T12:00:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3b0ed1616055a9e3",
-      "title_orig": "Parents of Serbian school shooter sentenced in retrial, report says",
-      "summary_orig": "BELGRADE, June 18 - The parents of a Serbian boy who killed 10 people in a 2023 Belgrade school shooting were convicted at a retrial on Thursday, the prosecutor's office said, with the court jailing the father for 14-1/2 years for failing to secure the handguns used in the attack.",
-      "lang": "en",
-      "title_en": "Parents of Serbian school shooter sentenced in retrial, report says",
-      "summary_en": "BELGRADE, June 18 - The parents of a Serbian boy who killed 10 people in a 2023 Belgrade school shooting were convicted at a retrial on Thursday, the prosecutor's office said, with the court jailing the father for 14-1/2 years for failing to secure the handguns used in the attack.",
-      "title": "Parents of Serbian school shooter sentenced in retrial, report says",
-      "summary": "BELGRADE, June 18 - The parents of a Serbian boy who killed 10 people in a 2023 Belgrade school shooting were convicted at a retrial on Thursday, the prosecutor's office said, with the court jailing the father for 14-1/2 years for failing to secure the handguns used in the attack.",
-      "url": "https://www.straitstimes.com/world/europe/parents-of-serbian-school-shooter-sentenced-in-retrial-report-says",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-18T11:39:35+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2407,24 +2452,6 @@
       "geo": {}
     },
     {
-      "id": "f9f7f8a3485c3849",
-      "title_orig": "Lightning strike caused fire that destroyed Florida marine research lab containing rare Antarctic specimens, investigators say",
-      "summary_orig": "Firefighters used salt water to battle the flames, which ruined most of the advanced equipment inside the facility",
-      "lang": "en",
-      "title_en": "Lightning strike caused fire that destroyed Florida marine research lab containing rare Antarctic specimens, investigators say",
-      "summary_en": "Firefighters used salt water to battle the flames, which ruined most of the advanced equipment inside the facility",
-      "title": "Lightning strike caused fire that destroyed Florida marine research lab containing rare Antarctic specimens, investigators say",
-      "summary": "Firefighters used salt water to battle the flames, which ruined most of the advanced equipment inside the facility",
-      "url": "https://www.independent.co.uk/news/world/americas/florida-marine-research-lab-fire-lightning-b2996992.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-17T22:27:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b0a1d1069a0addd1",
       "title_orig": "KLM A321neo aircraft sustains tail damage during Lisbon landing",
       "summary_orig": "A KLM Royal Dutch Airlines Airbus A321neo was grounded at Lisbon Humberto Delgado Airport (LIS) on Tuesday after suffering a tail strike during its landing sequence. LISBON — The incident occurred on June 16, 2026, involving flight KL1583, a regularly scheduled commercial service from Amsterdam Schiphol Airport (AMS) to Lisbon. According to preliminary flight data […] The post KLM A321neo aircraft sustains tail damage during Lisbon landing appeared first on AIRLIVE .",
@@ -2452,24 +2479,6 @@
       }
     },
     {
-      "id": "2f424ea6cb990a38",
-      "title_orig": "England score four to overwhelm Croatia in wild Dallas showdown",
-      "summary_orig": "Harry Kane netted twice before Jude Bellingham and Marcus Rashford's strikes sunk the Croatians in a thrilling group opener.",
-      "lang": "en",
-      "title_en": "England score four to overwhelm Croatia in wild Dallas showdown",
-      "summary_en": "Harry Kane netted twice before Jude Bellingham and Marcus Rashford's strikes sunk the Croatians in a thrilling group opener.",
-      "title": "England score four to overwhelm Croatia in wild Dallas showdown",
-      "summary": "Harry Kane netted twice before Jude Bellingham and Marcus Rashford's strikes sunk the Croatians in a thrilling group opener.",
-      "url": "https://www.stuff.co.nz/sport/360992894/live-england-v-croatia-fifa-world-cup",
-      "source": "Stuff - /",
-      "published_at": "2026-06-17T22:01:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "19a49757422a2821",
       "title_orig": "Tiny Iridium PNT ASIC could arrive in aero as carry-on equipment",
       "summary_orig": "Against a geopolitical backdrop that has seen an exponential increase in the number of jamming and spoofing incidents involving global navigation satellite systems, there is demand, especially in business aviation, for authenticated, pole-to-pole positioning, navigation, and timing (PNT) data. That’s why Iridium Communications expects its miniature new PNT ASIC will arrive on flight decks initially... The post Tiny Iridium PNT ASIC could arrive in aero as carry-on equipment appeared first on Runway Girl .",
@@ -2481,24 +2490,6 @@
       "url": "https://runwaygirlnetwork.com/2026/06/tiny-iridium-pnt-asic-could-arrive-in-aero-as-carry-on-equipment/",
       "source": "Runway Girl",
       "published_at": "2026-06-17T21:21:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9124317db568b4bc",
-      "title_orig": "Ryanair passengers stranded in Greece after 'border control delays'",
-      "summary_orig": "Ryanair blamed border delays for the disruption, while Athens International Airport said congestion was caused by ‘additional processing requirements’",
-      "lang": "en",
-      "title_en": "Ryanair passengers stranded in Greece after 'border control delays'",
-      "summary_en": "Ryanair blamed border delays for the disruption, while Athens International Airport said congestion was caused by ‘additional processing requirements’",
-      "title": "Ryanair passengers stranded in Greece after 'border control delays'",
-      "summary": "Ryanair blamed border delays for the disruption, while Athens International Airport said congestion was caused by ‘additional processing requirements’",
-      "url": "https://www.standard.co.uk/news/world/ryanair-passengers-greece-border-control-ees-athens-international-airport-b1286551.html",
-      "source": "The Standard News",
-      "published_at": "2026-06-17T20:49:41+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2521,24 +2512,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "0b9e59e235b25a2f",
-      "title_orig": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-      "summary_orig": "The UN Human Rights Office issued a report today warning that attacks against human right defenders have reached record levels, with preliminary data showing some 950 human rights defenders, journalists and trade unionists were killed or forcibly disappeared worldwide in 2025, more than double the number a decade ago.",
-      "lang": "en",
-      "title_en": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-      "summary_en": "The UN Human Rights Office issued a report today warning that attacks against human right defenders have reached record levels, with preliminary data showing some 950 human rights defenders, journalists and trade unionists were killed or forcibly disappeared worldwide in 2025, more than double the number a decade ago.",
-      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-      "summary": "The UN Human Rights Office issued a report today warning that attacks against human right defenders have reached record levels, with preliminary data showing some 950 human rights defenders, journalists and trade unionists were killed or forcibly disappeared worldwide in 2025, more than double the number a decade ago.",
-      "url": "https://press.un.org/en/2026/db260617.doc.htm",
-      "source": "UN Meetings Coverage and Press Releases",
-      "published_at": "2026-06-17T18:56:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
