@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-06-23T11:03:03.326773+00:00",
+  "generated_at": "2026-06-23T13:44:29.633220+00:00",
   "items": [
-    {
-      "id": "5ad49433f24f4933",
-      "title_orig": "Japanese PM Sanai Takaichi’s Guwahati visit cancelled, meetings will be hosted in Delhi",
-      "summary_orig": "Earlier in 2019, the late Japanese PM Shinzo Abe too was expected to visit Assam for a bilateral meeting with PM Modi when the event had to be cancelled because of protests related to the Citizenship Amendment Act",
-      "lang": "en",
-      "title_en": "Japanese PM Sanai Takaichi’s Guwahati visit cancelled, meetings will be hosted in Delhi",
-      "summary_en": "Earlier in 2019, the late Japanese PM Shinzo Abe too was expected to visit Assam for a bilateral meeting with PM Modi when the event had to be cancelled because of protests related to the Citizenship Amendment Act",
-      "title": "Japanese PM Sanai Takaichi’s Guwahati visit cancelled, meetings will be hosted in Delhi",
-      "summary": "Earlier in 2019, the late Japanese PM Shinzo Abe too was expected to visit Assam for a bilateral meeting with PM Modi when the event had to be cancelled because of protests related to the Citizenship Amendment Act",
-      "url": "https://www.thehindu.com/news/national/japanese-pm-sanai-takaichis-guwahati-visit-cancelled-meetings-will-be-hosted-in-delhi/article71137181.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-23T10:58:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
     {
       "id": "87f320bc357774ca",
       "title_orig": "No more baggage claim: Korea, US expand luggage-free transfers to  LA, Seattle",
@@ -30,7 +12,7 @@
       "summary": "People flying from Korea to the United States will soon experience a vastly simplified layover. Starting Tuesday, transit passengers flying from Incheon International Airport to Los Angeles and Seattle will no longer have to collect and recheck their bags during transfers, slicing at least 20 minutes off connection times. The Ministry of Land, Infrastructure and Transport said Monday it is expanding its International Remote Baggage Screening (IRBS) program to Los Angeles International Airport and Seattle-Tacoma International Airport. The initiative, built on an aviation security partnership with the U.S. Department of Homeland Security, allows for a seamless, \"luggage-free\" transfer to connecting domestic flights. Under the current system, travelers transferring through Los Angeles or Seattle face a logistical hurdle: They must clear immigration, go to the baggage carousel to claim their checked bags, pass through customs, and then drag their luggage to another check-in counter to re-verify it for their next flight — a process that typically takes 90 minutes. The remote screening progr",
       "url": "https://www.koreatimes.co.kr/southkorea/20260623/no-more-baggage-claim-korea-us-expand-luggage-free-transfers-to-la-seattle?utm_source=rss",
       "source": "Korea Times News",
-      "published_at": "2026-06-23T10:57:03+00:00",
+      "published_at": "2026-06-23T13:42:03+00:00",
       "tags": [
         "ICN",
         "South Korea",
@@ -47,17 +29,125 @@
       }
     },
     {
-      "id": "2da03bc2937e4c9b",
-      "title_orig": "Kodagu villagers’ opposition forces spiritual guru Sri M to withdraw proposed meditation retreat",
-      "summary_orig": "Villagers cite ecological, cultural and religious concerns as spiritual guru cancels planned development near a hill after sustained protests",
+      "id": "25b7b74f946c5c80",
+      "title_orig": "Liverpool weather live as train disruption to Manchester Airport",
+      "summary_orig": "Hot and humid weather is expected to continue through the middle of the week",
       "lang": "en",
-      "title_en": "Kodagu villagers’ opposition forces spiritual guru Sri M to withdraw proposed meditation retreat",
-      "summary_en": "Villagers cite ecological, cultural and religious concerns as spiritual guru cancels planned development near a hill after sustained protests",
-      "title": "Kodagu villagers’ opposition forces spiritual guru Sri M to withdraw proposed meditation retreat",
-      "summary": "Villagers cite ecological, cultural and religious concerns as spiritual guru cancels planned development near a hill after sustained protests",
-      "url": "https://www.thehindu.com/news/national/karnataka/kodagu-villagers-opposition-forces-spiritual-guru-sri-m-to-withdraw-proposed-meditation-retreat/article71133745.ece",
+      "title_en": "Liverpool weather live as train disruption to Manchester Airport",
+      "summary_en": "Hot and humid weather is expected to continue through the middle of the week",
+      "title": "Liverpool weather live as train disruption to Manchester Airport",
+      "summary": "Hot and humid weather is expected to continue through the middle of the week",
+      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/travel-chaos-hot-weather-live-34169536",
+      "source": "Liverpool Echo - News",
+      "published_at": "2026-06-23T13:33:05+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "99ecf053a2c1f916",
+      "title_orig": "Train disruption LIVE as line between Manchester Piccadilly and Manchester Airport blocked amid emergency incident",
+      "summary_orig": "Trains are being cancelled or delayed this afternoon",
+      "lang": "en",
+      "title_en": "Train disruption LIVE as line between Manchester Piccadilly and Manchester Airport blocked amid emergency incident",
+      "summary_en": "Trains are being cancelled or delayed this afternoon",
+      "title": "Train disruption LIVE as line between Manchester Piccadilly and Manchester Airport blocked amid emergency incident",
+      "summary": "Trains are being cancelled or delayed this afternoon",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/train-disruption-live-line-between-34172127",
+      "source": "MEN - News",
+      "published_at": "2026-06-23T13:31:15+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
+    },
+    {
+      "id": "891e645f52f3b583",
+      "title_orig": "Hundreds of farmers join ‘Bairamangala Chalo’ rally against Bidadi Township Project",
+      "summary_orig": "The rally marks the first large-scale farmers protest against the project, although local protests are ongoing for over 460 days.",
+      "lang": "en",
+      "title_en": "Hundreds of farmers join ‘Bairamangala Chalo’ rally against Bidadi Township Project",
+      "summary_en": "The rally marks the first large-scale farmers protest against the project, although local protests are ongoing for over 460 days.",
+      "title": "Hundreds of farmers join ‘Bairamangala Chalo’ rally against Bidadi Township Project",
+      "summary": "The rally marks the first large-scale farmers protest against the project, although local protests are ongoing for over 460 days.",
+      "url": "https://www.thehindu.com/news/national/karnataka/bike-rally-by-farmers-opposing-bidadi-township-project-near-bengaluru-in-karnataka/article71131996.ece",
       "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-23T10:54:45+00:00",
+      "published_at": "2026-06-23T13:16:14+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "694284285e286541",
+      "title_orig": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+      "summary_orig": "Foreign Office failed to act on warnings of genocide due to ‘pressure’ from emirates, Yale human rights investigator will tell a parliamentary select committee The British government had received intelligence that Ethiopia appeared to be supporting a genocidal militia in Sudan’s civil war as far back as 2024 but did not go public with the news for fear of upsetting the United Arab Emirates (UAE), a parliamentary committee will hear. In May 2024, officials from the Foreign, Commonwealth and Development Office (FCDO) told Nathaniel Raymond , an American human rights investigator at Yale University, that “significant private pressure” from the UAE meant the UK would not publicly divulge information linking Ethiopia and the emirates to their support for the paramilitary Rapid Support Forces. Continue reading...",
+      "lang": "en",
+      "title_en": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+      "summary_en": "Foreign Office failed to act on warnings of genocide due to ‘pressure’ from emirates, Yale human rights investigator will tell a parliamentary select committee The British government had received intelligence that Ethiopia appeared to be supporting a genocidal militia in Sudan’s civil war as far back as 2024 but did not go public with the news for fear of upsetting the United Arab Emirates (UAE), a parliamentary committee will hear. In May 2024, officials from the Foreign, Commonwealth and Development Office (FCDO) told Nathaniel Raymond , an American human rights investigator at Yale University, that “significant private pressure” from the UAE meant the UK would not publicly divulge information linking Ethiopia and the emirates to their support for the paramilitary Rapid Support Forces. Continue reading...",
+      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+      "summary": "Foreign Office failed to act on warnings of genocide due to ‘pressure’ from emirates, Yale human rights investigator will tell a parliamentary select committee The British government had received intelligence that Ethiopia appeared to be supporting a genocidal militia in Sudan’s civil war as far back as 2024 but did not go public with the news for fear of upsetting the United Arab Emirates (UAE), a parliamentary committee will hear. In May 2024, officials from the Foreign, Commonwealth and Development Office (FCDO) told Nathaniel Raymond , an American human rights investigator at Yale University, that “significant private pressure” from the UAE meant the UK would not publicly divulge information linking Ethiopia and the emirates to their support for the paramilitary Rapid Support Forces. Continue reading...",
+      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
+      "source": "World news | The Guardian",
+      "published_at": "2026-06-23T13:15:28+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "70fb22e951c0ba90",
+      "title_orig": "Kenya orders immediate halt to controversial US-backed Ebola facility",
+      "summary_orig": "The project had sparked court proceedings, public protests and questions about the country's role in responding to an outbreak beyond its borders.",
+      "lang": "en",
+      "title_en": "Kenya orders immediate halt to controversial US-backed Ebola facility",
+      "summary_en": "The project had sparked court proceedings, public protests and questions about the country's role in responding to an outbreak beyond its borders.",
+      "title": "Kenya orders immediate halt to controversial US-backed Ebola facility",
+      "summary": "The project had sparked court proceedings, public protests and questions about the country's role in responding to an outbreak beyond its borders.",
+      "url": "http://www.euronews.com/2026/06/23/kenya-orders-immediate-halt-to-controversial-us-backed-ebola-facility",
+      "source": "News | Euronews RSS",
+      "published_at": "2026-06-23T13:14:40+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "9a480292b914d203",
+      "title_orig": "Bristol Airport storm chaos sparks calls for CEO to resign",
+      "summary_orig": "'It is simply inexplicable that both the primary and back-up ATC systems'",
+      "lang": "en",
+      "title_en": "Bristol Airport storm chaos sparks calls for CEO to resign",
+      "summary_en": "'It is simply inexplicable that both the primary and back-up ATC systems'",
+      "title": "Bristol Airport storm chaos sparks calls for CEO to resign",
+      "summary": "'It is simply inexplicable that both the primary and back-up ATC systems'",
+      "url": "https://www.bristolpost.co.uk/news/bristol-news/bristol-airport-storm-chaos-sparks-11026752",
+      "source": "Bristol Post - News",
+      "published_at": "2026-06-23T13:14:09+00:00",
       "tags": [
         "airport/security"
       ],
@@ -66,21 +156,525 @@
     },
     {
       "id": "3a8f1f92a2d4bb60",
-      "title_orig": "Middle East crisis live: Iranian ambassador warns it will respond to any Israeli attack in Lebanon",
-      "summary_orig": "The Iranian ambassador to the UN in Geneva described Israeli attacks on Lebanon as a red line in negotiations Hezbollah said Tuesday that Israeli soldiers had fired upon a group of civilians in the attack in southern Lebanon that killed two, Reuters reports. On Telegram, Israel Defense Forces said its soldiers had struck “armed terrorists” that posed an immediate threat to Israeli soldiers. Continue reading...",
+      "title_orig": "Middle East crisis live: Trump claims Iran has agreed to nuclear inspections ‘long into future’, accusing Tehran of ‘false statements’",
+      "summary_orig": "US president says Tehran has committed to ‘nuclear honesty’, while Iran’s foreign ministry says there are no plans for IAEA to inspect sites bombed by US and Israel last year Oman and Iran said in a statement that the two countries will ⁠form ⁠a ​team to reach an ⁠agreement on “administration of navigation ⁠in ​the Strait ‌of Hormuz ” ‌and associated ‌costs and services, Reuters reports. The two states will hold ⁠talks with ​coastal countries ​and other ​concerned parties, ​the ‌statement ​said. Continue reading...",
       "lang": "en",
-      "title_en": "Middle East crisis live: Iranian ambassador warns it will respond to any Israeli attack in Lebanon",
-      "summary_en": "The Iranian ambassador to the UN in Geneva described Israeli attacks on Lebanon as a red line in negotiations Hezbollah said Tuesday that Israeli soldiers had fired upon a group of civilians in the attack in southern Lebanon that killed two, Reuters reports. On Telegram, Israel Defense Forces said its soldiers had struck “armed terrorists” that posed an immediate threat to Israeli soldiers. Continue reading...",
-      "title": "Middle East crisis live: Iranian ambassador warns it will respond to any Israeli attack in Lebanon",
-      "summary": "The Iranian ambassador to the UN in Geneva described Israeli attacks on Lebanon as a red line in negotiations Hezbollah said Tuesday that Israeli soldiers had fired upon a group of civilians in the attack in southern Lebanon that killed two, Reuters reports. On Telegram, Israel Defense Forces said its soldiers had struck “armed terrorists” that posed an immediate threat to Israeli soldiers. Continue reading...",
+      "title_en": "Middle East crisis live: Trump claims Iran has agreed to nuclear inspections ‘long into future’, accusing Tehran of ‘false statements’",
+      "summary_en": "US president says Tehran has committed to ‘nuclear honesty’, while Iran’s foreign ministry says there are no plans for IAEA to inspect sites bombed by US and Israel last year Oman and Iran said in a statement that the two countries will ⁠form ⁠a ​team to reach an ⁠agreement on “administration of navigation ⁠in ​the Strait ‌of Hormuz ” ‌and associated ‌costs and services, Reuters reports. The two states will hold ⁠talks with ​coastal countries ​and other ​concerned parties, ​the ‌statement ​said. Continue reading...",
+      "title": "Middle East crisis live: Trump claims Iran has agreed to nuclear inspections ‘long into future’, accusing Tehran of ‘false statements’",
+      "summary": "US president says Tehran has committed to ‘nuclear honesty’, while Iran’s foreign ministry says there are no plans for IAEA to inspect sites bombed by US and Israel last year Oman and Iran said in a statement that the two countries will ⁠form ⁠a ​team to reach an ⁠agreement on “administration of navigation ⁠in ​the Strait ‌of Hormuz ” ‌and associated ‌costs and services, Reuters reports. The two states will hold ⁠talks with ​coastal countries ​and other ​concerned parties, ​the ‌statement ​said. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates",
       "source": "World news | The Guardian",
-      "published_at": "2026-06-23T10:48:42+00:00",
+      "published_at": "2026-06-23T13:10:52+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
       "geo": {}
+    },
+    {
+      "id": "e1b80e1ab737d4d6",
+      "title_orig": "Comedian  explores life beyond the runway in new Edinburgh Fringe show",
+      "summary_orig": "German comedian, content creator and former international model Mario Adrion is making his Edinburgh Festival Fringe debut this summer with his latest solo show, Live A Little .",
+      "lang": "en",
+      "title_en": "Comedian  explores life beyond the runway in new Edinburgh Fringe show",
+      "summary_en": "German comedian, content creator and former international model Mario Adrion is making his Edinburgh Festival Fringe debut this summer with his latest solo show, Live A Little .",
+      "title": "Comedian  explores life beyond the runway in new Edinburgh Fringe show",
+      "summary": "German comedian, content creator and former international model Mario Adrion is making his Edinburgh Festival Fringe debut this summer with his latest solo show, Live A Little .",
+      "url": "https://www.edinburghnews.scotsman.com/your-world/comedian-explores-life-beyond-the-runway-in-new-edinburgh-fringe-show-8756861",
+      "source": "Edinburgh News",
+      "published_at": "2026-06-23T13:08:33+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "22c1faf08144c16f",
+      "title_orig": "Stop pretending EU's new border system is working, says airports chief",
+      "summary_orig": "The head of Europe's airports lobby says concerns over EES are keeping him awake at night and he doesn't know how airports will cope over the summer.",
+      "lang": "en",
+      "title_en": "Stop pretending EU's new border system is working, says airports chief",
+      "summary_en": "The head of Europe's airports lobby says concerns over EES are keeping him awake at night and he doesn't know how airports will cope over the summer.",
+      "title": "Stop pretending EU's new border system is working, says airports chief",
+      "summary": "The head of Europe's airports lobby says concerns over EES are keeping him awake at night and he doesn't know how airports will cope over the summer.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-23T13:01:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "1b24e6e5b2b85e34",
+      "title_orig": "How extreme heat is wreaking havoc on daily life in Germany",
+      "summary_orig": "From water use warnings and airplane evacuations to a spike in swimming accidents, here are some of the ways the on-going heatwave is affecting life around Germany - and how to find a place to cool down if needed.",
+      "lang": "en",
+      "title_en": "How extreme heat is wreaking havoc on daily life in Germany",
+      "summary_en": "From water use warnings and airplane evacuations to a spike in swimming accidents, here are some of the ways the on-going heatwave is affecting life around Germany - and how to find a place to cool down if needed.",
+      "title": "How extreme heat is wreaking havoc on daily life in Germany",
+      "summary": "From water use warnings and airplane evacuations to a spike in swimming accidents, here are some of the ways the on-going heatwave is affecting life around Germany - and how to find a place to cool down if needed.",
+      "url": "https://www.thelocal.de/20260623/how-extreme-heat-is-wreaking-havoc-on-daily-life-in-germany",
+      "source": "The Local Germany",
+      "published_at": "2026-06-23T12:57:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e0183005def7a1aa",
+      "title_orig": "Ryanair boss has called for air traffic control boss to quit after Bristol Airport fiasco",
+      "summary_orig": "Ryanair has called for the resignation of National Air Traffic Services (NATS) chief executive Martin Rolfe after an air traffic control systems failure at Bristol Airport.",
+      "lang": "en",
+      "title_en": "Ryanair boss has called for air traffic control boss to quit after Bristol Airport fiasco",
+      "summary_en": "Ryanair has called for the resignation of National Air Traffic Services (NATS) chief executive Martin Rolfe after an air traffic control systems failure at Bristol Airport.",
+      "title": "Ryanair boss has called for air traffic control boss to quit after Bristol Airport fiasco",
+      "summary": "Ryanair has called for the resignation of National Air Traffic Services (NATS) chief executive Martin Rolfe after an air traffic control systems failure at Bristol Airport.",
+      "url": "https://www.walesonline.co.uk/news/uk-news/ryanair-boss-called-air-traffic-34171975",
+      "source": "WalesOnline - Home",
+      "published_at": "2026-06-23T12:53:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "ea043ec4793a9aa7",
+      "title_orig": "Burglars strike at sub-temple within Gnana Saraswat temple complex in Basar, decamp with silver crown, hundi",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "Burglars strike at sub-temple within Gnana Saraswat temple complex in Basar, decamp with silver crown, hundi",
+      "summary_en": "",
+      "title": "Burglars strike at sub-temple within Gnana Saraswat temple complex in Basar, decamp with silver crown, hundi",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/telangana/burglars-strike-at-sub-temple-within-gnana-saraswat-temple-complex-in-basar-decamp-with-silver-crown-hundi/article71136397.ece",
+      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "published_at": "2026-06-23T12:51:54+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "29d624751f0252a9",
+      "title_orig": "West Lothian teen rushed to hospital in horror 'hammer attack' at bus stop",
+      "summary_orig": "Lucas Milligan was waiting at a bus stop outside of Lidl on Alderstone Road when a man is claimed to have approached him with a hammer shortly after 11pm on Saturday, June 20.",
+      "lang": "en",
+      "title_en": "West Lothian teen rushed to hospital in horror 'hammer attack' at bus stop",
+      "summary_en": "Lucas Milligan was waiting at a bus stop outside of Lidl on Alderstone Road when a man is claimed to have approached him with a hammer shortly after 11pm on Saturday, June 20.",
+      "title": "West Lothian teen rushed to hospital in horror 'hammer attack' at bus stop",
+      "summary": "Lucas Milligan was waiting at a bus stop outside of Lidl on Alderstone Road when a man is claimed to have approached him with a hammer shortly after 11pm on Saturday, June 20.",
+      "url": "https://www.dailyrecord.co.uk/news/local-news/west-lothian-teen-rushed-hospital-37336010",
+      "source": "Daily Record - Home",
+      "published_at": "2026-06-23T12:51:35+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "d0126ba698e4225c",
+      "title_orig": "Israel's 'deliberate targeting' of children part of ongoing Gaza genocide: UN probe",
+      "summary_orig": "Israel is deliberately targeting Palestinian children in what has become a key factor in an ongoing “genocide” in Gaza, United Nations investigators charged on Tuesday, in a report slammed by Israel. The UN Independent International Commission of Inquiry said it had found evidence that “Palestinian children have been deliberately targeted and killed by Israeli security forces”. This, it said, was a key factor in establishing “the genocidal intent of the Israeli authorities and security forces to destroy the larger Palestinian group in Gaza”. The three-member investigative team, which does not speak for the UN itself, first determined in a report last September that Israel had committed “ genocide ” during its assault in Gaza — a finding Israel flatly rejected. In Tuesday’s follow-up report, they said the intense scale and systematic nature of Israeli military operations had continued, resulting in the “unprecedented” death, injury and trauma of Palestinian children. There were “reasonable grounds” to conclude that Israel’s authorities and security forces “have continued to commit the crime of genocide” in Gaza, they said. Israel, which has long been harshly critical of the commission, slammed the report as “defamatory” and a “libellous sham”. It accused the investigators of ignoring “the brutal tactics of Hamas”. Childhood ‘erased’ in Gaza The commission, which was established by the UN Human Rights Council in 2021, examined for its latest report crimes affecting Palestinian children, and how living conditions imposed by Israel in Gaza were “resulting in preventable mortality of children”. “Israeli authorities and security forces have deliberately targeted Palestinian children, resulting in genocide, crimes against humanity and war crimes in the Gaza Strip, and war crimes in the West Bank,” the team said in a statement. The commission said that severe physical and mental injuries, mass trauma, orphanhood, separation, disability, repeated displacements, starvation and the collapse of education and healthcare had “erased childhood” in Gaza and would continue to affect the territory’s children throughout their lives. “By targeting children, Israel is attacking the very capacity of the Palestinian people to exist and to determine their future,” said judge Srinivasan Muralidhar, who chairs the inquiry. “Even after the October 2025 ceasefire, children continue to be killed and seriously injured.” ‘Strategy to destroy’ The report comes days after the UN children’s agency Unicef said at least 265 children had been killed and hundreds more wounded in Gaza since the ceasefire between Israel and Hamas took effect. Unicef said children had been shot, bombed and struck by quadcopters, killed in tents, in schools and while playing football or fishing. The UN inquiry said that during the first two years of the Israeli assault, at least 20,179 children were killed and 44,143 injured “as a direct result of the hostilities in Gaza”. The killing and maiming of Palestinian children “was part of a strategy to destroy the biological continuity and future existence of the Palestinian group in Gaza”, it said. Disability a ‘demographic reality’ By targeting children, the report said, “Israel is eroding the foundational structure of Palestinian society, weakening the demographic vitality”. Israel was responsible for causing a “severe orphan crisis”, while wounded youngsters “face a lifetime of disability” — now “a defining demographic reality” among Gaza’s children, it said. The siege of Gaza “directly undermined reproductive and newborn health”, while the collapse of public health programmes “eroded the conditions necessary for a healthy next generation”. The report listed Israeli divisions, brigades and units that may be responsible for killing children, in specific incidents in Gaza and the West Bank. Besides Gaza, the commission also documented a sharp increase in violence by Israeli settlers against Palestinian children in the West Bank, which Israel has occupied since 1967. The commission urged all UN member states, including Israel, to ensure accountability for crimes committed.",
+      "lang": "en",
+      "title_en": "Israel's 'deliberate targeting' of children part of ongoing Gaza genocide: UN probe",
+      "summary_en": "Israel is deliberately targeting Palestinian children in what has become a key factor in an ongoing “genocide” in Gaza, United Nations investigators charged on Tuesday, in a report slammed by Israel. The UN Independent International Commission of Inquiry said it had found evidence that “Palestinian children have been deliberately targeted and killed by Israeli security forces”. This, it said, was a key factor in establishing “the genocidal intent of the Israeli authorities and security forces to destroy the larger Palestinian group in Gaza”. The three-member investigative team, which does not speak for the UN itself, first determined in a report last September that Israel had committed “ genocide ” during its assault in Gaza — a finding Israel flatly rejected. In Tuesday’s follow-up report, they said the intense scale and systematic nature of Israeli military operations had continued, resulting in the “unprecedented” death, injury and trauma of Palestinian children. There were “reasonable grounds” to conclude that Israel’s authorities and security forces “have continued to commit the crime of genocide” in Gaza, they said. Israel, which has long been harshly critical of the commission, slammed the report as “defamatory” and a “libellous sham”. It accused the investigators of ignoring “the brutal tactics of Hamas”. Childhood ‘erased’ in Gaza The commission, which was established by the UN Human Rights Council in 2021, examined for its latest report crimes affecting Palestinian children, and how living conditions imposed by Israel in Gaza were “resulting in preventable mortality of children”. “Israeli authorities and security forces have deliberately targeted Palestinian children, resulting in genocide, crimes against humanity and war crimes in the Gaza Strip, and war crimes in the West Bank,” the team said in a statement. The commission said that severe physical and mental injuries, mass trauma, orphanhood, separation, disability, repeated displacements, starvation and the collapse of education and healthcare had “erased childhood” in Gaza and would continue to affect the territory’s children throughout their lives. “By targeting children, Israel is attacking the very capacity of the Palestinian people to exist and to determine their future,” said judge Srinivasan Muralidhar, who chairs the inquiry. “Even after the October 2025 ceasefire, children continue to be killed and seriously injured.” ‘Strategy to destroy’ The report comes days after the UN children’s agency Unicef said at least 265 children had been killed and hundreds more wounded in Gaza since the ceasefire between Israel and Hamas took effect. Unicef said children had been shot, bombed and struck by quadcopters, killed in tents, in schools and while playing football or fishing. The UN inquiry said that during the first two years of the Israeli assault, at least 20,179 children were killed and 44,143 injured “as a direct result of the hostilities in Gaza”. The killing and maiming of Palestinian children “was part of a strategy to destroy the biological continuity and future existence of the Palestinian group in Gaza”, it said. Disability a ‘demographic reality’ By targeting children, the report said, “Israel is eroding the foundational structure of Palestinian society, weakening the demographic vitality”. Israel was responsible for causing a “severe orphan crisis”, while wounded youngsters “face a lifetime of disability” — now “a defining demographic reality” among Gaza’s children, it said. The siege of Gaza “directly undermined reproductive and newborn health”, while the collapse of public health programmes “eroded the conditions necessary for a healthy next generation”. The report listed Israeli divisions, brigades and units that may be responsible for killing children, in specific incidents in Gaza and the West Bank. Besides Gaza, the commission also documented a sharp increase in violence by Israeli settlers against Palestinian children in the West Bank, which Israel has occupied since 1967. The commission urged all UN member states, including Israel, to ensure accountability for crimes committed.",
+      "title": "Israel's 'deliberate targeting' of children part of ongoing Gaza genocide: UN probe",
+      "summary": "Israel is deliberately targeting Palestinian children in what has become a key factor in an ongoing “genocide” in Gaza, United Nations investigators charged on Tuesday, in a report slammed by Israel. The UN Independent International Commission of Inquiry said it had found evidence that “Palestinian children have been deliberately targeted and killed by Israeli security forces”. This, it said, was a key factor in establishing “the genocidal intent of the Israeli authorities and security forces to destroy the larger Palestinian group in Gaza”. The three-member investigative team, which does not speak for the UN itself, first determined in a report last September that Israel had committed “ genocide ” during its assault in Gaza — a finding Israel flatly rejected. In Tuesday’s follow-up report, they said the intense scale and systematic nature of Israeli military operations had continued, resulting in the “unprecedented” death, injury and trauma of Palestinian children. There were “reasonable grounds” to conclude that Israel’s authorities and security forces “have continued to commit the crime of genocide” in Gaza, they said. Israel, which has long been harshly critical of the commission, slammed the report as “defamatory” and a “libellous sham”. It accused the investigators of ignoring “the brutal tactics of Hamas”. Childhood ‘erased’ in Gaza The commission, which was established by the UN Human Rights Council in 2021, examined for its latest report crimes affecting Palestinian children, and how living conditions imposed by Israel in Gaza were “resulting in preventable mortality of children”. “Israeli authorities and security forces have deliberately targeted Palestinian children, resulting in genocide, crimes against humanity and war crimes in the Gaza Strip, and war crimes in the West Bank,” the team said in a statement. The commission said that severe physical and mental injuries, mass trauma, orphanhood, separation, disability, repeated displacements, starvation and the collapse of education and healthcare had “erased childhood” in Gaza and would continue to affect the territory’s children throughout their lives. “By targeting children, Israel is attacking the very capacity of the Palestinian people to exist and to determine their future,” said judge Srinivasan Muralidhar, who chairs the inquiry. “Even after the October 2025 ceasefire, children continue to be killed and seriously injured.” ‘Strategy to destroy’ The report comes days after the UN children’s agency Unicef said at least 265 children had been killed and hundreds more wounded in Gaza since the ceasefire between Israel and Hamas took effect. Unicef said children had been shot, bombed and struck by quadcopters, killed in tents, in schools and while playing football or fishing. The UN inquiry said that during the first two years of the Israeli assault, at least 20,179 children were killed and 44,143 injured “as a direct result of the hostilities in Gaza”. The killing and maiming of Palestinian children “was part of a strategy to destroy the biological continuity and future existence of the Palestinian group in Gaza”, it said. Disability a ‘demographic reality’ By targeting children, the report said, “Israel is eroding the foundational structure of Palestinian society, weakening the demographic vitality”. Israel was responsible for causing a “severe orphan crisis”, while wounded youngsters “face a lifetime of disability” — now “a defining demographic reality” among Gaza’s children, it said. The siege of Gaza “directly undermined reproductive and newborn health”, while the collapse of public health programmes “eroded the conditions necessary for a healthy next generation”. The report listed Israeli divisions, brigades and units that may be responsible for killing children, in specific incidents in Gaza and the West Bank. Besides Gaza, the commission also documented a sharp increase in violence by Israeli settlers against Palestinian children in the West Bank, which Israel has occupied since 1967. The commission urged all UN member states, including Israel, to ensure accountability for crimes committed.",
+      "url": "https://www.dawn.com/news/2010272/israels-deliberate-targeting-of-children-part-of-ongoing-gaza-genocide-un-probe",
+      "source": "Dawn - Home",
+      "published_at": "2026-06-23T12:46:37+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "62fd3af21f93e361",
+      "title_orig": "40 drown in France as people seek relief from Europe's heatwave",
+      "summary_orig": "40 people have drowned in France over recent days as they sought to cool down to escape record heat, the prime minister said on Tuesday, ​as a heatwave swept across much of Europe. Britain, Italy, Switzerland and Spain were also sweltering in extreme heat, with record temperatures in some regions disrupting schools and transport ‌networks. Europe is warming at more than twice the global average, according to the World Meteorological Organisation, making such prolonged heat episodes increasingly likely. Children cool off in the Trocadero Fountain next to the Eiffel Tower in Paris as temperatures rise during a heatwave affecting a large part of France, June 22.  — Reuters Heat alert across France Much of France is under severe heat alert and set to experience temperatures around 40 degrees Celsius (104 degrees Fahrenheit) on Tuesday, Meteo France said, with temperatures of up to 43°C expected in some parts of western France. The country has just recorded its hottest afternoon and night since records began in 1947. Fifty-four departments are under red alert in ​what forecasters said was unprecedented. Across France, people have been jumping into canals and rivers to cool off. French Sports Minister Marina Ferrari said she understood the urge to escape the heat ​but warned against swimming in unauthorised or dangerous areas. A person shelters from the sun under an umbrella along the banks of the River Seine in Paris as temperatures rise during a heatwave affecting a large part of France, June 22. — Reuters Speaking ahead of an emergency meeting on the heatwave, French Prime Minister Sebastien Lecornu said: “A sad scourge when ⁠it comes to drownings, as the latest figures just reported to us show 40 deaths since June 18, most of them young people.” On Monday, first responders were unable to resuscitate two children, aged 2 and ​4, who were found unconscious by their mother in the family car outside their home, said a prosecutor in Carpentras, southeast France. Business activity slows In Paris, commuters struggled through sweltering conditions after sleepless nights in apartments ill-equipped ​for heat. Some trains were cancelled, including those between Paris and Brussels. People cross the Place Royale in Nantes as a person uses a hand fan in the shade, to cool off during a heatwave affecting a large part of France, June 22. — Reuters Business leaders said the economy was also taking a hit. “France is running at a slow pace. Businesses, as far as possible, are implementing recommendations to protect their employees,” the head of France’s MEDEF employers group, Patrick Martin, told BFM TV . Head dome Europe’s heatwave is driven by a weather pattern known as an Omega block, because it takes the shape of the Greek letter, with a bulge of hot air in the middle ​and cooler air on either side, allowing temperatures to build day after day. Heatwaves and storms are being intensified by climate change, pushing temperatures higher and causing more rainfall. Meteo France said current conditions were comparable to the ​August 2003 heatwave, which lasted 16 days and led to an estimated 80,000 excess deaths across Europe, according to the EU. It was uncertain how long the current episode would last. People cool off in the Trocadero Fountain next to the Eiffel Tower in Paris as temperatures rise during a heatwave affecting a large part of France, June 22. — Reuters Storms part of volatile weather pattern In Italy, the health ‌ministry issued ⁠its highest level alert for 15 cities and authorities took measures to curtail work in some sectors. Storms are expected later on Tuesday over the Alps and Apennines, bringing heavy rain, gusty winds and hail. Britain is also in the grip of the heat, with the Met Office forecasting temperatures of up to 37°C in southern England on Tuesday — potentially a new June record — before rising further on Wednesday and Thursday. Dozens of schools plan early closures, citing buildings ill-suited to the heat. A woman uses a red umbrella to shade from the sun while walking on a street in Nantes as temperatures rise during a heatwave affecting a large part of France, June 22, 2026. — Reuters Transport networks across Europe came under strain. Britain’s Network Rail warned passengers to travel only if necessary later this week as temperatures approach 39°C, with speed ​restrictions likely to disrupt services. In London, overnight thunderstorms — part ​of the same volatile weather pattern — caused further ⁠disruption, including at Heathrow Airport. Climate shelters Spain’s meteorological agency has issued red alerts across parts of the country, warning of dangerous heat with temperatures expected to reach 44°C. Nighttime has brought little relief, with around 30 monitoring stations still recording temperatures above 25°C early on Tuesday. Madrid has opened climate shelters for vulnerable ​people, including the homeless. The shelters would “provide a climate-controlled environment, offer basic food, allow visitors to take a shower, and give them a chance to ​rest for a while,” said ⁠Juan Carlos Arellano of Madrid’s Samur Social. Dozens of municipalities across northern Spain cancelled traditional bonfires due to wildfire risks, underlining how extreme temperatures are disrupting both cultural traditions and everyday activities. In Belgium, soaring temperatures forced a primary school in Tervuren, near Brussels, to relocate its final exams to a nearby church. In Switzerland, the northeastern canton of St. Gallen restricted water withdrawal from rivers and lakes, saying that surface and groundwater levels were low and ⁠temperatures were high. It’s cooler up north As southern Europe bakes, cooler northern destinations are drawing tourists seeking a “coolcation”. “We were thinking about travelling to Croatia, but we ​came to Sweden because it’s cooler here,” said German tourist Katharina Rexing in Stockholm’s Old Town, on a day when it was 22 °C in the Swedish capital and 30°C in Croatia’s Zagreb.",
+      "lang": "en",
+      "title_en": "40 drown in France as people seek relief from Europe's heatwave",
+      "summary_en": "40 people have drowned in France over recent days as they sought to cool down to escape record heat, the prime minister said on Tuesday, ​as a heatwave swept across much of Europe. Britain, Italy, Switzerland and Spain were also sweltering in extreme heat, with record temperatures in some regions disrupting schools and transport ‌networks. Europe is warming at more than twice the global average, according to the World Meteorological Organisation, making such prolonged heat episodes increasingly likely. Children cool off in the Trocadero Fountain next to the Eiffel Tower in Paris as temperatures rise during a heatwave affecting a large part of France, June 22.  — Reuters Heat alert across France Much of France is under severe heat alert and set to experience temperatures around 40 degrees Celsius (104 degrees Fahrenheit) on Tuesday, Meteo France said, with temperatures of up to 43°C expected in some parts of western France. The country has just recorded its hottest afternoon and night since records began in 1947. Fifty-four departments are under red alert in ​what forecasters said was unprecedented. Across France, people have been jumping into canals and rivers to cool off. French Sports Minister Marina Ferrari said she understood the urge to escape the heat ​but warned against swimming in unauthorised or dangerous areas. A person shelters from the sun under an umbrella along the banks of the River Seine in Paris as temperatures rise during a heatwave affecting a large part of France, June 22. — Reuters Speaking ahead of an emergency meeting on the heatwave, French Prime Minister Sebastien Lecornu said: “A sad scourge when ⁠it comes to drownings, as the latest figures just reported to us show 40 deaths since June 18, most of them young people.” On Monday, first responders were unable to resuscitate two children, aged 2 and ​4, who were found unconscious by their mother in the family car outside their home, said a prosecutor in Carpentras, southeast France. Business activity slows In Paris, commuters struggled through sweltering conditions after sleepless nights in apartments ill-equipped ​for heat. Some trains were cancelled, including those between Paris and Brussels. People cross the Place Royale in Nantes as a person uses a hand fan in the shade, to cool off during a heatwave affecting a large part of France, June 22. — Reuters Business leaders said the economy was also taking a hit. “France is running at a slow pace. Businesses, as far as possible, are implementing recommendations to protect their employees,” the head of France’s MEDEF employers group, Patrick Martin, told BFM TV . Head dome Europe’s heatwave is driven by a weather pattern known as an Omega block, because it takes the shape of the Greek letter, with a bulge of hot air in the middle ​and cooler air on either side, allowing temperatures to build day after day. Heatwaves and storms are being intensified by climate change, pushing temperatures higher and causing more rainfall. Meteo France said current conditions were comparable to the ​August 2003 heatwave, which lasted 16 days and led to an estimated 80,000 excess deaths across Europe, according to the EU. It was uncertain how long the current episode would last. People cool off in the Trocadero Fountain next to the Eiffel Tower in Paris as temperatures rise during a heatwave affecting a large part of France, June 22. — Reuters Storms part of volatile weather pattern In Italy, the health ‌ministry issued ⁠its highest level alert for 15 cities and authorities took measures to curtail work in some sectors. Storms are expected later on Tuesday over the Alps and Apennines, bringing heavy rain, gusty winds and hail. Britain is also in the grip of the heat, with the Met Office forecasting temperatures of up to 37°C in southern England on Tuesday — potentially a new June record — before rising further on Wednesday and Thursday. Dozens of schools plan early closures, citing buildings ill-suited to the heat. A woman uses a red umbrella to shade from the sun while walking on a street in Nantes as temperatures rise during a heatwave affecting a large part of France, June 22, 2026. — Reuters Transport networks across Europe came under strain. Britain’s Network Rail warned passengers to travel only if necessary later this week as temperatures approach 39°C, with speed ​restrictions likely to disrupt services. In London, overnight thunderstorms — part ​of the same volatile weather pattern — caused further ⁠disruption, including at Heathrow Airport. Climate shelters Spain’s meteorological agency has issued red alerts across parts of the country, warning of dangerous heat with temperatures expected to reach 44°C. Nighttime has brought little relief, with around 30 monitoring stations still recording temperatures above 25°C early on Tuesday. Madrid has opened climate shelters for vulnerable ​people, including the homeless. The shelters would “provide a climate-controlled environment, offer basic food, allow visitors to take a shower, and give them a chance to ​rest for a while,” said ⁠Juan Carlos Arellano of Madrid’s Samur Social. Dozens of municipalities across northern Spain cancelled traditional bonfires due to wildfire risks, underlining how extreme temperatures are disrupting both cultural traditions and everyday activities. In Belgium, soaring temperatures forced a primary school in Tervuren, near Brussels, to relocate its final exams to a nearby church. In Switzerland, the northeastern canton of St. Gallen restricted water withdrawal from rivers and lakes, saying that surface and groundwater levels were low and ⁠temperatures were high. It’s cooler up north As southern Europe bakes, cooler northern destinations are drawing tourists seeking a “coolcation”. “We were thinking about travelling to Croatia, but we ​came to Sweden because it’s cooler here,” said German tourist Katharina Rexing in Stockholm’s Old Town, on a day when it was 22 °C in the Swedish capital and 30°C in Croatia’s Zagreb.",
+      "title": "40 drown in France as people seek relief from Europe's heatwave",
+      "summary": "40 people have drowned in France over recent days as they sought to cool down to escape record heat, the prime minister said on Tuesday, ​as a heatwave swept across much of Europe. Britain, Italy, Switzerland and Spain were also sweltering in extreme heat, with record temperatures in some regions disrupting schools and transport ‌networks. Europe is warming at more than twice the global average, according to the World Meteorological Organisation, making such prolonged heat episodes increasingly likely. Children cool off in the Trocadero Fountain next to the Eiffel Tower in Paris as temperatures rise during a heatwave affecting a large part of France, June 22.  — Reuters Heat alert across France Much of France is under severe heat alert and set to experience temperatures around 40 degrees Celsius (104 degrees Fahrenheit) on Tuesday, Meteo France said, with temperatures of up to 43°C expected in some parts of western France. The country has just recorded its hottest afternoon and night since records began in 1947. Fifty-four departments are under red alert in ​what forecasters said was unprecedented. Across France, people have been jumping into canals and rivers to cool off. French Sports Minister Marina Ferrari said she understood the urge to escape the heat ​but warned against swimming in unauthorised or dangerous areas. A person shelters from the sun under an umbrella along the banks of the River Seine in Paris as temperatures rise during a heatwave affecting a large part of France, June 22. — Reuters Speaking ahead of an emergency meeting on the heatwave, French Prime Minister Sebastien Lecornu said: “A sad scourge when ⁠it comes to drownings, as the latest figures just reported to us show 40 deaths since June 18, most of them young people.” On Monday, first responders were unable to resuscitate two children, aged 2 and ​4, who were found unconscious by their mother in the family car outside their home, said a prosecutor in Carpentras, southeast France. Business activity slows In Paris, commuters struggled through sweltering conditions after sleepless nights in apartments ill-equipped ​for heat. Some trains were cancelled, including those between Paris and Brussels. People cross the Place Royale in Nantes as a person uses a hand fan in the shade, to cool off during a heatwave affecting a large part of France, June 22. — Reuters Business leaders said the economy was also taking a hit. “France is running at a slow pace. Businesses, as far as possible, are implementing recommendations to protect their employees,” the head of France’s MEDEF employers group, Patrick Martin, told BFM TV . Head dome Europe’s heatwave is driven by a weather pattern known as an Omega block, because it takes the shape of the Greek letter, with a bulge of hot air in the middle ​and cooler air on either side, allowing temperatures to build day after day. Heatwaves and storms are being intensified by climate change, pushing temperatures higher and causing more rainfall. Meteo France said current conditions were comparable to the ​August 2003 heatwave, which lasted 16 days and led to an estimated 80,000 excess deaths across Europe, according to the EU. It was uncertain how long the current episode would last. People cool off in the Trocadero Fountain next to the Eiffel Tower in Paris as temperatures rise during a heatwave affecting a large part of France, June 22. — Reuters Storms part of volatile weather pattern In Italy, the health ‌ministry issued ⁠its highest level alert for 15 cities and authorities took measures to curtail work in some sectors. Storms are expected later on Tuesday over the Alps and Apennines, bringing heavy rain, gusty winds and hail. Britain is also in the grip of the heat, with the Met Office forecasting temperatures of up to 37°C in southern England on Tuesday — potentially a new June record — before rising further on Wednesday and Thursday. Dozens of schools plan early closures, citing buildings ill-suited to the heat. A woman uses a red umbrella to shade from the sun while walking on a street in Nantes as temperatures rise during a heatwave affecting a large part of France, June 22, 2026. — Reuters Transport networks across Europe came under strain. Britain’s Network Rail warned passengers to travel only if necessary later this week as temperatures approach 39°C, with speed ​restrictions likely to disrupt services. In London, overnight thunderstorms — part ​of the same volatile weather pattern — caused further ⁠disruption, including at Heathrow Airport. Climate shelters Spain’s meteorological agency has issued red alerts across parts of the country, warning of dangerous heat with temperatures expected to reach 44°C. Nighttime has brought little relief, with around 30 monitoring stations still recording temperatures above 25°C early on Tuesday. Madrid has opened climate shelters for vulnerable ​people, including the homeless. The shelters would “provide a climate-controlled environment, offer basic food, allow visitors to take a shower, and give them a chance to ​rest for a while,” said ⁠Juan Carlos Arellano of Madrid’s Samur Social. Dozens of municipalities across northern Spain cancelled traditional bonfires due to wildfire risks, underlining how extreme temperatures are disrupting both cultural traditions and everyday activities. In Belgium, soaring temperatures forced a primary school in Tervuren, near Brussels, to relocate its final exams to a nearby church. In Switzerland, the northeastern canton of St. Gallen restricted water withdrawal from rivers and lakes, saying that surface and groundwater levels were low and ⁠temperatures were high. It’s cooler up north As southern Europe bakes, cooler northern destinations are drawing tourists seeking a “coolcation”. “We were thinking about travelling to Croatia, but we ​came to Sweden because it’s cooler here,” said German tourist Katharina Rexing in Stockholm’s Old Town, on a day when it was 22 °C in the Swedish capital and 30°C in Croatia’s Zagreb.",
+      "url": "https://www.dawn.com/news/2010275/40-drown-in-france-as-people-seek-relief-from-europes-heatwave",
+      "source": "Dawn - Home",
+      "published_at": "2026-06-23T12:45:12+00:00",
+      "tags": [
+        "LHR",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "lat": 51.47,
+        "lon": -0.4543
+      }
+    },
+    {
+      "id": "71a8da79965e0e83",
+      "title_orig": "AJK govt rules out 'blanket amnesty' for proscribed JAAC leaders",
+      "summary_orig": "MUZAFFARABAD: The Azad Jammu and Kashmir (AJK) government on Tuesday ruled out any blanket amnesty for leaders of the proscribed Joint Awami Action Committee (JAAC), holding them responsible for recent deaths and violence and vowing to pursue legal action against them. The regional administration and the JAAC remain at odds over various issues, most notably the committee’s demand to abolish the 12 seats in the region’s Legislative Assembly that are reserved for refugees from Indian-occupied Jammu and Kashmir who settled in mainland Pakistan after 1947. Addressing a joint press conference alongside Inspector General of Police (IGP) Liaqat Ali Malik, Chief Secretary Khushal Khan said the JAAC leadership had become divided over the ongoing process of negotiations and mediation. “There will be no blanket amnesty,” he said, adding that the leadership of the proscribed organisation would have to face the consequences of the deaths and violence linked to its movement. On Tuesday, a strike called by the JAAC continued in various parts of the region, with Muzaffarabad and Poonch divisions observing a partial strike. Meanwhile, most routine activities had resumed in Mirpur. While some banks across AJK began their operations, connectivity issues persisted as internet services remained suspended. Public transport also remained off the roads in many areas. At the press conference, Khushal said the government had offered the JAAC several constitutional options to pursue its demand regarding the 12 Legislative Assembly seats reserved for refugees from India-held Kashmir, including an all-parties conference, an assembly session and recourse to the courts. He claimed that while the government had kept all channels of dialogue open, the organisation had expanded its demands from two points to 38, and then added further demands. Parliamentary Affairs Minister Tariq Fazal Chaudhry has maintained that 35 out of 38 demands of the JAAC, agreed between it and the government last October, had been fulfilled. During the press conference, the chief secretary said road blockades and violent activities were unacceptable, alleging that highways had been blocked by felling trees and that trucks carrying goods had been stopped and burned in some areas. He also claimed that an attempt had been made in Rawalakot to hijack trucks carrying relief supplies, which were later recovered by law enforcement agencies. Khan said maintaining subsidised flour and electricity rates had imposed a heavy financial burden on the government. According to him, reducing electricity tariffs to Rs2.75 per unit could result in annual losses of Rs8 billion to Rs10bn, while subsidies on flour and electricity had required allocations of Rs20bn to Rs25bn from the resources of the federal and AJK governments. Apparently referring to the considerable number of women and children attending some sit-ins recently, the chief secretary alleged that the JAAC leadership was attempting to use women and children as “human shields”. The official further alleged that overseas activists linked to the JAAC were raising anti-state slogans. “Political blackmail has been buried, and the era of peaceful, civilised and logical dialogue has begun,” he said, adding that the government would continue to take constitutional and legal measures to maintain peace and stability. “Negotiations will never be held at gunpoint.” Speaking on the occasion, IGP Malik alleged that activists of the proscribed JAAC had opened fire on police during a routine checkpoint inspection on June 5, resulting in the death of one activist and injuries to JAAC leader Umar Nazir and two police personnel. He claimed that a post-mortem examination of the deceased driver had indicated that he was shot in the back of the neck, suggesting that the fatal bullet had come from inside the vehicle rather than from security forces. The police chief further alleged that JAAC activists attacked the Rawalakot Combined Military Hospital (CMH), killing three policemen deployed there for security duties and assaulting patients and medical staff. He said LEAs would continue action against those involved in “anti-state” activities and would uphold the writ of the state at all costs. Describing the ongoing protest movement, he contended: “This is not a long march but an organised mobilisation.” The IGP also alleged that women and children were being used as human shields, adding that there were reports of weapons being concealed under burqas. The IGP did not share any additional information supporting the claim. Moreover, the IGP asserted that those who surrendered unconditionally would be treated fairly under the law. AJK PM says JAAC showed ‘zero flexibility’ Meanwhile, AJK Prime Minister Faisal Mumtaz Rathore said reports that the JAAC had approached Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman for mediation vindicated his government’s longstanding insistence on dialogue to resolve the ongoing standoff. In his video message , Fazl said he has accepted JAAC leaders’ invitation asking him to mediate to resolve the “crisis and tense situation” in AJK. However, noting that he had been approached at a time when the JAAC was mulling its future course of action, Fazl said he needed time to convince the government to enter into a dialogue. Fazl, known for his engagement with politicians from across the board, urged the JAAC to postpone its sit-in and not intensify its protest so that a pathway for talks can be carved out. Commenting on the veteran politician’s video, Rathore said the government had from the outset urged JAAC leaders not to abandon negotiations and to return to the table. “Isn’t this what we’ve been asking from them since Day 1?” he wrote in a post on X, asserting that the group had shown “zero flexibility” despite repeated appeals to end its lockdown and agitation campaign. “They ignored us,” the AJK premier said. “Now, after raising slogans against so-called ‘political interference’ in AJK’s affairs, they’ve approached the respected Maulana Fazal-ur-Rehman of JUI, Pakistan, for mediation,” he said. In a post on Monday, Rathore had expressed concern over hardships faced by residents in areas affected by the ongoing standoff and said he had directed relevant officials to provide immediate relief to the public. He alleged that videos circulating online showed miscreants threatening and, in some cases, assaulting traders who chose to keep their businesses open. Rathore stressed that the government had made repeated appeals for “meaningful dialogue”, welcomed third-party mediation efforts and even opened backchannel contacts for negotiations, but claimed that these efforts had failed. Referring to reports that the JAAC had issued another ultimatum to the government and threatened a march on Muzaffarabad, he warned that any attempt to further aggravate the situation would be dealt with “with full force of law”. “I assure you all that days of chaos and unrest will soon be behind us, and I’m confident peace and calm will return to our land for good,” he wrote. On June 9, the day the JAAC was to begin its strike, AJK Prime Minister Faisal Rathore had called for the issue to be resolved through talks. As strikes disrupted routine life in some parts, Rathore said a week ago that the JAAC bore the “ primary responsibility ” for pushing the situation to a point where lives were lost. “If they enjoy public support, they should become part of the system and bring reforms from within,” he said. PPP Chairman Bilawal Bhutto-Zardari, whose party is in power in AJK, has also called for the issue to be resolved in a democratic and peaceful manner. JAAC ban Ahead of the July 27 elections in AJK, the JAAC had called for widespread protests demanding the abolition of 12 seats in the region’s Legislative Assembly reserved for refugees from occupied Kashmir who settled in mainland Pakistan after 1947. Elections for these seats are held separately from the 33 general seats in AJK, with refugees registered in 12 constituencies across Pakistan voting for their representatives. The seats have long been politically sensitive due to disputes over voter lists, delimitation, and constitutional amendments. On June 5, the JAAC was declared a proscribed organisation by the regional government and placed under the First Schedule of the region’s anti-terrorism act (ATA). A day later, AJK authorities launched a crackdown on the JAAC, arresting scores of its leaders and later placing 147 of its activists on the Fourth Schedule of the ATA.",
+      "lang": "en",
+      "title_en": "AJK govt rules out 'blanket amnesty' for proscribed JAAC leaders",
+      "summary_en": "MUZAFFARABAD: The Azad Jammu and Kashmir (AJK) government on Tuesday ruled out any blanket amnesty for leaders of the proscribed Joint Awami Action Committee (JAAC), holding them responsible for recent deaths and violence and vowing to pursue legal action against them. The regional administration and the JAAC remain at odds over various issues, most notably the committee’s demand to abolish the 12 seats in the region’s Legislative Assembly that are reserved for refugees from Indian-occupied Jammu and Kashmir who settled in mainland Pakistan after 1947. Addressing a joint press conference alongside Inspector General of Police (IGP) Liaqat Ali Malik, Chief Secretary Khushal Khan said the JAAC leadership had become divided over the ongoing process of negotiations and mediation. “There will be no blanket amnesty,” he said, adding that the leadership of the proscribed organisation would have to face the consequences of the deaths and violence linked to its movement. On Tuesday, a strike called by the JAAC continued in various parts of the region, with Muzaffarabad and Poonch divisions observing a partial strike. Meanwhile, most routine activities had resumed in Mirpur. While some banks across AJK began their operations, connectivity issues persisted as internet services remained suspended. Public transport also remained off the roads in many areas. At the press conference, Khushal said the government had offered the JAAC several constitutional options to pursue its demand regarding the 12 Legislative Assembly seats reserved for refugees from India-held Kashmir, including an all-parties conference, an assembly session and recourse to the courts. He claimed that while the government had kept all channels of dialogue open, the organisation had expanded its demands from two points to 38, and then added further demands. Parliamentary Affairs Minister Tariq Fazal Chaudhry has maintained that 35 out of 38 demands of the JAAC, agreed between it and the government last October, had been fulfilled. During the press conference, the chief secretary said road blockades and violent activities were unacceptable, alleging that highways had been blocked by felling trees and that trucks carrying goods had been stopped and burned in some areas. He also claimed that an attempt had been made in Rawalakot to hijack trucks carrying relief supplies, which were later recovered by law enforcement agencies. Khan said maintaining subsidised flour and electricity rates had imposed a heavy financial burden on the government. According to him, reducing electricity tariffs to Rs2.75 per unit could result in annual losses of Rs8 billion to Rs10bn, while subsidies on flour and electricity had required allocations of Rs20bn to Rs25bn from the resources of the federal and AJK governments. Apparently referring to the considerable number of women and children attending some sit-ins recently, the chief secretary alleged that the JAAC leadership was attempting to use women and children as “human shields”. The official further alleged that overseas activists linked to the JAAC were raising anti-state slogans. “Political blackmail has been buried, and the era of peaceful, civilised and logical dialogue has begun,” he said, adding that the government would continue to take constitutional and legal measures to maintain peace and stability. “Negotiations will never be held at gunpoint.” Speaking on the occasion, IGP Malik alleged that activists of the proscribed JAAC had opened fire on police during a routine checkpoint inspection on June 5, resulting in the death of one activist and injuries to JAAC leader Umar Nazir and two police personnel. He claimed that a post-mortem examination of the deceased driver had indicated that he was shot in the back of the neck, suggesting that the fatal bullet had come from inside the vehicle rather than from security forces. The police chief further alleged that JAAC activists attacked the Rawalakot Combined Military Hospital (CMH), killing three policemen deployed there for security duties and assaulting patients and medical staff. He said LEAs would continue action against those involved in “anti-state” activities and would uphold the writ of the state at all costs. Describing the ongoing protest movement, he contended: “This is not a long march but an organised mobilisation.” The IGP also alleged that women and children were being used as human shields, adding that there were reports of weapons being concealed under burqas. The IGP did not share any additional information supporting the claim. Moreover, the IGP asserted that those who surrendered unconditionally would be treated fairly under the law. AJK PM says JAAC showed ‘zero flexibility’ Meanwhile, AJK Prime Minister Faisal Mumtaz Rathore said reports that the JAAC had approached Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman for mediation vindicated his government’s longstanding insistence on dialogue to resolve the ongoing standoff. In his video message , Fazl said he has accepted JAAC leaders’ invitation asking him to mediate to resolve the “crisis and tense situation” in AJK. However, noting that he had been approached at a time when the JAAC was mulling its future course of action, Fazl said he needed time to convince the government to enter into a dialogue. Fazl, known for his engagement with politicians from across the board, urged the JAAC to postpone its sit-in and not intensify its protest so that a pathway for talks can be carved out. Commenting on the veteran politician’s video, Rathore said the government had from the outset urged JAAC leaders not to abandon negotiations and to return to the table. “Isn’t this what we’ve been asking from them since Day 1?” he wrote in a post on X, asserting that the group had shown “zero flexibility” despite repeated appeals to end its lockdown and agitation campaign. “They ignored us,” the AJK premier said. “Now, after raising slogans against so-called ‘political interference’ in AJK’s affairs, they’ve approached the respected Maulana Fazal-ur-Rehman of JUI, Pakistan, for mediation,” he said. In a post on Monday, Rathore had expressed concern over hardships faced by residents in areas affected by the ongoing standoff and said he had directed relevant officials to provide immediate relief to the public. He alleged that videos circulating online showed miscreants threatening and, in some cases, assaulting traders who chose to keep their businesses open. Rathore stressed that the government had made repeated appeals for “meaningful dialogue”, welcomed third-party mediation efforts and even opened backchannel contacts for negotiations, but claimed that these efforts had failed. Referring to reports that the JAAC had issued another ultimatum to the government and threatened a march on Muzaffarabad, he warned that any attempt to further aggravate the situation would be dealt with “with full force of law”. “I assure you all that days of chaos and unrest will soon be behind us, and I’m confident peace and calm will return to our land for good,” he wrote. On June 9, the day the JAAC was to begin its strike, AJK Prime Minister Faisal Rathore had called for the issue to be resolved through talks. As strikes disrupted routine life in some parts, Rathore said a week ago that the JAAC bore the “ primary responsibility ” for pushing the situation to a point where lives were lost. “If they enjoy public support, they should become part of the system and bring reforms from within,” he said. PPP Chairman Bilawal Bhutto-Zardari, whose party is in power in AJK, has also called for the issue to be resolved in a democratic and peaceful manner. JAAC ban Ahead of the July 27 elections in AJK, the JAAC had called for widespread protests demanding the abolition of 12 seats in the region’s Legislative Assembly reserved for refugees from occupied Kashmir who settled in mainland Pakistan after 1947. Elections for these seats are held separately from the 33 general seats in AJK, with refugees registered in 12 constituencies across Pakistan voting for their representatives. The seats have long been politically sensitive due to disputes over voter lists, delimitation, and constitutional amendments. On June 5, the JAAC was declared a proscribed organisation by the regional government and placed under the First Schedule of the region’s anti-terrorism act (ATA). A day later, AJK authorities launched a crackdown on the JAAC, arresting scores of its leaders and later placing 147 of its activists on the Fourth Schedule of the ATA.",
+      "title": "AJK govt rules out 'blanket amnesty' for proscribed JAAC leaders",
+      "summary": "MUZAFFARABAD: The Azad Jammu and Kashmir (AJK) government on Tuesday ruled out any blanket amnesty for leaders of the proscribed Joint Awami Action Committee (JAAC), holding them responsible for recent deaths and violence and vowing to pursue legal action against them. The regional administration and the JAAC remain at odds over various issues, most notably the committee’s demand to abolish the 12 seats in the region’s Legislative Assembly that are reserved for refugees from Indian-occupied Jammu and Kashmir who settled in mainland Pakistan after 1947. Addressing a joint press conference alongside Inspector General of Police (IGP) Liaqat Ali Malik, Chief Secretary Khushal Khan said the JAAC leadership had become divided over the ongoing process of negotiations and mediation. “There will be no blanket amnesty,” he said, adding that the leadership of the proscribed organisation would have to face the consequences of the deaths and violence linked to its movement. On Tuesday, a strike called by the JAAC continued in various parts of the region, with Muzaffarabad and Poonch divisions observing a partial strike. Meanwhile, most routine activities had resumed in Mirpur. While some banks across AJK began their operations, connectivity issues persisted as internet services remained suspended. Public transport also remained off the roads in many areas. At the press conference, Khushal said the government had offered the JAAC several constitutional options to pursue its demand regarding the 12 Legislative Assembly seats reserved for refugees from India-held Kashmir, including an all-parties conference, an assembly session and recourse to the courts. He claimed that while the government had kept all channels of dialogue open, the organisation had expanded its demands from two points to 38, and then added further demands. Parliamentary Affairs Minister Tariq Fazal Chaudhry has maintained that 35 out of 38 demands of the JAAC, agreed between it and the government last October, had been fulfilled. During the press conference, the chief secretary said road blockades and violent activities were unacceptable, alleging that highways had been blocked by felling trees and that trucks carrying goods had been stopped and burned in some areas. He also claimed that an attempt had been made in Rawalakot to hijack trucks carrying relief supplies, which were later recovered by law enforcement agencies. Khan said maintaining subsidised flour and electricity rates had imposed a heavy financial burden on the government. According to him, reducing electricity tariffs to Rs2.75 per unit could result in annual losses of Rs8 billion to Rs10bn, while subsidies on flour and electricity had required allocations of Rs20bn to Rs25bn from the resources of the federal and AJK governments. Apparently referring to the considerable number of women and children attending some sit-ins recently, the chief secretary alleged that the JAAC leadership was attempting to use women and children as “human shields”. The official further alleged that overseas activists linked to the JAAC were raising anti-state slogans. “Political blackmail has been buried, and the era of peaceful, civilised and logical dialogue has begun,” he said, adding that the government would continue to take constitutional and legal measures to maintain peace and stability. “Negotiations will never be held at gunpoint.” Speaking on the occasion, IGP Malik alleged that activists of the proscribed JAAC had opened fire on police during a routine checkpoint inspection on June 5, resulting in the death of one activist and injuries to JAAC leader Umar Nazir and two police personnel. He claimed that a post-mortem examination of the deceased driver had indicated that he was shot in the back of the neck, suggesting that the fatal bullet had come from inside the vehicle rather than from security forces. The police chief further alleged that JAAC activists attacked the Rawalakot Combined Military Hospital (CMH), killing three policemen deployed there for security duties and assaulting patients and medical staff. He said LEAs would continue action against those involved in “anti-state” activities and would uphold the writ of the state at all costs. Describing the ongoing protest movement, he contended: “This is not a long march but an organised mobilisation.” The IGP also alleged that women and children were being used as human shields, adding that there were reports of weapons being concealed under burqas. The IGP did not share any additional information supporting the claim. Moreover, the IGP asserted that those who surrendered unconditionally would be treated fairly under the law. AJK PM says JAAC showed ‘zero flexibility’ Meanwhile, AJK Prime Minister Faisal Mumtaz Rathore said reports that the JAAC had approached Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman for mediation vindicated his government’s longstanding insistence on dialogue to resolve the ongoing standoff. In his video message , Fazl said he has accepted JAAC leaders’ invitation asking him to mediate to resolve the “crisis and tense situation” in AJK. However, noting that he had been approached at a time when the JAAC was mulling its future course of action, Fazl said he needed time to convince the government to enter into a dialogue. Fazl, known for his engagement with politicians from across the board, urged the JAAC to postpone its sit-in and not intensify its protest so that a pathway for talks can be carved out. Commenting on the veteran politician’s video, Rathore said the government had from the outset urged JAAC leaders not to abandon negotiations and to return to the table. “Isn’t this what we’ve been asking from them since Day 1?” he wrote in a post on X, asserting that the group had shown “zero flexibility” despite repeated appeals to end its lockdown and agitation campaign. “They ignored us,” the AJK premier said. “Now, after raising slogans against so-called ‘political interference’ in AJK’s affairs, they’ve approached the respected Maulana Fazal-ur-Rehman of JUI, Pakistan, for mediation,” he said. In a post on Monday, Rathore had expressed concern over hardships faced by residents in areas affected by the ongoing standoff and said he had directed relevant officials to provide immediate relief to the public. He alleged that videos circulating online showed miscreants threatening and, in some cases, assaulting traders who chose to keep their businesses open. Rathore stressed that the government had made repeated appeals for “meaningful dialogue”, welcomed third-party mediation efforts and even opened backchannel contacts for negotiations, but claimed that these efforts had failed. Referring to reports that the JAAC had issued another ultimatum to the government and threatened a march on Muzaffarabad, he warned that any attempt to further aggravate the situation would be dealt with “with full force of law”. “I assure you all that days of chaos and unrest will soon be behind us, and I’m confident peace and calm will return to our land for good,” he wrote. On June 9, the day the JAAC was to begin its strike, AJK Prime Minister Faisal Rathore had called for the issue to be resolved through talks. As strikes disrupted routine life in some parts, Rathore said a week ago that the JAAC bore the “ primary responsibility ” for pushing the situation to a point where lives were lost. “If they enjoy public support, they should become part of the system and bring reforms from within,” he said. PPP Chairman Bilawal Bhutto-Zardari, whose party is in power in AJK, has also called for the issue to be resolved in a democratic and peaceful manner. JAAC ban Ahead of the July 27 elections in AJK, the JAAC had called for widespread protests demanding the abolition of 12 seats in the region’s Legislative Assembly reserved for refugees from occupied Kashmir who settled in mainland Pakistan after 1947. Elections for these seats are held separately from the 33 general seats in AJK, with refugees registered in 12 constituencies across Pakistan voting for their representatives. The seats have long been politically sensitive due to disputes over voter lists, delimitation, and constitutional amendments. On June 5, the JAAC was declared a proscribed organisation by the regional government and placed under the First Schedule of the region’s anti-terrorism act (ATA). A day later, AJK authorities launched a crackdown on the JAAC, arresting scores of its leaders and later placing 147 of its activists on the Fourth Schedule of the ATA.",
+      "url": "https://www.dawn.com/news/2010274/ajk-govt-rules-out-blanket-amnesty-for-proscribed-jaac-leaders",
+      "source": "Dawn - Home",
+      "published_at": "2026-06-23T12:43:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "78f3010ba5b4ab95",
+      "title_orig": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
+      "summary_orig": "Lebanese armed group Hezbollah denounced the 'treacherous attack', saying it was a 'blatant' violation of the truce.",
+      "lang": "en",
+      "title_en": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
+      "summary_en": "Lebanese armed group Hezbollah denounced the 'treacherous attack', saying it was a 'blatant' violation of the truce.",
+      "title": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
+      "summary": "Lebanese armed group Hezbollah denounced the 'treacherous attack', saying it was a 'blatant' violation of the truce.",
+      "url": "https://www.aljazeera.com/news/2026/6/23/israeli-fire-kills-two-in-lebanon-as-hezbollah-slams-truce-violation?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-23T12:23:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "9b8017ee6c5bf274",
+      "title_orig": "Dad 'attacked girlfriend in hotel room' before he was found dead hours later",
+      "summary_orig": "The inquest into the death of former St Helens player Ricky Bibey has taken place",
+      "lang": "en",
+      "title_en": "Dad 'attacked girlfriend in hotel room' before he was found dead hours later",
+      "summary_en": "The inquest into the death of former St Helens player Ricky Bibey has taken place",
+      "title": "Dad 'attacked girlfriend in hotel room' before he was found dead hours later",
+      "summary": "The inquest into the death of former St Helens player Ricky Bibey has taken place",
+      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/dad-attacked-girlfriend-hotel-room-34171506",
+      "source": "Liverpool Echo - News",
+      "published_at": "2026-06-23T12:21:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "258641c5f181ecf2",
+      "title_orig": "Leicestershire teacher strike dates confirmed as union brands council ‘rogue employer’",
+      "summary_orig": "The ongoing dispute involves the early years SEND team, which supports children aged up to four",
+      "lang": "en",
+      "title_en": "Leicestershire teacher strike dates confirmed as union brands council ‘rogue employer’",
+      "summary_en": "The ongoing dispute involves the early years SEND team, which supports children aged up to four",
+      "title": "Leicestershire teacher strike dates confirmed as union brands council ‘rogue employer’",
+      "summary": "The ongoing dispute involves the early years SEND team, which supports children aged up to four",
+      "url": "https://www.leicestermercury.co.uk/news/leicester-news/leicestershire-teacher-strike-dates-confirmed-11026762",
+      "source": "Leicestershire Live - frontpage",
+      "published_at": "2026-06-23T12:20:31+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f9d56737f090f88d",
+      "title_orig": "Man accused of Parnell Square attack says victims 'did nothing to deserve what happened'",
+      "summary_orig": "The trial jury has been viewing CCTV footage of Riad Bouchaker’s garda interviews from 20 December 2023.",
+      "lang": "en",
+      "title_en": "Man accused of Parnell Square attack says victims 'did nothing to deserve what happened'",
+      "summary_en": "The trial jury has been viewing CCTV footage of Riad Bouchaker’s garda interviews from 20 December 2023.",
+      "title": "Man accused of Parnell Square attack says victims 'did nothing to deserve what happened'",
+      "summary": "The trial jury has been viewing CCTV footage of Riad Bouchaker’s garda interviews from 20 December 2023.",
+      "url": "https://www.thejournal.ie/riad-bouchaker-court-cctv-garda-interview-7079468-Jun2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-06-23T12:13:58+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8a659ff1f9d38b3e",
+      "title_orig": "Major Celtic striker dilemma dissected as clock ticks down on Martin O'Neill's European examination",
+      "summary_orig": "The Hoops boss has plenty to chew on but there are big questions over who will lead the line next term",
+      "lang": "en",
+      "title_en": "Major Celtic striker dilemma dissected as clock ticks down on Martin O'Neill's European examination",
+      "summary_en": "The Hoops boss has plenty to chew on but there are big questions over who will lead the line next term",
+      "title": "Major Celtic striker dilemma dissected as clock ticks down on Martin O'Neill's European examination",
+      "summary": "The Hoops boss has plenty to chew on but there are big questions over who will lead the line next term",
+      "url": "https://www.dailyrecord.co.uk/sport/football/major-celtic-striker-dilemma-dissected-37335703",
+      "source": "Daily Record - Home",
+      "published_at": "2026-06-23T12:10:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "86d46a3157d16e5c",
+      "title_orig": "World Cup commentator banned by FIFA after on-air attack",
+      "summary_orig": "",
+      "lang": "en",
+      "title_en": "World Cup commentator banned by FIFA after on-air attack",
+      "summary_en": "",
+      "title": "World Cup commentator banned by FIFA after on-air attack",
+      "summary": "",
+      "url": "https://metro.co.uk/2026/06/23/world-cup-commentator-banned-fifa-on-air-attack-28891370/",
+      "source": "Metro",
+      "published_at": "2026-06-23T12:07:05+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "42200a99892c5314",
+      "title_orig": "What is China’s aircraft carrier Liaoning testing – and why does it matter?",
+      "summary_orig": "China’s first aircraft carrier tried new tactics in its latest drill – including working with land-based tanker aircraft and coordinating with an amphibious assault ship – amid a push to strengthen military combat capability.\nThe Liaoning aircraft carrier strike group returned to its home port in Qingdao on Monday after completing more than 40 days of far-sea combat training, according to state broadcaster CCTV.\nDuring the extended deployment, the Liaoning conducted combat exercises at multiple...",
+      "lang": "en",
+      "title_en": "What is China’s aircraft carrier Liaoning testing – and why does it matter?",
+      "summary_en": "China’s first aircraft carrier tried new tactics in its latest drill – including working with land-based tanker aircraft and coordinating with an amphibious assault ship – amid a push to strengthen military combat capability.\nThe Liaoning aircraft carrier strike group returned to its home port in Qingdao on Monday after completing more than 40 days of far-sea combat training, according to state broadcaster CCTV.\nDuring the extended deployment, the Liaoning conducted combat exercises at multiple...",
+      "title": "What is China’s aircraft carrier Liaoning testing – and why does it matter?",
+      "summary": "China’s first aircraft carrier tried new tactics in its latest drill – including working with land-based tanker aircraft and coordinating with an amphibious assault ship – amid a push to strengthen military combat capability.\nThe Liaoning aircraft carrier strike group returned to its home port in Qingdao on Monday after completing more than 40 days of far-sea combat training, according to state broadcaster CCTV.\nDuring the extended deployment, the Liaoning conducted combat exercises at multiple...",
+      "url": "https://www.scmp.com/news/china/military/article/3358058/what-chinas-aircraft-carrier-liaoning-testing-and-why-does-it-matter?utm_source=rss_feed",
+      "source": "News - South China Morning Post",
+      "published_at": "2026-06-23T12:00:08+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "94da67c80fd7d905",
+      "title_orig": "Staff at Welsh firm celebrate big pay rise after threat of industrial action",
+      "summary_orig": "It comes after workers had voted to take strike action",
+      "lang": "en",
+      "title_en": "Staff at Welsh firm celebrate big pay rise after threat of industrial action",
+      "summary_en": "It comes after workers had voted to take strike action",
+      "title": "Staff at Welsh firm celebrate big pay rise after threat of industrial action",
+      "summary": "It comes after workers had voted to take strike action",
+      "url": "https://www.walesonline.co.uk/news/wales-news/staff-welsh-firm-celebrate-big-34164000",
+      "source": "WalesOnline - Home",
+      "published_at": "2026-06-23T11:57:02+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "8f375e6e36ff826f",
+      "title_orig": "Teachers to go on strike at Welsh secondary school",
+      "summary_orig": "Over the next few weeks teachers at the school in Wrexham are expected to walk out multiple times",
+      "lang": "en",
+      "title_en": "Teachers to go on strike at Welsh secondary school",
+      "summary_en": "Over the next few weeks teachers at the school in Wrexham are expected to walk out multiple times",
+      "title": "Teachers to go on strike at Welsh secondary school",
+      "summary": "Over the next few weeks teachers at the school in Wrexham are expected to walk out multiple times",
+      "url": "https://www.walesonline.co.uk/news/wales-news/teachers-go-strike-welsh-secondary-34169777",
+      "source": "WalesOnline - Home",
+      "published_at": "2026-06-23T11:53:59+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0dc8c84b00bdc57a",
+      "title_orig": "Any new fuel protests 'don’t have right to blockade critical infrastructure', Harris says",
+      "summary_orig": "Any new protests would threaten disruption during Ireland’s EU presidency, when it hosts visits by state leaders starting from next week.",
+      "lang": "en",
+      "title_en": "Any new fuel protests 'don’t have right to blockade critical infrastructure', Harris says",
+      "summary_en": "Any new protests would threaten disruption during Ireland’s EU presidency, when it hosts visits by state leaders starting from next week.",
+      "title": "Any new fuel protests 'don’t have right to blockade critical infrastructure', Harris says",
+      "summary": "Any new protests would threaten disruption during Ireland’s EU presidency, when it hosts visits by state leaders starting from next week.",
+      "url": "https://www.thejournal.ie/fuel-protests-simon-harris-7079352-Jun2026/",
+      "source": "TheJournal.ie",
+      "published_at": "2026-06-23T11:44:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b26ba75d06843c54",
+      "title_orig": "Downed US pilot saw Iran drones flying in ‘jellyfish’ formation: ‘Real alien s**t’",
+      "summary_orig": "The pilot was rescued after ejecting but another airman remained stranded for 200 miles behind enemy lines",
+      "lang": "en",
+      "title_en": "Downed US pilot saw Iran drones flying in ‘jellyfish’ formation: ‘Real alien s**t’",
+      "summary_en": "The pilot was rescued after ejecting but another airman remained stranded for 200 miles behind enemy lines",
+      "title": "Downed US pilot saw Iran drones flying in ‘jellyfish’ formation: ‘Real alien s**t’",
+      "summary": "The pilot was rescued after ejecting but another airman remained stranded for 200 miles behind enemy lines",
+      "url": "https://www.independent.co.uk/news/world/middle-east/us-downed-pilot-iran-drones-jellyfish-formation-b3001188.html",
+      "source": "The Independent World",
+      "published_at": "2026-06-23T11:42:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "beaa482704e96b20",
+      "title_orig": "Kenyan minister orders halt to construction of US Ebola facility",
+      "summary_orig": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister has told a court he has ordered a halt to preparations for a US-run Ebola quarantine facility, after being held in contempt for ignoring a previous stop-work order. Many Kenyans strongly oppose the plan and deadly protests have erupted since the facility was announced in May for US citizens evacuated from the Democratic Republic of Congo, which is grappling with a large-scale Ebola outbreak. Continue reading...",
+      "lang": "en",
+      "title_en": "Kenyan minister orders halt to construction of US Ebola facility",
+      "summary_en": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister has told a court he has ordered a halt to preparations for a US-run Ebola quarantine facility, after being held in contempt for ignoring a previous stop-work order. Many Kenyans strongly oppose the plan and deadly protests have erupted since the facility was announced in May for US citizens evacuated from the Democratic Republic of Congo, which is grappling with a large-scale Ebola outbreak. Continue reading...",
+      "title": "Kenyan minister orders halt to construction of US Ebola facility",
+      "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister has told a court he has ordered a halt to preparations for a US-run Ebola quarantine facility, after being held in contempt for ignoring a previous stop-work order. Many Kenyans strongly oppose the plan and deadly protests have erupted since the facility was announced in May for US citizens evacuated from the Democratic Republic of Congo, which is grappling with a large-scale Ebola outbreak. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
+      "source": "World news | The Guardian",
+      "published_at": "2026-06-23T11:35:56+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "542cc87a4d3d5e42",
+      "title_orig": "German word of the day: Hitzekoller",
+      "summary_orig": "It’s hot out there! And when the heat won’t quit, tempers begin to fray. Here’s a German word that perfectly captures that boiling-point moment when your shirt sticks to your back and even the smallest inconvenience feels like a personal attack.",
+      "lang": "en",
+      "title_en": "German word of the day: Hitzekoller",
+      "summary_en": "It’s hot out there! And when the heat won’t quit, tempers begin to fray. Here’s a German word that perfectly captures that boiling-point moment when your shirt sticks to your back and even the smallest inconvenience feels like a personal attack.",
+      "title": "German word of the day: Hitzekoller",
+      "summary": "It’s hot out there! And when the heat won’t quit, tempers begin to fray. Here’s a German word that perfectly captures that boiling-point moment when your shirt sticks to your back and even the smallest inconvenience feels like a personal attack.",
+      "url": "https://www.thelocal.de/20260623/german-word-of-the-day-hitzekoller",
+      "source": "The Local Germany",
+      "published_at": "2026-06-23T11:20:15+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7fbf3fd580a1b259",
+      "title_orig": "Man knocked unconscious during 'serious assault' in Belfast city centre",
+      "summary_orig": "The victim sustained a number of facial fractures in the attack",
+      "lang": "en",
+      "title_en": "Man knocked unconscious during 'serious assault' in Belfast city centre",
+      "summary_en": "The victim sustained a number of facial fractures in the attack",
+      "title": "Man knocked unconscious during 'serious assault' in Belfast city centre",
+      "summary": "The victim sustained a number of facial fractures in the attack",
+      "url": "https://www.belfastlive.co.uk/news/belfast-news/man-knocked-unconscious-during-serious-34171356",
+      "source": "BelfastLive - Home",
+      "published_at": "2026-06-23T11:11:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "05b1fca46772aa0c",
+      "title_orig": "Celtic miss out on striker, Rangers lead race to re-sign star, Hearts eye £10m fee - Scottish transfers",
+      "summary_orig": "Scottish Premiership transfer news and rumours",
+      "lang": "en",
+      "title_en": "Celtic miss out on striker, Rangers lead race to re-sign star, Hearts eye £10m fee - Scottish transfers",
+      "summary_en": "Scottish Premiership transfer news and rumours",
+      "title": "Celtic miss out on striker, Rangers lead race to re-sign star, Hearts eye £10m fee - Scottish transfers",
+      "summary": "Scottish Premiership transfer news and rumours",
+      "url": "https://www.scotsman.com/sport/football/celtic-miss-out-on-striker-rangers-lead-race-to-re-sign-star-hearts-eye-ps10m-fee-scottish-transfers-8756381",
+      "source": "The Scotsman",
+      "published_at": "2026-06-23T11:10:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0142621b9fda516d",
+      "title_orig": "Ukraine-Russia war latest: Kyiv threatens to withdraw ceasefire offer as ‘our patience is not endless’",
+      "summary_orig": "Ukrainian strikes on Russian infrastructure disrupt fuel supplies",
+      "lang": "en",
+      "title_en": "Ukraine-Russia war latest: Kyiv threatens to withdraw ceasefire offer as ‘our patience is not endless’",
+      "summary_en": "Ukrainian strikes on Russian infrastructure disrupt fuel supplies",
+      "title": "Ukraine-Russia war latest: Kyiv threatens to withdraw ceasefire offer as ‘our patience is not endless’",
+      "summary": "Ukrainian strikes on Russian infrastructure disrupt fuel supplies",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-trump-zelensky-ceasefire-news-b3000937.html",
+      "source": "The Independent World",
+      "published_at": "2026-06-23T10:59:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "bbba7890f61b24f7",
+      "title_orig": "Anna Hazare warns of hunger strike from July 5 over Maharashtra RTI rules: Changes, objections explained",
+      "summary_orig": "Anna Hazare has threatened to launch an indefinite hunger strike from July 5 if the Maharashtra government does not withdraw the amendments to the RTI rules.",
+      "lang": "en",
+      "title_en": "Anna Hazare warns of hunger strike from July 5 over Maharashtra RTI rules: Changes, objections explained",
+      "summary_en": "Anna Hazare has threatened to launch an indefinite hunger strike from July 5 if the Maharashtra government does not withdraw the amendments to the RTI rules.",
+      "title": "Anna Hazare warns of hunger strike from July 5 over Maharashtra RTI rules: Changes, objections explained",
+      "summary": "Anna Hazare has threatened to launch an indefinite hunger strike from July 5 if the Maharashtra government does not withdraw the amendments to the RTI rules.",
+      "url": "https://www.hindustantimes.com/india-news/anna-hazare-warns-of-hunger-strike-from-july-5-over-maharashtra-rti-rules-changes-objections-explained-101782210076663.html",
+      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
+      "published_at": "2026-06-23T10:57:51+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "e7bf5a80b608209f",
+      "title_orig": "Full list of Manchester Airport delayed and cancelled flights today, Tuesday, June 23",
+      "summary_orig": "It's important to monitor the status of your flight if you're due to travel",
+      "lang": "en",
+      "title_en": "Full list of Manchester Airport delayed and cancelled flights today, Tuesday, June 23",
+      "summary_en": "It's important to monitor the status of your flight if you're due to travel",
+      "title": "Full list of Manchester Airport delayed and cancelled flights today, Tuesday, June 23",
+      "summary": "It's important to monitor the status of your flight if you're due to travel",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/full-list-manchester-airport-delayed-34170636",
+      "source": "MEN - News",
+      "published_at": "2026-06-23T10:56:00+00:00",
+      "tags": [
+        "MAN",
+        "United Kingdom",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "iata": "MAN",
+        "lat": 53.3652,
+        "lon": -2.2727
+      }
     },
     {
       "id": "7c64e82cdaa55505",
@@ -137,24 +731,6 @@
       "geo": {}
     },
     {
-      "id": "316ffc97f9034821",
-      "title_orig": "Supreme Court stays premature release of Bowbazar blast convict",
-      "summary_orig": "The actions of Rashid Khan amounted to ‘almost a terrorist activity’ and he had played the ‘role of a mastermind’, the Bench orally remarks",
-      "lang": "en",
-      "title_en": "Supreme Court stays premature release of Bowbazar blast convict",
-      "summary_en": "The actions of Rashid Khan amounted to ‘almost a terrorist activity’ and he had played the ‘role of a mastermind’, the Bench orally remarks",
-      "title": "Supreme Court stays premature release of Bowbazar blast convict",
-      "summary": "The actions of Rashid Khan amounted to ‘almost a terrorist activity’ and he had played the ‘role of a mastermind’, the Bench orally remarks",
-      "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-stays-premature-release-of-bowbazar-blast-convict/article71137025.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-23T10:30:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7616ab214d3d07c3",
       "title_orig": "Health warning for anyone taking Benadryl, Clarityn and Piriteze for hay fever",
       "summary_orig": "Using antihistamines to survive the pollen bomb could make beating the heat more difficult",
@@ -188,6 +764,24 @@
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a97c95ced67bd6fb",
+      "title_orig": "2 more suspects arrested in planned attack on Trump’s UFC White House event",
+      "summary_orig": "Authorities said they disrupted plans before the cage fighting show.",
+      "lang": "en",
+      "title_en": "2 more suspects arrested in planned attack on Trump’s UFC White House event",
+      "summary_en": "Authorities said they disrupted plans before the cage fighting show.",
+      "title": "2 more suspects arrested in planned attack on Trump’s UFC White House event",
+      "summary": "Authorities said they disrupted plans before the cage fighting show.",
+      "url": "https://www.pennlive.com/nation-world/2026/06/2-more-suspects-arrested-in-planned-attack-on-trumps-ufc-white-house-event.html",
+      "source": "pennlive.com",
+      "published_at": "2026-06-23T10:24:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -227,24 +821,6 @@
       "geo": {}
     },
     {
-      "id": "35afe21a7ce62024",
-      "title_orig": "Bea cuts off a head in grim EastEnders scenes as her true nature is exposed",
-      "summary_orig": "Bea strikes in her darkest scene yet.",
-      "lang": "en",
-      "title_en": "Bea cuts off a head in grim EastEnders scenes as her true nature is exposed",
-      "summary_en": "Bea strikes in her darkest scene yet.",
-      "title": "Bea cuts off a head in grim EastEnders scenes as her true nature is exposed",
-      "summary": "Bea strikes in her darkest scene yet.",
-      "url": "https://metro.co.uk/2026/06/23/eastenders-bea-cuts-off-a-head-grim-scenes-true-nature-exposed-28889377/",
-      "source": "Metro",
-      "published_at": "2026-06-23T10:15:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4e856bc838f22439",
       "title_orig": "'Flamingo Revolution': Albanian protests swell against Trump-linked resort",
       "summary_orig": "Albanians have been gathering in the streets of Tijana ever day for over three weeks. The so-called 'flamingo revolution' started in reaction to the construction of luxury resorts linked to the Trump family in the south of the country on an island where the protected birds nest. France 24 journalist David Gilberg followed a Franco-Albanian woman named Iris as she protested in her home country this weekend. FRANCE 24 went on the ground and spoke to some of them.",
@@ -260,24 +836,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "de1e65e03eeea254",
-      "title_orig": "Drone video shows shocking aftermath of Widnes fire",
-      "summary_orig": "Firefighters continued to work overnight following a major fire at an industrial estate",
-      "lang": "en",
-      "title_en": "Drone video shows shocking aftermath of Widnes fire",
-      "summary_en": "Firefighters continued to work overnight following a major fire at an industrial estate",
-      "title": "Drone video shows shocking aftermath of Widnes fire",
-      "summary": "Firefighters continued to work overnight following a major fire at an industrial estate",
-      "url": "https://www.liverpoolecho.co.uk/news/local-news/drone-video-shows-shocking-aftermath-34170083",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-06-23T10:05:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -310,42 +868,6 @@
       "url": "https://www.mlive.com/advice/2026/06/miss-manners-private-property-badly-needs-a-fence.html",
       "source": "mlive.com",
       "published_at": "2026-06-23T10:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "a648969ffa432214",
-      "title_orig": "Nicola Sturgeon's lawyer attacks “disgraceful and beyond outrageous” police and Crown Office briefings against her",
-      "summary_orig": "Aamer Anwar hit out after it emerged the police wanted to ask the former First Minister, who was arrested but released without charge, to answer more questions.",
-      "lang": "en",
-      "title_en": "Nicola Sturgeon's lawyer attacks “disgraceful and beyond outrageous” police and Crown Office briefings against her",
-      "summary_en": "Aamer Anwar hit out after it emerged the police wanted to ask the former First Minister, who was arrested but released without charge, to answer more questions.",
-      "title": "Nicola Sturgeon's lawyer attacks “disgraceful and beyond outrageous” police and Crown Office briefings against her",
-      "summary": "Aamer Anwar hit out after it emerged the police wanted to ask the former First Minister, who was arrested but released without charge, to answer more questions.",
-      "url": "https://www.dailyrecord.co.uk/news/politics/nicola-sturgeons-lawyer-attacks-disgraceful-37334725",
-      "source": "Daily Record - Home",
-      "published_at": "2026-06-23T09:59:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7d1db7a18ab32b36",
-      "title_orig": "PU lecturers to protest against amended recruitment rules in Karnataka",
-      "summary_orig": "They pointed out that PU lecturers are recruited to the gazetted Group-B academic cadre, and that deputing them to high schools would undermine the existing cadre structure",
-      "lang": "en",
-      "title_en": "PU lecturers to protest against amended recruitment rules in Karnataka",
-      "summary_en": "They pointed out that PU lecturers are recruited to the gazetted Group-B academic cadre, and that deputing them to high schools would undermine the existing cadre structure",
-      "title": "PU lecturers to protest against amended recruitment rules in Karnataka",
-      "summary": "They pointed out that PU lecturers are recruited to the gazetted Group-B academic cadre, and that deputing them to high schools would undermine the existing cadre structure",
-      "url": "https://www.thehindu.com/news/national/karnataka/pu-lecturers-to-protest-against-amended-recruitment-rules-in-karnataka/article71136920.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-23T09:52:42+00:00",
       "tags": [
         "airport/security"
       ],
@@ -425,42 +947,6 @@
       "geo": {}
     },
     {
-      "id": "ce708aaa27356b95",
-      "title_orig": "Ex-rugby league star Ricky Bibey took cocaine and attacked girlfriend in hotel room horror before being found dead, inquest hears",
-      "summary_orig": "\"It was like his eyes. It was like a demon. His eyes were quite glazed and then it was like a big argument\"",
-      "lang": "en",
-      "title_en": "Ex-rugby league star Ricky Bibey took cocaine and attacked girlfriend in hotel room horror before being found dead, inquest hears",
-      "summary_en": "\"It was like his eyes. It was like a demon. His eyes were quite glazed and then it was like a big argument\"",
-      "title": "Ex-rugby league star Ricky Bibey took cocaine and attacked girlfriend in hotel room horror before being found dead, inquest hears",
-      "summary": "\"It was like his eyes. It was like a demon. His eyes were quite glazed and then it was like a big argument\"",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/ex-rugby-league-star-ricky-34164737",
-      "source": "MEN - News",
-      "published_at": "2026-06-23T09:36:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "01c09e1d121d15eb",
-      "title_orig": "Wayne Rooney turns his back on management with 'biggest regret' Birmingham City comment",
-      "summary_orig": "The former Manchester United striker lasted less than four months in charge of Birmingham City",
-      "lang": "en",
-      "title_en": "Wayne Rooney turns his back on management with 'biggest regret' Birmingham City comment",
-      "summary_en": "The former Manchester United striker lasted less than four months in charge of Birmingham City",
-      "title": "Wayne Rooney turns his back on management with 'biggest regret' Birmingham City comment",
-      "summary": "The former Manchester United striker lasted less than four months in charge of Birmingham City",
-      "url": "https://www.birminghammail.co.uk/sport/football/football-news/wayne-rooney-turns-back-management-34170349",
-      "source": "Birmingham Live - Home",
-      "published_at": "2026-06-23T09:31:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5c24de153b83a770",
       "title_orig": "Spectacular thunderstorms hit London as lightning strikes spark house fires amid flash floods",
       "summary_orig": "Spectacular storms battered London overnight, waking thousands as torrential rain sparked flash floods",
@@ -480,12 +966,12 @@
     },
     {
       "id": "6cadd88f775353cb",
-      "title_orig": "Iran says UN watchdog will not be allowed to inspect bombed nuclear sites",
+      "title_orig": "UN watchdog will not be allowed to inspect bombed nuclear sites, says Iran",
       "summary_orig": "US Vice-President J.D. Vance had earlier said Iran would allow UN nuclear inspectors to return.",
       "lang": "en",
-      "title_en": "Iran says UN watchdog will not be allowed to inspect bombed nuclear sites",
+      "title_en": "UN watchdog will not be allowed to inspect bombed nuclear sites, says Iran",
       "summary_en": "US Vice-President J.D. Vance had earlier said Iran would allow UN nuclear inspectors to return.",
-      "title": "Iran says UN watchdog will not be allowed to inspect bombed nuclear sites",
+      "title": "UN watchdog will not be allowed to inspect bombed nuclear sites, says Iran",
       "summary": "US Vice-President J.D. Vance had earlier said Iran would allow UN nuclear inspectors to return.",
       "url": "https://www.straitstimes.com/world/middle-east/iran-says-un-watchdog-will-not-be-allowed-to-inspect-bombed-nuclear-sites",
       "source": "The Straits Times World News",
@@ -494,42 +980,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0142621b9fda516d",
-      "title_orig": "Ukraine-Russia war latest: Kyiv warns ceasefire offer may expire as ‘our patience is not endless’",
-      "summary_orig": "Ukrainian strikes on Russian infrastructure disrupt fuel supplies",
-      "lang": "en",
-      "title_en": "Ukraine-Russia war latest: Kyiv warns ceasefire offer may expire as ‘our patience is not endless’",
-      "summary_en": "Ukrainian strikes on Russian infrastructure disrupt fuel supplies",
-      "title": "Ukraine-Russia war latest: Kyiv warns ceasefire offer may expire as ‘our patience is not endless’",
-      "summary": "Ukrainian strikes on Russian infrastructure disrupt fuel supplies",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-trump-zelensky-ceasefire-news-b3000937.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-23T09:25:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d586f18b62447042",
-      "title_orig": "Nigel Farage says £5m gift from crypto billionaire is ‘not any of your business’",
-      "summary_orig": "Reform leader says it is ‘purely private matter’ and it is not hypocritical to criticise Keir Starmer for receiving glasses UK politics live – latest updates Nigel Farage has said his £5m gift from a crypto billionaire is “not any of your business”, saying the cash from the British Thai-based businessman Christopher Harborne was “a purely private matter”. The Reform UK leader also said it was not hypocritical of him to attack Keir Starmer for receiving donations of glasses and suits, because Starmer had been “the leader of the opposition and I was a presenter on GB News”. Continue reading...",
-      "lang": "en",
-      "title_en": "Nigel Farage says £5m gift from crypto billionaire is ‘not any of your business’",
-      "summary_en": "Reform leader says it is ‘purely private matter’ and it is not hypocritical to criticise Keir Starmer for receiving glasses UK politics live – latest updates Nigel Farage has said his £5m gift from a crypto billionaire is “not any of your business”, saying the cash from the British Thai-based businessman Christopher Harborne was “a purely private matter”. The Reform UK leader also said it was not hypocritical of him to attack Keir Starmer for receiving donations of glasses and suits, because Starmer had been “the leader of the opposition and I was a presenter on GB News”. Continue reading...",
-      "title": "Nigel Farage says £5m gift from crypto billionaire is ‘not any of your business’",
-      "summary": "Reform leader says it is ‘purely private matter’ and it is not hypocritical to criticise Keir Starmer for receiving glasses UK politics live – latest updates Nigel Farage has said his £5m gift from a crypto billionaire is “not any of your business”, saying the cash from the British Thai-based businessman Christopher Harborne was “a purely private matter”. The Reform UK leader also said it was not hypocritical of him to attack Keir Starmer for receiving donations of glasses and suits, because Starmer had been “the leader of the opposition and I was a presenter on GB News”. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/nigel-farage-5m-gift-crypto-billionaire-not-any-of-your-business",
-      "source": "World news | The Guardian",
-      "published_at": "2026-06-23T09:15:13+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -562,42 +1012,6 @@
       "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3358056/china-targets-us-rare-earth-miners-pentagon-faces-restocking-rush?utm_source=rss_feed",
       "source": "News - South China Morning Post",
       "published_at": "2026-06-23T09:04:55+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "849d934bfb9048b9",
-      "title_orig": "CJP protest in Delhi: Dipke, supporters continue sit-in overnight at Jantar Mantar; urge people to join protest",
-      "summary_orig": "Climate activist Sonam Wangchuk, who joined the protest on June 20, announced that he would go on a hunger strike on June 27 if Union Education Miniser Dharmendra Pradhan did not step down",
-      "lang": "en",
-      "title_en": "CJP protest in Delhi: Dipke, supporters continue sit-in overnight at Jantar Mantar; urge people to join protest",
-      "summary_en": "Climate activist Sonam Wangchuk, who joined the protest on June 20, announced that he would go on a hunger strike on June 27 if Union Education Miniser Dharmendra Pradhan did not step down",
-      "title": "CJP protest in Delhi: Dipke, supporters continue sit-in overnight at Jantar Mantar; urge people to join protest",
-      "summary": "Climate activist Sonam Wangchuk, who joined the protest on June 20, announced that he would go on a hunger strike on June 27 if Union Education Miniser Dharmendra Pradhan did not step down",
-      "url": "https://www.thehindu.com/news/cities/Delhi/cockroach-janata-party-protest-in-delhi-jantar-mantar-day-2-updates-abhijeet-dipke-neet-retest/article71128683.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-23T08:59:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "31d302173b9fe103",
-      "title_orig": "CJP protesters remain at Jantar Mantar for third consecutive day",
-      "summary_orig": "CJP founder Abhijeet Dipke announced that the protest would continue on Monday, June 22, and appealed to farmer unions and members of the public to join the movement.",
-      "lang": "en",
-      "title_en": "CJP protesters remain at Jantar Mantar for third consecutive day",
-      "summary_en": "CJP founder Abhijeet Dipke announced that the protest would continue on Monday, June 22, and appealed to farmer unions and members of the public to join the movement.",
-      "title": "CJP protesters remain at Jantar Mantar for third consecutive day",
-      "summary": "CJP founder Abhijeet Dipke announced that the protest would continue on Monday, June 22, and appealed to farmer unions and members of the public to join the movement.",
-      "url": "https://www.thehindu.com/news/cities/Delhi/cjp-protesters-remain-at-jantar-mantar-for-third-consecutive-day/article71131815.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-23T08:58:31+00:00",
       "tags": [
         "airport/security"
       ],
@@ -641,24 +1055,6 @@
       "geo": {}
     },
     {
-      "id": "69645e030b13067e",
-      "title_orig": "CJP announces ‘diaper donation drive,’ alleges police attempt to shrink protest site",
-      "summary_orig": "The CJP appealed to their supporters to bring diapers to the protest site, write their demand for Dharmendra Pradhan's resignation on them and participate in the campaign, Diaper A Day Keeps Leaks Away",
-      "lang": "en",
-      "title_en": "CJP announces ‘diaper donation drive,’ alleges police attempt to shrink protest site",
-      "summary_en": "The CJP appealed to their supporters to bring diapers to the protest site, write their demand for Dharmendra Pradhan's resignation on them and participate in the campaign, Diaper A Day Keeps Leaks Away",
-      "title": "CJP announces ‘diaper donation drive,’ alleges police attempt to shrink protest site",
-      "summary": "The CJP appealed to their supporters to bring diapers to the protest site, write their demand for Dharmendra Pradhan's resignation on them and participate in the campaign, Diaper A Day Keeps Leaks Away",
-      "url": "https://www.thehindu.com/news/national/cjp-announces-diaper-donation-drive-alleges-police-attempt-to-shrink-protest-site/article71136675.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-23T08:03:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b79e05a6c2bff694",
       "title_orig": "Bristol Airport disruption latest after thunderstorm grounds planes",
       "summary_orig": "There was severe disruption last night",
@@ -679,33 +1075,15 @@
     {
       "id": "5a59f0a9f1c9d9d7",
       "title_orig": "West Lothian teen rushed to hospital in horror 'hammer attack' at bus stop",
-      "summary_orig": "'He was just minding his own business when a man came and attacked him with a hammer'",
+      "summary_orig": "Police are investigating.",
       "lang": "en",
       "title_en": "West Lothian teen rushed to hospital in horror 'hammer attack' at bus stop",
-      "summary_en": "'He was just minding his own business when a man came and attacked him with a hammer'",
+      "summary_en": "Police are investigating.",
       "title": "West Lothian teen rushed to hospital in horror 'hammer attack' at bus stop",
-      "summary": "'He was just minding his own business when a man came and attacked him with a hammer'",
+      "summary": "Police are investigating.",
       "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/west-lothian-teen-rushed-hospital-34161722",
       "source": "Edinburgh Live - News",
       "published_at": "2026-06-23T08:01:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3ab1d4ea87c8c814",
-      "title_orig": "Flight chaos at Bristol Airport after thunderstorm grounded planes",
-      "summary_orig": "The air traffic control systems were damaged",
-      "lang": "en",
-      "title_en": "Flight chaos at Bristol Airport after thunderstorm grounded planes",
-      "summary_en": "The air traffic control systems were damaged",
-      "title": "Flight chaos at Bristol Airport after thunderstorm grounded planes",
-      "summary": "The air traffic control systems were damaged",
-      "url": "https://www.bristolpost.co.uk/news/bristol-news/flight-chaos-bristol-airport-after-11026073",
-      "source": "Bristol Post - News",
-      "published_at": "2026-06-23T08:01:13+00:00",
       "tags": [
         "airport/security"
       ],
@@ -738,24 +1116,6 @@
         "lat": 2.7456,
         "lon": 101.709
       }
-    },
-    {
-      "id": "accd4a96e3466e92",
-      "title_orig": "She falsely accused innocent man of rape and left his life in ruins",
-      "summary_orig": "Sharah Howie, 33, accused an entirely innocent man of rape which saw him abused and attacked in the street",
-      "lang": "en",
-      "title_en": "She falsely accused innocent man of rape and left his life in ruins",
-      "summary_en": "Sharah Howie, 33, accused an entirely innocent man of rape which saw him abused and attacked in the street",
-      "title": "She falsely accused innocent man of rape and left his life in ruins",
-      "summary": "Sharah Howie, 33, accused an entirely innocent man of rape which saw him abused and attacked in the street",
-      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/falsely-accused-innocent-man-rape-34169390",
-      "source": "MEN - News",
-      "published_at": "2026-06-23T07:40:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "cdb343d203acba4a",
@@ -912,33 +1272,6 @@
       "geo": {}
     },
     {
-      "id": "fd7487493a919b29",
-      "title_orig": "San Francisco Airport Delays Are Now 4X Longer After FAA Banned Parallel Landings",
-      "summary_orig": "The clocks keeps running out for flyers at SFO.",
-      "lang": "en",
-      "title_en": "San Francisco Airport Delays Are Now 4X Longer After FAA Banned Parallel Landings",
-      "summary_en": "The clocks keeps running out for flyers at SFO.",
-      "title": "San Francisco Airport Delays Are Now 4X Longer After FAA Banned Parallel Landings",
-      "summary": "The clocks keeps running out for flyers at SFO.",
-      "url": "https://simpleflying.com/sfo-delays-4x-longer-faa-parallel-landing-ban/",
-      "source": "Simple Flying",
-      "published_at": "2026-06-23T04:22:12+00:00",
-      "tags": [
-        "SFO",
-        "United States",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "San Francisco",
-        "city": "San Francisco",
-        "country": "United States",
-        "iata": "SFO",
-        "lat": 37.6213,
-        "lon": -122.379
-      }
-    },
-    {
       "id": "110f2946d25dbef6",
       "title_orig": "From paint to petrol bombs: Malaysian loan sharks get more brazen",
       "summary_orig": "Victims of violent acts and threats by loan sharks have been urged to come forward under a nationwide initiative led by the Malaysian Chinese Association’s Public Services and Complaints Department.\nMCA chief Michael Chong said the party’s youth and women’s wings have also been roped in to collect data and provide aid to loan shark victims.\n“Throwing paint at homes is now considered lenient, as we are seeing loan sharks throwing petrol bombs. They are getting rampant with no regard for the law...",
@@ -954,24 +1287,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "69fbf38c18161aae",
-      "title_orig": "A Golden Boot race for the ages - but who will come out on top?",
-      "summary_orig": "It is fast turning into a Golden Boot race for the ages as the world's best strikers star at the World Cup. But who will come out on top?",
-      "lang": "en",
-      "title_en": "A Golden Boot race for the ages - but who will come out on top?",
-      "summary_en": "It is fast turning into a Golden Boot race for the ages as the world's best strikers star at the World Cup. But who will come out on top?",
-      "title": "A Golden Boot race for the ages - but who will come out on top?",
-      "summary": "It is fast turning into a Golden Boot race for the ages as the world's best strikers star at the World Cup. But who will come out on top?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-23T03:56:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1011,25 +1326,6 @@
       "geo": {}
     },
     {
-      "id": "4ac79352f05c9231",
-      "title_orig": "Emergency left and right",
-      "summary_orig": "HER Emergency rule was two months old when Indira Gandhi was poring over a traditional speech she would deliver at the Mughal-era Red Fort. It was Aug 15, India’s Independence Day, an occasion to make everything seem normal while left-wing and right-wing opponents languished in her prisons. Just then she was handed the message of Mujibur Rahman’s assassination by Bangladesh military officers two hours ago. She remained calm at the turn of events and decided to strictly withhold the information in her nationwide broadcast. To revisit the 21-month-long Emergency with the hindsight of 12 years of Narendra Modi’s rule, let’s loiter a little in the manner of today’s drones to reconnoitre the hotspots of the time. What we are likely to see is that the geopolitics of that decade was indeed notably fluid. The East-West chessboard was in flourish. In 1973, Salvador Allende was murdered in a CIA-sponsored military coup in Chile. The USSR got a leg up with the Arab oil embargo the same year targeting sympathisers of Israel and the US. In India, 1973 set off the start of a Maidan movement of sorts. In Gujarat, RSS-backed students went on a rampage known as the ‘Navnirman Andolan’. It would be joined soon by students in Bihar who included Lalu Yadav and Nitish Kumar. They formed a largely north India-based campaign under the stewardship of Jaiprakash Narayan, seen by many as a Gandhian pretender. He called on the military and police to disobey all “illegal orders” by Mrs Gandhi. This didn’t surprise her as it was happening two short years after she riled Henry Kissinger and Richard Nixon over her 1971 stand-off with Pakistan. Firmly in the Soviet camp now, and increasingly reviled in Western media, Mrs Gandhi was experiencing the unfolding of an all-too-familiar script. Matters came to a head when on June 12, 1975, a high court judge ordered her removal from power over a hitherto unheard of charge against a sitting prime minister — that she had used the services of the public works department of her government to erect a podium for an election rally four years ago. The bizarre court order arrived in the same year when Mujib would be murdered with his family. Also, on April 30, 1975, Vietnam inflicted one of America’s worst humiliations abroad as Americans flocked to the roof of the US embassy in Saigon in a melee to catch the last helicopter flying out from there. America’s humiliation in Saigon was not going to be taken lying down. The chessboard was fraught. Even as Mrs Gandhi ended the Emergency and lost the April 1977 election she hoped to win, Gen Ziaul Haq was going to stage a coup across the border on July 5, 1977 against an Indira Gandhi-like populist leader to take charge of Pakistan. Indian rulers that succeeded Mrs Gandhi, including some RSS-groomed ministers, steadfastly refused to ask Zia to spare Z.A. Bhutto’s life. For that favour and more, Zia anointed Indian prime minister Morarji Desai with Pakistan’s highest civilian award. It’s increasingly normal to hear of comparisons these days between Indira Gandhi’s Emergency and Narendra Modi’s 12 years in power. It’s increasingly normal to hear of comparisons these days between Indira Gandhi’s Emergency, which marks its 51st anniversary on Thursday, and Narendra Modi’s 12 years in power he celebrated on June 9. A growing view sees the Modi era of “an undeclared emergency” as manifestly more stifling than the short-lived curbs on civil liberties Mrs Gandhi had imposed. Many leaders from the left to the right were jailed, while at least one right-wing party, the Shiv Sena, and one leftist group, the pro-Soviet Communist Party of India, supported the prime minister’s reasons for the measure she broadcast to the nation a day after suspending civil liberties and arresting many of her opponents. Modi, on the other hand, sees no need to explain anything to anyone. Without getting into a ‘two legs bad, four legs good’ comparison of George Orwell’s animals, suffice it to say that Mrs Gandhi stood against the very forces that are in power today, including powerful businesses shoring up the Hindu revivalist government. Her ideological point of departure was born way before any judge sought to unseat her, however, and at least two years before her 1971 stand-off with Pakistan. The split in the Indian National Congress in 1969 was witness to the left-right divide that continues to stalk India today. Her 10-point programme was in fact unveiled at a Congress summit in May 1967. That programme bears recall since the older, right-wing Congress leaders fiercely opposed her radical moves. The 10 points that catalysed the split were: social control of banks — bringing banking institutions under strict government regulation; nationalisation of general insurance thereby transferring the control of a key social asset to the state; nationalisation of export and import trade, implying state regulation and takeover of foreign trade; curbs on monopolies thereby limiting the concentration of economic power and business monopolies; limits on urban income and property, which set a ceiling on urban wealth to reduce economic disparities; public distribution of food grains to ensure the availability of basic food to the needy at reasonable prices; better implementation of land reforms to usher radical changes to agricultural land distribution; provision of house-sites to the rural poor, thus guaranteeing land for housing to marginalised rural communities; abolition of privy purses to end the special financial privileges and titles of former princely rulers; and removal of unearned increments in urban land values to prevent profiteering from urban real estate speculation. These socialist policies earned her the support of an influential section of communists led by S.A. Dange, Mohan Kumara Mangalam and Mohit Sen. But another section of the left, at key moments of history, preferred to support Hindu nationalists as conduits against the Congress. Mrs Gandhi jailed the erring comrades for 21 months. Modi has uprooted them altogether, leaving them to tilt at the windmills, to see allies against fascism as foes. The writer is Dawn’s correspondent in Delhi. jawednaqvi@gmail.com Published in Dawn, June 23rd, 2026",
-      "lang": "en",
-      "title_en": "Emergency left and right",
-      "summary_en": "HER Emergency rule was two months old when Indira Gandhi was poring over a traditional speech she would deliver at the Mughal-era Red Fort. It was Aug 15, India’s Independence Day, an occasion to make everything seem normal while left-wing and right-wing opponents languished in her prisons. Just then she was handed the message of Mujibur Rahman’s assassination by Bangladesh military officers two hours ago. She remained calm at the turn of events and decided to strictly withhold the information in her nationwide broadcast. To revisit the 21-month-long Emergency with the hindsight of 12 years of Narendra Modi’s rule, let’s loiter a little in the manner of today’s drones to reconnoitre the hotspots of the time. What we are likely to see is that the geopolitics of that decade was indeed notably fluid. The East-West chessboard was in flourish. In 1973, Salvador Allende was murdered in a CIA-sponsored military coup in Chile. The USSR got a leg up with the Arab oil embargo the same year targeting sympathisers of Israel and the US. In India, 1973 set off the start of a Maidan movement of sorts. In Gujarat, RSS-backed students went on a rampage known as the ‘Navnirman Andolan’. It would be joined soon by students in Bihar who included Lalu Yadav and Nitish Kumar. They formed a largely north India-based campaign under the stewardship of Jaiprakash Narayan, seen by many as a Gandhian pretender. He called on the military and police to disobey all “illegal orders” by Mrs Gandhi. This didn’t surprise her as it was happening two short years after she riled Henry Kissinger and Richard Nixon over her 1971 stand-off with Pakistan. Firmly in the Soviet camp now, and increasingly reviled in Western media, Mrs Gandhi was experiencing the unfolding of an all-too-familiar script. Matters came to a head when on June 12, 1975, a high court judge ordered her removal from power over a hitherto unheard of charge against a sitting prime minister — that she had used the services of the public works department of her government to erect a podium for an election rally four years ago. The bizarre court order arrived in the same year when Mujib would be murdered with his family. Also, on April 30, 1975, Vietnam inflicted one of America’s worst humiliations abroad as Americans flocked to the roof of the US embassy in Saigon in a melee to catch the last helicopter flying out from there. America’s humiliation in Saigon was not going to be taken lying down. The chessboard was fraught. Even as Mrs Gandhi ended the Emergency and lost the April 1977 election she hoped to win, Gen Ziaul Haq was going to stage a coup across the border on July 5, 1977 against an Indira Gandhi-like populist leader to take charge of Pakistan. Indian rulers that succeeded Mrs Gandhi, including some RSS-groomed ministers, steadfastly refused to ask Zia to spare Z.A. Bhutto’s life. For that favour and more, Zia anointed Indian prime minister Morarji Desai with Pakistan’s highest civilian award. It’s increasingly normal to hear of comparisons these days between Indira Gandhi’s Emergency and Narendra Modi’s 12 years in power. It’s increasingly normal to hear of comparisons these days between Indira Gandhi’s Emergency, which marks its 51st anniversary on Thursday, and Narendra Modi’s 12 years in power he celebrated on June 9. A growing view sees the Modi era of “an undeclared emergency” as manifestly more stifling than the short-lived curbs on civil liberties Mrs Gandhi had imposed. Many leaders from the left to the right were jailed, while at least one right-wing party, the Shiv Sena, and one leftist group, the pro-Soviet Communist Party of India, supported the prime minister’s reasons for the measure she broadcast to the nation a day after suspending civil liberties and arresting many of her opponents. Modi, on the other hand, sees no need to explain anything to anyone. Without getting into a ‘two legs bad, four legs good’ comparison of George Orwell’s animals, suffice it to say that Mrs Gandhi stood against the very forces that are in power today, including powerful businesses shoring up the Hindu revivalist government. Her ideological point of departure was born way before any judge sought to unseat her, however, and at least two years before her 1971 stand-off with Pakistan. The split in the Indian National Congress in 1969 was witness to the left-right divide that continues to stalk India today. Her 10-point programme was in fact unveiled at a Congress summit in May 1967. That programme bears recall since the older, right-wing Congress leaders fiercely opposed her radical moves. The 10 points that catalysed the split were: social control of banks — bringing banking institutions under strict government regulation; nationalisation of general insurance thereby transferring the control of a key social asset to the state; nationalisation of export and import trade, implying state regulation and takeover of foreign trade; curbs on monopolies thereby limiting the concentration of economic power and business monopolies; limits on urban income and property, which set a ceiling on urban wealth to reduce economic disparities; public distribution of food grains to ensure the availability of basic food to the needy at reasonable prices; better implementation of land reforms to usher radical changes to agricultural land distribution; provision of house-sites to the rural poor, thus guaranteeing land for housing to marginalised rural communities; abolition of privy purses to end the special financial privileges and titles of former princely rulers; and removal of unearned increments in urban land values to prevent profiteering from urban real estate speculation. These socialist policies earned her the support of an influential section of communists led by S.A. Dange, Mohan Kumara Mangalam and Mohit Sen. But another section of the left, at key moments of history, preferred to support Hindu nationalists as conduits against the Congress. Mrs Gandhi jailed the erring comrades for 21 months. Modi has uprooted them altogether, leaving them to tilt at the windmills, to see allies against fascism as foes. The writer is Dawn’s correspondent in Delhi. jawednaqvi@gmail.com Published in Dawn, June 23rd, 2026",
-      "title": "Emergency left and right",
-      "summary": "HER Emergency rule was two months old when Indira Gandhi was poring over a traditional speech she would deliver at the Mughal-era Red Fort. It was Aug 15, India’s Independence Day, an occasion to make everything seem normal while left-wing and right-wing opponents languished in her prisons. Just then she was handed the message of Mujibur Rahman’s assassination by Bangladesh military officers two hours ago. She remained calm at the turn of events and decided to strictly withhold the information in her nationwide broadcast. To revisit the 21-month-long Emergency with the hindsight of 12 years of Narendra Modi’s rule, let’s loiter a little in the manner of today’s drones to reconnoitre the hotspots of the time. What we are likely to see is that the geopolitics of that decade was indeed notably fluid. The East-West chessboard was in flourish. In 1973, Salvador Allende was murdered in a CIA-sponsored military coup in Chile. The USSR got a leg up with the Arab oil embargo the same year targeting sympathisers of Israel and the US. In India, 1973 set off the start of a Maidan movement of sorts. In Gujarat, RSS-backed students went on a rampage known as the ‘Navnirman Andolan’. It would be joined soon by students in Bihar who included Lalu Yadav and Nitish Kumar. They formed a largely north India-based campaign under the stewardship of Jaiprakash Narayan, seen by many as a Gandhian pretender. He called on the military and police to disobey all “illegal orders” by Mrs Gandhi. This didn’t surprise her as it was happening two short years after she riled Henry Kissinger and Richard Nixon over her 1971 stand-off with Pakistan. Firmly in the Soviet camp now, and increasingly reviled in Western media, Mrs Gandhi was experiencing the unfolding of an all-too-familiar script. Matters came to a head when on June 12, 1975, a high court judge ordered her removal from power over a hitherto unheard of charge against a sitting prime minister — that she had used the services of the public works department of her government to erect a podium for an election rally four years ago. The bizarre court order arrived in the same year when Mujib would be murdered with his family. Also, on April 30, 1975, Vietnam inflicted one of America’s worst humiliations abroad as Americans flocked to the roof of the US embassy in Saigon in a melee to catch the last helicopter flying out from there. America’s humiliation in Saigon was not going to be taken lying down. The chessboard was fraught. Even as Mrs Gandhi ended the Emergency and lost the April 1977 election she hoped to win, Gen Ziaul Haq was going to stage a coup across the border on July 5, 1977 against an Indira Gandhi-like populist leader to take charge of Pakistan. Indian rulers that succeeded Mrs Gandhi, including some RSS-groomed ministers, steadfastly refused to ask Zia to spare Z.A. Bhutto’s life. For that favour and more, Zia anointed Indian prime minister Morarji Desai with Pakistan’s highest civilian award. It’s increasingly normal to hear of comparisons these days between Indira Gandhi’s Emergency and Narendra Modi’s 12 years in power. It’s increasingly normal to hear of comparisons these days between Indira Gandhi’s Emergency, which marks its 51st anniversary on Thursday, and Narendra Modi’s 12 years in power he celebrated on June 9. A growing view sees the Modi era of “an undeclared emergency” as manifestly more stifling than the short-lived curbs on civil liberties Mrs Gandhi had imposed. Many leaders from the left to the right were jailed, while at least one right-wing party, the Shiv Sena, and one leftist group, the pro-Soviet Communist Party of India, supported the prime minister’s reasons for the measure she broadcast to the nation a day after suspending civil liberties and arresting many of her opponents. Modi, on the other hand, sees no need to explain anything to anyone. Without getting into a ‘two legs bad, four legs good’ comparison of George Orwell’s animals, suffice it to say that Mrs Gandhi stood against the very forces that are in power today, including powerful businesses shoring up the Hindu revivalist government. Her ideological point of departure was born way before any judge sought to unseat her, however, and at least two years before her 1971 stand-off with Pakistan. The split in the Indian National Congress in 1969 was witness to the left-right divide that continues to stalk India today. Her 10-point programme was in fact unveiled at a Congress summit in May 1967. That programme bears recall since the older, right-wing Congress leaders fiercely opposed her radical moves. The 10 points that catalysed the split were: social control of banks — bringing banking institutions under strict government regulation; nationalisation of general insurance thereby transferring the control of a key social asset to the state; nationalisation of export and import trade, implying state regulation and takeover of foreign trade; curbs on monopolies thereby limiting the concentration of economic power and business monopolies; limits on urban income and property, which set a ceiling on urban wealth to reduce economic disparities; public distribution of food grains to ensure the availability of basic food to the needy at reasonable prices; better implementation of land reforms to usher radical changes to agricultural land distribution; provision of house-sites to the rural poor, thus guaranteeing land for housing to marginalised rural communities; abolition of privy purses to end the special financial privileges and titles of former princely rulers; and removal of unearned increments in urban land values to prevent profiteering from urban real estate speculation. These socialist policies earned her the support of an influential section of communists led by S.A. Dange, Mohan Kumara Mangalam and Mohit Sen. But another section of the left, at key moments of history, preferred to support Hindu nationalists as conduits against the Congress. Mrs Gandhi jailed the erring comrades for 21 months. Modi has uprooted them altogether, leaving them to tilt at the windmills, to see allies against fascism as foes. The writer is Dawn’s correspondent in Delhi. jawednaqvi@gmail.com Published in Dawn, June 23rd, 2026",
-      "url": "https://www.dawn.com/news/2010171/emergency-left-and-right",
-      "source": "Dawn - Home",
-      "published_at": "2026-06-23T03:15:14+00:00",
-      "tags": [
-        "airport/security",
-        "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2bb357b078e644b1",
       "title_orig": "Labour MP claims MBIE bombshell bigger than just misleading Minister",
       "summary_orig": "Labour MP Phil Twyford has revealed that officials mislead the education and workforce select committee earlier this year.",
@@ -1041,24 +1337,6 @@
       "url": "https://www.stuff.co.nz/politics/360996743/mbie-officials-told-mps-they-were-re-working-33m-immigration-upgrade-project-was-already-dead",
       "source": "Stuff - /",
       "published_at": "2026-06-23T03:10:32+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3adabbf83b444a45",
-      "title_orig": "Southwest Boeing 737 Pulled From Service After Ramp Vehicle Wedges Beneath Its Belly",
-      "summary_orig": "Emergency crews were called to Memphis International Airport after a ground vehicle became wedged under a Southwest Airlines plane.",
-      "lang": "en",
-      "title_en": "Southwest Boeing 737 Pulled From Service After Ramp Vehicle Wedges Beneath Its Belly",
-      "summary_en": "Emergency crews were called to Memphis International Airport after a ground vehicle became wedged under a Southwest Airlines plane.",
-      "title": "Southwest Boeing 737 Pulled From Service After Ramp Vehicle Wedges Beneath Its Belly",
-      "summary": "Emergency crews were called to Memphis International Airport after a ground vehicle became wedged under a Southwest Airlines plane.",
-      "url": "https://simpleflying.com/southwest-boeing-737-ramp-vehicle-memphis/",
-      "source": "Simple Flying",
-      "published_at": "2026-06-23T03:07:50+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1154,24 +1432,6 @@
         "diplomatic"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9bf27d41eb6e8783",
-      "title_orig": "World Cup 2026: Haaland strikes twice as Norway secure knockout progression",
-      "summary_orig": "",
-      "lang": "en",
-      "title_en": "World Cup 2026: Haaland strikes twice as Norway secure knockout progression",
-      "summary_en": "",
-      "title": "World Cup 2026: Haaland strikes twice as Norway secure knockout progression",
-      "summary": "",
-      "url": "https://www.france24.com/en/sport/20260623-world-cup-2026-haaland-strikes-twice-as-norway-secure-knockout-progression",
-      "source": "France 24 - International breaking news, top stories and headlines",
-      "published_at": "2026-06-23T02:09:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
@@ -1292,24 +1552,6 @@
       "geo": {}
     },
     {
-      "id": "9791993abf599f75",
-      "title_orig": "Russian strikes injure six in Ukraine as fuel crisis deepens into Siberia",
-      "summary_orig": "June 23 - Six people were wounded in Russian air strikes on Ukraine overnight on Tuesday, local authorities said, while Russia's ongoing fuel crisis deepened into parts of Siberia.",
-      "lang": "en",
-      "title_en": "Russian strikes injure six in Ukraine as fuel crisis deepens into Siberia",
-      "summary_en": "June 23 - Six people were wounded in Russian air strikes on Ukraine overnight on Tuesday, local authorities said, while Russia's ongoing fuel crisis deepened into parts of Siberia.",
-      "title": "Russian strikes injure six in Ukraine as fuel crisis deepens into Siberia",
-      "summary": "June 23 - Six people were wounded in Russian air strikes on Ukraine overnight on Tuesday, local authorities said, while Russia's ongoing fuel crisis deepened into parts of Siberia.",
-      "url": "https://www.straitstimes.com/world/europe/russian-strikes-injure-six-in-ukraine-kyiv-issues-air-raid-alert",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-22T23:45:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "4a8a9c4dcf8813d5",
       "title_orig": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
       "summary_orig": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
@@ -1346,24 +1588,6 @@
       "geo": {}
     },
     {
-      "id": "8298e56194ce1545",
-      "title_orig": "Two more arrested in alleged plot to attack Trump cage fight",
-      "summary_orig": "Both are charged with conspiracy to commit murder.",
-      "lang": "en",
-      "title_en": "Two more arrested in alleged plot to attack Trump cage fight",
-      "summary_en": "Both are charged with conspiracy to commit murder.",
-      "title": "Two more arrested in alleged plot to attack Trump cage fight",
-      "summary": "Both are charged with conspiracy to commit murder.",
-      "url": "https://www.straitstimes.com/world/united-states/two-more-arrested-in-alleged-plot-to-attack-trump-cage-fight",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-22T22:45:39+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "662989a2d67f76c6",
       "title_orig": "Leeds Bradford Airport's summer hotspots  revealed – book here",
       "summary_orig": "Yorkshire's love affair with sunshine shows no sign of cooling down.",
@@ -1375,42 +1599,6 @@
       "url": "https://www.yorkshireeveningpost.co.uk/lifestyle/leeds-bradford-airport-summer-hotspots-book-today-aff-8755450",
       "source": "Yorkshire Evening Post",
       "published_at": "2026-06-22T22:05:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8bebdef8d0154f4c",
-      "title_orig": "‘I will do what I have to do’ if Iran does not stick to deal, Trump says",
-      "summary_orig": "US President Donald Trump said on Monday “I will do what I have to do” if Iran does not stick to its agreement with ‌Washington.\n“If Iran doesn’t live up to their agreement, or if they’re not behaving, I will do what I have to do,” Trump told reporters.\nTrump and Iranian President Masoud Pezeshkian signed an interim US-Iran deal last week, more than three months after the US and ⁠Israel attacked Iran and Iran responded with its own attacks on Israel and ‌Gulf states with US bases.\nTrump said on...",
-      "lang": "en",
-      "title_en": "‘I will do what I have to do’ if Iran does not stick to deal, Trump says",
-      "summary_en": "US President Donald Trump said on Monday “I will do what I have to do” if Iran does not stick to its agreement with ‌Washington.\n“If Iran doesn’t live up to their agreement, or if they’re not behaving, I will do what I have to do,” Trump told reporters.\nTrump and Iranian President Masoud Pezeshkian signed an interim US-Iran deal last week, more than three months after the US and ⁠Israel attacked Iran and Iran responded with its own attacks on Israel and ‌Gulf states with US bases.\nTrump said on...",
-      "title": "‘I will do what I have to do’ if Iran does not stick to deal, Trump says",
-      "summary": "US President Donald Trump said on Monday “I will do what I have to do” if Iran does not stick to its agreement with ‌Washington.\n“If Iran doesn’t live up to their agreement, or if they’re not behaving, I will do what I have to do,” Trump told reporters.\nTrump and Iranian President Masoud Pezeshkian signed an interim US-Iran deal last week, more than three months after the US and ⁠Israel attacked Iran and Iran responded with its own attacks on Israel and ‌Gulf states with US bases.\nTrump said on...",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3357978/i-will-do-what-i-have-do-if-iran-does-not-stick-deal-says-trump?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2026-06-22T21:37:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c9c8cb2173d0c251",
-      "title_orig": "Can Quad break China’s mineral monopoly amid US-India rift?",
-      "summary_orig": "The US strike on an oil tanker in the Gulf of Oman earlier this month did more than kill three Indian sailors and severely undercut US-India relations. It has also cast further doubt on the unity of the Quad, an informal bloc made up of the United States, Japan, Australia and India, and the group’s ambitious agenda aimed at loosening China’s dominant grip on critical minerals.\nDespite the persistent US-India fissures that could slow down the Quad’s momentum, however, a counter-unifying force may...",
-      "lang": "en",
-      "title_en": "Can Quad break China’s mineral monopoly amid US-India rift?",
-      "summary_en": "The US strike on an oil tanker in the Gulf of Oman earlier this month did more than kill three Indian sailors and severely undercut US-India relations. It has also cast further doubt on the unity of the Quad, an informal bloc made up of the United States, Japan, Australia and India, and the group’s ambitious agenda aimed at loosening China’s dominant grip on critical minerals.\nDespite the persistent US-India fissures that could slow down the Quad’s momentum, however, a counter-unifying force may...",
-      "title": "Can Quad break China’s mineral monopoly amid US-India rift?",
-      "summary": "The US strike on an oil tanker in the Gulf of Oman earlier this month did more than kill three Indian sailors and severely undercut US-India relations. It has also cast further doubt on the unity of the Quad, an informal bloc made up of the United States, Japan, Australia and India, and the group’s ambitious agenda aimed at loosening China’s dominant grip on critical minerals.\nDespite the persistent US-India fissures that could slow down the Quad’s momentum, however, a counter-unifying force may...",
-      "url": "https://www.scmp.com/news/us/article/3357977/can-quad-break-chinas-mineral-monopoly-amid-us-india-rift?utm_source=rss_feed",
-      "source": "News - South China Morning Post",
-      "published_at": "2026-06-22T21:35:49+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1447,42 +1635,6 @@
       "url": "https://www.dawn.com/news/2010067/magic-messi-makes-fifa-world-cup-history-to-send-argentina-into-last-32",
       "source": "Dawn - Home",
       "published_at": "2026-06-22T20:40:19+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "68b1add8c2674127",
-      "title_orig": "Eat pancakes and take flight at Geauga County Airport this weekend",
-      "summary_orig": "Geauga County Airport will host a June 27 pancake breakfast featuring free Young Eagles airplane rides for children ages 8-17.",
-      "lang": "en",
-      "title_en": "Eat pancakes and take flight at Geauga County Airport this weekend",
-      "summary_en": "Geauga County Airport will host a June 27 pancake breakfast featuring free Young Eagles airplane rides for children ages 8-17.",
-      "title": "Eat pancakes and take flight at Geauga County Airport this weekend",
-      "summary": "Geauga County Airport will host a June 27 pancake breakfast featuring free Young Eagles airplane rides for children ages 8-17.",
-      "url": "https://www.cleveland.com/geauga-county/2026/06/eat-pancakes-and-take-flight-at-geauga-county-airport-this-weekend.html",
-      "source": "cleveland.com",
-      "published_at": "2026-06-22T20:36:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "5884b257ca79cb74",
-      "title_orig": "Flights grounded at city airport due to thunderstorms as house set on fire by 'lightning strike'",
-      "summary_orig": "Flights have faced major disruption today",
-      "lang": "en",
-      "title_en": "Flights grounded at city airport due to thunderstorms as house set on fire by 'lightning strike'",
-      "summary_en": "Flights have faced major disruption today",
-      "title": "Flights grounded at city airport due to thunderstorms as house set on fire by 'lightning strike'",
-      "summary": "Flights have faced major disruption today",
-      "url": "https://www.belfastlive.co.uk/news/uk-world-news/flights-grounded-city-airport-due-34168947",
-      "source": "BelfastLive - Home",
-      "published_at": "2026-06-22T20:22:47+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1562,24 +1714,6 @@
       "geo": {}
     },
     {
-      "id": "cdb2a9f9efa3079a",
-      "title_orig": "Kashmir parliamentary committee chairman requests meeting with Achakzai to discuss AJK situation",
-      "summary_orig": "ISLAMABAD: The chairman of the National Assembly’s (NA) Parliamentary Committee on Kashmir, Rana Muhammad Qasim Noon, has requested NA Opposition Leader Mahmood Khan Achakzai to spare the time for a meeting discussing the situation in Azad Jammu and Kashmir (AJK), it emerged on Monday. The regional administration and the Joint Awami Action Committee (JAAC) remain at odds over various issues, most notably the committee’s demand to abolish the 12 seats in the region’s Legislative Assembly that are reserved for refugees from Indian-occupied Jammu and Kashmir who settled in mainland Pakistan after 1947. In a letter addressed to Achakzai, Qasim wished to meet him at the earliest, citing the Pakhtunkhwa Milli Awami Party (PkMAP) leader’s role in Pakistan’s political landscape and his continued engagement on matters of national importance. He stated that the proposed meeting would focus on the Kashmir dispute, the prevailing volatile situation in the region, and ways to strengthen Pakistan’s diplomatic, parliamentary, and international efforts in support of the Kashmiri people’s right to self-determination. Qasim emphasised that Achakzai’s experience, leadership, and insights on foreign policy issues would be valuable in developing a coordinated national strategy to highlight the Kashmir issue at the regional and international levels. He requested that a suitable date and time for the meeting be communicated to his office at the earliest. Tehreek-i-Tahaffuz-i-Ayin-i-Pakistan (TTAP) spokesperson Akhunzada Hussain Ahmad Yousufzai, while talking to Dawn , said that Achakzai had decided to discuss the meeting’s matter with opposition parties, particularly the TTAP. “After getting input from the parties, a collective decision will be made regarding a meeting with Rana Muhammad Qasim Noon,” he said. The correspondence shows that the Parliamentary Committee on Kashmir has been making efforts across party lines to highlight the issue of Kashmir. Ahead of the July 27 elections in AJK, the JAAC had called for widespread protests demanding the abolition of 12 seats in the region’s Legislative Assembly reserved for refugees from Indian-occupied Jammu and Kashmir who settled in mainland Pakistan after 1947. Elections for these seats are held separately from the 33 general seats in AJK, with refugees registered in 12 constituencies across Pakistan voting for their representatives. The seats have long been politically sensitive due to disputes over voter lists, delimitation, and constitutional amendments. On June 5, the JAAC was declared a proscribed organisation by the regional government and placed under the First Schedule of the region’s anti-terrorism act. A day later, AJK authorities launched a crackdown on the JAAC, arresting scores of its leaders and activists from different areas. Defence Minister Khawaja Asif has urged the committee to let the people of the region decide whether the 12 refugee seats should be abolished.",
-      "lang": "en",
-      "title_en": "Kashmir parliamentary committee chairman requests meeting with Achakzai to discuss AJK situation",
-      "summary_en": "ISLAMABAD: The chairman of the National Assembly’s (NA) Parliamentary Committee on Kashmir, Rana Muhammad Qasim Noon, has requested NA Opposition Leader Mahmood Khan Achakzai to spare the time for a meeting discussing the situation in Azad Jammu and Kashmir (AJK), it emerged on Monday. The regional administration and the Joint Awami Action Committee (JAAC) remain at odds over various issues, most notably the committee’s demand to abolish the 12 seats in the region’s Legislative Assembly that are reserved for refugees from Indian-occupied Jammu and Kashmir who settled in mainland Pakistan after 1947. In a letter addressed to Achakzai, Qasim wished to meet him at the earliest, citing the Pakhtunkhwa Milli Awami Party (PkMAP) leader’s role in Pakistan’s political landscape and his continued engagement on matters of national importance. He stated that the proposed meeting would focus on the Kashmir dispute, the prevailing volatile situation in the region, and ways to strengthen Pakistan’s diplomatic, parliamentary, and international efforts in support of the Kashmiri people’s right to self-determination. Qasim emphasised that Achakzai’s experience, leadership, and insights on foreign policy issues would be valuable in developing a coordinated national strategy to highlight the Kashmir issue at the regional and international levels. He requested that a suitable date and time for the meeting be communicated to his office at the earliest. Tehreek-i-Tahaffuz-i-Ayin-i-Pakistan (TTAP) spokesperson Akhunzada Hussain Ahmad Yousufzai, while talking to Dawn , said that Achakzai had decided to discuss the meeting’s matter with opposition parties, particularly the TTAP. “After getting input from the parties, a collective decision will be made regarding a meeting with Rana Muhammad Qasim Noon,” he said. The correspondence shows that the Parliamentary Committee on Kashmir has been making efforts across party lines to highlight the issue of Kashmir. Ahead of the July 27 elections in AJK, the JAAC had called for widespread protests demanding the abolition of 12 seats in the region’s Legislative Assembly reserved for refugees from Indian-occupied Jammu and Kashmir who settled in mainland Pakistan after 1947. Elections for these seats are held separately from the 33 general seats in AJK, with refugees registered in 12 constituencies across Pakistan voting for their representatives. The seats have long been politically sensitive due to disputes over voter lists, delimitation, and constitutional amendments. On June 5, the JAAC was declared a proscribed organisation by the regional government and placed under the First Schedule of the region’s anti-terrorism act. A day later, AJK authorities launched a crackdown on the JAAC, arresting scores of its leaders and activists from different areas. Defence Minister Khawaja Asif has urged the committee to let the people of the region decide whether the 12 refugee seats should be abolished.",
-      "title": "Kashmir parliamentary committee chairman requests meeting with Achakzai to discuss AJK situation",
-      "summary": "ISLAMABAD: The chairman of the National Assembly’s (NA) Parliamentary Committee on Kashmir, Rana Muhammad Qasim Noon, has requested NA Opposition Leader Mahmood Khan Achakzai to spare the time for a meeting discussing the situation in Azad Jammu and Kashmir (AJK), it emerged on Monday. The regional administration and the Joint Awami Action Committee (JAAC) remain at odds over various issues, most notably the committee’s demand to abolish the 12 seats in the region’s Legislative Assembly that are reserved for refugees from Indian-occupied Jammu and Kashmir who settled in mainland Pakistan after 1947. In a letter addressed to Achakzai, Qasim wished to meet him at the earliest, citing the Pakhtunkhwa Milli Awami Party (PkMAP) leader’s role in Pakistan’s political landscape and his continued engagement on matters of national importance. He stated that the proposed meeting would focus on the Kashmir dispute, the prevailing volatile situation in the region, and ways to strengthen Pakistan’s diplomatic, parliamentary, and international efforts in support of the Kashmiri people’s right to self-determination. Qasim emphasised that Achakzai’s experience, leadership, and insights on foreign policy issues would be valuable in developing a coordinated national strategy to highlight the Kashmir issue at the regional and international levels. He requested that a suitable date and time for the meeting be communicated to his office at the earliest. Tehreek-i-Tahaffuz-i-Ayin-i-Pakistan (TTAP) spokesperson Akhunzada Hussain Ahmad Yousufzai, while talking to Dawn , said that Achakzai had decided to discuss the meeting’s matter with opposition parties, particularly the TTAP. “After getting input from the parties, a collective decision will be made regarding a meeting with Rana Muhammad Qasim Noon,” he said. The correspondence shows that the Parliamentary Committee on Kashmir has been making efforts across party lines to highlight the issue of Kashmir. Ahead of the July 27 elections in AJK, the JAAC had called for widespread protests demanding the abolition of 12 seats in the region’s Legislative Assembly reserved for refugees from Indian-occupied Jammu and Kashmir who settled in mainland Pakistan after 1947. Elections for these seats are held separately from the 33 general seats in AJK, with refugees registered in 12 constituencies across Pakistan voting for their representatives. The seats have long been politically sensitive due to disputes over voter lists, delimitation, and constitutional amendments. On June 5, the JAAC was declared a proscribed organisation by the regional government and placed under the First Schedule of the region’s anti-terrorism act. A day later, AJK authorities launched a crackdown on the JAAC, arresting scores of its leaders and activists from different areas. Defence Minister Khawaja Asif has urged the committee to let the people of the region decide whether the 12 refugee seats should be abolished.",
-      "url": "https://www.dawn.com/news/2010065/kashmir-parliamentary-committee-chairman-requests-meeting-with-achakzai-to-discuss-ajk-situation",
-      "source": "Dawn - Home",
-      "published_at": "2026-06-22T19:07:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "9e29b6e83a860a5a",
       "title_orig": "36-year-old man in court on five charges of attempted murder aggravated by 'terrorist connection'",
       "summary_orig": "Remanded in custody to appear again within 8 days",
@@ -1631,24 +1765,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "f8104cc268a24231",
-      "title_orig": "Pa. airport’s new terminal named one of world’s most beautiful",
-      "summary_orig": "The airport's $1.7 billion terminal opened in November.",
-      "lang": "en",
-      "title_en": "Pa. airport’s new terminal named one of world’s most beautiful",
-      "summary_en": "The airport's $1.7 billion terminal opened in November.",
-      "title": "Pa. airport’s new terminal named one of world’s most beautiful",
-      "summary": "The airport's $1.7 billion terminal opened in November.",
-      "url": "https://www.pennlive.com/news/2026/06/pa-airports-new-terminal-named-one-of-worlds-most-beautiful.html",
-      "source": "pennlive.com",
-      "published_at": "2026-06-22T18:19:52+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1717,24 +1833,6 @@
       "url": "https://www.standard.co.uk/news/crime/cybercriminals-attack-tfl-b1287153.html",
       "source": "The Standard News",
       "published_at": "2026-06-22T17:24:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e8561973d07d4503",
-      "title_orig": "Female moped rider attacked by knifeman during hi-jacking attempt in Dunmurry",
-      "summary_orig": "A man armed with a knife and a man using crutches fled from the scene",
-      "lang": "en",
-      "title_en": "Female moped rider attacked by knifeman during hi-jacking attempt in Dunmurry",
-      "summary_en": "A man armed with a knife and a man using crutches fled from the scene",
-      "title": "Female moped rider attacked by knifeman during hi-jacking attempt in Dunmurry",
-      "summary": "A man armed with a knife and a man using crutches fled from the scene",
-      "url": "https://www.belfastlive.co.uk/news/belfast-news/female-moped-rider-attacked-knifeman-34168126",
-      "source": "BelfastLive - Home",
-      "published_at": "2026-06-22T17:23:40+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1904,24 +2002,6 @@
       "geo": {}
     },
     {
-      "id": "121ebe4bd9e73857",
-      "title_orig": "Fuel protesters are considering new blockades over upcoming increase in diesel prices",
-      "summary_orig": "Fuel relief introduced by the government in April is set to end on 31 July.",
-      "lang": "en",
-      "title_en": "Fuel protesters are considering new blockades over upcoming increase in diesel prices",
-      "summary_en": "Fuel relief introduced by the government in April is set to end on 31 July.",
-      "title": "Fuel protesters are considering new blockades over upcoming increase in diesel prices",
-      "summary": "Fuel relief introduced by the government in April is set to end on 31 July.",
-      "url": "https://www.thejournal.ie/fuel-protests-eu-presidency-7078260-Jun2026/",
-      "source": "TheJournal.ie",
-      "published_at": "2026-06-22T15:26:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "771fbeec8e55729d",
       "title_orig": "Tui among worst airlines for UK flight delays",
       "summary_orig": "The leisure carrier’s departures from UK airports were an average of 20 minutes and 24 seconds behind schedule in 2025.",
@@ -1976,24 +2056,6 @@
       "geo": {}
     },
     {
-      "id": "6ca3e81e9b5d92b0",
-      "title_orig": "Moscow shoots down more than 80 drones as Russian attacks kill six in Ukraine",
-      "summary_orig": "Kyiv is continuing strikes on Russian oil refineries",
-      "lang": "en",
-      "title_en": "Moscow shoots down more than 80 drones as Russian attacks kill six in Ukraine",
-      "summary_en": "Kyiv is continuing strikes on Russian oil refineries",
-      "title": "Moscow shoots down more than 80 drones as Russian attacks kill six in Ukraine",
-      "summary": "Kyiv is continuing strikes on Russian oil refineries",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-drone-strikes-moscow-ukraine-war-b3000537.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-22T15:06:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b4da9495cf778972",
       "title_orig": "Newquay Bomb Brad Pauls vows to come back stronger after shock title fight defeat",
       "summary_orig": "\"I'm absolutely gutted. I tried my best as always. Sometimes it pays off and it's enough and sometimes it's not.\"",
@@ -2025,24 +2087,6 @@
       "published_at": "2026-06-22T14:37:13+00:00",
       "tags": [
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b29a87333e4ff124",
-      "title_orig": "Three-year-old boy 'thrown into crocodile enclosure' now stable",
-      "summary_orig": "The boy was left in a critical condition after reportedly being attacked by at least one crocodile when he was allegedly thrown into the enclosure",
-      "lang": "en",
-      "title_en": "Three-year-old boy 'thrown into crocodile enclosure' now stable",
-      "summary_en": "The boy was left in a critical condition after reportedly being attacked by at least one crocodile when he was allegedly thrown into the enclosure",
-      "title": "Three-year-old boy 'thrown into crocodile enclosure' now stable",
-      "summary": "The boy was left in a critical condition after reportedly being attacked by at least one crocodile when he was allegedly thrown into the enclosure",
-      "url": "https://www.standard.co.uk/news/crime/boy-crocodile-enclosure-attempted-murder-stable-b1287110.html",
-      "source": "The Standard News",
-      "published_at": "2026-06-22T13:51:47+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
@@ -2165,24 +2209,6 @@
       "geo": {}
     },
     {
-      "id": "6d3f074b3c2b998b",
-      "title_orig": "‘He was pregnant, delivered 6 MPs’: After ‘ga**u’ row, Sanjay Raut’s fresh attack on Shinde as rebels ready to jump ship",
-      "summary_orig": "Six Shiv Sena (UBT) MPs are expected to join the Eknath Shinde-led Shiv Sena, prompting a sharp reaction from Sanjay Raut, who mocked the Maharashtra deputy CM.",
-      "lang": "en",
-      "title_en": "‘He was pregnant, delivered 6 MPs’: After ‘ga**u’ row, Sanjay Raut’s fresh attack on Shinde as rebels ready to jump ship",
-      "summary_en": "Six Shiv Sena (UBT) MPs are expected to join the Eknath Shinde-led Shiv Sena, prompting a sharp reaction from Sanjay Raut, who mocked the Maharashtra deputy CM.",
-      "title": "‘He was pregnant, delivered 6 MPs’: After ‘ga**u’ row, Sanjay Raut’s fresh attack on Shinde as rebels ready to jump ship",
-      "summary": "Six Shiv Sena (UBT) MPs are expected to join the Eknath Shinde-led Shiv Sena, prompting a sharp reaction from Sanjay Raut, who mocked the Maharashtra deputy CM.",
-      "url": "https://www.hindustantimes.com/india-news/he-was-pregnant-delivered-6-mps-after-row-sanjay-rauts-fresh-attack-on-eknath-shinde-as-rebels-shiv-sena-ubt-rebel-101782120845578.html",
-      "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
-      "published_at": "2026-06-22T09:59:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "9d5f4220307d9dc9",
       "title_orig": "US-backed political newcomer wins Colombia election, marking country's right-wing shift",
       "summary_orig": "With nearly all votes counted, the election results polarised the country, sparking both celebrations and protests across the country.",
@@ -2237,24 +2263,6 @@
       "geo": {}
     },
     {
-      "id": "eaa537a2a0558d99",
-      "title_orig": "Wowcher ‘extremely sorry’ over crocodile attack email",
-      "summary_orig": "The email was sent out to customers on Saturday, two days after the three-year-old boy was attacked by a crocodile at Johnsons of Old Hurst in Huntingdonshire",
-      "lang": "en",
-      "title_en": "Wowcher ‘extremely sorry’ over crocodile attack email",
-      "summary_en": "The email was sent out to customers on Saturday, two days after the three-year-old boy was attacked by a crocodile at Johnsons of Old Hurst in Huntingdonshire",
-      "title": "Wowcher ‘extremely sorry’ over crocodile attack email",
-      "summary": "The email was sent out to customers on Saturday, two days after the three-year-old boy was attacked by a crocodile at Johnsons of Old Hurst in Huntingdonshire",
-      "url": "https://www.cambridge-news.co.uk/news/local-news/wowcher-extremely-sorry-unacceptable-email-34162604",
-      "source": "Cambridgeshire Live - Home",
-      "published_at": "2026-06-22T06:41:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "68cc034f7c0d1614",
       "title_orig": "US-Iran talks strained as Trump threats spark Iranian walkout",
       "summary_orig": "Talks expected to continue for rest of the week despite disruption caused by US president’s threat to bomb Iran and kidnap negotiating team High-stakes talks between the US and Iran are expected to continue for the rest of the week in Switzerland, after a tense start that saw Iranian negotiators walk out in protest at a stream of threats issued by Donald Trump on social media. The US president had threatened to bomb Iran and even to kidnap the Iranian negotiating team unless the strait of Hormuz was reopened, forcing mediators Qatar and Pakistan to continue negotiations in the background. Continue reading...",
@@ -2266,24 +2274,6 @@
       "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
       "source": "World news | The Guardian",
       "published_at": "2026-06-22T01:57:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "6512abc09d603f75",
-      "title_orig": "Trump faces fresh bipartisan criticism on Iran deal as Vance hails peace talks",
-      "summary_orig": "Objections come as Trump threatens to renew attacks on Iran if it doesn’t rein in its proxy in Lebanon US political figures from left and right voiced fresh objections on Sunday to Donald Trump’s provisional deal with Iran – even as the US president made new threats while Vice-President JD Vance hailed progress during the first round of direct peace talks in Switzerland. Negotiations in Lucerne between the US and Iran have already run into difficulties, after Trump wrote on Truth Social that “Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. “If they don’t, we’ll hit Iran very hard again, just like we did last week, only harder!!!” Continue reading...",
-      "lang": "en",
-      "title_en": "Trump faces fresh bipartisan criticism on Iran deal as Vance hails peace talks",
-      "summary_en": "Objections come as Trump threatens to renew attacks on Iran if it doesn’t rein in its proxy in Lebanon US political figures from left and right voiced fresh objections on Sunday to Donald Trump’s provisional deal with Iran – even as the US president made new threats while Vice-President JD Vance hailed progress during the first round of direct peace talks in Switzerland. Negotiations in Lucerne between the US and Iran have already run into difficulties, after Trump wrote on Truth Social that “Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. “If they don’t, we’ll hit Iran very hard again, just like we did last week, only harder!!!” Continue reading...",
-      "title": "Trump faces fresh bipartisan criticism on Iran deal as Vance hails peace talks",
-      "summary": "Objections come as Trump threatens to renew attacks on Iran if it doesn’t rein in its proxy in Lebanon US political figures from left and right voiced fresh objections on Sunday to Donald Trump’s provisional deal with Iran – even as the US president made new threats while Vice-President JD Vance hailed progress during the first round of direct peace talks in Switzerland. Negotiations in Lucerne between the US and Iran have already run into difficulties, after Trump wrote on Truth Social that “Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. “If they don’t, we’ll hit Iran very hard again, just like we did last week, only harder!!!” Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jun/21/trump-iran-deal-bipartisan-criticism",
-      "source": "World news | The Guardian",
-      "published_at": "2026-06-21T22:07:57+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2378,24 +2368,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "85d779baacda6708",
-      "title_orig": "Club chief issues Lorent Tolaj transfer bid refusal amid Derby County claim",
-      "summary_orig": "The Rams are said to be interested in striker Tolaj as they look to bolster John Eustace’s attack for another assault on promotion to the Premier League",
-      "lang": "en",
-      "title_en": "Club chief issues Lorent Tolaj transfer bid refusal amid Derby County claim",
-      "summary_en": "The Rams are said to be interested in striker Tolaj as they look to bolster John Eustace’s attack for another assault on promotion to the Premier League",
-      "title": "Club chief issues Lorent Tolaj transfer bid refusal amid Derby County claim",
-      "summary": "The Rams are said to be interested in striker Tolaj as they look to bolster John Eustace’s attack for another assault on promotion to the Premier League",
-      "url": "https://www.derbytelegraph.co.uk/sport/football/transfer-news/club-chief-issues-lorent-tolaj-11023903",
-      "source": "Derbyshire Live - frontpage",
-      "published_at": "2026-06-21T13:15:14+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2552,42 +2524,6 @@
       }
     },
     {
-      "id": "9afe171606bdada7",
-      "title_orig": "As Europe bakes, Berlin Zoo’s elephants and bears cool off",
-      "summary_orig": "Berlin Zoo uses “ice bombs” and water showers to help bears and elephants cool down as Europe faces an intense heatwave this weekend.",
-      "lang": "en",
-      "title_en": "As Europe bakes, Berlin Zoo’s elephants and bears cool off",
-      "summary_en": "Berlin Zoo uses “ice bombs” and water showers to help bears and elephants cool down as Europe faces an intense heatwave this weekend.",
-      "title": "As Europe bakes, Berlin Zoo’s elephants and bears cool off",
-      "summary": "Berlin Zoo uses “ice bombs” and water showers to help bears and elephants cool down as Europe faces an intense heatwave this weekend.",
-      "url": "http://www.euronews.com/video/2026/06/19/as-europe-bakes-berlin-zoos-elephants-and-bears-cool-off",
-      "source": "News | Euronews RSS",
-      "published_at": "2026-06-19T16:14:25+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "1e8c2e295ff4e92b",
-      "title_orig": "Israel and Hezbollah agreed to renew ceasefire, officials say",
-      "summary_orig": "Lebanese media reported an Israeli airstrike in Southern Lebanon on Friday, after a US official said Israel and Hezbollah had agreed on a ceasefire.",
-      "lang": "en",
-      "title_en": "Israel and Hezbollah agreed to renew ceasefire, officials say",
-      "summary_en": "Lebanese media reported an Israeli airstrike in Southern Lebanon on Friday, after a US official said Israel and Hezbollah had agreed on a ceasefire.",
-      "title": "Israel and Hezbollah agreed to renew ceasefire, officials say",
-      "summary": "Lebanese media reported an Israeli airstrike in Southern Lebanon on Friday, after a US official said Israel and Hezbollah had agreed on a ceasefire.",
-      "url": "http://www.euronews.com/2026/06/19/israel-and-the-hezbollah-have-agreed-to-renew-their-ceasefire-three-officials-say",
-      "source": "News | Euronews RSS",
-      "published_at": "2026-06-19T15:25:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "c4f51446755ffd16",
       "title_orig": "Norwegian electric flying boat developer NOEMI reveals wider scope",
       "summary_orig": "Eric Lithun, founder and CEO of NOEMI Aerospace, has always maintained that no matter how environmentally responsible an aircraft’s design, it will fail if it does not allow profitable commercial operations. He remained true to this belief while revealing a new, wider scope for the NOEMI (meaning No Emissions) aircraft design during a 19 May... The post Norwegian electric flying boat developer NOEMI reveals wider scope appeared first on Runway Girl .",
@@ -2631,24 +2567,6 @@
         "lat": 52.3105,
         "lon": 4.7683
       }
-    },
-    {
-      "id": "4cf1dc5bfcb47c36",
-      "title_orig": "New Russian strikes hit Kharkiv and Odesa, killing one and injuring children",
-      "summary_orig": "New Russian strikes hit Ukraine's Kharkiv and Odesa regions on 19 June, killing one person, injuring children and adults, and damaging homes, vehicles and fuel facilities overnight.",
-      "lang": "en",
-      "title_en": "New Russian strikes hit Kharkiv and Odesa, killing one and injuring children",
-      "summary_en": "New Russian strikes hit Ukraine's Kharkiv and Odesa regions on 19 June, killing one person, injuring children and adults, and damaging homes, vehicles and fuel facilities overnight.",
-      "title": "New Russian strikes hit Kharkiv and Odesa, killing one and injuring children",
-      "summary": "New Russian strikes hit Ukraine's Kharkiv and Odesa regions on 19 June, killing one person, injuring children and adults, and damaging homes, vehicles and fuel facilities overnight.",
-      "url": "http://www.euronews.com/video/2026/06/19/new-russian-strikes-hit-kharkiv-and-odesa-killing-one-and-injuring-children",
-      "source": "News | Euronews RSS",
-      "published_at": "2026-06-19T12:15:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
     },
     {
       "id": "394b4b7a66b038e0",
@@ -2716,24 +2634,6 @@
       "url": "https://airlive.net/emergency/2026/06/18/lufthansa-city-vl2430-from-munich-to-gothenburg-is-declaring-an-emergency-and-turning-around/",
       "source": "AIRLIVE",
       "published_at": "2026-06-18T14:57:40+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ce19ee015c701a6e",
-      "title_orig": "KEY POINTS: What changes about life in Spain in July 2026",
-      "summary_orig": "Big summer music festivals, the start of Gibraltar's Brexit deal, the end of Spain's migrant amnesty, another anti-tourism protest, the deadline for Spain's annual income tax return, and plenty more - read on for the full lowdown on July 2026 in Spain.",
-      "lang": "en",
-      "title_en": "KEY POINTS: What changes about life in Spain in July 2026",
-      "summary_en": "Big summer music festivals, the start of Gibraltar's Brexit deal, the end of Spain's migrant amnesty, another anti-tourism protest, the deadline for Spain's annual income tax return, and plenty more - read on for the full lowdown on July 2026 in Spain.",
-      "title": "KEY POINTS: What changes about life in Spain in July 2026",
-      "summary": "Big summer music festivals, the start of Gibraltar's Brexit deal, the end of Spain's migrant amnesty, another anti-tourism protest, the deadline for Spain's annual income tax return, and plenty more - read on for the full lowdown on July 2026 in Spain.",
-      "url": "https://www.thelocal.es/20260618/key-points-what-changes-about-life-in-spain-in-july-2026",
-      "source": "The Local Spain",
-      "published_at": "2026-06-18T14:04:57+00:00",
       "tags": [
         "airport/security"
       ],
