@@ -1,18 +1,36 @@
 {
-  "generated_at": "2026-06-30T19:23:01.881609+00:00",
+  "generated_at": "2026-06-30T21:20:30.081332+00:00",
   "items": [
     {
-      "id": "71c3165d15924a8e",
-      "title_orig": "Hospital unit 'put into lockdown' amid suspected Ebola virus case",
-      "summary_orig": "A patient has reportedly appeared before the hospital today with possible Ebola symptoms [National news]",
+      "id": "b0f57a1f4ec4dcdf",
+      "title_orig": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
+      "summary_orig": "Thousands of people marched across South Africa on Tuesday to demand the departure of undocumented foreign nationals after a weeks-long campaign that has sent thousands fleeing and claimed four lives. Police were out in force for nationwide protests which capped demonstrations led by citizen-led groups who set an unofficial June 30 deadline for foreigners without papers to leave. FRANCE 24's Sharon Gaffney speaks with Fredson Guilengue, Senior Regional Programme Manager at the Rosa Luxemburg Foundation Southern Africa.",
       "lang": "en",
-      "title_en": "Hospital unit 'put into lockdown' amid suspected Ebola virus case",
-      "summary_en": "A patient has reportedly appeared before the hospital today with possible Ebola symptoms [National news]",
-      "title": "Hospital unit 'put into lockdown' amid suspected Ebola virus case",
-      "summary": "A patient has reportedly appeared before the hospital today with possible Ebola symptoms [National news]",
-      "url": "https://www.bristolpost.co.uk/news/uk-world-news/hospital-unit-put-lockdown-amid-11038757",
-      "source": "Bristol Post - News",
-      "published_at": "2026-06-30T19:10:50+00:00",
+      "title_en": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
+      "summary_en": "Thousands of people marched across South Africa on Tuesday to demand the departure of undocumented foreign nationals after a weeks-long campaign that has sent thousands fleeing and claimed four lives. Police were out in force for nationwide protests which capped demonstrations led by citizen-led groups who set an unofficial June 30 deadline for foreigners without papers to leave. FRANCE 24's Sharon Gaffney speaks with Fredson Guilengue, Senior Regional Programme Manager at the Rosa Luxemburg Foundation Southern Africa.",
+      "title": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
+      "summary": "Thousands of people marched across South Africa on Tuesday to demand the departure of undocumented foreign nationals after a weeks-long campaign that has sent thousands fleeing and claimed four lives. Police were out in force for nationwide protests which capped demonstrations led by citizen-led groups who set an unofficial June 30 deadline for foreigners without papers to leave. FRANCE 24's Sharon Gaffney speaks with Fredson Guilengue, Senior Regional Programme Manager at the Rosa Luxemburg Foundation Southern Africa.",
+      "url": "https://www.france24.com/en/south-africa-s-anti-migrant-protesters-march-nationwide-after-thousands-flee-violence",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-06-30T21:10:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f6682e6eb3e0ade5",
+      "title_orig": "'Disgraceful, inhumane': Shark bite kits being stolen from beaches",
+      "summary_orig": "Shark attack survivors and advocates are appalled by the theft of life-saving shark bite kits from NSW beaches.",
+      "lang": "en",
+      "title_en": "'Disgraceful, inhumane': Shark bite kits being stolen from beaches",
+      "summary_en": "Shark attack survivors and advocates are appalled by the theft of life-saving shark bite kits from NSW beaches.",
+      "title": "'Disgraceful, inhumane': Shark bite kits being stolen from beaches",
+      "summary": "Shark attack survivors and advocates are appalled by the theft of life-saving shark bite kits from NSW beaches.",
+      "url": "https://www.abc.net.au/news/2026-07-01/community-shark-bite-kits-being-stolen-from-nsw-beaches/106854140",
+      "source": "Just In",
+      "published_at": "2026-06-30T21:05:29+00:00",
       "tags": [
         "airport/security"
       ],
@@ -20,17 +38,179 @@
       "geo": {}
     },
     {
-      "id": "68031aa98b4bbb3d",
-      "title_orig": "‘Booby-trapped package’ explodes in Monaco, injuring Ukrainian oligarch",
-      "summary_orig": "The attack shocked the country on the Mediterranean coast, one of the world’s smallest sovereign states known for its high concentration of ultra-wealthy residents.",
+      "id": "42ea9226e986cbfe",
+      "title_orig": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
+      "summary_orig": "A day after a deadly attack in northern Germany, the news media’s attention largely shifted to the country’s poor performance at the World Cup.",
       "lang": "en",
-      "title_en": "‘Booby-trapped package’ explodes in Monaco, injuring Ukrainian oligarch",
-      "summary_en": "The attack shocked the country on the Mediterranean coast, one of the world’s smallest sovereign states known for its high concentration of ultra-wealthy residents.",
-      "title": "‘Booby-trapped package’ explodes in Monaco, injuring Ukrainian oligarch",
-      "summary": "The attack shocked the country on the Mediterranean coast, one of the world’s smallest sovereign states known for its high concentration of ultra-wealthy residents.",
-      "url": "https://globalnews.ca/news/11944697/explosion-monaco-ukrainian-vadym-lermolaiev/",
+      "title_en": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
+      "summary_en": "A day after a deadly attack in northern Germany, the news media’s attention largely shifted to the country’s poor performance at the World Cup.",
+      "title": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
+      "summary": "A day after a deadly attack in northern Germany, the news media’s attention largely shifted to the country’s poor performance at the World Cup.",
+      "url": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
+      "source": "NYT > World News",
+      "published_at": "2026-06-30T21:01:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a6c04303c0dac39b",
+      "title_orig": "5 Airports Where Weather Makes Landing Incredibly Challenging",
+      "summary_orig": "High winds, rugged landscapes, and narrow approach paths define this list.",
+      "lang": "en",
+      "title_en": "5 Airports Where Weather Makes Landing Incredibly Challenging",
+      "summary_en": "High winds, rugged landscapes, and narrow approach paths define this list.",
+      "title": "5 Airports Where Weather Makes Landing Incredibly Challenging",
+      "summary": "High winds, rugged landscapes, and narrow approach paths define this list.",
+      "url": "https://simpleflying.com/airports-weather-makes-landings-difficult/",
+      "source": "Simple Flying",
+      "published_at": "2026-06-30T21:00:07+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "33c64c8fcbf71acf",
+      "title_orig": "Ryanair Could Be Forced To Scrap Infamous €55 Check-In Fee After Austrian Court Ruling",
+      "summary_orig": "Ryanair faces a three-month deadline to abolish unfair airport charges after an Austrian court ruled its terms and conditions were unlawful.",
+      "lang": "en",
+      "title_en": "Ryanair Could Be Forced To Scrap Infamous €55 Check-In Fee After Austrian Court Ruling",
+      "summary_en": "Ryanair faces a three-month deadline to abolish unfair airport charges after an Austrian court ruled its terms and conditions were unlawful.",
+      "title": "Ryanair Could Be Forced To Scrap Infamous €55 Check-In Fee After Austrian Court Ruling",
+      "summary": "Ryanair faces a three-month deadline to abolish unfair airport charges after an Austrian court ruled its terms and conditions were unlawful.",
+      "url": "https://simpleflying.com/ryanair-check-in-fee-illegal-austrian-court-ruling/",
+      "source": "Simple Flying",
+      "published_at": "2026-06-30T20:55:28+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "cf306630bafb5833",
+      "title_orig": "Florida taxpayers will foot some of the $5M bill to change airport’s name to honor Trump",
+      "summary_orig": "The funds are expected to help pay for uniforms, signage and marketing materials",
+      "lang": "en",
+      "title_en": "Florida taxpayers will foot some of the $5M bill to change airport’s name to honor Trump",
+      "summary_en": "The funds are expected to help pay for uniforms, signage and marketing materials",
+      "title": "Florida taxpayers will foot some of the $5M bill to change airport’s name to honor Trump",
+      "summary": "The funds are expected to help pay for uniforms, signage and marketing materials",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/florida-airport-trump-tax-bill-b3006211.html",
+      "source": "The Independent World",
+      "published_at": "2026-06-30T20:54:49+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a911db532dd2186e",
+      "title_orig": "Trump threatens to abolish birthright citizenship through Congress after supreme court rules against him – live",
+      "summary_orig": "President reacts to ruling to uphold birthright citizenship after justices strike down executive order aimed at ending longstanding principle Supreme court upholds birthright citizenship , allows states to ban trans women from female sports and ends limits on federal campaign spending What to know about birthright citizenship – explained Sign up for the Breaking News US email The supreme court’s decision to reject Trump’s attempt to fire Federal Reserve governor Lisa Cook yesterday is part of a long-running battle over the independence of the central bank. Trump repeatedly attacked former chair Jerome Powell for not lowering interest rates fast enough, calling him a “moron” on social media. Powell’s term ended in May this year, and he was succeeded by Trump nominee Kevin Warsh. Continue reading...",
+      "lang": "en",
+      "title_en": "Trump threatens to abolish birthright citizenship through Congress after supreme court rules against him – live",
+      "summary_en": "President reacts to ruling to uphold birthright citizenship after justices strike down executive order aimed at ending longstanding principle Supreme court upholds birthright citizenship , allows states to ban trans women from female sports and ends limits on federal campaign spending What to know about birthright citizenship – explained Sign up for the Breaking News US email The supreme court’s decision to reject Trump’s attempt to fire Federal Reserve governor Lisa Cook yesterday is part of a long-running battle over the independence of the central bank. Trump repeatedly attacked former chair Jerome Powell for not lowering interest rates fast enough, calling him a “moron” on social media. Powell’s term ended in May this year, and he was succeeded by Trump nominee Kevin Warsh. Continue reading...",
+      "title": "Trump threatens to abolish birthright citizenship through Congress after supreme court rules against him – live",
+      "summary": "President reacts to ruling to uphold birthright citizenship after justices strike down executive order aimed at ending longstanding principle Supreme court upholds birthright citizenship , allows states to ban trans women from female sports and ends limits on federal campaign spending What to know about birthright citizenship – explained Sign up for the Breaking News US email The supreme court’s decision to reject Trump’s attempt to fire Federal Reserve governor Lisa Cook yesterday is part of a long-running battle over the independence of the central bank. Trump repeatedly attacked former chair Jerome Powell for not lowering interest rates fast enough, calling him a “moron” on social media. Powell’s term ended in May this year, and he was succeeded by Trump nominee Kevin Warsh. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news",
+      "source": "World news | The Guardian",
+      "published_at": "2026-06-30T20:54:34+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "de50efb2ae466e48",
+      "title_orig": "U.S. and Iran to Meet with Mediators in Qatar",
+      "summary_orig": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.",
+      "lang": "en",
+      "title_en": "U.S. and Iran to Meet with Mediators in Qatar",
+      "summary_en": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.",
+      "title": "U.S. and Iran to Meet with Mediators in Qatar",
+      "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.",
+      "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+      "source": "NYT > World News",
+      "published_at": "2026-06-30T20:49:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "0cb55e0a3781798b",
+      "title_orig": "6.0-magnitude earthquake strikes in the Gulf of California",
+      "summary_orig": "A 6.0-magnitude earthquake hit the Gulf of California Monday afternoon, according to the U.S. Geological Survey. The earthquake struck at 12:45 p.m. off the coast of La Paz, Mexico, a popular tourist destination in Baja California. The earthquake happened at a depth of 6.2 miles beneath the Earth’s surface. No tsunami warnings have been issued [...]",
+      "lang": "en",
+      "title_en": "6.0-magnitude earthquake strikes in the Gulf of California",
+      "summary_en": "A 6.0-magnitude earthquake hit the Gulf of California Monday afternoon, according to the U.S. Geological Survey. The earthquake struck at 12:45 p.m. off the coast of La Paz, Mexico, a popular tourist destination in Baja California. The earthquake happened at a depth of 6.2 miles beneath the Earth’s surface. No tsunami warnings have been issued [...]",
+      "title": "6.0-magnitude earthquake strikes in the Gulf of California",
+      "summary": "A 6.0-magnitude earthquake hit the Gulf of California Monday afternoon, according to the U.S. Geological Survey. The earthquake struck at 12:45 p.m. off the coast of La Paz, Mexico, a popular tourist destination in Baja California. The earthquake happened at a depth of 6.2 miles beneath the Earth’s surface. No tsunami warnings have been issued [...]",
+      "url": "https://ktla.com/news/earthquakes/6-0-magnitude-earthquake-strikes-in-the-gulf-of-california/",
+      "source": "KTLA",
+      "published_at": "2026-06-30T20:47:20+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "a3f59ff4b345c501",
+      "title_orig": "Maddy Cusack’s eating habits changed after manager’s comment, girlfriend tells inquest",
+      "summary_orig": "Grace Riglar fights back tears giving evidence Cusack called Sheffield United omission a ‘personal attack’ The girlfriend of the late Sheffield United player Maddy Cusack has told an inquest that Cusack’s former manager Jonathan Morgan called her a “psycho” and that her eating habits changed after he allegedly made a comment referencing her weight. Grace Riglar, who played for Sheffield United for one season alongside Cusack, fought back tears multiple times during an emotional and lengthy evidence session at Chesterfield coroner’s court on Tuesday. At one stage she had to take a break while being cross-examined by lawyers representing Sheffield United. Continue reading...",
+      "lang": "en",
+      "title_en": "Maddy Cusack’s eating habits changed after manager’s comment, girlfriend tells inquest",
+      "summary_en": "Grace Riglar fights back tears giving evidence Cusack called Sheffield United omission a ‘personal attack’ The girlfriend of the late Sheffield United player Maddy Cusack has told an inquest that Cusack’s former manager Jonathan Morgan called her a “psycho” and that her eating habits changed after he allegedly made a comment referencing her weight. Grace Riglar, who played for Sheffield United for one season alongside Cusack, fought back tears multiple times during an emotional and lengthy evidence session at Chesterfield coroner’s court on Tuesday. At one stage she had to take a break while being cross-examined by lawyers representing Sheffield United. Continue reading...",
+      "title": "Maddy Cusack’s eating habits changed after manager’s comment, girlfriend tells inquest",
+      "summary": "Grace Riglar fights back tears giving evidence Cusack called Sheffield United omission a ‘personal attack’ The girlfriend of the late Sheffield United player Maddy Cusack has told an inquest that Cusack’s former manager Jonathan Morgan called her a “psycho” and that her eating habits changed after he allegedly made a comment referencing her weight. Grace Riglar, who played for Sheffield United for one season alongside Cusack, fought back tears multiple times during an emotional and lengthy evidence session at Chesterfield coroner’s court on Tuesday. At one stage she had to take a break while being cross-examined by lawyers representing Sheffield United. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/jun/30/maddy-cusack-inquest-jonathan-morgan",
+      "source": "World news | The Guardian",
+      "published_at": "2026-06-30T20:18:09+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "a769a085f6f91575",
+      "title_orig": "Rain bomb floods Northport, overtops small village dam",
+      "summary_orig": "The Leelanau County village is cleaning up after several inches of rain flooded basements, roads and businesses Monday morning.",
+      "lang": "en",
+      "title_en": "Rain bomb floods Northport, overtops small village dam",
+      "summary_en": "The Leelanau County village is cleaning up after several inches of rain flooded basements, roads and businesses Monday morning.",
+      "title": "Rain bomb floods Northport, overtops small village dam",
+      "summary": "The Leelanau County village is cleaning up after several inches of rain flooded basements, roads and businesses Monday morning.",
+      "url": "https://www.mlive.com/environment/2026/06/rain-bomb-floods-northport-overtops-small-village-dam.html",
+      "source": "mlive.com",
+      "published_at": "2026-06-30T20:14:44+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "29b31d7f8f415437",
+      "title_orig": "Evacuation order remains in place as glacial lake bursts near Pemberton",
+      "summary_orig": "Technical experts anticipate flood waters are likely to peak in Place Glacier’s downstream water channels late in the day on Wednesday, July 1, the Regional District stated.",
+      "lang": "en",
+      "title_en": "Evacuation order remains in place as glacial lake bursts near Pemberton",
+      "summary_en": "Technical experts anticipate flood waters are likely to peak in Place Glacier’s downstream water channels late in the day on Wednesday, July 1, the Regional District stated.",
+      "title": "Evacuation order remains in place as glacial lake bursts near Pemberton",
+      "summary": "Technical experts anticipate flood waters are likely to peak in Place Glacier’s downstream water channels late in the day on Wednesday, July 1, the Regional District stated.",
+      "url": "https://globalnews.ca/news/11945092/evacuation-order-glacial-lake-bursts-pemberton/",
       "source": "globalnews.ca",
-      "published_at": "2026-06-30T19:09:12+00:00",
+      "published_at": "2026-06-30T20:10:40+00:00",
       "tags": [
         "airport/security"
       ],
@@ -38,31 +218,229 @@
       "geo": {}
     },
     {
-      "id": "fb79a176c6ed00f0",
-      "title_orig": "UK hospital unit goes into lockdown over 'Ebola virus' fears, reports say",
-      "summary_orig": "The hospital in Glasgow has gone into lockdown after a patient reportedly presented themselves to medics with possible Ebola",
+      "id": "1f9ab2424c7a6b58",
+      "title_orig": "Report details link between attacks on Jews and online 'spikes of hate'",
+      "summary_orig": "The royal commission has heard new research which found anti-Jewish hate increased online both after October 7, 2023 and the Bondi Beach terror attack in December.",
       "lang": "en",
-      "title_en": "UK hospital unit goes into lockdown over 'Ebola virus' fears, reports say",
-      "summary_en": "The hospital in Glasgow has gone into lockdown after a patient reportedly presented themselves to medics with possible Ebola",
-      "title": "UK hospital unit goes into lockdown over 'Ebola virus' fears, reports say",
-      "summary": "The hospital in Glasgow has gone into lockdown after a patient reportedly presented themselves to medics with possible Ebola",
-      "url": "https://www.birminghammail.co.uk/news/uk-news/uk-hospital-unit-goes-lockdown-34214509",
-      "source": "Birmingham Live - News",
-      "published_at": "2026-06-30T18:51:51+00:00",
+      "title_en": "Report details link between attacks on Jews and online 'spikes of hate'",
+      "summary_en": "The royal commission has heard new research which found anti-Jewish hate increased online both after October 7, 2023 and the Bondi Beach terror attack in December.",
+      "title": "Report details link between attacks on Jews and online 'spikes of hate'",
+      "summary": "The royal commission has heard new research which found anti-Jewish hate increased online both after October 7, 2023 and the Bondi Beach terror attack in December.",
+      "url": "https://www.abc.net.au/news/2026-07-01/real-world-violence-strong-driver-of-online-anti-jewish-hate-nsw/106862394",
+      "source": "Just In",
+      "published_at": "2026-06-30T20:06:06+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fc017114e2a86424",
+      "title_orig": "Five humanitarian workers killed in convoy ambush in South Sudan",
+      "summary_orig": "UN 'deeply saddened' by Monday attack on convoy in Jonglei State, calls for investigation.",
+      "lang": "en",
+      "title_en": "Five humanitarian workers killed in convoy ambush in South Sudan",
+      "summary_en": "UN 'deeply saddened' by Monday attack on convoy in Jonglei State, calls for investigation.",
+      "title": "Five humanitarian workers killed in convoy ambush in South Sudan",
+      "summary": "UN 'deeply saddened' by Monday attack on convoy in Jonglei State, calls for investigation.",
+      "url": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-30T20:03:13+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "e8802ed672f7c2bb",
+      "title_orig": "Portland airport has finished its 11-year, $2.15B renovation. Here’s what it looks like now",
+      "summary_orig": "New restaurants, shops and a gorgeous wood-beamed ceiling highlight the big PDX renovation. But there’s more to it than that.",
+      "lang": "en",
+      "title_en": "Portland airport has finished its 11-year, $2.15B renovation. Here’s what it looks like now",
+      "summary_en": "New restaurants, shops and a gorgeous wood-beamed ceiling highlight the big PDX renovation. But there’s more to it than that.",
+      "title": "Portland airport has finished its 11-year, $2.15B renovation. Here’s what it looks like now",
+      "summary": "New restaurants, shops and a gorgeous wood-beamed ceiling highlight the big PDX renovation. But there’s more to it than that.",
+      "url": "https://www.oregonlive.com/travel/2026/06/portland-airport-has-finished-its-11-year-215b-renovation-heres-what-it-looks-like-now.html",
+      "source": "oregonlive.com",
+      "published_at": "2026-06-30T19:56:55+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "0cbb687cfeaa18a5",
+      "title_orig": "Manhunt in Monaco after parcel bomb injures Ukrainian businessman",
+      "summary_orig": "Police have declined to identify the presumed target of the blast, but several sources say it was Ukrainian-born businessman Vadym Yermolaiev, a permanent resident of Monaco who has acquired Cypriot nationality",
+      "lang": "en",
+      "title_en": "Manhunt in Monaco after parcel bomb injures Ukrainian businessman",
+      "summary_en": "Police have declined to identify the presumed target of the blast, but several sources say it was Ukrainian-born businessman Vadym Yermolaiev, a permanent resident of Monaco who has acquired Cypriot nationality",
+      "title": "Manhunt in Monaco after parcel bomb injures Ukrainian businessman",
+      "summary": "Police have declined to identify the presumed target of the blast, but several sources say it was Ukrainian-born businessman Vadym Yermolaiev, a permanent resident of Monaco who has acquired Cypriot nationality",
+      "url": "https://www.abc.net.au/news/2026-07-01/manhunt-monaco-ukrainian-businessman/106863658",
+      "source": "Just In",
+      "published_at": "2026-06-30T19:53:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "fc077f9cccec5349",
+      "title_orig": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+      "summary_orig": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup.",
+      "lang": "en",
+      "title_en": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+      "summary_en": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup.",
+      "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+      "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky8qk2gl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-30T19:40:52+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "82e142e24e7f256a",
+      "title_orig": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+      "summary_orig": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
+      "lang": "en",
+      "title_en": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+      "summary_en": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
+      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+      "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-30T19:39:29+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "6dfdd33adf803900",
+      "title_orig": "What happened on South Africa’s anti-migrant ‘deadline day’",
+      "summary_orig": "Protests in South Africa after campaign groups set June 30 as a deadline for undocumented migrants to leave the country.",
+      "lang": "en",
+      "title_en": "What happened on South Africa’s anti-migrant ‘deadline day’",
+      "summary_en": "Protests in South Africa after campaign groups set June 30 as a deadline for undocumented migrants to leave the country.",
+      "title": "What happened on South Africa’s anti-migrant ‘deadline day’",
+      "summary": "Protests in South Africa after campaign groups set June 30 as a deadline for undocumented migrants to leave the country.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/what-happened-on-south-africas-anti-migrant-deadline?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-30T19:30:38+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "43a9587062b1d647",
+      "title_orig": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
+      "summary_orig": "Russia's fuel crisis deepens as Ukrainian drone strikes intensify",
+      "lang": "en",
+      "title_en": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
+      "summary_en": "Russia's fuel crisis deepens as Ukrainian drone strikes intensify",
+      "title": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
+      "summary": "Russia's fuel crisis deepens as Ukrainian drone strikes intensify",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss",
+      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "published_at": "2026-06-30T19:29:43+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "c2d38bbcdca39327",
+      "title_orig": "Woman thought she would die in attack by 'evil' predator, court hears",
+      "summary_orig": "Simon Levy, 40, is accused of raping a woman in January last year, months before he allegedly killed two others",
+      "lang": "en",
+      "title_en": "Woman thought she would die in attack by 'evil' predator, court hears",
+      "summary_en": "Simon Levy, 40, is accused of raping a woman in January last year, months before he allegedly killed two others",
+      "title": "Woman thought she would die in attack by 'evil' predator, court hears",
+      "summary": "Simon Levy, 40, is accused of raping a woman in January last year, months before he allegedly killed two others",
+      "url": "https://www.standard.co.uk/news/crime/simon-levy-attack-court-case-old-bailey-b1288242.html",
+      "source": "The Standard News",
+      "published_at": "2026-06-30T19:22:16+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "7739c5579992c070",
+      "title_orig": "S. Africa anti-migrant wave: UN's Türk urges people to 'see in other a human being, not dehumanize'",
+      "summary_orig": "François Picard is pleased to welcome Volker Türk, United Nations High Commissioner for Human Rights. In this wide ranging interview, Volker Türk presents a coherent vision of human rights as the essential framework through which to understand some of the defining global challenges of the twenty first century. Rather than treating migration, climate change, nationality, international law and institutional governance as separate policy questions, Türk argues that they are deeply interconnected manifestations of a broader crisis of solidarity, legality and political responsibility.",
+      "lang": "en",
+      "title_en": "S. Africa anti-migrant wave: UN's Türk urges people to 'see in other a human being, not dehumanize'",
+      "summary_en": "François Picard is pleased to welcome Volker Türk, United Nations High Commissioner for Human Rights. In this wide ranging interview, Volker Türk presents a coherent vision of human rights as the essential framework through which to understand some of the defining global challenges of the twenty first century. Rather than treating migration, climate change, nationality, international law and institutional governance as separate policy questions, Türk argues that they are deeply interconnected manifestations of a broader crisis of solidarity, legality and political responsibility.",
+      "title": "S. Africa anti-migrant wave: UN's Türk urges people to 'see in other a human being, not dehumanize'",
+      "summary": "François Picard is pleased to welcome Volker Türk, United Nations High Commissioner for Human Rights. In this wide ranging interview, Volker Türk presents a coherent vision of human rights as the essential framework through which to understand some of the defining global challenges of the twenty first century. Rather than treating migration, climate change, nationality, international law and institutional governance as separate policy questions, Türk argues that they are deeply interconnected manifestations of a broader crisis of solidarity, legality and political responsibility.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260630-un-s-volker-t%C3%BCrk-we-must-see-in-the-other-a-human-being-and-not-dehumanize-migrants-and-refugees",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-06-30T19:16:40+00:00",
+      "tags": [
+        "diplomatic"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "f4d3cf2e9d8773a0",
+      "title_orig": "Haaland scores winner to send Norway into last-16 Brazil clash",
+      "summary_orig": "Erling Haaland scored a late winner as Norway set up a last-16 showdown with Brazil at the World Cup after taming the Ivory Coast 2-1 in Texas on Tuesday. The Manchester City striker prodded in from close range, the ball dribbling in on 86 minutes for his fifth goal of the tournament. It was the first time that Norway had won a knockout game in the history of the competition. After an even first half that was slow to get going, Antonio Nusa fired Norway into the lead six minutes before the break with one of the goals of the tournament. Manchester United’s Amad Diallo was sent on for the Ivory Coast after an hour and was immediately in the thick of it, stopping a certain second Norway goal and then grabbing a terrific equaliser on 74 minutes. With extra time looming, predator supreme Haaland got on the end of a cross by Patrick Berg to make some Norwegian history. They face five-time champions Brazil on Sunday in New Jersey with the quarter-finals at stake. A match between two physical teams was tepid to begin with at the impressive air-conditioned home of the Dallas Cowboys. Ivory Coast had a sight of goal after 20 minutes, defender Ghislain Konan bursting into the Norway box from the left but finding the side netting. The Ivory Coast players and fans were irate just before the drinks break when the livewire Yan Diomande was brought down on the break just inside his own half. The 19-year-old winger Diomande was growing into the game. The African side were on top and particularly threatening down Diomande’s left-hand side of the pitch. Haaland had little to feed on but might have done better with a tame header that bounced into the hands of goalkeeper Yahia Fofana. Then came a moment of genuine class as Nusa, fed by captain Martin Odegaard, cut inside and bent the ball wonderfully into the top corner. Odegaard put his hands on his head in disbelief at the strike by the 21-year-old, Diomande’s Leipzig team-mate. Stale Solbakken’s Norway finished the first half on the hunt for a second and Haaland was denied by a last-gasp block by Ibrahim Sangare, who celebrated as if scoring a goal. The Ivory Coast, into the knockout rounds for the first time, won their 10th corner to start the second half. Norway were inches away from a second when Diallo blocked the ball on the goal line following a corner. The Norway fans, sensing the next round was close, began their now-famous rowing in the stands. Almost as soon as they stopped, Diallo danced into the box past two challenges for a spectacular leveller. Then up popped Haaland to break Ivorian hearts, with goalkeeper Nyland pulling off a flying stop from Diallo’s well-struck free kick at the death to send Norway through.",
+      "lang": "en",
+      "title_en": "Haaland scores winner to send Norway into last-16 Brazil clash",
+      "summary_en": "Erling Haaland scored a late winner as Norway set up a last-16 showdown with Brazil at the World Cup after taming the Ivory Coast 2-1 in Texas on Tuesday. The Manchester City striker prodded in from close range, the ball dribbling in on 86 minutes for his fifth goal of the tournament. It was the first time that Norway had won a knockout game in the history of the competition. After an even first half that was slow to get going, Antonio Nusa fired Norway into the lead six minutes before the break with one of the goals of the tournament. Manchester United’s Amad Diallo was sent on for the Ivory Coast after an hour and was immediately in the thick of it, stopping a certain second Norway goal and then grabbing a terrific equaliser on 74 minutes. With extra time looming, predator supreme Haaland got on the end of a cross by Patrick Berg to make some Norwegian history. They face five-time champions Brazil on Sunday in New Jersey with the quarter-finals at stake. A match between two physical teams was tepid to begin with at the impressive air-conditioned home of the Dallas Cowboys. Ivory Coast had a sight of goal after 20 minutes, defender Ghislain Konan bursting into the Norway box from the left but finding the side netting. The Ivory Coast players and fans were irate just before the drinks break when the livewire Yan Diomande was brought down on the break just inside his own half. The 19-year-old winger Diomande was growing into the game. The African side were on top and particularly threatening down Diomande’s left-hand side of the pitch. Haaland had little to feed on but might have done better with a tame header that bounced into the hands of goalkeeper Yahia Fofana. Then came a moment of genuine class as Nusa, fed by captain Martin Odegaard, cut inside and bent the ball wonderfully into the top corner. Odegaard put his hands on his head in disbelief at the strike by the 21-year-old, Diomande’s Leipzig team-mate. Stale Solbakken’s Norway finished the first half on the hunt for a second and Haaland was denied by a last-gasp block by Ibrahim Sangare, who celebrated as if scoring a goal. The Ivory Coast, into the knockout rounds for the first time, won their 10th corner to start the second half. Norway were inches away from a second when Diallo blocked the ball on the goal line following a corner. The Norway fans, sensing the next round was close, began their now-famous rowing in the stands. Almost as soon as they stopped, Diallo danced into the box past two challenges for a spectacular leveller. Then up popped Haaland to break Ivorian hearts, with goalkeeper Nyland pulling off a flying stop from Diallo’s well-struck free kick at the death to send Norway through.",
+      "title": "Haaland scores winner to send Norway into last-16 Brazil clash",
+      "summary": "Erling Haaland scored a late winner as Norway set up a last-16 showdown with Brazil at the World Cup after taming the Ivory Coast 2-1 in Texas on Tuesday. The Manchester City striker prodded in from close range, the ball dribbling in on 86 minutes for his fifth goal of the tournament. It was the first time that Norway had won a knockout game in the history of the competition. After an even first half that was slow to get going, Antonio Nusa fired Norway into the lead six minutes before the break with one of the goals of the tournament. Manchester United’s Amad Diallo was sent on for the Ivory Coast after an hour and was immediately in the thick of it, stopping a certain second Norway goal and then grabbing a terrific equaliser on 74 minutes. With extra time looming, predator supreme Haaland got on the end of a cross by Patrick Berg to make some Norwegian history. They face five-time champions Brazil on Sunday in New Jersey with the quarter-finals at stake. A match between two physical teams was tepid to begin with at the impressive air-conditioned home of the Dallas Cowboys. Ivory Coast had a sight of goal after 20 minutes, defender Ghislain Konan bursting into the Norway box from the left but finding the side netting. The Ivory Coast players and fans were irate just before the drinks break when the livewire Yan Diomande was brought down on the break just inside his own half. The 19-year-old winger Diomande was growing into the game. The African side were on top and particularly threatening down Diomande’s left-hand side of the pitch. Haaland had little to feed on but might have done better with a tame header that bounced into the hands of goalkeeper Yahia Fofana. Then came a moment of genuine class as Nusa, fed by captain Martin Odegaard, cut inside and bent the ball wonderfully into the top corner. Odegaard put his hands on his head in disbelief at the strike by the 21-year-old, Diomande’s Leipzig team-mate. Stale Solbakken’s Norway finished the first half on the hunt for a second and Haaland was denied by a last-gasp block by Ibrahim Sangare, who celebrated as if scoring a goal. The Ivory Coast, into the knockout rounds for the first time, won their 10th corner to start the second half. Norway were inches away from a second when Diallo blocked the ball on the goal line following a corner. The Norway fans, sensing the next round was close, began their now-famous rowing in the stands. Almost as soon as they stopped, Diallo danced into the box past two challenges for a spectacular leveller. Then up popped Haaland to break Ivorian hearts, with goalkeeper Nyland pulling off a flying stop from Diallo’s well-struck free kick at the death to send Norway through.",
+      "url": "https://www.dawn.com/news/2011993/haaland-scores-winner-to-send-norway-into-last-16-brazil-clash",
+      "source": "Dawn - Home",
+      "published_at": "2026-06-30T19:12:41+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "f0e6daebb6fd0959",
+      "title_orig": "World Cup 2026: Haaland's late winner sends Norway past resilient Ivory Coast",
+      "summary_orig": "Norway survived an Ivory Coast comeback to progress to the round of 16 with a hard-fought 2-1 victory in Arlington. Erling Haaland's late winner proved decisive as the Drillos held their nerve when it mattered most, withstanding a relentless African assault that saw the Elephants equalise through Amad Diallo's brilliant strike before the \"Cyborg\"'s clinical finish sealed the win.",
+      "lang": "en",
+      "title_en": "World Cup 2026: Haaland's late winner sends Norway past resilient Ivory Coast",
+      "summary_en": "Norway survived an Ivory Coast comeback to progress to the round of 16 with a hard-fought 2-1 victory in Arlington. Erling Haaland's late winner proved decisive as the Drillos held their nerve when it mattered most, withstanding a relentless African assault that saw the Elephants equalise through Amad Diallo's brilliant strike before the \"Cyborg\"'s clinical finish sealed the win.",
+      "title": "World Cup 2026: Haaland's late winner sends Norway past resilient Ivory Coast",
+      "summary": "Norway survived an Ivory Coast comeback to progress to the round of 16 with a hard-fought 2-1 victory in Arlington. Erling Haaland's late winner proved decisive as the Drillos held their nerve when it mattered most, withstanding a relentless African assault that saw the Elephants equalise through Amad Diallo's brilliant strike before the \"Cyborg\"'s clinical finish sealed the win.",
+      "url": "https://www.france24.com/en/sport/20260630-world-cup-2026-haaland-s-late-winner-sends-norway-past-resilient-ivory-coast-1",
+      "source": "France 24 - International breaking news, top stories and headlines",
+      "published_at": "2026-06-30T19:06:06+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
       "geo": {}
     },
     {
       "id": "dce4a73fc3c471f1",
-      "title_orig": "Manhunt launched after explosion in Monaco wounds tycoon in targeted attack - reports",
+      "title_orig": "Manhunt launched after explosion in Monaco wounds tycoon in targeted attack",
       "summary_orig": "An explosion at an apartment building entrance in Monaco reportedly wounded a Ukrainian tycoon with ties to Russia and two other people, the chief prosecutor in the exclusive Mediterranean country said Tuesday.",
       "lang": "en",
-      "title_en": "Manhunt launched after explosion in Monaco wounds tycoon in targeted attack - reports",
+      "title_en": "Manhunt launched after explosion in Monaco wounds tycoon in targeted attack",
       "summary_en": "An explosion at an apartment building entrance in Monaco reportedly wounded a Ukrainian tycoon with ties to Russia and two other people, the chief prosecutor in the exclusive Mediterranean country said Tuesday.",
-      "title": "Manhunt launched after explosion in Monaco wounds tycoon in targeted attack - reports",
+      "title": "Manhunt launched after explosion in Monaco wounds tycoon in targeted attack",
       "summary": "An explosion at an apartment building entrance in Monaco reportedly wounded a Ukrainian tycoon with ties to Russia and two other people, the chief prosecutor in the exclusive Mediterranean country said Tuesday.",
       "url": "https://www.stuff.co.nz/world-news/361000341/explosion-monaco-reportedly-wounds-ukrainian-tycoon",
       "source": "Stuff - /",
@@ -85,60 +463,6 @@
       "url": "https://www.stuff.co.nz/sport/361000071/how-british-media-reacted-englands-rare-series-loss-black-caps-home",
       "source": "Stuff - /",
       "published_at": "2026-06-30T18:43:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "50efcb5f5a293e1f",
-      "title_orig": "Inside Birmingham Airport as new routes launched and key eatery opens amid 'development plans'",
-      "summary_orig": "Dublin, Mallorca, Amsterdam and Alicante are among the most popular destinations",
-      "lang": "en",
-      "title_en": "Inside Birmingham Airport as new routes launched and key eatery opens amid 'development plans'",
-      "summary_en": "Dublin, Mallorca, Amsterdam and Alicante are among the most popular destinations",
-      "title": "Inside Birmingham Airport as new routes launched and key eatery opens amid 'development plans'",
-      "summary": "Dublin, Mallorca, Amsterdam and Alicante are among the most popular destinations",
-      "url": "https://www.birminghammail.co.uk/travel/inside-birmingham-airport-new-routes-34212582",
-      "source": "Birmingham Live - News",
-      "published_at": "2026-06-30T18:41:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "71a8e1e314a4720d",
-      "title_orig": "Young Leicestershire dad strangled girlfriend in front of their baby girl",
-      "summary_orig": "On a later occasion Ashley Pook attacked his then-partner's sister",
-      "lang": "en",
-      "title_en": "Young Leicestershire dad strangled girlfriend in front of their baby girl",
-      "summary_en": "On a later occasion Ashley Pook attacked his then-partner's sister",
-      "title": "Young Leicestershire dad strangled girlfriend in front of their baby girl",
-      "summary": "On a later occasion Ashley Pook attacked his then-partner's sister",
-      "url": "https://www.leicestermercury.co.uk/news/leicester-news/young-leicestershire-dad-strangled-girlfriend-11038647",
-      "source": "Leicestershire Live - frontpage",
-      "published_at": "2026-06-30T18:40:01+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "69b287db3c18e0a9",
-      "title_orig": "Supreme Court strikes down limits on party spending in federal elections, backing Republican appeal",
-      "summary_orig": "WASHINGTON (AP) — The Supreme Court on Tuesday erased limits on how much political parties can spend in coordination with…",
-      "lang": "en",
-      "title_en": "Supreme Court strikes down limits on party spending in federal elections, backing Republican appeal",
-      "summary_en": "WASHINGTON (AP) — The Supreme Court on Tuesday erased limits on how much political parties can spend in coordination with…",
-      "title": "Supreme Court strikes down limits on party spending in federal elections, backing Republican appeal",
-      "summary": "WASHINGTON (AP) — The Supreme Court on Tuesday erased limits on how much political parties can spend in coordination with…",
-      "url": "https://wtop.com/government/2026/06/supreme-court-strikes-down-limits-on-party-spending-in-federal-elections-backing-republican-appeal-2/",
-      "source": "WTOP News",
-      "published_at": "2026-06-30T18:37:39+00:00",
       "tags": [
         "airport/security"
       ],
@@ -182,24 +506,6 @@
       "geo": {}
     },
     {
-      "id": "a911db532dd2186e",
-      "title_orig": "Trump threatens to abolish birthright citizenship through Congress after supreme court rules against him – live",
-      "summary_orig": "President reacts to ruling to uphold birthright citizenship after justices strike down executive order aimed at ending longstanding principle Supreme court upholds birthright citizenship , allows states to ban trans women from female sports and ends limits on federal campaign spending What to know about birthright citizenship – explained Sign up for the Breaking News US email The supreme court’s decision to reject Trump’s attempt to fire Federal Reserve governor Lisa Cook yesterday is part of a long-running battle over the independence of the central bank. Trump repeatedly attacked former chair Jerome Powell for not lowering interest rates fast enough, calling him a “moron” on social media. Powell’s term ended in May this year, and he was succeeded by Trump nominee Kevin Warsh. Continue reading...",
-      "lang": "en",
-      "title_en": "Trump threatens to abolish birthright citizenship through Congress after supreme court rules against him – live",
-      "summary_en": "President reacts to ruling to uphold birthright citizenship after justices strike down executive order aimed at ending longstanding principle Supreme court upholds birthright citizenship , allows states to ban trans women from female sports and ends limits on federal campaign spending What to know about birthright citizenship – explained Sign up for the Breaking News US email The supreme court’s decision to reject Trump’s attempt to fire Federal Reserve governor Lisa Cook yesterday is part of a long-running battle over the independence of the central bank. Trump repeatedly attacked former chair Jerome Powell for not lowering interest rates fast enough, calling him a “moron” on social media. Powell’s term ended in May this year, and he was succeeded by Trump nominee Kevin Warsh. Continue reading...",
-      "title": "Trump threatens to abolish birthright citizenship through Congress after supreme court rules against him – live",
-      "summary": "President reacts to ruling to uphold birthright citizenship after justices strike down executive order aimed at ending longstanding principle Supreme court upholds birthright citizenship , allows states to ban trans women from female sports and ends limits on federal campaign spending What to know about birthright citizenship – explained Sign up for the Breaking News US email The supreme court’s decision to reject Trump’s attempt to fire Federal Reserve governor Lisa Cook yesterday is part of a long-running battle over the independence of the central bank. Trump repeatedly attacked former chair Jerome Powell for not lowering interest rates fast enough, calling him a “moron” on social media. Powell’s term ended in May this year, and he was succeeded by Trump nominee Kevin Warsh. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news",
-      "source": "World news | The Guardian",
-      "published_at": "2026-06-30T18:35:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "8125239ddd04f555",
       "title_orig": "Hospital lockdown amid fears patient has Ebola symptoms",
       "summary_orig": "'The mere mention of the word Ebola strikes panic into people. You think of it as a disease that happens elsewhere.'",
@@ -218,32 +524,14 @@
       "geo": {}
     },
     {
-      "id": "42ea9226e986cbfe",
-      "title_orig": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
-      "summary_orig": "A day after a deadly attack in northern Germany, the news media’s attention largely shifted to the country’s poor performance at the World Cup.",
-      "lang": "en",
-      "title_en": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
-      "summary_en": "A day after a deadly attack in northern Germany, the news media’s attention largely shifted to the country’s poor performance at the World Cup.",
-      "title": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
-      "summary": "A day after a deadly attack in northern Germany, the news media’s attention largely shifted to the country’s poor performance at the World Cup.",
-      "url": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
-      "source": "NYT > World News",
-      "published_at": "2026-06-30T18:32:28+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "8c3e9ae062e0e6f2",
       "title_orig": "TSA finds live smoke grenade jammed inside jar of peanut butter",
-      "summary_orig": "A passenger at Indianapolis International Airport must have thought he was so smooth after he allegedly hid a live smoke grenade inside a jar of peanut butter in his checked luggage. Transportation Security Administration checked baggage officers made the bizarre discovery after noticing something unusual during an X-ray screening of the luggage and pulled the [...]",
+      "summary_orig": "A passenger at Indianapolis International Airport must have thought he was so smooth after he allegedly hid a live smoke grenade inside a jar of peanut butter in his checked luggage. As KTLA sister stations WTTV/WXIN first reported, Transportation Security Administration checked baggage officers made the bizarre discovery after noticing something unusual during an X-ray [...]",
       "lang": "en",
       "title_en": "TSA finds live smoke grenade jammed inside jar of peanut butter",
-      "summary_en": "A passenger at Indianapolis International Airport must have thought he was so smooth after he allegedly hid a live smoke grenade inside a jar of peanut butter in his checked luggage. Transportation Security Administration checked baggage officers made the bizarre discovery after noticing something unusual during an X-ray screening of the luggage and pulled the [...]",
+      "summary_en": "A passenger at Indianapolis International Airport must have thought he was so smooth after he allegedly hid a live smoke grenade inside a jar of peanut butter in his checked luggage. As KTLA sister stations WTTV/WXIN first reported, Transportation Security Administration checked baggage officers made the bizarre discovery after noticing something unusual during an X-ray [...]",
       "title": "TSA finds live smoke grenade jammed inside jar of peanut butter",
-      "summary": "A passenger at Indianapolis International Airport must have thought he was so smooth after he allegedly hid a live smoke grenade inside a jar of peanut butter in his checked luggage. Transportation Security Administration checked baggage officers made the bizarre discovery after noticing something unusual during an X-ray screening of the luggage and pulled the [...]",
+      "summary": "A passenger at Indianapolis International Airport must have thought he was so smooth after he allegedly hid a live smoke grenade inside a jar of peanut butter in his checked luggage. As KTLA sister stations WTTV/WXIN first reported, Transportation Security Administration checked baggage officers made the bizarre discovery after noticing something unusual during an X-ray [...]",
       "url": "https://ktla.com/news/tsa-finds-smoke-grenade-jammed-inside-peanut-butter-jar/",
       "source": "KTLA",
       "published_at": "2026-06-30T18:30:21+00:00",
@@ -380,24 +668,6 @@
       "geo": {}
     },
     {
-      "id": "de50efb2ae466e48",
-      "title_orig": "U.S. and Iran to Meet with Mediators in Qatar",
-      "summary_orig": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.",
-      "lang": "en",
-      "title_en": "U.S. and Iran to Meet with Mediators in Qatar",
-      "summary_en": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.",
-      "title": "U.S. and Iran to Meet with Mediators in Qatar",
-      "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.",
-      "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
-      "source": "NYT > World News",
-      "published_at": "2026-06-30T18:06:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "296ac82a9df61f5a",
       "title_orig": "Jetway jackpot: man wins $3.3m on slot machine at Las Vegas airport",
       "summary_orig": "‘That’s one way to spend a layover,’ says gambling company after lucky traveler wins big on $10 stake Generally people want whatever happens in Vegas to stay there – but this might be an exception! A lucky traveler transiting through Las Vegas’s Harry Reid international airport on Sunday won more than $3.3m from a slot machine there, prompting facility officials to write on X on Tuesday: “Now that’s one way to spend a layover. Continue reading...",
@@ -413,24 +683,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "92ead1ed3860c4a2",
-      "title_orig": "Leader of outlawed group arrested in Pakistan-administered Kashmir after deadly protests",
-      "summary_orig": "Police in Pakistan-administered Kashmir have arrested Shaukat Nawaz Mir, leader of the banned Joint Awami Action Committee.",
-      "lang": "en",
-      "title_en": "Leader of outlawed group arrested in Pakistan-administered Kashmir after deadly protests",
-      "summary_en": "Police in Pakistan-administered Kashmir have arrested Shaukat Nawaz Mir, leader of the banned Joint Awami Action Committee.",
-      "title": "Leader of outlawed group arrested in Pakistan-administered Kashmir after deadly protests",
-      "summary": "Police in Pakistan-administered Kashmir have arrested Shaukat Nawaz Mir, leader of the banned Joint Awami Action Committee.",
-      "url": "https://www.seattletimes.com/nation-world/leader-of-outlawed-group-arrested-in-pakistan-administered-kashmir-after-deadly-protests/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-06-30T17:58:02+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -578,24 +830,6 @@
       "geo": {}
     },
     {
-      "id": "7be6e5e2fb6e6c4b",
-      "title_orig": "Strike threat on key Birmingham route amid 'not acceptable' claim",
-      "summary_orig": "The company runs services on the West Coast Main Line from Birmingham to London and Scotland",
-      "lang": "en",
-      "title_en": "Strike threat on key Birmingham route amid 'not acceptable' claim",
-      "summary_en": "The company runs services on the West Coast Main Line from Birmingham to London and Scotland",
-      "title": "Strike threat on key Birmingham route amid 'not acceptable' claim",
-      "summary": "The company runs services on the West Coast Main Line from Birmingham to London and Scotland",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/strike-threat-key-birmingham-route-34214229",
-      "source": "Birmingham Live - News",
-      "published_at": "2026-06-30T17:27:08+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "ee5419a301c13a00",
       "title_orig": "China Increases Military and Economic Pressure on Japan",
       "summary_orig": "Beijing’s moves have included flying bombers near Japan, detaining businesspeople and restricting the exports of rare earths.",
@@ -629,60 +863,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "45c5fe0d630808be",
-      "title_orig": "US supreme court strikes down limits on campaign spending",
-      "summary_orig": "Case stems from 2022 lawsuit challenging FEC’s enforcement of limits on ‘coordinated party expenditures’ Supreme court decisions – live updates Sign up for the Breaking News US email One of the last remaining barriers between wealthy donors sending unlimited funds to federal political candidates fell after the US supreme court struck down a lower court ruling that limited spending by political parties in support of their candidates. “A BIG WIN FOR REPUBLICANS and, more importantly, The First Amendment!” wrote Donald Trump in a post on Truth Social. Continue reading...",
-      "lang": "en",
-      "title_en": "US supreme court strikes down limits on campaign spending",
-      "summary_en": "Case stems from 2022 lawsuit challenging FEC’s enforcement of limits on ‘coordinated party expenditures’ Supreme court decisions – live updates Sign up for the Breaking News US email One of the last remaining barriers between wealthy donors sending unlimited funds to federal political candidates fell after the US supreme court struck down a lower court ruling that limited spending by political parties in support of their candidates. “A BIG WIN FOR REPUBLICANS and, more importantly, The First Amendment!” wrote Donald Trump in a post on Truth Social. Continue reading...",
-      "title": "US supreme court strikes down limits on campaign spending",
-      "summary": "Case stems from 2022 lawsuit challenging FEC’s enforcement of limits on ‘coordinated party expenditures’ Supreme court decisions – live updates Sign up for the Breaking News US email One of the last remaining barriers between wealthy donors sending unlimited funds to federal political candidates fell after the US supreme court struck down a lower court ruling that limited spending by political parties in support of their candidates. “A BIG WIN FOR REPUBLICANS and, more importantly, The First Amendment!” wrote Donald Trump in a post on Truth Social. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/jun/30/supreme-court-spending-political-candidates-ruling",
-      "source": "World news | The Guardian",
-      "published_at": "2026-06-30T17:11:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "82e142e24e7f256a",
-      "title_orig": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "summary_orig": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-      "lang": "en",
-      "title_en": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "summary_en": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-30T17:10:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "026ea129c4dedaee",
-      "title_orig": "Exeter City sign experienced striker Josh Gordon",
-      "summary_orig": "Josh has played over 250 games in the EFL",
-      "lang": "en",
-      "title_en": "Exeter City sign experienced striker Josh Gordon",
-      "summary_en": "Josh has played over 250 games in the EFL",
-      "title": "Exeter City sign experienced striker Josh Gordon",
-      "summary": "Josh has played over 250 games in the EFL",
-      "url": "https://www.devonlive.com/sport/football/transfer-news/exeter-city-sign-experienced-striker-11038687",
-      "source": "Devon Live - frontpage",
-      "published_at": "2026-06-30T17:03:53+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -731,7 +911,7 @@
       "title": "Next chancellor will have to find £5bn to fund black hole in defence funding, government figures reveal – as it happened",
       "summary": "Keir Starmer earlier unveiled a £15bn plan but said defence spending cannot be ‘bottomless pit’ and MoD has to ‘spend better’ Keir Starmer is speaking now. They are at Malloy Aeronautics, a firm that designs heavy-lift drones, and Starmer says this morning they showed him one of the heaviest drones he had ever seen. Last year, I made the decision in the national interest to reprioritise aid spending towards defence and achieve the biggest uplift in defence spending since the end of the cold war. That was the right choice because the world has changed. National security is economic security. Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/jun/30/defence-investment-plan-keir-starmer-dan-jarvis-labour-andy-burnham-uk-politics-latest-news",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-06-30T16:51:42+00:00",
       "tags": [
         "airport/security"
@@ -755,60 +935,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "8ddb0dadfe0ea806",
-      "title_orig": "Supreme Court rulings live: Trump turns to Congress to end birthright citizenship after SCOTUS strikes down executive order",
-      "summary_orig": "Justices affirmed that anyone born in the US is a citizen, per the Citizenship Clause of the 14th Amendment",
-      "lang": "en",
-      "title_en": "Supreme Court rulings live: Trump turns to Congress to end birthright citizenship after SCOTUS strikes down executive order",
-      "summary_en": "Justices affirmed that anyone born in the US is a citizen, per the Citizenship Clause of the 14th Amendment",
-      "title": "Supreme Court rulings live: Trump turns to Congress to end birthright citizenship after SCOTUS strikes down executive order",
-      "summary": "Justices affirmed that anyone born in the US is a citizen, per the Citizenship Clause of the 14th Amendment",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/supreme-court-rulings-live-updates-scotus-trump-b3005856.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-30T16:43:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8a74eb5661d77214",
-      "title_orig": "Love Island Casa Julia's job, Instagram and more as she warns girls 'good luck'",
-      "summary_orig": "Love Island's Julia Majchrzak is one of the Casa Amor bombshells already making her mark on the villa",
-      "lang": "en",
-      "title_en": "Love Island Casa Julia's job, Instagram and more as she warns girls 'good luck'",
-      "summary_en": "Love Island's Julia Majchrzak is one of the Casa Amor bombshells already making her mark on the villa",
-      "title": "Love Island Casa Julia's job, Instagram and more as she warns girls 'good luck'",
-      "summary": "Love Island's Julia Majchrzak is one of the Casa Amor bombshells already making her mark on the villa",
-      "url": "https://www.bristolpost.co.uk/news/celebs-tv/love-island-casa-julias-job-11038640",
-      "source": "Bristol Post - News",
-      "published_at": "2026-06-30T16:42:45+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "17b4277db321262a",
-      "title_orig": "N. Prasanth makes a veiled attack on A. Jayathilak",
-      "summary_orig": "Social media post on the day Jayathilak superannuated from service did not name him but carried his photograph",
-      "lang": "en",
-      "title_en": "N. Prasanth makes a veiled attack on A. Jayathilak",
-      "summary_en": "Social media post on the day Jayathilak superannuated from service did not name him but carried his photograph",
-      "title": "N. Prasanth makes a veiled attack on A. Jayathilak",
-      "summary": "Social media post on the day Jayathilak superannuated from service did not name him but carried his photograph",
-      "url": "https://www.thehindu.com/news/national/kerala/n-prasanth-makes-a-veiled-attack-on-a-jayathilak/article71167125.ece",
-      "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "published_at": "2026-06-30T16:37:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -848,42 +974,6 @@
       "geo": {}
     },
     {
-      "id": "fb6d0342d3994185",
-      "title_orig": "Supreme Court strikes down Watergate-era limits on campaign funds for political parties",
-      "summary_orig": "The Supreme Court ruled again that campaign funding is free speech protected by the 1st Amendment.",
-      "lang": "en",
-      "title_en": "Supreme Court strikes down Watergate-era limits on campaign funds for political parties",
-      "summary_en": "The Supreme Court ruled again that campaign funding is free speech protected by the 1st Amendment.",
-      "title": "Supreme Court strikes down Watergate-era limits on campaign funds for political parties",
-      "summary": "The Supreme Court ruled again that campaign funding is free speech protected by the 1st Amendment.",
-      "url": "https://www.latimes.com/politics/story/2026-06-30/supreme-court-strikes-down-watergate-era-limits-on-campaign-funds-for-political-parties",
-      "source": "World & Nation",
-      "published_at": "2026-06-30T16:13:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "9117606058104f99",
-      "title_orig": "Criminal Record: Teen spiked in Magaluf and firebomb gang terrorise locals",
-      "summary_orig": "Criminal Record has brought together a round-up of Sunday's biggest crime stories.",
-      "lang": "en",
-      "title_en": "Criminal Record: Teen spiked in Magaluf and firebomb gang terrorise locals",
-      "summary_en": "Criminal Record has brought together a round-up of Sunday's biggest crime stories.",
-      "title": "Criminal Record: Teen spiked in Magaluf and firebomb gang terrorise locals",
-      "summary": "Criminal Record has brought together a round-up of Sunday's biggest crime stories.",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/criminal-record-teen-spiked-magaluf-37368605",
-      "source": "Daily Record - Home",
-      "published_at": "2026-06-30T16:13:15+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "852efd202430ad53",
       "title_orig": "PM Modi, Iran President discuss West Asia; India stresses peace, stability",
       "summary_orig": "The two leaders spoke on the phone against the backdrop of concerns about the ceasefire in West Asia following fresh attacks by the US and Iran recently.",
@@ -895,24 +985,6 @@
       "url": "https://www.hindustantimes.com/india-news/pm-modi-speaks-with-iran-president-pezeshkian-india-backs-lasting-peace-in-west-asia-101782835791463.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2026-06-30T16:12:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "61e1d5645c00f750",
-      "title_orig": "Food delivery man punched outside Burger King as CCTV image released",
-      "summary_orig": "Police have released a CCTV image of a man they believe could have information following the attack in Liverpool city centre",
-      "lang": "en",
-      "title_en": "Food delivery man punched outside Burger King as CCTV image released",
-      "summary_en": "Police have released a CCTV image of a man they believe could have information following the attack in Liverpool city centre",
-      "title": "Food delivery man punched outside Burger King as CCTV image released",
-      "summary": "Police have released a CCTV image of a man they believe could have information following the attack in Liverpool city centre",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/food-delivery-man-punched-outside-34213024",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-06-30T16:10:26+00:00",
       "tags": [
         "airport/security"
       ],
@@ -956,33 +1028,6 @@
       "geo": {}
     },
     {
-      "id": "a553b805e9e190d9",
-      "title_orig": "Why police are stopping drivers at Manchester Airport",
-      "summary_orig": "A number of police cars were seen in attendance near to a Manchester Airport car park",
-      "lang": "en",
-      "title_en": "Why police are stopping drivers at Manchester Airport",
-      "summary_en": "A number of police cars were seen in attendance near to a Manchester Airport car park",
-      "title": "Why police are stopping drivers at Manchester Airport",
-      "summary": "A number of police cars were seen in attendance near to a Manchester Airport car park",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/reason-police-stopping-drivers-manchester-34213716",
-      "source": "MEN - News",
-      "published_at": "2026-06-30T16:07:45+00:00",
-      "tags": [
-        "MAN",
-        "United Kingdom",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "Manchester",
-        "city": "Manchester",
-        "country": "United Kingdom",
-        "iata": "MAN",
-        "lat": 53.3652,
-        "lon": -2.2727
-      }
-    },
-    {
       "id": "bfc897f9893fbc64",
       "title_orig": "Supreme Court strikes down limits on party spending in federal elections",
       "summary_orig": "The court struck down a federal election law that is more than 50 years old, a decision prompted by a Republican-led lawsuit that includes Vice President JD Vance.",
@@ -1019,42 +1064,6 @@
       "geo": {}
     },
     {
-      "id": "e66a00028a9d2d0a",
-      "title_orig": "Lorain County seeks public input on new 20-year master plan for regional airport",
-      "summary_orig": "Lorain County is seeking public feedback on a new 20-year master plan that will guide future improvements at the regional airport.",
-      "lang": "en",
-      "title_en": "Lorain County seeks public input on new 20-year master plan for regional airport",
-      "summary_en": "Lorain County is seeking public feedback on a new 20-year master plan that will guide future improvements at the regional airport.",
-      "title": "Lorain County seeks public input on new 20-year master plan for regional airport",
-      "summary": "Lorain County is seeking public feedback on a new 20-year master plan that will guide future improvements at the regional airport.",
-      "url": "https://www.cleveland.com/lorain-county/2026/06/lorain-county-seeks-public-input-on-new-20-year-master-plan-for-regional-airport.html",
-      "source": "cleveland.com",
-      "published_at": "2026-06-30T16:02:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "855ef97443e2b3ca",
-      "title_orig": "Woman left with broken ankle and bruised face after Chatham High Street attack",
-      "summary_orig": "Police are appealing for witnesses to come forward",
-      "lang": "en",
-      "title_en": "Woman left with broken ankle and bruised face after Chatham High Street attack",
-      "summary_en": "Police are appealing for witnesses to come forward",
-      "title": "Woman left with broken ankle and bruised face after Chatham High Street attack",
-      "summary": "Police are appealing for witnesses to come forward",
-      "url": "https://www.kentlive.news/news/kent-news/woman-left-broken-ankle-bruised-11038312",
-      "source": "Kent Live - frontpage",
-      "published_at": "2026-06-30T16:00:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "dfe25944aac07fb1",
       "title_orig": "New Zealand's team of real men humble England's ultra egos in one of the great tests",
       "summary_orig": "OPINION: Ben Stokes tried to turn the test into a personal theatre show, but a Kiwi side packed with true grit shamed his bombastic team.",
@@ -1066,42 +1075,6 @@
       "url": "https://www.stuff.co.nz/sport/360999859/mark-reason-new-zealands-team-real-men-humble-englands-ultra-egos",
       "source": "Stuff - /",
       "published_at": "2026-06-30T16:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c7d4b6b98fcc28a5",
-      "title_orig": "Teachers to walk out on strike after 'broken promises' at Liverpool school",
-      "summary_orig": "The All Saints Multi Academy Trust said it respects its employees' right to take industrial action, and will implement plans to minimise any disruption to the school day",
-      "lang": "en",
-      "title_en": "Teachers to walk out on strike after 'broken promises' at Liverpool school",
-      "summary_en": "The All Saints Multi Academy Trust said it respects its employees' right to take industrial action, and will implement plans to minimise any disruption to the school day",
-      "title": "Teachers to walk out on strike after 'broken promises' at Liverpool school",
-      "summary": "The All Saints Multi Academy Trust said it respects its employees' right to take industrial action, and will implement plans to minimise any disruption to the school day",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/teachers-walk-out-strike-after-34209977",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-06-30T15:53:57+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "b39225657a480179",
-      "title_orig": "FBI warns of new cyber attack that hijacks your web traffic and steals your data",
-      "summary_orig": "Criminals are exploiting traffic distribution systems to silently redirect users to fraudulent sites, and the FBI says the threat is growing rapidly as attackers become more sophisticated.",
-      "lang": "en",
-      "title_en": "FBI warns of new cyber attack that hijacks your web traffic and steals your data",
-      "summary_en": "Criminals are exploiting traffic distribution systems to silently redirect users to fraudulent sites, and the FBI says the threat is growing rapidly as attackers become more sophisticated.",
-      "title": "FBI warns of new cyber attack that hijacks your web traffic and steals your data",
-      "summary": "Criminals are exploiting traffic distribution systems to silently redirect users to fraudulent sites, and the FBI says the threat is growing rapidly as attackers become more sophisticated.",
-      "url": "https://www.mlive.com/news/us-world/2026/06/fbi-warns-of-new-cyber-attack-that-hijacks-your-web-traffic-and-steals-your-data.html",
-      "source": "mlive.com",
-      "published_at": "2026-06-30T15:50:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1208,24 +1181,6 @@
       "geo": {}
     },
     {
-      "id": "54569519a158c45b",
-      "title_orig": "A-list celebrity couple mocked for airport disguise – but everyone can see who they are",
-      "summary_orig": "'This is attention seeking.'",
-      "lang": "en",
-      "title_en": "A-list celebrity couple mocked for airport disguise – but everyone can see who they are",
-      "summary_en": "'This is attention seeking.'",
-      "title": "A-list celebrity couple mocked for airport disguise – but everyone can see who they are",
-      "summary": "'This is attention seeking.'",
-      "url": "https://metro.co.uk/2026/06/30/a-list-celebrity-couple-mocked-airport-disguise-everyone-can-see-28986855/",
-      "source": "Metro",
-      "published_at": "2026-06-30T15:29:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "80180697d5b611ed",
       "title_orig": "Pakistan becomes permanent member of International Olive Council",
       "summary_orig": "Pakistan has become a permanent member of the International Olive Council (IOC) for the first time, the Foreign Office (FO) said on Monday. According to the FO, Pakistan assumed its seat during the IOC’s 123rd session held in Lisbon, Portugal, which was attended by 27 olive-producing countries. A Pakistani delegation, led by Federal Minister for National Food Security and Research Rana Tanveer Hussain, represented the country at the meeting. The minister briefed council members on Pakistan’s rapidly expanding olive sector and highlighted the country’s efforts to promote sustainable olive production in the context of climate change, according to the FO statement. Pakistan also reaffirmed its commitment to playing a positive and constructive role in the global olive sector and to further strengthening its presence in the international olive market. The minister was accompanied by Pakistan’s ambassador to Portugal, Aisha Farooqui, according to a statement from the embassy. During the session, Pakistan highlighted key developments in its olive sector, including the plantation of more than seven million olive trees across the country. Officials said olive cultivation is currently underway on 55,669 acres of land, with olive clusters expanding rapidly. The FO said Pakistan has established a complete “farm-to-table” value chain in the sector, along with 51 operational olive oil extraction units. It added that modern processing facilities, nurseries and meteorological stations have been set up, along with four laboratories developed in line with IOC standards. The country has also achieved self-sufficiency in the local production of certified olive saplings, while Pakistani olive oil has gained international recognition, the statement added. Established in 1959, the IOC serves as an intergovernmental organisation that promotes sustainable and responsible development of the olive sector. It represents countries accounting for more than 94 per cent of global olive oil production.",
@@ -1280,42 +1235,6 @@
       "geo": {}
     },
     {
-      "id": "1cca202a5e30658d",
-      "title_orig": "Son carried out sex attacks on own mum in Scots nursing home",
-      "summary_orig": "Craig Leiper claimed his 82-year-old mother had a history of health issues and he had been caring for her on and off since he was 12 years old.",
-      "lang": "en",
-      "title_en": "Son carried out sex attacks on own mum in Scots nursing home",
-      "summary_en": "Craig Leiper claimed his 82-year-old mother had a history of health issues and he had been caring for her on and off since he was 12 years old.",
-      "title": "Son carried out sex attacks on own mum in Scots nursing home",
-      "summary": "Craig Leiper claimed his 82-year-old mother had a history of health issues and he had been caring for her on and off since he was 12 years old.",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/son-carried-out-sex-attacks-37368178",
-      "source": "Daily Record - Home",
-      "published_at": "2026-06-30T15:12:43+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "720ea0314ea8d0a1",
-      "title_orig": "A $1.6 billion airport transformation is officially underway in Cleveland — here's the timeline",
-      "summary_orig": "The 1,600-space Gold Lot represents the first visible step toward a $1.6 billion terminal replacement scheduled to open in 2032.",
-      "lang": "en",
-      "title_en": "A $1.6 billion airport transformation is officially underway in Cleveland — here's the timeline",
-      "summary_en": "The 1,600-space Gold Lot represents the first visible step toward a $1.6 billion terminal replacement scheduled to open in 2032.",
-      "title": "A $1.6 billion airport transformation is officially underway in Cleveland — here's the timeline",
-      "summary": "The 1,600-space Gold Lot represents the first visible step toward a $1.6 billion terminal replacement scheduled to open in 2032.",
-      "url": "https://www.cleveland.com/news/2026/06/parking-lot-is-just-the-beginning-cleveland-hopkins-airport-overhaul-could-get-even-bigger.html",
-      "source": "cleveland.com",
-      "published_at": "2026-06-30T15:04:41+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "7a2270777575cbad",
       "title_orig": "Two Israeli Air Force fighter jets were scrambled to intercept unresponsive flight from Warsaw",
       "summary_orig": "Two Israeli Air Force fighter jets scrambled over the Mediterranean Sea today to intercept a Tel Aviv-bound passenger plane after communications abruptly went silent, triggering a major security scare. WARSAW — LOT Polish Airlines flight 155, operated by the Bulgarian charter company Electra Airways, departed Warsaw Chopin Airport at 11:15 CEST. Roughly three hours into […] The post Two Israeli Air Force fighter jets were scrambled to intercept unresponsive flight from Warsaw appeared first on AIRLIVE .",
@@ -1352,42 +1271,6 @@
       "geo": {}
     },
     {
-      "id": "dea4f715de665f63",
-      "title_orig": "Video captures thug throwing boiling water over police officer in shocking attack",
-      "summary_orig": "John Davies, 58, punched one officer in the face before grabbing his recently-boiled kettle and pouring its contents over the other [National news]",
-      "lang": "en",
-      "title_en": "Video captures thug throwing boiling water over police officer in shocking attack",
-      "summary_en": "John Davies, 58, punched one officer in the face before grabbing his recently-boiled kettle and pouring its contents over the other [National news]",
-      "title": "Video captures thug throwing boiling water over police officer in shocking attack",
-      "summary": "John Davies, 58, punched one officer in the face before grabbing his recently-boiled kettle and pouring its contents over the other [National news]",
-      "url": "https://www.cornwalllive.com/news/uk-world-news/video-captures-thug-throwing-boiling-11038356",
-      "source": "Cornwall Live - frontpage",
-      "published_at": "2026-06-30T15:00:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7c94b71a425db03e",
-      "title_orig": "Bristol councillor cleared after comparing secondary school to terrorists",
-      "summary_orig": "The Bristol city Conservativesaid he 'trusted Hamas more than the school'",
-      "lang": "en",
-      "title_en": "Bristol councillor cleared after comparing secondary school to terrorists",
-      "summary_en": "The Bristol city Conservativesaid he 'trusted Hamas more than the school'",
-      "title": "Bristol councillor cleared after comparing secondary school to terrorists",
-      "summary": "The Bristol city Conservativesaid he 'trusted Hamas more than the school'",
-      "url": "https://www.bristolpost.co.uk/news/bristol-news/bristol-councillor-cleared-after-comparing-11037501",
-      "source": "Bristol Post - News",
-      "published_at": "2026-06-30T15:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "62a2cfcb7bcac291",
       "title_orig": "Parcel Bomb Explodes in Monaco, Injuring 3",
       "summary_orig": "The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run.",
@@ -1403,24 +1286,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "584ff818eec5095c",
-      "title_orig": "Injured woman found in Sandwell Valley Country Park after 'sex attack'",
-      "summary_orig": "Police officers will remain in the area following the 'concerning' incident",
-      "lang": "en",
-      "title_en": "Injured woman found in Sandwell Valley Country Park after 'sex attack'",
-      "summary_en": "Police officers will remain in the area following the 'concerning' incident",
-      "title": "Injured woman found in Sandwell Valley Country Park after 'sex attack'",
-      "summary": "Police officers will remain in the area following the 'concerning' incident",
-      "url": "https://www.birminghammail.co.uk/black-country/injured-woman-found-sandwell-valley-34212792",
-      "source": "Birmingham Live - Home",
-      "published_at": "2026-06-30T14:56:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1532,24 +1397,6 @@
       "geo": {}
     },
     {
-      "id": "92a5991ef99757b6",
-      "title_orig": "Southwell man suffers fractured eye socket after 'attack with wooden pole'",
-      "summary_orig": "The victim – a man in his thirties – was reportedly attacked with a piece of wood by multiple people",
-      "lang": "en",
-      "title_en": "Southwell man suffers fractured eye socket after 'attack with wooden pole'",
-      "summary_en": "The victim – a man in his thirties – was reportedly attacked with a piece of wood by multiple people",
-      "title": "Southwell man suffers fractured eye socket after 'attack with wooden pole'",
-      "summary": "The victim – a man in his thirties – was reportedly attacked with a piece of wood by multiple people",
-      "url": "https://www.nottinghampost.com/news/nottingham-news/southwell-man-suffers-fractured-eye-11038173",
-      "source": "Nottinghamshire Live - frontpage",
-      "published_at": "2026-06-30T14:35:49+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5832aded6d43c61e",
       "title_orig": "Senegalese MPs move to clip presidential powers as tensions mount",
       "summary_orig": "The proposed changes agreed by a majority of MPs sparked protests outside parliament.",
@@ -1579,24 +1426,6 @@
       "url": "https://airlive.net/tracking/2026/06/30/tui-boeing-787-is-diverting-to-gatwick-after-6-hours-in-the-air-over-atlantic/",
       "source": "AIRLIVE",
       "published_at": "2026-06-30T14:16:33+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "3bab27e84bd9219d",
-      "title_orig": "Jay & Pamela are walking the runway at New York Fashion Week in tonight’s emotional season premiere",
-      "summary_orig": "Jay and Pamela, a married couple with brittle bone disorder, return to TLC as they pursue independence and new adventures in New York City.",
-      "lang": "en",
-      "title_en": "Jay & Pamela are walking the runway at New York Fashion Week in tonight’s emotional season premiere",
-      "summary_en": "Jay and Pamela, a married couple with brittle bone disorder, return to TLC as they pursue independence and new adventures in New York City.",
-      "title": "Jay & Pamela are walking the runway at New York Fashion Week in tonight’s emotional season premiere",
-      "summary": "Jay and Pamela, a married couple with brittle bone disorder, return to TLC as they pursue independence and new adventures in New York City.",
-      "url": "https://www.pennlive.com/tv/2026/06/jay-pamela-are-walking-the-runway-at-new-york-fashion-week-in-tonights-emotional-season-premiere.html",
-      "source": "pennlive.com",
-      "published_at": "2026-06-30T14:01:02+00:00",
       "tags": [
         "airport/security"
       ],
@@ -1712,60 +1541,6 @@
       "geo": {}
     },
     {
-      "id": "8b645c52d6a6161e",
-      "title_orig": "‘Stoke Hell’: Protesters to descend on notorious Exeter roundabout",
-      "summary_orig": "It's been labelled confusing, scary and unsafe",
-      "lang": "en",
-      "title_en": "‘Stoke Hell’: Protesters to descend on notorious Exeter roundabout",
-      "summary_en": "It's been labelled confusing, scary and unsafe",
-      "title": "‘Stoke Hell’: Protesters to descend on notorious Exeter roundabout",
-      "summary": "It's been labelled confusing, scary and unsafe",
-      "url": "https://www.devonlive.com/news/devon-news/stoke-hell-protesters-descend-notorious-11037459",
-      "source": "Devon Live - frontpage",
-      "published_at": "2026-06-30T13:42:31+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "ffd6a66fe0cd2044",
-      "title_orig": "Edinburgh easyJet passenger who launched sex attack on flight has sentence reduced",
-      "summary_orig": "The female passenger was left hysterical following the incident onboard.",
-      "lang": "en",
-      "title_en": "Edinburgh easyJet passenger who launched sex attack on flight has sentence reduced",
-      "summary_en": "The female passenger was left hysterical following the incident onboard.",
-      "title": "Edinburgh easyJet passenger who launched sex attack on flight has sentence reduced",
-      "summary": "The female passenger was left hysterical following the incident onboard.",
-      "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-easyjet-passenger-who-launched-34212064",
-      "source": "Edinburgh Live - News",
-      "published_at": "2026-06-30T13:41:12+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "e876af4f5971e5e8",
-      "title_orig": "Hunt for three young boys after teenager attacked on Cornwall beach",
-      "summary_orig": "Several incidents have happened on the same beach in recent months",
-      "lang": "en",
-      "title_en": "Hunt for three young boys after teenager attacked on Cornwall beach",
-      "summary_en": "Several incidents have happened on the same beach in recent months",
-      "title": "Hunt for three young boys after teenager attacked on Cornwall beach",
-      "summary": "Several incidents have happened on the same beach in recent months",
-      "url": "https://www.cornwalllive.com/news/cornwall-news/hunt-three-young-boys-after-11038048",
-      "source": "Cornwall Live - frontpage",
-      "published_at": "2026-06-30T13:40:36+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "6cbc22763192211e",
       "title_orig": "‘I was abducted by Boko Haram aged 5 – our children still face a deadly threat every day’",
       "summary_orig": "With the number of child abductions on the rise again in northern Nigeria, an area ravaged by conflict and recently the target of Trump-led US strikes, chief international correspondent Bel Trew meets those who have survived brutality and captivity",
@@ -1874,60 +1649,6 @@
       "geo": {}
     },
     {
-      "id": "95d5af216bc79042",
-      "title_orig": "Kenyan police open fire at protest against reported abductions, witnesses say",
-      "summary_orig": "NAIROBI, June 30 - Kenyan police opened fire at a protest in Nairobi against reported abductions on Tuesday, killing at least one person, two witnesses told Reuters.",
-      "lang": "en",
-      "title_en": "Kenyan police open fire at protest against reported abductions, witnesses say",
-      "summary_en": "NAIROBI, June 30 - Kenyan police opened fire at a protest in Nairobi against reported abductions on Tuesday, killing at least one person, two witnesses told Reuters.",
-      "title": "Kenyan police open fire at protest against reported abductions, witnesses say",
-      "summary": "NAIROBI, June 30 - Kenyan police opened fire at a protest in Nairobi against reported abductions on Tuesday, killing at least one person, two witnesses told Reuters.",
-      "url": "https://www.straitstimes.com/world/kenyan-police-open-fire-at-protest-against-reported-abductions-witnesses-say",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-30T13:20:18+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0309d608756827ad",
-      "title_orig": "Josh Burns says partner Georgie Purcell faces antisemitic abuse because he is Jewish, commission hears",
-      "summary_orig": "The royal commission into antisemitism and social cohesion hears how witnesses are subjected to hate speech amplified by misogyny Get our breaking news email , free app or daily news podcast Vile, threatening abuse is being levelled at witnesses to the antisemitism royal commission, the inquiry has heard, while a Labor MP has said attacks on his partner were heightened because they were stacked with misogyny. Meanwhile, data analysis has shown how quickly factual reports are transformed into conspiracy theories online, and that while there was a spike in antisemitism after the Bondi terror attack, there was a “huge spike” in anti-Muslim hate. Continue reading...",
-      "lang": "en",
-      "title_en": "Josh Burns says partner Georgie Purcell faces antisemitic abuse because he is Jewish, commission hears",
-      "summary_en": "The royal commission into antisemitism and social cohesion hears how witnesses are subjected to hate speech amplified by misogyny Get our breaking news email , free app or daily news podcast Vile, threatening abuse is being levelled at witnesses to the antisemitism royal commission, the inquiry has heard, while a Labor MP has said attacks on his partner were heightened because they were stacked with misogyny. Meanwhile, data analysis has shown how quickly factual reports are transformed into conspiracy theories online, and that while there was a spike in antisemitism after the Bondi terror attack, there was a “huge spike” in anti-Muslim hate. Continue reading...",
-      "title": "Josh Burns says partner Georgie Purcell faces antisemitic abuse because he is Jewish, commission hears",
-      "summary": "The royal commission into antisemitism and social cohesion hears how witnesses are subjected to hate speech amplified by misogyny Get our breaking news email , free app or daily news podcast Vile, threatening abuse is being levelled at witnesses to the antisemitism royal commission, the inquiry has heard, while a Labor MP has said attacks on his partner were heightened because they were stacked with misogyny. Meanwhile, data analysis has shown how quickly factual reports are transformed into conspiracy theories online, and that while there was a spike in antisemitism after the Bondi terror attack, there was a “huge spike” in anti-Muslim hate. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/30/georgie-purcell-antisemitic-misogynistic-abuse-jewish-partner-commission-ntwnfb",
-      "source": "World news | The Guardian",
-      "published_at": "2026-06-30T13:14:38+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "1bbf23c0b7ff0277",
-      "title_orig": "UK’s Starmer announces 300-billion-pound defence investment plan",
-      "summary_orig": "Plan includes more than 5 billion pounds for drones and autonomous systems over four years, Ministry of Defence says.",
-      "lang": "en",
-      "title_en": "UK’s Starmer announces 300-billion-pound defence investment plan",
-      "summary_en": "Plan includes more than 5 billion pounds for drones and autonomous systems over four years, Ministry of Defence says.",
-      "title": "UK’s Starmer announces 300-billion-pound defence investment plan",
-      "summary": "Plan includes more than 5 billion pounds for drones and autonomous systems over four years, Ministry of Defence says.",
-      "url": "https://www.aljazeera.com/economy/2026/6/30/uks-starmer-announces-300-billion-pound-defence-investment-plan?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-06-30T13:14:04+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "8e461b636b248511",
       "title_orig": "London bus drivers to vote on strike over hot conditions",
       "summary_orig": "It follows a record-breaking heatwave which saw temperatures in the capital climb above 36C",
@@ -1957,24 +1678,6 @@
       "url": "https://www.dawn.com/news/2011878/indias-cockroach-party-seeking-education-ministers-ouster-awaits-cabinet-reshuffle",
       "source": "Dawn - Home",
       "published_at": "2026-06-30T13:11:22+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7862bb38a834ff1b",
-      "title_orig": "Man in his 20s assaulted by 'group of men' in Derby street attack",
-      "summary_orig": "One arrest has been made in connection with the attack",
-      "lang": "en",
-      "title_en": "Man in his 20s assaulted by 'group of men' in Derby street attack",
-      "summary_en": "One arrest has been made in connection with the attack",
-      "title": "Man in his 20s assaulted by 'group of men' in Derby street attack",
-      "summary": "One arrest has been made in connection with the attack",
-      "url": "https://www.derbytelegraph.co.uk/news/derby-news/man-20s-assaulted-group-men-11037937",
-      "source": "Derbyshire Live - frontpage",
-      "published_at": "2026-06-30T12:54:15+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2036,24 +1739,6 @@
       "geo": {}
     },
     {
-      "id": "802cfe78937ee27c",
-      "title_orig": "South Africa deploys police as anti-immigrant protests prompt fears",
-      "summary_orig": "Anti-migrant groups have demanded undocumented foreigners leave the country by Tuesday.",
-      "lang": "en",
-      "title_en": "South Africa deploys police as anti-immigrant protests prompt fears",
-      "summary_en": "Anti-migrant groups have demanded undocumented foreigners leave the country by Tuesday.",
-      "title": "South Africa deploys police as anti-immigrant protests prompt fears",
-      "summary": "Anti-migrant groups have demanded undocumented foreigners leave the country by Tuesday.",
-      "url": "https://www.aljazeera.com/news/2026/6/30/south-africa-deploys-police-as-anti-immigrant-protests-prompt-fears?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-06-30T12:04:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "8bc4895ab5a308a6",
       "title_orig": "The FOI Files: The curious case of the diplomat and the parking fines",
       "summary_orig": "Diplomatic dilemmas abound when you request information about incidents involving embassy staff here (and ours abroad).",
@@ -2067,42 +1752,6 @@
       "published_at": "2026-06-30T12:00:04+00:00",
       "tags": [
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "2fc2312916db506a",
-      "title_orig": "Edinburgh man held in courtyard as woman 'attacked' on New Town street",
-      "summary_orig": "A woman was reportedly assaulted in the New Town.",
-      "lang": "en",
-      "title_en": "Edinburgh man held in courtyard as woman 'attacked' on New Town street",
-      "summary_en": "A woman was reportedly assaulted in the New Town.",
-      "title": "Edinburgh man held in courtyard as woman 'attacked' on New Town street",
-      "summary": "A woman was reportedly assaulted in the New Town.",
-      "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-man-held-courtyard-woman-34210468",
-      "source": "Edinburgh Live - News",
-      "published_at": "2026-06-30T11:37:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "fad0879a4db5484e",
-      "title_orig": "Love Island fans are just realising why bombshell Yasmin looks so familiar",
-      "summary_orig": "Love Island fans say they recognised the ITV star 'the second they saw her'",
-      "lang": "en",
-      "title_en": "Love Island fans are just realising why bombshell Yasmin looks so familiar",
-      "summary_en": "Love Island fans say they recognised the ITV star 'the second they saw her'",
-      "title": "Love Island fans are just realising why bombshell Yasmin looks so familiar",
-      "summary": "Love Island fans say they recognised the ITV star 'the second they saw her'",
-      "url": "https://www.bristolpost.co.uk/news/celebs-tv/love-island-fans-just-realising-11037536",
-      "source": "Bristol Post - News",
-      "published_at": "2026-06-30T11:32:03+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
@@ -2162,24 +1811,6 @@
       "geo": {}
     },
     {
-      "id": "5eb8bab1c1228e65",
-      "title_orig": "Usman Khawaja helps launch national Islamophobia awareness campaign",
-      "summary_orig": "The retired 39-year-old, who was the first Muslim to play international cricket for Australia, says Islamophobia is on the rise, with women most vulnerable to attacks, because \"hate is more prevalent that it has been before\".",
-      "lang": "en",
-      "title_en": "Usman Khawaja helps launch national Islamophobia awareness campaign",
-      "summary_en": "The retired 39-year-old, who was the first Muslim to play international cricket for Australia, says Islamophobia is on the rise, with women most vulnerable to attacks, because \"hate is more prevalent that it has been before\".",
-      "title": "Usman Khawaja helps launch national Islamophobia awareness campaign",
-      "summary": "The retired 39-year-old, who was the first Muslim to play international cricket for Australia, says Islamophobia is on the rise, with women most vulnerable to attacks, because \"hate is more prevalent that it has been before\".",
-      "url": "https://www.abc.net.au/news/2026-06-30/usman-khawaja-helps-national-awareness-campaign-islamophobia/106862024",
-      "source": "Just In",
-      "published_at": "2026-06-30T10:57:51+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "5529c630e2835127",
       "title_orig": "Venezuela rescuers in final push to find survivors as families mourn",
       "summary_orig": "Rescuers from around the world pushed on Tuesday to save any final survivors trapped under mountains of rubble after Venezuela’s massive quakes that killed over 1,700 people , with tens of thousands still unaccounted for. The twin quakes of magnitude 7.2 and 7.5 — the strongest to hit the South American nation in more than a century — likely damaged or destroyed 58,870 buildings, according to a preliminary assessment of satellite data published by Nasa. By the latest official count, some 1,700 are dead and 5,000 are injured, with no governmental word on the number of missing. Other estimates place these in the tens of thousands. At the only public cemetery in the capital Caracas, the two crematory ovens have been working at full capacity. Between Friday and Sunday, 60 to 70 burials were held each day. A cry of “Mom, I love you!” rose above a steady low sobbing and the sound of shovels mixing cement. When workers began to seal the niche of his nephew, Sergio Vergara fell to his knees. He was the one who found him, along with his entire family, in a collapsed building in the hardest-hit state of La Guaira. “It was a horrible experience, pulling him out, his children,” said the 42-year-old man. Five days after the powerful back-to-back quakes flattened entire neighbourhoods, the task of recovering the dead loomed large and hopes of finding survivors faded. Around 50,000 people are still listed as missing, according to the United Nations, which estimates that the disaster generated roughly 1.2 million tonnes of debris in La Guaira state. On Monday, a new 4.6-magnitude tremor rekindled fear among the population. Bodies in warehouse The US military repaired and reopened on Monday the Port of La Guaira, where an AFP correspondent saw a warehouse storing hundreds of unidentified bodies encased in white and black body bags as well as a few coffins. The USS Fort Lauderdale was docked and delivering aid. Dozens of people from the devastated region waited outside the makeshift morgue for news of their relatives as forensic personnel in blue uniforms examined the corpses. US airmen were also helping restore traffic at Simon Bolivar International Airport near Caracas, which was also heavily damaged. The government has militarised La Guaira and imposed a permit requirement to enter the disaster zone. Residents are not hiding their anger over the government’s slow and limited aid in a country mired in a deep crisis that has driven millions to emigrate in recent years. A total of 27 countries have mobilised nearly 40 search and rescue teams . They include more than 2,000 troops and personnel, along with more than 160 dogs, according to Gianluca Rampolla, the United Nations coordinator in Venezuela. She said the United Nations will provide 10,000 body bags, though it hopes the final toll will be lower. ‘My family is there’ The critical 72-hour window during which survivors were still likely to be found, however, closed Saturday at 6:04pm. Still, rescuers on Monday pulled out a 21-year-old man identified as Aaron Levi from under the rubble in the coastal town of Tanaguarena, according to a video shared by a photographer who witnessed the operation. At the Caracas cemetery, many are still waiting for the remains of their loved ones who are presumed dead. “My family is there — I’m told my sister and her children are there, as well as the children of my brother,” Wilker Molalla told AFP as he waited to identify the remains. “There were 11 people in my household; only two of us survived because we were at work,” he said, referring to his brother. The United Nations said that some 7m people in this country would be affected by the disaster, with the quakes knocking a $6.7-billion hole in the economy — or six per cent of Venezuela’s GDP. Opposition leader Maria Corina Machado, who after years in hiding staged a dramatic escape from Venezuela in December to receive the Nobel Peace Prize, accused the government of blocking her return. “I am ready and close to Venezuela and will do whatever it takes for us to meet there,” Machado said in a video on X, after denouncing what she said was the government’s closure of the airspace to prevent her return. The government of interim president Delcy Rodriguez has not commented on the matter, nor has Washington, which is coordinating operations on the ground.",
@@ -2213,24 +1844,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "2ab3f610bd287495",
-      "title_orig": "Quake-hit airport, lost pilots disrupt Venezuela’s revival",
-      "summary_orig": "The airport devastation reflects the wider hit to Venezuela’s infrastructure that was already deteriorated from years of mismanagement and corruption.",
-      "lang": "en",
-      "title_en": "Quake-hit airport, lost pilots disrupt Venezuela’s revival",
-      "summary_en": "The airport devastation reflects the wider hit to Venezuela’s infrastructure that was already deteriorated from years of mismanagement and corruption.",
-      "title": "Quake-hit airport, lost pilots disrupt Venezuela’s revival",
-      "summary": "The airport devastation reflects the wider hit to Venezuela’s infrastructure that was already deteriorated from years of mismanagement and corruption.",
-      "url": "https://www.straitstimes.com/world/quake-hit-airport-lost-pilots-disrupt-venezuelas-revival",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-30T10:25:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -2288,42 +1901,6 @@
       "geo": {}
     },
     {
-      "id": "eda6dedf206f3645",
-      "title_orig": "Edinburgh Airport's free parking drop-off and pick-up option",
-      "summary_orig": "You may not have to pay at all - here are just a few options",
-      "lang": "en",
-      "title_en": "Edinburgh Airport's free parking drop-off and pick-up option",
-      "summary_en": "You may not have to pay at all - here are just a few options",
-      "title": "Edinburgh Airport's free parking drop-off and pick-up option",
-      "summary": "You may not have to pay at all - here are just a few options",
-      "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-airports-free-parking-drop-34208996",
-      "source": "Edinburgh Live - News",
-      "published_at": "2026-06-30T10:00:21+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "7a7aa2feabb675b1",
-      "title_orig": "Two Revolutionary Guards members killed by gunmen in western Iran",
-      "summary_orig": "DUBAI, June 30 - Two members of Iran's Revolutionary Guards were killed and two  wounded in what the Guards described as a \\\"terrorist\\\" shooting in the western province of Kermanshah on Monday evening, state media reported on Tuesday.",
-      "lang": "en",
-      "title_en": "Two Revolutionary Guards members killed by gunmen in western Iran",
-      "summary_en": "DUBAI, June 30 - Two members of Iran's Revolutionary Guards were killed and two  wounded in what the Guards described as a \\\"terrorist\\\" shooting in the western province of Kermanshah on Monday evening, state media reported on Tuesday.",
-      "title": "Two Revolutionary Guards members killed by gunmen in western Iran",
-      "summary": "DUBAI, June 30 - Two members of Iran's Revolutionary Guards were killed and two  wounded in what the Guards described as a \\\"terrorist\\\" shooting in the western province of Kermanshah on Monday evening, state media reported on Tuesday.",
-      "url": "https://www.straitstimes.com/world/middle-east/two-revolutionary-guards-members-killed-by-gunmen-in-western-iran",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-30T09:50:30+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "bc9cd3cc15d90419",
       "title_orig": "France to illuminate Statue of Liberty for US 250th birthday",
       "summary_orig": "France will stage an elaborate light show at the Statue of Liberty to mark the 250th anniversary of the United States, the French consulate said Monday.",
@@ -2337,24 +1914,6 @@
       "published_at": "2026-06-30T09:47:47+00:00",
       "tags": [
         "diplomatic"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "c1cdfe4154214d96",
-      "title_orig": "Romania detonates Russian drone fragments found near Ukraine border",
-      "summary_orig": "BUCHAREST, June 30 - Romania's defence ministry said on Tuesday it safely detonated drone fragments found in the southeastern village of Rachelu, near the border with Ukraine, part of debris linked to a Russian attack on Ukrainian port infrastructure in April.",
-      "lang": "en",
-      "title_en": "Romania detonates Russian drone fragments found near Ukraine border",
-      "summary_en": "BUCHAREST, June 30 - Romania's defence ministry said on Tuesday it safely detonated drone fragments found in the southeastern village of Rachelu, near the border with Ukraine, part of debris linked to a Russian attack on Ukrainian port infrastructure in April.",
-      "title": "Romania detonates Russian drone fragments found near Ukraine border",
-      "summary": "BUCHAREST, June 30 - Romania's defence ministry said on Tuesday it safely detonated drone fragments found in the southeastern village of Rachelu, near the border with Ukraine, part of debris linked to a Russian attack on Ukrainian port infrastructure in April.",
-      "url": "https://www.straitstimes.com/world/europe/romania-detonates-russian-drone-fragments-found-near-ukraine-border",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-30T09:45:38+00:00",
-      "tags": [
-        "airport/security"
       ],
       "type": "local news",
       "geo": {}
@@ -2432,42 +1991,6 @@
       "geo": {}
     },
     {
-      "id": "12d0e2cda2d3349e",
-      "title_orig": "Australian town on high alert after rare saltwater crocodile attack kills dog 660km inland",
-      "summary_orig": "Council CEO Peter Bennett says no saltwater crocodile had ever been spotted around Richmond before",
-      "lang": "en",
-      "title_en": "Australian town on high alert after rare saltwater crocodile attack kills dog 660km inland",
-      "summary_en": "Council CEO Peter Bennett says no saltwater crocodile had ever been spotted around Richmond before",
-      "title": "Australian town on high alert after rare saltwater crocodile attack kills dog 660km inland",
-      "summary": "Council CEO Peter Bennett says no saltwater crocodile had ever been spotted around Richmond before",
-      "url": "https://www.independent.co.uk/news/world/australasia/saltwater-crocodile-dog-pets-warning-b3005578.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-30T08:11:37+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1c084e7061fd8721",
-      "title_orig": "South African cities shutdown amid fears of violent protests as migrant deadline looms",
-      "summary_orig": "Thousands of foreign nationals flee ahead of deadline set by demonstrators for undocumented migrants to leave",
-      "lang": "en",
-      "title_en": "South African cities shutdown amid fears of violent protests as migrant deadline looms",
-      "summary_en": "Thousands of foreign nationals flee ahead of deadline set by demonstrators for undocumented migrants to leave",
-      "title": "South African cities shutdown amid fears of violent protests as migrant deadline looms",
-      "summary": "Thousands of foreign nationals flee ahead of deadline set by demonstrators for undocumented migrants to leave",
-      "url": "https://www.independent.co.uk/news/world/africa/south-africa-migrant-protests-deadline-durban-b3005593.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-30T08:02:42+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "0af71d1ae4c38c7a",
       "title_orig": "Swedish migration minister: 'One day you're a Nazi, the next a left-wing activist'",
       "summary_orig": "Swedish Migration Minister Johan Forssell speaks to The Local's Richard Orange about the personal attacks he's received in his role, and why he thinks immigration will play a significant role in the upcoming election.",
@@ -2486,24 +2009,6 @@
       "geo": {}
     },
     {
-      "id": "28ff46142e4676cf",
-      "title_orig": "Bird nests of fibre-optic cables show war’s impact on Ukraine",
-      "summary_orig": "Fibre-optic cables are used by Ukrainian and Russian troops to guide aerial attack drones.",
-      "lang": "en",
-      "title_en": "Bird nests of fibre-optic cables show war’s impact on Ukraine",
-      "summary_en": "Fibre-optic cables are used by Ukrainian and Russian troops to guide aerial attack drones.",
-      "title": "Bird nests of fibre-optic cables show war’s impact on Ukraine",
-      "summary": "Fibre-optic cables are used by Ukrainian and Russian troops to guide aerial attack drones.",
-      "url": "https://www.straitstimes.com/world/europe/bird-nests-of-fibre-optic-cables-show-wars-impact-on-ukraine",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-30T07:35:11+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2aed93bc19200fa3",
       "title_orig": "Senate opposition leader files privilege motion against Bhara Kahu SHO over 'discourteous' conduct",
       "summary_orig": "Senate Opposition Leader Allama Raja Nasir Abbas on Tuesday filed a privilege motion in the upper house of Parliament against the station house officer (SHO) of Islamabad’s Bhara Kahu police station over his “rude and discourteous” conduct. The privilege motion comes after a delegation of opposition leaders, including Abbas, was stopped by Islamabad police from travelling to Azad Jammu and Kashmir (AJK) on Monday. The delegation, led by National Assembly Opposition Leader Mehmood Khan Achakzai and including former prime minister Shahid Khaqan Abbasi and former senator Mustafa Nawaz Khokhar, had planned to express solidarity with protesters participating in a sit-in in Rawalakot. Khokhar had alleged that Raja Nasir Abbas was also stopped from reaching his residence in Bhara Kahu and was forced to continue on foot after authorities prevented his vehicle from proceeding. In the privilege motion, a copy of which is available with Dawn , Abbas said that Sub-inspector (SI) Naeemul Hassan, the Bhara Kahu SHO, stopped him from travelling to his residence at a checkpoint. He said that the officials, accompanied by a large number of police personnel, “approached my vehicle and, in a rude and discourteous manner, directed that I could not proceed further”. He said that he introduced himself and his purpose for moving onward, adding that his residence was located approximately 2km away from the checkpoint. “Despite this, the SHO neither paid heed to my explanation nor extended the courtesy due to a member of Parliament. Instead, he continued to behave in an insulting and disrespectful manner,” he said. “The conduct of SI Naeemul Hassan and the accompanying police personnel amounts to an obstruction in the discharge of my duties and a gross act of disrespect towards a member of the Senate. Such conduct constitutes a breach of the privileges of the House and its member,” Abbas asserted. The Senate opposition leader has requested that the matter be referred to the Privileges Committee and that legal and disciplinary action be taken against the police official.",
@@ -2515,24 +2020,6 @@
       "url": "https://www.dawn.com/news/2011841/senate-opposition-leader-files-privilege-motion-against-bhara-kahu-sho-over-discourteous-conduct",
       "source": "Dawn - Home",
       "published_at": "2026-06-30T07:27:46+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "6435e852a89a10f0",
-      "title_orig": "Edinburgh Airport and West Lothian to get new bus connections",
-      "summary_orig": "The operator is expanding its Scottish network.",
-      "lang": "en",
-      "title_en": "Edinburgh Airport and West Lothian to get new bus connections",
-      "summary_en": "The operator is expanding its Scottish network.",
-      "title": "Edinburgh Airport and West Lothian to get new bus connections",
-      "summary": "The operator is expanding its Scottish network.",
-      "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-airport-west-lothian-new-34208366",
-      "source": "Edinburgh Live - News",
-      "published_at": "2026-06-30T07:00:18+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2619,24 +2106,6 @@
         "lat": 25.7959,
         "lon": -80.287
       }
-    },
-    {
-      "id": "5b7d3af172217587",
-      "title_orig": "Vandals strike in Cornish seaside town plagued by bad feeling",
-      "summary_orig": "'The cost of repairs will of course impact the taxpayer directly'",
-      "lang": "en",
-      "title_en": "Vandals strike in Cornish seaside town plagued by bad feeling",
-      "summary_en": "'The cost of repairs will of course impact the taxpayer directly'",
-      "title": "Vandals strike in Cornish seaside town plagued by bad feeling",
-      "summary": "'The cost of repairs will of course impact the taxpayer directly'",
-      "url": "https://www.cornwalllive.com/news/cornwall-news/vandals-strike-cornish-seaside-town-11036408",
-      "source": "Cornwall Live - frontpage",
-      "published_at": "2026-06-30T05:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "1d5945e699930326",
@@ -2801,24 +2270,6 @@
       "geo": {}
     },
     {
-      "id": "c2e241a2b5065f45",
-      "title_orig": "TSA finds live smoke grenade in peanut butter jar in traveler's luggage",
-      "summary_orig": "The incident at Indianapolis International Airport was a first for the TSA agents who found two smoke grenades during a checked baggage screening.",
-      "lang": "en",
-      "title_en": "TSA finds live smoke grenade in peanut butter jar in traveler's luggage",
-      "summary_en": "The incident at Indianapolis International Airport was a first for the TSA agents who found two smoke grenades during a checked baggage screening.",
-      "title": "TSA finds live smoke grenade in peanut butter jar in traveler's luggage",
-      "summary": "The incident at Indianapolis International Airport was a first for the TSA agents who found two smoke grenades during a checked baggage screening.",
-      "url": "https://www.kgw.com/article/news/nation-world/tsa-live-smoke-grenade-peanut-butter-jar-luggage/507-33610831-570e-46a8-8207-da782a114861",
-      "source": "KGW RSS Feed: news",
-      "published_at": "2026-06-30T00:58:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "cb476d4b12a98f21",
       "title_orig": "Starmer hails ‘game-changing’ investment as delayed defence plan to be unveiled",
       "summary_orig": "The Dip will focus on ramping up the UK’s use of drones and autonomous weapons.",
@@ -2848,69 +2299,6 @@
       "url": "https://runwaygirlnetwork.com/2026/06/rocket-lab-ceo-committed-to-aero-as-firm-buys-iridium-for-8b/",
       "source": "Runway Girl",
       "published_at": "2026-06-29T22:34:29+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "d29f94ead3bce09c",
-      "title_orig": "Speakers in Security Council Urge Independent Investigation into Reported Strike on Belarusian School Bus, Repeat Calls for Ukraine-Russian Federation Ceasefire",
-      "summary_orig": "Meeting following a reported strike on a bus transporting Belarusian civilians in the Russian Federation, many speakers in the Security Council today called for an independent investigation to establish the facts surrounding this incident as calls for a broader ceasefire echoed yet again in the chamber.",
-      "lang": "en",
-      "title_en": "Speakers in Security Council Urge Independent Investigation into Reported Strike on Belarusian School Bus, Repeat Calls for Ukraine-Russian Federation Ceasefire",
-      "summary_en": "Meeting following a reported strike on a bus transporting Belarusian civilians in the Russian Federation, many speakers in the Security Council today called for an independent investigation to establish the facts surrounding this incident as calls for a broader ceasefire echoed yet again in the chamber.",
-      "title": "Speakers in Security Council Urge Independent Investigation into Reported Strike on Belarusian School Bus, Repeat Calls for Ukraine-Russian Federation Ceasefire",
-      "summary": "Meeting following a reported strike on a bus transporting Belarusian civilians in the Russian Federation, many speakers in the Security Council today called for an independent investigation to establish the facts surrounding this incident as calls for a broader ceasefire echoed yet again in the chamber.",
-      "url": "https://press.un.org/en/2026/sc16402.doc.htm",
-      "source": "UN Meetings Coverage and Press Releases",
-      "published_at": "2026-06-29T22:29:10+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f1f82c7b49b03ed6",
-      "title_orig": "Airline pilot reports hitting drone as plane approaches New York’s JFK airport",
-      "summary_orig": "A JetBlue pilot reported hitting a drone as he approached JFK International Airport to land in New York Monday morning.",
-      "lang": "en",
-      "title_en": "Airline pilot reports hitting drone as plane approaches New York’s JFK airport",
-      "summary_en": "A JetBlue pilot reported hitting a drone as he approached JFK International Airport to land in New York Monday morning.",
-      "title": "Airline pilot reports hitting drone as plane approaches New York’s JFK airport",
-      "summary": "A JetBlue pilot reported hitting a drone as he approached JFK International Airport to land in New York Monday morning.",
-      "url": "https://www.stuff.co.nz/travel/360999790/jetblue-pilot-reports-hitting-drone-plane-approached-jfk",
-      "source": "Stuff - /",
-      "published_at": "2026-06-29T20:20:09+00:00",
-      "tags": [
-        "JFK",
-        "United States",
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {
-        "airport": "John F. Kennedy",
-        "city": "New York",
-        "country": "United States",
-        "iata": "JFK",
-        "lat": 40.6413,
-        "lon": -73.7781
-      }
-    },
-    {
-      "id": "5179dfcc701df897",
-      "title_orig": "Resident doctors vote to accept 6.6% pay uplift to end year of strike action",
-      "summary_orig": "The new package includes standard 2016 resident doctor contract terms for all locally employed medics and an average 6.6% pay uplift by April 2027.",
-      "lang": "en",
-      "title_en": "Resident doctors vote to accept 6.6% pay uplift to end year of strike action",
-      "summary_en": "The new package includes standard 2016 resident doctor contract terms for all locally employed medics and an average 6.6% pay uplift by April 2027.",
-      "title": "Resident doctors vote to accept 6.6% pay uplift to end year of strike action",
-      "summary": "The new package includes standard 2016 resident doctor contract terms for all locally employed medics and an average 6.6% pay uplift by April 2027.",
-      "url": "https://www.standard.co.uk/news/health/government-nhs-british-medical-association-england-b1288070.html",
-      "source": "The Standard News",
-      "published_at": "2026-06-29T19:54:00+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3450,24 +2838,6 @@
       "geo": {}
     },
     {
-      "id": "2eab2f1215783f0c",
-      "title_orig": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil",
-      "summary_orig": "For years, engineers worried about how collapse-prone Venezuela's buildings could be in an earthquake. The big problem, they warned, was the prevalence of tall concrete buildings atop soft soils — the kind that amplify shaking when an earthquake strikes.",
-      "lang": "en",
-      "title_en": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil",
-      "summary_en": "For years, engineers worried about how collapse-prone Venezuela's buildings could be in an earthquake. The big problem, they warned, was the prevalence of tall concrete buildings atop soft soils — the kind that amplify shaking when an earthquake strikes.",
-      "title": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil",
-      "summary": "For years, engineers worried about how collapse-prone Venezuela's buildings could be in an earthquake. The big problem, they warned, was the prevalence of tall concrete buildings atop soft soils — the kind that amplify shaking when an earthquake strikes.",
-      "url": "https://www.latimes.com/california/story/2026-06-27/before-venezuela-earthquakes-engineers-worried-buildings-could-collapse",
-      "source": "World & Nation",
-      "published_at": "2026-06-27T21:02:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "de1d826c2dee2d53",
       "title_orig": "Thompson explores dedicated first and super first class for airlines",
       "summary_orig": "Enjoying a remarkable trajectory in the business class seating segment, Thompson Aero Seating confirms it is “absolutely exploring” how to support airlines as they seek to bring extra-opulent new enclosed first class and multi-person ‘first class-plus’ suite solutions to their widebody aircraft. “Across our portfolio, there are a few customers coming back to us asking... The post Thompson explores dedicated first and super first class for airlines appeared first on Runway Girl .",
@@ -3569,24 +2939,6 @@
       "url": "https://runwaygirlnetwork.com/2026/06/reaktor-to-deliver-ifc-portal-for-alaska-airlines/",
       "source": "Runway Girl",
       "published_at": "2026-06-26T01:00:16+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "68a7d8a63fa32256",
-      "title_orig": "'Race against time': The desperate search for Venezuelan earthquake survivors",
-      "summary_orig": "Caracas' main airport shut down after it was heavily damaged in Wednesday's two devastating earthquakes, delaying the entry of aid crews from the United States and other nations.",
-      "lang": "en",
-      "title_en": "'Race against time': The desperate search for Venezuelan earthquake survivors",
-      "summary_en": "Caracas' main airport shut down after it was heavily damaged in Wednesday's two devastating earthquakes, delaying the entry of aid crews from the United States and other nations.",
-      "title": "'Race against time': The desperate search for Venezuelan earthquake survivors",
-      "summary": "Caracas' main airport shut down after it was heavily damaged in Wednesday's two devastating earthquakes, delaying the entry of aid crews from the United States and other nations.",
-      "url": "https://www.latimes.com/world-nation/story/2026-06-25/race-against-time-desperate-search-for-venezuelan-earthquake-survivors",
-      "source": "World & Nation",
-      "published_at": "2026-06-25T22:59:05+00:00",
       "tags": [
         "airport/security"
       ],
@@ -3709,96 +3061,6 @@
         "lat": 40.4719,
         "lon": -3.5626
       }
-    },
-    {
-      "id": "969100d5376b4d77",
-      "title_orig": "Why an ancient battle feels closer than ever in one war-weary Lebanese town",
-      "summary_orig": "Amid the ruins of intense Israeli airstrikes, Lebanon's battered Shiite community braved a volatile ceasefire to observe its most sacred annual ritual of Ashura.",
-      "lang": "en",
-      "title_en": "Why an ancient battle feels closer than ever in one war-weary Lebanese town",
-      "summary_en": "Amid the ruins of intense Israeli airstrikes, Lebanon's battered Shiite community braved a volatile ceasefire to observe its most sacred annual ritual of Ashura.",
-      "title": "Why an ancient battle feels closer than ever in one war-weary Lebanese town",
-      "summary": "Amid the ruins of intense Israeli airstrikes, Lebanon's battered Shiite community braved a volatile ceasefire to observe its most sacred annual ritual of Ashura.",
-      "url": "https://www.latimes.com/world-nation/story/2026-06-22/why-ancient-battle-feels-closer-than-ever-in-one-war-weary-lebanese-town",
-      "source": "World & Nation",
-      "published_at": "2026-06-22T10:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "bcb16eb94b71baf3",
-      "title_orig": "Guadalajara protesters accuse Hyundai of using World Cup to hide 'dirty supply chain'",
-      "summary_orig": "Communities, climate activists and workers took to the streets in Guadalajara to protest what they describe as 'greenwashing through sports' by Hyundai.",
-      "lang": "en",
-      "title_en": "Guadalajara protesters accuse Hyundai of using World Cup to hide 'dirty supply chain'",
-      "summary_en": "Communities, climate activists and workers took to the streets in Guadalajara to protest what they describe as 'greenwashing through sports' by Hyundai.",
-      "title": "Guadalajara protesters accuse Hyundai of using World Cup to hide 'dirty supply chain'",
-      "summary": "Communities, climate activists and workers took to the streets in Guadalajara to protest what they describe as 'greenwashing through sports' by Hyundai.",
-      "url": "https://www.latimes.com/sports/soccer/story/2026-06-21/guadalajara-protesters-accuse-hyundai-of-hiding-behind-world-cup",
-      "source": "World & Nation",
-      "published_at": "2026-06-21T21:24:54+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "55e281d0cde1cd87",
-      "title_orig": "Who sank 2 Ecuadorean fishing boats? Survivors point to drones as Washington denies involvement",
-      "summary_orig": "Surviving crews say they were bombed, and detained, by U.S. forces. The Pentagon denies any role in the sinking of the vessels.",
-      "lang": "en",
-      "title_en": "Who sank 2 Ecuadorean fishing boats? Survivors point to drones as Washington denies involvement",
-      "summary_en": "Surviving crews say they were bombed, and detained, by U.S. forces. The Pentagon denies any role in the sinking of the vessels.",
-      "title": "Who sank 2 Ecuadorean fishing boats? Survivors point to drones as Washington denies involvement",
-      "summary": "Surviving crews say they were bombed, and detained, by U.S. forces. The Pentagon denies any role in the sinking of the vessels.",
-      "url": "https://www.latimes.com/world-nation/story/2026-06-15/mystery-of-sunken-ecuadorean-fishing-boats-u-s-denies-drone-attacks-taking-crews-prisoner",
-      "source": "World & Nation",
-      "published_at": "2026-06-15T10:00:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "f47178c0b7c361d3",
-      "title_orig": "Fresh strikes, surging inflation signal new phase of Iran war",
-      "summary_orig": "The prospect of a renewed U.S. air campaign cast fresh doubt on the viability of a ceasefire between the United States and Iran that has largely held since April.",
-      "lang": "en",
-      "title_en": "Fresh strikes, surging inflation signal new phase of Iran war",
-      "summary_en": "The prospect of a renewed U.S. air campaign cast fresh doubt on the viability of a ceasefire between the United States and Iran that has largely held since April.",
-      "title": "Fresh strikes, surging inflation signal new phase of Iran war",
-      "summary": "The prospect of a renewed U.S. air campaign cast fresh doubt on the viability of a ceasefire between the United States and Iran that has largely held since April.",
-      "url": "https://www.latimes.com/politics/story/2026-06-10/fresh-strikes-surging-inflation-signal-new-phase-of-iran-war",
-      "source": "World & Nation",
-      "published_at": "2026-06-10T20:08:47+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "0cc61ebef460c392",
-      "title_orig": "World Cup referee, denied entry to U.S. because of suspected ties to terrorists, hailed in return to Somalia",
-      "summary_orig": "Andrew Giuliani, head of the White House Task Force on World Cup 2026, indicated referee Omar Artan was suspected of having ties to a Somali militant group.",
-      "lang": "en",
-      "title_en": "World Cup referee, denied entry to U.S. because of suspected ties to terrorists, hailed in return to Somalia",
-      "summary_en": "Andrew Giuliani, head of the White House Task Force on World Cup 2026, indicated referee Omar Artan was suspected of having ties to a Somali militant group.",
-      "title": "World Cup referee, denied entry to U.S. because of suspected ties to terrorists, hailed in return to Somalia",
-      "summary": "Andrew Giuliani, head of the White House Task Force on World Cup 2026, indicated referee Omar Artan was suspected of having ties to a Somali militant group.",
-      "url": "https://www.latimes.com/sports/story/2026-06-10/no-world-cup-for-somali-referee-omar-artan-suspected-of-terrorist-ties-al-shabab",
-      "source": "World & Nation",
-      "published_at": "2026-06-10T15:29:34+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
     },
     {
       "id": "adb6e2fbd825f12b",
