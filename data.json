@@ -1,18 +1,72 @@
 {
-  "generated_at": "2026-06-30T22:54:59.169794+00:00",
+  "generated_at": "2026-07-01T00:06:59.020819+00:00",
   "items": [
     {
-      "id": "45c325fa9864c775",
-      "title_orig": "Three arrested after news crew attacked while filming a report at Chicago’s planetarium",
-      "summary_orig": "One suspect smashed the CBS News photographer’s camera, and another used a traffic cone to shatter the windshield of the news broadcast van before fleeing",
+      "id": "7f2655e5fe90d4b8",
+      "title_orig": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "summary_orig": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
       "lang": "en",
-      "title_en": "Three arrested after news crew attacked while filming a report at Chicago’s planetarium",
-      "summary_en": "One suspect smashed the CBS News photographer’s camera, and another used a traffic cone to shatter the windshield of the news broadcast van before fleeing",
-      "title": "Three arrested after news crew attacked while filming a report at Chicago’s planetarium",
-      "summary": "One suspect smashed the CBS News photographer’s camera, and another used a traffic cone to shatter the windshield of the news broadcast van before fleeing",
-      "url": "https://www.independent.co.uk/news/world/americas/crime/chicago-planetarium-attack-news-crew-arrest-b3006224.html",
-      "source": "The Independent World",
-      "published_at": "2026-06-30T22:29:01+00:00",
+      "title_en": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "summary_en": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "summary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+      "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published_at": "2026-06-30T23:49:19+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "5629602038389b20",
+      "title_orig": "Top Ukrainian commander says readying for possible new Russian attack from north",
+      "summary_orig": "June 30 - Ukraine's top military commander said in an interview broadcast on Tuesday that his forces were preparing for a possible new Russian attack from the north, but any attempt to advance on Kyiv was unlikely.",
+      "lang": "en",
+      "title_en": "Top Ukrainian commander says readying for possible new Russian attack from north",
+      "summary_en": "June 30 - Ukraine's top military commander said in an interview broadcast on Tuesday that his forces were preparing for a possible new Russian attack from the north, but any attempt to advance on Kyiv was unlikely.",
+      "title": "Top Ukrainian commander says readying for possible new Russian attack from north",
+      "summary": "June 30 - Ukraine's top military commander said in an interview broadcast on Tuesday that his forces were preparing for a possible new Russian attack from the north, but any attempt to advance on Kyiv was unlikely.",
+      "url": "https://www.straitstimes.com/world/europe/top-ukrainian-commander-says-readying-for-possible-new-russian-attack-from-north",
+      "source": "The Straits Times World News",
+      "published_at": "2026-06-30T23:45:30+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "67f19406fb26af6f",
+      "title_orig": "Port of Portland declares PDX new main terminal complete",
+      "summary_orig": "The $2 billion project to overhaul the core of the airport is now complete, according to the port, although some unrelated construction is still happening.",
+      "lang": "en",
+      "title_en": "Port of Portland declares PDX new main terminal complete",
+      "summary_en": "The $2 billion project to overhaul the core of the airport is now complete, according to the port, although some unrelated construction is still happening.",
+      "title": "Port of Portland declares PDX new main terminal complete",
+      "summary": "The $2 billion project to overhaul the core of the airport is now complete, according to the port, although some unrelated construction is still happening.",
+      "url": "https://www.kgw.com/article/news/local/port-portland-declares-pdx-main-terminal-remodel-complete/283-8fcc93ae-2c5c-4a7c-9b48-1d3f6063eada",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-06-30T23:44:26+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "b1c80fc43aa418b6",
+      "title_orig": "Why are ICE agents allowed to hide their faces while the government cracks down on masked protesters?",
+      "summary_orig": "Under dictatorships, armed agents of the government routinely conceal their identities. I never thought America would become such a place. Sadly, under President Donald Trump, it has become not only such a place, but also one where many fear and mistrust our government, writes Sharon McWhorter of Akron in a letter to the editor.",
+      "lang": "en",
+      "title_en": "Why are ICE agents allowed to hide their faces while the government cracks down on masked protesters?",
+      "summary_en": "Under dictatorships, armed agents of the government routinely conceal their identities. I never thought America would become such a place. Sadly, under President Donald Trump, it has become not only such a place, but also one where many fear and mistrust our government, writes Sharon McWhorter of Akron in a letter to the editor.",
+      "title": "Why are ICE agents allowed to hide their faces while the government cracks down on masked protesters?",
+      "summary": "Under dictatorships, armed agents of the government routinely conceal their identities. I never thought America would become such a place. Sadly, under President Donald Trump, it has become not only such a place, but also one where many fear and mistrust our government, writes Sharon McWhorter of Akron in a letter to the editor.",
+      "url": "https://www.cleveland.com/letters/2026/06/masking-ice-agents-mirrors-a-tactic-dictatorships-use-to-hide-accountability.html",
+      "source": "cleveland.com",
+      "published_at": "2026-06-30T23:30:29+00:00",
       "tags": [
         "airport/security"
       ],
@@ -30,11 +84,92 @@
       "summary": "President reacts to ruling to uphold birthright citizenship after justices strike down executive order aimed at ending longstanding principle Supreme court upholds birthright citizenship , allows states to ban trans women from female sports and ends limits on federal campaign spending What to know about birthright citizenship – explained Sign up for the Breaking News US email The supreme court’s decision to reject Trump’s attempt to fire Federal Reserve governor Lisa Cook yesterday is part of a long-running battle over the independence of the central bank. Trump repeatedly attacked former chair Jerome Powell for not lowering interest rates fast enough, calling him a “moron” on social media. Powell’s term ended in May this year, and he was succeeded by Trump nominee Kevin Warsh. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news",
       "source": "World news | The Guardian",
-      "published_at": "2026-06-30T22:27:28+00:00",
+      "published_at": "2026-06-30T23:29:06+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
+      "geo": {}
+    },
+    {
+      "id": "fdb1fa95853a8c90",
+      "title_orig": "Judge strikes down Trump administration overhaul of student loan forgiveness program",
+      "summary_orig": "The overhaul targeted nonprofits and government organizations that support causes at odds with the Trump administration's priorities.",
+      "lang": "en",
+      "title_en": "Judge strikes down Trump administration overhaul of student loan forgiveness program",
+      "summary_en": "The overhaul targeted nonprofits and government organizations that support causes at odds with the Trump administration's priorities.",
+      "title": "Judge strikes down Trump administration overhaul of student loan forgiveness program",
+      "summary": "The overhaul targeted nonprofits and government organizations that support causes at odds with the Trump administration's priorities.",
+      "url": "https://www.kgw.com/article/syndication/associatedpress/judge-strikes-down-trump-administration-overhaul-of-student-loan-forgiveness-program/616-8a285eb0-6064-45e4-b428-d8b605d7cd41",
+      "source": "KGW RSS Feed: news",
+      "published_at": "2026-06-30T23:08:53+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "baa0b4a9ddfb1dd2",
+      "title_orig": "High-speed link hangs on contract rejig",
+      "summary_orig": "The future of the 224.5-billion-baht high-speed rail project linking Don Mueang, Suvarnabhumi and U-Tapao airports now hinges on whether the government approves amendments to its concession agreement, with the State Railway of Thailand (SRT) warning the contract could otherwise be terminated.",
+      "lang": "en",
+      "title_en": "High-speed link hangs on contract rejig",
+      "summary_en": "The future of the 224.5-billion-baht high-speed rail project linking Don Mueang, Suvarnabhumi and U-Tapao airports now hinges on whether the government approves amendments to its concession agreement, with the State Railway of Thailand (SRT) warning the contract could otherwise be terminated.",
+      "title": "High-speed link hangs on contract rejig",
+      "summary": "The future of the 224.5-billion-baht high-speed rail project linking Don Mueang, Suvarnabhumi and U-Tapao airports now hinges on whether the government approves amendments to its concession agreement, with the State Railway of Thailand (SRT) warning the contract could otherwise be terminated.",
+      "url": "https://www.bangkokpost.com/thailand/general/3279167/highspeed-link-hangs-on-contract-rejig",
+      "source": "Bangkokpost.com : Top Stories",
+      "published_at": "2026-06-30T22:52:00+00:00",
+      "tags": [
+        "BKK",
+        "Thailand",
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {
+        "airport": "Suvarnabhumi",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "iata": "BKK",
+        "lat": 13.69,
+        "lon": 100.7501
+      }
+    },
+    {
+      "id": "10f9a44b6a76a1f7",
+      "title_orig": "Govt responds to southern blasts",
+      "summary_orig": "The government is stepping up efforts to address the renewed violence in the southernmost provinces following a series of bomb attacks, with Prime Minister Anutin Charnvirakul scheduled to hold talks with Malaysian leaders on July 9-10 to seek more concrete solutions to the long-running insurgency.",
+      "lang": "en",
+      "title_en": "Govt responds to southern blasts",
+      "summary_en": "The government is stepping up efforts to address the renewed violence in the southernmost provinces following a series of bomb attacks, with Prime Minister Anutin Charnvirakul scheduled to hold talks with Malaysian leaders on July 9-10 to seek more concrete solutions to the long-running insurgency.",
+      "title": "Govt responds to southern blasts",
+      "summary": "The government is stepping up efforts to address the renewed violence in the southernmost provinces following a series of bomb attacks, with Prime Minister Anutin Charnvirakul scheduled to hold talks with Malaysian leaders on July 9-10 to seek more concrete solutions to the long-running insurgency.",
+      "url": "https://www.bangkokpost.com/thailand/general/3279227/govt-responds-to-southern-blasts",
+      "source": "Bangkokpost.com : Top Stories",
+      "published_at": "2026-06-30T22:32:00+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
+      "geo": {}
+    },
+    {
+      "id": "45c325fa9864c775",
+      "title_orig": "Three arrested after news crew attacked while filming a report at Chicago’s planetarium",
+      "summary_orig": "One suspect smashed the CBS News photographer’s camera, and another used a traffic cone to shatter the windshield of the news broadcast van before fleeing",
+      "lang": "en",
+      "title_en": "Three arrested after news crew attacked while filming a report at Chicago’s planetarium",
+      "summary_en": "One suspect smashed the CBS News photographer’s camera, and another used a traffic cone to shatter the windshield of the news broadcast van before fleeing",
+      "title": "Three arrested after news crew attacked while filming a report at Chicago’s planetarium",
+      "summary": "One suspect smashed the CBS News photographer’s camera, and another used a traffic cone to shatter the windshield of the news broadcast van before fleeing",
+      "url": "https://www.independent.co.uk/news/world/americas/crime/chicago-planetarium-attack-news-crew-arrest-b3006224.html",
+      "source": "The Independent World",
+      "published_at": "2026-06-30T22:29:01+00:00",
+      "tags": [
+        "airport/security"
+      ],
+      "type": "local news",
       "geo": {}
     },
     {
@@ -71,24 +206,6 @@
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "4172120e7780f9f1",
-      "title_orig": "Judge strikes down Trump administration overhaul of student loan forgiveness program",
-      "summary_orig": "A federal judge has struck down a Trump administration overhaul to a public service forgiveness program for federal student loans, ruling in favor of advocates who said the program risked becoming a tool for political retribution.",
-      "lang": "en",
-      "title_en": "Judge strikes down Trump administration overhaul of student loan forgiveness program",
-      "summary_en": "A federal judge has struck down a Trump administration overhaul to a public service forgiveness program for federal student loans, ruling in favor of advocates who said the program risked becoming a tool for political retribution.",
-      "title": "Judge strikes down Trump administration overhaul of student loan forgiveness program",
-      "summary": "A federal judge has struck down a Trump administration overhaul to a public service forgiveness program for federal student loans, ruling in favor of advocates who said the program risked becoming a tool for political retribution.",
-      "url": "https://www.seattletimes.com/nation-world/nation/judge-strikes-down-trump-administration-overhaul-of-student-loan-forgiveness-program/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-06-30T22:02:20+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -165,12 +282,12 @@
     },
     {
       "id": "fb1df015d5633f68",
-      "title_orig": "Man sentenced in 2023 death of Jewish demonstrator during Southern California protest",
+      "title_orig": "Man sentenced in death of Jewish demonstrator during Southern California protest",
       "summary_orig": "A Moorpark man has been sentenced after he pleaded guilty in the death of a 69-year-old Jewish demonstrator who suffered a head injury in an alleged altercation during dueling Israel-Hamas war protests in Thousand Oaks. Loay Abdel Fattah Alnaji, a 53-year-old Moorpark College professor, was sentenced to one year in Ventura County Jail and two [...]",
       "lang": "en",
-      "title_en": "Man sentenced in 2023 death of Jewish demonstrator during Southern California protest",
+      "title_en": "Man sentenced in death of Jewish demonstrator during Southern California protest",
       "summary_en": "A Moorpark man has been sentenced after he pleaded guilty in the death of a 69-year-old Jewish demonstrator who suffered a head injury in an alleged altercation during dueling Israel-Hamas war protests in Thousand Oaks. Loay Abdel Fattah Alnaji, a 53-year-old Moorpark College professor, was sentenced to one year in Ventura County Jail and two [...]",
-      "title": "Man sentenced in 2023 death of Jewish demonstrator during Southern California protest",
+      "title": "Man sentenced in death of Jewish demonstrator during Southern California protest",
       "summary": "A Moorpark man has been sentenced after he pleaded guilty in the death of a 69-year-old Jewish demonstrator who suffered a head injury in an alleged altercation during dueling Israel-Hamas war protests in Thousand Oaks. Loay Abdel Fattah Alnaji, a 53-year-old Moorpark College professor, was sentenced to one year in Ventura County Jail and two [...]",
       "url": "https://ktla.com/news/california/man-sentenced-in-2023-death-of-jewish-demonstrator-thousand-oaks/",
       "source": "KTLA",
@@ -434,42 +551,6 @@
       "geo": {}
     },
     {
-      "id": "a3f59ff4b345c501",
-      "title_orig": "Maddy Cusack’s eating habits changed after manager’s comment, girlfriend tells inquest",
-      "summary_orig": "Grace Riglar fights back tears giving evidence Cusack called Sheffield United omission a ‘personal attack’ The girlfriend of the late Sheffield United player Maddy Cusack has told an inquest that Cusack’s former manager Jonathan Morgan called her a “psycho” and that her eating habits changed after he allegedly made a comment referencing her weight. Grace Riglar, who played for Sheffield United for one season alongside Cusack, fought back tears multiple times during an emotional and lengthy evidence session at Chesterfield coroner’s court on Tuesday. At one stage she had to take a break while being cross-examined by lawyers representing Sheffield United. Continue reading...",
-      "lang": "en",
-      "title_en": "Maddy Cusack’s eating habits changed after manager’s comment, girlfriend tells inquest",
-      "summary_en": "Grace Riglar fights back tears giving evidence Cusack called Sheffield United omission a ‘personal attack’ The girlfriend of the late Sheffield United player Maddy Cusack has told an inquest that Cusack’s former manager Jonathan Morgan called her a “psycho” and that her eating habits changed after he allegedly made a comment referencing her weight. Grace Riglar, who played for Sheffield United for one season alongside Cusack, fought back tears multiple times during an emotional and lengthy evidence session at Chesterfield coroner’s court on Tuesday. At one stage she had to take a break while being cross-examined by lawyers representing Sheffield United. Continue reading...",
-      "title": "Maddy Cusack’s eating habits changed after manager’s comment, girlfriend tells inquest",
-      "summary": "Grace Riglar fights back tears giving evidence Cusack called Sheffield United omission a ‘personal attack’ The girlfriend of the late Sheffield United player Maddy Cusack has told an inquest that Cusack’s former manager Jonathan Morgan called her a “psycho” and that her eating habits changed after he allegedly made a comment referencing her weight. Grace Riglar, who played for Sheffield United for one season alongside Cusack, fought back tears multiple times during an emotional and lengthy evidence session at Chesterfield coroner’s court on Tuesday. At one stage she had to take a break while being cross-examined by lawyers representing Sheffield United. Continue reading...",
-      "url": "https://www.theguardian.com/football/2026/jun/30/maddy-cusack-inquest-jonathan-morgan",
-      "source": "World news | The Guardian",
-      "published_at": "2026-06-30T20:18:09+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "ea5a5286e69da6d6",
-      "title_orig": "Rio bus drivers and workers throughout Brazil demand shorter work week as lawmakers examine proposal",
-      "summary_orig": "Hundreds of bus drivers on strike protested in downtown Rio de Janeiro, demanding increased pay, better conditions and an end to the six-day working week.",
-      "lang": "en",
-      "title_en": "Rio bus drivers and workers throughout Brazil demand shorter work week as lawmakers examine proposal",
-      "summary_en": "Hundreds of bus drivers on strike protested in downtown Rio de Janeiro, demanding increased pay, better conditions and an end to the six-day working week.",
-      "title": "Rio bus drivers and workers throughout Brazil demand shorter work week as lawmakers examine proposal",
-      "summary": "Hundreds of bus drivers on strike protested in downtown Rio de Janeiro, demanding increased pay, better conditions and an end to the six-day working week.",
-      "url": "https://www.seattletimes.com/business/rio-bus-drivers-and-workers-throughout-brazil-demand-shorter-work-week-as-lawmakers-examine-proposal/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-      "source": "The Seattle Times The Seattle Times",
-      "published_at": "2026-06-30T20:16:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "a769a085f6f91575",
       "title_orig": "Rain bomb floods Northport, overtops small village dam",
       "summary_orig": "The Leelanau County village is cleaning up after several inches of rain flooded basements, roads and businesses Monday morning.",
@@ -481,24 +562,6 @@
       "url": "https://www.mlive.com/environment/2026/06/rain-bomb-floods-northport-overtops-small-village-dam.html",
       "source": "mlive.com",
       "published_at": "2026-06-30T20:14:44+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "1f9ab2424c7a6b58",
-      "title_orig": "Harmful conspiracy sustained anti-Jewish hate online, commission hears",
-      "summary_orig": "The royal commission has heard new research which found anti-Jewish hate increased online both after October 7, 2023 and the Bondi Beach terror attack in December.",
-      "lang": "en",
-      "title_en": "Harmful conspiracy sustained anti-Jewish hate online, commission hears",
-      "summary_en": "The royal commission has heard new research which found anti-Jewish hate increased online both after October 7, 2023 and the Bondi Beach terror attack in December.",
-      "title": "Harmful conspiracy sustained anti-Jewish hate online, commission hears",
-      "summary": "The royal commission has heard new research which found anti-Jewish hate increased online both after October 7, 2023 and the Bondi Beach terror attack in December.",
-      "url": "https://www.abc.net.au/news/2026-07-01/real-world-violence-strong-driver-of-online-anti-jewish-hate-nsw/106862394",
-      "source": "Just In",
-      "published_at": "2026-06-30T20:06:06+00:00",
       "tags": [
         "airport/security"
       ],
@@ -569,30 +632,12 @@
       "title": "Burnham left with £4.7bn bill for Starmer’s new defence investment plan",
       "summary": "Ally of PM-in-waiting says four-year boost for the armed forces is an ‘unexploded bomb’ Britain has finally grasped the nettle on defence, but tough choices lie ahead Andy Burnham will have to find an extra £4.7bn for defence in his first budget, after Keir Starmer announced a £298bn defence investment plan (Dip) without having fully identified how it will be funded. Sources close to the Makerfield MP said he would not try to renegotiate the Dip after the outgoing prime minister announced its details at a press conference on Tuesday. Continue reading...",
       "url": "https://www.theguardian.com/politics/2026/jun/30/burnham-left-with-47bn-bill-for-starmers-new-defence-investment-plan",
-      "source": "World news | The Guardian",
+      "source": "UK news | The Guardian",
       "published_at": "2026-06-30T19:54:33+00:00",
       "tags": [
         "airport/security"
       ],
       "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "0cbb687cfeaa18a5",
-      "title_orig": "Manhunt in Monaco after parcel bomb injures Ukrainian businessman",
-      "summary_orig": "Police have declined to identify the presumed target of the blast, but several sources say it was Ukrainian-born businessman Vadym Yermolaiev, a permanent resident of Monaco who has acquired Cypriot nationality",
-      "lang": "en",
-      "title_en": "Manhunt in Monaco after parcel bomb injures Ukrainian businessman",
-      "summary_en": "Police have declined to identify the presumed target of the blast, but several sources say it was Ukrainian-born businessman Vadym Yermolaiev, a permanent resident of Monaco who has acquired Cypriot nationality",
-      "title": "Manhunt in Monaco after parcel bomb injures Ukrainian businessman",
-      "summary": "Police have declined to identify the presumed target of the blast, but several sources say it was Ukrainian-born businessman Vadym Yermolaiev, a permanent resident of Monaco who has acquired Cypriot nationality",
-      "url": "https://www.abc.net.au/news/2026-07-01/manhunt-monaco-ukrainian-businessman/106863658",
-      "source": "Just In",
-      "published_at": "2026-06-30T19:53:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
       "geo": {}
     },
     {
@@ -1028,42 +1073,6 @@
       "geo": {}
     },
     {
-      "id": "594beda92f4e5ec4",
-      "title_orig": "Supreme Court strikes down US campaign spending limits in landmark ruling",
-      "summary_orig": "The High Court strikes down campaign spending limits, citing First Amendment protections in a 6-3 decision",
-      "lang": "en",
-      "title_en": "Supreme Court strikes down US campaign spending limits in landmark ruling",
-      "summary_en": "The High Court strikes down campaign spending limits, citing First Amendment protections in a 6-3 decision",
-      "title": "Supreme Court strikes down US campaign spending limits in landmark ruling",
-      "summary": "The High Court strikes down campaign spending limits, citing First Amendment protections in a 6-3 decision",
-      "url": "https://www.aljazeera.com/news/2026/6/30/supreme-court-strikes-down-us-campaign-spending-limits-in-landmark-ruling?traffic_source=rss",
-      "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-      "published_at": "2026-06-30T18:09:05+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "658a925b24a03332",
-      "title_orig": "Mystery military flare found on Waiheke Island, NZDF bomb squad deployed",
-      "summary_orig": "The New Zealand Defence Force were called into Auckland’s Waiheke Island on Tuesday, to dispose of a military grade marine flare, of which its origins remain unknown.",
-      "lang": "en",
-      "title_en": "Mystery military flare found on Waiheke Island, NZDF bomb squad deployed",
-      "summary_en": "The New Zealand Defence Force were called into Auckland’s Waiheke Island on Tuesday, to dispose of a military grade marine flare, of which its origins remain unknown.",
-      "title": "Mystery military flare found on Waiheke Island, NZDF bomb squad deployed",
-      "summary": "The New Zealand Defence Force were called into Auckland’s Waiheke Island on Tuesday, to dispose of a military grade marine flare, of which its origins remain unknown.",
-      "url": "https://www.stuff.co.nz/nz-news/361000213/mystery-military-flare-found-waiheke-island-nzdf-bomb-squad-deployed",
-      "source": "Stuff - /",
-      "published_at": "2026-06-30T18:07:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "b80b47a212ae8292",
       "title_orig": "PPP, JUI-F announce they will jointly contest upcoming AJK elections",
       "summary_orig": "ISLAMABAD: PPP and Jamiat Ulema-i-Islam (JUI-F) on Tuesday decided to jointly contest the forthcoming general elections in Azad Jammu and Kashmir (AJK). Earlier this month, the AJK Election Commission announced that the general elections across the region would be held on July 27. The last elections in the region were held in July 2021. The two political parties announced the decision after PPP Chairman Bilawal Bhutto-Zardari called on JUI-F chief Maulana Fazlur Rehman at his residence in Islamabad and later held a media talk. Speaking to the media, Bilawal formally announced an electoral alliance between the two parties. “The alliance marks a new chapter in political cooperation between the two parties,” he said. He emphasised that the issues of AJK should be resolved through peaceful and democratic means. “Legitimate concerns of the Kashmiri people should be addressed through parliament and the electoral process rather than through unrest on the streets,” the PPP chairman said. Expressing gratitude to the JUI-F chief, Bilawal said he had always had the opportunity to learn from the Fazl’s experience, praising his constructive role during difficult times. The PPP chairman said that if the JUI-F chief, while sitting in the opposition, was willing to play a positive role for the country, then the government and treasury benches were also ready to engage him in dialogue. Bilawal said the election schedule for AJK had already been announced and stressed that the polls must be “peaceful, transparent and free” of any controversy so that the problems faced by the people of Kashmir could be effectively addressed. He said that instead of long marches, strikes and protests, political issues should be raised and resolved through democratic institutions. Bilawal expressed his desire to see the PPP and JUI-F form coalition governments in Balochistan, Sindh and AJK in the future. “I request the JUI-F chief to consult with his party so that both parties can work together wherever an alliance is possible,” the PPP chairman said. The Bhutto scion added that resolving the ongoing crisis in AJK required a joint effort by the federal government, the AJK government, and all political parties. Addressing protesters in AJK, Bilawal urged them to remain peaceful and refrain from taking the law into their own hands, emphasising that lasting solutions lie in parliament and the democratic electoral process, not on the streets. Meanwhile, the JUI-F leader welcomed Bilawal’s invitation to join the alliance for the AJK polls. “The visit of Bilawal (to his residence) is a good development,” he said. Responding to a question on whether they were in favour of refugee seats in the AJK Assembly, Fazl said the issue could be settled through dialogue. “Guns and batons are not the solution to any problem, but dialogue,” he added. On Sunday, the PPP announced candidates for 35 of the 45 seats of the AJK Assembly, while withholding decisions on eight constituencies and allocating two seats to its electoral ally — the JUI-F.",
@@ -1363,24 +1372,6 @@
       "url": "https://www.hindustantimes.com/india-news/pm-modi-speaks-with-iran-president-pezeshkian-india-backs-lasting-peace-in-west-asia-101782835791463.html",
       "source": "India News: Latest India News, Today's breaking News Headlines & Real-time News coverage from India | Hindustan Times",
       "published_at": "2026-06-30T16:12:35+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "61e1d5645c00f750",
-      "title_orig": "Food delivery man punched outside Burger King as CCTV image released",
-      "summary_orig": "Police have released a CCTV image of a man they believe could have information following the attack in Liverpool city centre",
-      "lang": "en",
-      "title_en": "Food delivery man punched outside Burger King as CCTV image released",
-      "summary_en": "Police have released a CCTV image of a man they believe could have information following the attack in Liverpool city centre",
-      "title": "Food delivery man punched outside Burger King as CCTV image released",
-      "summary": "Police have released a CCTV image of a man they believe could have information following the attack in Liverpool city centre",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/food-delivery-man-punched-outside-34213024",
-      "source": "Liverpool Echo - News",
-      "published_at": "2026-06-30T16:10:26+00:00",
       "tags": [
         "airport/security"
       ],
@@ -2369,24 +2360,6 @@
       "geo": {}
     },
     {
-      "id": "2ab3f610bd287495",
-      "title_orig": "Quake-hit airport, lost pilots disrupt Venezuela’s revival",
-      "summary_orig": "The airport devastation reflects the wider hit to Venezuela’s infrastructure that was already deteriorated from years of mismanagement and corruption.",
-      "lang": "en",
-      "title_en": "Quake-hit airport, lost pilots disrupt Venezuela’s revival",
-      "summary_en": "The airport devastation reflects the wider hit to Venezuela’s infrastructure that was already deteriorated from years of mismanagement and corruption.",
-      "title": "Quake-hit airport, lost pilots disrupt Venezuela’s revival",
-      "summary": "The airport devastation reflects the wider hit to Venezuela’s infrastructure that was already deteriorated from years of mismanagement and corruption.",
-      "url": "https://www.straitstimes.com/world/quake-hit-airport-lost-pilots-disrupt-venezuelas-revival",
-      "source": "The Straits Times World News",
-      "published_at": "2026-06-30T10:25:00+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "3e9d942538d52e8d",
       "title_orig": "Manhunt for DLR sex attacker after woman assaulted on train",
       "summary_orig": "Officers investigating a sexual assault on a DLR train have released an image of a man they would like to speak to",
@@ -2666,24 +2639,6 @@
       "geo": {}
     },
     {
-      "id": "cb476d4b12a98f21",
-      "title_orig": "Starmer hails ‘game-changing’ investment as delayed defence plan to be unveiled",
-      "summary_orig": "The Dip will focus on ramping up the UK’s use of drones and autonomous weapons.",
-      "lang": "en",
-      "title_en": "Starmer hails ‘game-changing’ investment as delayed defence plan to be unveiled",
-      "summary_en": "The Dip will focus on ramping up the UK’s use of drones and autonomous weapons.",
-      "title": "Starmer hails ‘game-changing’ investment as delayed defence plan to be unveiled",
-      "summary": "The Dip will focus on ramping up the UK’s use of drones and autonomous weapons.",
-      "url": "https://www.standard.co.uk/news/politics/keir-starmer-ukraine-john-healey-iran-mod-b1288093.html",
-      "source": "The Standard News",
-      "published_at": "2026-06-29T23:53:24+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "local news",
-      "geo": {}
-    },
-    {
       "id": "2dd2a0265bb9ad56",
       "title_orig": "Rocket Lab CEO vows commitment to aero as firm buys Iridium",
       "summary_orig": "Aerospace manufacturer and launch service provider Rocket Lab has inked a definitive agreement to acquire Iridium Communications for roughly $8 billion. With this historic deal, Rocket Lab becomes an end-to-end space powerhouse that can build, launch and operate its own spacecraft, joining a rarefied group that includes vertically integrated SpaceX. Expected to close in mid-2027,... The post Rocket Lab CEO vows commitment to aero as firm buys Iridium appeared first on Runway Girl .",
@@ -2774,24 +2729,6 @@
       "geo": {}
     },
     {
-      "id": "f1b4ea5973bc5a96",
-      "title_orig": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "summary_orig": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-      "lang": "en",
-      "title_en": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "summary_en": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "summary": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-      "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-29T17:28:59+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
       "id": "f05900e74e3c46b7",
       "title_orig": "Pakistan airstrikes leave homes in ruins in Afghanistan",
       "summary_orig": "Villagers inspect destroyed homes in Afghanistan's Paktia province after overnight airstrikes, as Afghan and Pakistani officials give differing accounts.",
@@ -2843,42 +2780,6 @@
         "airport/security"
       ],
       "type": "local news",
-      "geo": {}
-    },
-    {
-      "id": "8226661319a3c64d",
-      "title_orig": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-      "summary_orig": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
-      "lang": "en",
-      "title_en": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-      "summary_en": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
-      "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-      "summary": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-29T15:46:50+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
-      "geo": {}
-    },
-    {
-      "id": "639f69773e8255f7",
-      "title_orig": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
-      "summary_orig": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
-      "lang": "en",
-      "title_en": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
-      "summary_en": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
-      "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
-      "summary": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
-      "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published_at": "2026-06-29T14:40:58+00:00",
-      "tags": [
-        "airport/security"
-      ],
-      "type": "major news",
       "geo": {}
     },
     {
